@@ -4,6 +4,12 @@ This repository is a research vault for a book about the structure of inner life
 
 Two obligations govern all work here. First: the book states one law about itself — "the book performs what it describes" (recorded with its anchors at [[the book performs what it describes]]) — and the vault inherits it: claims are atomic, tensions are tracked rather than resolved, every claim names its sources. Second: the vault is measured by what reaches the manuscript. The corpus's own rule, quoted in [[ripeness is not refrigeration]]: "the archive preserves; the orchard ripens." Growth that displaces writing is the failure mode to watch for.
 
+## Reference
+
+The referent for the book's material is the **named unit** — one of the book's main topic-ideas considered as a piece of the manuscript, called by its name: the House with No Ceiling, the Molecules of Experience, the Third Entity, the Stance, the Psychedelic Moment. Names are stable across every table of contents the corpus contains; numbers are not, and in one scheme a unit is a page rather than a chapter. Vault prose therefore names the unit and never refers to the book's content by chapter number. Numbers survive only inside source anchors (`abridged ch6`), where they are coordinates in one document rather than the name of an idea, and note titles never lead with a number or a count where a name would serve.
+
+The reason is a bias to avoid rather than a style preference: numbered reference asserts a settled chapter progression, and no such progression exists yet. The arc — the multi-step shape of the psychedelic experience — is the author's live commitment; the chapter scheme fitted to it is not settled, and the sources propose different orderings. Sequence claims remain fully available and are stated as orderings of named units. The full directive is `ops/methodology/reference by name.md`; the per-unit comparison across the corpus's several tables of contents is `ops/chapter concordance.md`, keyed by name.
+
 ## Voice
 
 Two standing author directives govern all prose and naming. Both are recorded in full in `ops/methodology/`.

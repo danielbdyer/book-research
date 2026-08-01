@@ -61,6 +61,13 @@ vocabulary:
   topic_map: "topic map"
   hub: "index"
 
+  # Level 4a: the referent for the book's material. A named unit is one of the
+  # book's main topic-ideas considered as a piece of the manuscript, called by
+  # its name. Names are stable across the corpus's several tables of contents;
+  # chapter numbers are not, and are citation locators only. See
+  # ops/methodology/reference by name.md.
+  manuscript_unit: "named unit"
+
   # Level 5: process verbs (plain; commands keep canonical names)
   reduce: "reduce"
   reflect: "reflect"

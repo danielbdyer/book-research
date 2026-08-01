@@ -12,6 +12,7 @@ This folder records what the system knows about its own operation. The /rethink 
 - `ops/derivation.md` — why each configuration choice was made, and the four author directives issued during setup.
 - [[vocabulary policy]] — the standing directive on naming: denotative reference surface; narrative vocabulary as graph content.
 - [[prose register]] — the standing directive on prose: expository, evidential, complete sentences, self-explanatory system references.
+- [[reference by name]] — the standing directive on reference: the named unit is the referent for the book's material, and chapter numbers are citation locators only, because numbered reference asserts a chapter progression that is not settled.
 - [[craft evidence]] — the standing directive on the craft category: record the mechanism observable in executed prose, never the manuscript's verdict on itself, and quote the author's recorded authorship conditions rather than restating them.
 - [[source standing]] — the standing directive on sources: descriptive documents and manuscript drafts are read differently, a draft's arguments for itself carry no evidential weight, and agreement between a document and its own upstream input is not corroboration.
 
