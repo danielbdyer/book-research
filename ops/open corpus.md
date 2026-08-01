@@ -108,6 +108,14 @@ The state column distinguishes three conditions. **Written** means prose exists.
 
 **One shape disagreement stands behind the whole comparison.** The earliest contents stage no peak, holding transcendence as a standing theme, where the arc concentrates it into a break with a descent after. That is recorded at [[the earlier contents distribute transcendence where the arc concentrates a peak]] and is the one structural question the scaffolding cannot hold open indefinitely, because the two shapes are alternatives rather than layers.
 
+## How the exploration states were established
+
+The evidence behind each state is a two-pass check, recorded here so the inventory is auditable rather than impressionistic.
+
+The first pass is lexical, over the extracted text of all seven sources, with word-boundary matching. Substring matching was tried first and had to be discarded: it reported "habit" appearing across the whole corpus by matching *inhabit*, and "ritual" by matching *spiritual*, which would have credited two open territories with material that does not exist. Every count behind a state above is word-boundary matched and every ambiguous sense was read in context — "decouple", for one, refers to the three loops releasing at the peak everywhere in the corpus except the one contents entry that means a partnership ending.
+
+The second pass is semantic, against a qmd index covering the seven sources and the vault together. Its purpose is to catch what lexical search structurally cannot: a territory discussed in different words. It was run against the states with the weakest lexical evidence, on the principle that a false "open" is the costly error. The day-scale gesture and the externalized-system gesture returned only incidental matches — the primitives material on a shared phrase, the back-matter roster on a shared word — so both verdicts stand, established independently twice.
+
 ## How to use this file
 
 An entry becomes work by being written into `ops/queue/extractions.md` as a task with a source location, then run through /reduce under the admission standard. A gesture that turns out to change how the project thinks becomes a claim; one that does not gets an entry in `ops/queue/declines.md` with the reason. A gesture is never placed. The exploration state above is updated as entries move.
