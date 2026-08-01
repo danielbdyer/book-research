@@ -19,6 +19,14 @@ The book stacks three further levels on this anatomy: twelve verb-primitives as 
 - [[the twelve primitives are verbs because a self in verbs is mid-sentence]] — the operations level and its grammatical design commitment
 - [[distress is a question about machinery not a verdict about character]] — the engine level's diagnostic move, which routes distress to the loop that is misfiring
 - [[the prose drafts use the vetoed triad names]] — the reading instruction for the two prose drafts, which name the same three structures Knife, Thread, and Vessel throughout
+### Nascent stubs
+
+Open territory bearing on this anatomy that no document develops; each records what the corpus supplies and what would close it.
+
+- [[nostalgia carries continuity across a threshold]] — nascent; an affective account of the persistence corner
+- [[an externalized system can be built to hold a self rather than only its information]] — nascent; the anatomy's hardest untried medium
+- [[a ritual can be designed to hold a self in place]] — nascent; whether an anchor is a container like any other
+- [[seasonal and weekly form can be templated]] — nascent; the form the metabolic arc does not supply
 
 ## Adjacent maps
 

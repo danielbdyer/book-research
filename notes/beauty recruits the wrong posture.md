@@ -26,6 +26,8 @@ Relevant Notes:
 - [[forward hunger defeats the pause]] — the adjacent tension: the book's momentum also works against practice
 - [[the abridged edition compresses the opening poem rather than reproducing it]] — the one worked instance of this note's treatment in the sources, applied to the book's most ornamented single element
 
+- [[curating beauty is a practice rather than only a hazard]] — nascent; the positive register this tension currently excludes
+
 Topics:
 - [[tensions]]
 - [[book-structure]]

@@ -24,5 +24,7 @@ Relevant Notes:
 - [[the diagnosis contains the cure]] — the same de-moralizing move at the chemistry level
 - [[nothing enters the lattice the body has not countersigned]] — the referee the book seats when teachers disagree
 
+- [[a schedule can be aligned to the nervous system rather than to the clock]] — nascent; the step from diagnosing a loop to arranging a week
+
 Topics:
 - [[container-anatomy]]

@@ -24,7 +24,25 @@ Each entry below is enumerated as an evaluation task in `ops/queue/candidates.md
 
 ## The inward frontier
 
-This map's queue is outward-facing: it holds thinkers and concepts from outside the project. There is a second kind of open work, and it is not in this queue. The corpus's own outlines — the atlas's thirteen sections and the mythic operating system edition's twenty-eight named units — enumerate territory the project has already gestured at and never developed. Twelve of the twenty-eight units are open in the sense of having a name and nothing else, and the atlas holds the head of nearly every section with the body of almost none. That inventory is `ops/open corpus.md`, which reads both outlines as a coverage map rather than as proposed structure. Its entries become work the same way these do, through `ops/queue/extractions.md` and /reduce, under the same admission standard.
+This map's queue is outward-facing: it holds thinkers and concepts from outside the project. There is a second kind of open work, and it is not in this queue. The corpus's own outlines — the atlas's thirteen sections and the mythic operating system edition's twenty-eight named units — enumerate territory the project has already gestured at and never developed. Thirteen of the twenty-eight units are open in the sense of having a name and nothing else, and the atlas holds the head of nearly every section with the body of almost none. That inventory is `ops/open corpus.md`, which reads both outlines as a coverage map rather than as proposed structure. Its entries become work the same way these do, through `ops/queue/extractions.md` and /reduce, under the same admission standard.
+
+## The inward frontier's stubs
+
+Each open gesture from `ops/open corpus.md` has a nascent stub here, so the territory is reachable from the graph. A stub states the proposition the gesture asserts, records what the corpus actually supplies against it, and names what would close it. The state is `nascent` throughout: these are not claims the vault holds.
+
+- [[metaphor is a faculty that weaves a self rather than a device that decorates one]] — metaphor as the reader's faculty, where the corpus treats only the book's own figures
+- [[nostalgia carries continuity across a threshold]] — an affective face for the persistence corner, which currently has none
+- [[an externalized system can be built to hold a self rather than only its information]] — the container anatomy's hardest untried medium
+- [[a habit becomes a ritual when it is designed rather than accumulated]] — repetition itself, absent from all four descriptive sources
+- [[a kept tension can be mapped rather than only held]] — the reader-facing move corresponding to what the author does with a kept tension
+- [[a partnership can be deliberately entered and deliberately left]] — a chosen ending, which the chemistry has components for and no molecule
+- [[the morning is where a day acquires its coherence]] — the scale of the day, missing between the moment and the season
+- [[a schedule can be aligned to the nervous system rather than to the clock]] — the step from diagnosing a loop to arranging a week
+- [[the sacred in the ordinary is produced by sensory design]] — arrangement as the cause of noticing rather than its object
+- [[a ritual can be designed to hold a self in place]] — steadiness built, against the Stance's steadiness returned to
+- [[a person lives inside symbolic infrastructures they have built]] — the best-evidenced of the thirteen; the corpus has already read one
+- [[seasonal and weekly form can be templated]] — the artefact missing between the metabolic arc and a calendar
+- [[curating beauty is a practice rather than only a hazard]] — the positive register the vault's account of beauty lacks
 
 ## Adjacent maps
 

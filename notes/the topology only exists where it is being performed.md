@@ -23,6 +23,8 @@ Relevant Notes:
 - [[the book performs what it describes]] — the law that locates the book's value in performance
 - [[ripeness is not refrigeration]] — the output rule that keeps mapping subordinate to making
 
+- [[a person lives inside symbolic infrastructures they have built]] — nascent; a readable system that would test this limit
+
 Topics:
 - [[recognition]]
 - [[open-questions]]

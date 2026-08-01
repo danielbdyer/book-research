@@ -37,6 +37,10 @@ All vault prose is expository and evidential: complete sentences with named subj
 - [[the topology only exists where it is being performed]] — the source of the scope rule
 - [[the atlas was compiled from the arc and gloss treatment]] — the source of the standing rule, and the reason agreement among three of the seven documents counts once
 
+## Nascent stubs
+
+A claim may be recorded before it is substantiated, carrying `state: nascent`, when the corpus names a territory it never develops. The stub states the proposition the source's gesture asserts, records what the corpus actually supplies against it, and names what would close it; the state field carries the signal that the vault does not yet hold the proposition. Thirteen such stubs exist, one per open gesture in `ops/open corpus.md`, and they are listed in [[research-frontier]]. They are the one admitted exception to the rule that material becomes a note only once it would change how the project thinks — admitted because a territory recorded only in an operational table is not reachable from the graph and will not be found again.
+
 ## The transfer surface
 
 `ops/chapter concordance.md` records what each source supplies for each unit of the fifteen-chapter arc, the executed extent, and which document is the reference text for which element. It is the working surface for bringing a chapter to a finish, and it carries the revision relations — carried unchanged into, revised into, compressed into, dropped at, added at — that the atlas's notation set does not provide. `ops/rethink-log.md` records the reasoning for that notation and for the craft category.

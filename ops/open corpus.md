@@ -6,6 +6,8 @@ This file treats the corpus's two outlines — the atlas's section structure and
 
 **What it is for.** The vault's outward frontier is [[research-frontier]], which holds thinkers and concepts from outside the project awaiting evaluation. This file holds the inward frontier: material the project itself has already gestured at and not developed. The two are different kinds of open work, and the second was invisible until the outlines were read as a coverage map rather than as a plan. Entries feed /reduce and the extraction queue. They never feed placement, which remains the author's.
 
+**Every open gesture now has a stub.** A table row is not reachable by /reflect and is not traversable from the graph, which made this file a leaf that nothing would consume. Each of the thirteen open gestures therefore has a nascent claim note in `notes/`, listed in [[research-frontier]] and linked from the rows below. The stub carries the analysis; this file carries the inventory and the exploration state.
+
 ---
 
 ## The atlas outline as a coverage map
@@ -43,19 +45,19 @@ The state column distinguishes three conditions. **Written** means prose exists.
 | Gesture | State | Note |
 |---|---|---|
 | The Braid, the Thread, and the Loom: identity as living mythos | written | The whole solo chapter; four of its pages later become units of the arc |
-| Symbolic Resonance: metaphor, memory, and self-weaving | open | The only place the project treats metaphor as a faculty rather than as an image system |
-| Sacred Nostalgia and the House with No Walls: continuity in liminality | open | The house image appears here under a different name; nostalgia as a continuity mechanism appears nowhere else |
-| Designing the Inner System: soul-aligned second brains | open | The project's only gesture at an externalized personal system |
+| Symbolic Resonance: metaphor, memory, and self-weaving <br>→ [[metaphor is a faculty that weaves a self rather than a device that decorates one]] | open | The only place the project treats metaphor as a faculty rather than as an image system |
+| Sacred Nostalgia and the House with No Walls: continuity in liminality <br>→ [[nostalgia carries continuity across a threshold]] | open | The house image appears here under a different name; nostalgia as a continuity mechanism appears nowhere else |
+| Designing the Inner System: soul-aligned second brains <br>→ [[an externalized system can be built to hold a self rather than only its information]] | open | The project's only gesture at an externalized personal system |
 
 ### Fractal integrity
 
 | Gesture | State | Note |
 |---|---|---|
 | Radical Self-Attunement: micro-truths and alignment | carried | Adjacent to the felt-shift standard |
-| Habit as Ritual: micro-practices for sacred daily design | open | Habit as a unit of design appears nowhere in the arc |
+| Habit as Ritual: micro-practices for sacred daily design <br>→ [[a habit becomes a ritual when it is designed rather than accumulated]] | open | Habit as a unit of design appears nowhere in the arc |
 | Ontologies of Authenticity: from performance to coherence | carried | Adjacent to the identity loop |
 | Firing on All Cylinders: mapping the ecosystem of self | carried | Becomes the Three Loops |
-| Paradox Mapping: embracing tension without collapse | open | The corpus keeps tensions; it has no method for mapping them, and this names one |
+| Paradox Mapping: embracing tension without collapse <br>→ [[a kept tension can be mapped rather than only held]] | open | The corpus keeps tensions; it has no method for mapping them, and this names one |
 
 ### The alchemical relational field
 
@@ -65,16 +67,16 @@ The state column distinguishes three conditions. **Written** means prose exists.
 | Witnessing as Lifeblood: relational presence as sacred practice | carried | Becomes the Third Entity |
 | Erotic-Spiritual Intelligence: sacred sexuality and embodied communion | carried | Keeps its name; the subtitle's explicit register does not survive |
 | Communication as Ritual: language, subtlety, timing | carried | Adjacent to the speech ladder |
-| Conscious Coupling and Decoupling: evolutionary partnerships | open | Relation as something deliberately entered and left; the arc treats the field as a standing condition |
+| Conscious Coupling and Decoupling: evolutionary partnerships <br>→ [[a partnership can be deliberately entered and deliberately left]] | open | Relation as something deliberately entered and left; the arc treats the field as a standing condition |
 
 ### The architecture of a sacred day
 
 | Gesture | State | Note |
 |---|---|---|
-| Temporal Coherence: morning as mythic entry | open | A whole part on the design of lived time, absent from the arc entirely |
-| Designing Rhythmic Flow: nervous-system-aligned scheduling | open | The only gesture joining the temporal loop to a calendar |
-| Micro-Rituals and Sensory UX: sacred in the ordinary | open | Adjacent to [[the tuesday is the temple]], which states the doctrine without the practice |
-| Sovereignty Anchors: ritual design for inner holding | open | Ritual as a container-making technology, unexplored |
+| Temporal Coherence: morning as mythic entry <br>→ [[the morning is where a day acquires its coherence]] | open | A whole part on the design of lived time, absent from the arc entirely |
+| Designing Rhythmic Flow: nervous-system-aligned scheduling <br>→ [[a schedule can be aligned to the nervous system rather than to the clock]] | open | The only gesture joining the temporal loop to a calendar |
+| Micro-Rituals and Sensory UX: sacred in the ordinary <br>→ [[the sacred in the ordinary is produced by sensory design]] | open | Adjacent to [[the tuesday is the temple]], which states the doctrine without the practice |
+| Sovereignty Anchors: ritual design for inner holding <br>→ [[a ritual can be designed to hold a self in place]] | open | Ritual as a container-making technology, unexplored |
 
 ### Transcendence without bypass
 
@@ -83,7 +85,7 @@ The state column distinguishes three conditions. **Written** means prose exists.
 | Mysticism in the Mundane: practicing awe | carried | Adjacent to [[the tuesday is the temple]] |
 | When Systems Break: sacred collapse and the rebirth of meaning | carried | Adjacent to the crisis material |
 | Divine Indwelling: living from immanence | carried | Adjacent to the recognition doctrine |
-| Symbolic Infrastructures: dreams, playlists, sacred code | open | The project's only gesture at symbolic systems a person builds and lives inside |
+| Symbolic Infrastructures: dreams, playlists, sacred code <br>→ [[a person lives inside symbolic infrastructures they have built]] | open | The project's only gesture at symbolic systems a person builds and lives inside |
 | Philosophy as Praxis: embodied wisdom traditions | carried | Adjacent to the reference lineage |
 
 ### The praxis companion
@@ -92,15 +94,15 @@ The state column distinguishes three conditions. **Written** means prose exists.
 |---|---|---|
 | The Self-Coaching System: fractal reflection templates | carried | Adjacent to the Engineer's Eye |
 | Relational Discernment: frameworks for integrity in love | carried | Adjacent to the relational field |
-| Ritual Templates: seasons, sabbaths, sacred bookends | open | Seasonal and weekly form, unexplored |
-| Aesthetic Intelligence: curating beauty as spiritual practice | open | Beauty as a practice; the arc holds beauty only as a risk, at [[beauty recruits the wrong posture]] |
+| Ritual Templates: seasons, sabbaths, sacred bookends <br>→ [[seasonal and weekly form can be templated]] | open | Seasonal and weekly form, unexplored |
+| Aesthetic Intelligence: curating beauty as spiritual practice <br>→ [[curating beauty is a practice rather than only a hazard]] | open | Beauty as a practice; the arc holds beauty only as a risk, at [[beauty recruits the wrong posture]] |
 | Inner/Outer Systems Audit: aligning being with becoming | carried | Becomes the Engineer's Eye |
 
 ---
 
 ## What the two outlines say together
 
-**Twelve of the twenty-eight gestures are open.** Grouped, they are four concerns the project has named and never worked: the design of lived time, at four gestures and a whole part; externalized and symbolic systems a person builds, at three; ritual as a form, at two; and metaphor, habit, paradox-mapping, and aesthetic practice, at one each. The four are recorded as a claim at [[the mythic operating system contents hold four territories the arc drops]], which states the divergence; this file states the scope.
+**Thirteen of the twenty-eight gestures are open.** Grouped, they are four concerns the project has named and never worked: the design of lived time, at four gestures and a whole part; externalized and symbolic systems a person builds, at three; ritual as a form, at two; and metaphor, nostalgia, habit, paradox-mapping, and aesthetic practice, at one each. The four are recorded as a claim at [[the mythic operating system contents hold four territories the arc drops]], which states the divergence; this file states the scope.
 
 **The two outlines are open in different directions.** The atlas is open in its bodies — the sections are the right sections and their contents are unextracted lists. The earliest contents are open in their names — the territories were named once and never entered. Extraction work on the atlas deepens what the project holds; work on these gestures widens it. Neither is more urgent, and the vault's output rule means both are subordinate to what reaches the manuscript.
 

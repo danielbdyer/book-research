@@ -23,5 +23,9 @@ Relevant Notes:
 - [[weil is seated as the opponent the plumbing deserves]] — the tension that keeps this axiom honest
 - [[psychedelic names a movement not a substance]] — the movement the axiom locates in ordinary life
 
+- [[the morning is where a day acquires its coherence]] — nascent; the scale of the day, which this doctrine commits to and never treats
+- [[the sacred in the ordinary is produced by sensory design]] — nascent; whether the ordinary is noticed or arranged
+- [[seasonal and weekly form can be templated]] — nascent; the reusable form this doctrine would need to be practised
+
 Topics:
 - [[recognition]]

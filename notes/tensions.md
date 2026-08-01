@@ -39,6 +39,10 @@ The three manuscript drafts admitted 2026-08-01 carry strains that the four desc
 
 The corpus preserves, rather than adjudicates, the disagreements among its contemporary teachers. The disagreements on record: where suffering lives (atlas §XI.2a lists eight positions: the five theories seated among the coaches plus the corpus's expansions); interiority versus structure; surrender versus will; declaration versus disclosure (the one treated member of this group — see [[the middle voice settles declaration against disclosure]], atlas §XI.2d); and which of the four traditional means of recognition is primary. Three standing guards watch for counterfeit transcendence: Nāgārjuna's warning that emptiness wrongly grasped harms the grasper, Lacan's warning about what recognition gets used for, and Rieff's warning that books like this become commodities of the culture they critique. No claim notes exist for these disagreements yet; under the admission standard in [[methods]], one is written when a disagreement changes how the project thinks.
 
+## The method this map does not supply
+
+- [[a kept tension can be mapped rather than only held]] — nascent. Every treatment recorded above is an authorial move made in the writing; none is a move the reader can make. The gesture naming a reader-facing procedure is an open territory, inventoried in `ops/open corpus.md`.
+
 ## Adjacent maps
 
 This map borders [[book-structure]], because the book's six revision passes exist as treatments for these tensions. It borders [[methods]], which records the rule that the vault never resolves a tension itself.

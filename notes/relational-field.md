@@ -20,6 +20,11 @@ The atlas records the structural problem under its own heading at §VIII — "th
 - [[a hiding that never intends to be found has stopped being play]] — Winnicott's hide-and-seek finding, which the corpus pairs with the play doctrine
 - [[the reader's resistance has nowhere to land]] — the tension that borrows Winnicott's object-usage as its warrant
 - [[a codex is a one-chair technology making a two-chair argument]] — the structural problem stated as a tension
+### Nascent stubs
+
+Open territory bearing on the field that no document develops.
+
+- [[a partnership can be deliberately entered and deliberately left]] — nascent; a chosen ending, which the corpus treats only as grief
 
 ## Adjacent maps
 

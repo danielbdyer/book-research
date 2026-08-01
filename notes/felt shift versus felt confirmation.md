@@ -25,6 +25,8 @@ Relevant Notes:
 - [[nothing enters the lattice the body has not countersigned]] — the standard whose limits this tension records
 - [[beauty recruits the wrong posture]] — the stylistic tension that overlaps with the counterfeit problem
 
+- [[curating beauty is a practice rather than only a hazard]] — nascent; the practice this counterfeiting mechanism argues against
+
 Topics:
 - [[tensions]]
 - [[felt-shift]]
