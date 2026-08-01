@@ -1,0 +1,7 @@
+# Ars Contexta vault marker and hook configuration.
+# This file identifies the repository as an ars-contexta vault; the hooks in
+# .claude/hooks/ check for it and exit silently when it is absent. Deleting
+# it disables all hook behavior. Omitted keys default to true.
+
+git: true
+session_capture: true

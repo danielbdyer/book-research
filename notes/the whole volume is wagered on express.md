@@ -1,0 +1,29 @@
+---
+description: The reflexive tension the corpus flags about the book's own composition — the volume is built almost entirely from one of its twelve primitives — held open as a question rather than resolved.
+category: tension
+status: live
+treatment: "held open; the corpus declines to answer what the book would have been on another primitive"
+sources: ["atlas §III and §XI.2h", "walked III and XI"]
+topics: []
+---
+
+# the whole volume is wagered on express
+
+Among the twelve primitives, one is the material of the book itself: Express — output, manifestation, disclosure. Every page is an act of it. The corpus flags this as something the author should know about the instrument being used, and sharpens it into a held-open question: what would this book have been if it had been built on Attend, or on Release?
+
+The tension does real work in two directions. It qualifies the book's authority — a framework of twelve operations, delivered entirely through one of them, has a composition bias its own theory can name. And it connects to the release question: a volume built from Express is, by the corpus's account of that primitive, expression awaiting consent — the same condition described at [[seventeen chapters rest at madhyama]].
+
+## Substantiation
+
+- Atlas §III flags the primitive identification; §XI.2h registers the question among the kept tensions.
+- Walked III carries the reflexive observation and its forward reference to the release question.
+
+---
+
+Relevant Notes:
+- [[the twelve primitives are verbs because a self in verbs is mid-sentence]] — the alphabet from which the wagered primitive comes
+- [[seventeen chapters rest at madhyama]] — the release condition the wager terminates in
+
+Topics:
+- [[tensions]]
+- [[open-questions]]

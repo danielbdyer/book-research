@@ -1,0 +1,3 @@
+# qmd's project-local search index — rebuilt by scripts/bootstrap.sh, not versioned.
+.qmd/
+.DS_Store

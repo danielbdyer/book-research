@@ -1,0 +1,43 @@
+# ops/config.yaml — the live operational configuration. Edit values here to
+# adjust behavior; the reasoning behind the initial choices is in ops/derivation.md.
+
+dimensions:
+  granularity: atomic
+  organization: flat
+  linking: explicit
+  processing: heavy
+  navigation: 3-tier
+  maintenance: condition-based
+  schema: dense
+  automation: full
+
+features:
+  semantic-search: true      # qmd, project-local index in .qmd/ (not committed)
+  processing-pipeline: true
+  sleep-processing: false
+  voice-capture: false
+
+processing:
+  depth: deep                # deep | standard | quick — deep is this vault's standard, by author direction (2026-08-01): full pipeline, fresh context per phase, all verification checks on every pass
+  chaining: suggested        # manual | suggested | automatic
+  extraction:
+    selectivity: strict      # the admission rule: only material that changes how the project thinks
+    categories: auto         # read from ops/derivation-manifest.md
+  verification:
+    description_test: true   # descriptions must be complete sentences adding information beyond the title
+    schema_check: true
+    link_check: true
+  reweave:
+    scope: related
+    frequency: after_create
+
+provenance: full             # every claim carries sources with locations
+
+personality:
+  enabled: false
+
+research:
+  primary: web-search
+  fallback: web-search
+  last_resort: web-search
+  default_depth: moderate

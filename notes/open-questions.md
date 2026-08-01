@@ -1,0 +1,30 @@
+---
+description: The questions the corpus holds open deliberately, tracked so they stay askable; closing one is an authorial event worth recording.
+type: moc
+---
+
+# open-questions
+
+This map tracks questions the corpus keeps open on purpose. They are not gaps awaiting research; they are questions whose openness does work. When one closes, the record should state who closed it, where in the manuscript, and what resulted.
+
+## Questions with claims
+
+- [[the whole volume is wagered on express]] — the corpus asks what the book would have been if built on Attend or on Release, and declines to answer.
+- [[the topology only exists where it is being performed]] — the corpus asks whether a map of this territory can remain play, and applies the question to its own atlas.
+- [[seventeen chapters rest at madhyama]] — the question of which words get spoken where they can no longer be revised. This one has a recommended move attached.
+
+## Standing questions without claims yet
+
+- Are emotions found or made? Lisa Feldman Barrett's constructionism and Karla McLaren's messenger model disagree, and the space-around survey suggests the book's chemistry can hold both positions (molecules are real and composed). If the author decides this disagreement belongs among the book's kept tensions, it gets a tension note in `notes/`.
+- Where exactly do aletheia and pratyabhijñā part company? The survey proposes Jorge Ferrer's participatory pluralism as pressure on the two-traditions-one-conclusion claim: the convergence is real at the level of word construction, and the destinations may still differ. Ferrer has not been researched for this project; he is on the pending-evaluation list in `ops/queue/candidates.md`.
+- Is the Second Chair sufficient treatment for the one-chair problem? The tension itself has a note, [[a codex is a one-chair technology making a two-chair argument]]; whether the treatment works is an open empirical question about readers.
+- Does Sloterdijk belong in the reference lineage? The book's printed epigraph is the title of his major late work, and his two main projects (practice, containment) are the book's two main subjects. The survey leaves his status undecided.
+
+## What remains
+
+Each standing question graduates to a claim when work begins on it. The Barrett-McLaren question is nearest to ready, since it bears directly on chapters 5 and 6.
+
+---
+
+Topics:
+- [[index]]
