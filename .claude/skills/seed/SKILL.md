@@ -1,6 +1,6 @@
 ---
 name: seed
-description: Add a source file to the processing queue. Checks for duplicates, creates archive folder, moves source from inbox, creates extract task, and updates queue. Triggers on "/seed", "/seed [file]", "queue this for processing".
+description: Register a source for processing. In this vault that means a provenance note in archive/, a citation name in the registry, and extraction entries in ops/queue/extractions.md; sources/ files are never moved. Triggers on "/seed", "/seed [file]", "queue this for processing".
 version: "1.0"
 generated_from: "arscontexta-v1.6"
 user-invocable: true

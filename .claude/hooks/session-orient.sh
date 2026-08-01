@@ -108,10 +108,15 @@ if [ -f self/identity.md ]; then
   echo ""
 fi
 
-# Learned behavioral patterns (recent methodology notes)
-for f in $(ls -t ops/methodology/*.md 2>/dev/null | head -5); do
-  head -3 "$f"
-done
+# Standing methodology notes (most recent five: name and description line)
+if ls ops/methodology/*.md >/dev/null 2>&1; then
+  echo "--- Methodology notes (ops/methodology/) ---"
+  ls -t ops/methodology/*.md 2>/dev/null | head -5 | while IFS= read -r f; do
+    DESC=$(grep -m1 '^description: ' "$f" | sed 's/^description: //')
+    echo "$(basename "$f"): ${DESC}"
+  done
+  echo ""
+fi
 
 # Reminders (unchecked entries surface at session start)
 if [ -f ops/reminders.md ]; then
@@ -126,7 +131,7 @@ fi
 # Condition-based maintenance signals
 OBS_COUNT=$(ls -1 ops/observations/*.md 2>/dev/null | wc -l | tr -d ' ')
 TENS_COUNT=$(ls -1 ops/tensions/*.md 2>/dev/null | wc -l | tr -d ' ')
-SESS_COUNT=$(ls -1 ops/sessions/*.json 2>/dev/null | grep -cv current 2>/dev/null || echo 0)
+SESS_COUNT=$(ls -1 ops/sessions/*.json 2>/dev/null | grep -v current | wc -l | tr -d ' ')
 INBOX_COUNT=$(ls -1 inbox/*.md 2>/dev/null | wc -l | tr -d ' ')
 
 if [ "$OBS_COUNT" -ge 10 ]; then
@@ -137,6 +142,9 @@ if [ "$TENS_COUNT" -ge 5 ]; then
 fi
 if [ "$SESS_COUNT" -ge 5 ]; then
   echo "CONDITION: $SESS_COUNT unprocessed sessions. Consider /remember --mine-sessions."
+fi
+if ! command -v qmd >/dev/null 2>&1; then
+  echo "CONDITION: qmd is not installed in this container. Run scripts/bootstrap.sh to restore semantic search."
 fi
 if [ "$INBOX_COUNT" -ge 3 ]; then
   echo "CONDITION: $INBOX_COUNT items in inbox. Consider /reduce or /pipeline."
@@ -149,10 +157,11 @@ fi
 
 # Methodology staleness check (Rule Zero)
 if [ -d ops/methodology ] && [ -f ops/config.yaml ]; then
-  CONFIG_MTIME=$(stat -f %m ops/config.yaml 2>/dev/null || stat -c %Y ops/config.yaml 2>/dev/null || echo 0)
+  CONFIG_MTIME=$(stat -c %Y ops/config.yaml 2>/dev/null || stat -f %m ops/config.yaml 2>/dev/null || echo 0)
   NEWEST_METH=$(ls -t ops/methodology/*.md 2>/dev/null | head -1)
   if [ -n "$NEWEST_METH" ]; then
-    METH_MTIME=$(stat -f %m "$NEWEST_METH" 2>/dev/null || stat -c %Y "$NEWEST_METH" 2>/dev/null || echo 0)
+    METH_MTIME=$(stat -c %Y "$NEWEST_METH" 2>/dev/null || stat -f %m "$NEWEST_METH" 2>/dev/null || echo 0)
+    case "$CONFIG_MTIME$METH_MTIME" in *[!0-9]*) CONFIG_MTIME=0; METH_MTIME=0;; esac
     DAYS_STALE=$(( (CONFIG_MTIME - METH_MTIME) / 86400 ))
     if [ "$DAYS_STALE" -ge 30 ]; then
       echo "CONDITION: Methodology notes are ${DAYS_STALE}+ days behind config changes. Consider /rethink drift."
