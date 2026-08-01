@@ -53,6 +53,16 @@ The working structure recorded above is the atlas's, and the seventeen trial cha
 - [[the prose drafts use the vetoed triad names]] — the terminology the drafts predate
 - [[the abridged edition compresses the chapter one poem rather than reproducing it]] — the Plain Water treatment carried out on the book's most lyrical element
 - [[the drafts disagree about which person the book speaks in]] — the unsettled grammatical realization of the middle voice
+- [[the executed draft carries the arc's sequence without the treatment's five rooms]] — the content bound on what has been drafted
+- [[the drafts execute one of the seven designed apparatus devices]] — the apparatus bound, and what "fully treated" therefore costs
+- [[the minus sign is what makes a molecule formula prescriptive]] — the notation that sorts the catalogue into descriptions and instructions
+- [[the chapter-closing prompt changes genre where the book turns to praxis]] — the unstated rule governing what an instruction may ask for, and when
+- [[the treatment records four authorship conditions in its undercurrents]] — the author's recorded observations about writing the book, quoted
+- [[the chapters the treatment flags as unfinished are the shortest in the executed draft]] — the measurement that confirms two of those conditions
+
+## The transfer surface
+
+`ops/chapter concordance.md` records, for each unit of the fifteen-chapter arc, what each source supplies, the executed extent, and which document is the reference text for which element. It exists so that finishing one chapter costs one lookup rather than a reading of seven documents, and it carries the revision relations defined in `CLAUDE.md`. It sits in `ops/` because it is provenance tooling for the manuscript rather than a proposition of the framework.
 
 ## Placement
 

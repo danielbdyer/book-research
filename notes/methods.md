@@ -26,6 +26,8 @@ The reference surface — filenames, YAML fields, enum values, folder names, pri
 All vault prose is expository and evidential: complete sentences with named subjects; the statement on top and the substantiation beneath; the corpus quoted and anchored, never impersonated; notation tagging relations that the sentences have already stated; exact referents throughout. The full policy is at `ops/methodology/prose register.md`.
 
 7. **Standing.** A source is either descriptive — an account of the book written from outside it — or a draft, a state of the manuscript itself. A draft is quoted for what it says and is not credited for what it argues, agreement between a document and its own upstream input is not corroboration, and where drafts disagree the disagreement is recorded rather than resolved. The full policy is at `ops/methodology/source standing.md`, and the provenance fact that occasioned it is at [[the atlas was compiled from the arc and gloss treatment]].
+8. **Craft.** A claim of category `craft` records one mechanism observable in the executed prose, stated so a future chapter could be built against it, and must be able to say how it would be checked. The manuscript's assessments of its own moves are excluded; the author's recorded observations about writing the book are quoted and never restated as the vault's judgment. The full policy is at `ops/methodology/craft evidence.md`. The category is available only from draft sources, because only a draft executes.
+9. **Declines.** Material read and set aside is recorded in `ops/queue/declines.md` with its reason, which the admission standard in rule 1 requires. A decline is a decision and a queue entry is unfinished work; the two live in separate files so that the next pass does not re-litigate settled material.
 
 ## Claims in this map
 
@@ -34,6 +36,10 @@ All vault prose is expository and evidential: complete sentences with named subj
 - [[felt shift versus felt confirmation]] — the source of the verification rule's humility
 - [[the topology only exists where it is being performed]] — the source of the scope rule
 - [[the atlas was compiled from the arc and gloss treatment]] — the source of the standing rule, and the reason agreement among three of the seven documents counts once
+
+## The transfer surface
+
+`ops/chapter concordance.md` records what each source supplies for each unit of the fifteen-chapter arc, the executed extent, and which document is the reference text for which element. It is the working surface for bringing a chapter to a finish, and it carries the revision relations — carried unchanged into, revised into, compressed into, dropped at, added at — that the atlas's notation set does not provide. `ops/rethink-log.md` records the reasoning for that notation and for the craft category.
 
 ## Source registry
 

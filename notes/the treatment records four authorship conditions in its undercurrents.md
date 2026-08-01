@@ -1,5 +1,5 @@
 ---
-description: The Arc and the Gloss treatment carries four recorded observations about the author's relation to the manuscript, marked as addressed to the author rather than to a reader, and they bear on which chapter can be finished next.
+description: The Arc and the Gloss treatment carries four recorded observations about the author's relation to the manuscript, and they bear on which chapter can be brought to a finish next.
 category: craft
 sources: ["arc-gloss: ch9", "arc-gloss: ch14", "arc-gloss: ch15", "arc-gloss: the meta"]
 topics: ["[[book-structure]]", "[[answerability]]"]

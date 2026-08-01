@@ -36,6 +36,7 @@ The seats are functional. The corpus's narrative names for them are recorded in 
 - [[internal family systems]] — candidate. The clinical model closest to the book's ethic; the book needs a stated position relative to it.
 - [[hartmut rosa]] — candidate. His sociology of resonance supplies a completed theory for the book's closing image.
 - [[ignatius of loyola]] — candidate. The Spiritual Exercises, published 1548, are the oldest worked precedent for the book's central design gamble.
+- [[the executed draft carries the arc's sequence without the treatment's five rooms]] — the finding that the roster's largest recent addition reaches the executed prose in three passing traces.
 
 ## Roster recorded in the corpus
 

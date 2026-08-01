@@ -18,6 +18,7 @@ The formulas below are the book's canonical examples. Each is a separate claim b
 - [[grief is sever plus love plus persist]] — the formula that reclassifies grief as love under conditions of loss
 - [[trust and paralysis are isomers]] — the formula pair showing identical components with one differently attached bond
 - [[trust paralysis and foreclosure differ only on the commit-defer axis]] — the third arrangement, supplied by the abridged edition, which turns that pair into a group of three
+- [[the minus sign is what makes a molecule formula prescriptive]] — the notation rule that sorts the catalogue into conditions described and suffering-states with an instruction attached
 - [[forgiveness is sever then release]] — the ordering rule, which carries the book's critique of premature peace
 - [[the triads privations map the three malas corner for corner]] — the correspondence between the anatomy's failures and Trika's contractions
 - [[david loy]] — the independent Western arrival at the first contraction, which the corpus counts as external confirmation

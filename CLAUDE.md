@@ -28,7 +28,7 @@ Two standing author directives govern all prose and naming. Both are recorded in
 | `archive/` | Source notes: provenance records for processed material, pointing into `sources/`. |
 | `templates/` | Note templates with `_schema` blocks — the authoritative schema. |
 | `manual/` | User documentation. |
-| `ops/` | Operational state: goals, config, queue, sessions, observations, tensions, methodology. |
+| `ops/` | Operational state: goals, config, queue, sessions, observations, tensions, methodology, the chapter concordance, and the rethink log. |
 | `scripts/queries/` | Ripgrep-based graph queries. `scripts/bootstrap.sh` restores tools in a fresh container. |
 | `.claude/` | Skills and hooks, versioned with the vault. |
 
@@ -139,6 +139,8 @@ Maintenance is condition-based. The session-orient hook counts and reports the f
 | The vault contradicting its own rules | `ops/tensions/` |
 | A methodology correction ("always X") | `ops/methodology/`, via /remember |
 | A dated to-do | `ops/reminders.md` |
+| Material read and set aside | `ops/queue/declines.md`, with the reason |
+| Per-chapter comparison across the sources | `ops/chapter concordance.md` |
 
 ## Known risks
 

@@ -19,6 +19,8 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 - [[seventeen chapters rest at madhyama]] — the meta-tension: the manuscript's current state, and the pilot-chapter move
 - [[the fifteen-chapter arc has already been drafted in full]] — the fact that narrows that tension to its actual term, since a complete draft still rests at madhyamā
 - [[the drafts disagree about which person the book speaks in]] — the unsettled question of who the answerable speaker is
+- [[the drafts execute one of the seven designed apparatus devices]] — what a fully treated pilot chapter would actually have to build
+- [[the treatment records four authorship conditions in its undercurrents]] — the author's recorded conditions bearing on which chapter can be finished next
 
 ## Adjacent maps
 

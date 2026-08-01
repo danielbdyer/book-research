@@ -1,5 +1,5 @@
 ---
-description: Chapters 1 through 13 of the executed draft close by directing attention to something already present in the reader, and chapters 14 and 15 close by assigning a task for a later day; the switch falls exactly at the praxis turn.
+description: Chapters 1 through 13 close by directing attention to something already present in the reader; chapters 14 and 15 close by assigning a task for a later day, exactly at the praxis turn.
 category: craft
 sources: ["abridged ch1–ch15", "arc-gloss: part v", "atlas §XI.1b"]
 topics: ["[[book-structure]]", "[[felt-shift]]"]

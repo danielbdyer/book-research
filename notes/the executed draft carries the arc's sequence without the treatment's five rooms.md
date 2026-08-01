@@ -1,5 +1,5 @@
 ---
-description: The abridged edition follows the treatment's fifteen-chapter sequence exactly and contains almost none of the material the treatment's second edition was made to add, so the arc is executed and the second edition's content is not.
+description: The abridged edition follows the treatment's fifteen-chapter sequence exactly and contains almost none of the material the treatment's second edition was written to add.
 category: structure
 sources: ["abridged ch1–ch15", "abridged: the lineage", "abridged: a note on sources", "arc-gloss: the five rooms", "arc-gloss: overlay four"]
 topics: ["[[book-structure]]", "[[interlocutors]]"]

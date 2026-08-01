@@ -1,5 +1,5 @@
 ---
-description: The two chapters the Arc and the Gloss treatment marks as under-treated, nine and fourteen, are two of the three shortest chapters in the abridged edition, so the treatment's private assessment is confirmed by measurement.
+description: The two chapters the treatment marks as under-treated, nine and fourteen, are two of the three shortest in the abridged edition, so a private assessment is confirmed by measurement.
 category: craft
 sources: ["arc-gloss: ch9", "arc-gloss: ch14", "abridged ch1–ch15"]
 topics: ["[[book-structure]]"]

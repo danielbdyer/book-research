@@ -20,6 +20,7 @@ One consequence for this vault is recorded in [[methods]]: the vault verifies st
 - [[the stance is a point of return not a state]] — the practice posture, defined so that failing and returning is the practice
 - [[felt shift versus felt confirmation]] — the tension: the click can be produced by the prose rather than the truth
 - [[the abridged edition compresses the chapter one poem rather than reproducing it]] — the one place in the sources where the treatment for that tension has been carried out on a specific text
+- [[the chapter-closing prompt changes genre where the book turns to praxis]] — the instruction genre by which the executed draft asks the reader to check the body, and its limits
 
 ## Adjacent maps
 
