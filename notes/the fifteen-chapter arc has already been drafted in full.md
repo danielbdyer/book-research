@@ -11,6 +11,8 @@ The abridged edition carries the whole arc in continuous manuscript prose: a rea
 
 Neither the atlas's colophon nor the walked document's names this edition among the threads they were compiled from. The founding sources describe the arc as a plan and do not record that a written state of it exists. What the vault held before this document arrived was an account of a book; what it holds now is an account of a book plus one full pass at writing it.
 
+The completeness is a completeness of sequence rather than of content, and two later findings bound it. The executed draft contains almost none of the material the treatment's second edition was written to add ([[the executed draft carries the arc's sequence without the treatment's five rooms]]), and it builds one of the seven apparatus devices the corpus designs ([[the drafts execute one of the seven designed apparatus devices]]). What exists is a full pass at the arc, not a full pass at the book.
+
 This does not settle the tension recorded at [[seventeen chapters rest at madhyama]], and the distinction matters more than the new fact. That tension is not about whether the chapters are finished; it is about whether a word has been made answerable by being sent. A complete draft still rests at madhyamā, the level of inner articulation, where a text can be perfected indefinitely — see [[a word at madhyama can be perfected forever a word at vaikhari can be answered]]. The draft narrows the tension to its actual term: what is missing is not writing but a reader.
 
 ## Substantiation
@@ -26,6 +28,8 @@ Relevant Notes:
 - [[seventeen chapters rest at madhyama]] — the tension this fact sharpens, by removing writing as the explanation for what has not happened
 - [[a word at madhyama can be perfected forever a word at vaikhari can be answered]] — the distinction that keeps a finished draft short of an answerable one
 - [[the atlas was compiled from the arc and gloss treatment]] — the provenance relation this edition's absence from the colophons should be read against
+- [[the executed draft carries the arc's sequence without the treatment's five rooms]] — the content bound on this completeness
+- [[the drafts execute one of the seven designed apparatus devices]] — the apparatus bound on it
 
 Topics:
 - [[book-structure]]

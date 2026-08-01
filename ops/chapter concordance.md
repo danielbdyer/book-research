@@ -38,7 +38,8 @@ No single document is authoritative, and the standing policy is `ops/methodology
 |---|---|---|
 | Chapter sequence and part boundaries | `arc-gloss` | The only document that states the fifteen-chapter arc as a designed sequence with its four overlays. The atlas summarizes it and is downstream of it. |
 | Chapter job, register, and patron | `arc-gloss` | The only per-chapter specification in the corpus. Its self-assessments ("jewel") are excluded as evidence under the craft policy. |
-| Executed prose, argument order, transitions | `abridged` | The only document in which the arc is written. Its terminology is superseded on at least one axis; see the triad row below. |
+| Executed prose, argument order, transitions | `abridged` | The only document in which the arc is written. Its terminology is superseded on at least one axis (see the triad row), and it carries almost none of the treatment's five-rooms material. |
+| The five rooms — facilitation, McLaren, the speech lineage, the container-makers, the coaches | `arc-gloss`, unexecuted | The treatment's second-edition addition reaches the executed prose as three passing traces. No draft carries this material at length. See `notes/the executed draft carries the arc's sequence without the treatment's five rooms.md`. |
 | Voice at highest density | `mythic-os` | The author's named high-water mark. It is also the only document carrying the chapter-one poem entire. |
 | Scope beyond the fifteen chapters | `mythic-os` | Its contents name four territories the later arc drops. |
 | Triad terminology | `atlas` | The drafts use Knife, Thread, and Vessel; the author vetoed those names after both were written. The treatment at `arc-gloss: ch4` carries the crosswalk. |
@@ -56,7 +57,8 @@ Stated in the notation defined in `CLAUDE.md`, each naming both states and the d
 - Four chapter titles are **revised into** the fifteen-chapter arc from `mythic-os` page titles, separated across four parts. Claim: `notes/four later chapter titles appear as page titles inside the earlier edition's single chapter.md`.
 - Four territories are **dropped at** the fifteen-chapter arc from `mythic-os: contents`. Claim: `notes/the twenty-eight-chapter contents hold four territories the fifteen-chapter arc drops.md`.
 - The chapter-closing instruction is **added at** `abridged`, appearing in no design document. Claim: `notes/the chapter-closing prompt changes genre where the book turns to praxis.md`.
-- The seventeen patron assignments are **carried unchanged into** `abridged` from `arc-gloss`, every chapter, the prologue, and the epilogue opening under the epigraph the treatment specifies. This is the only element checked so far that transferred without alteration.
+- The seventeen patron assignments are **carried unchanged into** `abridged` from `arc-gloss`, every chapter, the prologue, and the epilogue opening under the epigraph the treatment specifies. This is the only element checked so far that transferred without alteration. The one qualification is chapter 5, where the treatment seats McLaren beside Gendlin and the executed epigraph is Gendlin alone.
+- The five rooms are **dropped at** `abridged` from `arc-gloss: the five rooms`, surviving as one phrase, one lineage-list name, and one entry in a list of influences. Claim: `notes/the executed draft carries the arc's sequence without the treatment's five rooms.md`.
 
 ## What remains
 
