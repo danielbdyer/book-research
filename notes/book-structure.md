@@ -34,12 +34,25 @@ The corpus reads the same arc four ways simultaneously: as a recognition plot (m
 
 The corpus keeps the book honest with a specific apparatus: inhabited margins that form a second book with its own plot; a verso column where readers countersign practices ("walked. still true." — atlas §X.6b); a planting ledger tracking every planted image to its payoff; an escrow system of promises made early and kept visibly; a per-chapter dial recording the ratio of evocative to informative prose; interludes placed at the part-junctions; and an eight-question checklist every chapter must pass, ending with "did writing it change you?" (atlas §X.6g).
 
+## Three drafts of the object itself
+
+Until 2026-08-01 this map described a book none of whose states the vault held. Three drafts have since been admitted, and they carry three different answers to the question this map asks. The Arc and the Gloss treatment storyboards fifteen chapters in five parts and is named in the atlas's and the walked document's colophons as one of the threads they were compiled from. The abridged edition writes that same fifteen-chapter sequence out in full prose and is named in neither colophon. The mythic operating system edition lists twenty-eight chapters in six parts and writes one of them. All three have draft standing under `ops/methodology/source standing.md`, which means the vault records what each does without treating the most recent, the most complete, or the best-written as the settled scheme.
+
+The working structure recorded above is the atlas's, and the seventeen trial chapters it counts have not themselves arrived. What has arrived is enough to show that the chapter scheme has moved at least twice.
+
 ## Claims in this map
 
 - [[the book performs what it describes]] — the governing law, stated by the atlas, the walked document, and the first telling
 - [[the book is a tuning fork and the reader is the striking surface]] — the self-image installed on page one
 - [[beauty recruits the wrong posture]] — the tension between the prose's quality and the book's purpose
 - [[forward hunger defeats the pause]] — the tension between the narrative engine and the practice engine
+- [[the atlas was compiled from the arc and gloss treatment]] — the provenance relation that governs how agreement among the sources is counted
+- [[the fifteen-chapter arc has already been drafted in full]] — the arc executed once in prose, unrecorded by the founding sources
+- [[the twenty-eight-chapter contents hold four territories the fifteen-chapter arc drops]] — what the compression to fifteen chapters cost
+- [[four later chapter titles appear as page titles inside the earlier edition's single chapter]] — how the arc was found, read from the earliest state
+- [[the prose drafts use the vetoed triad names]] — the terminology the drafts predate
+- [[the abridged edition compresses the chapter one poem rather than reproducing it]] — the Plain Water treatment carried out on the book's most lyrical element
+- [[the drafts disagree about which person the book speaks in]] — the unsettled grammatical realization of the middle voice
 
 ## Placement
 
@@ -47,7 +60,7 @@ Manuscript placement emerges from the author's decisions and is never inferred b
 
 ## What remains
 
-The seventeen trial chapters themselves are not yet in `sources/`; only the four meta-documents describing them are. Adding a chapter draft and extracting claims from it is the natural next expansion, and the first placements are likely to emerge from that work — beginning with the pilot chapter named in [[seventeen chapters rest at madhyama]].
+The seventeen trial chapters themselves are still not in `sources/`. What arrived on 2026-08-01 is three drafts of the whole, at three scopes, none of which is the trial-chapter set the atlas counts. The next expansions this map wants, in order: reconcile the abridged edition's fifteen-chapter execution against the working structure recorded above, chapter by chapter, and record where they differ; extract the Arc and the Gloss treatment's four overlays and its four added image-system entries (the Circle, the Messenger, the Racket, the Cusp), which the atlas summarizes but does not carry whole; and establish whether the abridged edition is one state of the seventeen trial chapters or a separate artifact, which the documents in `sources/` do not settle. Placements remain the author's; none is inferred here, and the arrival of drafts does not change that rule.
 
 ---
 

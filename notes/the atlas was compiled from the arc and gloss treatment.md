@@ -1,5 +1,5 @@
 ---
-description: The atlas and the walked document both name the Arc and the Gloss treatment among the threads they were assembled from, so agreement among those three documents is one source read three times rather than three sources arriving independently.
+description: The atlas and the walked document both name the Arc and the Gloss treatment among the threads they were assembled from, so agreement among those three documents counts once rather than three times.
 category: structure
 sources: ["atlas, colophon", "atlas §0 preamble", "walked, colophon", "arc-gloss: how to hold this"]
 topics: ["[[methods]]", "[[book-structure]]"]

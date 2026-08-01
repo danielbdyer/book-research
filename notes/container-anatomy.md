@@ -18,6 +18,7 @@ The book stacks three further levels on this anatomy: twelve verb-primitives as 
 - [[the triads privations map the three malas corner for corner]] — the correspondence between the anatomy's failure modes and Trika's three contractions
 - [[the twelve primitives are verbs because a self in verbs is mid-sentence]] — the operations level and its grammatical design commitment
 - [[distress is a question about machinery not a verdict about character]] — the engine level's diagnostic move, which routes distress to the loop that is misfiring
+- [[the prose drafts use the vetoed triad names]] — the reading instruction for the two prose drafts, which name the same three structures Knife, Thread, and Vessel throughout
 
 ## Adjacent maps
 

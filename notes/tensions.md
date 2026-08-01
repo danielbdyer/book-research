@@ -20,6 +20,12 @@ The atlas records these five at §XI.1 and heads them as the book's own diagnost
 - [[a codex is a one-chair technology making a two-chair argument]] — the deepest claim concerns two people; reading involves one. Treatment: the book designed as one half of a pair (the Second Chair, with the Talmudic study-partner tradition as lineage).
 - [[seventeen chapters rest at madhyama]] — the meta-tension about the manuscript's own state. Treatment: one pilot chapter, fully treated, sent to two real readers.
 
+## The tensions the drafts expose
+
+The three manuscript drafts admitted 2026-08-01 carry strains that the four descriptive sources do not record, because a description states a position while a draft has to choose one.
+
+- [[the drafts disagree about which person the book speaks in]] — the three drafts realize the recorded middle-voice posture as a plural we, a singular I, and an impersonal register. Treatment: the middle voice itself, which atlas §VI.6 names as the book's writing posture without naming a person for it.
+
 ## The personal tensions
 
 - [[weil is seated as the opponent the plumbing deserves]] — the book's commitment to ordinary life is kept honest by housing its strongest opponent.

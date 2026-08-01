@@ -1,5 +1,5 @@
 ---
-description: The poem "Time Is Not Linear" runs to roughly a hundred lines of verse in the mythic operating system edition and to five lines of prose at the same designated position in the abridged edition, which is one instance of the Plain Water treatment already carried out.
+description: The chapter-one poem runs to roughly a hundred verse lines in one draft and five prose lines at the same position in the other, which makes the compression a worked instance of the Plain Water treatment.
 category: structure
 sources: ["mythic-os: page 9", "abridged ch1", "arc-gloss: ch1", "atlas §XI.1a"]
 topics: ["[[book-structure]]", "[[felt-shift]]"]

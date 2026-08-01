@@ -1,5 +1,5 @@
 ---
-description: The abridged edition supplies Foreclosure as a third arrangement alongside trust and paralysis, so the three states divide by which of Commit and Defer is present: both in trust, Defer alone in paralysis, Commit alone in foreclosure.
+description: The abridged edition supplies foreclosure as a third arrangement beside trust and paralysis, so the three divide by which of Commit and Defer is present: both, Defer alone, or Commit alone.
 category: claim
 sources: ["abridged ch6", "atlas §IV", "walked IV"]
 topics: ["[[contraction-not-corruption]]"]

@@ -1,5 +1,5 @@
 ---
-description: This note is the provenance record for the mythic operating system edition, which carries a twenty-eight-chapter table of contents and one fully written chapter; its scope is wider than the fifteen-chapter arc and its voice is the author's named high-water mark.
+description: This note is the provenance record for the mythic operating system edition, which carries a twenty-eight-chapter table of contents and one fully written chapter at what the author names the work's high-water mark of voice.
 source_file: "sources/firing on all cylinders - a mythic operating system.pdf"
 status: partially-extracted
 extracted: ["[[the twenty-eight-chapter contents hold four territories the fifteen-chapter arc drops]]", "[[four later chapter titles appear as page titles inside the earlier edition's single chapter]]", "[[the abridged edition compresses the chapter one poem rather than reproducing it]]", "[[the drafts disagree about which person the book speaks in]]"]

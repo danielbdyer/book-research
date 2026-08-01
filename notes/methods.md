@@ -25,25 +25,40 @@ The reference surface — filenames, YAML fields, enum values, folder names, pri
 
 All vault prose is expository and evidential: complete sentences with named subjects; the statement on top and the substantiation beneath; the corpus quoted and anchored, never impersonated; notation tagging relations that the sentences have already stated; exact referents throughout. The full policy is at `ops/methodology/prose register.md`.
 
+7. **Standing.** A source is either descriptive — an account of the book written from outside it — or a draft, a state of the manuscript itself. A draft is quoted for what it says and is not credited for what it argues, agreement between a document and its own upstream input is not corroboration, and where drafts disagree the disagreement is recorded rather than resolved. The full policy is at `ops/methodology/source standing.md`, and the provenance fact that occasioned it is at [[the atlas was compiled from the arc and gloss treatment]].
+
 ## Claims in this map
 
 - [[the book performs what it describes]] — the law the vault inherits as a design obligation
 - [[ripeness is not refrigeration]] — the source of the output rule
 - [[felt shift versus felt confirmation]] — the source of the verification rule's humility
 - [[the topology only exists where it is being performed]] — the source of the scope rule
+- [[the atlas was compiled from the arc and gloss treatment]] — the source of the standing rule, and the reason agreement among three of the seven documents counts once
 
 ## Source registry
 
-The four founding source documents, each with an archive note recording provenance and extraction state. Each entry gives the citation name claims use, the file, and the anchor grammar.
+Seven source documents, each with an archive note recording provenance, standing, and extraction state. Each entry gives the citation name claims use, the file, and the anchor grammar.
+
+### Descriptive sources (the four founding documents, July 2026)
+
+These describe the book from outside it.
 
 - [[source — the gravitational atlas]] — the corpus as a typed network, compiled July 2026. File: `sources/the whole field - gravitational atlas.pdf`. Cited as `atlas`, with section symbols: `atlas §IV`, `atlas §IX.8a`.
 - [[source — the whole field walked]] — the same material as continuous prose. File: `sources/the whole field walked.pdf`. Cited as `walked`, with bare roman numerals: `walked VI`.
 - [[source — the first telling]] — the book presented to its first reader. File: `sources/the first telling.pdf`. Cited as `first-telling`, with named sections: `first-telling: the offering`.
 - [[source — the space around]] — the outward survey that seeds the research frontier. File: `sources/the space around.pdf`. Cited as `space-around`, with the survey's section names and, where relevant, its direction labels: `space-around: around the instrument (counterweight)`.
 
+### Draft sources (three manuscript states, admitted 2026-08-01)
+
+These are the book rather than accounts of it. They are secondary by the author's instruction on submission: they argue the merits of their own ideas, and the vault reads those arguments as evidence that the book has made them, not as evidence that they are right.
+
+- [[source — the arc and the gloss]] — the storyboard treatment of the fifteen-chapter arc, second edition, five rooms integrated. File: `sources/the arc and the gloss - second edition.pdf`. Cited as `arc-gloss`, with named sections: `arc-gloss: overlay four`, `arc-gloss: ch4`. Upstream of the atlas and the walked document, which name it in their colophons.
+- [[source — the abridged edition]] — the fifteen-chapter arc executed in full prose. File: `sources/firing on all cylinders - abridged edition.pdf`. Cited as `abridged`, with chapter numbers and section names: `abridged ch6`, `abridged: a note on sources`.
+- [[source — the mythic operating system]] — a twenty-eight-chapter table of contents with one chapter written; the author's named high-water mark of voice. File: `sources/firing on all cylinders - a mythic operating system.pdf`. Cited as `mythic-os`, with section names and the written chapter's own page numbers: `mythic-os: contents`, `mythic-os: page 9`.
+
 ## What remains
 
-The pipeline has run one starter pass. The queue in `ops/queue/` enumerates the second-pass extractions and the candidate evaluations; `ops/goals.md` names the active threads.
+The pipeline has run one starter pass over the four descriptive sources and a first pass over the three drafts. The queue in `ops/queue/` enumerates the second-pass extractions and the candidate evaluations; `ops/goals.md` names the active threads. The largest unworked question the drafts raise is a reconciliation rather than an extraction: the abridged edition and the atlas describe the same book at different scopes and under different terms, and no document in `sources/` states which of their differences are revisions and which are simply two accounts.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: The three drafts realize the book's recorded middle-voice posture in three different grammatical persons — plural we, singular I, and an impersonal register — and the corpus names the posture without settling which person carries it.
+description: The three drafts realize the recorded middle-voice posture in three grammatical persons — plural, singular, and impersonal — and the corpus names the posture without settling which person carries it.
 category: tension
 sources: ["mythic-os: page 2", "abridged ch2", "abridged: a note on sources", "arc-gloss: the meta", "atlas §VI.6"]
 status: live

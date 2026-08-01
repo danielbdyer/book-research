@@ -8,7 +8,7 @@ topics: ["[[index]]"]
 
 This map gathers the concern that decides whether the book ships. The corpus inherits from the grammarian Bhartṛhari (extended by the Trika tradition) a four-level account of speech, from pure potency down to the embodied word. The two levels that matter operationally are the third and fourth: *madhyamā*, the fully formed but unspoken sentence, and *vaikharī*, the word made flesh. The atlas states the consequence as what it calls the blade of the whole corpus: "a word at madhyamā can be perfected forever; a word at vaikharī can be answered" (§VI). An unspoken draft can still be changed, which is what removes the risk from it; the walked document draws the conclusion that the unspoken sentence is "perfectible forever, and therefore safe, and therefore, in a precise sense, not yet real" (walked VI). A spoken word cannot be revised and can therefore be answered, which is what makes it a deed.
 
-The corpus applies this directly to the manuscript's condition: seventeen trial chapters exist in a fully formed, unreleased state. That situation has its own note, [[seventeen chapters rest at madhyama]], which records the corpus's recommended first move; the note is listed with the other kept tensions in [[tensions]].
+The corpus applies this directly to the manuscript's condition: seventeen trial chapters exist in a fully formed, unreleased state. That situation has its own note, [[seventeen chapters rest at madhyama]], which records the corpus's recommended first move; the note is listed with the other kept tensions in [[tensions]]. The three drafts admitted on 2026-08-01 add a fact the founding sources do not record — one full pass at the arc already exists in prose — which removes writing as the explanation for the unreleased state and leaves the distinction intact, since a finished draft is still an unspoken one.
 
 ## Claims in this map
 
@@ -17,6 +17,8 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 - [[the book is a tuning fork and the reader is the striking surface]] — the image the book installs on page one to govern its ending and its publication
 - [[ripeness is not refrigeration]] — the corpus's rule against indefinite preservation of finished work
 - [[seventeen chapters rest at madhyama]] — the meta-tension: the manuscript's current state, and the pilot-chapter move
+- [[the fifteen-chapter arc has already been drafted in full]] — the fact that narrows that tension to its actual term, since a complete draft still rests at madhyamā
+- [[the drafts disagree about which person the book speaks in]] — the unsettled question of who the answerable speaker is
 
 ## Adjacent maps
 

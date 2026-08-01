@@ -1,5 +1,5 @@
 ---
-description: The one written chapter of the mythic operating system edition is built of titled pages, four of which carry titles that later become whole chapters of the fifteen-chapter arc, in a different order and at a different spacing.
+description: The one written chapter of the mythic operating system edition is built of titled pages, four of which later become whole chapters of the fifteen-chapter arc, at a different order and spacing.
 category: structure
 sources: ["mythic-os: pages 3, 8, 10, 14", "abridged ch1", "abridged ch3", "abridged ch10", "abridged ch12", "arc-gloss: ch1"]
 topics: ["[[book-structure]]"]

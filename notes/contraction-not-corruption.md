@@ -17,6 +17,7 @@ The formulas below are the book's canonical examples. Each is a separate claim b
 - [[burnout is obligation minus sanctuary]] — the formula that reverses the standard prescription for burnout
 - [[grief is sever plus love plus persist]] — the formula that reclassifies grief as love under conditions of loss
 - [[trust and paralysis are isomers]] — the formula pair showing identical components with one differently attached bond
+- [[trust paralysis and foreclosure differ only on the commit-defer axis]] — the third arrangement, supplied by the abridged edition, which turns that pair into a group of three
 - [[forgiveness is sever then release]] — the ordering rule, which carries the book's critique of premature peace
 - [[the triads privations map the three malas corner for corner]] — the correspondence between the anatomy's failures and Trika's contractions
 - [[david loy]] — the independent Western arrival at the first contraction, which the corpus counts as external confirmation
@@ -27,7 +28,7 @@ This concern borders [[container-anatomy]], because the privations are that anat
 
 ## What remains
 
-The molecule catalogue (atlas §IV lists eight families and roughly fifty compounds; the book curates about fifteen) is unextracted beyond the four canonical formulas. The space-around survey identifies Aristotle's steresis as the doctrine's classical ancestor, and notes the objection that ancestry carries: privation theory has always been accused of under-describing suffering that is a presence to be borne rather than an absence to be filled. Researching this is on the pending-evaluation list in `ops/queue/candidates.md`.
+The molecule catalogue (atlas §IV lists eight families and roughly fifty compounds; the book curates about fifteen) is unextracted beyond the four canonical formulas and the foreclosure case. The abridged edition states a further set of formulas in its own prose — Sanctuary, Obligation, Possibility, Stagnation, and the relational compounds of `abridged ch8` — and extracting them alongside atlas §IV would establish whether the two sources' catalogues agree. The space-around survey identifies Aristotle's steresis as the doctrine's classical ancestor, and notes the objection that ancestry carries: privation theory has always been accused of under-describing suffering that is a presence to be borne rather than an absence to be filled. Researching this is on the pending-evaluation list in `ops/queue/candidates.md`.
 
 ---
 

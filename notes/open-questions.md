@@ -14,6 +14,8 @@ This map tracks questions the corpus keeps open on purpose. They are not gaps aw
 - [[the topology only exists where it is being performed]] — the corpus asks whether a map of this territory can remain play, and applies the question to its own atlas.
 - [[seventeen chapters rest at madhyama]] — the question of which words get spoken where they can no longer be revised. The corpus's recommended move is recorded in that note's treatment field: one pilot chapter, treated against every revision pass, sent to two real readers (atlas §XI.1f).
 
+- [[the twenty-eight-chapter contents hold four territories the fifteen-chapter arc drops]] — the question of what the arc's compression cost, held open because the four dropped territories are recoverable and nothing in the sources decides whether any should return.
+
 ## Standing questions without claims yet
 
 - Are emotions found or made? Lisa Feldman Barrett's constructionism and Karla McLaren's messenger model disagree, and the space-around survey suggests the book's chemistry can hold both positions (molecules are real and composed). If the author decides this disagreement belongs among the book's kept tensions, it gets a tension note in `notes/`.

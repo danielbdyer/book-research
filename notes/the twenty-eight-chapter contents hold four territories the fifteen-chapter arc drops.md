@@ -1,5 +1,5 @@
 ---
-description: The mythic operating system edition's table of contents names twenty-eight chapters in six parts, and four of its territories — the design of daily and seasonal time, externalized personal systems, aesthetic practice, and the deliberate arc of partnership — have no counterpart in the fifteen-chapter arc.
+description: The mythic operating system edition's contents name four territories absent from the fifteen-chapter arc: the design of daily time, externalized personal systems, aesthetic practice, and the arc of partnership.
 category: structure
 sources: ["mythic-os: contents", "mythic-os: book overview", "arc-gloss: how to hold this", "abridged ch1–ch15"]
 topics: ["[[book-structure]]", "[[open-questions]]"]

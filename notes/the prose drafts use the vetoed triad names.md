@@ -1,5 +1,5 @@
 ---
-description: Both prose drafts name the triad's corners Knife, Thread, and Vessel, the names the author later vetoed in favour of Wall, Door, and Floor, which dates the drafts before the renaming and makes the treatment's one-sentence gloss the crosswalk for reading them.
+description: Both prose drafts name the triad's corners Knife, Thread, and Vessel — the names the author later vetoed — which dates them before the renaming and makes the treatment's one-sentence gloss their crosswalk.
 category: structure
 sources: ["abridged ch4", "arc-gloss: ch4", "atlas §II", "walked II"]
 topics: ["[[container-anatomy]]", "[[book-structure]]"]

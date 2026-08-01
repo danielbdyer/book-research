@@ -33,7 +33,7 @@ The atlas's closing section (§XII) resolves the book's entire field into six ma
 ## Getting started
 
 1. Read `ops/goals.md` for the active threads.
-2. Read [[methods]] for the vault's working rules and the registry of the four source documents.
+2. Read [[methods]] for the vault's working rules and the registry of the seven source documents, which divides them into descriptive sources and manuscript drafts.
 3. Put new material in `inbox/`; run /reduce to extract claims from it.
 4. The standing work is listed in `ops/queue/candidates.md` (thinker and concept evaluations) and `ops/queue/extractions.md` (source regions not yet extracted).
 5. The user manual is at `manual/manual.md`.

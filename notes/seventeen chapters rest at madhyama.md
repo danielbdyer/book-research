@@ -20,12 +20,14 @@ This vault's relationship to the tension is stated in [[methods]]: the vault is 
 - Atlas §XI.1f records the tension and the recommended move.
 - Walked XI carries the fuller statement, including the count (fifteen years of poems, seventeen chapters) and the framing of release as the doctrine walked to its own door.
 - The doctrine itself is recorded at [[a word at madhyama can be perfected forever a word at vaikhari can be answered]]; the anti-preservation rule at [[ripeness is not refrigeration]].
+- The drafts admitted on 2026-08-01 supply a fact that narrows the tension without altering it. A complete prose pass at the arc exists, recorded at [[the fifteen-chapter arc has already been drafted in full]], so the unreleased state is not explained by unfinished writing. The treatment above is unchanged, because what it requires is a reader rather than a draft.
 
 ---
 
 Relevant Notes:
 - [[a word at madhyama can be perfected forever a word at vaikhari can be answered]] — the distinction this tension instantiates
 - [[the whole volume is wagered on express]] — the adjacent question about the book's own composition
+- [[the fifteen-chapter arc has already been drafted in full]] — the fact that removes unfinished writing as an explanation for the unreleased state
 
 Topics:
 - [[tensions]]

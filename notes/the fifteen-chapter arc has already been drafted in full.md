@@ -1,5 +1,5 @@
 ---
-description: A complete prose draft of the fifteen-chapter arc exists as the abridged edition, and none of the four founding documents records that it exists; completeness is not the same as answerability, so the draft sharpens the pilot-chapter tension rather than settling it.
+description: A complete prose draft of the fifteen-chapter arc exists as the abridged edition, unrecorded by the founding sources; it removes writing as the explanation for the unreleased state without making the book answerable.
 category: structure
 sources: ["abridged: how to read this book", "abridged: a note on sources", "abridged ch1–ch15", "atlas, colophon", "walked, colophon"]
 topics: ["[[book-structure]]", "[[answerability]]"]
