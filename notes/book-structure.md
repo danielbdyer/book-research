@@ -61,6 +61,10 @@ The working structure recorded above is the atlas's, and the seventeen trial cha
 - [[the treatment records four authorship conditions in its undercurrents]] — the author's recorded observations about writing the book, quoted
 - [[the units the treatment flags as unfinished are the shortest in the executed draft]] — the measurement that confirms two of those conditions
 
+## The open territory
+
+The two outlines the corpus contains — the atlas's thirteen sections and the mythic operating system edition's twenty-eight named units — are read as research scaffolding rather than as proposed structure, and are inventoried with an exploration state in `ops/open corpus.md`. That file exists to keep the naming of a territory distinct from a commitment to it: the project has been to the edge of considerably more ground than it has written, and the record of where it has stood is not a table of contents.
+
 ## The transfer surface
 
 `ops/chapter concordance.md` records, for each unit of the fifteen-chapter arc, what each source supplies, the executed extent, and which document is the reference text for which element. It exists so that finishing one chapter costs one lookup rather than a reading of seven documents, and it carries the revision relations defined in `CLAUDE.md`. It sits in `ops/` because it is provenance tooling for the manuscript rather than a proposition of the framework.

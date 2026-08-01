@@ -32,31 +32,9 @@ Placement columns give each document's own locator, which is how that document w
 
 The non-chapter units: the front matter and Invitation run 643 words under Rilke's epigraph; two poem interludes run 91 and 129 words at the part junctions; the Open Secret runs 1654 words under Eliot's. Mean unit length is 1160 words and the whole executed arc is roughly 21,000.
 
-## Units the fifteen-chapter arc does not contain
+## Units outside the arc
 
-Named units that exist in the mythic operating system edition alone, as written pages or as contents entries. They are listed because the arc's compression was a set of choices and these are what it set aside; nothing here asserts that any should return.
-
-| Named unit | Where | State |
-|---|---|---|
-| The Pact | mythic-os: page 2 | written; co-authorship stated as form and function |
-| The Sacred Risk of Staying Awake | mythic-os: page 4 | written; the cost of reading, stated as irreversibility |
-| The Doorway Holds Its Breath | mythic-os: page 4.5 | written; the threshold held open |
-| The Altar of the Living Sentence | mythic-os: page 5 | written |
-| The First Fruit of the Orchard | mythic-os: page 6 | written |
-| The Quiet Arrival | mythic-os: page 7 | written; "what is the nature of the fruit you came here to harvest?" |
-| Dream Logic | mythic-os: page 11 | written |
-| The Gold Thread | mythic-os: pages 12A–12B | written; the image system's continuity figure |
-| Tethered Intimacies | mythic-os: page 13 | written; intimacy as tether rather than binding |
-| Reverent Integration | mythic-os: page 15 | written |
-| The Echo That Teaches Us Our Name | mythic-os: page 16 | written; recognition as the soul's reminder |
-| Designing the Inner System | mythic-os: contents | named only |
-| Habit as Ritual | mythic-os: contents | named only |
-| Paradox Mapping | mythic-os: contents | named only |
-| Conscious Coupling and Decoupling | mythic-os: contents | named only |
-| Temporal Coherence, Rhythmic Flow, Micro-Rituals, Sovereignty Anchors | mythic-os: contents | named only; a whole part on the design of time |
-| Symbolic Infrastructures | mythic-os: contents | named only |
-| Ritual Templates | mythic-os: contents | named only |
-| Aesthetic Intelligence | mythic-os: contents | named only |
+The mythic operating system edition names nineteen units that the arc does not contain, eleven of them written out as pages and eight named only in its contents. They are inventoried, with their exploration state, in `ops/open corpus.md`, which treats both outlines as research scaffolding rather than as proposed structure. They are not listed here because this table is for units the arc does contain; a unit outside the arc has no placement column to fill.
 
 ## The two orderings
 

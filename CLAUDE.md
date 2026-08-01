@@ -1,6 +1,6 @@
 # Research vault for *Firing on All Cylinders / Aletheia*
 
-This repository is a research vault for a book about the structure of inner life. It stores atomic claims as markdown files connected by wiki links, navigated through topic maps, processed by a fixed pipeline, and validated by hooks. The system was generated from the ars-contexta derivation engine (v0.8.0) on 2026-08-01; the reasoning behind every configuration choice is recorded in `ops/derivation.md`. Three terms recur throughout the vault: *the corpus* means the four source documents in `sources/` taken together; *the book* means the manuscript they describe; *the vault* means this repository.
+This repository is a research vault for a book about the structure of inner life. It stores atomic claims as markdown files connected by wiki links, navigated through topic maps, processed by a fixed pipeline, and validated by hooks. The system was generated from the ars-contexta derivation engine (v0.8.0) on 2026-08-01; the reasoning behind every configuration choice is recorded in `ops/derivation.md`. Three terms recur throughout the vault: *the corpus* means the seven source documents in `sources/` taken together; *the book* means the manuscript they describe; *the vault* means this repository.
 
 Two obligations govern all work here. First: the book states one law about itself — "the book performs what it describes" (recorded with its anchors at [[the book performs what it describes]]) — and the vault inherits it: claims are atomic, tensions are tracked rather than resolved, every claim names its sources. Second: the vault is measured by what reaches the manuscript. The corpus's own rule, quoted in [[ripeness is not refrigeration]]: "the archive preserves; the orchard ripens." Growth that displaces writing is the failure mode to watch for.
 
@@ -34,7 +34,7 @@ Two standing author directives govern all prose and naming. Both are recorded in
 | `archive/` | Source notes: provenance records for processed material, pointing into `sources/`. |
 | `templates/` | Note templates with `_schema` blocks — the authoritative schema. |
 | `manual/` | User documentation. |
-| `ops/` | Operational state: goals, config, queue, sessions, observations, tensions, methodology, the chapter concordance, and the rethink log. |
+| `ops/` | Operational state: goals, config, queue, sessions, observations, tensions, methodology, the chapter concordance, the open-corpus inventory, and the rethink log. |
 | `scripts/queries/` | Ripgrep-based graph queries. `scripts/bootstrap.sh` restores tools in a fresh container. |
 | `.claude/` | Skills and hooks, versioned with the vault. |
 
@@ -147,6 +147,7 @@ Maintenance is condition-based. The session-orient hook counts and reports the f
 | A dated to-do | `ops/reminders.md` |
 | Material read and set aside | `ops/queue/declines.md`, with the reason |
 | Per-chapter comparison across the sources | `ops/chapter concordance.md` |
+| Territory the corpus named and never developed | `ops/open corpus.md` |
 
 ## Known risks
 

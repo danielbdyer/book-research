@@ -13,6 +13,10 @@ Regions of the seven source documents not yet extracted into claims. Working one
 - [ ] The first telling, full section pass — the document's reader-facing formulations compared against the claims already extracted from the atlas and walked documents; differences noted on the claims.
 - [ ] The space-around survey's crossover proposals — the specific connections it proposes between existing project pieces (for example: the survey's claim that the container anatomy is a general theory of set and setting), each a candidate claim.
 
+## Where the open work is enumerated
+
+The territory the corpus has named and not developed is inventoried in `ops/open corpus.md`, which reads the atlas's thirteen sections and the mythic operating system edition's twenty-eight named units as a coverage map. Twelve of those units are open in the sense of having a name and nothing else; the atlas holds the head of nearly every section with the body of almost none. An entry there becomes work by being written into this file as a task with a source location. The two files divide the labour: that one records what exists and how far it has been explored, this one records what has been picked up.
+
 ## The three drafts (added 2026-08-01)
 
 These have draft standing under `ops/methodology/source standing.md`. Extracting from them means recording what the draft states and where, without inheriting the draft's own advocacy; where a draft disagrees with a descriptive source, the disagreement is the extraction rather than a correction to either.
