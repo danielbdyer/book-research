@@ -9,7 +9,7 @@ topics: ["[[contraction-not-corruption]]"]
 
 The book's chemistry uses isomerism, the case in which the same components bonded differently produce different compounds, and its central example pairs trust with paralysis. Both are built from the same three moves: binding to something, committing, and holding something open. In trust, the held-open element is the outcome: the stake is placed and the results are released. In paralysis, the held-open element is the deciding itself: the stake never lands, and the person's energy goes into keeping the option alive. The entire difference between the two states is what the openness attaches to.
 
-The consequence is diagnostic: one structural question — where is the deferral attached? — replaces the character-flaw reading of long indecision. Walked IV records a presentation decision: the book shows the isomer in chapter 6 without stating the lesson.
+The consequence is diagnostic: one structural question — where is the deferral attached? — replaces the character-flaw reading of long indecision. Walked IV records a presentation decision: the book shows the isomer in the molecules material without stating the lesson.
 
 ## Substantiation
 

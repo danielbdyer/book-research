@@ -14,7 +14,8 @@ This map tracks questions the corpus keeps open on purpose. They are not gaps aw
 - [[the topology only exists where it is being performed]] — the corpus asks whether a map of this territory can remain play, and applies the question to its own atlas.
 - [[seventeen chapters rest at madhyama]] — the question of which words get spoken where they can no longer be revised. The corpus's recommended move is recorded in that note's treatment field: one pilot chapter, treated against every revision pass, sent to two real readers (atlas §XI.1f).
 
-- [[the twenty-eight-chapter contents hold four territories the fifteen-chapter arc drops]] — the question of what the arc's compression cost, held open because the four dropped territories are recoverable and nothing in the sources decides whether any should return.
+- [[the mythic operating system contents hold four territories the arc drops]] — the question of what the arc's compression cost, held open because the four dropped territories are recoverable and nothing in the sources decides whether any should return.
+- [[the earlier contents distribute transcendence where the arc concentrates a peak]] — the question of whether the book's central experience is staged as one event or held as a standing theme, on which the corpus's two arrangements disagree.
 
 ## Standing questions without claims yet
 
@@ -25,7 +26,7 @@ This map tracks questions the corpus keeps open on purpose. They are not gaps aw
 
 ## What remains
 
-Each standing question graduates to a claim when work begins on it. The Barrett-McLaren question is nearest to ready, since it bears directly on chapters 5 and 6.
+Each standing question graduates to a claim when work begins on it. The Barrett-McLaren question is nearest to ready, since it bears directly on the Alphabet of the Soul and the Molecules of Experience.
 
 ---
 

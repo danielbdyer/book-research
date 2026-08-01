@@ -2,7 +2,7 @@
 description: This note is the provenance record for the abridged edition, a complete prose draft of the fifteen-chapter arc; it is the only document in sources/ that executes the arc rather than describing or planning it.
 source_file: "sources/firing on all cylinders - abridged edition.pdf"
 status: partially-extracted
-extracted: ["[[the fifteen-chapter arc has already been drafted in full]]", "[[trust paralysis and foreclosure differ only on the commit-defer axis]]", "[[the prose drafts use the vetoed triad names]]", "[[the abridged edition compresses the chapter one poem rather than reproducing it]]", "[[the drafts disagree about which person the book speaks in]]"]
+extracted: ["[[the whole arc has already been drafted once in prose]]", "[[trust paralysis and foreclosure differ only on the commit-defer axis]]", "[[the prose drafts use the vetoed triad names]]", "[[the abridged edition compresses the opening poem rather than reproducing it]]", "[[the drafts disagree about which person the book speaks in]]"]
 topics: []
 ---
 
@@ -14,7 +14,7 @@ Full title: "Firing on All Cylinders — A Psychedelic Architecture for the Mode
 
 This document has draft standing under `ops/methodology/source standing.md`. It differs from every other document in `sources/` in one respect that governs how it is read: it is the manuscript, executed, rather than an account of the manuscript. Its arguments for the framework are the book's arguments made to a reader, and the vault records that they were made without inheriting their force.
 
-Its chapter sequence is the Arc and the Gloss treatment's sequence, chapter for chapter and title for title, from "The House with No Ceiling" through "The Engineer's Eye." The two documents are the same arc in plan and in prose. Unlike the treatment, this edition is not named in the atlas's or the walked document's colophons; the founding sources describe an arc that had already been written out once, and do not record that fact. The claim is [[the fifteen-chapter arc has already been drafted in full]].
+Its chapter sequence is the Arc and the Gloss treatment's sequence, chapter for chapter and title for title, from "The House with No Ceiling" through "The Engineer's Eye." The two documents are the same arc in plan and in prose. Unlike the treatment, this edition is not named in the atlas's or the walked document's colophons; the founding sources describe an arc that had already been written out once, and do not record that fact. The claim is [[the whole arc has already been drafted once in prose]].
 
 ## Citation
 

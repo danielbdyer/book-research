@@ -17,10 +17,11 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 - [[the book is a tuning fork and the reader is the striking surface]] — the image the book installs on page one to govern its ending and its publication
 - [[ripeness is not refrigeration]] — the corpus's rule against indefinite preservation of finished work
 - [[seventeen chapters rest at madhyama]] — the meta-tension: the manuscript's current state, and the pilot-chapter move
-- [[the fifteen-chapter arc has already been drafted in full]] — the fact that narrows that tension to its actual term, since a complete draft still rests at madhyamā
+- [[the whole arc has already been drafted once in prose]] — the fact that narrows that tension to its actual term, since a complete draft still rests at madhyamā
 - [[the drafts disagree about which person the book speaks in]] — the unsettled question of who the answerable speaker is
 - [[the drafts execute one of the seven designed apparatus devices]] — what a fully treated pilot chapter would actually have to build
-- [[the treatment records four authorship conditions in its undercurrents]] — the author's recorded conditions bearing on which chapter can be finished next
+- [[the treatment records four authorship conditions in its undercurrents]] — the author's recorded conditions bearing on which unit can be finished next
+- [[what is recognized cannot be un-recognized]] — the one place the corpus states the reading contract as two-sided, with a cost the reader is invited to accept
 
 ## Adjacent maps
 

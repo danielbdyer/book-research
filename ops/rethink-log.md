@@ -34,3 +34,21 @@ A record of each configuration review: what evidence prompted it, what was propo
 **Consequence found during implementation.** Building the concordance surfaced a finding that revised an earlier claim: the abridged edition follows the treatment's chapter sequence exactly and contains almost none of the treatment's second-edition content, which qualifies what "drafted in full" means. The claim is `notes/the executed draft carries the arc's sequence without the treatment's five rooms.md`. This is the concordance doing the work it was proposed for, on its first pass.
 
 **Open after this review.** `ops/observations/` and `ops/tensions/` were created during this session and hold one observation, on the session-start hook committing unsigned records. It is pending and is not consumed by any proposal above.
+
+---
+
+## 2026-08-01 — Reference by name
+
+**Prompted by.** The author, on reading the transfer-surface pass. The concordance had been keyed by chapter number, one through fifteen, and the notes referred to the book's material the same way.
+
+**The finding, in the author's terms.** Referring to the material by chapter number biases future work toward believing a chapter progression is already settled. It is not. What the author holds is the multi-step arc of the psychedelic experience; the chapter scheme fitted to that arc is unsettled, and the corpus's own documents propose different orderings — the mythic operating system contents invite an arrangement unlike the one the fifteen-unit arc uses. A number is useful as a citation pointer and unfit as the referent for a relational link, because it cannot be commingled across the corpus's several tables of contents without confusion about what is being discussed.
+
+**Proposal and decision.** Make the named unit the referent for the book's material; keep numbers as citation locators inside source anchors only. Approved by the author on 2026-08-01 and implemented in the same session.
+
+**Implemented as.** `ops/methodology/reference by name.md` as the standing directive; a Reference section in `CLAUDE.md` placed above the Voice section; `manuscript_unit: "named unit"` in `ops/derivation-manifest.md`. `ops/chapter concordance.md` was re-keyed so the named unit is the row and each document's placement is a column, which is what makes the corpus's orderings comparable. Six notes were renamed to drop numbered or count-led handles, and every numbered content reference in `notes/` was rewritten to name its unit, including in four notes that predate the draft harvest.
+
+**Reasoning recorded.** The directive is an application of two policies already standing rather than a new principle. The prose register requires exact referents, and this specifies which referent is exact for this material: a name denotes the unit's concern, where a number denotes only its position in one arrangement. The vocabulary policy requires the reference surface to be denotative, and a number is not denotative of anything but sequence. The directive deliberately does not restrict ordering claims, which remain among the most useful things the vault holds; a sequence claim is simply stated as an ordering of named units, so that it survives a change of scheme.
+
+**Consequence found during implementation.** Re-keying the concordance made the two arrangements comparable side by side and surfaced a divergence the numbered table had hidden: the mythic operating system contents stage no peak at all, distributing transcendence as a standing theme across a whole part, where the arc concentrates it into a single break with a descent after it. Given that the author's stated attachment is to the arc of the psychedelic experience rather than to any chapter scheme, this is the sharpest structural disagreement in the corpus. The claim is `notes/the earlier contents distribute transcendence where the arc concentrates a peak.md`. Three further claims were harvested from the same edition's written chapter in the same pass.
+
+**Open after this review.** Four notes predating the draft harvest carry descriptions over the 220-character schema limit — `david loy`, `internal family systems`, `suffering is contraction never corruption`, and `the tuesday is the temple`. They are unrelated to this review and are left for a /verify pass.

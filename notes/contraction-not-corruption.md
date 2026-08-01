@@ -8,7 +8,7 @@ topics: ["[[index]]"]
 
 This map gathers the book's theory of suffering. The doctrine, stated in the book's own words: "Nothing in you is broken. Something in you is folded" (first-telling, the reframe). The technical version runs through the Trika tradition's three malas (three contractions of fullness) and through the book's own container anatomy, whose three structures each have a characteristic failure. The practical version is the Privation Principle: a suffering-state is diagnosed by what it is missing rather than by what is wrong with it, so the diagnosis itself points at the cure.
 
-The formulas below are the book's canonical examples. Each is a separate claim because each does separate work in chapter 6.
+The formulas below are the book's canonical examples. Each is a separate claim because each does separate work in the Molecules of Experience material.
 
 ## Claims in this map
 
@@ -19,6 +19,7 @@ The formulas below are the book's canonical examples. Each is a separate claim b
 - [[trust and paralysis are isomers]] — the formula pair showing identical components with one differently attached bond
 - [[trust paralysis and foreclosure differ only on the commit-defer axis]] — the third arrangement, supplied by the abridged edition, which turns that pair into a group of three
 - [[the minus sign is what makes a molecule formula prescriptive]] — the notation rule that sorts the catalogue into conditions described and suffering-states with an instruction attached
+- [[intimacy is a tether rather than a binding]] — the healthy state that stands opposite the enmeshment privation
 - [[forgiveness is sever then release]] — the ordering rule, which carries the book's critique of premature peace
 - [[the triads privations map the three malas corner for corner]] — the correspondence between the anatomy's failures and Trika's contractions
 - [[david loy]] — the independent Western arrival at the first contraction, which the corpus counts as external confirmation

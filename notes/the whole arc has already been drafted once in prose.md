@@ -5,7 +5,7 @@ sources: ["abridged: how to read this book", "abridged: a note on sources", "abr
 topics: ["[[book-structure]]", "[[answerability]]"]
 ---
 
-# the fifteen-chapter arc has already been drafted in full
+# the whole arc has already been drafted once in prose
 
 The abridged edition carries the whole arc in continuous manuscript prose: a reading contract, a lineage, a prologue, fifteen chapters across five parts, two interludes, an epilogue, and a note on sources. Its chapter sequence matches the Arc and the Gloss treatment chapter for chapter and title for title. The arc the four founding documents describe has therefore been executed once, at reduced length, from first sentence to last.
 

@@ -24,8 +24,8 @@ One qualification cuts against reading the earlier document as simply peakless. 
 ---
 
 Relevant Notes:
-- [[the twenty-eight-chapter contents hold four territories the fifteen-chapter arc drops]] — the other divergence between the two arrangements, at the level of subject rather than shape
-- [[four later chapter titles appear as page titles inside the earlier edition's single chapter]] — the same raising of page-scale material to book scale, seen in four other units
+- [[the mythic operating system contents hold four territories the arc drops]] — the other divergence between the two arrangements, at the level of subject rather than shape
+- [[four named units of the arc appear as pages inside the earliest edition's single chapter]] — the same raising of page-scale material to book scale, seen in four other units
 - [[psychedelic names a movement not a substance]] — the process both arrangements are arranging, and the reason its placement is a doctrinal question
 - [[the book performs what it describes]] — the law that makes an arrangement's shape part of its argument
 

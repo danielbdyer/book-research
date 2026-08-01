@@ -2,7 +2,7 @@
 description: This note is the provenance record for the mythic operating system edition, which carries a twenty-eight-chapter table of contents and one fully written chapter at what the author names the work's high-water mark of voice.
 source_file: "sources/firing on all cylinders - a mythic operating system.pdf"
 status: partially-extracted
-extracted: ["[[the twenty-eight-chapter contents hold four territories the fifteen-chapter arc drops]]", "[[four later chapter titles appear as page titles inside the earlier edition's single chapter]]", "[[the abridged edition compresses the chapter one poem rather than reproducing it]]", "[[the drafts disagree about which person the book speaks in]]"]
+extracted: ["[[the mythic operating system contents hold four territories the arc drops]]", "[[four named units of the arc appear as pages inside the earliest edition's single chapter]]", "[[the abridged edition compresses the opening poem rather than reproducing it]]", "[[the drafts disagree about which person the book speaks in]]"]
 topics: []
 ---
 
@@ -16,7 +16,7 @@ The author's assessment on submission, recorded here as the reason the document 
 
 This document has draft standing under `ops/methodology/source standing.md`. It is the earliest state in `sources/` by every internal signal available: its table of contents names Chapter 3 "Sacred Nostalgia & The House with No Walls" while its prose calls the same image the house with no ceiling; its page numbering accretes rather than resolves; and it is named in none of the four founding documents, including in the colophons that list what the atlas and the walked document were compiled from.
 
-Its relation to the fifteen-chapter arc is not one of summary or expansion in either direction. Four of the later arc's chapter titles appear inside this document's single chapter as page titles, in a different order, and the later arc drops most of this document's contents entirely. The two claims are [[four later chapter titles appear as page titles inside the earlier edition's single chapter]] and [[the twenty-eight-chapter contents hold four territories the fifteen-chapter arc drops]].
+Its relation to the fifteen-chapter arc is not one of summary or expansion in either direction. Four of the later arc's chapter titles appear inside this document's single chapter as page titles, in a different order, and the later arc drops most of this document's contents entirely. The two claims are [[four named units of the arc appear as pages inside the earliest edition's single chapter]] and [[the mythic operating system contents hold four territories the arc drops]].
 
 ## Citation
 

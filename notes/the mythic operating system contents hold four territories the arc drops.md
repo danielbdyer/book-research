@@ -1,11 +1,11 @@
 ---
-description: The mythic operating system edition's contents name four territories absent from the fifteen-chapter arc: the design of daily time, externalized personal systems, aesthetic practice, and the arc of partnership.
+description: The mythic operating system contents name four territories the arc contains nowhere: the design of daily time, externalized personal systems, aesthetic practice, and the deliberate arc of partnership.
 category: structure
 sources: ["mythic-os: contents", "mythic-os: book overview", "arc-gloss: how to hold this", "abridged ch1–ch15"]
 topics: ["[[book-structure]]", "[[open-questions]]"]
 ---
 
-# the twenty-eight-chapter contents hold four territories the fifteen-chapter arc drops
+# the mythic operating system contents hold four territories the arc drops
 
 The mythic operating system edition sets out twenty-eight chapters in six parts. The Arc and the Gloss treatment and the abridged edition both set out fifteen chapters in five parts. The two schemes are not a longer and a shorter version of one scope: most of the earlier contents has no place in the later arc, and four groups of chapters name territory the later arc does not enter anywhere.
 
@@ -16,19 +16,19 @@ What the divergence establishes is that the later arc's compression was a set of
 ## Substantiation
 
 - The six parts of the earlier scheme are named at `mythic-os: contents`: The Mythic Interior, Fractal Integrity, The Alchemical Relational Field, Architecture of a Sacred Day, Transcendence Without Bypass, and Praxis Companion.
-- The dropped territories, by chapter number in that scheme: time design at chapters 15 through 18 (Temporal Coherence, Designing Rhythmic Flow, Micro-Rituals and Sensory UX, Sovereignty Anchors); externalized systems at chapters 4, 22, and 26 (Soul-Aligned Second Brains, Symbolic Infrastructures, Ritual Templates); aesthetic practice at chapter 27 (Aesthetic Intelligence: Curating Beauty as Spiritual Practice); partnership arc at chapter 14 (Conscious Coupling & Decoupling: Evolutionary Partnerships).
-- Chapters that carry over into the later arc under other names are not counted among the four: chapter 8 becomes the three-loop chapter, chapter 12 keeps its title as the ninth chapter of the later arc, chapter 11 becomes the relational field's witnessing material, and chapter 28's inner and outer audit becomes the engineer's eye.
+- The dropped territories, by the named units that carry them in that scheme: time design in Temporal Coherence, Designing Rhythmic Flow, Micro-Rituals and Sensory UX, and Sovereignty Anchors, which together form a whole part; externalized systems in Soul-Aligned Second Brains, Symbolic Infrastructures, and Ritual Templates; aesthetic practice in Aesthetic Intelligence: Curating Beauty as Spiritual Practice; and the partnership arc in Conscious Coupling & Decoupling: Evolutionary Partnerships.
+- Units that carry over into the arc under other names are not counted among the four: Mapping the Ecosystem of Self becomes the Three Loops, Erotic-Spiritual Intelligence keeps its name, Witnessing as Lifeblood becomes the Third Entity's material, and the Inner/Outer Systems Audit becomes the Engineer's Eye.
 - The earlier scheme states an organizing figure the later arc does not use: "The book unfolds in concentric spirals — each layer deepening the reader's relationship with themselves, their relationships, and their systems of meaning" (mythic-os: book overview). The later arc is organized as a single traverse with a peak, described at `arc-gloss: how to hold this` as five parts and four overlays.
 - The same overview names three intended-reader groups the later arc's front matter does not address, of which one bears on the dropped territories: "Creators of inner architectures and Second Brains" (mythic-os: book overview).
-- Source standing: this is a draft under `ops/methodology/source standing.md`, and a table of contents is a plan rather than written material. The four territories are named chapters, not extant text; only chapter 1 of this edition was written.
+- Source standing: this is a draft under `ops/methodology/source standing.md`, and a table of contents is a plan rather than written material. The four territories are named units, not extant text; only the first unit of this edition was written out.
 
 ---
 
 Relevant Notes:
-- [[four later chapter titles appear as page titles inside the earlier edition's single chapter]] — the other relation between the two schemes, running in the opposite direction
+- [[four named units of the arc appear as pages inside the earliest edition's single chapter]] — the other relation between the two schemes, running in the opposite direction
 - [[the tuesday is the temple]] — the doctrine the dropped time-design chapters would have served
 - [[beauty recruits the wrong posture]] — the reason the later arc has for treating aesthetic practice as a risk rather than a chapter
-- [[the fifteen-chapter arc has already been drafted in full]] — the scope that these four territories are absent from
+- [[the whole arc has already been drafted once in prose]] — the scope that these four territories are absent from
 
 Topics:
 - [[book-structure]]

@@ -5,7 +5,7 @@ sources: ["mythic-os: page 9", "abridged ch1", "arc-gloss: ch1", "atlas §XI.1a"
 topics: ["[[book-structure]]", "[[felt-shift]]"]
 ---
 
-# the abridged edition compresses the chapter one poem rather than reproducing it
+# the abridged edition compresses the opening poem rather than reproducing it
 
 Both prose drafts place a poem at the heart of the first chapter, and the Arc and the Gloss treatment specifies that position as the chapter's peak and as a gate. The two drafts put different texts there. The mythic operating system edition prints "Time Is Not Linear" entire — roughly a hundred lines of verse, moving through ages thirty-three, fifty-four, forty-two, and back to thirty-two. The abridged edition prints five lines of prose at the same position, keeping the title's proposition and the chapter's three images and discarding the biographical sequence.
 
@@ -23,7 +23,7 @@ The compression is a worked instance of a treatment the corpus records as pendin
 
 Relevant Notes:
 - [[beauty recruits the wrong posture]] — the tension whose named treatment this compression carries out
-- [[four later chapter titles appear as page titles inside the earlier edition's single chapter]] — the same two documents compared at the level of the whole arc
+- [[four named units of the arc appear as pages inside the earliest edition's single chapter]] — the same two documents compared at the level of the whole arc
 - [[felt shift versus felt confirmation]] — the mechanism that makes the uncompressed version a risk rather than only a length
 
 Topics:

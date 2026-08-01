@@ -69,11 +69,11 @@ The corpus contains two arrangements of overlapping material, and the vault hold
 
 Stated in the notation defined in `CLAUDE.md`, each naming both states and the direction.
 
-- The Time Is Not Linear poem is **compressed into** the House with No Ceiling in `abridged ch1` from `mythic-os: page 9`, from roughly a hundred verse lines to five prose lines at the same designated position. Claim: `notes/the abridged edition compresses the chapter one poem rather than reproducing it.md`.
+- The Time Is Not Linear poem is **compressed into** the House with No Ceiling in `abridged ch1` from `mythic-os: page 9`, from roughly a hundred verse lines to five prose lines at the same designated position. Claim: `notes/the abridged edition compresses the opening poem rather than reproducing it.md`.
 - The Generative Triad's corner names are **revised into** `atlas §II` from `abridged ch4` and `arc-gloss: ch4`, replacing Knife, Thread, and Vessel with Wall, Door, and Floor. Claim: `notes/the prose drafts use the vetoed triad names.md`.
-- The House with No Ceiling, the Way of Ripening, the Afterglow, and the Geometry of Becoming are **revised into** separate units of the arc from pages of a single written chapter in `mythic-os`. Claim: `notes/four later chapter titles appear as page titles inside the earlier edition's single chapter.md`.
-- Four territories are **dropped at** the arc from `mythic-os: contents`, listed in the table above. Claim: `notes/the twenty-eight-chapter contents hold four territories the fifteen-chapter arc drops.md`.
-- The unit-closing instruction is **added at** `abridged`, appearing in no design document. Claim: `notes/the chapter-closing prompt changes genre where the book turns to praxis.md`.
+- The House with No Ceiling, the Way of Ripening, the Afterglow, and the Geometry of Becoming are **revised into** separate units of the arc from pages of a single written chapter in `mythic-os`. Claim: `notes/four named units of the arc appear as pages inside the earliest edition's single chapter.md`.
+- Four territories are **dropped at** the arc from `mythic-os: contents`, listed in the table above. Claim: `notes/the mythic operating system contents hold four territories the arc drops.md`.
+- The unit-closing instruction is **added at** `abridged`, appearing in no design document. Claim: `notes/the closing prompt changes genre where the book turns to praxis.md`.
 - The seventeen patron assignments are **carried unchanged into** `abridged` from `arc-gloss`, every unit opening under the epigraph the treatment specifies. This is the only element checked so far that transferred without alteration; the one qualification is the Alphabet of the Soul, where the treatment seats McLaren beside Gendlin and the executed epigraph is Gendlin alone.
 - The five rooms are **dropped at** `abridged` from `arc-gloss: the five rooms`, surviving as one phrase, one lineage-list name, and one entry in a list of influences. Claim: `notes/the executed draft carries the arc's sequence without the treatment's five rooms.md`.
 

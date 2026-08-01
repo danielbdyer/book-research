@@ -6,13 +6,14 @@ topics: ["[[index]]"]
 
 # relational-field
 
-This map gathers the claim the corpus ranks as the book's deepest, together with the structural problem that claim creates for a printed book. Chapter 8 makes the claim under bell hooks's patronage: two people in genuine contact generate "a third thing that neither contains" (walked VIII), which the book names the Third Entity. The first-telling summarizes the field's function: "the field does work. It metabolizes things neither person can metabolize alone" (first-telling: the between). The clearest case is grief, which the book holds cannot complete without a witness. The supporting lineage includes Jessica Benjamin (thirdness, and repair as the mechanism of relationship), D. W. Winnicott (transitional space, and the other becoming real by surviving destruction), and the law the atlas records as the practice lineages' single unanimous agreement: "nothing transforms from the audience" (atlas §IX.3).
+This map gathers the claim the corpus ranks as the book's deepest, together with the structural problem that claim creates for a printed book. The Third Entity material makes the claim under bell hooks's patronage: two people in genuine contact generate "a third thing that neither contains" (walked VIII), which the book names the Third Entity. The first-telling summarizes the field's function: "the field does work. It metabolizes things neither person can metabolize alone" (first-telling: the between). The clearest case is grief, which the book holds cannot complete without a witness. The supporting lineage includes Jessica Benjamin (thirdness, and repair as the mechanism of relationship), D. W. Winnicott (transitional space, and the other becoming real by surviving destruction), and the law the atlas records as the practice lineages' single unanimous agreement: "nothing transforms from the audience" (atlas §IX.3).
 
 The atlas records the structural problem under its own heading at §VIII — "the book's deepest claim, and its most exposed flank": the claim concerns the relational field, and reading is solitary. The treatment under trial is recorded in [[tensions]].
 
 ## Claims in this map
 
-- [[the field between two people does work]] — the Third Entity claim as chapter 8 makes it
+- [[the field between two people does work]] — the Third Entity claim as that unit makes it
+- [[intimacy is a tether rather than a binding]] — the positive name for a connection that holds without enclosing, which the catalogue otherwise identifies only by its failure
 - [[grief cannot complete alone]] — the strongest case, carried by all four source documents
 - [[nothing transforms from the audience]] — the law the book's practice lineages agree on unanimously
 - [[grief is sever plus love plus persist]] — the formula whose witness-as-catalyst prefigures this map's claim
