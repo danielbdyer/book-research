@@ -1,17 +1,17 @@
 ---
-description: The tension between the prose's quality and the book's purpose — well-made sentences produce collectors rather than practitioners — treated by deliberately plain passages.
+description: Atlas §XI.1a records that the book's prose recruits an appreciating posture, so a reader collects sentences while the practices go undone; the treatment under trial is a pass of deliberately plain prose.
 category: tension
 status: live
 treatment: "the Plain Water Pass: stretches of deliberately unornamented prose"
 sources: ["atlas §XI.1a", "walked XI", "first-telling: the honesty"]
-topics: []
+topics: ["[[tensions]]", "[[book-structure]]"]
 ---
 
 # beauty recruits the wrong posture
 
-The corpus's frank assessment identifies a failure mode created by the book's own strengths: beautiful prose recruits appreciation, and an appreciating reader becomes a connoisseur of the book — collecting sentences — while the practices go undone. The posture the book needs is a practitioner's; the posture its style produces is an audience's, and the corpus's own law holds that nothing transforms from the audience.
+Atlas §XI.1a records a failure mode the book's style produces: "the prose beauty recruits appreciation-posture: the reader becomes a connoisseur rather than a practitioner." The first-telling states the same finding for the reader: "beauty recruits spectators. Well-made sentences can turn a reader into a connoisseur of the book — collecting lines, admiring passages — while their actual daily life goes untouched" (first-telling: the honesty). The posture the book needs is a practitioner's, and the corpus's own law holds that nothing transforms from the audience.
 
-The treatment under trial is a revision pass producing stretches of deliberately plain prose, for two effects: the ornamented passages regain meaning by contrast, and ordinary life becomes credible as subject matter in a book that argues for ordinary life. A related problem has its own note: fluent prose can also counterfeit the book's somatic verification signal, which [[felt shift versus felt confirmation]] documents.
+The treatment under trial is a revision pass producing stretches of deliberately plain prose. The atlas states two intended effects at §XI.1a and §XI.1e: unornamented stretches restore contrast to the ornamented ones, and ordinary life becomes credible as subject matter. Whether the pass produces those effects is untested. A related problem has its own note: fluent prose can also counterfeit the book's somatic verification signal, which [[felt shift versus felt confirmation]] documents.
 
 ## Substantiation
 

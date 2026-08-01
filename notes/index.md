@@ -1,6 +1,7 @@
 ---
-description: The entry point to the research vault for the book Firing on All Cylinders / Aletheia, listing its six doctrine maps and six structural maps.
+description: This index is the entry point to the research vault for Firing on All Cylinders / Aletheia; it lists the vault's six doctrine maps, six structural maps, and the vocabulary crosswalk.
 type: moc
+topics: ["[[index]]"]
 ---
 
 # index
@@ -26,15 +27,16 @@ The atlas's closing section (§XII) resolves the book's entire field into six ma
 - [[book-structure]] — the manuscript's parts, chapters, overlays, and apparatus; claim coverage runs against this map
 - [[tensions]] — the registry of tensions the book keeps deliberately unresolved, each with its treatment
 - [[research-frontier]] — candidate thinkers and concepts awaiting evaluation
-- [[figure glossary]] — the corpus's narrative vocabulary, connected to the concerns it names
 - [[methods]] — the vault's working rules
 - [[open-questions]] — questions the corpus holds open on purpose
 
 ## Getting started
 
 1. Read `ops/goals.md` for the active threads.
-2. Put new material in `inbox/`; run `/reduce` to extract claims from it.
-3. The user manual is at `manual/manual.md`.
+2. Read [[methods]] for the vault's working rules and the registry of the four source documents.
+3. Put new material in `inbox/`; run /reduce to extract claims from it.
+4. The standing work is listed in `ops/queue/candidates.md` (thinker and concept evaluations) and `ops/queue/extractions.md` (source regions not yet extracted).
+5. The user manual is at `manual/manual.md`.
 
 ---
 

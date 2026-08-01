@@ -2,6 +2,7 @@
 
 Regions of the four source documents not yet extracted into claims. Working one of these means: read the region, extract against the categories in `ops/derivation-manifest.md` under the admission standard, connect the new claims into topic maps with /reflect, and update the source's archive note. Mark `[x]` with the date and the number of claims produced.
 
+- [ ] The remainder of the central-process material (atlas §I–§II; walked I–II) — the three names of the central process beyond the first, the play doctrine's remaining material, the Clearing, and the thisness lineage (Scotus, Hopkins, Deleuze, and the sister ontology project). Produces claims for [[recognition]] and [[container-anatomy]].
 - [ ] The twelve primitives individually (atlas §III; walked III) — each primitive's definition, its pair, and its place in the three make/unmake pairs. Produces up to twelve claims plus the closure-test claim's expansion.
 - [ ] The molecule catalogue (atlas §IV; walked IV) — the eight clusters and the named molecules beyond the four canonical formulas (Sanctuary, Threshold, Surrender, Belonging, and the rest as they earn admission).
 - [ ] The engine detail (atlas §V; walked V) — the three loops individually, their misfire signatures, the four-axis movement grid, and the treatment of high-energy states.

@@ -1,13 +1,14 @@
 ---
-description: The map for the book's claim that the field between people is a real participant that metabolizes what neither person can alone — and for the structural problem this poses for a book.
+description: This map holds the book's claim that the field between two people is a real participant doing work neither person can do alone, together with the structural problem that claim creates for a book read by one person.
 type: moc
+topics: ["[[index]]"]
 ---
 
 # relational-field
 
-This map gathers the claim the corpus ranks as the book's deepest, together with the structural problem that claim creates for a printed book. The claim, made in chapter 8 under bell hooks's patronage: two people in genuine contact generate a third thing that neither contains — the book calls it the Third Entity — and that field does real work, metabolizing what neither person can metabolize alone. The clearest case is grief, which the book holds cannot complete without a witness. The supporting lineage includes Jessica Benjamin (thirdness, and repair as the mechanism of relationship), D. W. Winnicott (transitional space, and the other becoming real by surviving destruction), and the finding the book attributes to every practice lineage it consulted: "nothing transforms from the audience."
+This map gathers the claim the corpus ranks as the book's deepest, together with the structural problem that claim creates for a printed book. Chapter 8 makes the claim under bell hooks's patronage: two people in genuine contact generate "a third thing that neither contains" (walked VIII), which the book names the Third Entity. The first-telling summarizes the field's function: "the field does work. It metabolizes things neither person can metabolize alone" (first-telling: the between). The clearest case is grief, which the book holds cannot complete without a witness. The supporting lineage includes Jessica Benjamin (thirdness, and repair as the mechanism of relationship), D. W. Winnicott (transitional space, and the other becoming real by surviving destruction), and the law the atlas records as the practice lineages' single unanimous agreement: "nothing transforms from the audience" (atlas §IX.3).
 
-The structural problem follows directly, and the corpus names it rather than hiding it: the book's deepest claim concerns the relational field, and reading is solitary. The treatment under trial is recorded in [[tensions]].
+The atlas records the structural problem under its own heading at §VIII — "the book's deepest claim, and its most exposed flank": the claim concerns the relational field, and reading is solitary. The treatment under trial is recorded in [[tensions]].
 
 ## Claims in this map
 

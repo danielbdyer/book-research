@@ -113,6 +113,16 @@ for f in $(ls -t ops/methodology/*.md 2>/dev/null | head -5); do
   head -3 "$f"
 done
 
+# Reminders (unchecked entries surface at session start)
+if [ -f ops/reminders.md ]; then
+  DUE=$(grep '^- \[ \]' ops/reminders.md 2>/dev/null)
+  if [ -n "$DUE" ]; then
+    echo "--- Reminders (ops/reminders.md) ---"
+    echo "$DUE"
+    echo ""
+  fi
+fi
+
 # Condition-based maintenance signals
 OBS_COUNT=$(ls -1 ops/observations/*.md 2>/dev/null | wc -l | tr -d ' ')
 TENS_COUNT=$(ls -1 ops/tensions/*.md 2>/dev/null | wc -l | tr -d ' ')

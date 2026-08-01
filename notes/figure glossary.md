@@ -1,8 +1,8 @@
 ---
-description: The correspondence between the corpus's narrative vocabulary and the vault's denotative names, held as graph content rather than as metadata on the notes it decorates.
+description: This note records the correspondence between the corpus's narrative vocabulary and the vault's denotative names; the correspondence is graph content, never metadata on the notes it decorates.
 category: image
 sources: ["atlas §0 and §XII", "walked, colophon", "space-around, method preamble"]
-topics: []
+topics: ["[[methods]]", "[[index]]"]
 ---
 
 # figure glossary
@@ -28,7 +28,7 @@ The corpus speaks in figures; the vault's reference surface speaks in concerns. 
 | fault lines; the fault-line country | [[tensions]] | atlas §XI |
 | the space around | [[research-frontier]] | survey title |
 | harvest; which fruit falls | the /reduce phase, and the output rule in [[methods]] | walked §V |
-| the orchard; composting | the metabolic `state:` field on claims | atlas §V.3 |
+| the orchard; composting | the `state:` field on claims | atlas §V.3 |
 | "walked. still true." | the /verify phase — the corpus's image of verification by use | atlas §X.6b |
 | the frank assessment | the /rethink phase | walked, colophon |
 

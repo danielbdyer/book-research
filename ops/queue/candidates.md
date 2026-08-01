@@ -2,24 +2,26 @@
 
 Transcribed from the space-around survey (see `archive/source — the space around.md`). None of these have been researched beyond what the survey itself says. Evaluating one means: read the primary work, complete or create the candidate note in `notes/` (case for, case against, admission standard applied, recommendation), and leave the seating decision to the author. The admission standard: the addition must actually change how the project thinks.
 
-Format: `- [ ] name — what the survey says it bears on`. Mark `[x]` with the outcome (seated as X / declined because Y) when done.
+Format: `- [ ] name — what the survey says it bears on`. When an evaluation is complete, fill the candidate note's `recommendation:` field and change the entry here to `- [e] name — evaluated, recommendation recorded, awaiting the author's decision`. Mark `[x]` only with the author's outcome (seated as X / declined because Y).
+
+The section headings below reproduce the survey's own organization, which follows the book's argument. Key for headings whose terms the vault does not otherwise define: *the fold* is the book's term for protective structure that persists after its cause (treated in `notes/contraction-not-corruption.md`); *the instrument* is the somatic verification test (`notes/felt-shift.md`); *the anatomy* is Wall, Door, and Floor (`notes/container-anatomy.md`); *the alphabet* is the twelve verb-primitives; *the chemistry* is the molecule formulas; *the engine* is the three loops; *the between* is the relational field (`notes/relational-field.md`); *the Racket* is the book's diagnostic for a self-sustaining complaint-and-payoff structure.
 
 ## Priority (the survey's own ranking)
 
 - [ ] Gregory Bateson — double bind as the Racket's ancestor; levels of learning as the folds' formal ladder; ecology of mind. Candidate note exists: `notes/gregory bateson.md`.
-- [ ] Ignatius of Loyola, the Spiritual Exercises — the four-century precedent for the performing book, companion included. Candidate note exists: `notes/ignatius of loyola.md`.
+- [ ] Ignatius of Loyola, the Spiritual Exercises — the 1548 precedent for the performing book, companion included. Candidate note exists: `notes/ignatius of loyola.md`.
 - [ ] Internal Family Systems (Richard Schwartz) — the clinical near-twin; the book needs a stated position. Candidate note exists: `notes/internal family systems.md`.
 - [ ] Hartmut Rosa — resonance as the tuning-fork image's completed theory, uncontrollability clause included. Candidate note exists: `notes/hartmut rosa.md`.
-- [x] The instrument counterweights (felt shift versus felt confirmation; muted signal and titration) — admitted directly as a tension: `notes/felt shift versus felt confirmation.md`. Deeper sourcing (processing-fluency and interoception literature) remains open.
+- [ ] The instrument counterweights (felt shift versus felt confirmation; the muted signal and titration) — the tension itself is already admitted at `notes/felt shift versus felt confirmation.md`. What remains is the sourcing: grounding both counterweights in the processing-fluency and interoception literature rather than in the survey's summary.
 
-## Around the opening problem (insight that does not move anything)
+## Around "insight that doesn't move anything"
 
 - [ ] Louis Sass — hyperreflexivity: self-monitoring as the pathology itself.
 - [ ] Daniel Wegner — ironic process theory: monitoring produces the monitored thought.
 - [ ] John Vervaeke — four kinds of knowing; the survey calls him the book's most conspicuous living interlocutor.
 - [ ] Robert Kegan — subject-object theory; immunity to change as the Racket with a worksheet.
 
-## Around the fold
+## Around "folded, not broken"
 
 - [ ] Hysteresis (materials physics) — why folds persist after their cause.
 - [ ] Attractor landscapes (dynamical systems) — folds as carved valleys; practices reshape the landscape.
@@ -27,7 +29,7 @@ Format: `- [ ] name — what the survey says it bears on`. Mark `[x]` with the o
 - [ ] Axel Honneth — recognition at social scale; misrecognition as an imposed fold.
 - [ ] Jorge Ferrer — participatory pluralism, counterweight to two-traditions-one-conclusion.
 
-## Around the reclaimed word
+## Around the word psychedelic
 
 - [ ] Ido Hartogsohn — set and setting generalized; the survey proposes the container anatomy is a general theory of it.
 - [ ] The REBUS/annealing model — heat then slow cooling as the case for the descent chapters.
@@ -44,7 +46,7 @@ Format: `- [ ] name — what the survey says it bears on`. Mark `[x]` with the o
 ## Around the anatomy
 
 - [ ] Wilfred Bion — container/contained; the survey's nominee if the container-makers take one more chair.
-- [ ] Autopoiesis (Maturana and Varela) — the cell as the first container; possibly stronger evidence than the thirty builders.
+- [ ] Autopoiesis (Maturana and Varela) — the cell as the first container; the survey suggests it may be stronger evidence than the twenty-nine builders.
 - [ ] Ma (Japanese aesthetics) — the pregnant interval; the same discovery as the tradition's junction concept.
 - [ ] Temenos — the precinct cut for the sacred; the Wall's oldest credential.
 - [ ] Elinor Ostrom — commons design principles as the anatomy at institutional scale.
@@ -87,7 +89,7 @@ Format: `- [ ] name — what the survey says it bears on`. Mark `[x]` with the o
 - [ ] Matthew Lieberman — affect labeling under the scanner.
 - [ ] Mary's Room / knowledge by acquaintance — the book's epistemology in analytic philosophy's vocabulary.
 
-## Around the construction
+## Around how it's built
 
 - [ ] Lectio divina — the monastic ancestry of read-slowly.
 - [ ] Ergodic literature (including Pale Fire) — where margin apparatus has succeeded and where it has smothered.

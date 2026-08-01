@@ -1,6 +1,7 @@
 ---
-description: The map for the book's theory of suffering — contracted fullness rather than damage — including the privation formulas that make the theory practical.
+description: This map gathers the book's theory that suffering is fullness contracted rather than a self damaged, together with the privation formulas that turn the theory into a diagnostic procedure.
 type: moc
+topics: ["[[index]]"]
 ---
 
 # contraction-not-corruption
@@ -18,6 +19,7 @@ The formulas below are the book's canonical examples. Each is a separate claim b
 - [[trust and paralysis are isomers]] — the formula pair showing identical components with one differently attached bond
 - [[forgiveness is sever then release]] — the ordering rule, which carries the book's critique of premature peace
 - [[the triads privations map the three malas corner for corner]] — the correspondence between the anatomy's failures and Trika's contractions
+- [[david loy]] — the independent Western arrival at the first contraction, which the corpus counts as external confirmation
 
 ## Adjacent maps
 

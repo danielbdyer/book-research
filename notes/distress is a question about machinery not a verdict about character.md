@@ -1,8 +1,8 @@
 ---
-description: The engine diagnostic — a self runs on three loops, distress is asked "which cylinder is misfiring," and the answer routes to the teacher whose method treats that loop.
+description: The book models a self as three running loops and turns distress into the question of which loop is misfiring, then routes the answer to the teacher whose method treats that loop.
 category: claim
 sources: ["atlas §V", "walked V", "first-telling: the engine"]
-topics: []
+topics: ["[[container-anatomy]]"]
 ---
 
 # distress is a question about machinery not a verdict about character

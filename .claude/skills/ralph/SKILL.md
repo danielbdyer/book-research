@@ -524,7 +524,7 @@ Queue state:
 
 Next steps:
   {if more pending tasks}: Run /ralph {remaining} to continue
-  {if batch complete}: Run /archive-batch {batch-id}
+Batch cleanup is manual in this vault: mark the queue entry `[x]` in `ops/queue/tasks.md` with the date and the number of claims produced, and update the source's archive note extraction state. There is no /archive-batch command here.
   {if queue empty}: All tasks processed
 ```
 

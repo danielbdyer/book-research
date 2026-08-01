@@ -1,13 +1,13 @@
 ---
-description: Heidegger's aletheia and Kashmir Śaivism's pratyabhijñā, with no historical contact, both construct their central term as an undoing of concealment — the corpus's founding isomorph.
+description: Heidegger's aletheia and Kashmir Śaivism's pratyabhijñā, with no historical contact, both construct their central term as an undoing of concealment; the corpus treats the convergence as its founding isomorph.
 category: isomorph
 sources: ["atlas §I", "walked I", "first-telling: the reframe", "space-around: around folded not broken (counterweight)"]
-topics: []
+topics: ["[[recognition]]"]
 ---
 
 # aletheia and pratyabhijna converge on truth as un-forgetting
 
-Two traditions with no historical contact built their word for the deepest available change as a privative — an undoing of something negative — rather than as an acquisition. Heidegger revived the Greek aletheia, constructed from the negating prefix a- plus lēthē (the river of forgetting): truth as un-forgetting, an event of unconcealment rather than a correct statement. The Pratyabhijñā school of Kashmir Śaivism named liberation as recognition (prati-abhi-jñā, knowledge turning back toward what was always so): not the gaining of anything new but the seeing of what never left. The corpus treats the convergence — same word-construction, same gesture, independent origins — as the strongest kind of evidence it recognizes: an isomorph, one structure arrived at in two media.
+Two traditions with no historical contact built their word for the deepest available change as a privative — an undoing of something negative — rather than as an acquisition. Heidegger revived the Greek aletheia, constructed from the negating prefix a- plus lēthē (the river of forgetting): truth as un-forgetting, an event of unconcealment rather than a correct statement. The Pratyabhijñā school of Kashmir Śaivism named liberation as recognition (prati-abhi-jñā, knowledge turning back toward what was always so), defining it as a seeing rather than an acquisition. The corpus treats the convergence — same word-construction, same gesture, independent origins — as the strongest kind of evidence it recognizes: an isomorph, one structure arrived at in two media.
 
 The corpus also records a caution against overreading the convergence, and the vault keeps it attached: the claim is established at the level of word construction and gesture; whether the two traditions' destinations are interchangeable is an open question.
 

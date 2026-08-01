@@ -21,7 +21,7 @@ processing:
   depth: deep                # deep | standard | quick — deep is this vault's standard, by author direction (2026-08-01): full pipeline, fresh context per phase, all verification checks on every pass
   chaining: suggested        # manual | suggested | automatic
   extraction:
-    selectivity: strict      # the admission rule: only material that changes how the project thinks
+    selectivity: strict      # the admission standard: only material that changes how the project thinks
     categories: auto         # read from ops/derivation-manifest.md
   verification:
     description_test: true   # descriptions must be complete sentences adding information beyond the title

@@ -10,6 +10,8 @@ allowed-tools: Read, Write, Edit, Grep, Glob, Bash
 argument-hint: "[file] — path to source file to seed for processing"
 ---
 
+**THIS VAULT'S LAYOUT (overrides the generic steps below).** Source documents live in `sources/` and are never moved; `sources/` is immutable. Provenance notes live in `archive/`, named `source — <short title>.md`, from `templates/source.md`. The queue is `ops/queue/tasks.md` (a markdown checklist) plus the two standing lists `ops/queue/candidates.md` and `ops/queue/extractions.md`; do not create `queue.yaml` or `queue.json`. Claim notes in `notes/` are named as the claim stated as a lowercase sentence, never numbered — the `{source}-NNN` pattern below may name task files inside `ops/queue/` only, never a note in `notes/`. Where a step below conflicts with this block, skip the step and add a checklist entry to `ops/queue/extractions.md` naming the regions to extract instead.
+
 ## EXECUTE NOW
 
 **Target: $ARGUMENTS**
@@ -94,7 +96,7 @@ mkdir -p "$ARCHIVE_DIR"
 
 The archive folder serves two purposes:
 1. Permanent home for the source file (moved from {DOMAIN:inbox})
-2. Destination for task files after batch completion (/archive-batch moves them here)
+Batch cleanup is manual in this vault: mark the queue entry `[x]` in `ops/queue/tasks.md` with the date and the number of claims produced, and update the source's archive note extraction state. There is no /archive-batch command here.
 
 ## Step 4: Move Source to Archive
 
@@ -269,7 +271,7 @@ ops/queue/archive/2026-01-30-claude-md/           <- folder still created
 ops/queue/claude-md.md                             <- task file created
 ```
 
-When /archive-batch runs later, it moves task files into the existing archive folder and generates a summary.
+Batch cleanup is manual in this vault: mark the queue entry `[x]` in `ops/queue/tasks.md` with the date and the number of claims produced, and update the source's archive note extraction state. There is no /archive-batch command here.
 
 ---
 

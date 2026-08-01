@@ -1,11 +1,12 @@
 ---
-description: The map for the book's verification standard — a claim about inner life counts when it produces a felt somatic confirmation — and for that instrument's known limits.
+description: This map gathers the book's verification standard, that a claim about inner life counts only when it produces a felt somatic confirmation, together with the documented limits of that instrument.
 type: moc
+topics: ["[[index]]"]
 ---
 
 # felt-shift
 
-This map gathers the book's epistemology. The standard comes from Eugene Gendlin's research into what actually predicts change in therapy: not insight, interpretation, or technique, but whether a person can attend to a bodily, not-yet-worded knowing and let language arise from it. When a word genuinely matches, something physically loosens — the felt shift. The book adopts this as its final authority; the atlas states the rule as "nothing enters the lattice that the body has not countersigned" (§III) and assigns the body the deciding role in every doctrinal dispute the book's sources produce.
+This map gathers the book's epistemology. The standard comes from Eugene Gendlin's research into what predicts change in therapy. Walked III reports the finding in the corpus's words: the predictor was "whether a person could attend to a not-yet-worded bodily knowing and let language arise from inside it," and none of the field's assumed candidates — insight, interpretation, technique — predicted it. Gendlin named the physical event that accompanies an accurate word the felt shift; the first-telling describes it as "a loosening, an exhale you didn't plan" (first-telling: the instrument). The book adopts this as its final authority; the atlas states the rule as "nothing enters the lattice that the body has not countersigned" (§III) and assigns the body the deciding role in every doctrinal dispute the book's sources produce.
 
 The instrument has documented limits, and the vault tracks them as a tension rather than smoothing them over: processing-fluency research shows that well-made prose can produce the click without the recognition, and interoception research shows the signal is muted in some readers precisely where it is most needed.
 

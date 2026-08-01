@@ -1,5 +1,5 @@
 ---
-description: The settings files, the standing author policies, and the semantic search setup.
+description: This page describes the settings files, the standing author policies, and the semantic search setup.
 type: manual
 generated_from: "arscontexta-0.8.0"
 ---
@@ -9,7 +9,7 @@ generated_from: "arscontexta-0.8.0"
 ## The files
 
 - `ops/config.yaml` — the live settings: processing depth, extraction selectivity, verification checks. Edit directly; changes apply to the next command run.
-- `ops/derivation.md` — why the settings are what they are, including the four author directives from setup. Historical record; /architect and /reseed read it.
+- `ops/derivation.md` — why the settings are what they are, including the four author directives from setup. It is the historical record; the upstream plugin's /architect and /reseed meta-commands read it when that plugin is installed (see "The upstream plugin" below).
 - `ops/derivation-manifest.md` — the machine-readable form the skills read at invocation: vocabulary, extraction categories, dimensions. Changing vocabulary or categories means editing this file.
 - `ops/methodology/` — the standing policies (vocabulary, prose register) and accumulated corrections.
 - `.arscontexta` — the marker file the hooks check before acting. `git: true` enables auto-commit; `session_capture: true` enables session records. Deleting the file disables all hooks.
@@ -27,4 +27,4 @@ qmd provides hybrid search over the notes. The index is project-local in `.qmd/`
 
 The vault was generated from `agenticnotetaking/arscontexta` v0.8.0 and is self-contained. Installing the plugin adds its meta-commands (setup, health, architect, reseed, and a query interface over its methodology research base): `/plugin marketplace add agenticnotetaking/arscontexta`, then `/plugin install arscontexta@agenticnotetaking`, then restart.
 
-Next: [[meta-skills]] for the commands that change the system.
+Read [[meta-skills]] next for the commands that change the system.

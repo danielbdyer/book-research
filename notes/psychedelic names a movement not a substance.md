@@ -1,13 +1,13 @@
 ---
-description: The book reclaims "psychedelic" through its Greek roots — soul-manifesting — to name the movement of the concealed becoming visible, available in ordinary life rather than reserved for drug states.
+description: The book reclaims the word psychedelic through its Greek roots, soul-manifesting, so that it names the movement of the concealed becoming visible — a movement the book locates in ordinary life rather than in drug states.
 category: claim
 sources: ["atlas §I", "walked I", "first-telling: the word it reclaims"]
-topics: []
+topics: ["[[recognition]]"]
 ---
 
 # psychedelic names a movement not a substance
 
-The book takes the word "psychedelic" back from its drug-culture usage by returning it to its components — psychē (soul) and dēlos (manifest) — and uses it to name a movement rather than a substance or a state: whatever is concealed becoming visible. Under this reading, genuine presence, honest conversation, and any descent into avoided material followed by a return are all psychedelic events. The book's wager, stated in the first-telling: this movement is not an exotic peak experience but "the fundamental process of a human life, available on an ordinary Tuesday."
+The book takes the word "psychedelic" back from its drug-culture usage by returning it to its components — psychē (soul) and dēlos (manifest) — and uses it to name a movement rather than a substance or a state: whatever is concealed becoming visible. Under this reading, genuine presence, honest conversation, and any descent into avoided material followed by a return are all psychedelic events. The first-telling states the book's wager for the word in its section "The word it reclaims": the movement is "the fundamental process of a human life, available on an ordinary Tuesday," rather than an event confined to peak states.
 
 The reclaimed word does structural work: the corpus treats the movement it names as the project's central process, of which the book's other machinery (the three loops, the twelve primitives, the four axes of movement) are components, and the book's own chapter arc is paced as the movement the word names.
 

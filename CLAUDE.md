@@ -1,8 +1,8 @@
 # Research vault for *Firing on All Cylinders / Aletheia*
 
-This repository is a research vault for a book about the structure of inner life. It stores atomic claims as markdown files connected by wiki links, navigated through topic maps, processed by a fixed pipeline, and validated by hooks. The system was generated from the ars-contexta derivation engine (v0.8.0) on 2026-08-01; the reasoning behind every configuration choice is recorded in `ops/derivation.md`.
+This repository is a research vault for a book about the structure of inner life. It stores atomic claims as markdown files connected by wiki links, navigated through topic maps, processed by a fixed pipeline, and validated by hooks. The system was generated from the ars-contexta derivation engine (v0.8.0) on 2026-08-01; the reasoning behind every configuration choice is recorded in `ops/derivation.md`. Three terms recur throughout the vault: *the corpus* means the four source documents in `sources/` taken together; *the book* means the manuscript they describe; *the vault* means this repository.
 
-Two obligations govern all work here. First: the book states one law about itself — "the book performs what it describes" — and the vault inherits it: claims are atomic, tensions are tracked rather than resolved, every claim names its sources. Second: the vault is measured by what reaches the manuscript. The corpus's own rule, quoted in [[ripeness is not refrigeration]]: "the archive preserves; the orchard ripens." Growth that displaces writing is the failure mode to watch for.
+Two obligations govern all work here. First: the book states one law about itself — "the book performs what it describes" (recorded with its anchors at [[the book performs what it describes]]) — and the vault inherits it: claims are atomic, tensions are tracked rather than resolved, every claim names its sources. Second: the vault is measured by what reaches the manuscript. The corpus's own rule, quoted in [[ripeness is not refrigeration]]: "the archive preserves; the orchard ripens." Growth that displaces writing is the failure mode to watch for.
 
 ## Voice
 
@@ -37,14 +37,14 @@ Two standing author directives govern all prose and naming. Both are recorded in
 A claim is one proposition, stated in its title as a complete sentence in lowercase (the filename is the claim). One idea per note; a title that needs "and" is usually two notes. The authoritative schema is `templates/claim-note.md`.
 
 - `description:` — a complete sentence adding information beyond the title; the filter-before-read layer.
-- `topics:` — which topic maps the claim belongs to; at least one, enforced by hook and by /verify.
+- `topics:` — the topic maps the claim belongs to, recorded twice: as a YAML array of wiki links (the machine-readable form, which /verify and `scripts/queries/unconnected-claims.sh` check) and in the note's `Topics:` footer (the human-readable form). Both must be present and must agree; at least one map is required.
 - `category:` — one of `claim`, `isomorph`, `tension`, `open-question`, `image`, `practice`, `structure` (plus `interlocutor` and `source` from their own templates).
 - `sources:` — where the claim appears, with locations (`atlas §IV`, `first-telling: the offering`). Every claim carries this; provenance is the vault's version of the book's attribution rule.
 - `supports:` — dormant. Records only manuscript placements the author has explicitly made; the vault never infers a placement from the corpus. Empty until placements emerge.
-- `state:` — optional metabolic state (`nascent`, `privated`, `full`, `flourishing`, `composting`). A privated claim is incomplete rather than wrong; note what is missing.
+- `state:` — optional; records how developed the claim is. `nascent` means stated but not yet substantiated; `privated` means incomplete in a specific named way (state what is missing); `full` means stated and substantiated; `flourishing` means substantiated and built upon by other claims; `composting` means superseded but retained because later work draws on it. The five names come from the corpus's arc at atlas §V.3.
 - `status:` / `treatment:` — tension category only: `live`, `treated`, or `resolved`, and the treatment under trial.
 
-Body shape: the statement layer expounds the claim in plain sentences; a Substantiation section beneath carries quotes (marked, anchored), per-source locations, and notation. Compression is required — the sources are beautifully written, and transplanted shimmer is a named risk (the corpus's own warning: some clicks are the prose, not the recognition). Quote when the phrasing is the finding; mark every quote.
+Body shape: the statement layer expounds the claim in plain sentences; a Substantiation section beneath carries quotes (marked, anchored), per-source locations, and notation. Compression is required. The source documents are highly styled and their style is contagious; copying their register into vault prose is a named risk, because an admiring paraphrase reproduces the sources' cadence without adding a proposition. The corpus records the underlying mechanism itself — a reader's bodily assent can respond to fluent prose rather than to the claim — at [[felt shift versus felt confirmation]]. Quote when the phrasing is itself the finding; mark and anchor every quote.
 
 Footer, always:
 
@@ -56,13 +56,17 @@ Topics:
 - [[a topic map]]
 ```
 
+## Source anchors
+
+Four source documents carry all current claims, each with a short citation name used in every `sources:` array. `atlas` is `sources/the whole field - gravitational atlas.pdf`; its sections carry symbols, cited as `atlas §IV` or `atlas §IX.8a`. `walked` is `sources/the whole field walked.pdf`; its sections are bare roman numerals, cited as `walked VI`. `first-telling` is `sources/the first telling.pdf`; its sections are named rather than numbered, cited as `first-telling: the offering`. `space-around` is `sources/the space around.pdf`; its entries name a section and, where applicable, one of the survey's three directions, cited as `space-around: around the instrument (counterweight)`. Each document has a provenance note in `archive/` recording what has been extracted from it; the full registry, with this key, is in [[methods]]. A new source receives its citation name when its archive note is created.
+
 ## Relations
 
 The atlas ships a notation set the vault records but does not lean on: ≈ isomorph (the same structure arrived at in a different medium — the corpus's strongest evidence class), ⚡ kept tension, ⊖ privation, ⟿ feeds-into. The relation is always stated in words in the link gloss; the glyph may tag it. Tension claims carry status and treatment; resolving one is the author's act, never the vault's.
 
 ## Topic maps
 
-A topic map (`type: moc`) gathers the claims of one concern. Three tiers: `notes/index.md`, then the maps, then claims. The current maps: six doctrine maps (`recognition`, `contraction-not-corruption`, `felt-shift`, `container-anatomy`, `relational-field`, `answerability`) and the structural maps (`interlocutors`, `book-structure`, `tensions`, `research-frontier`, `figure glossary`, `methods`, `open-questions`).
+A topic map (`type: moc`) gathers the claims of one concern. Three tiers: `notes/index.md`, then the maps, then claims. The current maps: six doctrine maps (`recognition`, `contraction-not-corruption`, `felt-shift`, `container-anatomy`, `relational-field`, `answerability`) and six structural maps (`interlocutors`, `book-structure`, `tensions`, `research-frontier`, `methods`, `open-questions`). `notes/figure glossary.md` is not a map: it is an image-category note serving as the vocabulary crosswalk between the corpus's figures and the vault's names.
 
 The map set is deliberately capped to the corpus's own architecture. Creating a new map requires a /rethink pass with a recorded rationale — map proliferation is a named high risk from the derivation. When a map's claim list exceeds roughly twenty-five entries, split within its section structure first.
 
@@ -83,7 +87,7 @@ Material never goes directly into `notes/` outside a pipeline phase. Raw capture
 
 Support commands: `/seed` (create deduplicated extraction tasks), `/pipeline` (end-to-end), `/ralph` (queue orchestration with fresh context per phase), `/tasks`, `/next`, `/stats`, `/graph`, `/validate`, `/learn` (outward research), `/remember` (capture methodology corrections), `/refactor` (structural change).
 
-The admission standard for everything the pipeline produces: nothing gets seated unless it would actually change how the project thinks. Eight claims that other work can build on beat forty paraphrases. Declined material keeps its record and its reason.
+The admission standard for everything the pipeline produces: material becomes a note only if it would actually change how the project thinks. A few claims that other work can build on are worth more than many paraphrases. Declined material keeps a record of what it was and why it was declined.
 
 ## Interlocutors
 
@@ -100,7 +104,7 @@ Manuscript structure is provisional and placements emerge from the author's deci
 
 ## Maintenance
 
-Condition-based; the session-orient hook surfaces the counts.
+Maintenance is condition-based. The session-orient hook counts and reports the first four conditions below at session start, and also prints any unchecked entries in `ops/reminders.md`. The last two conditions are not automated: run `scripts/queries/unconnected-claims.sh` for membership defects and /verify for link resolution.
 
 | Condition | Action |
 |-----------|--------|
@@ -133,8 +137,8 @@ Condition-based; the session-orient hook surfaces the counts.
 From the derivation, the five failure modes rated high for this vault, with their guards:
 
 1. **Vault work displacing manuscript work.** The corpus warns about this itself; the guard is the output rule and the /rethink question "what reached the manuscript this month?"
-2. **Collecting without admitting.** Roughly sixty candidates wait in the frontier; the guard is the admission standard.
-3. **Transplanting the sources' prose.** The guard is the prose policy and the quote-marking rule.
+2. **Collecting without admitting.** Roughly sixty candidates await evaluation on the pending-evaluation list in `ops/queue/candidates.md`; the guard is the admission standard.
+3. **Transplanting the sources' prose.** The guard is the prose register (`ops/methodology/prose register.md`) and the quote-marking rule.
 4. **Claims with no topic map.** The guard is the hook plus /verify.
 5. **Map proliferation.** The guard is the /rethink requirement for new maps.
 
@@ -142,7 +146,7 @@ From the derivation, the five failure modes rated high for this vault, with thei
 
 Configuration lives in `ops/config.yaml`; the reasoning in `ops/derivation.md`; the machine-readable form in `ops/derivation-manifest.md`, which the skills read at invocation for vocabulary and extraction categories. Methodology corrections accumulate in `ops/methodology/` via /remember; /rethink reviews and detects drift; /refactor implements structural change. New skills follow the pattern of `.claude/skills/*/SKILL.md`; new templates carry `_schema` blocks; hook changes merge additively into `.claude/settings.json`.
 
-The upstream plugin (`agenticnotetaking/arscontexta`) adds meta-commands, including a query interface over its 249-note methodology research base. It is optional; the vault is self-contained.
+The upstream plugin (`agenticnotetaking/arscontexta`) adds meta-commands — /architect, /reseed, /health, and a query interface over its methodology research base — which are not installed here; references to them elsewhere in `ops/` apply only when the plugin is installed. The vault is self-contained without it. One versioning note: the sixteen skill files carry the upstream stamp of the plugin release they were copied from, while the manual and manifest record engine version 0.8.0; where a skill's stock text conflicts with this file or with `ops/derivation-manifest.md`, this file and the manifest win.
 
 ## Skill activation
 

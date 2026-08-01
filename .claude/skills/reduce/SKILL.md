@@ -4,9 +4,11 @@ description: Extract structured knowledge from source material. Comprehensive ex
 version: "1.0"
 generated_from: "arscontexta-v1.6"
 user-invocable: true
-allowed-tools: Read, Write, Grep, Glob, mcp__qmd__vector_search
+allowed-tools: Read, Write, Edit, Grep, Glob, Bash
 context: fork
 ---
+
+**THIS VAULT'S OVERRIDES (read before anything below).** This vault sets `processing.extraction.selectivity: strict` in `ops/config.yaml`, and under `strict` the admission standard replaces the comprehensive-extraction default and skip-rate targets stated below: extract only material that would actually change how the project thinks, and record each decline with its reason. A low extraction count from a dense source is the expected result under `strict`, not a bug. Semantic search here is the qmd CLI through Bash (`qmd query "..."`), not an MCP tool. Claim filenames are the claim stated as a lowercase sentence, never numbered.
 
 ## Runtime Configuration (Step 0 — before any processing)
 
@@ -23,7 +25,7 @@ Read these files to configure domain-specific behavior:
    - Use `vocabulary.cmd_verify` for the verification command name
    - Use `vocabulary.extraction_categories` for domain-specific extraction table
    - Use `vocabulary.topic_map` for MOC/topic map references
-   - Use `vocabulary.topic_maps` for plural form
+   - Use `vocabulary.topic_map` for topic map references; this vault defines no separate plural key
 
 2. **`ops/config.yaml`** — processing depth, pipeline chaining, selectivity
    - `processing.depth`: deep | standard | quick

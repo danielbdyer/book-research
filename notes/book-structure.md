@@ -1,29 +1,30 @@
 ---
-description: The map of the manuscript as an artifact — the working structure the July 2026 sources record, held as provisional description; placements into it emerge from the author's decisions.
+description: This map records the manuscript as an artifact — the working structure the July 2026 sources describe. The description is provisional, and placements into it emerge from the author's decisions.
 type: moc
+topics: ["[[index]]"]
 ---
 
 # book-structure
 
 This map records the book as a made object, as the July 2026 source documents describe it. The description is provisional: it is what the corpus recorded at compilation time, not a fixed scheme, and the corpus itself expects revision ("the map will be wrong wherever the territory has since ripened" — atlas colophon). The arc — preparation through integration, with the concepts lived before they are named — is the stable element; the chapter-level assignments below are the working state, subject to emergence.
 
-The design law governing every device: "the book performs what it describes." The reader consciously takes a tour through a framework; the same reader is carried through the arc the framework describes — preparation, onset, deepening, peak, descent, integration — by the pacing itself. The working notes state the intent plainly: "the book is the medicine it describes; the reader who finishes is not the reader who began."
+One design law governs every device: "the book performs what it describes" (atlas §X). The reader consciously takes a tour through a framework; the same reader is carried through the arc the framework describes — preparation, onset, deepening, peak, descent, integration — by the pacing itself. Walked X and the first telling state the intent in the same words: "the book is the medicine it describes; the reader who finishes is not the reader who began."
 
-The book's vehicle is a house the reader inhabits for sixteen days, with rooms that are the concepts made walkable. The stay follows van Gennep's three-part rite: separation, threshold, reincorporation.
+The book's vehicle is a house the reader inhabits for sixteen days; the first-telling states the conceit as "the rooms are the ideas, made walkable" (first-telling: how it's built). The stay follows van Gennep's three-part rite: separation, threshold, reincorporation.
 
 ## The working structure as the sources record it
 
 Each entry states the section's job as the corpus records it. These are reports of the source documents, not placement decisions.
 
-- **Front matter.** "How to Read" sets the contract: read slowly; the urge to skip ahead is information. "The Lineage" presents the thinkers as a company being joined.
-- **Prologue.** The invitation, under Rilke's epigraph ("You must change your life"). The fourth wall falls here, once, deliberately, and nowhere else.
-- **Part I — The Clearing Opens** (chapters 1–3). Builds the container around the reader before naming anything. Chapter 1: the house image and its threshold. Chapter 2: the relational field, felt but not yet theorized. Chapter 3: three structural movements, experienced wordlessly.
-- **Part II — The Architecture Revealed** (chapters 4–7). Names what Part I induced, so naming lands as recognition rather than instruction. Chapter 4: the Wall/Door/Floor anatomy. Chapter 5: the twelve verb-primitives. Chapter 6: the molecule formulas and the Privation Principle. Chapter 7: the three loops and the referral network.
-- **Interlude I.** Placed at the junction between parts, where the tradition locates the exposed seam.
-- **Part III — The Relational Field** (chapters 8–10). Chapter 8: the Third Entity. Chapter 9 is built to a recorded instruction: fully charged and short. Chapter 10 is a licensed celebration, under Jack Gilbert's poem.
-- **Part IV — The Break** (chapter 11). The peak. The prose form itself thins; the margin voices go silent; a sentence begun eleven chapters earlier completes at a mirror.
-- **Part V — The Return with Gifts** (chapters 12–15). The practice curriculum: the Stance, twelve kata, the systems-craft toolkit, case studies. Chapter 14 introduces a physical object (a cedar ring of twelve slats). Chapter 15 reveals the identity of the margin pencil and confronts the Racket diagnostic.
-- **Epilogue — The Open Secret.** Rest at the end of the breath arc; the final words are "Welcome home"; the last line is written so that it can be answered.
+- **Front matter.** "How to Read" sets the contract in the corpus's words: "read slowly; when you feel the urge to skip ahead, pause, that urge is information" (walked X). "The Lineage" presents the thinkers as a company being joined.
+- **Prologue.** The prologue issues the invitation under Rilke's epigraph, "You must change your life." The fourth wall falls here, once, deliberately, and nowhere else.
+- **Part I — The Clearing Opens** (chapters 1–3). Part I builds the container around the reader before naming anything. Chapter 1 builds the house image and its threshold; chapter 2 has the reader feel the relational field before any theory; chapter 3 stages three structural movements wordlessly.
+- **Part II — The Architecture Revealed** (chapters 4–7). Part II names what Part I induced, so naming lands as recognition rather than instruction. Chapter 4 names the Wall/Door/Floor anatomy; chapter 5 presents the twelve verb-primitives; chapter 6 presents the molecule formulas and the Privation Principle; chapter 7 presents the three loops and docks the referral network.
+- **Interlude I.** The interlude falls at the junction between parts; the corpus places every interlude at a sandhi, the Trika term for the seam between two states (walked X; atlas §X.4c).
+- **Part III — The Relational Field** (chapters 8–10). Chapter 8 presents the Third Entity. Chapter 9 is built to a recorded authorial instruction — it should feel "fully charged and short: the chapter hums, does not conclude" (walked X). Chapter 10 is a licensed celebration under Jack Gilbert's poem.
+- **Part IV — The Break** (chapter 11). Part IV is the arc's peak. The prose form itself thins; the margin voices go silent; and "the sentence that eleven chapters have been finishing finally completes at a mirror" (walked X).
+- **Part V — The Return with Gifts** (chapters 12–15). Part V delivers the practice curriculum: the Stance, the twelve kata, the systems-craft toolkit, and the case studies. Chapter 14 introduces a physical object, a cedar ring of twelve slats; chapter 15 reveals the identity of the margin pencil and confronts the Racket diagnostic.
+- **Epilogue — The Open Secret.** The epilogue is the rest at the end of the breath overlay; the final words are "Welcome home," and the last line is written so that it can be answered.
 
 ## The four overlays
 
@@ -31,11 +32,11 @@ The corpus reads the same arc four ways simultaneously: as a recognition plot (m
 
 ## The apparatus
 
-The machinery the corpus uses to keep the book honest: inhabited margins that form a second book with its own plot; a verso column where readers countersign practices ("walked. still true."); a planting ledger tracking every planted image to its payoff; an escrow system of promises made early and kept visibly; a per-chapter dial recording the ratio of evocative to informative prose; interludes placed at the part-junctions; and an eight-question checklist every chapter must pass, ending with "did writing it change you?"
+The corpus keeps the book honest with a specific apparatus: inhabited margins that form a second book with its own plot; a verso column where readers countersign practices ("walked. still true." — atlas §X.6b); a planting ledger tracking every planted image to its payoff; an escrow system of promises made early and kept visibly; a per-chapter dial recording the ratio of evocative to informative prose; interludes placed at the part-junctions; and an eight-question checklist every chapter must pass, ending with "did writing it change you?" (atlas §X.6g).
 
 ## Claims in this map
 
-- [[the book performs what it describes]] — the governing law, carried by all four sources
+- [[the book performs what it describes]] — the governing law, stated by the atlas, the walked document, and the first telling
 - [[the book is a tuning fork and the reader is the striking surface]] — the self-image installed on page one
 - [[beauty recruits the wrong posture]] — the tension between the prose's quality and the book's purpose
 - [[forward hunger defeats the pause]] — the tension between the narrative engine and the practice engine

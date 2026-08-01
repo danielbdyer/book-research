@@ -153,7 +153,7 @@ fi
 |-----------|------|
 | Task stack empty | "No tasks on stack. Use `/tasks add [description]` to add one, or `/next` for suggestions." |
 | Pipeline has pending tasks | "Pipeline has {N} pending tasks. Run /ralph to process them." |
-| Archivable batches exist | "Batch '{name}' is ready to archive. Run /archive-batch {name}." |
+Batch cleanup is manual in this vault: mark the queue entry `[x]` in `ops/queue/tasks.md` with the date and the number of claims produced, and update the source's archive note extraction state. There is no /archive-batch command here.
 | Both empty | "All clear. Use `/next` to find what to work on." |
 
 ### /tasks add [description]

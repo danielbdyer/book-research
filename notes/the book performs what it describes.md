@@ -1,8 +1,8 @@
 ---
-description: The book's single governing design law — every structural device exists to make the reading enact the process the text explains — and all four sources state it as the key to the whole project.
+description: The book's single governing design law holds that every structural device exists to make the reading enact the process the text explains; the atlas, the walked document, and the first telling all state it.
 category: claim
 sources: ["atlas §X preamble and §XII close", "walked, opening and §X", "first-telling: how it's built", "space-around: method preamble"]
-topics: []
+topics: ["[[book-structure]]", "[[methods]]"]
 ---
 
 # the book performs what it describes

@@ -1,5 +1,5 @@
 ---
-description: The user manual for this research vault — what it is, how to work in it, and where everything lives.
+description: This manual explains what the vault is, how to work in it, and where everything lives.
 type: manual
 generated_from: "arscontexta-0.8.0"
 ---

@@ -530,7 +530,7 @@ If any observations were promoted to {DOMAIN:notes}:
 
 ```
   [count] {DOMAIN:notes} were promoted from observations.
-  Run /{DOMAIN:connect} on promoted notes to find connections.
+  Run /reflect on promoted notes to find connections.
   Promoted: [list of note titles]
 ```
 

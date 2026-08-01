@@ -17,10 +17,10 @@ _schema:
       - extracted
   constraints:
     description:
-      max_length: 200
-      format: "What this source is and what register it speaks in"
+      max_length: 220
+      format: "A complete sentence stating what this source is and what register it speaks in."
     source_file:
-      format: "Path into sources/, e.g. sources/the-whole-field-atlas.pdf"
+      format: "Path into sources/, e.g. 'sources/the whole field - gravitational atlas.pdf'."
     extracted:
       format: "Array of wiki links to claims extracted from this source"
 

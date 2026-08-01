@@ -1,15 +1,15 @@
 ---
-description: The book's verification standard — every primitive, formula, and practice must produce Gendlin's felt shift to be admitted — which makes the framework self-falsifying in the reader's own body.
+description: The book admits a primitive, formula, or practice only if it produces Gendlin's felt shift in the reader's body, a standard that makes the framework falsifiable by the reader as she reads.
 category: claim
 sources: ["atlas §III", "walked III", "first-telling: the instrument"]
-topics: []
+topics: ["[[felt-shift]]"]
 ---
 
 # nothing enters the lattice the body has not countersigned
 
 The book holds every element of its framework to a single admission standard: an idea about inner life counts only if it produces a felt somatic confirmation — Gendlin's felt shift, the physical loosening when a word genuinely matches a bodily knowing. The atlas states the rule in the sentence this note takes as its title, and specifies its scope: the standard is installed at the primitive level "for the whole stack above," so every molecule formula and every practice inherits it.
 
-The first-telling makes the standard operational for the reader: a thirty-second test, run on anything unresolved, with both outcomes counted as honest data. The consequence the corpus draws is about the book's genre: a framework that hands the reader the means of its own falsification, sentence by sentence, is a different kind of object from a belief system.
+The first-telling makes the standard operational for the reader: a thirty-second test, run on anything unresolved, with both outcomes counted as honest data. The first-telling draws the consequence for the book's genre in its own words: the framework "is handing you the means of its own falsification, sentence by sentence," which it classes as "a different kind of object from a belief system" (first-telling: the instrument).
 
 ## Substantiation
 

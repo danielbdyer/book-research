@@ -1,13 +1,13 @@
 ---
-description: The book's self-image, installed on page one — an instrument silent until struck against something — which sets the terms for its ending and its publication economics.
+description: The book's page-one image for itself is a tuning fork that stays silent until it is struck, and that image sets the terms for both the book's ending and its publication.
 category: image
 sources: ["atlas §X.5h", "walked X", "first-telling: the honesty"]
-topics: []
+topics: ["[[answerability]]", "[[book-structure]]"]
 ---
 
 # the book is a tuning fork and the reader is the striking surface
 
-The book's image for itself is a tuning fork: silent on its own, permanently, because a tuning fork cannot play itself — it sounds only when struck against something, and the reader is the striking surface. The image is installed on page one so that the ending reads as a promise kept rather than a reveal, and it governs two practical questions: the ending (the final line is written to be answerable, an invitation to strike) and publication (the corpus attaches Lewis Hyde's gift economics — an instrument of this kind exists only in use, not as a commodity).
+The book's image for itself is a tuning fork. The first-telling states it directly: "The book is a tuning fork. Silent on its own, forever — a tuning fork cannot play itself. It only sounds when struck against something. You are the striking surface" (first-telling: the honesty). The first-telling also records the placement and its stated purpose — the image is installed on page one "so that the ending lands as a promise kept rather than a twist" — and the image governs two practical questions: the ending (the final line is written to be answerable, an invitation to strike) and publication (the corpus attaches Lewis Hyde's gift economics, on which an instrument of this kind has its existence only while it is in use).
 
 The corpus's image system pairs each image with a concept and an antecedent. This one carries Hopkins inside it: instress, the strike a particular thing's form makes on a beholder.
 

@@ -1,5 +1,5 @@
 ---
-description: The commands that examine and change the system itself — remember, rethink, refactor — and the division of authority between vault and author.
+description: This page describes the three commands that examine and change the system itself, and the division of authority between vault and author.
 type: manual
 generated_from: "arscontexta-0.8.0"
 ---
@@ -16,4 +16,4 @@ Three commands operate on the system rather than on the book's material.
 
 The vault recommends; the author decides. This applies to candidate seatings (evaluations end in recommendations), to tensions (the vault tracks treatments; the author resolves), to manuscript placements (never inferred), and to topic map creation (a /rethink proposal, not an automatic act). Meta-skills follow the same rule: /rethink proposes configuration changes and records the author's decision.
 
-Next: [[troubleshooting]].
+Read [[troubleshooting]] next.

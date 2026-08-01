@@ -2,7 +2,7 @@
 description: The container anatomy's three failure modes correspond one-to-one with Trika's three contractions, which the corpus reads as the same diagnosis reached by a modern framework and a medieval tradition.
 category: isomorph
 sources: ["atlas §II.3", "walked II"]
-topics: []
+topics: ["[[container-anatomy]]", "[[contraction-not-corruption]]"]
 ---
 
 # the triads privations map the three malas corner for corner

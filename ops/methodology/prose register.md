@@ -1,5 +1,5 @@
 ---
-description: Global author directive — vault prose is expository and evidential; complete sentences, statement above substantiation, no shorthand on the statement line
+description: This directive, global and standing, requires vault prose to be expository and evidential: every statement is a complete sentence, the statement stands above its substantiation, and no shorthand carries an assertion on the statement line.
 category: configuration-state
 created: 2026-08-01
 status: active
@@ -7,7 +7,7 @@ status: active
 
 # prose register
 
-Author directive (2026-08-01, during initial derivation), global and standing. The model is the author's THE_VOICE document (an operator-facing register spec from an unrelated project), adapted from an instrument's terminal surfaces to a research vault. The governing principle carries over unchanged: **evidential literalism** — every sentence asserts a proposition grounded in its evidence, about a concretely named subject, with no rhetorical figure standing in for that precision.
+This is an author directive, issued 2026-08-01 during the initial derivation, global and standing. The model is the author's THE_VOICE document (an operator-facing register spec from an unrelated project), adapted from an instrument's terminal surfaces to a research vault. The governing principle carries over unchanged: **evidential literalism** — every sentence asserts a proposition grounded in its evidence, about a concretely named subject, with no rhetorical figure standing in for that precision.
 
 ## Rules for all vault prose (descriptions, note bodies, link glosses, topic maps, CLAUDE.md, manual, ops documents)
 

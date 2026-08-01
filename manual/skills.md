@@ -1,5 +1,5 @@
 ---
-description: The command reference — all sixteen generated commands with their purposes.
+description: This page lists all sixteen generated commands, what each does, and when to use it.
 type: manual
 generated_from: "arscontexta-0.8.0"
 ---
@@ -36,4 +36,4 @@ Sixteen commands were generated with the vault, in `.claude/skills/`, and are ve
 - `/rethink` — review accumulated observations and operational tensions; challenge the system's configuration. See [[meta-skills]].
 - `/refactor` — implement an approved structural change across the vault.
 
-Next: [[workflows]] for how the processing commands chain.
+Read [[workflows]] next for how the processing commands chain.

@@ -5,7 +5,7 @@ _schema:
   required:
     - description
     - type
-  optional:
+  required_also:
     - topics
   constraints:
     description:
@@ -17,6 +17,7 @@ _schema:
 # Template fields
 description: ""
 type: moc
+topics: ["[[index]]"]
 ---
 
 # {topic map name — denotative}

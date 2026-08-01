@@ -1,8 +1,8 @@
 ---
-description: The play doctrine's boundary rule, stated by Trika as krīḍā and independently by Winnicott from clinical observation — hiddenness is joyful only inside an intention to be found.
+description: The Trika tradition's play doctrine and D. W. Winnicott's clinical observation of children arrive independently at the same boundary rule: hiddenness is joyful only inside an intention to be found.
 category: isomorph
 sources: ["atlas §I", "walked I and VIII", "first-telling: the between"]
-topics: []
+topics: ["[[recognition]]", "[[relational-field]]"]
 ---
 
 # a hiding that never intends to be found has stopped being play

@@ -1,5 +1,5 @@
 ---
-description: The pipeline's six phases, the session rhythm, and the condition-based maintenance rules.
+description: This page describes the pipeline's six phases, the session rhythm, and the condition-based maintenance rules.
 type: manual
 generated_from: "arscontexta-0.8.0"
 ---
@@ -10,7 +10,7 @@ generated_from: "arscontexta-0.8.0"
 
 Material moves through six phases. Nothing is written into `notes/` outside them.
 
-1. **Record.** Material lands in `inbox/` (or `sources/` with an archive note, for documents). No formatting requirements.
+1. **Record.** Material lands in `inbox/` (or in `sources/` with an archive note, for documents). No formatting requirements apply at capture time.
 2. **Reduce** (`/reduce`). Claims are extracted against the categories in `ops/derivation-manifest.md`. The admission standard applies: extraction is selective, and the reason for a decline is kept.
 3. **Reflect** (`/reflect`). New claims get connected: relevant-notes links with stated relations, and topic map membership.
 4. **Reweave** (`/reweave`). Older claims that the new material bears on get updated, so the graph stays current rather than stratified.
@@ -36,4 +36,4 @@ Maintenance responds to conditions, not schedules. The orientation report surfac
 | Claims missing topic map membership | /reflect |
 | Wiki links that no longer resolve | fix immediately |
 
-Next: [[configuration]] for the settings behind these behaviors.
+Read [[configuration]] next for the settings behind these behaviors.

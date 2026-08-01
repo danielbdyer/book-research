@@ -1,8 +1,8 @@
 ---
-description: The book's structural claim — Wall, Door, and Floor compose every container whatsoever — evidenced by thirty builders across unrelated media and by the ontology's portability into software.
+description: The book claims that Wall, Door, and Floor compose every container whatsoever, and rests the claim on twenty-nine builders working in unrelated media plus the ontology's portability into a knowledge-graph schema.
 category: claim
 sources: ["atlas §II", "walked II", "first-telling: the offering"]
-topics: []
+topics: ["[[container-anatomy]]"]
 ---
 
 # the triad is the anatomy of every container

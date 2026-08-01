@@ -44,7 +44,7 @@ Phase 2: /reduce (via /ralph) — extract claims from source
 Phase 3: /ralph (all claims) — create -> reflect -> reweave -> verify
     |
     v
-Phase 4: /archive-batch — move task files, generate summary
+Batch cleanup is manual in this vault: mark the queue entry `[x]` in `ops/queue/tasks.md` with the date and the number of claims produced, and update the source's archive note extraction state. There is no /archive-batch command here.
     |
     v
 Complete
@@ -171,7 +171,7 @@ When all tasks for the batch are complete, archive the batch.
 **How to invoke:**
 
 ```
-/archive-batch {batch_id}
+Batch cleanup is manual in this vault: mark the queue entry `[x]` in `ops/queue/tasks.md` with the date and the number of claims produced, and update the source's archive note extraction state. There is no /archive-batch command here.
 ```
 
 Or execute directly:
@@ -259,7 +259,7 @@ Queue Updates:
 **The pipeline is resumable.** Queue state persists across sessions:
 - /seed detects prior processing and asks whether to proceed
 - /ralph picks up from the last completed phase (queue is the source of truth)
-- /archive-batch verifies completeness before archiving
+Batch cleanup is manual in this vault: mark the queue entry `[x]` in `ops/queue/tasks.md` with the date and the number of claims produced, and update the source's archive note extraction state. There is no /archive-batch command here.
 
 **Seed failure:** If /seed fails (file not found, duplicate detected and user declines), stop the pipeline entirely.
 
@@ -267,7 +267,7 @@ Queue Updates:
 
 **Processing failure:** If /ralph fails mid-batch, the queue preserves state. Individual claims resume from their failed phase on next /ralph invocation.
 
-**Archive failure:** If archiving fails, the claims are still created and connected. Only the organizational cleanup is missing — re-run /archive-batch manually.
+Batch cleanup is manual in this vault: mark the queue entry `[x]` in `ops/queue/tasks.md` with the date and the number of claims produced, and update the source's archive note extraction state. There is no /archive-batch command here.
 
 ---
 
@@ -280,7 +280,7 @@ The pipeline is designed to be interrupted and resumed at any point:
 | Before seed | Run /pipeline again (starts fresh) |
 | After seed, before reduce | /ralph 1 --batch {id} --type extract |
 | After reduce, during claims | /ralph --batch {id} (picks up from failed phase) |
-| After all claims, before archive | /archive-batch {id} |
+Batch cleanup is manual in this vault: mark the queue entry `[x]` in `ops/queue/tasks.md` with the date and the number of claims produced, and update the source's archive note extraction state. There is no /archive-batch command here.
 
 State lives in the queue file. The pipeline reads queue state, not session state. This means you can interrupt, close the session, and resume later.
 

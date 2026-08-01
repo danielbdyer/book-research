@@ -1,13 +1,13 @@
 ---
-description: The Privation Principle — a suffering-state is analyzed as a compound with a missing ingredient, so the analysis itself names what to supply — which the corpus calls the book's signature move.
+description: The Privation Principle analyzes a suffering-state as a compound with a missing ingredient, so that the analysis itself names what to supply; the corpus calls it the book's signature move.
 category: claim
 sources: ["atlas §IV", "walked IV", "first-telling: the offering"]
-topics: []
+topics: ["[[contraction-not-corruption]]"]
 ---
 
 # the diagnosis contains the cure
 
-The book's third layer treats stable states of experience as compounds of its twelve primitives, and its signature analytical move — the corpus calls it the Privation Principle — is that a suffering-state is almost never built from a wrong ingredient. It is built from a missing one. Because the formula names what is absent, the diagnosis points directly at the cure: supply the missing element rather than reduce the present ones. The moral consequence follows from the mechanism: once distress reads as incomplete composition, self-judgment has no analytical role left.
+The book's third layer treats stable states of experience as compounds of its twelve primitives, and the corpus names its central analytical move the Privation Principle: a suffering-state is diagnosed by the ingredient it lacks rather than by an ingredient that is wrong. Because the formula names what is absent, the diagnosis points directly at the cure: supply the missing element rather than reduce the present ones. The moral consequence follows from the mechanism: once distress reads as incomplete composition, self-judgment has no analytical role left.
 
 The corpus identifies the principle as the contraction doctrine in operational form: suffering as incompleteness rather than corruption, now with named parts.
 

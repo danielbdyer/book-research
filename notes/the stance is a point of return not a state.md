@@ -1,15 +1,15 @@
 ---
-description: The book's foundational practice posture — presence without agenda, available to act — defined so that falling out and returning is the practice rather than a failure of it.
+description: The book's foundational practice posture is presence without agenda and available to act, and it is defined so that falling out of it and returning counts as the practice rather than as a failure of it.
 category: practice
 sources: ["atlas §VII.1", "walked VII", "first-telling: the practice"]
-topics: []
+topics: ["[[felt-shift]]"]
 ---
 
 # the stance is a point of return not a state
 
-The book's practice curriculum rests on a single posture it calls the Stance: present, open, available to act, without an agenda — presence that could act at any moment and is not leaning. The definition is built to absorb failure: the Stance is not a state to be maintained but a point to return to. A practitioner falls out of it many times a day, and the practice is defined as the return rather than as the not-falling. The first-telling supplies the operational distinction: presence is the difference between arriving and sending a capable representative who manages the situation from one step outside it.
+The book's practice curriculum rests on a single posture it calls the Stance: present, open, available to act, without an agenda — presence that could act at any moment and is not leaning. The definition is built to absorb failure: the Stance is not a state to be maintained but a point to return to. A practitioner falls out of it many times a day, and the practice is defined as the return rather than as the not-falling. The first-telling supplies the operational distinction in its section "The practice": "presence is the difference between arriving and sending your helpful representative" — the composed self who manages the situation from one step outside it.
 
-The corpus records a structural echo it counts as evidence: Jessica Benjamin describes real relationship the same way — not the absence of rupture but the reliability of repair. The same definition at two scales, individual and relational.
+The corpus records a structural echo it counts as evidence: Jessica Benjamin defines a real relationship by the reliability of its repair rather than by an absence of rupture, and the atlas marks the pairing as "the same law at relational scale" (§VII.1). The corpus treats these as one definition holding at two scales, the individual and the relational.
 
 ## Substantiation
 

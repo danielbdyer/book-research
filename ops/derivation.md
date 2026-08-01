@@ -1,12 +1,12 @@
 ---
-description: The record of how this knowledge system was derived and configured, including the four author directives issued during setup. The /architect and /reseed commands read this file.
+description: This file records how the knowledge system was derived and configured, including the four author directives issued during setup. The upstream plugin's /architect and /reseed meta-commands read it when that plugin is installed.
 created: 2026-08-01
 engine_version: "0.8.0"
 ---
 
 # System derivation
 
-This vault holds the research field for *Firing on All Cylinders / Aletheia*, a book about the structure of inner life. The system was derived from the ars-contexta v0.8.0 setup engine, run manually in-session (the plugin's source was cloned and its setup procedure followed by the session agent, rather than installed and run as a plugin). The derivation was seeded from four source documents supplied by the author on 2026-08-01; each has a provenance record in `archive/`.
+This vault holds the research notes for *Firing on All Cylinders / Aletheia*, a book about the structure of inner life. The system was derived from the ars-contexta v0.8.0 setup engine, run manually in-session (the plugin's source was cloned and its setup procedure followed by the session agent, rather than installed and run as a plugin). The derivation was seeded from four source documents supplied by the author on 2026-08-01; each has a provenance record in `archive/`.
 
 ## Configuration dimensions
 
@@ -19,9 +19,9 @@ Each row records the chosen position and the evidence for it in the source mater
 | Linking | explicit, typed | The atlas ships typed edges (isomorph, tension, privation, feeds-into, cross-link). Implicit semantic linking is deferred until the qmd index is in regular use. | High |
 | Processing | heavy, at deep depth | Four overlapping tellings of the same material require deduplication into single claims with multiple source anchors, and the space-around survey supplies roughly sixty candidate evaluations. The author set `deep` as the standard processing depth (2026-08-01): full pipeline, fresh context per phase, all verification checks on every pass. | High |
 | Navigation | 3-tier | Index, then topic maps, then claims — matching the atlas's own structure of a summary, twelve sections, and entries. | High |
-| Maintenance | condition-based | The research preset's default. The session-start hook surfaces counts (inbox items, observations, tensions) and work responds to them rather than to a schedule. | Inferred |
+| Maintenance | condition-based | The research preset (the engine's stock configuration for research vaults) defaults to condition-based maintenance: the session-start hook surfaces counts, and work responds to them rather than to a schedule. | Inferred |
 | Schema | dense | The corpus is natively typed: thinkers carry seats, tensions carry treatments, states carry stages. The author builds structured systems (the corpus references a sister ontology project). | High |
-| Automation | full | The research preset's default: all hooks, all skills, the full pipeline. | Medium |
+| Automation | full | The research preset's default is full automation: all hooks, all skills, the full pipeline. | Medium |
 
 ## Author directives issued during setup
 
@@ -56,18 +56,18 @@ Included: atomic-notes, wiki-links, mocs (as topic maps), processing-pipeline, s
 
 ## Coherence checks
 
-The chosen configuration matches the research preset's reference shape, so no hard constraint fails. One soft constraint required a decision: typed explicit linking benefits from semantic search, which is installed but only useful once embedded and re-run as notes change; until that habit exists, the ripgrep query scripts carry discovery. The /health command should confirm the qmd index is being refreshed.
+The chosen configuration matches the research preset's reference shape, so no hard constraint fails. One soft constraint required a decision: typed explicit linking benefits from semantic search, which is installed but only useful once embedded and re-run as notes change; until that habit exists, the ripgrep query scripts carry discovery. The upstream plugin's /health meta-command, when that plugin is installed, should confirm the qmd index is being refreshed; until then, run `qmd update && qmd embed` after bulk note changes.
 
 ## Known risks
 
-Five failure modes rated high for this configuration, each with its guard. These also appear in CLAUDE.md, which is the operational copy.
+Five failure modes are rated high for this configuration, each with its guard. The same five appear in CLAUDE.md, which is the operational copy.
 
-1. Vault work displacing manuscript work. The corpus itself warns that a map of this territory is not the territory. Guard: the output rule in `notes/methods.md` and the /rethink question about what reached the manuscript.
-2. Collecting without admitting. Roughly sixty candidates await evaluation. Guard: the admission rule (nothing is seated unless it would change how the project thinks).
-3. Transplanting the sources' prose. The source documents are highly styled and their style is contagious. Guard: directive 2 and the quote-marking rule.
-4. Claims with no topic map. Guard: the validation hook and /verify.
-5. Topic map proliferation. Guard: new maps require a /rethink pass with recorded rationale.
+1. Vault work displacing manuscript work. The corpus itself warns that a map of this territory is not the territory. The guard is the output rule in `notes/methods.md` and the /rethink question about what reached the manuscript.
+2. Collecting without admitting. Roughly sixty candidates await evaluation on the pending list in `ops/queue/candidates.md`. The guard is the admission standard: nothing is seated unless it would change how the project thinks.
+3. Transplanting the sources' prose. The source documents are highly styled and their style is contagious. The guard is directive 2 and the quote-marking rule.
+4. Claims with no topic map. The guard is the frontmatter topics array, checked by /verify and by `scripts/queries/unconnected-claims.sh`.
+5. Topic map proliferation. The guard is the rule that new maps require a /rethink pass with a recorded rationale.
 
 ## Generation record
 
-Generated 2026-08-01: the folder layout (`notes/`, `inbox/`, `sources/`, `archive/`, `templates/`, `manual/`, `ops/`, `scripts/`, `.claude/`); CLAUDE.md; five templates; fourteen topic maps and a starter set of roughly forty claims, tensions, candidate files, and provenance records; the sixteen pipeline skills copied from the plugin's skill sources; the hook scripts and settings; the queue files; and this record. The starter content was extracted from the four source documents in a single pass; the unextracted remainder is enumerated in `ops/queue/extractions.md`.
+Generated 2026-08-01: the folder layout (`notes/`, `inbox/`, `sources/`, `archive/`, `templates/`, `manual/`, `ops/`, `scripts/`, `.claude/`); CLAUDE.md; five templates; twelve topic maps with their index, and a starter set of roughly forty claims, tensions, candidate files, and provenance records; the sixteen pipeline skills copied from the plugin's skill sources; the hook scripts and settings; the queue files; and this record. The starter content was extracted from the four source documents in a single pass; the unextracted remainder is enumerated in `ops/queue/extractions.md`.

@@ -1,11 +1,12 @@
 ---
-description: The map for the publication concern — the difference between a perfectible unspoken word and an answerable spoken one — which is where the finish-the-book question lives.
+description: This map holds the corpus's account of speech that decides whether the manuscript is released: an unspoken word can be revised forever, and a spoken word can be answered.
 type: moc
+topics: ["[[index]]"]
 ---
 
 # answerability
 
-This map gathers the concern that decides whether the book ships. The corpus inherits from the grammarian Bhartṛhari (extended by the Trika tradition) a four-level account of speech, from pure potency down to the embodied word. The two levels that matter operationally are the third and fourth: *madhyamā*, the fully formed but unspoken sentence, and *vaikharī*, the word made flesh. The atlas states the consequence as what it calls the blade of the whole corpus: "a word at madhyamā can be perfected forever; a word at vaikharī can be answered" (§VI). An unspoken draft is infinitely revisable, therefore safe, therefore — in the corpus's precise sense — not yet real. A spoken word cannot be revised and can therefore be answered, which is what makes it a deed.
+This map gathers the concern that decides whether the book ships. The corpus inherits from the grammarian Bhartṛhari (extended by the Trika tradition) a four-level account of speech, from pure potency down to the embodied word. The two levels that matter operationally are the third and fourth: *madhyamā*, the fully formed but unspoken sentence, and *vaikharī*, the word made flesh. The atlas states the consequence as what it calls the blade of the whole corpus: "a word at madhyamā can be perfected forever; a word at vaikharī can be answered" (§VI). An unspoken draft can still be changed, which is what removes the risk from it; the walked document draws the conclusion that the unspoken sentence is "perfectible forever, and therefore safe, and therefore, in a precise sense, not yet real" (walked VI). A spoken word cannot be revised and can therefore be answered, which is what makes it a deed.
 
 The corpus applies this directly to the manuscript's condition: seventeen trial chapters exist in a fully formed, unreleased state. That situation has its own note, [[seventeen chapters rest at madhyama]], which records the corpus's recommended first move; the note is listed with the other kept tensions in [[tensions]].
 

@@ -9,29 +9,33 @@ _schema:
     - topics
   optional:
     - clause
+    - recommendation
     - sources
     - works
   enums:
     seat:
-      - room-1-facilitation
-      - room-2-mclaren
-      - room-3-mechanism
-      - room-4-container-makers
-      - room-5-coaches
-      - porch
-      - margins
-      - patron
-      - satellite
+      - facilitation
+      - emotion-work
+      - speech-acts
+      - container-makers
+      - coaches
+      - source-tradition
+      - reference-lineage
+      - margin-voices
+      - chapter-patron
+      - recommended-reading
       - candidate
       - declined
   constraints:
     description:
-      max_length: 200
-      format: "Who they are and what they carry into the field"
+      max_length: 220
+      format: "A complete sentence stating who this thinker is and what they carry into the book's argument."
     clause:
-      format: "The sentence that earns the chair — or, for candidates, the draft clause under evaluation"
+      format: "The one sentence that justifies the seat — or, for candidates, the draft clause under evaluation."
+    recommendation:
+      format: "Filled by a completed evaluation: the recommended seat and its one-sentence basis. The seat field stays 'candidate' until the author decides."
     seat:
-      format: "Their seat in the guild; 'candidate' until the author seats them; 'declined' records the no with its reason"
+      format: "The functional seat; 'candidate' until the author seats them; 'declined' records the refusal with its reason."
 
 # Template fields
 description: ""

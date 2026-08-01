@@ -1,6 +1,7 @@
 ---
-description: The vault's working rules — admission standard, provenance, output measure, tension handling, verification limits, and the two global policies on vocabulary and prose.
+description: This map records the vault's working rules — the admission standard, provenance, the output measure, tension handling, and verification limits — and points to the two global policies on vocabulary and prose.
 type: moc
+topics: ["[[index]]"]
 ---
 
 # methods
@@ -9,8 +10,8 @@ This map records how the vault works its material. Where a rule derives from the
 
 ## House rules
 
-1. **Admission.** Nothing gets seated unless it would actually change how the project thinks. The rule comes from the space-around survey, which credits it to the standard David Loy's work set. Misses count as data: a declined candidate keeps its note, its seat marked `declined`, and the reason.
-2. **Provenance.** Every claim names its sources with locations. The rule is the vault's version of the book's attribution policy, quoted at [[interlocutors]]: "secrets are for the story, never for the sources."
+1. **Admission.** Nothing gets seated unless it would actually change how the project thinks. The rule comes from the space-around survey, which states it as the bar every candidate must clear ("nothing gets listed unless it would actually change how we think" — preamble) and names it after the standard set by the seating of David Loy, whose work was admitted because it independently confirms a central claim rather than merely neighboring one. "Misses count as data" (first-telling: the instrument): a declined candidate keeps its note, its seat marked `declined`, and the reason.
+2. **Provenance.** Every claim names its sources with locations. The rule is the vault's version of the book's attribution policy — "secrets are for the story, never for the sources" (atlas §IX preamble; first-telling: the offering) — which [[interlocutors]] records in full.
 3. **Output.** The vault is measured by what reaches the manuscript, not by what it stores. The rule derives from the corpus's own warning, recorded in [[ripeness is not refrigeration]]: "the archive preserves; the orchard ripens." A month in which the vault grew and the manuscript did not is a month the /rethink review should flag.
 4. **Tensions.** The vault registers tensions with their treatments and never resolves one itself. Resolution is the author's act, made in writing. The rule restates the atlas's §XI policy in operational form.
 5. **Verification.** The vault verifies structure, provenance, and coherence. It cannot run the book's own somatic test; that certification belongs to the author. The somatic test's own documented limits are stated in [[felt shift versus felt confirmation]], and one of them applies to the vault directly: a well-formed note can read as true because it is well-formed.
@@ -33,12 +34,12 @@ All vault prose is expository and evidential: complete sentences with named subj
 
 ## Source registry
 
-The four founding source documents, each with an archive note recording provenance and extraction state:
+The four founding source documents, each with an archive note recording provenance and extraction state. Each entry gives the citation name claims use, the file, and the anchor grammar.
 
-- [[source — the gravitational atlas]] — the corpus as a typed network, compiled July 2026
-- [[source — the whole field walked]] — the same material as continuous prose
-- [[source — the first telling]] — the book presented to its first reader
-- [[source — the space around]] — the outward survey that seeds the research frontier
+- [[source — the gravitational atlas]] — the corpus as a typed network, compiled July 2026. File: `sources/the whole field - gravitational atlas.pdf`. Cited as `atlas`, with section symbols: `atlas §IV`, `atlas §IX.8a`.
+- [[source — the whole field walked]] — the same material as continuous prose. File: `sources/the whole field walked.pdf`. Cited as `walked`, with bare roman numerals: `walked VI`.
+- [[source — the first telling]] — the book presented to its first reader. File: `sources/the first telling.pdf`. Cited as `first-telling`, with named sections: `first-telling: the offering`.
+- [[source — the space around]] — the outward survey that seeds the research frontier. File: `sources/the space around.pdf`. Cited as `space-around`, with the survey's section names and, where relevant, its direction labels: `space-around: around the instrument (counterweight)`.
 
 ## What remains
 

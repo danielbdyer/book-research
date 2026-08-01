@@ -1,13 +1,13 @@
 ---
-description: Gendlin's summary of his change research — split-off material does not move until it is bodily felt — which the corpus identifies as the sentence the whole book leans on.
+description: Gendlin summarized his change research in one sentence — split-off material does not move until it is bodily felt — which the corpus identifies as the sentence the whole book leans on.
 category: claim
 sources: ["atlas §III", "walked III", "first-telling: the instrument"]
-topics: []
+topics: ["[[felt-shift]]"]
 ---
 
 # what is split off not felt remains the same
 
-Eugene Gendlin studied empirically what predicts whether therapy changes anyone, and the answer was none of the field's assumed candidates — not insight, not interpretation, not the therapist's technique. The predictor was whether the person could attend to a bodily, not-yet-worded knowing of their situation (the felt sense) and let language arise from inside it. The walked document quotes the compression of his decades of work that the book adopts: "what is split off, not felt, remains the same; when it is felt, it changes."
+Eugene Gendlin studied empirically what predicts whether therapy changes anyone. Walked III reports the result: none of the candidates the field assumed — insight, interpretation, therapist technique — predicted change. The predictor was whether the person could attend to a bodily, not-yet-worded knowing of their situation (the felt sense) and let language arise from inside it. The walked document quotes the compression of his decades of work that the book adopts: "what is split off, not felt, remains the same; when it is felt, it changes."
 
 The sentence functions in the book as both epistemology and mechanism: it explains why narrated self-knowledge fails to move anything (the opening problem of the first-telling), and it grounds the admission standard recorded at [[nothing enters the lattice the body has not countersigned]].
 
