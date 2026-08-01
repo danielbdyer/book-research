@@ -16,7 +16,7 @@ Two standing author directives govern all prose and naming. Both are recorded in
 
 **Vocabulary** (`vocabulary policy.md`): the reference surface — filenames, YAML fields, enum values, folder names, headings — names its concern in plain denotative terms. The book's narrative vocabulary is graph content: it lives in `notes/figure glossary.md` and in image-category claims, never as metadata bound to a note.
 
-**Prose** (`prose register.md`): all vault prose is expository and evidential. Complete sentences with named subjects; no telegraphic fragments; no shorthand carrying an assertion alone. The statement leads and the substantiation sits beneath it. The corpus is quoted and anchored, never impersonated. Exact referents: chapter numbers, section symbols, document names. A description is a proposition parseable with no prior context.
+**Prose** (`prose register.md`): all vault prose is expository and evidential. Complete sentences with named subjects; no telegraphic fragments; no shorthand carrying an assertion alone. The statement leads and the substantiation sits beneath it. The corpus is quoted and anchored, never impersonated. Exact referents: named units, section symbols, document names. A description is a proposition parseable with no prior context.
 
 ## Session rhythm
 
@@ -35,7 +35,7 @@ Two standing author directives govern all prose and naming. Both are recorded in
 | `templates/` | Note templates with `_schema` blocks — the authoritative schema. |
 | `manual/` | User documentation. |
 | `ops/` | Operational state: goals, config, queue, sessions, observations, tensions, methodology, the chapter concordance, the open-corpus inventory, and the rethink log. |
-| `scripts/queries/` | Ripgrep-based graph queries. `scripts/bootstrap.sh` restores tools in a fresh container. |
+| `scripts/queries/` | Ripgrep-based graph queries. `scripts/bootstrap.sh` restores tools and extracts the corpus to `.corpus/` in a fresh container. |
 | `.claude/` | Skills and hooks, versioned with the vault. |
 
 ## Claims
@@ -113,8 +113,10 @@ Manuscript structure is provisional and placements emerge from the author's deci
 
 ## Search
 
-- Structural queries: `rg` over YAML (for example `rg '^category: tension' notes/`), plus the scripts in `scripts/queries/`.
-- Semantic search: qmd, with a project-local index in `.qmd/` (gitignored). `qmd query "..."` for hybrid search; `qmd search "..."` for keyword-only. After bulk note changes, run `qmd update && qmd embed`. In a fresh container, run `scripts/bootstrap.sh` first.
+- **Structural queries**: `rg` over YAML (for example `rg '^category: tension' notes/`), plus the scripts in `scripts/queries/` — `unconnected-claims.sh` (membership defects), `nascent-stubs.sh` (claims recorded before substantiation), `coverage.sh` (claims per source and per category), `tensions-status.sh`, `candidate-seats.sh`, `placements.sh`.
+- **The corpus itself**: `scripts/bootstrap.sh` extracts every PDF in `sources/` to `.corpus/*.md`, preserving `===PAGE n===` markers so a hit can be traced to a citable location. `.corpus/` is gitignored and regenerated, so it cannot drift from the originals. Search it with `rg -w 'pattern' .corpus/`. **Use word boundaries**: unbounded matching reports "habit" across the corpus by matching *inhabit* and "ritual" by matching *spiritual*, which has already produced one wrong conclusion.
+- **Semantic search**: qmd, with a project-local index in `.qmd/` (gitignored) over two collections, the vault's notes and the extracted corpus. `qmd query "..."` for hybrid search, `qmd search "..."` for keyword-only, `qmd vsearch "..."` for vectors alone. Reranking is slow without a GPU; add `--no-rerank` when a query hangs. After bulk note changes run `qmd update && qmd embed`.
+- **In a fresh container, run `scripts/bootstrap.sh` first.** It installs tree, pypdf, and qmd, extracts the corpus, registers both collections, and rebuilds the index. Each step reports independently and none is fatal to the others, so a session that loses one capability keeps the rest.
 
 ## Maintenance
 
@@ -127,6 +129,7 @@ Maintenance is condition-based. The session-orient hook counts and reports the f
 | 5 or more operational tensions in `ops/tensions/` | /rethink |
 | 5 or more unprocessed session records | /remember --mine-sessions |
 | claims with no topic map | /reflect |
+| nascent stubs outnumber the claims filled from them | fill or decline, per `scripts/queries/nascent-stubs.sh` |
 | wiki links that no longer resolve | fix on sight |
 
 `ops/tensions/` holds operational tensions (the vault contradicting its own methodology). Doctrinal tensions — content of the book — are claims in `notes/` listed at `notes/tensions.md`. The two are never mixed.

@@ -52,3 +52,21 @@ A record of each configuration review: what evidence prompted it, what was propo
 **Consequence found during implementation.** Re-keying the concordance made the two arrangements comparable side by side and surfaced a divergence the numbered table had hidden: the mythic operating system contents stage no peak at all, distributing transcendence as a standing theme across a whole part, where the arc concentrates it into a single break with a descent after it. Given that the author's stated attachment is to the arc of the psychedelic experience rather than to any chapter scheme, this is the sharpest structural disagreement in the corpus. The claim is `notes/the earlier contents distribute transcendence where the arc concentrates a peak.md`. Three further claims were harvested from the same edition's written chapter in the same pass.
 
 **Open after this review.** Four notes predating the draft harvest carry descriptions over the 220-character schema limit — `david loy`, `internal family systems`, `suffering is contraction never corruption`, and `the tuesday is the temple`. They are unrelated to this review and are left for a /verify pass.
+
+---
+
+## 2026-08-01 — Tooling closed out
+
+**Prompted by.** The author, asking what would make future sessions succeed. Two observations were pending and both concerned capability that the vault documents and did not have.
+
+**Decisions and reasoning.**
+
+*The corpus is extracted to a gitignored directory rather than committed.* Three resolutions were open. Committing the extracted text would guarantee the capability even if a container had no network, and was rejected on one ground: a committed copy goes stale silently the moment a source is replaced, where a directory regenerated from `sources/` cannot drift. `.corpus/` is therefore ignored, rebuilt by `scripts/bootstrap.sh`, and skipped per file when the output is newer than its PDF. `===PAGE n===` markers are preserved so a search hit can be traced to a citable location, which is what the provenance rule requires of any evidence the vault acts on.
+
+*The session-start hook no longer commits.* The unsigned commits were a consequence of that hook running with `--no-verify`, and the commits themselves had no content. Removing the commit fixes both, because the auto-commit hook stages everything with `git add -A` and the session record rides along with the next real change.
+
+*Bootstrap reports per step and never aborts.* The previous script ran under `set -e`, so a failure in any step — and one step, the pypdf install, fails in a fresh container until `cryptography` is repaired — silently cost the session every later capability. Each step now reports its own outcome and the script exits 0 with a degraded-capability notice.
+
+**Recorded for the next session.** Word-boundary matching is now documented in `CLAUDE.md` as a requirement rather than a preference, because unbounded matching over the corpus produced one wrong conclusion during the pass that built the open-corpus inventory: "habit" matched *inhabit* and "ritual" matched *spiritual*, crediting two open territories with material that does not exist.
+
+**Open after this review.** The thirteen nascent stubs are debt, counted by `scripts/queries/nascent-stubs.sh`. Nothing has yet reached the manuscript; the output rule in `notes/methods.md` is the standing measure and the vault has no instrument for it.

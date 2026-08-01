@@ -1,5 +1,5 @@
 ---
-description: The book holds that suffering is fullness folded for protective reasons rather than a self that has broken; its technical form is the Trika tradition's three malas, or contractions of fullness, and its stated opponent is the repair paradigm of therapeutic culture.
+description: The book holds that suffering is fullness folded for protective reasons rather than a self that has broken; its technical form is the Trika tradition's three contractions of fullness.
 category: claim
 sources: ["atlas §I and §II.3", "walked I–II", "first-telling: the reframe"]
 topics: ["[[contraction-not-corruption]]"]

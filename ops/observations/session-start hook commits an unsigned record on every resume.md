@@ -2,7 +2,7 @@
 description: The session-start hook commits a one-line change to ops/sessions/current.json on every resume, and those commits carry no signature, so a branch accumulates unsigned no-content commits.
 date: 2026-08-01
 severity: friction
-status: pending
+status: resolved
 ---
 
 # the session-start hook commits an unsigned record on every session resume
@@ -14,3 +14,7 @@ The friction has two parts, and they are separable. The first is the missing sig
 Three commits were produced across three resumes in a single day's work, which sets the rate. They were repaired by re-signing rather than by changing the hook, so the condition persists.
 
 Input to /rethink. The candidate resolutions are to have the session-start hook sign its commits, to have it write the session record without committing, or to add `ops/sessions/` to the auto-commit hook's scope and remove the separate commit entirely.
+
+## Resolved 2026-08-01
+
+The commit was removed from `.claude/hooks/session-orient.sh`. The session record is still written on every resume and is now staged by the auto-commit hook's `git add -A`, so it rides along with the next real change instead of producing a commit of its own. That removes both the no-content commit and the unsigned commit in one edit, since the unsigned commits were a consequence of this hook running with `--no-verify`.

@@ -1,5 +1,5 @@
 ---
-description: The book asks for no renunciation and holds ordinary life to be the full site of the work; the corpus reports finding this axiom already present in the book's first image, and keeps it under pressure by seating Simone Weil as its renunciate opponent.
+description: The book asks for no renunciation and holds ordinary life to be the full site of the work, keeping the axiom under pressure by seating Simone Weil as its renunciate opponent.
 category: claim
 sources: ["atlas §I", "walked I", "first-telling: the honesty"]
 topics: ["[[recognition]]"]
