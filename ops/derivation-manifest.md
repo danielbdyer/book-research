@@ -103,6 +103,9 @@ vocabulary:
     - name: "structure"
       what_to_find: "A fact about the book as a made object: a section's recorded job, an overlay, an apparatus device. These are reports of the source documents, not placement decisions; the vault never assigns material to manuscript locations."
       output_type: "claim with category structure"
+    - name: "craft"
+      what_to_find: "One mechanism by which the executed prose produces an effect, stated so a future chapter could be built against it. Available only from draft sources, since only a draft executes. The mechanism is recorded and the draft's verdict on itself is discarded; a craft note must be able to state how its claim would be checked. Authorship conditions — the treatment's recorded observations about the author's relation to the manuscript — belong here, quoted and never restated as the vault's judgment. The policy is ops/methodology/craft evidence.md."
+      output_type: "claim with category craft"
 
 platform_hints:
   context: fork

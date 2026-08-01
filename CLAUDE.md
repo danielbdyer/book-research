@@ -38,7 +38,7 @@ A claim is one proposition, stated in its title as a complete sentence in lowerc
 
 - `description:` — a complete sentence adding information beyond the title; the filter-before-read layer.
 - `topics:` — the topic maps the claim belongs to, recorded twice: as a YAML array of wiki links (the machine-readable form, which /verify and `scripts/queries/unconnected-claims.sh` check) and in the note's `Topics:` footer (the human-readable form). Both must be present and must agree; at least one map is required.
-- `category:` — one of `claim`, `isomorph`, `tension`, `open-question`, `image`, `practice`, `structure` (plus `interlocutor` and `source` from their own templates).
+- `category:` — one of `claim`, `isomorph`, `tension`, `open-question`, `image`, `practice`, `structure`, `craft` (plus `interlocutor` and `source` from their own templates). `craft` records a mechanism observable in the executed prose and is available only from draft sources; its governing rule — the mechanism, never the verdict — is `ops/methodology/craft evidence.md`.
 - `sources:` — where the claim appears, with locations (`atlas §IV`, `first-telling: the offering`). Every claim carries this; provenance is the vault's version of the book's attribution rule.
 - `supports:` — dormant. Records only manuscript placements the author has explicitly made; the vault never infers a placement from the corpus. Empty until placements emerge.
 - `state:` — optional; records how developed the claim is. `nascent` means stated but not yet substantiated; `privated` means incomplete in a specific named way (state what is missing); `full` means stated and substantiated; `flourishing` means substantiated and built upon by other claims; `composting` means superseded but retained because later work draws on it. The five names come from the corpus's arc at atlas §V.3.
@@ -69,6 +69,8 @@ Each document has a provenance note in `archive/` recording its standing and wha
 ## Relations
 
 The atlas ships a notation set the vault records but does not lean on: ≈ isomorph (the same structure arrived at in a different medium — the corpus's strongest evidence class), ⚡ kept tension, ⊖ privation, ⟿ feeds-into. The relation is always stated in words in the link gloss; the glyph may tag it. Tension claims carry status and treatment; resolving one is the author's act, never the vault's.
+
+**Revision relations.** The atlas's set has no edge for the relation between two states of the same element, which is the relation the three draft sources are full of. The vault adds five directed relation names for it, each naming an element and two document states: **carried unchanged into**, **revised into**, **compressed into**, **dropped at**, and **added at**. They take no glyph, deliberately: the atlas did not ship one, and a vault-invented symbol in a corpus notation set would misrepresent its provenance. A revision relation is stated in words in the link gloss or in a concordance row, always naming both states and the direction — "compressed into `abridged ch1` from `mythic-os: page 9`". The relations exist so that a comparison between drafts costs a row rather than a note; the per-chapter rows are in `ops/chapter concordance.md`.
 
 ## Topic maps
 

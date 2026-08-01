@@ -21,6 +21,7 @@ _schema:
       - image
       - practice
       - structure
+      - craft
     state:
       - nascent
       - privated
