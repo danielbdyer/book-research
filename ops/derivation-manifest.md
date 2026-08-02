@@ -90,6 +90,13 @@ vocabulary:
   # change how the project thinks" is the floor; satisfying future writing is
   # the bar. What only describes the vault's own state routes to ops/.
   admission_test: "Would a drafting session reach for this?"
+  # The book's centerpieces, by author decision 2026-08-02: the convergence of
+  # thinkers and the lived practice. The system vocabulary (triad, primitives,
+  # molecules, loops) is scaffolding — secondary or tertiary, not a given
+  # outcome. Volume in the corpus is not centrality in the book; do not let
+  # retrieval weight pull extraction back toward the system. The directive is
+  # ops/methodology/center of gravity.md.
+  center_of_gravity: "the convergence of thinkers and the lived practice; the system is scaffolding"
   extraction_categories:
     - name: "claim"
       what_to_find: "One proposition of the book's framework, stated in the note title as a complete sentence. One idea per note; the body expounds the claim plainly and a substantiation section anchors it to source locations."

@@ -12,7 +12,7 @@ The book states one law about itself, and the vault inherits it as a design obli
 
 ## Doctrine maps
 
-The atlas's closing section (§XII) resolves the book's entire field into six masses. Each is a topic map here:
+The atlas's closing section (§XII) resolves the book's entire field into six masses. Each is a topic map here. A standing reweighting applies across them (author decision, 2026-08-02, recorded at [[the system is scaffolding rather than the centerpiece]]): the book's centerpieces are the convergence of thinkers and the lived practice, and the system vocabulary gathered by [[container-anatomy]] and the formula material in [[contraction-not-corruption]] is scaffolding — secondary or tertiary, not a given outcome.
 
 - [[recognition]] — truth as un-concealment; liberation as the recognition of what never left
 - [[contraction-not-corruption]] — suffering understood as contracted fullness rather than damage

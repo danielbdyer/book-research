@@ -80,3 +80,16 @@ A record of each configuration review: what evidence prompted it, what was propo
 **Implemented as.** `ops/methodology/writing test.md`, one page: the test (would a drafting session reach for this?), three sorting consequences (vault-state material routes to ops/; an absence is one seed, not an essay; the payload leads and policies are cited, not re-argued per note). Woven at every admission decision point: CLAUDE.md's pipeline section and risk table, methods rule 1, the manifest's `admission_test` field that skills read at invocation, the reduce skill's override block, the seed skill's region-naming instruction, the learn skill's admission bar, and the rethink skill's standing questions. The prior standard remains as the floor.
 
 **Sweep result.** The same treatment applied across existing notes found the disease confined to one layer: the structure-and-provenance notes were re-arguing standing policies per note. Thirteen boilerplate passages removed ("Source standing:" and "Craft standing:" bullets, two vault-narration paragraphs). Doctrine, image, and craft notes needed nothing — they are the writing-serving payload. A residual audit found no note with more than two vault-self-references, each a factual attribution.
+
+
+---
+
+## 2026-08-02 — Center of gravity
+
+**Prompted by.** The author, reviewing the proposed first research round, which led with the molecule catalogue. The author's decision: the book's centerpieces are the convergence of thinkers (fingers pointing at the moon) and the lived practice (walking the trail); the system vocabulary is scaffolding — an uncertain secondary or tertiary concern, not a given outcome. The author's role is to get out of the way of both centerpieces.
+
+**Why this is a directive and not a preference.** The divergence from the sources' weighting is deliberate and needs active defense: the corpus's page-count, and therefore semantic retrieval and every coverage instrument built from it, overweight the system. The prior handoff demonstrated the mechanism — it ranked the molecule reconciliation first because the concordance marked it "contested," and that marking existed because the sources spend the most pages there. The instruments inherit the corpus's emphasis; only a standing directive counters it.
+
+**Corpus support.** The decision is a reweighting the corpus's deepest layer endorses: "None of these is the point. They are scaffolding… removes when the curve holds" (abridged: prologue). The convergence centerpiece has two worked exemplars already on record (the guild's one law at overlay four; the Stance attractor). The somatic ground is explicitly kept undiminished.
+
+**Implemented as.** `ops/methodology/center of gravity.md`; the claim at `notes/the system is scaffolding rather than the centerpiece.md`; a Center of gravity section leading CLAUDE.md; `center_of_gravity` in the manifest; weaves in the reduce, learn, and rethink skills; reweighting lines in the index, container-anatomy, contraction-not-corruption, interlocutors, research-frontier, and felt-shift maps; the extraction queue reordered with the three system items marked demoted, as-needed.

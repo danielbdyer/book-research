@@ -6,7 +6,7 @@ topics: ["[[index]]"]
 
 # container-anatomy
 
-This map gathers the book's structural theory. The book claims that every container — a room, a friendship, a gathering, a self — is composed of exactly three structures. The Wall separates and protects, making a distinct "this" possible. The Door connects and lets exchange happen. The Floor holds and continues across time. Together they make possible an open center, which the book calls the Clearing and identifies with both Heidegger's *Lichtung* and the Trika term *prakāśa* (the light of awareness).
+This map gathers the book's structural theory, which the author holds as scaffolding rather than as the book's centerpiece — a secondary or tertiary concern, not a given outcome (decision 2026-08-02; see [[the system is scaffolding rather than the centerpiece]] and `ops/methodology/center of gravity.md`). The book claims that every container — a room, a friendship, a gathering, a self — is composed of exactly three structures. The Wall separates and protects, making a distinct "this" possible. The Door connects and lets exchange happen. The Floor holds and continues across time. Together they make possible an open center, which the book calls the Clearing and identifies with both Heidegger's *Lichtung* and the Trika term *prakāśa* (the light of awareness).
 
 The names are deliberately ordinary. Atlas §II and walked II record that the structures were originally called Knife, Thread, and Vessel, and that the author vetoed those names with the sentence "nothing hides like the always-there." The recorded reasoning is that mythic names let a reader file the structures under mythology rather than recognize them in the room being sat in (walked II).
 

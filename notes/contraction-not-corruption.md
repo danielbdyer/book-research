@@ -8,7 +8,7 @@ topics: ["[[index]]"]
 
 This map gathers the book's theory of suffering. The doctrine, stated in the book's own words: "Nothing in you is broken. Something in you is folded" (first-telling, the reframe). The technical version runs through the Trika tradition's three malas (three contractions of fullness) and through the book's own container anatomy, whose three structures each have a characteristic failure. The practical version is the Privation Principle: a suffering-state is diagnosed by what it is missing rather than by what is wrong with it, so the diagnosis itself points at the cure.
 
-The formulas below are the book's canonical examples. Each is a separate claim because each does separate work in the Molecules of Experience material.
+The formulas below are the book's canonical examples. Each is a separate claim because each does separate work in the Molecules of Experience material. A standing qualification applies to the formula apparatus as apparatus: by author decision it is scaffolding, earning its place where it rests on established research — McLaren's emotion work, Gendlin's felt shift — and not a given outcome of the book ([[the system is scaffolding rather than the centerpiece]]). The doctrine this map opens with — suffering as contraction, never corruption — is not demoted; the formulaic housing of it is.
 
 ## Claims in this map
 

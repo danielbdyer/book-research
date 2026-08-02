@@ -60,6 +60,7 @@ The working structure recorded above is the atlas's, and the seventeen trial cha
 ## Claims in this map
 
 - [[the book performs what it describes]] — the governing law, stated by the atlas, the walked document, and the first telling
+- [[the system is scaffolding rather than the centerpiece]] — the author's decision on what the book is centrally about, and the corpus's own prologue statement of it
 - [[the book is a tuning fork and the reader is the striking surface]] — the self-image installed on page one
 - [[beauty recruits the wrong posture]] — the tension between the prose's quality and the book's purpose
 - [[forward hunger defeats the pause]] — the tension between the narrative engine and the practice engine
