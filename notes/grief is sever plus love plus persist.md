@@ -24,6 +24,8 @@ Relevant Notes:
 - [[grief cannot complete alone]] — the clinical statement of the catalyst requirement
 - [[the field between two people does work]] — the relational claim this formula proves at molecule scale
 
+- [[a partnership can be deliberately entered and deliberately left]] — nascent; a chosen ending, which this formula does not cover
+
 Topics:
 - [[contraction-not-corruption]]
 - [[relational-field]]

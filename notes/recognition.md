@@ -18,6 +18,17 @@ The corpus also stations a warning at this concern and credits it to Lacan: reco
 - [[the tuesday is the temple]] — the book's commitment to ordinary life as the site of the work
 - [[a hiding that never intends to be found has stopped being play]] — the play doctrine that answers why fullness contracts at all
 - [[the topology only exists where it is being performed]] — the corpus's own limit on maps, this vault included
+- [[recognition is the soul's reminder rather than the ego's reward]] — the positive form of the guard the atlas records only as Lacan's warning
+- [[what is recognized cannot be un-recognized]] — the cost the recognition promise implies, which only the earliest draft states
+- [[the house with no ceiling is transcendence with plumbing]] — the image that pre-loads this map's refusal of renunciation
+
+### Nascent stubs
+
+Open territory the corpus named and never developed, recorded so it is reachable from the graph; the inventory is `ops/open corpus.md`.
+
+- [[metaphor is a faculty that weaves a self rather than a device that decorates one]] — nascent; whether the reader has a figurative faculty of their own
+- [[the sacred in the ordinary is produced by sensory design]] — nascent; whether the ordinary is noticed or arranged
+- [[a person lives inside symbolic infrastructures they have built]] — nascent; the corpus has read one such system already
 
 ## Adjacent maps
 

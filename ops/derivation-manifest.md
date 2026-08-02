@@ -61,6 +61,13 @@ vocabulary:
   topic_map: "topic map"
   hub: "index"
 
+  # Level 4a: the referent for the book's material. A named unit is one of the
+  # book's main topic-ideas considered as a piece of the manuscript, called by
+  # its name. Names are stable across the corpus's several tables of contents;
+  # chapter numbers are not, and are citation locators only. See
+  # ops/methodology/reference by name.md.
+  manuscript_unit: "named unit"
+
   # Level 5: process verbs (plain; commands keep canonical names)
   reduce: "reduce"
   reflect: "reflect"
@@ -78,6 +85,18 @@ vocabulary:
 
   # Level 7: extraction categories. what_to_find is written for a reader with no
   # prior context, per the prose register (ops/methodology/prose register.md).
+  # Admission is governed by the writing test (ops/methodology/writing test.md):
+  # material is admitted when a drafting session would reach for it. "Would it
+  # change how the project thinks" is the floor; satisfying future writing is
+  # the bar. What only describes the vault's own state routes to ops/.
+  admission_test: "Would a drafting session reach for this?"
+  # The book's centerpieces, by author decision 2026-08-02: the convergence of
+  # thinkers and the lived practice. The system vocabulary (triad, primitives,
+  # molecules, loops) is scaffolding — secondary or tertiary, not a given
+  # outcome. Volume in the corpus is not centrality in the book; do not let
+  # retrieval weight pull extraction back toward the system. The directive is
+  # ops/methodology/center of gravity.md.
+  center_of_gravity: "the convergence of thinkers and the lived practice; the system is scaffolding"
   extraction_categories:
     - name: "claim"
       what_to_find: "One proposition of the book's framework, stated in the note title as a complete sentence. One idea per note; the body expounds the claim plainly and a substantiation section anchors it to source locations."
@@ -103,6 +122,9 @@ vocabulary:
     - name: "structure"
       what_to_find: "A fact about the book as a made object: a section's recorded job, an overlay, an apparatus device. These are reports of the source documents, not placement decisions; the vault never assigns material to manuscript locations."
       output_type: "claim with category structure"
+    - name: "craft"
+      what_to_find: "One mechanism by which the executed prose produces an effect, stated so a future chapter could be built against it. Available only from draft sources, since only a draft executes. The mechanism is recorded and the draft's verdict on itself is discarded; a craft note must be able to state how its claim would be checked. Authorship conditions — the treatment's recorded observations about the author's relation to the manuscript — belong here, quoted and never restated as the vault's judgment. The policy is ops/methodology/craft evidence.md."
+      output_type: "claim with category craft"
 
 platform_hints:
   context: fork

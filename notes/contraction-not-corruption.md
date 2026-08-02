@@ -8,7 +8,7 @@ topics: ["[[index]]"]
 
 This map gathers the book's theory of suffering. The doctrine, stated in the book's own words: "Nothing in you is broken. Something in you is folded" (first-telling, the reframe). The technical version runs through the Trika tradition's three malas (three contractions of fullness) and through the book's own container anatomy, whose three structures each have a characteristic failure. The practical version is the Privation Principle: a suffering-state is diagnosed by what it is missing rather than by what is wrong with it, so the diagnosis itself points at the cure.
 
-The formulas below are the book's canonical examples. Each is a separate claim because each does separate work in chapter 6.
+The formulas below are the book's canonical examples. Each is a separate claim because each does separate work in the Molecules of Experience material. A standing qualification applies to the formula apparatus as apparatus: by author decision it is scaffolding, earning its place where it rests on established research — McLaren's emotion work, Gendlin's felt shift — and not a given outcome of the book ([[the system is scaffolding rather than the centerpiece]]). The doctrine this map opens with — suffering as contraction, never corruption — is not demoted; the formulaic housing of it is.
 
 ## Claims in this map
 
@@ -17,9 +17,16 @@ The formulas below are the book's canonical examples. Each is a separate claim b
 - [[burnout is obligation minus sanctuary]] — the formula that reverses the standard prescription for burnout
 - [[grief is sever plus love plus persist]] — the formula that reclassifies grief as love under conditions of loss
 - [[trust and paralysis are isomers]] — the formula pair showing identical components with one differently attached bond
+- [[trust paralysis and foreclosure differ only on the commit-defer axis]] — the third arrangement, supplied by the abridged edition, which turns that pair into a group of three
+- [[the minus sign is what makes a molecule formula prescriptive]] — the notation rule that sorts the catalogue into conditions described and suffering-states with an instruction attached
+- [[intimacy is a tether rather than a binding]] — the healthy state that stands opposite the enmeshment privation
 - [[forgiveness is sever then release]] — the ordering rule, which carries the book's critique of premature peace
 - [[the triads privations map the three malas corner for corner]] — the correspondence between the anatomy's failures and Trika's contractions
 - [[david loy]] — the independent Western arrival at the first contraction, which the corpus counts as external confirmation
+- [[the orchard's koan is that composting is not death]] — the image of the arc this map's states are named from
+- [[the gatekeeper is met with a bow never a fight]] — the image of the doctrine as a manner of approach
+- [[the messenger makes suffering unopened correspondence]] — the image that gives the formulas their questions
+- [[the racket is the attractor state with a salary]] — the image of the suffering the privation formulas cannot reach
 
 ## Adjacent maps
 
@@ -27,7 +34,7 @@ This concern borders [[container-anatomy]], because the privations are that anat
 
 ## What remains
 
-The molecule catalogue (atlas §IV lists eight families and roughly fifty compounds; the book curates about fifteen) is unextracted beyond the four canonical formulas. The space-around survey identifies Aristotle's steresis as the doctrine's classical ancestor, and notes the objection that ancestry carries: privation theory has always been accused of under-describing suffering that is a presence to be borne rather than an absence to be filled. Researching this is on the pending-evaluation list in `ops/queue/candidates.md`.
+The molecule catalogue (atlas §IV lists eight families and roughly fifty compounds; the book curates about fifteen) is unextracted beyond the four canonical formulas and the foreclosure case. The abridged edition states a further set of formulas in its own prose — Sanctuary, Obligation, Possibility, Stagnation, and the relational compounds of `abridged ch8` — and extracting them alongside atlas §IV would establish whether the two sources' catalogues agree. The space-around survey identifies Aristotle's steresis as the doctrine's classical ancestor, and notes the objection that ancestry carries: privation theory has always been accused of under-describing suffering that is a presence to be borne rather than an absence to be filled. Researching this is on the pending-evaluation list in `ops/queue/candidates.md`.
 
 ---
 

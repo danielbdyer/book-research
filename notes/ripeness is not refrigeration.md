@@ -23,6 +23,8 @@ Relevant Notes:
 - [[a word at madhyama can be perfected forever a word at vaikhari can be answered]] — the speech-level form of the same distinction
 - [[the whole volume is wagered on express]] — the tension over the primitive this rule keeps pressing on
 
+- [[seasonal and weekly form can be templated]] — nascent; the form a season would take, constrained by this rule
+
 Topics:
 - [[answerability]]
 - [[methods]]

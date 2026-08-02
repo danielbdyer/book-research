@@ -6,7 +6,7 @@ topics: ["[[index]]"]
 
 # container-anatomy
 
-This map gathers the book's structural theory. The book claims that every container — a room, a friendship, a gathering, a self — is composed of exactly three structures. The Wall separates and protects, making a distinct "this" possible. The Door connects and lets exchange happen. The Floor holds and continues across time. Together they make possible an open center, which the book calls the Clearing and identifies with both Heidegger's *Lichtung* and the Trika term *prakāśa* (the light of awareness).
+This map gathers the book's structural theory, which the author holds as scaffolding rather than as the book's centerpiece — a secondary or tertiary concern, not a given outcome (decision 2026-08-02; see [[the system is scaffolding rather than the centerpiece]] and `ops/methodology/center of gravity.md`). The book claims that every container — a room, a friendship, a gathering, a self — is composed of exactly three structures. The Wall separates and protects, making a distinct "this" possible. The Door connects and lets exchange happen. The Floor holds and continues across time. Together they make possible an open center, which the book calls the Clearing and identifies with both Heidegger's *Lichtung* and the Trika term *prakāśa* (the light of awareness).
 
 The names are deliberately ordinary. Atlas §II and walked II record that the structures were originally called Knife, Thread, and Vessel, and that the author vetoed those names with the sentence "nothing hides like the always-there." The recorded reasoning is that mythic names let a reader file the structures under mythology rather than recognize them in the room being sat in (walked II).
 
@@ -18,6 +18,17 @@ The book stacks three further levels on this anatomy: twelve verb-primitives as 
 - [[the triads privations map the three malas corner for corner]] — the correspondence between the anatomy's failure modes and Trika's three contractions
 - [[the twelve primitives are verbs because a self in verbs is mid-sentence]] — the operations level and its grammatical design commitment
 - [[distress is a question about machinery not a verdict about character]] — the engine level's diagnostic move, which routes distress to the loop that is misfiring
+- [[the prose drafts use the vetoed triad names]] — the reading instruction for the two prose drafts, which name the same three structures Knife, Thread, and Vessel throughout
+- [[the engine is a triadic theology in mechanic's clothing]] — the image carrying the anatomy's engine level
+
+### Nascent stubs
+
+Open territory bearing on this anatomy that no document develops; each records what the corpus supplies and what would close it.
+
+- [[nostalgia carries continuity across a threshold]] — nascent; an affective account of the persistence corner
+- [[an externalized system can be built to hold a self rather than only its information]] — nascent; the anatomy's hardest untried medium
+- [[a ritual can be designed to hold a self in place]] — nascent; whether an anchor is a container like any other
+- [[seasonal and weekly form can be templated]] — nascent; the form the metabolic arc does not supply
 
 ## Adjacent maps
 

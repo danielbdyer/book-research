@@ -51,13 +51,12 @@ if [ -n "$SESSION_ID" ] && [ "$(bash "$READ_CONFIG" "session_capture" "true")" =
 }
 EOF
 
-  # Git commit if enabled
-  if [ "$(bash "$READ_CONFIG" "git" "true")" = "true" ] && git rev-parse --is-inside-work-tree &>/dev/null; then
-    git add ops/sessions/ 2>/dev/null
-    [ -f self/goals.md ] && git add self/goals.md 2>/dev/null
-    [ -f ops/goals.md ] && git add ops/goals.md 2>/dev/null
-    git commit -m "Session start: ${TIMESTAMP}" --quiet --no-verify 2>/dev/null || true
-  fi
+  # The session record is deliberately not committed here. Committing it on
+  # every resume produced one no-content commit per session, and because this
+  # hook ran with --no-verify those commits carried no signature and the
+  # platform reported them unverified. The auto-commit hook stages everything
+  # with `git add -A`, so ops/sessions/ rides along with the next real change.
+  # See ops/observations/session-start hook commits an unsigned record on every resume.md
 fi
 
 # Export session ID for later hooks

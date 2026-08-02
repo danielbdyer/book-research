@@ -1,8 +1,20 @@
 # Research vault for *Firing on All Cylinders / Aletheia*
 
-This repository is a research vault for a book about the structure of inner life. It stores atomic claims as markdown files connected by wiki links, navigated through topic maps, processed by a fixed pipeline, and validated by hooks. The system was generated from the ars-contexta derivation engine (v0.8.0) on 2026-08-01; the reasoning behind every configuration choice is recorded in `ops/derivation.md`. Three terms recur throughout the vault: *the corpus* means the four source documents in `sources/` taken together; *the book* means the manuscript they describe; *the vault* means this repository.
+This repository is a research vault for a book about the structure of inner life. It stores atomic claims as markdown files connected by wiki links, navigated through topic maps, processed by a fixed pipeline, and validated by hooks. The system was generated from the ars-contexta derivation engine (v0.8.0) on 2026-08-01; the reasoning behind every configuration choice is recorded in `ops/derivation.md`. Three terms recur throughout the vault: *the corpus* means the seven source documents in `sources/` taken together; *the book* means the manuscript they describe; *the vault* means this repository.
 
 Two obligations govern all work here. First: the book states one law about itself — "the book performs what it describes" (recorded with its anchors at [[the book performs what it describes]]) — and the vault inherits it: claims are atomic, tensions are tracked rather than resolved, every claim names its sources. Second: the vault is measured by what reaches the manuscript. The corpus's own rule, quoted in [[ripeness is not refrigeration]]: "the archive preserves; the orchard ripens." Growth that displaces writing is the failure mode to watch for.
+
+## Center of gravity
+
+The book's centerpieces, by author decision (2026-08-02), are **the convergence of thinkers** — independent arrivals at the same finding, quoted with their refusals intact — and **the lived practice**, verified in the body. The system vocabulary the corpus elaborates at length (the Generative Triad, the twelve primitives, the molecule formulas, the three loops) is scaffolding: an uncertain secondary or tertiary concern, not a given outcome. It is admitted where it rests on established outside research and is never treated as the book's presumed core. The record is [[the system is scaffolding rather than the centerpiece]]; the directive is `ops/methodology/center of gravity.md`.
+
+This diverges from the sources' weighting on purpose, and the divergence needs active defense: the corpus's page-count, and therefore semantic retrieval and every coverage table built from it, overweight the system. **Volume in the corpus is not centrality in the book.** The named regression is organizing new material by the system's taxonomy — sorting thinkers into triad corners, translating findings into molecule formulas. Where a source's emphasis conflicts with this directive, the directive wins.
+
+## Reference
+
+The referent for the book's material is the **named unit** — one of the book's main topic-ideas considered as a piece of the manuscript, called by its name: the House with No Ceiling, the Molecules of Experience, the Third Entity, the Stance, the Psychedelic Moment. Names are stable across every table of contents the corpus contains; numbers are not, and in one scheme a unit is a page rather than a chapter. Vault prose therefore names the unit and never refers to the book's content by chapter number. Numbers survive only inside source anchors (`abridged ch6`), where they are coordinates in one document rather than the name of an idea, and note titles never lead with a number or a count where a name would serve.
+
+The reason is a bias to avoid rather than a style preference: numbered reference asserts a settled chapter progression, and no such progression exists yet. The arc — the multi-step shape of the psychedelic experience — is the author's live commitment; the chapter scheme fitted to it is not settled, and the sources propose different orderings. Sequence claims remain fully available and are stated as orderings of named units. The full directive is `ops/methodology/reference by name.md`; the per-unit comparison across the corpus's several tables of contents is `ops/chapter concordance.md`, keyed by name.
 
 ## Voice
 
@@ -10,7 +22,7 @@ Two standing author directives govern all prose and naming. Both are recorded in
 
 **Vocabulary** (`vocabulary policy.md`): the reference surface — filenames, YAML fields, enum values, folder names, headings — names its concern in plain denotative terms. The book's narrative vocabulary is graph content: it lives in `notes/figure glossary.md` and in image-category claims, never as metadata bound to a note.
 
-**Prose** (`prose register.md`): all vault prose is expository and evidential. Complete sentences with named subjects; no telegraphic fragments; no shorthand carrying an assertion alone. The statement leads and the substantiation sits beneath it. The corpus is quoted and anchored, never impersonated. Exact referents: chapter numbers, section symbols, document names. A description is a proposition parseable with no prior context.
+**Prose** (`prose register.md`): all vault prose is expository and evidential. Complete sentences with named subjects; no telegraphic fragments; no shorthand carrying an assertion alone. The statement leads and the substantiation sits beneath it. The corpus is quoted and anchored, never impersonated. Exact referents: named units, section symbols, document names. A description is a proposition parseable with no prior context.
 
 ## Session rhythm
 
@@ -28,8 +40,8 @@ Two standing author directives govern all prose and naming. Both are recorded in
 | `archive/` | Source notes: provenance records for processed material, pointing into `sources/`. |
 | `templates/` | Note templates with `_schema` blocks — the authoritative schema. |
 | `manual/` | User documentation. |
-| `ops/` | Operational state: goals, config, queue, sessions, observations, tensions, methodology. |
-| `scripts/queries/` | Ripgrep-based graph queries. `scripts/bootstrap.sh` restores tools in a fresh container. |
+| `ops/` | Operational state: goals, config, queue, sessions, observations, tensions, methodology, the chapter concordance, the open-corpus inventory, and the rethink log. |
+| `scripts/queries/` | Ripgrep-based graph queries. `scripts/bootstrap.sh` restores tools and extracts the corpus to `.corpus/` in a fresh container. |
 | `.claude/` | Skills and hooks, versioned with the vault. |
 
 ## Claims
@@ -38,7 +50,7 @@ A claim is one proposition, stated in its title as a complete sentence in lowerc
 
 - `description:` — a complete sentence adding information beyond the title; the filter-before-read layer.
 - `topics:` — the topic maps the claim belongs to, recorded twice: as a YAML array of wiki links (the machine-readable form, which /verify and `scripts/queries/unconnected-claims.sh` check) and in the note's `Topics:` footer (the human-readable form). Both must be present and must agree; at least one map is required.
-- `category:` — one of `claim`, `isomorph`, `tension`, `open-question`, `image`, `practice`, `structure` (plus `interlocutor` and `source` from their own templates).
+- `category:` — one of `claim`, `isomorph`, `tension`, `open-question`, `image`, `practice`, `structure`, `craft` (plus `interlocutor` and `source` from their own templates). `craft` records a mechanism observable in the executed prose and is available only from draft sources; its governing rule — the mechanism, never the verdict — is `ops/methodology/craft evidence.md`.
 - `sources:` — where the claim appears, with locations (`atlas §IV`, `first-telling: the offering`). Every claim carries this; provenance is the vault's version of the book's attribution rule.
 - `supports:` — dormant. Records only manuscript placements the author has explicitly made; the vault never infers a placement from the corpus. Empty until placements emerge.
 - `state:` — optional; records how developed the claim is. `nascent` means stated but not yet substantiated; `privated` means incomplete in a specific named way (state what is missing); `full` means stated and substantiated; `flourishing` means substantiated and built upon by other claims; `composting` means superseded but retained because later work draws on it. The five names come from the corpus's arc at atlas §V.3.
@@ -58,11 +70,19 @@ Topics:
 
 ## Source anchors
 
-Four source documents carry all current claims, each with a short citation name used in every `sources:` array. `atlas` is `sources/the whole field - gravitational atlas.pdf`; its sections carry symbols, cited as `atlas §IV` or `atlas §IX.8a`. `walked` is `sources/the whole field walked.pdf`; its sections are bare roman numerals, cited as `walked VI`. `first-telling` is `sources/the first telling.pdf`; its sections are named rather than numbered, cited as `first-telling: the offering`. `space-around` is `sources/the space around.pdf`; its entries name a section and, where applicable, one of the survey's three directions, cited as `space-around: around the instrument (counterweight)`. Each document has a provenance note in `archive/` recording what has been extracted from it; the full registry, with this key, is in [[methods]]. A new source receives its citation name when its archive note is created.
+Seven source documents carry current claims, each with a short citation name used in every `sources:` array. They divide into two standings, and the standing governs how their evidence is read — the policy is `ops/methodology/source standing.md`.
+
+**Descriptive sources** describe the book from outside it. `atlas` is `sources/the whole field - gravitational atlas.pdf`; its sections carry symbols, cited as `atlas §IV` or `atlas §IX.8a`. `walked` is `sources/the whole field walked.pdf`; its sections are bare roman numerals, cited as `walked VI`. `first-telling` is `sources/the first telling.pdf`; its sections are named rather than numbered, cited as `first-telling: the offering`. `space-around` is `sources/the space around.pdf`; its entries name a section and, where applicable, one of the survey's three directions, cited as `space-around: around the instrument (counterweight)`.
+
+**Draft sources** are states of the manuscript itself. `arc-gloss` is `sources/the arc and the gloss - second edition.pdf`, the storyboard treatment of the fifteen-chapter arc, cited by named section as `arc-gloss: overlay four` or `arc-gloss: ch4`. `abridged` is `sources/firing on all cylinders - abridged edition.pdf`, that arc executed in full prose, cited as `abridged ch6` or `abridged: a note on sources`. `mythic-os` is `sources/firing on all cylinders - a mythic operating system.pdf`, a twenty-eight-chapter contents with one chapter written, cited as `mythic-os: contents` or `mythic-os: page 9`. A draft is quoted for what it says and is never credited for what it argues; where drafts disagree, the disagreement is recorded rather than resolved. Two of the four descriptive sources name `arc-gloss` in their colophons as a thread they were compiled from, so agreement among those three counts once, not three times ([[the atlas was compiled from the arc and gloss treatment]]).
+
+Each document has a provenance note in `archive/` recording its standing and what has been extracted from it; the full registry, with this key, is in [[methods]]. A new source receives its citation name and its standing when its archive note is created.
 
 ## Relations
 
 The atlas ships a notation set the vault records but does not lean on: ≈ isomorph (the same structure arrived at in a different medium — the corpus's strongest evidence class), ⚡ kept tension, ⊖ privation, ⟿ feeds-into. The relation is always stated in words in the link gloss; the glyph may tag it. Tension claims carry status and treatment; resolving one is the author's act, never the vault's.
+
+**Revision relations.** The atlas's set has no edge for the relation between two states of the same element, which is the relation the three draft sources are full of. The vault adds five directed relation names for it, each naming an element and two document states: **carried unchanged into**, **revised into**, **compressed into**, **dropped at**, and **added at**. They take no glyph, deliberately: the atlas did not ship one, and a vault-invented symbol in a corpus notation set would misrepresent its provenance. A revision relation is stated in words in the link gloss or in a concordance row, always naming both states and the direction — "compressed into `abridged ch1` from `mythic-os: page 9`". The relations exist so that a comparison between drafts costs a row rather than a note; the per-chapter rows are in `ops/chapter concordance.md`.
 
 ## Topic maps
 
@@ -87,7 +107,7 @@ Material never goes directly into `notes/` outside a pipeline phase. Raw capture
 
 Support commands: `/seed` (create deduplicated extraction tasks), `/pipeline` (end-to-end), `/ralph` (queue orchestration with fresh context per phase), `/tasks`, `/next`, `/stats`, `/graph`, `/validate`, `/learn` (outward research), `/remember` (capture methodology corrections), `/refactor` (structural change).
 
-The admission standard for everything the pipeline produces: material becomes a note only if it would actually change how the project thinks. A few claims that other work can build on are worth more than many paraphrases. Declined material keeps a record of what it was and why it was declined.
+The admission standard for everything the pipeline produces is the writing test (`ops/methodology/writing test.md`): **would a drafting session reach for this?** A note earns its place by supplying something writing can use — a claim to state, a figure to quote, a mechanism to build against, a fact that decides a manuscript question. "Would it change how the project thinks" remains the floor; satisfying future writing is the bar. Material that only describes the vault's own state routes to `ops/`, and analysis of an absence is worth one seed, not an essay. Declined material keeps a record of what it was and why.
 
 ## Interlocutors
 
@@ -99,8 +119,10 @@ Manuscript structure is provisional and placements emerge from the author's deci
 
 ## Search
 
-- Structural queries: `rg` over YAML (for example `rg '^category: tension' notes/`), plus the scripts in `scripts/queries/`.
-- Semantic search: qmd, with a project-local index in `.qmd/` (gitignored). `qmd query "..."` for hybrid search; `qmd search "..."` for keyword-only. After bulk note changes, run `qmd update && qmd embed`. In a fresh container, run `scripts/bootstrap.sh` first.
+- **Structural queries**: `rg` over YAML (for example `rg '^category: tension' notes/`), plus the scripts in `scripts/queries/` — `unconnected-claims.sh` (membership defects), `nascent-stubs.sh` (claims recorded before substantiation), `coverage.sh` (claims per source and per category), `tensions-status.sh`, `candidate-seats.sh`, `placements.sh`.
+- **The corpus itself**: `scripts/bootstrap.sh` extracts every PDF in `sources/` to `.corpus/*.md`, preserving `===PAGE n===` markers so a hit can be traced to a citable location. `.corpus/` is gitignored and regenerated, so it cannot drift from the originals. Search it with `rg -w 'pattern' .corpus/`. **Use word boundaries**: unbounded matching reports "habit" across the corpus by matching *inhabit* and "ritual" by matching *spiritual*, which has already produced one wrong conclusion.
+- **Semantic search**: qmd, with a project-local index in `.qmd/` (gitignored) over two collections, the vault's notes and the extracted corpus. `qmd query "..."` for hybrid search, `qmd search "..."` for keyword-only, `qmd vsearch "..."` for vectors alone. Reranking is slow without a GPU; add `--no-rerank` when a query hangs. After bulk note changes run `qmd update && qmd embed`.
+- **In a fresh container, run `scripts/bootstrap.sh` first.** It installs tree, pypdf, and qmd, extracts the corpus, registers both collections, and rebuilds the index. Each step reports independently and none is fatal to the others, so a session that loses one capability keeps the rest.
 
 ## Maintenance
 
@@ -113,6 +135,7 @@ Maintenance is condition-based. The session-orient hook counts and reports the f
 | 5 or more operational tensions in `ops/tensions/` | /rethink |
 | 5 or more unprocessed session records | /remember --mine-sessions |
 | claims with no topic map | /reflect |
+| nascent stubs outnumber the claims filled from them | fill or decline, per `scripts/queries/nascent-stubs.sh` |
 | wiki links that no longer resolve | fix on sight |
 
 `ops/tensions/` holds operational tensions (the vault contradicting its own methodology). Doctrinal tensions — content of the book — are claims in `notes/` listed at `notes/tensions.md`. The two are never mixed.
@@ -131,12 +154,15 @@ Maintenance is condition-based. The session-orient hook counts and reports the f
 | The vault contradicting its own rules | `ops/tensions/` |
 | A methodology correction ("always X") | `ops/methodology/`, via /remember |
 | A dated to-do | `ops/reminders.md` |
+| Material read and set aside | `ops/queue/declines.md`, with the reason |
+| Per-chapter comparison across the sources | `ops/chapter concordance.md` |
+| Territory the corpus named and never developed | `ops/open corpus.md` |
 
 ## Known risks
 
 From the derivation, the five failure modes rated high for this vault, with their guards:
 
-1. **Vault work displacing manuscript work.** The corpus warns about this itself; the guard is the output rule and the /rethink question "what reached the manuscript this month?"
+1. **Vault work displacing manuscript work.** The corpus warns about this itself; the guards are the output rule, the writing test at admission, and the /rethink question "what reached the manuscript this month?"
 2. **Collecting without admitting.** Roughly sixty candidates await evaluation on the pending-evaluation list in `ops/queue/candidates.md`; the guard is the admission standard.
 3. **Transplanting the sources' prose.** The guard is the prose register (`ops/methodology/prose register.md`) and the quote-marking rule.
 4. **Claims with no topic map.** The guard is the hook plus /verify.

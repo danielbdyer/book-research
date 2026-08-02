@@ -24,5 +24,8 @@ Relevant Notes:
 - [[what is split off not felt remains the same]] — the finding the posture exists to serve
 - [[grief cannot complete alone]] — the practice's relational limit: some completions need more than the Stance
 
+- [[a ritual can be designed to hold a self in place]] — nascent; the competing account, in which steadiness is built rather than returned to
+- [[a habit becomes a ritual when it is designed rather than accumulated]] — nascent; whether a practice that has become automatic still counts
+
 Topics:
 - [[felt-shift]]

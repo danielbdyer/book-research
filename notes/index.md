@@ -12,7 +12,7 @@ The book states one law about itself, and the vault inherits it as a design obli
 
 ## Doctrine maps
 
-The atlas's closing section (§XII) resolves the book's entire field into six masses. Each is a topic map here:
+The atlas's closing section (§XII) resolves the book's entire field into six masses. Each is a topic map here. A standing reweighting applies across them (author decision, 2026-08-02, recorded at [[the system is scaffolding rather than the centerpiece]]): the book's centerpieces are the convergence of thinkers and the lived practice, and the system vocabulary gathered by [[container-anatomy]] and the formula material in [[contraction-not-corruption]] is scaffolding — secondary or tertiary, not a given outcome.
 
 - [[recognition]] — truth as un-concealment; liberation as the recognition of what never left
 - [[contraction-not-corruption]] — suffering understood as contracted fullness rather than damage
@@ -33,7 +33,7 @@ The atlas's closing section (§XII) resolves the book's entire field into six ma
 ## Getting started
 
 1. Read `ops/goals.md` for the active threads.
-2. Read [[methods]] for the vault's working rules and the registry of the four source documents.
+2. Read [[methods]] for the vault's working rules and the registry of the seven source documents, which divides them into descriptive sources and manuscript drafts.
 3. Put new material in `inbox/`; run /reduce to extract claims from it.
 4. The standing work is listed in `ops/queue/candidates.md` (thinker and concept evaluations) and `ops/queue/extractions.md` (source regions not yet extracted).
 5. The user manual is at `manual/manual.md`.

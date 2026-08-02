@@ -6,7 +6,7 @@ topics: ["[[index]]"]
 
 # interlocutors
 
-This map organizes the people the book thinks with. The corpus's rule for them, which the atlas names the Generosity Policy, is "secrets are for the story, never for the sources" (atlas §IX preamble; first-telling: the offering) — every thinker is named on the page at the moment their idea appears. The vault's version of that rule is the sources field on every claim.
+This map organizes the people the book thinks with, and by author decision (2026-08-02) it gathers one of the book's two centerpieces: the convergence of thinkers is content, not context, and the deliverable for any thinker is the pointing — the finding a drafting session would quote — with the refusal worth keeping beside it ([[the system is scaffolding rather than the centerpiece]]). The corpus's rule for them, which the atlas names the Generosity Policy, is "secrets are for the story, never for the sources" (atlas §IX preamble; first-telling: the offering) — every thinker is named on the page at the moment their idea appears. The vault's version of that rule is the sources field on every claim.
 
 Each interlocutor note records the seat the thinker holds and the single sentence that justifies it; the atlas seats its reference lineage with "the clause that earned the chair" (§IX.8), and the vault generalizes that device to every seat. Candidates arrive through [[research-frontier]] and are evaluated against the admission bar recorded in [[methods]]. A candidate evaluation ends in a recommendation; the seating decision belongs to the author.
 
@@ -36,6 +36,8 @@ The seats are functional. The corpus's narrative names for them are recorded in 
 - [[internal family systems]] — candidate. The clinical model closest to the book's ethic; the book needs a stated position relative to it.
 - [[hartmut rosa]] — candidate. His sociology of resonance supplies a completed theory for the book's closing image.
 - [[ignatius of loyola]] — candidate. The Spiritual Exercises, published 1548, are the oldest worked precedent for the book's central design gamble.
+- [[the executed draft carries the arc's sequence without the treatment's five rooms]] — the finding that the roster's largest recent addition reaches the executed prose in three passing traces.
+- [[the system is scaffolding rather than the centerpiece]] — the decision that makes this map's material one of the book's two centerpieces.
 
 ## Roster recorded in the corpus
 

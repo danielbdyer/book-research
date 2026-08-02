@@ -13,7 +13,7 @@ The promise is kept structurally rather than rhetorically. Part I has the reader
 
 ## Substantiation
 
-- Walked I: the promise text, and the observation that the author found the recognition structure operating in chapter 1 on rereading — "not planted, discovered."
+- Walked I: the promise text, and the observation that the author found the recognition structure operating in the House with No Ceiling on rereading — "not planted, discovered."
 - Walked X and first-telling, "How it's built": the induce-then-name sequencing as the mechanism that keeps the promise.
 - The space-around survey adds an independent argument for this architecture: Aristotle's term anagnorisis locates recognition in drama, as a staged event rather than a stated one, which supports the book's decision to stage its concepts before naming them. Aristotle's Poetics has not been researched for this project; the evaluation is on the pending list in `ops/queue/candidates.md`.
 

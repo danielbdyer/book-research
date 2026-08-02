@@ -24,5 +24,8 @@ Relevant Notes:
 - [[the triads privations map the three malas corner for corner]] — the anatomy's failure modes and their Trika correspondence
 - [[distress is a question about machinery not a verdict about character]] — the diagnostic use of the layered anatomy
 
+- [[an externalized system can be built to hold a self rather than only its information]] — nascent; the hardest untried medium for this claim
+- [[a ritual can be designed to hold a self in place]] — nascent; an object this anatomy would classify if one were built
+
 Topics:
 - [[container-anatomy]]

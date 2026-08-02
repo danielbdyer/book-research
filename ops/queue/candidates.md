@@ -100,3 +100,18 @@ The section headings below reproduce the survey's own organization, which follow
 - [ ] Søren Kierkegaard — the aesthetic stage; the spectator's philosopher.
 - [ ] Susan Sontag — against interpretation; the friendly face of the anti-connoisseur defenses.
 - [ ] Stanley Cavell — acknowledgment, including the ending's warning: the request can be declined.
+
+## From the abridged edition's lineage list (added 2026-08-01)
+
+The abridged edition opens with a lineage list of about sixty names and cites a further set in its note on sources. The names below appear there and do not appear in the roster in `notes/interlocutors.md` or elsewhere in this queue. They arrive with less warrant than the entries above, which the space-around survey ranked and argued for: an appearance in a draft's lineage list is a record that the book has invoked a thinker, not a case that the project needs them. Each still has to clear the admission standard, and several are likely to be declined with the reason recorded.
+
+- [ ] Stephen Porges, Peter Levine, Pat Ogden, Bessel van der Kolk — the somatic and polyvagal spine the edition uses to build the temporal loop (`abridged ch7`). The four are cited as one body of work; evaluate whether the project needs them individually or as a single seat.
+- [ ] Marc Wittmann — time perception in depression and altered states; the edition uses him twice, at `abridged ch7` and `abridged ch11`, for the claim that felt duration uncouples from clock time.
+- [ ] Shaun Gallagher and Dan Zahavi — the minimal-self and narrative-self distinction, which the edition makes load-bearing for the identity loop.
+- [ ] Esther Perel — erotic charge requires otherness; the edition's authority for polarity as the relational field's condition (`abridged ch9`).
+- [ ] M. Scott Peck — the definition of love the edition takes through bell hooks: the will to extend oneself for another's growth.
+- [ ] Stephen Jenkinson and Martín Prechtel — grief work and praise-singing, cited at `abridged ch7` as the traditions that repair the continuity loop. Bears directly on [[grief cannot complete alone]].
+- [ ] Robin Carhart-Harris, Roland Griffiths, and Gül Dölen — the REBUS model, the Mystical Experience Questionnaire, and the reopened critical period. The corpus already leans on all three at atlas §V; the queued engine extraction should establish whether separate notes are warranted.
+- [ ] Stanislav Grof, Daniel Ingram, Willoughby Britton — the adverse-effects and cartography literature, which the edition names and does not use. Britton in particular is a counterweight the project does not currently hold.
+- [ ] James Hillman — soul-making, cited once at `abridged ch7`.
+- [ ] Joanna Macy — named in the lineage list without a use in the text. The other lineage names in that position (Priya Parker, Parker Palmer, Stewart Brand, James Carse, Jeong Kwan, Neri Oxman, Andy Matuschak, Maggie Appleton, Gordon Brander) are already seated among the container-makers in `notes/interlocutors.md` and need no entry here.

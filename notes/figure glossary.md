@@ -34,12 +34,15 @@ The corpus speaks in figures; the vault's reference surface speaks in concerns. 
 
 The atlas also uses a small notation set: ◉ marks a major mass, ⚡ a kept tension, ≈ an isomorph (the same structure in a different medium), ⊖ a privation (a diagnostic minus sign), ⟿ a feeds-into relation, and § a cross-link. The vault records these as tags in substantiation layers; the sentences around them state the relations in words.
 
-Figures that are book content rather than vault vocabulary — the image system's paired equations (the House with No Ceiling, the Orchard, the Gold Thread, the Ink That Listens, the Engine, the Fruit That Falls, the Gatekeeper, the Tuning Fork) — become claims of category `image`; the first is [[the book is a tuning fork and the reader is the striking surface]].
+Figures that are book content rather than vault vocabulary — the image system's paired equations (the House with No Ceiling, the Orchard, the Gold Thread, the Ink That Listens, the Engine, the Fruit That Falls, the Gatekeeper, the Tuning Fork) — become claims of category `image`. All twelve now have notes — the eight carried figures and the second edition's four additions (the Circle, the Messenger, the Racket, the Cusp) — listed together in [[book-structure]].
 
 ---
 
 Relevant Notes:
 - [[the topology only exists where it is being performed]] — the corpus's own statement of why its figures are part of its territory
+
+- [[metaphor is a faculty that weaves a self rather than a device that decorates one]] — nascent; the other subject metaphor could name, which this crosswalk does not cover
+- [[a person lives inside symbolic infrastructures they have built]] — nascent; the same crosswalk operation applied to a reader's own systems
 
 Topics:
 - [[methods]]

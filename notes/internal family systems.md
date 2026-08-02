@@ -1,5 +1,5 @@
 ---
-description: Internal Family Systems is a candidate interlocutor: Richard Schwartz's therapy model is the closest clinical relative of the book's ethic, and the book needs a stated position relative to it because many readers will arrive speaking it.
+description: Internal Family Systems is a candidate interlocutor: Schwartz's model is the closest clinical relative of the book's ethic, and the book needs a stated position because many readers will arrive speaking it.
 category: interlocutor
 seat: candidate
 clause: "Draft, pending evaluation: the clinical near-twin the book must locate itself against."

@@ -20,6 +20,12 @@ The atlas records these five at §XI.1 and heads them as the book's own diagnost
 - [[a codex is a one-chair technology making a two-chair argument]] — the deepest claim concerns two people; reading involves one. Treatment: the book designed as one half of a pair (the Second Chair, with the Talmudic study-partner tradition as lineage).
 - [[seventeen chapters rest at madhyama]] — the meta-tension about the manuscript's own state. Treatment: one pilot chapter, fully treated, sent to two real readers.
 
+## The tensions the drafts expose
+
+The three manuscript drafts admitted 2026-08-01 carry strains that the four descriptive sources do not record, because a description states a position while a draft has to choose one.
+
+- [[the drafts disagree about which person the book speaks in]] — the three drafts realize the recorded middle-voice posture as a plural we, a singular I, and an impersonal register. Treatment: the middle voice itself, which atlas §VI.6 names as the book's writing posture without naming a person for it.
+
 ## The personal tensions
 
 - [[weil is seated as the opponent the plumbing deserves]] — the book's commitment to ordinary life is kept honest by housing its strongest opponent.
@@ -32,6 +38,10 @@ The atlas records these five at §XI.1 and heads them as the book's own diagnost
 ## The disagreements kept live among the contemporary teachers
 
 The corpus preserves, rather than adjudicates, the disagreements among its contemporary teachers. The disagreements on record: where suffering lives (atlas §XI.2a lists eight positions: the five theories seated among the coaches plus the corpus's expansions); interiority versus structure; surrender versus will; declaration versus disclosure (the one treated member of this group — see [[the middle voice settles declaration against disclosure]], atlas §XI.2d); and which of the four traditional means of recognition is primary. Three standing guards watch for counterfeit transcendence: Nāgārjuna's warning that emptiness wrongly grasped harms the grasper, Lacan's warning about what recognition gets used for, and Rieff's warning that books like this become commodities of the culture they critique. No claim notes exist for these disagreements yet; under the admission standard in [[methods]], one is written when a disagreement changes how the project thinks.
+
+## The method this map does not supply
+
+- [[a kept tension can be mapped rather than only held]] — nascent. Every treatment recorded above is an authorial move made in the writing; none is a move the reader can make. The gesture naming a reader-facing procedure is an open territory, inventoried in `ops/open corpus.md`.
 
 ## Adjacent maps
 
