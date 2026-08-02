@@ -20,7 +20,7 @@ Four were evaluated against their primary works on 2026-08-02 and now carry reco
 4. [[hartmut rosa]] — evaluated. The uncontrollability clause completes the tuning fork's theory, and his structural diagnosis is an objection to the book's scale of address.
 5. [[felt shift versus felt confirmation]] — this one has graduated out of the frontier: it is already admitted as a tension. The survey ranks its "two sentences of humility" first because they "make every other claim in the book more believable" (space-around, priority list). What remains is its sourcing in the processing-fluency and interoception literature, which is unresearched.
 
-The evaluations bumped four entries from the full queue to the front, each because a completed note now names it as the specific thing missing: Lisa Feldman Barrett (the counterweight to [[karla mclaren]]), Michael Polanyi and the wu wei literature via Slingerland (both now cited inside completed notes rather than only listed), and the shu-ha-ri material, which turned out to be half-answered by the executed draft ([[the kata specify when to begin a form and not how to tell it is finished]]).
+The evaluations bumped four entries from the full queue to the front, each because a completed note now names it as the specific thing missing: Lisa Feldman Barrett (the counterweight to [[karla mclaren]]), Michael Polanyi and the wu wei literature via Slingerland (both now cited inside completed notes rather than only listed), and the shu-ha-ri material, which turned out to be half-answered by the executed draft ([[the practice forms specify when to begin and not how to tell one is finished]]).
 
 ## The full queue
 

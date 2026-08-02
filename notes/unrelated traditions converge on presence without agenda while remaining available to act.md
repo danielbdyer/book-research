@@ -12,7 +12,7 @@ The treatment proposes that the Stance unit show a convergence table rather than
 
 The vocabularies named are wu wei, nonattachment, Gelassenheit, Lichtung, receptive awareness, Gendlin's allowing, Scharmer's presencing, Hudson's VIEW, Circling's being-with, and what the corpus calls the framework's own sovereignty. Two more arrive in the sentences immediately after the list. The first is the Kashmir Śaiva posture, which the treatment marks as its loveliest cameo: "the valley kept a posture for exactly this and named it — gaze outward, attention resting inward; eyes open to the room, awareness at home in the source. The Stance has a thousand-year-old mudrā." The second is the working posture of the author's own trade, which the treatment notes is the same thing again: "tracking the room while resting in presence" (arc-gloss: ch13).
 
-The convergence carries a difficulty the corpus names rather than hides — "the paradox of cultivating what can't be cultivated" (arc-gloss: ch13) — and the book's answer to it is the definition recorded at [[the stance is a point of return not a state]].
+The convergence carries a difficulty the corpus names rather than hides — "the paradox of cultivating what can't be cultivated" (arc-gloss: ch13) — and the book's answer to it is the definition recorded at [[the basic practice posture is a point of return rather than a state]].
 
 ## Substantiation
 
@@ -24,7 +24,7 @@ The convergence carries a difficulty the corpus names rather than hides — "the
 ---
 
 Relevant Notes:
-- [[the stance is a point of return not a state]] — the definition this convergence is a convergence on, and the corpus's answer to the cultivation paradox
+- [[the basic practice posture is a point of return rather than a state]] — the definition this convergence is a convergence on, and the corpus's answer to the cultivation paradox
 - [[transformation is enacted participation inside a held container]] — the same evidence shape at the mechanism pole: many vocabularies, one finding, each quotable
 - [[nothing enters the lattice the body has not countersigned]] — the standard by which a reader would check the attractor rather than take the list on authority
 - [[the cusp is the back door to the stance]] — the entrance the treatment adds for the case where cultivating the posture stalls

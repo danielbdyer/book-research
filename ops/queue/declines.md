@@ -35,7 +35,7 @@ Format: `- **what** (location) — why declined.`
 
 **Prose already executed, where a note would transcribe rather than supply.**
 
-- **A note per kata** (`abridged ch14`) — the executed draft states each of the twelve with its trigger and its gesture in finished prose. Twelve notes would move that prose into the vault without adding a proposition. What was extracted instead is what the specification leaves out, at `notes/the kata specify when to begin a form and not how to tell it is finished.md`.
+- **A note per kata** (`abridged ch14`) — the executed draft states each of the twelve with its trigger and its gesture in finished prose. Twelve notes would move that prose into the vault without adding a proposition. What was extracted instead is what the specification leaves out, at `notes/the practice forms specify when to begin and not how to tell one is finished.md`.
 - **A note per facet of the Stance** (`abridged ch13`) — the six are one definition's parts, and splitting a definition produces six fragments that each fail the atomicity rule from the other direction. The claim extracted is that they are facets rather than steps, which is the proposition the draft itself marks.
 
 **System detail, demoted by directive.**

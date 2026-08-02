@@ -6,7 +6,7 @@ topics: ["[[felt-shift]]"]
 state: full
 ---
 
-# the kata specify when to begin a form and not how to tell it is finished
+# the practice forms specify when to begin and not how to tell one is finished
 
 The executed draft gathers twelve forms, and specifies each the same way: a name, the condition that calls for it, and the gesture. Dropping the Anchor returns attention to the body when the somatic loop is operating in chaos; Scanning the Horizon re-orients when dissociation has thinned reality; the Dead Stop ceases forward motion when the system is overspeeded. Bowing to the Gatekeeper meets a protective part and asks what it is protecting; Stripping the Story sets the narrative aside; Naming the Blood locates the felt sense and names it without interpretation. Wiping the Mirror separates the person present from the person being reacted to; Looping to Zero returns to the Stance mid-conversation; Calling the Room names what is alive in the field. Cutting the String severs a tie to the past that has become a leash; the Backward Glance honours the arc without dwelling; the Vertical Drop goes beneath the surface of the present moment (abridged ch14).
 
@@ -24,8 +24,8 @@ The curriculum states its own endpoint and leaves it equally unmarked. "The poin
 ---
 
 Relevant Notes:
-- [[the stance is specified as facets held together rather than steps taken in order]] — the same specification gap one unit earlier, at the scale of a single posture
-- [[the stance is a point of return not a state]] — the ground the twelve forms are said to land on, and the only place the curriculum defines success as return rather than attainment
+- [[the basic practice posture is specified as simultaneous conditions rather than as a sequence]] — the same specification gap one unit earlier, at the scale of a single posture
+- [[the basic practice posture is a point of return rather than a state]] — the ground the twelve forms are said to land on, and the only place the curriculum defines success as return rather than attainment
 - [[nothing enters the lattice the body has not countersigned]] — the standard that would supply the missing tests, already established earlier in the book
 - [[ripeness is not refrigeration]] — the rule the survey's outgrowing point rhymes with, stated for work rather than for practices
 - [[the gatekeeper is met with a bow never a fight]] — the one form whose verification condition the corpus states plainly

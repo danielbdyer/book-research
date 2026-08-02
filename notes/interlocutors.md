@@ -37,7 +37,7 @@ The seats are functional. The corpus's narrative names for them are recorded in 
 - [[unrelated traditions converge on presence without agenda while remaining available to act]] — the same evidence shape at the practice pole: a dozen vocabularies orbiting the Stance.
 - [[the transformation field divides into five theories of where suffering lives]] — the coaches' room as a living argument, each camp's axiom quoted.
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the sharpest fault line, left unresolved with the body as referee.
-- [[the guild is seated by contribution rather than by doctrine]] — how the company was assembled, which is what the convergences are agreement across.
+- [[the book's company of thinkers is grouped by contribution rather than by doctrine]] — how the company was assembled, which is what the convergences are agreement across.
 
 ### Seated
 

@@ -5,7 +5,7 @@ sources: ["atlas §VII.1", "walked VII", "first-telling: the practice"]
 topics: ["[[felt-shift]]"]
 ---
 
-# the stance is a point of return not a state
+# the basic practice posture is a point of return rather than a state
 
 The book's practice curriculum rests on a single posture it calls the Stance: present, open, available to act, without an agenda — presence that could act at any moment and is not leaning. The definition is built to absorb failure: the Stance is not a state to be maintained but a point to return to. A practitioner falls out of it many times a day, and the practice is defined as the return rather than as the not-falling. The first-telling supplies the operational distinction in its section "The practice": "presence is the difference between arriving and sending your helpful representative" — the composed self who manages the situation from one step outside it.
 
@@ -24,8 +24,8 @@ Relevant Notes:
 - [[what is split off not felt remains the same]] — the finding the posture exists to serve
 - [[grief cannot complete alone]] — the practice's relational limit: some completions need more than the Stance
 - [[unrelated traditions converge on presence without agenda while remaining available to act]] — the dozen vocabularies the corpus reports arriving at this posture independently
-- [[the stance is specified as facets held together rather than steps taken in order]] — the six components the executed draft gives it
-- [[the kata specify when to begin a form and not how to tell it is finished]] — the twelve forms said to land on this posture, and what their specification leaves out
+- [[the basic practice posture is specified as simultaneous conditions rather than as a sequence]] — the six components the executed draft gives it
+- [[the practice forms specify when to begin and not how to tell one is finished]] — the twelve forms said to land on this posture, and what their specification leaves out
 
 - [[a ritual can be designed to hold a self in place]] — nascent; the competing account, in which steadiness is built rather than returned to
 - [[a habit becomes a ritual when it is designed rather than accumulated]] — nascent; whether a practice that has become automatic still counts

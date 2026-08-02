@@ -30,7 +30,7 @@ The corpus then names what the five share and treats it as a defect rather than 
 
 Relevant Notes:
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the sharpest of the fault lines, and the rule the corpus uses instead of choosing
-- [[the guild is seated by contribution rather than by doctrine]] — why a room of disagreeing figures can be admitted whole
+- [[the book's company of thinkers is grouped by contribution rather than by doctrine]] — why a room of disagreeing figures can be admitted whole
 - [[distress is a question about machinery not a verdict about character]] — the diagnostic the five theories are docked into as a referral network
 - [[suffering is contraction never corruption]] — the book's own answer to the question the five theories divide over
 - [[weil is seated as the opponent the plumbing deserves]] — one of the Bearers, seated at full strength elsewhere in the corpus

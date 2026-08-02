@@ -13,7 +13,7 @@ The gesture makes design the difference between a habit and a ritual. The four d
 ---
 
 Relevant Notes:
-- [[the stance is a point of return not a state]] — the practice posture, defined by returning rather than by habituation
+- [[the basic practice posture is a point of return rather than a state]] — the practice posture, defined by returning rather than by habituation
 - [[nothing enters the lattice the body has not countersigned]] — the standard an automatic practice would have to keep meeting
 
 Topics:

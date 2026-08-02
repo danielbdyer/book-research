@@ -18,7 +18,7 @@ The cusp carries the present-tense demand that cannot be prepared for: the weigh
 ---
 
 Relevant Notes:
-- [[the stance is a point of return not a state]] — the posture this figure supplies the back door to
+- [[the basic practice posture is a point of return rather than a state]] — the posture this figure supplies the back door to
 
 Topics:
 - [[felt-shift]]

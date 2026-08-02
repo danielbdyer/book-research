@@ -6,7 +6,7 @@ topics: ["[[felt-shift]]"]
 state: full
 ---
 
-# the stance is specified as facets held together rather than steps taken in order
+# the basic practice posture is specified as simultaneous conditions rather than as a sequence
 
 The executed draft names six components of the Stance and marks their relation explicitly: "The Stance has the following components, which are not steps but facets" (abridged ch13). The distinction is load-bearing for a practice curriculum, because a sequence can be performed in order and reported as done, while a set of simultaneous conditions can only be occupied or not.
 
@@ -24,9 +24,9 @@ The draft supplies a recognition test in place of a completion test, and states 
 ---
 
 Relevant Notes:
-- [[the stance is a point of return not a state]] — the definition these six specify, and the reason a completion test is not the right instrument for it
+- [[the basic practice posture is a point of return rather than a state]] — the definition these six specify, and the reason a completion test is not the right instrument for it
 - [[unrelated traditions converge on presence without agenda while remaining available to act]] — the convergence the sixth facet is the attractor of
-- [[the kata specify when to begin a form and not how to tell it is finished]] — the same specification gap one unit later, at the scale of twelve gestures
+- [[the practice forms specify when to begin and not how to tell one is finished]] — the same specification gap one unit later, at the scale of twelve gestures
 - [[nothing enters the lattice the body has not countersigned]] — the standard the unit would invoke if it named one
 
 Topics:

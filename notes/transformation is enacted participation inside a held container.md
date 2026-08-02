@@ -30,7 +30,7 @@ Relevant Notes:
 - [[grief cannot complete alone]] — McLaren's clause of the roll-call, stated at full strength as its own finding
 - [[the triad is the anatomy of every container]] — what the law's first condition is made of, per the container-makers' room
 - [[the book performs what it describes]] — the design law this finding converts from a stylistic principle into a mechanism
-- [[the guild is seated by contribution rather than by doctrine]] — how the six voices were gathered, which is what the convergence is agreement across
+- [[the book's company of thinkers is grouped by contribution rather than by doctrine]] — how the six voices were gathered, which is what the convergence is agreement across
 
 Topics:
 - [[relational-field]]

@@ -13,7 +13,7 @@ The gesture proposes ritual structures built once that go on holding — anchors
 ---
 
 Relevant Notes:
-- [[the stance is a point of return not a state]] — the rival account, in which steadiness is recovered rather than built
+- [[the basic practice posture is a point of return rather than a state]] — the rival account, in which steadiness is recovered rather than built
 
 Topics:
 - [[research-frontier]]

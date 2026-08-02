@@ -36,7 +36,7 @@ This bears on the book twice. It supplies the honest form of any citation — th
 Relevant Notes:
 - [[suffering is contraction never corruption]] — the doctrine no-bad-parts parallels clause by clause, in a clinical register
 - [[the gatekeeper is met with a bow never a fight]] — the ethic Schwartz's protector finding states as a clinical result
-- [[the stance is a point of return not a state]] — the posture IFS calls Self, and the same refusal of cultivation reached differently
+- [[the basic practice posture is a point of return rather than a state]] — the posture IFS calls Self, and the same refusal of cultivation reached differently
 - [[unrelated traditions converge on presence without agenda while remaining available to act]] — the convergence Self would join, from the only clinical seat in it
 - [[what is split off not felt remains the same]] — the finding whose evidence base the book can lean on where the IFS evidence base will not carry weight
 

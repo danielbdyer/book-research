@@ -18,9 +18,11 @@ The reason is a bias to avoid rather than a style preference: numbered reference
 
 ## Voice
 
-Two standing author directives govern all prose and naming. Both are recorded in full in `ops/methodology/`.
+Three standing author directives govern all prose and naming. All are recorded in full in `ops/methodology/`.
 
 **Vocabulary** (`vocabulary policy.md`): the reference surface — filenames, YAML fields, enum values, folder names, headings — names its concern in plain denotative terms. The book's narrative vocabulary is graph content: it lives in `notes/figure glossary.md` and in image-category claims, never as metadata bound to a note.
+
+**Naming** (`naming and epistemic humility.md`): the corpus's figures and coinages — the guild, the five rooms, the valley, the Stance, the Gatekeeper, the doors — are candidate labels for concerns, not the concerns. Vault prose states the concern in plain terms and attributes the corpus's name once where the crosswalk earns its place; the name never carries a sentence alone. Every name is held as a candidate, because nothing about the book is settled, its foundations included. Three exemptions: quotations, which keep their words; source anchors, which are coordinates in a document; and image-category claims plus the figure glossary, where the figure is the subject. New material attaches one level beneath the naming layer, to findings and to the people who reached them.
 
 **Prose** (`prose register.md`): all vault prose is expository and evidential. Complete sentences with named subjects; no telegraphic fragments; no shorthand carrying an assertion alone. The statement leads and the substantiation sits beneath it. The corpus is quoted and anchored, never impersonated. Exact referents: named units, section symbols, document names. A description is a proposition parseable with no prior context.
 

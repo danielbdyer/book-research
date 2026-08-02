@@ -85,7 +85,7 @@ The section headings below reproduce the survey's own organization, which follow
 
 - [ ] Winnicott's false self — the theory behind the representative-versus-arriving distinction; the survey notes the tie costs one sentence.
 - [ ] Wu wei (via Edward Slingerland) — the paradox of trying to be effortless. Raised in priority 2026-08-02: the survey's account of the debate is now cited inside `notes/unrelated traditions converge on presence without agenda while remaining available to act.md`, so what remains is reading Slingerland rather than deciding whether to.
-- [ ] Shu-ha-ri — keep the form, break the form, leave the form; protection against forms kept past ripeness. Narrowed 2026-08-02: the executed draft already states that the forms are for outgrowing ("the Kata become invisible"), so only the roughly-when is open. See `notes/the kata specify when to begin a form and not how to tell it is finished.md`.
+- [ ] Shu-ha-ri — keep the form, break the form, leave the form; protection against forms kept past ripeness. Narrowed 2026-08-02: the executed draft already states that the forms are for outgrowing ("the Kata become invisible"), so only the roughly-when is open. See `notes/the practice forms specify when to begin and not how to tell one is finished.md`.
 - [ ] Matthew Lieberman — affect labeling under the scanner.
 - [ ] Mary's Room / knowledge by acquaintance — the book's epistemology in analytic philosophy's vocabulary.
 
