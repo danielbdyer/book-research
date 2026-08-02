@@ -33,7 +33,7 @@ The second refusal is structural. Bateson held that conscious purpose is the pat
 
 ## What the evaluation found that the survey did not
 
-The survey presents Bateson as an ally who happens to be unnamed. The primary texts make him a better opponent than an ally, which is the shape the corpus's own survey says its strongest finds take. Seating him as ancestry alone would take his ladder and drop his warning, and the warning is the part the book's safety material has no formal source for.
+The survey presents Bateson as an ally who happens to be unnamed. In the primary texts he is not an ally: the ladder and the double bind sit alongside a refusal aimed squarely at designed curricula and a warning that the transition the book's arc arrives at is sometimes pathogenic. Naming him for the ladder alone would quote half of him, which is the one thing a project that points at people cannot do.
 
 ---
 

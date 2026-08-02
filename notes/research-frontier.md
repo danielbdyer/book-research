@@ -54,7 +54,7 @@ Evaluated candidates move to [[interlocutors]] with a seat, or are declined with
 
 ## What an evaluation is
 
-Evaluating a candidate means: obtain and read the thinker's relevant primary work — the /learn command runs outward research and files what it finds into `inbox/`; write or complete the interlocutor note with the case for a seat, the case against, and the specific connections to existing claims; apply the admission standard (would this actually change how the project thinks?); and record the outcome in the note's `recommendation:` field, leaving `seat: candidate` until the author decides. Update the entry in `ops/queue/candidates.md` to its evaluated state so the recommendation surfaces for the author. Works consulted for an evaluation are cited inside the interlocutor note; only the project's own source documents get archive notes. A decline is recorded, not deleted.
+Evaluating a candidate means: obtain and read the thinker's relevant primary work — the /learn command runs outward research and files what it finds into `inbox/`; write or complete the interlocutor note with what the thinker holds in their own terms, what they would refuse, and the specific crossovers to existing claims; apply the admission standard (would this actually change how the project thinks?); and record the outcome in the note's `recommendation:` field, leaving `seat: candidate` until the author decides. Update the entry in `ops/queue/candidates.md` to its evaluated state so the recommendation surfaces for the author. Works consulted for an evaluation are cited inside the interlocutor note; only the project's own source documents get archive notes. A decline is recorded, not deleted.
 
 ## What remains
 

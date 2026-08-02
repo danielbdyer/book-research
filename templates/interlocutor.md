@@ -50,9 +50,10 @@ topics: []
 # {thinker's name}
 
 {Who this thinker is and what they hold, in complete sentences. For candidates:
-the case for a seat, the case against, the admission standard applied (would
-this actually change how the project thinks?), and what the evaluation still
-requires. End with a recommendation; the seating decision is the author's.}
+what this thinker holds in their own terms, where the author sees a crossover,
+what this thinker would refuse, and what the evaluation still requires. The
+refusal is kept so the thinker survives being cited. End with a recommendation;
+the seating decision is the author's.}
 
 ---
 

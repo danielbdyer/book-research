@@ -29,7 +29,7 @@ So the book is already speaking the dialect. What it has never done is state whe
 
 The counterweight is evidential rather than doctrinal, and the numbers are specific enough to use. A 2025 scoping review of the IFS literature found twenty-seven studies meeting inclusion criteria, of which two were randomized controlled trials, seventeen were case studies, five quasi-experimental, and three qualitative — against the hundreds of trials behind cognitive behavioural therapy. For post-traumatic stress the controlled evidence reduces to a single uncontrolled pilot. Clinicians also raise a practice-level risk the book inherits directly: parts work handled carelessly can destabilize people with complex trauma.
 
-This bears on the book twice. It supplies the honest form of any citation — the model is clinically useful and its enthusiasm has outrun its evidence — and it warns against the move the book is most tempted to make, which is treating IFS as the empirical ground under its account of protective parts. The empirical claim the book can safely lean on is Gendlin's, which the corpus already treats as its verification standard; Schwartz's is a vocabulary and a practice ethic, and the corpus should cite it as that.
+This bears on how the model can be named accurately. Citing IFS points at a vocabulary and a practice ethic that many readers already speak; it does not point at a settled clinical result, and a citation that reads as though it does would be saying more than the literature says. The distinction matters for pointing rather than for argument: Schwartz's finding about protectors is a clinician's observation offered in a clinician's terms, and naming it as that is both accurate and enough.
 
 ---
 
