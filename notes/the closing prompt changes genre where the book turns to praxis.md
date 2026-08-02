@@ -19,7 +19,6 @@ The transferable point is that the book has a working rule it never states: an i
 - The Geometry of Becoming is the single unit with no closing instruction. It ends on a transition into the architecture material instead — "We step back now to see the shape" — which is consistent with its recorded job as the hinge that hands the reader from felt experience to the named map.
 - The prose measurements corroborate the same turn. Mean sentence length across the fifteen units is 12.4 words; the Kata is the shortest in the book at 7.8 words and the Stance the second shortest at 10.0. The two units that carry the instruction register are also the two whose sentences are most compressed, so the genre change is visible in the syntax as well as in the imperative.
 - The atlas records a tension this pattern bears on directly: the book's forward momentum works against the stopping its practices require, treated with thresholds that require action before the text continues (atlas §XI.1b, carried at [[forward hunger defeats the pause]]). The executed draft does not use gate practices; its closing instructions are all skippable, which leaves that treatment untried.
-- Craft standing: this note records the distribution and the rule it implies. The treatment's assessments of these chapters are excluded under `ops/methodology/craft evidence.md`.
 
 ---
 

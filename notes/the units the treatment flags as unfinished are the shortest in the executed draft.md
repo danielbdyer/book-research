@@ -20,7 +20,6 @@ Extent of each named unit in the abridged edition, in words, shortest first: the
 - The two flagged units are quoted in full at [[the treatment records four authorship conditions in its undercurrents]], which also carries the two conditions that cannot be measured.
 - The two longest units, the Three Loops and the Psychedelic Moment, are the structural core and the peak, which is consistent with the treatment's designation of each as a unit the arc is built around (arc-gloss: ch7, ch11).
 - The Stance is short without being flagged. The treatment specifies its register as "still, spacious; the prose models the stance" (arc-gloss: ch13), so its brevity is a stated design rather than an omission — which is why extent alone does not identify an unfinished unit, and the treatment's flags are needed to read the count.
-- Craft standing: this note reports two independent measurements and their agreement. No judgment about the quality of either chapter is recorded, per `ops/methodology/craft evidence.md`.
 
 ---
 

@@ -101,7 +101,7 @@ Material never goes directly into `notes/` outside a pipeline phase. Raw capture
 
 Support commands: `/seed` (create deduplicated extraction tasks), `/pipeline` (end-to-end), `/ralph` (queue orchestration with fresh context per phase), `/tasks`, `/next`, `/stats`, `/graph`, `/validate`, `/learn` (outward research), `/remember` (capture methodology corrections), `/refactor` (structural change).
 
-The admission standard for everything the pipeline produces: material becomes a note only if it would actually change how the project thinks. A few claims that other work can build on are worth more than many paraphrases. Declined material keeps a record of what it was and why it was declined.
+The admission standard for everything the pipeline produces is the writing test (`ops/methodology/writing test.md`): **would a drafting session reach for this?** A note earns its place by supplying something writing can use — a claim to state, a figure to quote, a mechanism to build against, a fact that decides a manuscript question. "Would it change how the project thinks" remains the floor; satisfying future writing is the bar. Material that only describes the vault's own state routes to `ops/`, and analysis of an absence is worth one seed, not an essay. Declined material keeps a record of what it was and why.
 
 ## Interlocutors
 
@@ -156,7 +156,7 @@ Maintenance is condition-based. The session-orient hook counts and reports the f
 
 From the derivation, the five failure modes rated high for this vault, with their guards:
 
-1. **Vault work displacing manuscript work.** The corpus warns about this itself; the guard is the output rule and the /rethink question "what reached the manuscript this month?"
+1. **Vault work displacing manuscript work.** The corpus warns about this itself; the guards are the output rule, the writing test at admission, and the /rethink question "what reached the manuscript this month?"
 2. **Collecting without admitting.** Roughly sixty candidates await evaluation on the pending-evaluation list in `ops/queue/candidates.md`; the guard is the admission standard.
 3. **Transplanting the sources' prose.** The guard is the prose register (`ops/methodology/prose register.md`) and the quote-marking rule.
 4. **Claims with no topic map.** The guard is the hook plus /verify.

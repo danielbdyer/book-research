@@ -18,7 +18,7 @@ The reading is the vault's. The abridged edition presents the three formulas sep
 - Abridged ch6 gives the three formulas in sequence with their medicines. Trust: "Bind + Commit + Defer — the willingness to bind to one another, to maintain the binding, and to defer certainty about what will happen, which is what allows trust to grow rather than calcify into expectation" (abridged ch8, where the relational form is restated). Paralysis: "Possibility − Commit," with Possibility given as Defer + Create + Commit. Foreclosure: "Commitment − Defer. You have committed but you have closed all other possibility."
 - The edition states Foreclosure's medicine in terms that make the axis visible without naming it: "The medicine is to restore Defer — to hold open, alongside the commitment, the possibility that the world is larger than the commitment knows. Defer does not undo the commitment. It steadies it. A commitment that cannot tolerate Defer is a commitment that is being held by force; it will break under stress" (abridged ch6).
 - The atlas and the walked document carry the trust-and-paralysis pair (atlas §IV; walked IV) and do not carry Foreclosure. The molecule catalogue those sections hold has not been extracted; it is listed in `ops/queue/extractions.md`, and whether Foreclosure appears there under another name is not yet established.
-- Source standing: the abridged edition is a draft under `ops/methodology/source standing.md`. The formulas are recorded here as the draft states them; the three-way division is the vault's reading of the three together.
+- The formulas are the draft's own; reading the three as one axis is an arrangement of them, not a statement any source makes.
 
 ---
 

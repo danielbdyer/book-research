@@ -19,7 +19,7 @@ The consequence for the book is a matter of consent rather than of tone. A work 
 - The material states its own purpose in disclosing this: "We say this not to frighten you, but to be honest." The passage sits immediately after the fourth wall falls and before the book's deeper material begins, which places it at the point where a contract would be signed.
 - The corresponding passages in the other documents are one-sided. The front-matter promise recorded at [[reading is remembering]] states what the reader will gain; the executed draft's reading contract asks for slowness and for the practices to be done and warns only that confusion is information (abridged: how to read this book). Neither states a cost.
 - The etymological ground is already in the corpus and supports the claim without stating it. *Aletheia* is constructed as un-forgetting, and Lethe is the river of forgetting (abridged: prologue; atlas §I). A structure named for the undoing of forgetting has no second undoing available.
-- Source standing: this is a draft under `ops/methodology/source standing.md` and appears in no descriptive source, so it has one attestation.
+- The claim appears in no descriptive source: one attestation, in the earliest draft.
 
 ---
 

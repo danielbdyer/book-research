@@ -20,7 +20,7 @@ What the divergence establishes is that the later arc's compression was a set of
 - Units that carry over into the arc under other names are not counted among the four: Mapping the Ecosystem of Self becomes the Three Loops, Erotic-Spiritual Intelligence keeps its name, Witnessing as Lifeblood becomes the Third Entity's material, and the Inner/Outer Systems Audit becomes the Engineer's Eye.
 - The earlier scheme states an organizing figure the later arc does not use: "The book unfolds in concentric spirals — each layer deepening the reader's relationship with themselves, their relationships, and their systems of meaning" (mythic-os: book overview). The later arc is organized as a single traverse with a peak, described at `arc-gloss: how to hold this` as five parts and four overlays.
 - The same overview names three intended-reader groups the later arc's front matter does not address, of which one bears on the dropped territories: "Creators of inner architectures and Second Brains" (mythic-os: book overview).
-- Source standing: this is a draft under `ops/methodology/source standing.md`, and a table of contents is a plan rather than written material. The four territories are named units, not extant text; only the first unit of this edition was written out.
+- A table of contents is a plan rather than written material: the four territories are named units, not extant text, and only the first unit of this edition was written out.
 
 ---
 

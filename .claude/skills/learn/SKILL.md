@@ -6,6 +6,8 @@ allowed-tools: Read, Write, Edit, Grep, Glob, Bash, mcp__exa__web_search_exa, mc
 context: fork
 ---
 
+**THIS VAULT'S ADMISSION BAR.** Findings pass the writing test (`ops/methodology/writing test.md`): a result becomes a note only if a drafting session would reach for it. Research summaries about the project's own process route to `ops/`; an absence discovered is one seed, not an essay.
+
 ## EXECUTE NOW
 
 **Topic: $ARGUMENTS**

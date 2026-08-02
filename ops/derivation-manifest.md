@@ -85,6 +85,11 @@ vocabulary:
 
   # Level 7: extraction categories. what_to_find is written for a reader with no
   # prior context, per the prose register (ops/methodology/prose register.md).
+  # Admission is governed by the writing test (ops/methodology/writing test.md):
+  # material is admitted when a drafting session would reach for it. "Would it
+  # change how the project thinks" is the floor; satisfying future writing is
+  # the bar. What only describes the vault's own state routes to ops/.
+  admission_test: "Would a drafting session reach for this?"
   extraction_categories:
     - name: "claim"
       what_to_find: "One proposition of the book's framework, stated in the note title as a complete sentence. One idea per note; the body expounds the claim plainly and a substantiation section anchors it to source locations."

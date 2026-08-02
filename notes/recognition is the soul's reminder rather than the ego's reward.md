@@ -19,7 +19,7 @@ This matters operationally for the same reason the warning does. A book whose pr
 - The two names: "Not the one written in birth certificates or etched into ID cards, but the truer name — the myth-name, the one threaded into our longing before we could form sentences. It doesn't shout; it rustles. It doesn't define; it remembers" (mythic-os: page 16). The same passage locates the evidence in ordinary preference and repetition rather than in achievement: "the things we keep returning to, no matter how impractical, how small."
 - The warning this states positively is at atlas §IX.5, recorded in the description of `notes/recognition.md`, where it is grouped with Nāgārjuna's and Rieff's warnings as the three guards the book keeps against counterfeit transcendence.
 - The compatibility with the doctrine is exact: the first-telling glosses recognition as "recognizing what was always there and never left" (first-telling: the reframe), and a thing that never left cannot be awarded.
-- Source standing: this is a draft under `ops/methodology/source standing.md` and appears in no descriptive source, so it has one attestation. The guard it states positively has four.
+- The claim appears in no descriptive source, so it has one attestation; the warning it states positively has four.
 
 ---
 

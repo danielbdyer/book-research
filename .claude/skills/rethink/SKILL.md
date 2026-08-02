@@ -46,6 +46,8 @@ Parse immediately:
 
 **The system is not sacred. Evidence beats intuition.**
 
+**THIS VAULT'S STANDING QUESTIONS.** Every rethink pass here asks two questions before generating proposals: what reached the manuscript since the last pass, and what proportion of the period's new notes would a drafting session actually reach for (`ops/methodology/writing test.md`). Growth that fails the second question is the vault's highest-rated failure mode operating, however well-formed the notes are.
+
 Every rule in the context file, every workflow in a skill, every assumption baked into the architecture was a hypothesis at some point. Hypotheses need testing against reality. Observation notes in `ops/observations/` capture friction from actual use. Tension notes in `ops/tensions/` capture unresolved conflicts. Rethink first triages these individually (some become {DOMAIN:notes}, some become methodology updates, some get archived), then compares remaining evidence against what the system assumes and proposes changes when patterns emerge.
 
 This is the scientific method applied to knowledge systems: hypothesize, implement, observe, revise.

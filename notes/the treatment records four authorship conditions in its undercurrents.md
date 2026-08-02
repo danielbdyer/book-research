@@ -9,7 +9,7 @@ topics: ["[[book-structure]]", "[[answerability]]"]
 
 Under the headings "undercurrent" and "the meta," the Arc and the Gloss treatment carries a kind of material none of the other six sources contains: standing observations about the author's relation to the manuscript, two of them marked as addressed to the author rather than to a reader. They are recorded here because they bear on a decision the vault serves — which chapter can be brought to a finish next — and because they are checkable against the executed draft in two of the four cases.
 
-They are quoted rather than restated. Under `ops/methodology/craft evidence.md`, an authorship condition is the author's own recorded self-assessment; the vault reports that the treatment records it, quotes it, and where possible measures the executed draft against it. The vault does not assess the author, infer motive, or recommend.
+They are quoted rather than restated, and measured against the executed draft where a measurement exists.
 
 ## Substantiation
 

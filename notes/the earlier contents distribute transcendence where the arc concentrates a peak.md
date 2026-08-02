@@ -19,7 +19,7 @@ One qualification cuts against reading the earlier document as simply peakless. 
 - The organizing figure is stated: "The book unfolds in concentric spirals — each layer deepening the reader's relationship with themselves, their relationships, and their systems of meaning. It is both map and territory; praxis and poetry" (mythic-os: book overview).
 - The arc's organizing figure is the opposite shape. The treatment's third overlay reads the whole as "one pulse: inhale, suspension at fullness, the gap, exhale, rest at the bottom," and its fourth part is headed "peak + descent; prose destabilizes on purpose" (arc-gloss: overlay three, part iv).
 - The page-scale peak in the earlier document runs "An Untitled Poem (Time Is Not Linear)" at `mythic-os: page 9` immediately followed by "The Afterglow" at `mythic-os: page 10`, which opens "There is a silence that follows true expression — a hush that is not absence, but presence caught in its breath."
-- Source standing: both documents are drafts under `ops/methodology/source standing.md`, and the earlier one's arrangement is a table of contents rather than written material, so this records two plans and one partial execution.
+- The earlier arrangement is a table of contents rather than written material, so the comparison here is between two plans and one partial execution.
 
 ---
 

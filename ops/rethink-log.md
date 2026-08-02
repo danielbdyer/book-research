@@ -70,3 +70,13 @@ A record of each configuration review: what evidence prompted it, what was propo
 **Recorded for the next session.** Word-boundary matching is now documented in `CLAUDE.md` as a requirement rather than a preference, because unbounded matching over the corpus produced one wrong conclusion during the pass that built the open-corpus inventory: "habit" matched *inhabit* and "ritual" matched *spiritual*, crediting two open territories with material that does not exist.
 
 **Open after this review.** The thirteen nascent stubs are debt, counted by `scripts/queries/nascent-stubs.sh`. Nothing has yet reached the manuscript; the output rule in `notes/methods.md` is the standing measure and the vault has no instrument for it.
+
+---
+
+## 2026-08-02 — The writing test
+
+**Prompted by.** The author, after the reorientation pass: the admission standard should be the sentence that drove it — pay attention to what will satisfy future writing, not what supplies more work to do — hardcoded across the agentic instructions.
+
+**Implemented as.** `ops/methodology/writing test.md`, one page: the test (would a drafting session reach for this?), three sorting consequences (vault-state material routes to ops/; an absence is one seed, not an essay; the payload leads and policies are cited, not re-argued per note). Woven at every admission decision point: CLAUDE.md's pipeline section and risk table, methods rule 1, the manifest's `admission_test` field that skills read at invocation, the reduce skill's override block, the seed skill's region-naming instruction, the learn skill's admission bar, and the rethink skill's standing questions. The prior standard remains as the floor.
+
+**Sweep result.** The same treatment applied across existing notes found the disease confined to one layer: the structure-and-provenance notes were re-arguing standing policies per note. Thirteen boilerplate passages removed ("Source standing:" and "Craft standing:" bullets, two vault-narration paragraphs). Doctrine, image, and craft notes needed nothing — they are the writing-serving payload. A residual audit found no note with more than two vault-self-references, each a factual attribution.

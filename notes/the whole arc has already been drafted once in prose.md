@@ -9,7 +9,7 @@ topics: ["[[book-structure]]", "[[answerability]]"]
 
 The abridged edition carries the whole arc in continuous manuscript prose: a reading contract, a lineage, a prologue, fifteen chapters across five parts, two interludes, an epilogue, and a note on sources. Its chapter sequence matches the Arc and the Gloss treatment chapter for chapter and title for title. The arc the four founding documents describe has therefore been executed once, at reduced length, from first sentence to last.
 
-Neither the atlas's colophon nor the walked document's names this edition among the threads they were compiled from. The founding sources describe the arc as a plan and do not record that a written state of it exists. What the vault held before this document arrived was an account of a book; what it holds now is an account of a book plus one full pass at writing it.
+Neither the atlas's colophon nor the walked document's names this edition among the threads they were compiled from: the founding sources describe the arc as a plan and do not record that a written state of it exists.
 
 The completeness is a completeness of sequence rather than of content, and two later findings bound it. The executed draft contains almost none of the material the treatment's second edition was written to add ([[the executed draft carries the arc's sequence without the treatment's five rooms]]), and it builds one of the seven apparatus devices the corpus designs ([[the drafts execute one of the seven designed apparatus devices]]). What exists is a full pass at the arc, not a full pass at the book.
 
