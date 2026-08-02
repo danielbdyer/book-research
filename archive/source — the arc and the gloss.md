@@ -2,7 +2,7 @@
 description: This note is the provenance record for the Arc and the Gloss, second edition, the storyboard treatment of the fifteen-chapter arc; the atlas and the walked document both name it among the threads they were compiled from.
 source_file: "sources/the arc and the gloss - second edition.pdf"
 status: partially-extracted
-extracted: ["[[the atlas was compiled from the arc and gloss treatment]]", "[[the prose drafts use the vetoed triad names]]", "[[the drafts disagree about which person the book speaks in]]"]
+extracted: ["[[the atlas was compiled from the arc and gloss treatment]]", "[[the prose drafts use the vetoed triad names]]", "[[the drafts disagree about which person the book speaks in]]", "[[transformation is enacted participation inside a held container]]", "[[the guild is seated by contribution rather than by doctrine]]", "[[the transformation field divides into five theories of where suffering lives]]", "[[surrender and will are adjudicated from the body rather than from doctrine]]", "[[unrelated traditions converge on presence without agenda while remaining available to act]]", "[[karla mclaren]]", "[[werner erhard]]"]
 topics: []
 ---
 
@@ -24,7 +24,11 @@ Cited as `arc-gloss`. Its sections are named rather than numbered, and are cited
 
 ## Extraction state
 
-The first pass (2026-08-01) took the provenance relation, the triad naming crosswalk at `arc-gloss: ch4`, and the register evidence for the person tension. The image system has been extracted entire (2026-08-01, eleven image claims listed in `notes/book-structure.md`). The remaining unextracted regions are the four overlays, the per-unit jewels and thresholds, the five rooms' individual contents, and the four closing meta notes. They are enumerated in `ops/queue/extractions.md`.
+The first pass (2026-08-01) took the provenance relation, the triad naming crosswalk at `arc-gloss: ch4`, and the register evidence for the person tension. The image system has been extracted entire (2026-08-01, eleven image claims listed in `notes/book-structure.md`).
+
+The guild pass (2026-08-02) took `arc-gloss: the five rooms` and `arc-gloss: overlay four` entire, with atlas §IX and walked IX read as their summaries and counted once. It produced five claims and two interlocutor notes, and drew supporting quotations from `arc-gloss: ch7`, `ch13`, `ch14`, `ch15`, `ch6`, `ch9`, and `prologue`. This document is the primary for both convergence findings: the coaches' axioms and the Stance's convergence table appear verbatim here and nowhere else in the corpus.
+
+The remaining unextracted regions are the first three overlays (the courtyard, the descent of the word, the breath), the per-unit jewels and thresholds, and the four closing meta notes. They are enumerated in `ops/queue/extractions.md`.
 
 ---
 

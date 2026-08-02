@@ -14,7 +14,11 @@ The document differs in kind from its three siblings: they describe what the pro
 
 ## Extraction state
 
-The starter pass (2026-08-01) extracted its priority five as candidate notes ([[gregory bateson]], [[ignatius of loyola]], [[internal family systems]], [[hartmut rosa]]) and one admitted tension ([[felt shift versus felt confirmation]]). The full candidate list — roughly sixty entries — is transcribed as the pending-evaluation list in `ops/queue/candidates.md`; none have been researched beyond what this survey itself says.
+The starter pass (2026-08-01) extracted its priority five as candidate notes ([[gregory bateson]], [[ignatius of loyola]], [[internal family systems]], [[hartmut rosa]]) and one admitted tension ([[felt shift versus felt confirmation]]). The full candidate list — roughly sixty entries — is transcribed as the pending-evaluation list in `ops/queue/candidates.md`.
+
+The evaluation pass (2026-08-02) read all four candidate notes against their primary works and recorded recommendations. Two of the survey's own claims did not survive contact with the primary material, and both are corrected in the notes rather than in this record: its account of Bateson as an unnamed ally understates his refusal of designed curricula, and its statement that Internal Family Systems is "not yet seated anywhere in the project" holds for the four descriptive sources and not for the executed draft, which uses Schwartz's vocabulary and credits both his books. Neither correction reduces the survey's standing; both are cases of a survey written against the founding sources and read later beside a draft the survey did not have. The survey's own material is also now cited inside four claim notes — the wu wei debate, shu-ha-ri, Barrett's constructionism, and Slingerland's scholarship — which converts those entries from proposals into named gaps.
+
+The rest of the pending list has not been researched beyond what this survey itself says.
 
 ---
 
