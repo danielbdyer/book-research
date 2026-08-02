@@ -1,5 +1,5 @@
 ---
-description: The book reclaims the word psychedelic through its Greek roots, soul-manifesting, so that it names the movement of the concealed becoming visible — a movement the book locates in ordinary life rather than in drug states.
+description: The book reclaims the word psychedelic through its Greek roots, soul-manifesting, so that it names the concealed becoming visible — a movement located in ordinary life rather than in drug states.
 category: claim
 sources: ["atlas §I", "walked I", "first-telling: the word it reclaims"]
 topics: ["[[recognition]]"]

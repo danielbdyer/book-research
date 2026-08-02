@@ -37,7 +37,10 @@ The three manuscript drafts admitted 2026-08-01 carry strains that the four desc
 
 ## The disagreements kept live among the contemporary teachers
 
-The corpus preserves, rather than adjudicates, the disagreements among its contemporary teachers. The disagreements on record: where suffering lives (atlas §XI.2a lists eight positions: the five theories seated among the coaches plus the corpus's expansions); interiority versus structure; surrender versus will; declaration versus disclosure (the one treated member of this group — see [[the middle voice settles declaration against disclosure]], atlas §XI.2d); and which of the four traditional means of recognition is primary. Three standing guards watch for counterfeit transcendence: Nāgārjuna's warning that emptiness wrongly grasped harms the grasper, Lacan's warning about what recognition gets used for, and Rieff's warning that books like this become commodities of the culture they critique. No claim notes exist for these disagreements yet; under the admission standard in [[methods]], one is written when a disagreement changes how the project thinks.
+The corpus preserves, rather than adjudicates, the disagreements among its contemporary teachers. The disagreements on record: where suffering lives (atlas §XI.2a lists eight positions: the five theories seated among the coaches plus the corpus's expansions); interiority versus structure; surrender versus will; declaration versus disclosure (see [[the middle voice settles declaration against disclosure]], atlas §XI.2d); and which of the four traditional means of recognition is primary. Three standing guards watch for counterfeit transcendence: Nāgārjuna's warning that emptiness wrongly grasped harms the grasper, Lacan's warning about what recognition gets used for, and Rieff's warning that books like this become commodities of the culture they critique.
+
+- [[the transformation field divides into five theories of where suffering lives]] — the five positions themselves, with each camp's axiom quoted and the three expansions that make eight
+- [[surrender and will are adjudicated from the body rather than from doctrine]] — the sharpest of the forks, whose treatment is the body seated as referee and doctrine recusing itself
 
 ## The method this map does not supply
 
@@ -49,7 +52,7 @@ This map borders [[book-structure]], because the book's six revision passes exis
 
 ## What remains
 
-The disagreements among the coaches' theories of suffering deserve individual tension notes when work on that material begins. The Barrett-versus-McLaren question (are emotions found or made) is stated in [[open-questions]]; if the author decides it belongs among the kept tensions, it gets a tension note here.
+Of the guild's four fault lines, two now have notes — surrender versus will, and declaration versus disclosure. Interiority versus structure and the four doors' war do not, and the first of the two has gained a candidate who would carry it: Hartmut Rosa's structural diagnosis, evaluated at [[hartmut rosa]], is the position the corpus currently holds anonymously as the material voice. The Barrett-versus-McLaren question (are emotions found or made) is stated in [[open-questions]] and now has its sourcing in [[karla mclaren]]; if the author decides it belongs among the kept tensions, it gets a tension note here.
 
 ---
 

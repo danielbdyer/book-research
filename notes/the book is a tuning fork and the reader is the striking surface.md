@@ -22,6 +22,7 @@ The corpus's image system pairs each image with a concept and an antecedent. Thi
 Relevant Notes:
 - [[a word at madhyama can be perfected forever a word at vaikhari can be answered]] — the doctrine that makes an answerable ending the design requirement
 - [[nothing transforms from the audience]] — the law the image encodes: the book does nothing to a spectator
+- [[hartmut rosa]] — evaluated candidate; his semicontrollability argument is the mechanism behind the image, and supplies the sentence the ending cannot promise
 
 Topics:
 - [[answerability]]

@@ -22,6 +22,7 @@ The law binds the book itself, and the corpus applies it reflexively: a book is 
 Relevant Notes:
 - [[the field between two people does work]] — the positive claim about what participation makes possible
 - [[the book performs what it describes]] — the design law that turns this rule into structure
+- [[transformation is enacted participation inside a held container]] — the same law in its positive form, and reached by five further lineages beyond the one recorded here
 
 Topics:
 - [[relational-field]]

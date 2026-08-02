@@ -24,6 +24,8 @@ Relevant Notes:
 - [[grief is sever plus love plus persist]] — the formula that carries this law as its catalyst
 - [[the field between two people does work]] — the general claim this law is the sharpest case of
 - [[nothing transforms from the audience]] — the adjacent law, which states the condition a witness must satisfy: only a participant completes anything
+- [[karla mclaren]] — the thinker this finding is seated for, with her practice, her interrogative model, and the live objection to it
+- [[transformation is enacted participation inside a held container]] — the convergence this finding is one of six independent arrivals at
 
 Topics:
 - [[relational-field]]

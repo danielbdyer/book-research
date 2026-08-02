@@ -13,6 +13,7 @@ The formulas below are the book's canonical examples. Each is a separate claim b
 ## Claims in this map
 
 - [[suffering is contraction never corruption]] — the master doctrine and its lineage
+- [[the transformation field divides into five theories of where suffering lives]] — the contemporary field's five answers to the question this map's doctrine answers, kept in disagreement
 - [[the diagnosis contains the cure]] — the Privation Principle, which the book calls its signature move
 - [[burnout is obligation minus sanctuary]] — the formula that reverses the standard prescription for burnout
 - [[grief is sever plus love plus persist]] — the formula that reclassifies grief as love under conditions of loss

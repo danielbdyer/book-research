@@ -19,6 +19,8 @@ The racket carries the speech lineage's sharpest diagnostic: a fixed complaint p
 
 Relevant Notes:
 - [[the minus sign is what makes a molecule formula prescriptive]] — the notation the racket sits outside, being a presence that pays rather than an absence to supply
+- [[werner erhard]] — the thinker whose room donates this diagnostic, seated for the mechanism it belongs to
+- [[gregory bateson]] — evaluated candidate; his double bind supplies the history this diagnostic lacks, and turns a payoff into the only move that was available
 
 Topics:
 - [[contraction-not-corruption]]

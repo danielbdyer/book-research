@@ -1,5 +1,5 @@
 ---
-description: Each of the twelve kata is given a trigger and a gesture, most are given an asserted effect, and only three supply a signal the practitioner could check; the curriculum names its own endpoint without a way to recognize it.
+description: Each of the twelve kata is given a trigger and a gesture, only three supply a signal the practitioner could check, and the curriculum names its own endpoint without a way to recognize it.
 category: practice
 sources: ["abridged ch14", "arc-gloss: ch14", "atlas §VII.3", "space-around: around the practice"]
 topics: ["[[felt-shift]]"]

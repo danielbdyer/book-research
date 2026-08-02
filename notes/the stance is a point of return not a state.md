@@ -16,13 +16,16 @@ The corpus records a structural echo it counts as evidence: Jessica Benjamin def
 - Walked VII: "the Stance is not a state to maintain but a point to return to. The returning is the practice."
 - First-telling, "The practice": the two directions of the posture (toward oneself, toward another) and the representative image.
 - Atlas §VII.1 marks the echo with its isomorph notation: Benjamin's rupture-and-repair as "the same law at relational scale."
-- The space-around survey supplies the classical context, not yet researched for this project: the wu wei literature on the paradox of trying to be effortless, in which the corpus's move (defining the practice as return rather than maintenance) is a recognized position; and Wegner's ironic-process research, which explains mechanically why maintenance fails. Both are on the pending-evaluation list in `ops/queue/candidates.md`.
+- The space-around survey supplies the classical context: the wu wei literature on the paradox of trying to be effortless, in which the corpus's move (defining the practice as return rather than maintenance) is a recognized position; and Wegner's ironic-process research, which explains mechanically why maintenance fails. The wu wei material is now carried at [[unrelated traditions converge on presence without agenda while remaining available to act]]; Wegner remains on the pending-evaluation list in `ops/queue/candidates.md`.
 
 ---
 
 Relevant Notes:
 - [[what is split off not felt remains the same]] — the finding the posture exists to serve
 - [[grief cannot complete alone]] — the practice's relational limit: some completions need more than the Stance
+- [[unrelated traditions converge on presence without agenda while remaining available to act]] — the dozen vocabularies the corpus reports arriving at this posture independently
+- [[the stance is specified as facets held together rather than steps taken in order]] — the six components the executed draft gives it
+- [[the kata specify when to begin a form and not how to tell it is finished]] — the twelve forms said to land on this posture, and what their specification leaves out
 
 - [[a ritual can be designed to hold a self in place]] — nascent; the competing account, in which steadiness is built rather than returned to
 - [[a habit becomes a ritual when it is designed rather than accumulated]] — nascent; whether a practice that has become automatic still counts

@@ -14,6 +14,7 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 
 - [[a word at madhyama can be perfected forever a word at vaikhari can be answered]] — the distinction itself
 - [[the middle voice settles declaration against disclosure]] — the book's resolution of the speech-makes-reality versus speech-lets-reality-show dispute
+- [[werner erhard]] — the declarative pole of that dispute, seated for the mechanism and carrying its own standing danger
 - [[the book is a tuning fork and the reader is the striking surface]] — the image the book installs on page one to govern its ending and its publication
 - [[ripeness is not refrigeration]] — the corpus's rule against indefinite preservation of finished work
 - [[seventeen chapters rest at madhyama]] — the meta-tension: the manuscript's current state, and the pilot-chapter move

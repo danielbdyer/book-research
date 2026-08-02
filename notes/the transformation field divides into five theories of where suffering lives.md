@@ -1,5 +1,5 @@
 ---
-description: Beneath their marketing the corpus's eleven contemporary teachers hold exactly five theories of where suffering lives, each with its own prescription and its own quotable axiom, and the corpus records them without adjudicating.
+description: Beneath their marketing the corpus's eleven contemporary teachers hold exactly five theories of where suffering lives, each with its own prescription and axiom, and the corpus declines to adjudicate.
 category: claim
 sources: ["walked IX", "atlas §IX.5", "atlas §XI.2a", "arc-gloss: the five rooms", "arc-gloss: ch7", "first-telling: the engine"]
 topics: ["[[contraction-not-corruption]]", "[[interlocutors]]"]

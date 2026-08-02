@@ -23,6 +23,8 @@ The diagnostic move is the question "which cylinder?" — distress stops functio
 Relevant Notes:
 - [[the diagnosis contains the cure]] — the same de-moralizing move at the chemistry level
 - [[nothing enters the lattice the body has not countersigned]] — the referee the book seats when teachers disagree
+- [[the transformation field divides into five theories of where suffering lives]] — the five camps this diagnostic routes to, each with its axiom quoted
+- [[surrender and will are adjudicated from the body rather than from doctrine]] — what the referee is actually asked to settle once the routing sends a reader to two camps at once
 
 - [[a schedule can be aligned to the nervous system rather than to the clock]] — nascent; the step from diagnosing a loop to arranging a week
 

@@ -18,6 +18,10 @@ One consequence for this vault is recorded in [[methods]]: the vault verifies st
 - [[what is split off not felt remains the same]] — Gendlin's summary sentence, which the book leans on throughout
 - [[the twelve primitives are verbs because a self in verbs is mid-sentence]] — the alphabet this standard verified, and the grammatical reasoning behind it
 - [[the stance is a point of return not a state]] — the practice posture, defined so that failing and returning is the practice
+- [[unrelated traditions converge on presence without agenda while remaining available to act]] — the dozen vocabularies the corpus reports orbiting that posture
+- [[the stance is specified as facets held together rather than steps taken in order]] — the six components the executed draft gives the posture, and the recognition test it supplies in place of a completion test
+- [[the kata specify when to begin a form and not how to tell it is finished]] — the twelve forms, specified at their trigger and unmarked at both exits
+- [[surrender and will are adjudicated from the body rather than from doctrine]] — the dispute the corpus asks this map's instrument to settle, case by case
 - [[felt shift versus felt confirmation]] — the tension: the click can be produced by the prose rather than the truth
 - [[the abridged edition compresses the opening poem rather than reproducing it]] — the one place in the sources where the treatment for that tension has been carried out on a specific text
 - [[the closing prompt changes genre where the book turns to praxis]] — the instruction genre by which the executed draft asks the reader to check the body, and its limits

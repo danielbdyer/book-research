@@ -1,5 +1,5 @@
 ---
-description: Each of the guild's five rooms is admitted for a different kind of contribution — technology, address, mechanism, structural warrant, referral — so the roster is organized by what a room supplies rather than by what it believes.
+description: Each of the guild's five rooms is admitted for a different contribution — technology, address, mechanism, structural warrant, referral — so the roster sorts by what a room supplies, not by what it believes.
 category: structure
 sources: ["arc-gloss: the five rooms", "arc-gloss: front matter", "atlas §IX", "walked IX"]
 topics: ["[[interlocutors]]"]

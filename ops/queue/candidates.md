@@ -8,11 +8,11 @@ The section headings below reproduce the survey's own organization, which follow
 
 ## Priority (the survey's own ranking)
 
-- [ ] Gregory Bateson — double bind as the Racket's ancestor; levels of learning as the folds' formal ladder; ecology of mind. Candidate note exists: `notes/gregory bateson.md`.
-- [ ] Ignatius of Loyola, the Spiritual Exercises — the 1548 precedent for the performing book, companion included. Candidate note exists: `notes/ignatius of loyola.md`.
-- [ ] Internal Family Systems (Richard Schwartz) — the clinical near-twin; the book needs a stated position. Candidate note exists: `notes/internal family systems.md`.
-- [ ] Hartmut Rosa — resonance as the tuning-fork image's completed theory, uncontrollability clause included. Candidate note exists: `notes/hartmut rosa.md`.
-- [ ] The instrument counterweights (felt shift versus felt confirmation; the muted signal and titration) — the tension itself is already admitted at `notes/felt shift versus felt confirmation.md`. What remains is the sourcing: grounding both counterweights in the processing-fluency and interoception literature rather than in the survey's summary.
+- [e] Gregory Bateson — evaluated 2026-08-02, recommendation recorded, awaiting the author's decision. Recommended reference-lineage as a counterweight rather than an ally: the learning levels and the double bind hold at the primary text, and his refusal of conscious purpose ("what you will get is a bag of tricks") is aimed at designed curricula like the kata. `notes/gregory bateson.md`.
+- [e] Ignatius of Loyola, the Spiritual Exercises — evaluated 2026-08-02, recommendation recorded, awaiting the author's decision. Recommended reference-lineage with the craft findings routed to the book-as-artifact material: the precedent holds and reads as a specification, because Annotation 15 forbids the companion to persuade and Annotation 20 prefers seclusion, with Annotation 19 pricing the ordinary-life version at about nine months. `notes/ignatius of loyola.md`.
+- [e] Internal Family Systems (Richard Schwartz) — evaluated 2026-08-02, recommendation recorded, awaiting the author's decision. Recommended reference-lineage, but the seat is the smaller half: the executed draft already uses Schwartz's vocabulary for the identity loop and credits both primary texts, so the open work is a positioning passage in the text. The counterweight is evidential — a 2025 scoping review found two randomized trials among twenty-seven studies. `notes/internal family systems.md`.
+- [e] Hartmut Rosa — evaluated 2026-08-02, recommendation recorded, awaiting the author's decision. Recommended reference-lineage, seated twice: the uncontrollability clause completes the tuning fork's theory ("resonance thus implies semicontrollability"), and his structural diagnosis is a name for the material voice, which the roster currently carries anonymously. `notes/hartmut rosa.md`.
+- [ ] The instrument counterweights (felt shift versus felt confirmation; the muted signal and titration) — the tension itself is already admitted at `notes/felt shift versus felt confirmation.md`. What remains is the sourcing: grounding both counterweights in the processing-fluency and interoception literature rather than in the survey's summary. This is now the only unevaluated member of the priority five, and the load placed on the somatic instrument at `notes/surrender and will are adjudicated from the body rather than from doctrine.md` raises its priority.
 
 ## Around "insight that doesn't move anything"
 
@@ -62,7 +62,7 @@ The section headings below reproduce the survey's own organization, which follow
 
 - [ ] Aristotle, steresis — privation's classical ancestry, and the privation-versus-affliction objection.
 - [ ] Attachment theory (Bowlby, Ainsworth) — the secure base as Sanctuary with longitudinal data; earned security as evidence that folds open.
-- [ ] Lisa Feldman Barrett — emotional granularity (support) and constructionism (counterweight to the messenger model).
+- [ ] Lisa Feldman Barrett — emotional granularity (support) and constructionism (counterweight to the messenger model). Raised in priority 2026-08-02: she is now the named standing counterweight in `notes/karla mclaren.md`, and McLaren holds a seat that a completed evaluation would put under pressure.
 - [ ] Activation energy, nucleation, catalytic surfaces — three uncollected loans from real chemistry.
 
 ## Around the engine
@@ -84,8 +84,8 @@ The section headings below reproduce the survey's own organization, which follow
 ## Around the practice
 
 - [ ] Winnicott's false self — the theory behind the representative-versus-arriving distinction; the survey notes the tie costs one sentence.
-- [ ] Wu wei (via Edward Slingerland) — the paradox of trying to be effortless.
-- [ ] Shu-ha-ri — keep the form, break the form, leave the form; protection against forms kept past ripeness.
+- [ ] Wu wei (via Edward Slingerland) — the paradox of trying to be effortless. Raised in priority 2026-08-02: the survey's account of the debate is now cited inside `notes/unrelated traditions converge on presence without agenda while remaining available to act.md`, so what remains is reading Slingerland rather than deciding whether to.
+- [ ] Shu-ha-ri — keep the form, break the form, leave the form; protection against forms kept past ripeness. Narrowed 2026-08-02: the executed draft already states that the forms are for outgrowing ("the Kata become invisible"), so only the roughly-when is open. See `notes/the kata specify when to begin a form and not how to tell it is finished.md`.
 - [ ] Matthew Lieberman — affect labeling under the scanner.
 - [ ] Mary's Room / knowledge by acquaintance — the book's epistemology in analytic philosophy's vocabulary.
 
