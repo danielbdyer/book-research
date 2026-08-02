@@ -1,9 +1,9 @@
 ---
-description: Gregory Bateson is an evaluated candidate — his learning levels give the fold doctrine a formal ladder and his double bind exculpates the Racket, but his refusal of conscious purpose is aimed at books like this one.
+description: Gregory Bateson is an evaluated candidate: his learning levels formalize the book's account of protective structure, and his refusal of conscious purpose is aimed at books like this one.
 category: interlocutor
 seat: candidate
 clause: "Draft, pending the author's decision: character is learning at the second level, and the reframe is the third — which he says is dangerous."
-recommendation: "Reference-lineage, seated as a counterweight rather than an ally: he supplies the formal ancestry for the folds, the Racket, and the ecology of the between, and he refuses the designed curriculum that carries them."
+recommendation: "Reference-lineage, seated as a counterweight rather than an ally: he supplies the formal ancestry for protective structure that outlives its cause, for the self-sustaining complaint, and for the relational field, and he refuses the designed curriculum that carries them."
 works: ["Steps to an Ecology of Mind", "Mind and Nature: A Necessary Unity"]
 sources: ["space-around: around the engine", "space-around: around folded not broken"]
 topics: ["[[interlocutors]]", "[[research-frontier]]"]
@@ -15,13 +15,13 @@ Gregory Bateson was an anthropologist and systems thinker whose work on communic
 
 ## The pointing
 
-Bateson's learning hierarchy is the formal ladder the fold doctrine has been missing, and the correspondence holds at the primary text rather than only in summary. Learning I is "a change in specificity of response by correction of errors of choice within a set of alternatives." Learning II is "change in the process of Learning I" — a corrective change in the set of alternatives itself, or in how the sequence of experience is punctuated. Learning III is change in the process of Learning II ("The Logical Categories of Learning and Communication," in *Steps to an Ecology of Mind*).
+Bateson's learning hierarchy is the formal ladder the book's account of protective structure has been missing, and the correspondence holds at the primary text rather than only in summary. Learning I is "a change in specificity of response by correction of errors of choice within a set of alternatives." Learning II is "change in the process of Learning I" — a corrective change in the set of alternatives itself, or in how the sequence of experience is punctuated. Learning III is change in the process of Learning II ("The Logical Categories of Learning and Communication," in *Steps to an Ecology of Mind*).
 
-The sentence a drafting session would quote is the one that identifies the second level with character, and it states the fold's function as an economy rather than as a defect: the premises of what is commonly called character — "the definitions of the 'self'" — "save the individual from having to examine the abstract, philosophical, aesthetic, and ethical aspects of many situations." A fold, in Bateson's account, is what a person learned in order to stop having to decide something again.
+The sentence a drafting session would quote is the one that identifies the second level with character, and it states the fold's function as an economy rather than as a defect: the premises of what is commonly called character — "the definitions of the 'self'" — "save the individual from having to examine the abstract, philosophical, aesthetic, and ethical aspects of many situations." Protective structure, in Bateson's account, is what a person learned in order to stop having to decide something again.
 
-The double bind supplies the second correspondence and, with it, an exculpation the Racket lacks on its own. Bateson's 1956 conditions are formal: two or more persons with one designated victim; repeated rather than single experience; a primary negative injunction; a secondary injunction conflicting with the first at a more abstract level and enforced by threats to survival; and a tertiary injunction forbidding escape from the field. The last condition is the one the book needs — comment and exit are both prohibited — because it converts a fixed complaint with a fixed payoff from a choice into the only move that was available. Bateson adds that once the pattern is learned, "the complete set of ingredients is no longer necessary," which is the mechanism by which a bind installed once keeps running with nobody enforcing it.
+The double bind supplies the second correspondence and, with it, an exculpation the book's complaint-and-payoff diagnostic lacks on its own. Bateson's 1956 conditions are formal: two or more persons with one designated victim; repeated rather than single experience; a primary negative injunction; a secondary injunction conflicting with the first at a more abstract level and enforced by threats to survival; and a tertiary injunction forbidding escape from the field. The last condition is the one the book needs — comment and exit are both prohibited — because it converts a fixed complaint with a fixed payoff from a choice into the only move that was available. Bateson adds that once the pattern is learned, "the complete set of ingredients is no longer necessary," which is the mechanism by which a bind installed once keeps running with nobody enforcing it.
 
-The third correspondence is the widest and the least developed in the survey: "the unit of survival is organism plus environment. We are learning by bitter experience that the organism which destroys its environment destroys itself" (*Steps*, 1972). This is the formal warrant for the book's structural voice, and it belongs beside the material voice rather than beside the between.
+The third correspondence is the widest and the least developed in the survey: "the unit of survival is organism plus environment. We are learning by bitter experience that the organism which destroys its environment destroys itself" (*Steps*, 1972). This is the formal warrant for the book's structural voice — the position, carried anonymously in the corpus, that some suffering lives in economic and institutional arrangement rather than in a self.
 
 ## The refusal worth keeping
 
@@ -38,9 +38,9 @@ The survey presents Bateson as an ally who happens to be unnamed. The primary te
 ---
 
 Relevant Notes:
-- [[suffering is contraction never corruption]] — the fold doctrine his second learning level formalizes, and states as an economy rather than a defect
+- [[suffering is contraction never corruption]] — the doctrine of protective folding his second learning level formalizes, and states as an economy rather than a defect
 - [[the racket is the attractor state with a salary]] — the diagnostic his double bind supplies a history for, converting a payoff into the only move available
-- [[distress is a question about machinery not a verdict about character]] — the engine his learning levels would give a formal ladder
+- [[distress is a question about machinery not a verdict about character]] — the three-loop model his learning levels would give a formal ladder
 - [[the field between two people does work]] — the relational claim his organism-plus-environment unit widens past the dyad
 - [[nothing enters the lattice the body has not countersigned]] — the standard his conscious-purpose refusal would be tested against
 

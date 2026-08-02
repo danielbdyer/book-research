@@ -1,5 +1,5 @@
 ---
-description: Each of the five groups in the book's company is admitted for a different contribution — practice technology, a model of emotion, a mechanism, a structural warrant, a referral network — rather than for what it believes.
+description: Each of the five groups in the book's company is admitted for a different contribution — practice technology, a model of emotion, a mechanism, a structural warrant, a referral network — not for what it believes.
 category: structure
 sources: ["arc-gloss: the five rooms", "arc-gloss: front matter", "atlas §IX", "walked IX"]
 topics: ["[[interlocutors]]"]

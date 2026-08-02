@@ -36,7 +36,7 @@ The corpus keeps the book honest with a specific apparatus: inhabited margins th
 
 ## The image system
 
-The corpus equips the book with paired figures, each equating an image, a concern, and a term of the valley's. Every figure is an image-category claim, quotable when drafting the unit it serves:
+The corpus equips the book with paired figures, each equating an image, a concern, and a term from the Kashmir Śaiva tradition. Every figure is an image-category claim, quotable when drafting the unit it serves:
 
 - [[the house with no ceiling is transcendence with plumbing]]
 - [[the orchard's koan is that composting is not death]]

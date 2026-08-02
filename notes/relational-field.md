@@ -12,7 +12,7 @@ The atlas records the structural problem under its own heading at §VIII — "th
 
 ## Claims in this map
 
-- [[transformation is enacted participation inside a held container]] — the guild's one law, reached independently by six lineages, of which this map's claim is the second condition
+- [[transformation is enacted participation inside a held container]] — the one law reached independently by six lineages, of which this map's claim is the second condition
 - [[karla mclaren]] — the thinker whose grief finding carries this map's strongest case, seated for the address
 - [[the field between two people does work]] — the Third Entity claim as that unit makes it
 - [[intimacy is a tether rather than a binding]] — the positive name for a connection that holds without enclosing, which the catalogue otherwise identifies only by its failure

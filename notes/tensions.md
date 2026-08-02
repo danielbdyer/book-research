@@ -33,7 +33,7 @@ The three manuscript drafts admitted 2026-08-01 carry strains that the four desc
 
 ## The instrument's counterweights
 
-- [[felt shift versus felt confirmation]] — the somatic test can be fooled by fluent prose, and the signal is weakest where the folds are deepest. This tension also binds the vault's own verification practice; see [[methods]].
+- [[felt shift versus felt confirmation]] — the somatic test can be fooled by fluent prose, and the signal is weakest where the protective folding is deepest. This tension also binds the vault's own verification practice; see [[methods]].
 
 ## The disagreements kept live among the contemporary teachers
 
@@ -52,7 +52,7 @@ This map borders [[book-structure]], because the book's six revision passes exis
 
 ## What remains
 
-Of the guild's four fault lines, two now have notes — surrender versus will, and declaration versus disclosure. Interiority versus structure and the four doors' war do not, and the first of the two has gained a candidate who would carry it: Hartmut Rosa's structural diagnosis, evaluated at [[hartmut rosa]], is the position the corpus currently holds anonymously as the material voice. The Barrett-versus-McLaren question (are emotions found or made) is stated in [[open-questions]] and now has its sourcing in [[karla mclaren]]; if the author decides it belongs among the kept tensions, it gets a tension note here.
+Of the four fault lines the corpus keeps live among its company of thinkers, two now have notes — surrender versus will, and declaration versus disclosure. Interiority versus structure and the four doors' war do not, and the first of the two has gained a candidate who would carry it: Hartmut Rosa's structural diagnosis, evaluated at [[hartmut rosa]], is the position the corpus holds anonymously, calling it the material voice. The Barrett-versus-McLaren question (are emotions found or made) is stated in [[open-questions]] and now has its sourcing in [[karla mclaren]]; if the author decides it belongs among the kept tensions, it gets a tension note here.
 
 ---
 

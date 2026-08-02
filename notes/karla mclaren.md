@@ -12,9 +12,9 @@ topics: ["[[interlocutors]]", "[[relational-field]]"]
 
 Karla McLaren is seated for what the corpus calls the address: the position that an emotion is not a state to be managed but a messenger arriving with something to deliver. "Every emotion is a distinct messenger carrying a gift and a question" (arc-gloss: the five rooms), and the corpus records three of the questions verbatim — anger asks what must be protected and what must be restored; fear asks what action must be taken; sadness asks what must be released (atlas §IX.2).
 
-The finding a drafting session would quote is her hardest one, and it is the reason her seat is load-bearing rather than decorative: grief is the single emotion that cannot complete in solitude, because it requires a witness and a ceremony structurally rather than preferentially. The corpus treats this as the strongest available evidence for its relational claim, and as a constraint on chemistry rather than a moral preference — the grief formula "does not complete in a sealed flask — not as a moral claim, as chemistry" (arc-gloss: ch6). Her version of the guild's one law is this same finding stated as ceremony: "McLaren says it as grief's non-negotiable ceremony" (arc-gloss: overlay four).
+The finding a drafting session would quote is her hardest one, and it is the reason her seat is load-bearing rather than decorative: grief is the single emotion that cannot complete in solitude, because it requires a witness and a ceremony structurally rather than preferentially. The corpus treats this as the strongest available evidence for its relational claim, and as a constraint on chemistry rather than a moral preference — the grief formula "does not complete in a sealed flask — not as a moral claim, as chemistry" (arc-gloss: ch6). Her version of the one law is this same finding stated as ceremony: "McLaren says it as grief's non-negotiable ceremony" (arc-gloss: overlay four).
 
-Her second contribution is a practice, and it is a refusal of both standard options. Repression walls the feeling off; venting detonates it on whoever is nearest; channeling is "the third way: the feeling completing its descent with consent — felt fully, allowed to deliver its message, expressed at the time and in the direction the whole person chooses" (walked VII). The corpus reads channeling as the middle voice applied to affect, which is what joins her room to its speech-act room.
+Her second contribution is a practice, and it is a refusal of both standard options. Repression walls the feeling off; venting detonates it on whoever is nearest; channeling is "the third way: the feeling completing its descent with consent — felt fully, allowed to deliver its message, expressed at the time and in the direction the whole person chooses" (walked VII). The corpus reads channeling as the middle voice applied to affect, which is what joins her contribution to the speech-act lineage's.
 
 ## The counterweight worth keeping
 
@@ -22,7 +22,7 @@ The live objection to her model is not a doubt about grief but a doubt about mes
 
 ## Where she sits in the book
 
-She is seated beside Gendlin at the alphabet unit and the chemistry unit, and the corpus names the mortar between them: both found that naming done in the body shifts what is named, which is also the valley's mātṛkā doctrine (arc-gloss: ch5; walked IX). She supplies the molecule formulas their interrogative face — each formula can be asked a question rather than only read — and she supplies the difficult messengers, jealousy and envy, to the polarity unit (arc-gloss: ch9).
+She is seated beside Gendlin at the alphabet unit and the chemistry unit, and the corpus names the mortar between them: both found that naming done in the body shifts what is named, which is also the Kashmir Śaiva mātṛkā doctrine (arc-gloss: ch5; walked IX). She supplies the molecule formulas their interrogative face — each formula can be asked a question rather than only read — and she supplies the difficult messengers, jealousy and envy, to the polarity unit (arc-gloss: ch9).
 
 ---
 

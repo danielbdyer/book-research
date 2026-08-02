@@ -43,7 +43,7 @@ Each open gesture from `ops/open corpus.md` has a nascent stub here, so the terr
 - [[the morning is where a day acquires its coherence]] — the scale of the day, missing between the moment and the season
 - [[a schedule can be aligned to the nervous system rather than to the clock]] — the step from diagnosing a loop to arranging a week
 - [[the sacred in the ordinary is produced by sensory design]] — arrangement as the cause of noticing rather than its object
-- [[a ritual can be designed to hold a self in place]] — steadiness built, against the Stance's steadiness returned to
+- [[a ritual can be designed to hold a self in place]] — steadiness built, against the basic posture's steadiness returned to
 - [[a person lives inside symbolic infrastructures they have built]] — the best-evidenced of the thirteen; the corpus has already read one
 - [[seasonal and weekly form can be templated]] — the artefact missing between the metabolic arc and a calendar
 - [[curating beauty is a practice rather than only a hazard]] — the positive register the vault's account of beauty lacks

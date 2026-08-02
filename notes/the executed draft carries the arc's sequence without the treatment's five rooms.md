@@ -31,7 +31,7 @@ Relevant Notes:
 - [[grief cannot complete alone]] — the one five-rooms teaching the executed draft states without its attribution
 - [[the drafts execute one of the seven designed apparatus devices]] — the parallel finding at the level of apparatus rather than content
 - [[the book's company of thinkers is grouped by contribution rather than by doctrine]] — the material this note reports missing, extracted from the treatment where it is stated
-- [[unrelated traditions converge on presence without agenda while remaining available to act]] — a further instance: the Stance's convergence table is designed in the treatment and unwritten in the prose
+- [[unrelated traditions converge on presence without agenda while remaining available to act]] — a further instance: the convergence table for the basic practice posture is designed in the treatment and unwritten in the prose
 - [[internal family systems]] — the counter-instance, where the executed draft carries far more than the treatment records
 
 Topics:

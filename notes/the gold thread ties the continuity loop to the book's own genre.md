@@ -7,7 +7,7 @@ topics: ['[[book-structure]]']
 
 # the gold thread ties the continuity loop to the book's own genre
 
-The gold thread carries the felt continuity that runs underneath the social self, and it doubles as a fact about the book as an object: sūtra means thread, so the genre-word for every root text in the valley names this figure. The book is strung on the line it describes — ontology and codicology in one image.
+The gold thread carries the felt continuity that runs underneath the social self, and it doubles as a fact about the book as an object: sūtra means thread, so the genre-word for every root text of the Kashmir Śaiva tradition names this figure. The book is strung on the line it describes — ontology and codicology in one image.
 
 ## Substantiation
 

@@ -7,7 +7,7 @@ topics: ["[[felt-shift]]"]
 
 # the basic practice posture is a point of return rather than a state
 
-The book's practice curriculum rests on a single posture it calls the Stance: present, open, available to act, without an agenda — presence that could act at any moment and is not leaning. The definition is built to absorb failure: the Stance is not a state to be maintained but a point to return to. A practitioner falls out of it many times a day, and the practice is defined as the return rather than as the not-falling. The first-telling supplies the operational distinction in its section "The practice": "presence is the difference between arriving and sending your helpful representative" — the composed self who manages the situation from one step outside it.
+The book's practice curriculum rests on a single posture, which the corpus calls the Stance: present, open, available to act, without an agenda — presence that could act at any moment and is not leaning. The definition is built to absorb failure. The posture is not a state to be maintained but a point to return to; a practitioner falls out of it many times a day, and the practice is defined as the return rather than as the not-falling. The first-telling supplies the operational distinction in its section "The practice": "presence is the difference between arriving and sending your helpful representative" — the composed self who manages the situation from one step outside it.
 
 The corpus records a structural echo it counts as evidence: Jessica Benjamin defines a real relationship by the reliability of its repair rather than by an absence of rupture, and the atlas marks the pairing as "the same law at relational scale" (§VII.1). The corpus treats these as one definition holding at two scales, the individual and the relational.
 
@@ -22,7 +22,7 @@ The corpus records a structural echo it counts as evidence: Jessica Benjamin def
 
 Relevant Notes:
 - [[what is split off not felt remains the same]] — the finding the posture exists to serve
-- [[grief cannot complete alone]] — the practice's relational limit: some completions need more than the Stance
+- [[grief cannot complete alone]] — the practice's relational limit: some completions need more than one person's posture
 - [[unrelated traditions converge on presence without agenda while remaining available to act]] — the dozen vocabularies the corpus reports arriving at this posture independently
 - [[the basic practice posture is specified as simultaneous conditions rather than as a sequence]] — the six components the executed draft gives it
 - [[the practice forms specify when to begin and not how to tell one is finished]] — the twelve forms said to land on this posture, and what their specification leaves out

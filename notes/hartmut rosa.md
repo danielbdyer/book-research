@@ -2,7 +2,7 @@
 description: Hartmut Rosa is an evaluated candidate: his uncontrollability clause completes the tuning fork's theory, and his structural diagnosis is an objection to any book answering at the scale of one reader.
 category: interlocutor
 seat: candidate
-recommendation: "Reference-lineage, seated twice over: he completes the closing image's theory and supplies the sociological body for the material voice, which the corpus currently names and leaves anonymous."
+recommendation: "Reference-lineage, seated twice over: he completes the closing image's theory and supplies a name for the position the corpus states and leaves anonymous, that some suffering lives in economic and institutional arrangement."
 clause: "Draft, pending the author's decision: resonance implies semicontrollability, so a book that could promise it would have described something else."
 works: ["Resonance: A Sociology of Our Relationship to the World", "The Uncontrollability of the World"]
 sources: ["space-around: around the honesty"]
@@ -29,14 +29,14 @@ The sharper counterweight is the objection to Rosa, because it lands on the book
 
 ## What the evaluation found that the survey did not
 
-Rosa fits a second seat the survey did not look for. The corpus's externalizers hold two positions: Hübl's inherited collective trauma, and what it calls the material voice — "some weather is the grid's: economics, racism, infrastructure, schedule" (walked IX) — which is the only position in the whole roster carried anonymously, with Adorno standing behind it at one remove. Rosa is a working sociologist in that same critical tradition whose central object is exactly that grid, and whose theory of resonance is what the grid is alleged to be destroying. Seating him only at the honesty section would take his clause and leave his argument.
+Rosa fits a second seat the survey did not look for. The corpus holds two positions locating suffering outside the person: Hübl's inherited collective trauma, and a second it names only by a label — "some weather is the grid's: economics, racism, infrastructure, schedule" (walked IX) — which is the only position in the whole roster carried anonymously, with Adorno standing behind it at one remove. Rosa is a working sociologist in that same critical tradition whose central object is exactly that grid, and whose theory of resonance is what the grid is alleged to be destroying. Seating him only at the honesty section would take his clause and leave his argument.
 
 ---
 
 Relevant Notes:
 - [[the book is a tuning fork and the reader is the striking surface]] — the image his semicontrollability argument supplies a mechanism for
 - [[nothing transforms from the audience]] — the adjacent law, and the reason his second moment (an answer genuinely one's own) is not satisfied by an attentive reader
-- [[the transformation field divides into five theories of where suffering lives]] — the roster whose anonymous material voice his structural diagnosis would name
+- [[the transformation field divides into five theories of where suffering lives]] — the company whose one anonymous position his structural diagnosis would name
 - [[felt shift versus felt confirmation]] — the honesty material his uncontrollability clause belongs beside
 - [[the tuesday is the temple]] — the commitment his structural objection presses hardest on
 
