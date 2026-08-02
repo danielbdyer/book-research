@@ -34,6 +34,23 @@ The corpus reads the same arc four ways simultaneously: as a recognition plot (m
 
 The corpus keeps the book honest with a specific apparatus: inhabited margins that form a second book with its own plot; a verso column where readers countersign practices ("walked. still true." — atlas §X.6b); a planting ledger tracking every planted image to its payoff; an escrow system of promises made early and kept visibly; a per-chapter dial recording the ratio of evocative to informative prose; interludes placed at the part-junctions; and an eight-question checklist every chapter must pass, ending with "did writing it change you?" (atlas §X.6g).
 
+## The image system
+
+The corpus equips the book with paired figures, each equating an image, a concern, and a term of the valley's. Every figure is an image-category claim, quotable when drafting the unit it serves:
+
+- [[the house with no ceiling is transcendence with plumbing]]
+- [[the orchard's koan is that composting is not death]]
+- [[the gold thread ties the continuity loop to the book's own genre]]
+- [[the ink that listens is the relational field at the scale of a page]]
+- [[the engine is a triadic theology in mechanic's clothing]]
+- [[the fruit that falls is the word become deed]]
+- [[the gatekeeper is met with a bow never a fight]]
+- [[the book is a tuning fork and the reader is the striking surface]]
+- [[the circle is the form in which the naked sentence gets met]] — second edition
+- [[the messenger makes suffering unopened correspondence]] — second edition
+- [[the racket is the attractor state with a salary]] — second edition
+- [[the cusp is the back door to the stance]] — second edition
+
 ## Three drafts of the object itself
 
 Until 2026-08-01 this map described a book none of whose states the vault held. Three drafts have since been admitted, and they carry three different answers to the question this map asks. The Arc and the Gloss treatment storyboards fifteen units in five parts and is named in the atlas's and the walked document's colophons as one of the threads they were compiled from. The abridged edition writes that same sequence out in full prose and is named in neither colophon. The mythic operating system edition lists twenty-eight units in six parts, arranged as concentric spirals rather than as a traverse, and writes one of them. All three have draft standing under `ops/methodology/source standing.md`, which means the vault records what each does without treating the most recent, the most complete, or the best-written as the settled scheme.
@@ -60,6 +77,9 @@ The working structure recorded above is the atlas's, and the seventeen trial cha
 - [[the closing prompt changes genre where the book turns to praxis]] — the unstated rule governing what an instruction may ask for, and when
 - [[the treatment records four authorship conditions in its undercurrents]] — the author's recorded observations about writing the book, quoted
 - [[the units the treatment flags as unfinished are the shortest in the executed draft]] — the measurement that confirms two of those conditions
+- [[the voice follows every reach with a release]] — the composure rhythm of the voice at its high-water mark
+- [[the voice names the move it has just made]] — how the earliest draft discharges the analytical reader's suspicion
+- [[the voice keeps the reader located in a walkable space]] — the house conceit working as navigation, page by page
 
 ## The open territory
 

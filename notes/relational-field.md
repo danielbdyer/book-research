@@ -20,6 +20,9 @@ The atlas records the structural problem under its own heading at §VIII — "th
 - [[a hiding that never intends to be found has stopped being play]] — Winnicott's hide-and-seek finding, which the corpus pairs with the play doctrine
 - [[the reader's resistance has nowhere to land]] — the tension that borrows Winnicott's object-usage as its warrant
 - [[a codex is a one-chair technology making a two-chair argument]] — the structural problem stated as a tension
+- [[the ink that listens is the relational field at the scale of a page]] — the image that puts this map's claim on the book's own surface
+- [[the circle is the form in which the naked sentence gets met]] — the image of the practice form witnessing requires
+
 ### Nascent stubs
 
 Open territory bearing on the field that no document develops.

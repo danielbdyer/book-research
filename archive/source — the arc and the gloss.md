@@ -24,7 +24,7 @@ Cited as `arc-gloss`. Its sections are named rather than numbered, and are cited
 
 ## Extraction state
 
-The first pass (2026-08-01) took the provenance relation, the triad naming crosswalk at `arc-gloss: ch4`, and the register evidence for the person tension. The large unextracted regions are the four overlays, the expanded image system with its four new entries (the Circle, the Messenger, the Racket, the Cusp), the per-chapter jewels and thresholds, the five rooms' individual contents, and the four closing meta notes. They are enumerated in `ops/queue/extractions.md`.
+The first pass (2026-08-01) took the provenance relation, the triad naming crosswalk at `arc-gloss: ch4`, and the register evidence for the person tension. The image system has been extracted entire (2026-08-01, eleven image claims listed in `notes/book-structure.md`). The remaining unextracted regions are the four overlays, the per-unit jewels and thresholds, the five rooms' individual contents, and the four closing meta notes. They are enumerated in `ops/queue/extractions.md`.
 
 ---
 

@@ -28,7 +28,7 @@ This map's queue is outward-facing: it holds thinkers and concepts from outside 
 
 ## The inward frontier's stubs
 
-Each open gesture from `ops/open corpus.md` has a nascent stub here, so the territory is reachable from the graph. A stub states the proposition the gesture asserts, records what the corpus actually supplies against it, and names what would close it. The state is `nascent` throughout: these are not claims the vault holds.
+Each open gesture from `ops/open corpus.md` has a nascent stub here, so the territory is reachable from the graph. A stub is a seed, not an analysis: the proposition the gesture asserts, the strongest corpus fact, and the nearest held material. The state is `nascent` throughout: these are not claims the vault holds.
 
 - [[metaphor is a faculty that weaves a self rather than a device that decorates one]] — metaphor as the reader's faculty, where the corpus treats only the book's own figures
 - [[nostalgia carries continuity across a threshold]] — an affective face for the persistence corner, which currently has none

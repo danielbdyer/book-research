@@ -26,7 +26,7 @@ The atlas organizes the whole field into thirteen sections. Read as scaffolding,
 | §VII | The praxis stratum: what the hands do | Two claims, on the Stance and on somatic countersigning | The twelve kata; channeling; the Focusing protocol; the group protocols; the four doors of practice; the systems-craft toolkit; the six revision passes as practices |
 | §VIII | The relational field | Four claims | The field's own three-loop structure; the relational molecule set |
 | §IX | The guild: every lineage seated | The roster and seat taxonomy; five candidate notes; one seated thinker | Roughly a hundred named thinkers without notes; the valley's four subsections; the margin faculty; the porch's six groups; the chapter patrons; the satellites |
-| §X | The book as artifact | Book-structure, the tuning fork, the apparatus gap, the poem compression | Seven of eight image-system entries; six of seven apparatus devices; the four overlays individually |
+| §X | The book as artifact | Book-structure, the poem compression, the apparatus gap, and the image system entire — twelve image claims | Six of seven apparatus devices; the four overlays individually |
 | §XI | The fault-line country | Eight tension claims | Nine guild fault lines (§XI.2a–2i), of which one has a note; the koan under the map |
 | §XII | The gravitational summary | The six doctrine maps derive from it | — |
 

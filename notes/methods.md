@@ -39,7 +39,7 @@ All vault prose is expository and evidential: complete sentences with named subj
 
 ## Nascent stubs
 
-A claim may be recorded before it is substantiated, carrying `state: nascent`, when the corpus names a territory it never develops. The stub states the proposition the source's gesture asserts, records what the corpus actually supplies against it, and names what would close it; the state field carries the signal that the vault does not yet hold the proposition. Thirteen such stubs exist, one per open gesture in `ops/open corpus.md`, and they are listed in [[research-frontier]]. They are the one admitted exception to the rule that material becomes a note only once it would change how the project thinks — admitted because a territory recorded only in an operational table is not reachable from the graph and will not be found again.
+A claim may be recorded before it is substantiated, carrying `state: nascent`, when the corpus names a territory it never develops. The stub is a seed, not an analysis: it states the proposition the source's gesture asserts, the strongest fact the corpus supplies, and the nearest held material, and the state field carries the signal that the vault does not yet hold the proposition. Thirteen such stubs exist, one per open gesture in `ops/open corpus.md`, and they are listed in [[research-frontier]]. They are the one admitted exception to the rule that material becomes a note only once it would change how the project thinks — admitted because a territory recorded only in an operational table is not reachable from the graph and will not be found again.
 
 ## The transfer surface
 

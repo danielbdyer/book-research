@@ -19,6 +19,8 @@ The book stacks three further levels on this anatomy: twelve verb-primitives as 
 - [[the twelve primitives are verbs because a self in verbs is mid-sentence]] — the operations level and its grammatical design commitment
 - [[distress is a question about machinery not a verdict about character]] — the engine level's diagnostic move, which routes distress to the loop that is misfiring
 - [[the prose drafts use the vetoed triad names]] — the reading instruction for the two prose drafts, which name the same three structures Knife, Thread, and Vessel throughout
+- [[the engine is a triadic theology in mechanic's clothing]] — the image carrying the anatomy's engine level
+
 ### Nascent stubs
 
 Open territory bearing on this anatomy that no document develops; each records what the corpus supplies and what would close it.

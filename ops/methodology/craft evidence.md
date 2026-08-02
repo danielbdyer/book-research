@@ -19,7 +19,7 @@ Directive 4 of the derivation (`ops/derivation.md`) requires the vault to report
 
 **Record the mechanism, never the verdict.** The drafts and the treatment praise their own moves at length. "The most-underlined page in the book" (arc-gloss: ch6), "already written and perfect" (arc-gloss: ch11), and "un-improvable" (arc-gloss: ch6) are the manuscript grading itself, and they are worth nothing as evidence. Underneath several of them there is a mechanism that can be stated independently and checked against the text: that every molecule formula containing a minus sign yields an instruction while every formula without one yields only a description is a property of the prose, verifiable by reading the catalogue, and it holds whether or not any page was underlined. The first is excluded; the second is the note.
 
-A practical consequence: a craft note that cannot state how its claim would be checked is not yet a craft note. Extent, position, person, sentence length, the presence or absence of a device, and the genre of an instruction are all countable. Force, beauty, and depth are not.
+A practical consequence: a craft note that cannot state how its claim would be checked is not yet a craft note. Extent, position, person, sentence length, the presence or absence of a device, and the genre of an instruction are all countable. Force, beauty, and depth are not. A turn of phrase is itself harvestable when the phrasing is the mechanism: the sentence quoted and anchored, with the move it performs named, is a checkable record. What the rule excludes is the verdict on the phrase, never the phrase.
 
 ## Authorship conditions
 

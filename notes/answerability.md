@@ -22,6 +22,7 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 - [[the drafts execute one of the seven designed apparatus devices]] — what a fully treated pilot chapter would actually have to build
 - [[the treatment records four authorship conditions in its undercurrents]] — the author's recorded conditions bearing on which unit can be finished next
 - [[what is recognized cannot be un-recognized]] — the one place the corpus states the reading contract as two-sided, with a cost the reader is invited to accept
+- [[the fruit that falls is the word become deed]] — the release doctrine in the orchard's vocabulary
 
 ## Adjacent maps
 
