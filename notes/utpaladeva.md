@@ -1,5 +1,5 @@
 ---
-description: Utpaladeva is seated in the source tradition as the recognition philosophy's architect — the far pole of the convergence the book is founded on, reached with no contact with Heidegger's century.
+description: Utpaladeva founded the recognition school whose doctrine the book's front matter translates; the corpus seats him as the named far side of the Heidegger convergence.
 category: interlocutor
 seat: source-tradition
 clause: "Recognition philosophy's architect — the Heidegger convergence's far pole."
@@ -10,22 +10,22 @@ topics: ["[[interlocutors]]", "[[recognition]]"]
 
 # utpaladeva
 
-Utpaladeva is the tenth-century Kashmiri philosopher whose Īśvarapratyabhijñākārikā founded the recognition school — the argument that liberation is not an acquisition but the recognition of what never left. The corpus seats him with one clause: "recognition philosophy's architect (the Heidegger convergence's far pole)" (atlas §IX.6d). The convergence the clause points at is the book's foundation: Heidegger's aletheia and Utpaladeva's pratyabhijñā each construct the deepest available change as an undoing of concealment, with no historical contact between them ([[aletheia and pratyabhijna converge on truth as un-forgetting]]).
+Utpaladeva was a tenth-century Kashmiri philosopher. His Īśvarapratyabhijñākārikā founded the recognition school, which holds that liberation is not gaining anything — it is recognizing what never left. The corpus seats him in one clause: "recognition philosophy's architect (the Heidegger convergence's far pole)" (atlas §IX.6d).
 
-His position in the book is therefore load-bearing and mostly invisible: the front-matter promise — "You already know everything in this book. You've just forgotten. Reading is remembering." — is his school's doctrine printed without its Sanskrit name, and the corpus credits the school rather than staging the philosopher. What a drafting session needs from him is the far pole's specificity: the convergence claim requires a named architect on each side, and his is the name the corpus supplies opposite Heidegger's.
+That convergence is the book's foundation, and Utpaladeva is its named far side. Heidegger built truth as un-forgetting. Utpaladeva built liberation as recognition. There was no contact between them ([[aletheia and pratyabhijna converge on truth as un-forgetting]]). The book prints his school's doctrine on page one without the Sanskrit: "You already know everything in this book. You've just forgotten. Reading is remembering." A drafting session needs him because the convergence claim needs a named architect on each side, and his is the name opposite Heidegger's.
 
 ## Substantiation
 
-- Atlas §IX.6d carries the seat clause; walked IX restates it ("Utpaladeva, the recognition philosophy's architect and the far pole of the Heidegger convergence").
-- Atlas §I records the doctrine's place in the deepest well: "Pratyabhijñā — recognition as the whole of liberation."
-- The convergence's dating discipline — the traditions' independence from each other is historical fact; the book's independence from the teaching requires a date — is kept at [[aletheia and pratyabhijna converge on truth as un-forgetting]] and governs how his seat is cited.
+- Atlas §IX.6d carries the seat clause. Walked IX restates it: "Utpaladeva, the recognition philosophy's architect and the far pole of the Heidegger convergence."
+- Atlas §I places the doctrine in the book's deepest layer: "Pratyabhijñā — recognition as the whole of liberation."
+- The dating discipline for the convergence — the traditions are independent of each other; the book's independence from the teaching needs a date — is kept at [[aletheia and pratyabhijna converge on truth as un-forgetting]].
 
 ---
 
 Relevant Notes:
-- [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the founding convergence he anchors from the tradition's side
-- [[reading is remembering]] — his school's doctrine, printed as the book's front-matter promise
-- [[kshemaraja]] — the disciple-generation condenser of the philosophy he architected
+- [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the convergence he anchors from the tradition's side
+- [[reading is remembering]] — his school's doctrine, printed as the book's promise
+- [[kshemaraja]] — the disciple generation that condensed his school
 
 Topics:
 - [[interlocutors]]
