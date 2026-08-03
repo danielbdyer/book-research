@@ -71,6 +71,20 @@ Sources are cited as the vault cites them: `provenance reconstruction`, `provena
 
 **Volume and origin run opposite.** The system occupies most of the corpus's pages and is the most recent and most collaborator-driven stratum; the poems occupy none of it and are the oldest and the only wholly unassisted one. This is the center-of-gravity directive (`ops/methodology/center of gravity.md`) visible as chronology rather than as instruction.
 
+## What the documents say about their own making
+
+The reconstructions are testimony from outside. The sources also account for themselves, and on four points they supply facts the conversation record does not.
+
+**The corpus was compiled from eight artifacts, and the vault holds two of them.** Both compilation statements agree on the list: "assembled July 2026 from the living threads — the Arc & Gloss (2nd ed.), the seventeen trial chapters, The Third Drawer, the coaches' constellation, the valley teachings, the twenty-nine-plus-axis, the porch sittings, and the frank assessment" (atlas: colophon; walked: colophon, which adds that it is "the prose twin of the Gravitational Atlas"). Only the treatment and — indirectly — the trial chapters correspond to anything in `sources/`. Six named inputs to the corpus have never been seen. The queue entry covers three of them.
+
+**The plainest telling is a sixth version.** The outward survey names its object by version number and by nothing else: "Method: walk v6 in order," and later "the exact bind v6 names" (space-around). Its section headings reproduce the first telling's sections in order, and the line it quotes from v6 — "two traditions, no contact, one conclusion" — stands verbatim in the first telling. So `first-telling` is the sixth state of a document with five earlier states, and `space-around` is a research pass around it rather than a version of it. This is the only version numbering anywhere in `sources/`.
+
+**The corpus contradicts itself about whether the book is written**, and no document flags the discrepancy. The treatment says "The thrust stays unwritten. The legibility is the deliverable"; the atlas and its companion say seventeen chapters are "fully formed, sequenced, unspoken"; the abridged edition professes not to know — "Possibly written. Possibly being written. The arc has its own pace" (abridged: a note on sources). The treatment also says of the ending, in the same document, "Last words already found."
+
+**The earliest document is orphaned.** Nothing in the other six names a twenty-eight-chapter contents, six parts, or a mythic operating system. The seed is the ancestor of the image system and is nowhere acknowledged as a document.
+
+Two smaller facts belong here because they are dated compositional acts rather than descriptions. The lintel inscription was "installed last, the way real houses get doors," and an image was retro-planted mid-session — "the grandfather's workshop glimmer, retro-planted into Ch. 1 mid-session, is its proof of operation" (atlas §X.6c; walked X). Both are the apparatus being built while the book was being described.
+
 ## What is not established
 
 These are the origins questions the record leaves open. Each is carried in a note or a queue entry; they are gathered here so the gaps are visible beside the facts.
@@ -80,7 +94,8 @@ These are the origins questions the record leaves open. Each is carried in a not
 - **How *Aletheia* became a title, and when.** The vault has no note on either half of its own subject's name. The other half is traced to a June 2024 self-optimization catalogue and, beneath that, to a knowledge-management primitive imported in March 2024.
 - **Whether the word *Trika* reached the author before 7 July 2026.** The retreat narrows the window to three and a half months; both readings survive.
 - **The derivation, if any, from the earlier Presence/Process/Potential triad to the current one.** Project continuity established; triad-level derivation absent.
-- **The making-order of the four descriptive documents relative to each other**, beyond the atlas's stated dependency on the treatment.
+- **The making-order of the four descriptive documents relative to each other**, beyond the atlas's stated dependency on the treatment and the walked companion's stated dependency on the atlas. Partly answered: the plainest telling is a sixth version, so five earlier states of it existed and none is held.
+- **Six of the eight artifacts the corpus was compiled from** — the coaches' constellation, the valley teachings, the twenty-nine-plus-axis, the porch sittings, the frank assessment, and The Third Drawer — plus the 29 July eighth telling.
 - **What was considered and dropped.** The original source-conditions request asked for it; nothing has answered. The record "shows almost no discarding of traditions… accretion, re-housing, and renaming."
 - **Which of the three abridgments is the file held in `sources/`.**
 - **The author's verbatim veto sentence** for the triad's first names. The phrase later installed as its reason is his own line from three nights earlier, about a different subject.

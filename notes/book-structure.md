@@ -98,6 +98,9 @@ The provenance reconstruction of 2026-08-02 — an account of the corpus's makin
 - [[the book's native genre is the letter from a friend read alone]] — the genre datum from the one confirmed sighting of the book's promised event.
 - [[the making of the book enacts the law the book states]] — the design law's biography: container-built at every documented scale.
 - [[a recorded reason drifts toward doctrine with distance from the decision]] — why a reason recorded in the later documents may not be the reason given at the time.
+- [[the gold thread was carried forward without the reason it is gold]] — the clearest case of a figure travelling and its rationale being dropped, with the plainest telling withholding it on purpose.
+
+The dated spine assembled from these notes and the five reconstructions is `ops/origins chronology.md`, which holds the book's making as a subject of its own rather than as clauses inside doctrine notes.
 
 ## The open territory
 
