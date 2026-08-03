@@ -2,7 +2,7 @@
 description: This note is the provenance record for the document that reconstructs how the other seven came about; it is the only source in the corpus that separates the author's words from the collaborator's.
 source_file: "sources/provenance of the corpus.pdf"
 status: partially-extracted
-extracted: []
+extracted: ["[[the unanimity claim is an artifact of how the lineages were selected]]", "[[the figures precede the system by a year and the two were welded together later]]", "[[the author curated and vetoed while the collaborator wrote the correspondences]]", "[[a recorded reason drifts toward doctrine with distance from the decision]]"]
 topics: []
 ---
 
@@ -32,7 +32,7 @@ This document is more personal than the other seven. It quotes the author's own 
 
 ## Extraction state
 
-Seeded 2026-08-02. Its findings are being extracted in the same session; the entries appear in `extracted:` above as they land.
+Seeded 2026-08-02, four claims extracted the same day: the sampling artifact behind the unanimity claim (§1 and the flagged-overstatements section), the dating of the figures against the system (§5), the division of hands between author and collaborator (§4 and §2), and the drift of a recorded reason toward doctrine (§5 and §3). The same pass qualified five existing notes and closed two questions that had stood open in `ops/goals.md` since the drafts arrived.
 
 Regions not yet worked: the appendix's thread-level chronology, which would let the concordance date individual corpus elements rather than documents; and the gaps ledger, which enumerates eight things the record could not supply and is the natural input to a second request.
 

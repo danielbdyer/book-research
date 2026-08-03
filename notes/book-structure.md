@@ -82,6 +82,13 @@ The working structure recorded above is the atlas's, and the seventeen trial cha
 - [[the voice names the move it has just made]] — how the earliest draft discharges the analytical reader's suspicion
 - [[the voice keeps the reader located in a walkable space]] — the house conceit working as navigation, page by page
 
+## How the material was made
+
+The provenance record of 2026-08-02 dates the corpus's layers against each other, which the seven documents themselves do not.
+
+- [[the figures precede the system by a year and the two were welded together later]] — the figures date to the April 2025 seed, the triad to a separate project that December, and July 2026 joined them.
+- [[a recorded reason drifts toward doctrine with distance from the decision]] — why a reason recorded in the later documents may not be the reason given at the time.
+
 ## The open territory
 
 The two outlines the corpus contains — the atlas's thirteen sections and the mythic operating system edition's twenty-eight named units — are read as research scaffolding rather than as proposed structure, and are inventoried with an exploration state in `ops/open corpus.md`. That file exists to keep the naming of a territory distinct from a commitment to it: the project has been to the edge of considerably more ground than it has written, and the record of where it has stood is not a table of contents.

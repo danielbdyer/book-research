@@ -1,5 +1,7 @@
 # Request: the source conditions
 
+**Answered 2026-08-02.** The response is held as `sources/provenance of the corpus.pdf`, with its archive note at `archive/source — provenance of the corpus.md` and a third source standing created for it. Four claims were extracted and five existing notes qualified. The request text is kept below as the record of what was asked, and its gaps ledger — eight things the search could not reach, including the seed's composition, the author's verbatim veto sentence, and anything held inside a Project — is the natural basis for a second request.
+
 A research request to be handed to an agent with access to the author's prior threads and conversations. Written in the author's voice, 2026-08-02, so it can be sent as-is.
 
 Its purpose is provenance, not validation. Nothing it returns is evidence for the book's claims; the questions ask how the noticing came about, which is what an author who gestures rather than proves can honestly say about their own material (`ops/methodology/authorial stance.md`). Answers arrive in `inbox/` and are processed through the pipeline like any other capture.

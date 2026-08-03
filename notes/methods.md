@@ -47,7 +47,7 @@ A claim may be recorded before it is substantiated, carrying `state: nascent`, w
 
 ## Source registry
 
-Seven source documents, each with an archive note recording provenance, standing, and extraction state. Each entry gives the citation name claims use, the file, and the anchor grammar.
+Eight source documents, each with an archive note recording provenance, standing, and extraction state. Each entry gives the citation name claims use, the file, and the anchor grammar.
 
 ### Descriptive sources (the four founding documents, July 2026)
 
@@ -64,11 +64,19 @@ These are the book rather than accounts of it. They are secondary by the author'
 
 - [[source — the arc and the gloss]] — the storyboard treatment of the fifteen-chapter arc, second edition, five rooms integrated. File: `sources/the arc and the gloss - second edition.pdf`. Cited as `arc-gloss`, with named sections: `arc-gloss: overlay four`, `arc-gloss: ch4`. Upstream of the atlas and the walked document, which name it in their colophons.
 - [[source — the abridged edition]] — the fifteen-chapter arc executed in full prose. File: `sources/firing on all cylinders - abridged edition.pdf`. Cited as `abridged`, with chapter numbers and section names: `abridged ch6`, `abridged: a note on sources`.
-- [[source — the mythic operating system]] — a twenty-eight-chapter table of contents with one chapter written; the author's named high-water mark of voice. File: `sources/firing on all cylinders - a mythic operating system.pdf`. Cited as `mythic-os`, with section names and the written chapter's own page numbers: `mythic-os: contents`, `mythic-os: page 9`.
+- [[source — the mythic operating system]] — a twenty-eight-chapter table of contents with one chapter written; the author's named high-water mark of voice. File: `sources/firing on all cylinders - a mythic operating system.pdf`. Cited as `mythic-os`, with section names and the written chapter's own page numbers: `mythic-os: contents`, `mythic-os: page 9`. The provenance record dates this document to April 2025, making it the earliest datable state of the project rather than one draft among three.
+
+### Provenance source (one, admitted 2026-08-02)
+
+This is about neither the book nor the manuscript but about how the other seven came to exist. It is the only source that separates the author's words from the collaborator's, and it states its own coverage limits.
+
+- [[source — provenance of the corpus]] — a reconstruction of the corpus's making from the author's conversation record, prepared 2026-08-02 on the author's own commission. File: `sources/provenance of the corpus.pdf`. Cited as `provenance`, with numbered sections where it answers the request's questions and named sections where it does not: `provenance §1`, `provenance: flagged overstatements`. Quotations from the record it retrieves carry the speaker mark and date it supplies: `provenance §1, quoting [D] 7 Jul 2026`.
 
 ## What remains
 
-The pipeline has run one starter pass over the four descriptive sources and a first pass over the three drafts. The queue in `ops/queue/` enumerates the second-pass extractions and the candidate evaluations; `ops/goals.md` names the active threads. The largest unworked question the drafts raise is a reconciliation rather than an extraction: the abridged edition and the atlas describe the same book at different scopes and under different terms, and no document in `sources/` states which of their differences are revisions and which are simply two accounts.
+The pipeline has run one starter pass over the four descriptive sources, a first pass over the three drafts, and a first pass over the provenance record. The queue in `ops/queue/` enumerates the second-pass extractions and the candidate evaluations; `ops/goals.md` names the active threads. The largest unworked question the drafts raise is a reconciliation rather than an extraction: the abridged edition and the atlas describe the same book at different scopes and under different terms, and no document in `sources/` states which of their differences are revisions and which are simply two accounts.
+
+The provenance record changes what the vault can say about its own sources, and four claims now carry that: [[the unanimity claim is an artifact of how the lineages were selected]], [[the figures precede the system by a year and the two were welded together later]], [[the author curated and vetoed while the collaborator wrote the correspondences]], and [[a recorded reason drifts toward doctrine with distance from the decision]]. Its own gaps ledger names eight things its search could not reach and is the natural input to a second request.
 
 ---
 

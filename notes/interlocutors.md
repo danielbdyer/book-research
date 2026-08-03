@@ -54,6 +54,11 @@ The survey's top four, each read against the primary work 2026-08-02. Recommenda
 - [[internal family systems]] — recommended reference-lineage, with the larger half of the finding elsewhere: the executed draft already uses Schwartz's vocabulary without stating a position.
 - [[hartmut rosa]] — recommended reference-lineage, seated twice: the tuning fork's completed theory, and a name for the position the corpus carries anonymously as the material voice.
 
+### How the convergences came about
+
+- [[the unanimity claim is an artifact of how the lineages were selected]] — the lineages were gathered on one day for the property they are then reported to share.
+- [[the author curated and vetoed while the collaborator wrote the correspondences]] — the division of hands behind every correspondence in this map.
+
 ### Bearing on the roster
 
 - [[the executed draft carries the arc's sequence without the treatment's five rooms]] — the finding that the roster's largest recent addition reaches the executed prose in three passing traces.
