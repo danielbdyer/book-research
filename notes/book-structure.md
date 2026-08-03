@@ -90,6 +90,9 @@ The provenance reconstruction of 2026-08-02 — an account of the corpus's makin
 - [[the seed arrived in a season of burnout and container-building on every front]] — the conditions the earliest edition surfaced in, dated to the fortnight before its pages appear.
 - [[the book was written across the author's move to seattle to live in earnest]] — the life-arc the whole composition spans, from Houston training to Seattle rebuild.
 - [[the book's doctrine of time restates a sentence the author's father told him]] — the inheritance the temporal doctrines vary, entered by testimony.
+- [[the corpus quotes the author's poems rather than the poems quoting the corpus]] — the primary layer: for the fifteen poems predating the book, shared phrases originate in the poem.
+- [[the earliest chapter was written through a voice distilled from the author's first fifteen poems]] — the documented method behind the seed's high-water voice.
+- [[the sixteenth poem returns the book's language to the life it came from]] — the flagged exception: the one book-era poem, carrying the vocabulary home.
 - [[a recorded reason drifts toward doctrine with distance from the decision]] — why a reason recorded in the later documents may not be the reason given at the time.
 
 ## The open territory

@@ -13,4 +13,6 @@ These are **works consulted, not sources**. They are about the making of the sev
 
 Section citations follow each document's own structure: `provenance reconstruction §1`, `provenance addendum three §4`, `provenance reconstruction: flagged overstatements`. Quotations from the record carry the speaker mark and date the documents supply: `[D] 7 Jul 2026` for the author, `[C]` for the collaborator.
 
+One further artifact sits here beside the reconstructions: `poetic voice system prompt.md`, the author's own instrument — built by analyzing his first fifteen poems, then used to author the seed's one written chapter. It is the documented bridge between `sources/the poems.pdf` and the seed.
+
 **A note on contents.** These documents quote the author's own turns, name seasons of his life, and carry direct URLs to private conversation threads. They are held by his decision, "for now" — the decision is reversible, and withdrawing them would not orphan the vault's claims, which quote what they need in place.

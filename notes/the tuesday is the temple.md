@@ -27,5 +27,7 @@ Relevant Notes:
 - [[the sacred in the ordinary is produced by sensory design]] — nascent; whether the ordinary is noticed or arranged
 - [[seasonal and weekly form can be templated]] — nascent; the reusable form this doctrine would need to be practised
 
+- [[the sixteenth poem returns the book's language to the life it came from]] — the doctrine compressed to two words in the author's own poem: "current is tuesday" (poems #16)
+
 Topics:
 - [[recognition]]

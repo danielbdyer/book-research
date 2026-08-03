@@ -28,6 +28,7 @@ The treatment identifies what the referee actually is, and the identification is
 
 Relevant Notes:
 - [[the transformation field divides into five theories of where suffering lives]] — the five positions this fork runs through, of which two are its poles
+- [[the corpus quotes the author's poems rather than the poems quoting the corpus]] — the fork held in one breath, years earlier and without a referee: "complete surrender / and trying one's very hardest" (poems #7)
 - [[felt shift versus felt confirmation]] — the two documented limits on the instrument this treatment seats as referee
 - [[nothing enters the lattice the body has not countersigned]] — the standard being borrowed, stated in the register where it was introduced
 - [[the middle voice settles declaration against disclosure]] — the corpus's other unresolved fork between two of its lineages, which it treats by grammar rather than by referee

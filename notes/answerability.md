@@ -25,6 +25,7 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 - [[the treatment records four authorship conditions in its undercurrents]] — the author's recorded conditions bearing on which unit can be finished next
 - [[what is recognized cannot be un-recognized]] — the one place the corpus states the reading contract as two-sided, with a cost the reader is invited to accept
 - [[the fruit that falls is the word become deed]] — the release doctrine in the orchard's vocabulary
+- [[the sixteenth poem returns the book's language to the life it came from]] — the blade lived at the size of a text: the trembling as the sentence leaves the architecture
 
 ## Adjacent maps
 

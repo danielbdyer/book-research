@@ -25,6 +25,10 @@ The corpus cites "the seventeen trial chapters" constantly and `sources/` has ne
 
 - [ ] Obtain the seventeen chapter files from local storage and seed them under `/seed`. They are the reference text the drafts and the descriptive sources both point at, and every reconciliation currently blocked in `ops/chapter concordance.md` runs through them. Two documents already identified in the same set are also absent and worth taking together: **The Third Drawer** (`the_third_drawer_ontology_of_authorship.md`, 12 July 2026 — the ontology of how the book is authored, distinct from the older molecular ontology) and **the valley letter** (`the_second_arc_of_the_pulse.md`, 7 July 2026 — the extended Kashmir Śaiva teaching, written at the author's request to be taught "as if I'm still an initiate").
 
+## The primary layer (added 2026-08-03)
+
+- [ ] The poems, full reduce pass (`poems #1`–`#15`) — the archive note's concordance of trailheads (`archive/source — the poems.md`) worked line by line against the corpus's phrases, under the direction rule: for these fifteen, a shared phrase originates in the poem. Candidates already sighted: the father's welcome (#1), shared perception (#6), surrender-beside-effort (#7), letting-go-without-forgetting and the caretaking bind (#8), recognition-and-clearing (#10), flowers-from-manure (#11), the beginning-again litany and shared seeing with the kettle (#12), grief and self-forgiveness (#13, #14), already-there and light-as-what-a-person-is (#15). Three claims are done; the pass is what remains.
+
 ## The three drafts (added 2026-08-01)
 
 These have draft standing under `ops/methodology/source standing.md`. Extracting from them means recording what the draft states and where, without inheriting the draft's own advocacy; where a draft disagrees with a descriptive source, the disagreement is the extraction rather than a correction to either.

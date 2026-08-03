@@ -19,6 +19,8 @@ The circle carries the facilitator's container: the held round in which a true s
 Relevant Notes:
 - [[grief cannot complete alone]] — the claim that makes a witnessed form structural rather than optional
 
+- [[the sixteenth poem returns the book's language to the life it came from]] — the naked sentence itself, said three ways in the author's own poem: "you matter to me / i miss you / i want to stay in the thread" (poems #16)
+
 Topics:
 - [[relational-field]]
 - [[book-structure]]

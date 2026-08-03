@@ -24,6 +24,7 @@ Relevant Notes:
 - [[what is split off not felt remains the same]] — the finding the posture exists to serve
 - [[grief cannot complete alone]] — the practice's relational limit: some completions need more than one person's posture
 - [[unrelated traditions converge on presence without agenda while remaining available to act]] — the dozen vocabularies the corpus reports arriving at this posture independently
+- [[the corpus quotes the author's poems rather than the poems quoting the corpus]] — the definition's oldest anchor: poem twelve's litany, "even leaving, beginning again; even older, beginning again; even crying, beginning again" (poems #12)
 - [[the basic practice posture is specified as simultaneous conditions rather than as a sequence]] — the six components the executed draft gives it
 - [[the practice forms specify when to begin and not how to tell one is finished]] — the twelve forms said to land on this posture, and what their specification leaves out
 

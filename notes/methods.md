@@ -58,6 +58,12 @@ These describe the book from outside it.
 - [[source — the first telling]] — the book presented to its first reader. File: `sources/the first telling.pdf`. Cited as `first-telling`, with named sections: `first-telling: the offering`.
 - [[source — the space around]] — the outward survey that seeds the research frontier. File: `sources/the space around.pdf`. Cited as `space-around`, with the survey's section names and, where relevant, its direction labels: `space-around: around the instrument (counterweight)`.
 
+### Primary source (admitted 2026-08-03)
+
+The author's own prior work, upstream of the book, which the corpus quotes and descends from.
+
+- [[source — the poems]] — sixteen numbered poems written across the author's life; the layer beneath the seed, the figures, and the system. File: `sources/the poems.pdf`. Cited as `poems`, by number: `poems #5`, `poems #16`. Direction of quotation: for poems 1–15 the corpus quotes the poem; #16 is the author's flagged exception.
+
 ### Draft sources (three manuscript states, admitted 2026-08-01)
 
 These are the book rather than accounts of it. They are secondary by the author's instruction on submission: they argue the merits of their own ideas, and the vault reads those arguments as evidence that the book has made them, not as evidence that they are right.

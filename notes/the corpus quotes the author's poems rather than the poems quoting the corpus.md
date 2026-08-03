@@ -1,5 +1,5 @@
 ---
-description: For the fifteen poems that predate the book, a phrase shared between poem and corpus originates in the poem — the youngness line is poem five's — and several doctrines stand in the poems in the author's unassisted voice.
+description: For the fifteen poems predating the book, a shared phrase originates in the poem — the youngness line is poem five's — and several doctrines stand in the poems in the author's unassisted voice.
 category: structure
 sources: ["poems #5", "poems #7", "poems #10", "poems #12", "poems #15", "author statement, 2026-08-03"]
 topics: ["[[book-structure]]", "[[methods]]"]

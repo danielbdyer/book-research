@@ -29,6 +29,7 @@ Relevant Notes:
 - [[the seed arrived in a season of burnout and container-building on every front]] — the season the move opens from
 - [[the book is written to the relational field and enacted upon the author first]] — the address that makes this arc the book's method rather than its backdrop
 - [[flourishing flow and facilitation converged on one stance in the author's own record]] — the three domains the move carried west
+- [[the sixteenth poem returns the book's language to the life it came from]] — the move's own poem: "i moved across the country a few years ago… i will not vanish to stay connected" (poems #16)
 
 Topics:
 - [[book-structure]]

@@ -25,5 +25,7 @@ Relevant Notes:
 - [[ripeness is not refrigeration]] — the companion rule against indefinite preservation
 - [[the middle voice settles declaration against disclosure]] — the account of how speaking works when it works
 
+- [[the sixteenth poem returns the book's language to the life it came from]] — the blade lived rather than stated: "the trembling that is the sound of the sentence leaving / the architecture" (poems #16)
+
 Topics:
 - [[answerability]]
