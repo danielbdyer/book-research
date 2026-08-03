@@ -20,9 +20,9 @@ The book stacks three further levels on this anatomy: twelve verb-primitives as 
 - [[distress is a question about machinery not a verdict about character]] — the engine level's diagnostic move, which routes distress to the loop that is misfiring
 - [[the prose drafts use the vetoed triad names]] — the reading instruction for the two prose drafts, which name the same three structures Knife, Thread, and Vessel throughout
 - [[the engine is a triadic theology in mechanic's clothing]] — the image carrying the anatomy's engine level
-- [[the open center is made possible by the three structures and identical with none of them]] — the purpose statement: what the three structures are for
-- [[thisness is the grain of the container anatomy]] — the lineage of the particular this the structures serve: Scotus, Hopkins, Deleuze
-- [[ordinary names keep the deepest structures visible]] — the naming doctrine drawn from the structures' rename, with its provenance qualification kept
+- [[the open center is made possible by the three structures and identical with none of them]] — what the three structures are for: the open middle they hold
+- [[thisness is the grain of the container anatomy]] — containers serve particulars, and Scotus, Hopkins, and Deleuze are the named lineage for that idea
+- [[ordinary names keep the deepest structures visible]] — the naming rule from the rename: plain names keep the teaching in the reader's room
 
 ### Nascent stubs
 

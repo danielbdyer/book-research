@@ -12,7 +12,7 @@ topics: ["[[interlocutors]]", "[[recognition]]"]
 
 Utpaladeva was a tenth-century Kashmiri philosopher. His Īśvarapratyabhijñākārikā founded the recognition school, which holds that liberation is not gaining anything — it is recognizing what never left. The corpus seats him in one clause: "recognition philosophy's architect (the Heidegger convergence's far pole)" (atlas §IX.6d).
 
-That convergence is the book's foundation, and Utpaladeva is its named far side. Heidegger built truth as un-forgetting. Utpaladeva built liberation as recognition. There was no contact between them ([[aletheia and pratyabhijna converge on truth as un-forgetting]]). The book prints his school's doctrine on page one without the Sanskrit: "You already know everything in this book. You've just forgotten. Reading is remembering." A drafting session needs him because the convergence claim needs a named architect on each side, and his is the name opposite Heidegger's.
+That convergence is the book's foundation, and Utpaladeva is its named far side: Heidegger built truth as un-forgetting, Utpaladeva built liberation as recognition, and there was no contact between them ([[aletheia and pratyabhijna converge on truth as un-forgetting]]). The book prints his school's doctrine on page one without the Sanskrit: "You already know everything in this book. You've just forgotten. Reading is remembering." A drafting session needs him because the convergence claim needs a named architect on each side, and his is the name opposite Heidegger's.
 
 ## Substantiation
 

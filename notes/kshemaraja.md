@@ -12,7 +12,7 @@ topics: ["[[interlocutors]]", "[[recognition]]"]
 
 Kṣemarāja was an eleventh-century Kashmiri teacher, the disciple of Abhinavagupta. He wrote the Pratyabhijñāhṛdayam — "the Heart of Recognition," twenty sūtras — which the corpus calls "the pocket-sized summa" (walked IX) and places on the book's reading list (atlas §IX.10). The book takes one sentence from him above all: madhya-vikāsāt, "from the unfolding of the center comes the bliss of consciousness" (atlas §IX.6c). The book plants that formula rather than quoting it; the design is recorded at [[the unfolding of the center is planted half-erased and finished at a mirror]].
 
-He appears twice in the book. Once as a source, and once as a hand writing in the margins: "the valley's own hand in the margins of a Western house" (atlas §IX.7). No other figure both supplies part of the book's foundation and annotates the book that carries it.
+He appears twice in the book: once as a source, and once as a hand writing in the margins — "the valley's own hand in the margins of a Western house" (atlas §IX.7). No other figure both supplies part of the book's foundation and annotates the book that carries it.
 
 ## Substantiation
 

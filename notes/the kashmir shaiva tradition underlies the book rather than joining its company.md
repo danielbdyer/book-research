@@ -15,7 +15,7 @@ For drafting this means one thing: a sentence that lists this tradition as one i
 
 - Atlas §IX.6, preamble: "The tradition whose very name is the book's Level 0. Not a room but the watershed all rooms drain toward."
 - Walked IX: "Beyond the five rooms lies the valley, which is not a room but the watershed all the rooms drain toward: Trika, the Kashmir Śaiva tradition — whose very name means, literally, 'the Triad.'"
-- The other side is also on record: the author wrote down the three-part structure months before he first met this tradition ([[the triad predates the author's contact with the tradition named the triad]]). The record shows a meeting, not a borrowing. This claim reports how the corpus arranges its material, not a lineage of influence.
+- The other side is also on record: the author wrote down the three-part structure months before he first met this tradition ([[the triad predates the author's contact with the tradition named the triad]]). The record shows a meeting rather than a borrowing, and this claim reports how the corpus arranges its material, not a line of influence.
 
 ---
 

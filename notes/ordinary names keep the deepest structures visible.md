@@ -9,7 +9,7 @@ topics: ["[[container-anatomy]]"]
 
 The three structures were once called Knife, Thread, and Vessel. The author vetoed those names, and the corpus holds the veto as doctrine: "the deepest structures should wear the most ordinary clothes" (atlas §II). The reason is practical. Walked II: if you use ritual-object names, "the reader files them under mythology and walks past the actual walls of the actual room she is sitting in. Name them Wall, Door, Floor, and she cannot leave the building without touching the teaching."
 
-The rule is usable anywhere the manuscript names something. Plain names keep a teaching in the reader's room. Mythic names let her file it away. Walked II ties the rule to the book's larger refusal of renunciation: "The rename enacts the Householder Axiom at the level of vocabulary."
+The rule is usable anywhere the manuscript names something: plain names keep a teaching in the reader's room, and mythic names let her file it away. Walked II ties the rule to the book's larger refusal of renunciation: "The rename enacts the Householder Axiom at the level of vocabulary."
 
 ## Substantiation
 

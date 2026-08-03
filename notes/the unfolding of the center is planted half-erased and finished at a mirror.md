@@ -7,7 +7,7 @@ topics: ["[[recognition]]", "[[book-structure]]"]
 
 # the unfolding of the center is planted half-erased and finished at a mirror
 
-Kṣemarāja's formula madhya-vikāsāt means, in the corpus's gloss, "from the unfolding of the center comes the bliss of consciousness." The book does not quote the formula. It plants it. The atlas records both sites in one line: "the half-erased word beside the unlabeled room; the sentence eleven chapters finish at the mirror" (atlas §IX.6c). The reader meets the formula twice — first as an illegible fragment, later as a finished sentence.
+Kṣemarāja's formula madhya-vikāsāt means, in the corpus's gloss, "from the unfolding of the center comes the bliss of consciousness." The book plants the formula rather than quoting it, and the atlas records both sites in one line: "the half-erased word beside the unlabeled room; the sentence eleven chapters finish at the mirror" (atlas §IX.6c). So the reader meets the formula twice — first as an illegible fragment, later as a finished sentence.
 
 This is the planting-ledger device — plant early, pay off late — running on a Sanskrit formula instead of an image. A sentence completed this way arrives as something remembered rather than something taught, which fits the promise the front matter makes ([[reading is remembering]]).
 

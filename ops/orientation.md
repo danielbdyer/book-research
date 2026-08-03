@@ -16,14 +16,14 @@ The five notes that carry the current synthesis:
 - [[the making of the book enacts the law the book states]]
 - [[the perfectible conversation is the manuscript's most comfortable room]] — the kept counterface of the fourth, and a description of the vault itself
 
-The directives that govern how material is held: `ops/methodology/authorial stance.md` (observation, not argument; the author holds no evidentiary remarks and the vault postulates no efficacy), `naming and epistemic humility.md` (the corpus's coinages are candidate labels, never referents), `personal provenance.md` (personal material is admitted owned, delicately, in honor of what is becoming), `center of gravity.md`, and `writing test.md` (would a drafting session reach for this?).
+The directives that govern how material is held: `ops/methodology/authorial stance.md` (observation, not argument; the author holds no evidentiary remarks and the vault postulates no efficacy), `naming and epistemic humility.md` (the corpus's coinages are candidate labels, never referents), `personal provenance.md` (personal material is admitted owned, delicately, in honor of what is becoming), `center of gravity.md`, and `writing test.md` (would a drafting session reach for this?). One more is fresh and easy to violate: `prose register.md` rule 11 (2026-08-03, the author's own words on both poles) — write so a tired friend can follow on first reading; neither ornament nor clipped density; complex sentences are fine when they unfold in order.
 
 ## The torch
 
 The field is wide open, all of it load-bearing — pick by appetite and build:
 
 1. **The practice curriculum's second half** — the engineer's eye's four diagnostic moves, the crisis triage, channeling, and the Focusing protocol, straight from the executed draft (`ops/queue/extractions.md`). The lived-practice centerpiece, half extracted.
-2. **The central process** — the remainder of atlas §I ("one verb wearing three costumes") and the Kashmir Śaiva material at atlas §IX.6: the deepest well, barely tapped.
+2. **The central process** — done 2026-08-03: atlas §I–§II and the Kashmir Śaiva material of §IX.6 are extracted (seven claims, seats for Kṣemarāja and Utpaladeva; `ops/completed.md` has the paths). What the valley still holds travels with other tracks: the four upāyas with track 1, so'yam with track 5's overlays.
 3. **The instrument's counterweights** — real outside research: ground [[felt shift versus felt confirmation]] in the processing-fluency and interoception literature. The priority five's last open member, and the book's own two sentences of humility.
 4. **The company, growing** — the promoted candidates first (Barrett as McLaren's counterweight, wu wei via Slingerland, Wegner's ironic process — each named by a completed note as the specific thing missing), then the ~sixty in the book's own order; interlocutor notes for seated thinkers as claims come to need them.
 5. **The concordance's largest reconciliation** — the abridged execution against the working structure, chapter by chapter; and the treatment's four overlays with its four second-edition images, storyboard-only until extracted (`ops/chapter concordance.md`).

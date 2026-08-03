@@ -28,7 +28,7 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 - [[what is recognized cannot be un-recognized]] — the one place the corpus states the reading contract as two-sided, with a cost the reader is invited to accept
 - [[the fruit that falls is the word become deed]] — the release doctrine in the orchard's vocabulary
 - [[the sixteenth poem returns the book's language to the life it came from]] — the blade lived at the size of a text: the trembling as the sentence leaves the architecture
-- [[the gap between two states is where the concealed shows itself]] — the junction teaching, which names the interval between a spoken word and its answer
+- [[the gap between two states is where the concealed shows itself]] — the teaching that the silence between a spoken word and its answer is a crossing, not a failure
 
 ## Adjacent maps
 

@@ -32,7 +32,7 @@ The corpus reads the same arc four ways simultaneously: as a recognition plot (m
 
 ## The apparatus
 
-The corpus keeps the book honest with a specific apparatus: inhabited margins that form a second book with its own plot; a verso column where readers countersign practices ("walked. still true." — atlas §X.6b); a planting ledger tracking every planted image to its payoff; an escrow system of promises made early and kept visibly; a per-chapter dial recording the ratio of evocative to informative prose; interludes placed at the part-junctions; and an eight-question checklist every chapter must pass, ending with "did writing it change you?" (atlas §X.6g). Two of the devices carry the source tradition inside them: the dial is identified with the tradition's pulse-term ([[the per-chapter dial is a spanda ratio]]), and the ledger's clearest case plants a Sanskrit formula rather than an image ([[the unfolding of the center is planted half-erased and finished at a mirror]]).
+The corpus keeps the book honest with a specific apparatus: inhabited margins that form a second book with its own plot; a verso column where readers countersign practices ("walked. still true." — atlas §X.6b); a planting ledger tracking every planted image to its payoff; an escrow system of promises made early and kept visibly; a per-chapter dial recording the ratio of evocative to informative prose; interludes placed at the part-junctions; and an eight-question checklist every chapter must pass, ending with "did writing it change you?" (atlas §X.6g). Two of the devices carry the source tradition inside them: the dial is identified with the tradition's word for the pulse ([[the per-chapter dial is a spanda ratio]]), and the ledger's clearest case plants a Sanskrit formula rather than an image ([[the unfolding of the center is planted half-erased and finished at a mirror]]).
 
 ## The image system
 
@@ -91,8 +91,8 @@ The provenance record of 2026-08-02 and after — the accounts of the corpus's m
 - [[the drafts disagree about which person the book speaks in]] — the unsettled grammatical realization of the middle voice
 - [[the executed draft carries the arc's sequence without the treatment's five rooms]] — the content bound on what has been drafted
 - [[the drafts execute one of the seven designed apparatus devices]] — the apparatus bound, and what "fully treated" therefore costs
-- [[the per-chapter dial is a spanda ratio]] — the production instrument identified with the source tradition's pulse
-- [[the unfolding of the center is planted half-erased and finished at a mirror]] — the planting device carrying doctrine rather than imagery, paid off at half the book's length
+- [[the per-chapter dial is a spanda ratio]] — the chapter dial carries the tradition's word for the pulse
+- [[the unfolding of the center is planted half-erased and finished at a mirror]] — the clearest case of the planting device: a formula planted as a fragment and finished late
 - [[the minus sign is what makes a molecule formula prescriptive]] — the notation that sorts the catalogue into descriptions and instructions
 - [[the closing prompt changes genre where the book turns to praxis]] — the unstated rule governing what an instruction may ask for, and when
 - [[the treatment records four authorship conditions in its undercurrents]] — the author's recorded observations about writing the book, quoted

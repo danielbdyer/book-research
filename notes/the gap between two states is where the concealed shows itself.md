@@ -1,5 +1,5 @@
 ---
-description: The tradition teaches that the concealed shows itself at junctions — between breaths, between thoughts, between waking and sleep — and the book builds with this: interludes at the part-junctions, and the silence after an answerable line.
+description: The tradition teaches that the concealed shows itself at junctions — between breaths, thoughts, waking and sleep — and the book builds with this: interludes at the part-junctions, and the silence after an answerable line.
 category: claim
 sources: ["atlas §IX.6c", "walked IX"]
 topics: ["[[recognition]]", "[[answerability]]"]
@@ -9,7 +9,7 @@ topics: ["[[recognition]]", "[[answerability]]"]
 
 The Vijñāna Bhairava teaches that the concealed shows itself at junctions: "between two breaths, two thoughts, waking and sleep — where the god stands unclothed" (atlas §IX.6c). The tradition's word for the junction is sandhi. The point is simple: disclosure happens at the crossing between states, not inside a state. The gap is not dead time.
 
-The book builds with this teaching. Its interludes sit at the junctions between Parts — "the interludes are placed at the sandhis" (atlas §IX.6c) — and its cusp figure carries the same word. Walked IX then applies it to waiting for a reply: "the trembling between a sentence spoken and the answer arriving" is "sandhi mid-crossing." That last use matters most for drafting. The book's last line is written to be answered. This teaching says what the silence after such a line is: not failure, a junction, mid-crossing.
+The book builds with this teaching. Its interludes sit at the junctions between Parts — "the interludes are placed at the sandhis" (atlas §IX.6c) — and its cusp figure carries the same word. Walked IX then applies it to waiting for a reply: "the trembling between a sentence spoken and the answer arriving" is "sandhi mid-crossing." That last use matters most for drafting, because the book's last line is written to be answered. This teaching gives the silence after such a line a name: it is not a failure but a junction, still mid-crossing.
 
 ## Substantiation
 

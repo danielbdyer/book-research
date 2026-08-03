@@ -9,7 +9,7 @@ topics: ["[[container-anatomy]]", "[[interlocutors]]"]
 
 The Wall's definition says the structures exist to make "a this" possible (atlas §II). The corpus names a lineage for that idea and calls it "thisness as the Triad's grain" (atlas §II.4). The lineage has three steps. Duns Scotus coined haecceitas for the unrepeatable individuality of a particular thing. Gerard Manley Hopkins turned it into inscape, a thing's inner form, and instress, the strike that form makes on whoever beholds it. Deleuze carried it to the event: "the thisness not of an object but of a moment" (walked II).
 
-The point for the book: containers serve particulars. This person, this room, this moment — never a general case. The lineage also touches two things the vault already holds. Instress is what the tuning-fork image does to a reader. And the sister software project is named for Scotus's word: the Haecceity Graph.
+The point for the book is that containers serve particulars — this person, this room, this moment, never a general case. The lineage also touches two things the vault already holds: instress is what the tuning-fork image does to a reader, and the sister software project, the Haecceity Graph, is named for Scotus's word.
 
 ## Substantiation
 

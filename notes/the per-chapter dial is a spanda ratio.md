@@ -9,7 +9,7 @@ topics: ["[[book-structure]]"]
 
 The book's design includes a per-chapter dial: a recorded ratio of evocative to informative prose. The atlas identifies this instrument with the tradition's cosmology: "the book's per-chapter dial is literally a spanda ratio" (atlas §IX.6a). Spanda is the tradition's word for the pulse of consciousness. Walked IX points at what the identification does: "notice how domestically the book employs a cosmological term."
 
-The fact is small and it shows a habit. The book puts its deepest words to household work. The title's engine does the same thing — a mechanical image carrying a theological content — and the naming rule behind both is recorded at [[ordinary names keep the deepest structures visible]].
+The fact is small, but it shows a habit: the book puts its deepest words to household work. The title's engine does the same thing — a mechanical image carrying a theological content — and the naming rule behind both is recorded at [[ordinary names keep the deepest structures visible]].
 
 ## Substantiation
 

@@ -7,7 +7,7 @@ topics: ["[[container-anatomy]]", "[[recognition]]"]
 
 # the open center is made possible by the three structures and identical with none of them
 
-The container anatomy has three structures and an open middle. The corpus is exact about the middle: the three make it possible, and it is not any of them. Walked II: "at their center, made possible by the three but identical with none of them, is the Clearing: the open space itself." This states what the structures are for. Wall, door, and floor are not the point. The open space they hold is.
+The container anatomy has three structures and an open middle. The corpus is exact about the middle: the three make it possible, and it is not any of them. Walked II: "at their center, made possible by the three but identical with none of them, is the Clearing: the open space itself." This states what the structures are for — the wall, the door, and the floor are not themselves the point; the open space they hold is.
 
 The center is also where the book's two source vocabularies meet. The corpus equates the open space with Heidegger's Lichtung, the forest opening, and with prakāśa, the Trika word for the light of awareness (atlas §II; atlas §IX.6a). So the structural theory and the recognition doctrine touch at exactly one point, and this is it.
 
