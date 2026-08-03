@@ -113,3 +113,15 @@ A record of each configuration review: what evidence prompted it, what was propo
 **Convergent evidence.** The sibling branch (PR #3) independently hit the same wall and built the same shape of fix: `ops/origins chronology.md` gathers roughly forty dated fixture points that had existed only as substantiating clauses inside notes whose subjects were doctrines. Two threads needing an ops-level synthesis surface in the same week is the design's confirmation, and is recorded here as such.
 
 **Open after this review.** Whether the orientation file stays current is the new maintenance question; its own header makes staleness a same-session fix, and CLAUDE.md's Persist step now names it. The glyph question remains exactly as settled as before — this review made the settlement findable and changed no usage.
+
+---
+
+## 2026-08-03 — The contract re-authored
+
+**Prompted by.** The author, after merging the consumption-layer reorganization: "I'm not sure we've got enough in CLAUDE.md that needs to be up front. Let's let you author it from front to back. You can keep as much as you like."
+
+**Decision.** The directive is the decision. CLAUDE.md was rewritten in one voice, front to back. The opening now carries what the contract had never stated — the vault serves the writing and the third thing's evolution (author statement, 2026-08-03), with the pilot move as the deliverable beneath every deliverable — followed by the book's law, the center, and the stance, so the first screen is the soul and the law rather than repository mechanics. The old Reference and Voice sections merged into five Posture directives; the citation registry became a table; Relations compressed onto its settled pointer; the generation archaeology moved to the tail.
+
+**Boundary stated.** CLAUDE.md is the durable law; `ops/orientation.md` is the current state. Current-state facts no longer live in the contract.
+
+**Audit.** 189 lines became 176. A coverage audit walked every removed line: each rule survives in place, survives compressed with a pointer, or is on the recorded cut list (archaeology and duplicated center statements). The audit caught and restored two near-losses — the vocabulary-policy directive and the note-title rule — which is the audit doing the work it was run for.
