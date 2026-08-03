@@ -1,5 +1,5 @@
 ---
-description: The tradition teaches that the concealed shows itself at junctions — between breaths, thoughts, waking and sleep — and the book builds with this: interludes at the part-junctions, and the silence after an answerable line.
+description: "The tradition teaches that the concealed shows itself at junctions — between breaths, thoughts, waking and sleep — and the book builds with this: interludes at part-junctions, and the silence after an answerable line."
 category: claim
 sources: ["atlas §IX.6c", "walked IX"]
 topics: ["[[recognition]]", "[[answerability]]"]

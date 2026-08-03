@@ -1,5 +1,5 @@
 ---
-description: Each tradition wrote its own accessible entry — Kṣemarāja's twenty sūtras for tender minds, the Vijñāna Bhairava's ordinary doorways, Heidegger's hometown address and jug essays — and each door has faults the book should name while borrowing it.
+description: "Each tradition wrote its own accessible entry — Kṣemarāja's sūtras for tender minds, the Vijñāna Bhairava's ordinary doorways, Heidegger's hometown address and jug essays — each door with faults to name while borrowing."
 category: claim
 sources: ["Pratyabhijñāhṛdayam, opening", "Vijñāna Bhairava vv. 71–73, 118", "Discourse on Thinking (the Memorial Address, 1955)", "The Thing", "Building Dwelling Thinking", "author statement, 2026-08-03"]
 topics: ["[[interlocutors]]", "[[recognition]]"]

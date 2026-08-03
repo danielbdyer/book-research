@@ -1,5 +1,5 @@
 ---
-description: The author's pause, 2026-08-03: the Kashmir Śaiva tradition is staged as aletheia's compatriot and honored as the ground beneath everything, yet never given its flowers as a guest among the book's thinkers.
+description: "The author's pause, 2026-08-03: the Kashmir Śaiva tradition is staged as aletheia's compatriot and honored as the ground beneath everything, yet never given its flowers as a guest among the book's thinkers."
 category: tension
 status: live
 treatment: "the road into the valley"

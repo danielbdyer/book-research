@@ -1,5 +1,5 @@
 ---
-description: The earliest edition's pages surfaced in April 2025 amid work distress, a job search, ritual-seeking, and a formal recommitment to presence — the record's summary: a person building containers on every front at once.
+description: "The earliest edition's pages surfaced in April 2025 amid work distress, a job search, ritual-seeking, and a formal recommitment to presence — the record's summary: a person building containers on every front at once."
 category: structure
 sources: ["provenance reconstruction round two §7 (consulted, held in provenance/)", "mythic-os: contents"]
 topics: ["[[book-structure]]", "[[contraction-not-corruption]]"]

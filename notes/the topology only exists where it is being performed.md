@@ -1,5 +1,5 @@
 ---
-description: The corpus sets a limit on its own maps: the framework exists only while it is being performed, so any atlas of it, this vault included, is not the thing it maps.
+description: "The corpus sets a limit on its own maps: the framework exists only while it is being performed, so any atlas of it, this vault included, is not the thing it maps."
 category: open-question
 sources: ["atlas §XI.3", "walked XI", "space-around: around insight (counterweight)"]
 topics: ["[[recognition]]", "[[open-questions]]", "[[methods]]"]

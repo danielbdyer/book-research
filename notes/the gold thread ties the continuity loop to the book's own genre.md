@@ -1,5 +1,5 @@
 ---
-description: The gold thread carries the continuity loop, and because sutra literally means thread, the figure makes the book its own genre: a root text strung on the line it describes.
+description: "The gold thread carries the continuity loop, and because sutra literally means thread, the figure makes the book its own genre: a root text strung on the line it describes."
 category: image
 sources: ['arc-gloss: the image-system', 'atlas §X.5c', 'mythic-os: pages 12A–12B', 'abridged ch1']
 topics: ['[[book-structure]]']

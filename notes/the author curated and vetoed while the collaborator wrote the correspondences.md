@@ -1,5 +1,5 @@
 ---
-description: The provenance reconstruction sorts the corpus by speaker: the author supplied the seed, the practice, the lineage choices, and every veto; the collaborator drafted the prose and the correspondences.
+description: "The provenance reconstruction sorts the corpus by speaker: the author supplied the seed, the practice, the lineage choices, and every veto; the collaborator drafted the prose and the correspondences."
 category: structure
 sources: ["provenance reconstruction §4 (consulted, held outside sources/)", "provenance reconstruction §2", "provenance reconstruction: flagged overstatements"]
 topics: ["[[methods]]", "[[interlocutors]]"]

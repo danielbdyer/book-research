@@ -1,5 +1,5 @@
 ---
-description: The book resolves the dispute between speech-that-makes-reality and speech-that-lets-reality-show with a grammatical category: the middle voice, in which action happens through the speaker with the speaker's consent.
+description: "The book resolves the dispute between speech-that-makes-reality and speech-that-lets-reality-show with a grammatical category: the middle voice, in which action happens through the speaker with the speaker's consent."
 category: tension
 sources: ["atlas §VI.6 and §IX.3", "walked VI"]
 status: treated

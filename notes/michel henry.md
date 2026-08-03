@@ -1,5 +1,5 @@
 ---
-description: Henry's auto-affection — manifestation feeling itself before any object — is the phenomenology nearest vimarśa, and no literature joining them surfaced: the pairing may be open territory beside the author's own.
+description: "Henry's auto-affection — manifestation feeling itself before any object — is the phenomenology nearest vimarśa, and no literature joining them surfaced: the pairing may be open territory beside the author's own."
 category: interlocutor
 seat: candidate
 recommendation: "Reference-lineage for the interior half of the thesis only, with his refusals of world and clearing kept; the unclaimed Henry–vimarśa pairing is flagged as possible open territory pending a scholarly-database pass."

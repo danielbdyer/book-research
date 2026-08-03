@@ -1,5 +1,5 @@
 ---
-description: Hartmut Rosa is an evaluated candidate: his uncontrollability clause completes the tuning fork's theory, and his structural diagnosis is an objection to any book answering at the scale of one reader.
+description: "Hartmut Rosa is an evaluated candidate: his uncontrollability clause completes the tuning fork's theory, and his structural diagnosis is an objection to any book answering at the scale of one reader."
 category: interlocutor
 seat: candidate
 recommendation: "Reference-lineage, seated twice over: he completes the closing image's theory and supplies a name for the position the corpus states and leaves anonymous, that some suffering lives in economic and institutional arrangement."

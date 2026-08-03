@@ -1,5 +1,5 @@
 ---
-description: The structures exist to make a particular this possible, and the corpus names the lineage of that idea: Scotus's haecceitas, Hopkins's inscape and instress, and Deleuze's thisness of a moment.
+description: "The structures exist to make a particular this possible, and the corpus names the lineage of that idea: Scotus's haecceitas, Hopkins's inscape and instress, and Deleuze's thisness of a moment."
 category: claim
 sources: ["atlas §II.4", "walked II"]
 topics: ["[[container-anatomy]]", "[[interlocutors]]"]

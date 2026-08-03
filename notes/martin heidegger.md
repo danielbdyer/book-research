@@ -1,5 +1,5 @@
 ---
-description: Heidegger anchors the speech-acts room and supplies the book's central verb; his chair holds four refusals derived from his texts, and the associations any erudite reader will bring — named at the door, with escorts already seated.
+description: "Heidegger anchors the speech-acts room and supplies the book's central verb; his chair holds four refusals derived from his texts, and the associations an erudite reader brings — named at the door, with escorts seated."
 category: interlocutor
 seat: speech-acts
 clause: "Truth is aletheia — an event of un-concealment, not a property of statements."

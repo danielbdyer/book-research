@@ -1,5 +1,5 @@
 ---
-description: The author's core-thesis candidate — that these thinkers illuminate an underdeveloped aspect of human reality — has a field around it: named footsteps, living developers, standing opponents, and several of each already seated in the book's own company.
+description: "The author's core-thesis candidate — these thinkers illuminate an underdeveloped aspect of human reality — has a field around it: footsteps, developers, opponents, several already seated in the book's own company."
 category: claim
 state: full
 sources: ["author statement, 2026-08-03", "atlas §IX.8", "crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]

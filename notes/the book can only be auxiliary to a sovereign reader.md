@@ -1,5 +1,5 @@
 ---
-description: The letter's grammar, the resonance theory, and the facilitator's craft agree on the book's honest maximum: an instrument in service of a life that remains the reader's own — never an authority.
+description: "The letter's grammar, the resonance theory, and the facilitator's craft agree on the book's honest maximum: an instrument in service of a life that remains the reader's own — never an authority."
 category: claim
 sources: ["provenance addendum four §II.1 (consulted, held in provenance/)", "atlas §IX.3", "arc-gloss: ch13", "space-around: around the honesty"]
 topics: ["[[relational-field]]"]

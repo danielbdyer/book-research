@@ -1,5 +1,5 @@
 ---
-description: The ink that listens carries the relational field applied to writing: vimarsa socialized, awareness tasting itself through two people and a page, so that writing and reading are already the Third at work.
+description: "The ink that listens carries the relational field applied to writing: vimarsa socialized, awareness tasting itself through two people and a page, so that writing and reading are already the Third at work."
 category: image
 sources: ['arc-gloss: the image-system', 'atlas §X.5d', 'abridged ch2', 'mythic-os: page 4.5']
 topics: ['[[relational-field]]', '[[book-structure]]']

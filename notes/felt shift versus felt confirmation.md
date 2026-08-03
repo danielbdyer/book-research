@@ -1,5 +1,5 @@
 ---
-description: The space-around survey records two limits on the book's somatic verification test: fluent prose can produce the bodily confirmation it reads as truth, and the signal is faintest in the readers who most need it.
+description: "The space-around survey records two limits on the book's somatic verification test: fluent prose can produce the bodily confirmation it reads as truth, and the signal is faintest in the readers who most need it."
 category: tension
 status: live
 treatment: "plain-prose passes as a counterfeit check; titration guidance for muted signals; the relational field as a second check"

@@ -1,5 +1,5 @@
 ---
-description: The book analyzes burnout as obligation with sanctuary removed, which reverses the standard prescription: the missing element is the place where the obligated person is held, and cutting duty does not restore it.
+description: "The book analyzes burnout as obligation with sanctuary removed, which reverses the standard prescription: the missing element is the place where the obligated person is held, and cutting duty does not restore it."
 category: claim
 sources: ["atlas §IV", "walked IV", "first-telling: the offering"]
 topics: ["[[contraction-not-corruption]]"]

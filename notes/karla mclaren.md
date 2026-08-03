@@ -1,5 +1,5 @@
 ---
-description: Karla McLaren holds the emotion-work seat: she treats every emotion as a distinct messenger carrying a gift and a question, and supplies the finding that grief structurally cannot complete alone.
+description: "Karla McLaren holds the emotion-work seat: she treats every emotion as a distinct messenger carrying a gift and a question, and supplies the finding that grief structurally cannot complete alone."
 category: interlocutor
 seat: emotion-work
 clause: "Grief is the one emotion that cannot complete alone — it structurally requires witness and ceremony."

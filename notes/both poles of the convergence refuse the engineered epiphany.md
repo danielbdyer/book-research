@@ -1,5 +1,5 @@
 ---
-description: Heidegger's enframing and the valley's doctrine of grace arrive at the same refusal with no contact — unconcealment cannot be manufactured — so the traditions the book stands on both decline the book's own machinery as cause.
+description: "Heidegger's enframing and the valley's doctrine of grace reach the same refusal with no contact — unconcealment cannot be manufactured — so both of the book's foundations decline the book's machinery as cause."
 category: isomorph
 sources: ["The Question Concerning Technology", "Der Spiegel interview, 1966", "Discourse on Thinking", "Tantrāloka, āhnika 13", "Īśvarapratyabhijñākārikā I.1.1"]
 topics: ["[[recognition]]", "[[felt-shift]]"]

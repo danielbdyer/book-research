@@ -1,5 +1,5 @@
 ---
-description: The mythic operating system contents name four territories the arc contains nowhere: the design of daily time, externalized personal systems, aesthetic practice, and the deliberate arc of partnership.
+description: "The mythic operating system contents name four territories the arc contains nowhere: the design of daily time, externalized personal systems, aesthetic practice, and the deliberate arc of partnership."
 category: structure
 sources: ["mythic-os: contents", "mythic-os: book overview", "arc-gloss: how to hold this", "abridged ch1–ch15"]
 topics: ["[[book-structure]]", "[[open-questions]]"]

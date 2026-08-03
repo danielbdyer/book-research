@@ -1,5 +1,5 @@
 ---
-description: The Sacred Risk of Staying Awake states the cost the recognition promise implies and no other source names: what the reader remembers becomes unavailable to forget, so the reading is irreversible.
+description: "The Sacred Risk of Staying Awake states the cost the recognition promise implies and no other source names: what the reader remembers becomes unavailable to forget, so the reading is irreversible."
 category: claim
 sources: ["mythic-os: page 4", "atlas §I", "walked I"]
 topics: ["[[recognition]]", "[[answerability]]"]

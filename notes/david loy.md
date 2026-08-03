@@ -1,5 +1,5 @@
 ---
-description: David Loy is seated in the reference lineage: his account of the ego's constitutive lack independently confirms the book's first contraction, which is why the corpus counts it as its strongest external evidence.
+description: "David Loy is seated in the reference lineage: his account of the ego's constitutive lack independently confirms the book's first contraction, which is why the corpus counts it as its strongest external evidence."
 category: interlocutor
 seat: reference-lineage
 clause: "The lack, entered rather than fled, inverts to openness."

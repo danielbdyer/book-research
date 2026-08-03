@@ -1,5 +1,5 @@
 ---
-description: This map holds the corpus's account of speech that decides whether the manuscript is released: an unspoken word can be revised forever, and a spoken word can be answered.
+description: "This map holds the corpus's account of speech that decides whether the manuscript is released: an unspoken word can be revised forever, and a spoken word can be answered."
 type: moc
 topics: ["[[index]]"]
 ---

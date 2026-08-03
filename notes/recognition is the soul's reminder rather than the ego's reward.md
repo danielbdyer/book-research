@@ -1,5 +1,5 @@
 ---
-description: The Echo That Teaches Us Our Name states positively the guard the atlas records only as a warning: recognition returns a person to what they already are rather than conferring a standing they can hold.
+description: "The Echo That Teaches Us Our Name states positively the guard the atlas records only as a warning: recognition returns a person to what they already are rather than conferring a standing they can hold."
 category: claim
 sources: ["mythic-os: page 16", "atlas §IX.5", "first-telling: the reframe"]
 topics: ["[[recognition]]"]

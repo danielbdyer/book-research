@@ -1,5 +1,5 @@
 ---
-description: Derived from the tradition's own texts for the author's testing — it would decline recognition without the recognized, the sovereign reader as final cause, the book-alone as vehicle, and the stance that gestures where the tradition argues.
+description: "Derived from the tradition's own texts for the author's testing — it would decline recognition without the recognized, the sovereign reader as final cause, the book alone as vehicle, and the gesture where it argues."
 category: claim
 state: full
 sources: ["Īśvarapratyabhijñākārikā I.1.1, I.2–I.5, IV.16", "Tantrāloka, āhnika 13", "Śiva Sūtras II.6", "Vijñāna Bhairava vv. 24–138, esp. 71–73 and 118", "Pratyabhijñāhṛdayam, sūtra 1 and opening", "author statement, 2026-08-03"]
