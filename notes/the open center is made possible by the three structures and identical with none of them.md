@@ -1,5 +1,5 @@
 ---
-description: The container anatomy's fourth element is not a structure: an open middle the Wall, Door, and Floor exist to make possible, where the book's two source vocabularies — Lichtung and prakāśa — meet at one site.
+description: The three structures exist to hold open a middle that is none of them, and that open middle is where Heidegger's Lichtung and Trika's prakāśa name the same place.
 category: claim
 sources: ["atlas §II", "walked II", "atlas §IX.6a"]
 topics: ["[[container-anatomy]]", "[[recognition]]"]
@@ -7,24 +7,24 @@ topics: ["[[container-anatomy]]", "[[recognition]]"]
 
 # the open center is made possible by the three structures and identical with none of them
 
-The container anatomy counts three structures, and its center is deliberately not a fourth. The walked document fixes the grammar: "at their center, made possible by the three but identical with none of them, is the Clearing: the open space itself" (walked II). The precision matters in both directions. The center is not a product the structures manufacture — it is a possibility they hold open — and it is not reducible to any of them, so no amount of wall-work, door-work, or floor-work is itself the point. The claim states what the structures are for: differentiation, relation, and persistence serve an openness they do not constitute.
+The container anatomy has three structures and an open middle. The corpus is exact about the middle: the three make it possible, and it is not any of them. Walked II: "at their center, made possible by the three but identical with none of them, is the Clearing: the open space itself." This states what the structures are for. Wall, door, and floor are not the point. The open space they hold is.
 
-The center is also where the book's structural theory and its recognition doctrine join at a single site. The corpus equates the open space with Heidegger's Lichtung — the forest opening where things can show themselves — and with prakāśa, the light of awareness (atlas §II; §IX.6a); walked II calls it the place "where the book's Greek and Sanskrit shake hands." The anatomy's center and the central process's destination are one site under three names, which is the specific joint at which the scaffolding meets what the book is actually about.
+The center is also where the book's two source vocabularies meet. The corpus equates the open space with Heidegger's Lichtung, the forest opening, and with prakāśa, the Trika word for the light of awareness (atlas §II; atlas §IX.6a). So the structural theory and the recognition doctrine touch at exactly one point, and this is it.
 
 ## Substantiation
 
-- Atlas §II: "The Clearing at center — the open space the three make possible," with the equation "≈ Heidegger's Lichtung ≈ prakāśa (the light of awareness)" and the cross-link to the first image.
-- The image side is held at [[the house with no ceiling is transcendence with plumbing]]: the house is the corpus's portrait of this center.
-- The strongest pressure on the claim is recorded at [[the triad is the anatomy of every container]]: the space-around survey's Goffman objection — total institutions have all three structures intact and a dead center — with the survey's proposed missing condition being consent and "an open center that belongs to those inside." The objection concedes this claim's grammar while denying its sufficiency: the three make the center possible, and something further decides whether it is anyone's.
+- Atlas §II: "The Clearing at center — the open space the three make possible," followed by "≈ Heidegger's Lichtung ≈ prakāśa (the light of awareness)."
+- The book's first image is the corpus's picture of this center; the image note is [[the house with no ceiling is transcendence with plumbing]].
+- The strongest objection on record concedes this claim's grammar and denies its sufficiency: Goffman's total institutions have all three structures intact and a dead center. The survey's proposed missing condition — consent, and a center that belongs to the people inside — is recorded at [[the triad is the anatomy of every container]].
 
 ---
 
 Relevant Notes:
-- [[the triad is the anatomy of every container]] — the anatomy this claim states the purpose of
-- [[the house with no ceiling is transcendence with plumbing]] — the first image, which is this center's portrait
-- [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the convergence that meets itself again at this site
+- [[the triad is the anatomy of every container]] — the anatomy whose purpose this claim states
+- [[the house with no ceiling is transcendence with plumbing]] — the image of this center
+- [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the two vocabularies that meet here
 - [[the unfolding of the center is planted half-erased and finished at a mirror]] — the practice formula aimed at this center
-- [[the kashmir shaiva tradition is seated as watershed rather than as room]] — the standing of the vocabulary that names this center prakāśa
+- [[the kashmir shaiva tradition underlies the book rather than joining its company]] — the standing of the tradition whose word for this center is prakāśa
 
 Topics:
 - [[container-anatomy]]
