@@ -67,6 +67,7 @@ The survey's top four, each read against the primary work 2026-08-02. Recommenda
 - [[the executed draft carries the arc's sequence without the treatment's five rooms]] — the finding that the roster's largest recent addition reaches the executed prose in three passing traces.
 - [[the system is scaffolding rather than the centerpiece]] — the decision that makes this map's material one of the book's two centerpieces.
 - [[the kashmir shaiva tradition underlies the book rather than joining its company]] — why the source tradition is not counted among the five groups of thinkers.
+- [[the tradition the book owes most has no chair in its company]] — the author's live question over that arrangement (2026-08-03): ground, guest, or both; the rooms grouping itself is provisional, in his words.
 - [[thisness is the grain of the container anatomy]] — three thinkers named in the ontic core but absent from the guild roster: Scotus, Hopkins, and Deleuze.
 
 ## Roster recorded in the corpus

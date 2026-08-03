@@ -16,6 +16,7 @@ For drafting this means one thing: a sentence that lists this tradition as one i
 - Atlas §IX.6, preamble: "The tradition whose very name is the book's Level 0. Not a room but the watershed all rooms drain toward."
 - Walked IX: "Beyond the five rooms lies the valley, which is not a room but the watershed all the rooms drain toward: Trika, the Kashmir Śaiva tradition — whose very name means, literally, 'the Triad.'"
 - The other side is also on record: the author wrote down the three-part structure months before he first met this tradition ([[the triad predates the author's contact with the tradition named the triad]]). The record shows a meeting rather than a borrowing, and this claim reports how the corpus arranges its material, not a line of influence.
+- The arrangement is under the author's own question as of 2026-08-03. Staging the tradition as aletheia's compatriot while withholding "its flowers in the rooms" gives him pause, and the rooms grouping itself is "not set in stone but was a trapping of a prior draft." The live tension is held at [[the tradition the book owes most has no chair in its company]]; this note records the corpus's arrangement, not a settled answer.
 
 ---
 
@@ -24,6 +25,7 @@ Relevant Notes:
 - [[the triads privations map the three malas corner for corner]] — the same one-for-one pairing on the diagnostic side
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the founding convergence this tradition supplies one side of
 - [[utpaladeva]] — the tradition's founding philosopher, with a note recording his seat
+- [[the tradition the book owes most has no chair in its company]] — the author's live question over this arrangement: ground, guest, or both
 
 Topics:
 - [[interlocutors]]
