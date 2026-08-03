@@ -13,6 +13,8 @@ The atlas records the structural problem under its own heading at §VIII — "th
 ## Claims in this map
 
 - [[the book is written to the relational field and enacted upon the author first]] — the author's statement of the book's address, which makes this map's subject the book's recipient
+- [[a witness kept as proof forecloses what it proves]] — the witness doctrine's shadow, from the author's own record: custody is not witness, and the difference is whether the witnessing is allowed to end
+- [[the gold thread is the rainbow thread re-owned]] — the continuity figure's genealogy: witness internalized, with the sacred role of the original witness honored
 - [[transformation is enacted participation inside a held container]] — the one law reached independently by six lineages, of which this map's claim is the second condition
 - [[karla mclaren]] — the thinker whose grief finding carries this map's strongest case, seated for the address
 - [[the field between two people does work]] — the Third Entity claim as that unit makes it

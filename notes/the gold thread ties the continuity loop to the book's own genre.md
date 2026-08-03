@@ -19,5 +19,7 @@ The gold thread carries the felt continuity that runs underneath the social self
 Relevant Notes:
 - [[four named units of the arc appear as pages inside the earliest edition's single chapter]] — the pages where this figure was first written
 
+- [[the gold thread is the rainbow thread re-owned]] — the figure's deepest layer: the seed's own page performs the transfer from a beloved's needle to the author's hand
+
 Topics:
 - [[book-structure]]

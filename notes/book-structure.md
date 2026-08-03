@@ -93,6 +93,7 @@ The provenance reconstruction of 2026-08-02 — an account of the corpus's makin
 - [[the corpus quotes the author's poems rather than the poems quoting the corpus]] — the primary layer: for the fifteen poems predating the book, shared phrases originate in the poem.
 - [[the earliest chapter was written through a voice distilled from the author's first fifteen poems]] — the documented method behind the seed's high-water voice.
 - [[the sixteenth poem returns the book's language to the life it came from]] — the flagged exception: the one book-era poem, carrying the vocabulary home.
+- [[the gold thread is the rainbow thread re-owned]] — the continuity figure's genealogy, one layer beneath the seed: a shared image, re-dyed.
 - [[a recorded reason drifts toward doctrine with distance from the decision]] — why a reason recorded in the later documents may not be the reason given at the time.
 
 ## The open territory
