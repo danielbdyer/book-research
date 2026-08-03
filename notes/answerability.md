@@ -14,8 +14,10 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 
 - [[a word at madhyama can be perfected forever a word at vaikhari can be answered]] — the distinction itself
 - [[the middle voice settles declaration against disclosure]] — the book's resolution of the speech-makes-reality versus speech-lets-reality-show dispute
+- [[werner erhard]] — the declarative pole of that dispute, seated for the mechanism and carrying its own standing danger
 - [[the book is a tuning fork and the reader is the striking surface]] — the image the book installs on page one to govern its ending and its publication
 - [[ripeness is not refrigeration]] — the corpus's rule against indefinite preservation of finished work
+- [[the book's doctrine of time restates a sentence the author's father told him]] — the inheritance beneath the temporal doctrines, and beneath the manuscript's unhurried condition
 - [[seventeen chapters rest at madhyama]] — the meta-tension: the manuscript's current state, and the pilot-chapter move
 - [[the whole arc has already been drafted once in prose]] — the fact that narrows that tension to its actual term, since a complete draft still rests at madhyamā
 - [[the drafts disagree about which person the book speaks in]] — the unsettled question of who the answerable speaker is
@@ -23,6 +25,9 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 - [[the treatment records four authorship conditions in its undercurrents]] — the author's recorded conditions bearing on which unit can be finished next
 - [[what is recognized cannot be un-recognized]] — the one place the corpus states the reading contract as two-sided, with a cost the reader is invited to accept
 - [[the fruit that falls is the word become deed]] — the release doctrine in the orchard's vocabulary
+- [[the sixteenth poem returns the book's language to the life it came from]] — the blade lived at the size of a text: the trembling as the sentence leaves the architecture
+- [[the book's native genre is the letter from a friend read alone]] — the genre whose every sentence expects an answer, and the medium of the event's one confirmed sighting
+- [[the perfectible conversation is the manuscript's most comfortable room]] — where the perfectible word actually lives, and the exit already sized
 
 ## Adjacent maps
 

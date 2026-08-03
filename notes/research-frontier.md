@@ -12,11 +12,15 @@ The survey closes on a quoted judgment: "the strongest finds were not new allies
 
 ## The survey's priority five
 
-1. [[gregory bateson]] — his double bind and levels of learning would underwrite three separate central pieces of the framework at once.
-2. [[ignatius of loyola]] — the Spiritual Exercises prove the book's central design gamble has a genre and a safety record.
-3. [[internal family systems]] — the closest clinical relative; the book needs a stated position relative to it.
-4. [[hartmut rosa]] — his concept of resonance, including its uncontrollability clause, completes the theory behind the book's closing image.
-5. [[felt shift versus felt confirmation]] — this one has graduated out of the frontier: it is already admitted as a tension. The survey ranks its "two sentences of humility" first because they "make every other claim in the book more believable" (space-around, priority list).
+Four were evaluated against their primary works on 2026-08-02 and now carry recommendations; the seats are the author's to assign, and the notes have moved to the evaluated group in [[interlocutors]].
+
+1. [[gregory bateson]] — evaluated. The learning levels and the double bind hold at the primary text; his refusal of conscious purpose makes him a counterweight rather than the ally the survey describes.
+2. [[ignatius of loyola]] — evaluated. The precedent holds and reads as a specification: the safety record was earned by a companion forbidden to persuade, and by either seclusion or nine months.
+3. [[internal family systems]] — evaluated. The correspondences hold, the executed draft is already using the vocabulary, and the evidence base is two randomized trials against the model's cultural weight.
+4. [[hartmut rosa]] — evaluated. The uncontrollability clause completes the tuning fork's theory, and his structural diagnosis is an objection to the book's scale of address.
+5. [[felt shift versus felt confirmation]] — this one has graduated out of the frontier: it is already admitted as a tension. The survey ranks its "two sentences of humility" first because they "make every other claim in the book more believable" (space-around, priority list). What remains is its sourcing in the processing-fluency and interoception literature, which is unresearched.
+
+The evaluations bumped four entries from the full queue to the front, each because a completed note now names it as the specific thing missing: Lisa Feldman Barrett (the counterweight to [[karla mclaren]]), Michael Polanyi and the wu wei literature via Slingerland (both now cited inside completed notes rather than only listed), and the shu-ha-ri material, which turned out to be half-answered by the executed draft ([[the practice forms specify when to begin and not how to tell one is finished]]).
 
 ## The full queue
 
@@ -39,7 +43,7 @@ Each open gesture from `ops/open corpus.md` has a nascent stub here, so the terr
 - [[the morning is where a day acquires its coherence]] — the scale of the day, missing between the moment and the season
 - [[a schedule can be aligned to the nervous system rather than to the clock]] — the step from diagnosing a loop to arranging a week
 - [[the sacred in the ordinary is produced by sensory design]] — arrangement as the cause of noticing rather than its object
-- [[a ritual can be designed to hold a self in place]] — steadiness built, against the Stance's steadiness returned to
+- [[a ritual can be designed to hold a self in place]] — steadiness built, against the basic posture's steadiness returned to
 - [[a person lives inside symbolic infrastructures they have built]] — the best-evidenced of the thirteen; the corpus has already read one
 - [[seasonal and weekly form can be templated]] — the artefact missing between the metabolic arc and a calendar
 - [[curating beauty is a practice rather than only a hazard]] — the positive register the vault's account of beauty lacks
@@ -50,7 +54,7 @@ Evaluated candidates move to [[interlocutors]] with a seat, or are declined with
 
 ## What an evaluation is
 
-Evaluating a candidate means: obtain and read the thinker's relevant primary work — the /learn command runs outward research and files what it finds into `inbox/`; write or complete the interlocutor note with the case for a seat, the case against, and the specific connections to existing claims; apply the admission standard (would this actually change how the project thinks?); and record the outcome in the note's `recommendation:` field, leaving `seat: candidate` until the author decides. Update the entry in `ops/queue/candidates.md` to its evaluated state so the recommendation surfaces for the author. Works consulted for an evaluation are cited inside the interlocutor note; only the project's own source documents get archive notes. A decline is recorded, not deleted.
+Evaluating a candidate means: obtain and read the thinker's relevant primary work — the /learn command runs outward research and files what it finds into `inbox/`; write or complete the interlocutor note with what the thinker holds in their own terms, what they would refuse, and the specific crossovers to existing claims; apply the admission standard (would this actually change how the project thinks?); and record the outcome in the note's `recommendation:` field, leaving `seat: candidate` until the author decides. Update the entry in `ops/queue/candidates.md` to its evaluated state so the recommendation surfaces for the author. Works consulted for an evaluation are cited inside the interlocutor note; only the project's own source documents get archive notes. A decline is recorded, not deleted.
 
 ## What remains
 

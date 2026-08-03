@@ -7,7 +7,7 @@ topics: ['[[container-anatomy]]', '[[book-structure]]']
 
 # the engine is a triadic theology in mechanic's clothing
 
-The engine carries the three loops, and the title's idiom — firing on all cylinders — names their integration. The figure's other face is the valley's: the three cylinders correspond to icchā, jñāna, and kriyā, the goddess's three powers of will, knowledge, and action, so the book's most mechanical image is also its most theological.
+The engine carries the three loops, and the title's idiom — firing on all cylinders — names their integration. The figure's other face is the Kashmir Śaiva tradition's: the three cylinders correspond to icchā, jñāna, and kriyā, the goddess's three powers of will, knowledge, and action, so the book's most mechanical image is also its most theological.
 
 ## Substantiation
 

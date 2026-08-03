@@ -22,6 +22,10 @@ The book's centerpieces are two, and the author's role is to get out of the way 
 
 This intentionally diverges from the corpus's weighting, and the divergence is one-directional: the corpus's deepest layer already states the decision — "There will be a Triad and a set of Primitives and a small chemistry of Molecules… None of these is the point. They are scaffolding. They are the wooden forms a craftsman uses to coax a curve into existence and then removes when the curve holds" (abridged: prologue) — while the corpus's page-count elaborates the system at length. **Volume in the corpus is not centrality in the book.** Semantic search, coverage tables, and "contested" markings all inherit the sources' volume, so an agent following the instruments will drift back toward the system. Where a source's emphasis conflicts with this directive, the directive wins.
 
+## Vocabulary note, added 2026-08-02
+
+The decision above is recorded in the terms it was issued in, including the corpus's own labels — the guild, the five rooms, the valley, the Stance. A later directive the same day, `naming and epistemic humility.md`, walks those labels back: they are candidate names for concerns rather than the concerns, and vault prose states the concern and attributes the label. That directive governs how this one's material is written up from here; this text is left as issued, because a record of an author decision is quoted rather than edited.
+
 ## Consequences for work
 
 1. **Research and extraction priority** runs the guild and the practice curriculum ahead of system detail: the five rooms, the coaches' five theories of suffering, the valley, and the convergences they carry; the Stance, the kata, and channeling as practices with verification conditions. The primitives, the molecule catalogue, and the engine detail are extracted as-needed — when a convergence or a practice requires the vocabulary — not as a program.

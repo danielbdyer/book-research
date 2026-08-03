@@ -25,6 +25,8 @@ Relevant Notes:
 
 - [[seasonal and weekly form can be templated]] — nascent; the form a season would take, constrained by this rule
 
+- [[the sixteenth poem returns the book's language to the life it came from]] — the distinction run on love itself: "love will sit in a drawer and wait for you… but current — current is tuesday" (poems #16); the rule's own referent, "the author's own archive of poems and drafts" (atlas §V.3), is now held at `sources/the poems.pdf`
+
 Topics:
 - [[answerability]]
 - [[methods]]

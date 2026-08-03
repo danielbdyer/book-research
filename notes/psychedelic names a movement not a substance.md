@@ -1,7 +1,7 @@
 ---
-description: The book reclaims the word psychedelic through its Greek roots, soul-manifesting, so that it names the movement of the concealed becoming visible — a movement the book locates in ordinary life rather than in drug states.
+description: The book reclaims the word psychedelic through its Greek roots, soul-manifesting, so that it names the concealed becoming visible — a movement located in ordinary life rather than in drug states.
 category: claim
-sources: ["atlas §I", "walked I", "first-telling: the word it reclaims"]
+sources: ["atlas §I", "walked I", "first-telling: the word it reclaims", "provenance addendum §4 (consulted, held outside sources/)"]
 topics: ["[[recognition]]"]
 ---
 
@@ -13,6 +13,7 @@ The reclaimed word does structural work: the corpus treats the movement it names
 
 ## Substantiation
 
+- The reclamation is autobiographical before it is etymological, and the hinge sentence is the author's own, dated eleven weeks before the retreat that enacted it: "Where I said before 'one good psychedelic trip is what I need' — that's what I need actually. To just be with the psyche until it becomes delic" (provenance addendum §4, quoting [D] 1 Jan 2026). The corpus presents the split as a recovered etymology; the record shows the author performing it first on their own life, in a thread about the year ahead.
 - Walked I: "psychē plus dēlos — soul-manifesting. Not trippy. Not chemical, except incidentally."
 - Atlas §I lists the word first among the three names the corpus gives this central process, before aletheia and pratyabhijñā.
 - First-telling, "The word it reclaims," carries the Tuesday formulation and connects the word to the book's structural secret (the reader undergoes the arc the word describes).

@@ -15,3 +15,5 @@ This is an author directive, issued 2026-08-01 during the initial derivation, gl
 4. **Applies forward.** All future notes, templates, skills, queries, and any /reseed or /refactor must preserve this polarity. When a skill's stock prose reaches for a narrative term as a key, substitute the denotative term and, if the figure is worth keeping, route it through the glossary.
 
 Rationale: the author works this vault as a *research* surface; a term like "porch" does not signify its concern (philosophical reference lineage) to a query, a script, or a future collaborator. The book's poetry is preserved where poetry belongs — in the graph, as content with sources.
+
+**Extended 2026-08-02.** This directive governs the reference surface. A second directive, `naming and epistemic humility.md`, extends the same polarity into prose — the concern leads and the corpus's name is attributed rather than adopted — and adds the epistemic clause this one lacks: a name is a candidate until the author settles it, and none is settled. Where the two overlap, they agree; where this one is silent, that one governs.

@@ -58,17 +58,33 @@ These describe the book from outside it.
 - [[source — the first telling]] — the book presented to its first reader. File: `sources/the first telling.pdf`. Cited as `first-telling`, with named sections: `first-telling: the offering`.
 - [[source — the space around]] — the outward survey that seeds the research frontier. File: `sources/the space around.pdf`. Cited as `space-around`, with the survey's section names and, where relevant, its direction labels: `space-around: around the instrument (counterweight)`.
 
+### Primary source (admitted 2026-08-03)
+
+The author's own prior work, upstream of the book, which the corpus quotes and descends from.
+
+- [[source — the poems]] — sixteen numbered poems written across the author's life; the layer beneath the seed, the figures, and the system. File: `sources/the poems.pdf`. Cited as `poems`, by number: `poems #5`, `poems #16`. Direction of quotation: for poems 1–15 the corpus quotes the poem; #16 is the author's flagged exception.
+
 ### Draft sources (three manuscript states, admitted 2026-08-01)
 
 These are the book rather than accounts of it. They are secondary by the author's instruction on submission: they argue the merits of their own ideas, and the vault reads those arguments as evidence that the book has made them, not as evidence that they are right.
 
 - [[source — the arc and the gloss]] — the storyboard treatment of the fifteen-chapter arc, second edition, five rooms integrated. File: `sources/the arc and the gloss - second edition.pdf`. Cited as `arc-gloss`, with named sections: `arc-gloss: overlay four`, `arc-gloss: ch4`. Upstream of the atlas and the walked document, which name it in their colophons.
 - [[source — the abridged edition]] — the fifteen-chapter arc executed in full prose. File: `sources/firing on all cylinders - abridged edition.pdf`. Cited as `abridged`, with chapter numbers and section names: `abridged ch6`, `abridged: a note on sources`.
-- [[source — the mythic operating system]] — a twenty-eight-chapter table of contents with one chapter written; the author's named high-water mark of voice. File: `sources/firing on all cylinders - a mythic operating system.pdf`. Cited as `mythic-os`, with section names and the written chapter's own page numbers: `mythic-os: contents`, `mythic-os: page 9`.
+- [[source — the mythic operating system]] — a twenty-eight-chapter table of contents with one chapter written; the author's named high-water mark of voice. File: `sources/firing on all cylinders - a mythic operating system.pdf`. Cited as `mythic-os`, with section names and the written chapter's own page numbers: `mythic-os: contents`, `mythic-os: page 9`. The provenance reconstruction dates this document to April 2025, making it the earliest datable state of the project rather than one draft among three.
+
+## Works consulted
+
+Documents read and cited that are not the project's own sources. They are quoted inside the notes that use them and get no archive note, following the rule in [[research-frontier]]: only the project's own source documents are seeded. The primary works behind the candidate evaluations are cited this way, inside each interlocutor note.
+
+Four are cited widely enough to state their form here: the **provenance reconstruction** (round one), **provenance reconstruction round two**, the **provenance addendum**, and **provenance addendum three** — accounts of how the corpus was made, commissioned by the author from an agent with access to their conversation threads. By author decision (2026-08-03) the four documents are held in `provenance/` with committed extractions; they remain consulted works rather than sources, and the reasoning is in `ops/methodology/source standing.md`. Each is cited by its own sections — `provenance reconstruction §1`, `provenance addendum three §4`, `provenance reconstruction: flagged overstatements` — and quotations from the record they retrieve carry the speaker mark and date they supply: `provenance reconstruction §1, quoting [D] 7 Jul 2026`. The admission of their personal material is governed by `ops/methodology/personal provenance.md`.
 
 ## What remains
 
 The pipeline has run one starter pass over the four descriptive sources and a first pass over the three drafts. The queue in `ops/queue/` enumerates the second-pass extractions and the candidate evaluations; `ops/goals.md` names the active threads. The largest unworked question the drafts raise is a reconciliation rather than an extraction: the abridged edition and the atlas describe the same book at different scopes and under different terms, and no document in `sources/` states which of their differences are revisions and which are simply two accounts.
+
+A second round of the same work, with an addendum built on the author's own testimony, added two more and filled a nascent stub: [[the central correspondence was lived nine years before it was assembled]], [[the triad predates the author's contact with the tradition named the triad]], and [[an externalized system can be built to hold a self rather than only its information]]. Both rounds are cited in the same form.
+
+The provenance reconstruction changes what the vault can say about its own sources, and four claims now carry that: [[the unanimity claim is an artifact of how the lineages were selected]], [[the figures precede the system by a year and the two were welded together later]], [[the author curated and vetoed while the collaborator wrote the correspondences]], and [[a recorded reason drifts toward doctrine with distance from the decision]]. Its own gaps ledger names eight things its search could not reach and is the natural basis for a second request.
 
 ---
 

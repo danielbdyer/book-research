@@ -27,5 +27,8 @@ Relevant Notes:
 - [[the sacred in the ordinary is produced by sensory design]] — nascent; whether the ordinary is noticed or arranged
 - [[seasonal and weekly form can be templated]] — nascent; the reusable form this doctrine would need to be practised
 
+- [[the sixteenth poem returns the book's language to the life it came from]] — the doctrine compressed to two words in the author's own poem: "current is tuesday" (poems #16)
+- [[a witness kept as proof forecloses what it proves]] — the doctrine's oldest emblem and its cost: jam on toast as "existential certitude in self-care… deep contentedness and fundamental worthiness" in a mundane act needing no audience, deferred for years while the proof stayed kept — "the man underneath gets his Tuesdays back" (provenance addendum four §I.3)
+
 Topics:
 - [[recognition]]

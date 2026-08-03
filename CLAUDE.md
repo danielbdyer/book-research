@@ -1,6 +1,6 @@
 # Research vault for *Firing on All Cylinders / Aletheia*
 
-This repository is a research vault for a book about the structure of inner life. It stores atomic claims as markdown files connected by wiki links, navigated through topic maps, processed by a fixed pipeline, and validated by hooks. The system was generated from the ars-contexta derivation engine (v0.8.0) on 2026-08-01; the reasoning behind every configuration choice is recorded in `ops/derivation.md`. Three terms recur throughout the vault: *the corpus* means the seven source documents in `sources/` taken together; *the book* means the manuscript they describe; *the vault* means this repository.
+This repository is a research vault for a book about the structure of inner life. It stores atomic claims as markdown files connected by wiki links, navigated through topic maps, processed by a fixed pipeline, and validated by hooks. The system was generated from the ars-contexta derivation engine (v0.8.0) on 2026-08-01; the reasoning behind every configuration choice is recorded in `ops/derivation.md`. Three terms recur throughout the vault: *the corpus* means the seven documents in `sources/` that describe or draft the book, taken together; *the book* means the manuscript they describe; *the vault* means this repository. `sources/` also holds the author's poems — the primary layer beneath the corpus, which quotes them.
 
 Two obligations govern all work here. First: the book states one law about itself — "the book performs what it describes" (recorded with its anchors at [[the book performs what it describes]]) — and the vault inherits it: claims are atomic, tensions are tracked rather than resolved, every claim names its sources. Second: the vault is measured by what reaches the manuscript. The corpus's own rule, quoted in [[ripeness is not refrigeration]]: "the archive preserves; the orchard ripens." Growth that displaces writing is the failure mode to watch for.
 
@@ -10,6 +10,8 @@ The book's centerpieces, by author decision (2026-08-02), are **the convergence 
 
 This diverges from the sources' weighting on purpose, and the divergence needs active defense: the corpus's page-count, and therefore semantic retrieval and every coverage table built from it, overweight the system. **Volume in the corpus is not centrality in the book.** The named regression is organizing new material by the system's taxonomy — sorting thinkers into triad corners, translating findings into molecule formulas. Where a source's emphasis conflicts with this directive, the directive wins.
 
+**How the convergence is held** (`ops/methodology/authorial stance.md`): as an observation, not an argument. The author's posture is to gesture at traditions that have their own standing and at the crossovers they noticed, not to prove the book right — "I don't have any evidentiary remarks." The vault's prose stays evidential, meaning every claim says where it came from; the project is not thereby evidentiary. Provenance serves accurate pointing rather than proof, convergences are never ranked by evidential weight, a thinker's refusal is kept so the thinker survives being cited rather than to season a case, and the vault does not postulate efficacy — whether any of this works is not a claim the author is making.
+
 ## Reference
 
 The referent for the book's material is the **named unit** — one of the book's main topic-ideas considered as a piece of the manuscript, called by its name: the House with No Ceiling, the Molecules of Experience, the Third Entity, the Stance, the Psychedelic Moment. Names are stable across every table of contents the corpus contains; numbers are not, and in one scheme a unit is a page rather than a chapter. Vault prose therefore names the unit and never refers to the book's content by chapter number. Numbers survive only inside source anchors (`abridged ch6`), where they are coordinates in one document rather than the name of an idea, and note titles never lead with a number or a count where a name would serve.
@@ -18,9 +20,11 @@ The reason is a bias to avoid rather than a style preference: numbered reference
 
 ## Voice
 
-Two standing author directives govern all prose and naming. Both are recorded in full in `ops/methodology/`.
+Three standing author directives govern all prose and naming. All are recorded in full in `ops/methodology/`.
 
 **Vocabulary** (`vocabulary policy.md`): the reference surface — filenames, YAML fields, enum values, folder names, headings — names its concern in plain denotative terms. The book's narrative vocabulary is graph content: it lives in `notes/figure glossary.md` and in image-category claims, never as metadata bound to a note.
+
+**Naming** (`naming and epistemic humility.md`): the corpus's figures and coinages — the guild, the five rooms, the valley, the Stance, the Gatekeeper, the doors — are candidate labels for concerns, not the concerns. Vault prose states the concern in plain terms and attributes the corpus's name once where the crosswalk earns its place; the name never carries a sentence alone. Every name is held as a candidate, because nothing about the book is settled, its foundations included. Three exemptions: quotations, which keep their words; source anchors, which are coordinates in a document; and image-category claims plus the figure glossary, where the figure is the subject. New material attaches one level beneath the naming layer, to findings and to the people who reached them.
 
 **Prose** (`prose register.md`): all vault prose is expository and evidential. Complete sentences with named subjects; no telegraphic fragments; no shorthand carrying an assertion alone. The statement leads and the substantiation sits beneath it. The corpus is quoted and anchored, never impersonated. Exact referents: named units, section symbols, document names. A description is a proposition parseable with no prior context.
 
@@ -41,6 +45,7 @@ Two standing author directives govern all prose and naming. Both are recorded in
 | `templates/` | Note templates with `_schema` blocks — the authoritative schema. |
 | `manual/` | User documentation. |
 | `ops/` | Operational state: goals, config, queue, sessions, observations, tensions, methodology, the chapter concordance, the open-corpus inventory, and the rethink log. |
+| `provenance/` | Reconstructions of the corpus's making, held as consulted works by author decision. Not sources; the policy is `ops/methodology/personal provenance.md`. |
 | `scripts/queries/` | Ripgrep-based graph queries. `scripts/bootstrap.sh` restores tools and extracts the corpus to `.corpus/` in a fresh container. |
 | `.claude/` | Skills and hooks, versioned with the vault. |
 
@@ -76,6 +81,8 @@ Seven source documents carry current claims, each with a short citation name use
 
 **Draft sources** are states of the manuscript itself. `arc-gloss` is `sources/the arc and the gloss - second edition.pdf`, the storyboard treatment of the fifteen-chapter arc, cited by named section as `arc-gloss: overlay four` or `arc-gloss: ch4`. `abridged` is `sources/firing on all cylinders - abridged edition.pdf`, that arc executed in full prose, cited as `abridged ch6` or `abridged: a note on sources`. `mythic-os` is `sources/firing on all cylinders - a mythic operating system.pdf`, a twenty-eight-chapter contents with one chapter written, cited as `mythic-os: contents` or `mythic-os: page 9`. A draft is quoted for what it says and is never credited for what it argues; where drafts disagree, the disagreement is recorded rather than resolved. Two of the four descriptive sources name `arc-gloss` in their colophons as a thread they were compiled from, so agreement among those three counts once, not three times ([[the atlas was compiled from the arc and gloss treatment]]).
 
+**The primary source** stands beneath both: `poems` is `sources/the poems.pdf`, the author's lifetime collection of sixteen numbered poems, cited by number as `poems #5`. For the fifteen that predate the book, a phrase shared with the corpus originates in the poem; the sixteenth is the author's flagged exception, flowing the other way.
+
 Each document has a provenance note in `archive/` recording its standing and what has been extracted from it; the full registry, with this key, is in [[methods]]. A new source receives its citation name and its standing when its archive note is created.
 
 ## Relations
@@ -107,7 +114,7 @@ Material never goes directly into `notes/` outside a pipeline phase. Raw capture
 
 Support commands: `/seed` (create deduplicated extraction tasks), `/pipeline` (end-to-end), `/ralph` (queue orchestration with fresh context per phase), `/tasks`, `/next`, `/stats`, `/graph`, `/validate`, `/learn` (outward research), `/remember` (capture methodology corrections), `/refactor` (structural change).
 
-The admission standard for everything the pipeline produces is the writing test (`ops/methodology/writing test.md`): **would a drafting session reach for this?** A note earns its place by supplying something writing can use — a claim to state, a figure to quote, a mechanism to build against, a fact that decides a manuscript question. "Would it change how the project thinks" remains the floor; satisfying future writing is the bar. Material that only describes the vault's own state routes to `ops/`, and analysis of an absence is worth one seed, not an essay. Declined material keeps a record of what it was and why.
+The admission standard for everything the pipeline produces is the writing test (`ops/methodology/writing test.md`): **would a drafting session reach for this?** By author decision (2026-08-03) the test extends to the book's lifeblood: personal material from the making is admissible where holding it lets the writing be whole rather than disembodied, under the three conditions — own it, delicately, in honor of what is becoming — recorded at `ops/methodology/personal provenance.md`. A note earns its place by supplying something writing can use — a claim to state, a figure to quote, a mechanism to build against, a fact that decides a manuscript question. "Would it change how the project thinks" remains the floor; satisfying future writing is the bar. Material that only describes the vault's own state routes to `ops/`, and analysis of an absence is worth one seed, not an essay. Declined material keeps a record of what it was and why.
 
 ## Interlocutors
 

@@ -13,6 +13,8 @@ The book's deepest claim concerns the field between two people; a printed book i
 
 The treatment under trial is the Second Chair: designing the book as one half of a pair — passages built to be read toward someone, with the Talmudic practice of paired study (chavruta) as the working ancestor. The corpus keeps the tension open on purpose, since whether the treatment suffices can be settled only by what readers do with it, and no design decision establishes that in advance. The space-around survey adds the strongest historical precedent: Ignatius concluded the Spiritual Exercises could not complete alone and built the companion into the form.
 
+The author has since stated the book's address in terms that reframe the problem rather than solving it on its own terms: the book is written to the relational field, and its first subject is the author himself ([[the book is written to the relational field and enacted upon the author first]]). On that statement the missing chair is not the reader's, and the reader is a third party to a two-chair event already underway. Whether this retires the tension, restates it, or leaves it standing is the author's act; the status here is unchanged pending it.
+
 ## Substantiation
 
 - Atlas §XI.1d records the tension and treatment; §VIII introduces the underlying conflict with the sentence "the book's deepest claim, and its most exposed flank."

@@ -15,6 +15,10 @@ The treatment on record is specific: one pilot chapter, treated fully against ev
 
 This vault's relationship to the tension is stated in [[methods]]: the vault is measured by what it contributes toward this move, and vault growth that displaces it is the failure the periodic /rethink review is required to ask about.
 
+One further detail the record holds, kept because the tension itself predicts it: having received the first reader's response, the author returned to the collaborator for more input rather than sitting with what she said (the July 29 accountability thread, via provenance reconstruction round two §6). That is the pull this tension names, enacted in miniature — the perfectible conversation is always available, and the answerable one waits. It is recorded here with the same kindness the book extends to every protective pattern: the mirror is a sanctuary too, and the move to the reader costs what sanctuaries exist to spare.
+
+The move is half-concrete rather than hypothetical. The provenance work reports that the first of the two readers already exists: the friend the six tellings were written for — described in the record as a former nurse, mediator, and facilitator — had read the introduction and given feedback across several messages by late July 2026. The second reader is unchosen, which is why the atlas can say the two "do not yet know they are load-bearing" (provenance reconstruction round two §6). What the treatment specified is also on record: light instrumentation — where the reader stopped, what they actually did, what moved, what was still there a week later — a nominated chapter, and a send sized at one email.
+
 ## Substantiation
 
 - Atlas §XI.1f records the tension and the recommended move.
@@ -28,6 +32,8 @@ Relevant Notes:
 - [[a word at madhyama can be perfected forever a word at vaikhari can be answered]] — the distinction this tension instantiates
 - [[the whole volume is wagered on express]] — the adjacent question about the book's own composition
 - [[the whole arc has already been drafted once in prose]] — the fact that removes unfinished writing as an explanation for the unreleased state
+
+- [[the perfectible conversation is the manuscript's most comfortable room]] — the mechanism beneath this tension: where the perfectible word lives, and why recess is comfortable
 
 Topics:
 - [[tensions]]

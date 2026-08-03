@@ -30,6 +30,11 @@ Open territory the corpus named and never developed, recorded so it is reachable
 - [[the sacred in the ordinary is produced by sensory design]] — nascent; whether the ordinary is noticed or arranged
 - [[a person lives inside symbolic infrastructures they have built]] — nascent; the corpus has read one such system already
 
+## The lifeblood
+
+- [[the founding inversion restates the author's own sufficiency inheritance]] — the reassurance the book leads with, practiced by the author against a perfectionist engine before it was doctrine.
+- [[the book's honest origin story is noticing first and finding company after]] — the recognition doctrine at the scale of authorship: the origin story that survives its own provenance, and doubles as the reader's invitation.
+
 ## Adjacent maps
 
 This concern borders [[contraction-not-corruption]], because the move from healing to recognition is what removes "broken" as a starting assumption. It borders [[answerability]], because the book claims recognition lands in reading only when the word is fully embodied. It borders [[relational-field]], because the same word (Hegel's *Anerkennung*, recognition) grounds the book's account of what two people do for each other.

@@ -31,6 +31,8 @@ Relevant Notes:
 - [[the book performs what it describes]] — the law that makes the choice of person a doctrinal question rather than a stylistic one
 - [[a codex is a one-chair technology making a two-chair argument]] — the sibling tension, where the same two-party problem appears at the level of the object rather than the sentence
 
+- [[the book's native genre is the letter from a friend read alone]] — a datum for this question rather than an answer: letters run I-to-you, and the event's one sighting ran on that axis
+
 Topics:
 - [[answerability]]
 - [[tensions]]

@@ -36,7 +36,7 @@ The corpus keeps the book honest with a specific apparatus: inhabited margins th
 
 ## The image system
 
-The corpus equips the book with paired figures, each equating an image, a concern, and a term of the valley's. Every figure is an image-category claim, quotable when drafting the unit it serves:
+The corpus equips the book with paired figures, each equating an image, a concern, and a term from the Kashmir Śaiva tradition. Every figure is an image-category claim, quotable when drafting the unit it serves:
 
 - [[the house with no ceiling is transcendence with plumbing]]
 - [[the orchard's koan is that composting is not death]]
@@ -81,6 +81,23 @@ The working structure recorded above is the atlas's, and the seventeen trial cha
 - [[the voice follows every reach with a release]] — the composure rhythm of the voice at its high-water mark
 - [[the voice names the move it has just made]] — how the earliest draft discharges the analytical reader's suspicion
 - [[the voice keeps the reader located in a walkable space]] — the house conceit working as navigation, page by page
+
+## How the material was made
+
+The provenance reconstruction of 2026-08-02 — an account of the corpus's making, commissioned by the author and held outside this repository — dates the corpus's layers against each other, which the seven documents themselves do not.
+
+- [[the figures precede the system by a year and the two were welded together later]] — the figures date to the April 2025 seed, the triad to a separate project that December, and July 2026 joined them.
+- [[the seed arrived in a season of burnout and container-building on every front]] — the conditions the earliest edition surfaced in, dated to the fortnight before its pages appear.
+- [[the book was written across the author's move to seattle to live in earnest]] — the life-arc the whole composition spans, from Houston training to Seattle rebuild.
+- [[the book's doctrine of time restates a sentence the author's father told him]] — the inheritance the temporal doctrines vary, entered by testimony.
+- [[the corpus quotes the author's poems rather than the poems quoting the corpus]] — the primary layer: for the fifteen poems predating the book, shared phrases originate in the poem.
+- [[the earliest chapter was written through a voice distilled from the author's first fifteen poems]] — the documented method behind the seed's high-water voice.
+- [[the sixteenth poem returns the book's language to the life it came from]] — the flagged exception: the one book-era poem, carrying the vocabulary home.
+- [[the gold thread is the rainbow thread re-owned]] — the continuity figure's genealogy, one layer beneath the seed: a shared image, re-dyed.
+- [[the book's honest origin story is noticing first and finding company after]] — the telling the dated record supports: noticed first, company after.
+- [[the book's native genre is the letter from a friend read alone]] — the genre datum from the one confirmed sighting of the book's promised event.
+- [[the making of the book enacts the law the book states]] — the design law's biography: container-built at every documented scale.
+- [[a recorded reason drifts toward doctrine with distance from the decision]] — why a reason recorded in the later documents may not be the reason given at the time.
 
 ## The open territory
 

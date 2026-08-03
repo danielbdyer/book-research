@@ -21,7 +21,7 @@ The sentence functions in the book as both epistemology and mechanism: it explai
 
 Relevant Notes:
 - [[nothing enters the lattice the body has not countersigned]] — the admission standard built on this finding
-- [[the stance is a point of return not a state]] — the practice posture that applies this finding continuously
+- [[the basic practice posture is a point of return rather than a state]] — the practice posture that applies this finding continuously
 
 Topics:
 - [[felt-shift]]

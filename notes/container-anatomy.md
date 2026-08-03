@@ -30,6 +30,10 @@ Open territory bearing on this anatomy that no document develops; each records w
 - [[a ritual can be designed to hold a self in place]] — nascent; whether an anchor is a container like any other
 - [[seasonal and weekly form can be templated]] — nascent; the form the metabolic arc does not supply
 
+## How the anatomy came about
+
+- [[the triad predates the author's contact with the tradition named the triad]] — the corners were axiomatized in December 2025, three months before the author's first formal contact with Kashmir Śaivism.
+
 ## Adjacent maps
 
 This concern borders [[contraction-not-corruption]], because the anatomy's failure modes are that map's subject. It borders [[interlocutors]], because the twenty-nine builders in the book's company are the anatomy's evidence base. It borders [[book-structure]], because the book's central conceit — a house the reader inhabits for sixteen days — is this anatomy made walkable.

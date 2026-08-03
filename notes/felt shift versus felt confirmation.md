@@ -24,6 +24,7 @@ The tension binds this vault as well as the book, and [[methods]] records the op
 Relevant Notes:
 - [[nothing enters the lattice the body has not countersigned]] — the standard whose limits this tension records
 - [[beauty recruits the wrong posture]] — the stylistic tension that overlaps with the counterfeit problem
+- [[surrender and will are adjudicated from the body rather than from doctrine]] — the load the corpus places on this instrument elsewhere, which these two limits bear on directly
 
 - [[curating beauty is a practice rather than only a hazard]] — nascent; the practice this counterfeiting mechanism argues against
 
