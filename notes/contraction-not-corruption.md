@@ -30,6 +30,7 @@ The formulas below are the book's canonical examples. Each is a separate claim b
 - [[the seed arrived in a season of burnout and container-building on every front]] — the burnout formula's grounding: written from inside the compound it analyzes
 - [[the messenger makes suffering unopened correspondence]] — the image that gives the formulas their questions
 - [[the racket is the attractor state with a salary]] — the image of the suffering the privation formulas cannot reach
+- [[the poems diagnose a caretaking that converts wanting into service]] — the burnout formula's compound named from inside, three times across the author's own collection, with its usefulness credited before its cost
 
 ## Adjacent maps
 

@@ -28,6 +28,7 @@ One consequence for this vault is recorded in [[methods]]: the vault verifies st
 - [[the closing prompt changes genre where the book turns to praxis]] — the instruction genre by which the executed draft asks the reader to check the body, and its limits
 - [[the cusp is the back door to the stance]] — the image of the demand that outruns preparation
 - [[the voice follows every reach with a release]] — the prose rhythm that makes room for the somatic check
+- [[the collection's last poem names its earlier ornateness as an evasion]] — the same concern reached from the writer's side rather than the reader's, in the author's own poems: an ornate surface that let longing arrive dressed
 
 ### Nascent stubs
 
