@@ -26,6 +26,12 @@ The corpus also stations a warning at this concern and credits it to Lacan: reco
 - [[recognition is the soul's reminder rather than the ego's reward]] — the positive form of the guard the atlas records only as Lacan's warning
 - [[what is recognized cannot be un-recognized]] — the cost the recognition promise implies, which only the earliest draft states
 - [[the house with no ceiling is transcendence with plumbing]] — the image that pre-loads this map's refusal of renunciation
+- [[the kashmir shaiva tradition is seated as watershed rather than as room]] — the tradition's standing in the book's architecture: drainage rather than membership
+- [[the open center is made possible by the three structures and identical with none of them]] — the site where the structural theory meets this map's concern under three names
+- [[the gap between two states is where the concealed shows itself]] — the junction teaching: disclosure lives at the crossing between states, interludes and ending included
+- [[the unfolding of the center is planted half-erased and finished at a mirror]] — the tradition's practice formula, carried as a planting rather than a citation
+- [[kshemaraja]] — the source tradition's condenser: the pocket summa and the planted formula are his
+- [[utpaladeva]] — the recognition philosophy's architect, anchoring the founding convergence from the tradition's side
 
 ### Nascent stubs
 
@@ -41,7 +47,7 @@ This concern borders [[contraction-not-corruption]], because the move from heali
 
 ## What remains
 
-Atlas §I presents the central process under three names; its own phrase for the arrangement is "one verb wearing three costumes." Only the first name's material has been extracted into claims here, and the remainder of §I is listed as a pending region in `ops/queue/extractions.md`. The space-around survey raises Jorge Ferrer's participatory pluralism as a direct challenge to the two-traditions-one-conclusion framing. Ferrer has not been researched for this project; he is on the pending-evaluation list in `ops/queue/candidates.md`.
+The central-process regions are extracted: atlas §I's three names ("one verb wearing three costumes") each hold claims here, and the Kashmir Śaiva material of atlas §IX.6 was worked 2026-08-03. What the valley still holds is queued elsewhere by design — the four upāyas travel with the practice curriculum's pass (`ops/queue/extractions.md`), and so'yam's choreography travels with the Courtyard overlay. The space-around survey raises Jorge Ferrer's participatory pluralism as a direct challenge to the two-traditions-one-conclusion framing. Ferrer has not been researched for this project; he is on the pending-evaluation list in `ops/queue/candidates.md`.
 
 ---
 
