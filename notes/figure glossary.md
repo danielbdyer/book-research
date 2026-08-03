@@ -32,6 +32,8 @@ The corpus speaks in figures; the vault's reference surface speaks in concerns. 
 | "walked. still true." | the /verify phase — the corpus's image of verification by use | atlas §X.6b |
 | the frank assessment | the /rethink phase | walked, colophon |
 
+One of the crosswalk's own terms has a prehistory outside the corpus. "Gravitational wells" was the author's organizing metaphor for core practices in their flourishing work of October 2024, nearly two years before the atlas took the image as its title and its architecture (provenance addendum §1). The figure was not coined for the atlas; it was carried into it.
+
 The atlas also uses a small notation set: ◉ marks a major mass, ⚡ a kept tension, ≈ an isomorph (the same structure in a different medium), ⊖ a privation (a diagnostic minus sign), ⟿ a feeds-into relation, and § a cross-link. The vault records these as tags in substantiation layers; the sentences around them state the relations in words.
 
 Figures that are book content rather than vault vocabulary — the image system's paired equations (the House with No Ceiling, the Orchard, the Gold Thread, the Ink That Listens, the Engine, the Fruit That Falls, the Gatekeeper, the Tuning Fork) — become claims of category `image`. All twelve now have notes — the eight carried figures and the second edition's four additions (the Circle, the Messenger, the Racket, the Cusp) — listed together in [[book-structure]].

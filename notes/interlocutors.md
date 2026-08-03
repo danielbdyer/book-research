@@ -57,6 +57,7 @@ The survey's top four, each read against the primary work 2026-08-02. Recommenda
 ### How the convergences came about
 
 - [[the unanimity claim is an artifact of how the lineages were selected]] — the lineages were gathered on one day for the property they are then reported to share.
+- [[the central correspondence was lived nine years before it was assembled]] — the Landmark Forum in 2017, which gives that curation a lived warrant without lifting the sampling limit.
 - [[the author curated and vetoed while the collaborator wrote the correspondences]] — the division of hands behind every correspondence in this map.
 
 ### Bearing on the roster

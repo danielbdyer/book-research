@@ -19,6 +19,12 @@ Regions of the seven source documents not yet extracted into claims.
 
 The territory the corpus has named and not developed is inventoried in `ops/open corpus.md`, which reads the atlas's thirteen sections and the mythic operating system edition's twenty-eight named units as a coverage map. Thirteen of those units are open in the sense of having a name and nothing else; the atlas holds the head of nearly every section with the body of almost none. An entry there becomes work by being written into this file as a task with a source location. The two files divide the labour: that one records what exists and how far it has been explored, this one records what has been picked up.
 
+## The seventeen trial chapters — locatable, not held (added 2026-08-02)
+
+The corpus cites "the seventeen trial chapters" constantly and `sources/` has never held them. The provenance work establishes they exist as files: they were written as markdown output in the early-July 2026 drafting thread, the session closing on "Seventeen files — Prologue through Epilogue, one house," and they were downloaded and re-uploaded by hand to at least two later sessions — the 7–10 July evaluation and the 12 July authorship session, the latter taking nineteen files, being the seventeen plus the second-edition treatment and the valley letter (provenance reconstruction round two §5).
+
+- [ ] Obtain the seventeen chapter files from local storage and seed them under `/seed`. They are the reference text the drafts and the descriptive sources both point at, and every reconciliation currently blocked in `ops/chapter concordance.md` runs through them. Two documents already identified in the same set are also absent and worth taking together: **The Third Drawer** (`the_third_drawer_ontology_of_authorship.md`, 12 July 2026 — the ontology of how the book is authored, distinct from the older molecular ontology) and **the valley letter** (`the_second_arc_of_the_pulse.md`, 7 July 2026 — the extended Kashmir Śaiva teaching, written at the author's request to be taught "as if I'm still an initiate").
+
 ## The three drafts (added 2026-08-01)
 
 These have draft standing under `ops/methodology/source standing.md`. Extracting from them means recording what the draft states and where, without inheriting the draft's own advocacy; where a draft disagrees with a descriptive source, the disagreement is the extraction rather than a correction to either.

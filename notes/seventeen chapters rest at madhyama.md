@@ -15,6 +15,8 @@ The treatment on record is specific: one pilot chapter, treated fully against ev
 
 This vault's relationship to the tension is stated in [[methods]]: the vault is measured by what it contributes toward this move, and vault growth that displaces it is the failure the periodic /rethink review is required to ask about.
 
+The move is half-concrete rather than hypothetical. The provenance work reports that the first of the two readers already exists: the friend the six tellings were written for — described in the record as a former nurse, mediator, and facilitator — had read the introduction and given feedback across several messages by late July 2026. The second reader is unchosen, which is why the atlas can say the two "do not yet know they are load-bearing" (provenance reconstruction round two §6). What the treatment specified is also on record: light instrumentation — where the reader stopped, what they actually did, what moved, what was still there a week later — a nominated chapter, and a send sized at one email.
+
 ## Substantiation
 
 - Atlas §XI.1f records the tension and the recommended move.

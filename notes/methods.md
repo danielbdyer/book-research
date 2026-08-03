@@ -76,6 +76,8 @@ One is cited widely enough to state its form here. The **provenance reconstructi
 
 The pipeline has run one starter pass over the four descriptive sources and a first pass over the three drafts. The queue in `ops/queue/` enumerates the second-pass extractions and the candidate evaluations; `ops/goals.md` names the active threads. The largest unworked question the drafts raise is a reconciliation rather than an extraction: the abridged edition and the atlas describe the same book at different scopes and under different terms, and no document in `sources/` states which of their differences are revisions and which are simply two accounts.
 
+A second round of the same work, with an addendum built on the author's own testimony, added two more and filled a nascent stub: [[the central correspondence was lived nine years before it was assembled]], [[the triad predates the author's contact with the tradition named the triad]], and [[an externalized system can be built to hold a self rather than only its information]]. Both rounds are cited in the same form.
+
 The provenance reconstruction changes what the vault can say about its own sources, and four claims now carry that: [[the unanimity claim is an artifact of how the lineages were selected]], [[the figures precede the system by a year and the two were welded together later]], [[the author curated and vetoed while the collaborator wrote the correspondences]], and [[a recorded reason drifts toward doctrine with distance from the decision]]. Its own gaps ledger names eight things its search could not reach and is the natural basis for a second request.
 
 ---
