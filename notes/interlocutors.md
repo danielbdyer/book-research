@@ -69,7 +69,7 @@ The survey's top four, each read against the primary work 2026-08-02. Recommenda
 
 Notes are created for these thinkers when existing or new claims need them; until then this roster locates them, one line per seat, with the corpus's counts.
 
-- **facilitation.** The Authentic Relating and Circling lineages — the author's own professional practice, written into the book.
+- **facilitation.** The Authentic Relating and Circling lineages — the author's own practice, written into the book. The corpus calls it professional; what is established is that the author trained as an Authentic Relating facilitator in Houston, held a facilitation community there before moving to Seattle, and has hosted at scale since — an event of roughly thirty-five people in May 2026, run from a script of five agreements, trio rotations with a witness role, and a closing circle (author statement, 2026-08-02; provenance reconstruction round two §2).
 - **emotion-work.** Karla McLaren.
 - **speech-acts.** Austin, Erhard, Flores, and Dreyfus, with Heidegger anchoring the group, plus one warning the corpus records in its own words: "declaration-as-vestment — the declared self worn as costume, transformation performed rather than undergone" (atlas §IX.3).
 - **container-makers (29 in the corpus's count: 28 named practitioners plus the book itself, which holds the axis position of selfhood cohering as container).** Alexander, Meadows, Akomolafe, Gendlin, McGilchrist, Carse, Whyte, O'Donohue, Oliver, Berry, brown, Parker, Scharmer, Palmer, Kimmerer, Oxman, Matuschak, Appleton, Brander, Hudson, Jeong Kwan, Le Guin, Eno, Brand, hooks, Freire, Rohr, Tippett.
