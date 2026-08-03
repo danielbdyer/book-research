@@ -1,5 +1,5 @@
 ---
-description: This map gathers the book's verification standard, that a claim about inner life counts only when it produces a felt somatic confirmation, together with the documented limits of that instrument.
+description: This map gathers the book's verification standard — a claim counts only when it produces a felt somatic confirmation — and the lived-practice curriculum built on it, with the instrument's documented limits.
 type: moc
 topics: ["[[index]]"]
 ---
@@ -43,7 +43,7 @@ This concern borders [[relational-field]], because the book uses the field as a 
 
 ## What remains
 
-The space-around survey proposes four candidates that bear directly on this map, none yet researched: Polanyi's tacit knowing, William James's account of the vague, Gendlin's own Thinking at the Edge method, and Petitmengin's micro-phenomenology. All four are on the pending-evaluation list in `ops/queue/candidates.md`.
+This map's own live question is the instrument's counterweights: grounding [[felt shift versus felt confirmation]] in the processing-fluency and interoception literature is the priority five's last open member. Beyond it, the space-around survey proposes four candidates that bear directly on this map, none yet researched — Polanyi's tacit knowing, William James's account of the vague, Gendlin's own Thinking at the Edge method, and Petitmengin's micro-phenomenology — on the pending-evaluation list in `ops/queue/candidates.md`, which is deliberately long.
 
 ---
 

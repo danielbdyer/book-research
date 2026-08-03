@@ -66,14 +66,25 @@ fi
 
 # ── Context injection (stdout → conversation) ──────────────────
 
+# Orientation first: the center, the reading order, and the torch. Injected
+# before everything else so the session meets the center before the backlog.
+if [ -f ops/orientation.md ]; then
+  cat ops/orientation.md
+  echo ""
+  echo "---"
+  echo ""
+fi
+
 echo "## Workspace Structure"
 echo ""
 
 # Show directory tree (3 levels deep, markdown files only)
 if command -v tree &> /dev/null; then
-    tree -L 3 --charset ascii -I '.git|node_modules' -P '*.md' .
+    # PDFs and scripts are shown so sources/ and scripts/ are not invisible;
+    # --filelimit keeps notes/ as a count instead of an alphabetized dump.
+    tree -L 3 --charset ascii -I '.git|node_modules' -P '*.md|*.pdf|*.sh' --filelimit 20 .
 else
-    find . -name "*.md" -not -path "./.git/*" -not -path "*/node_modules/*" -maxdepth 3 | sort | while read -r file; do
+    find . \( -name "*.md" -o -name "*.pdf" -o -name "*.sh" \) -not -path "./.git/*" -not -path "*/node_modules/*" -maxdepth 3 | sort | while read -r file; do
         depth=$(echo "$file" | tr -cd '/' | wc -c)
         indent=$(printf '%*s' "$((depth * 2))" '')
         basename=$(basename "$file")
@@ -85,11 +96,15 @@ echo ""
 echo "---"
 echo ""
 
-# Previous session state (continuity)
-if [ -f ops/sessions/current.json ]; then
-  echo "--- Previous session context ---"
-  cat ops/sessions/current.json
-  echo ""
+# Previous session continuity: the newest completed entry carries content,
+# where the session-tracker JSON carries only an id and a timestamp.
+if [ -f ops/completed.md ]; then
+  LAST_DONE=$(grep -m1 '^- 20' ops/completed.md)
+  if [ -n "$LAST_DONE" ]; then
+    echo "--- Previous session (newest entry in ops/completed.md) ---"
+    echo "$LAST_DONE"
+    echo ""
+  fi
 fi
 
 # Persistent working memory (goals)
@@ -107,10 +122,12 @@ if [ -f self/identity.md ]; then
   echo ""
 fi
 
-# Standing methodology notes (most recent five: name and description line)
+# Standing methodology notes (all of them: name and description line). The
+# directive layer is small and load-bearing, so no cap and no mtime lottery —
+# a five-file cap once let the center-of-gravity directive fall off the list.
 if ls ops/methodology/*.md >/dev/null 2>&1; then
   echo "--- Methodology notes (ops/methodology/) ---"
-  ls -t ops/methodology/*.md 2>/dev/null | head -5 | while IFS= read -r f; do
+  ls -t ops/methodology/*.md 2>/dev/null | while IFS= read -r f; do
     DESC=$(grep -m1 '^description: ' "$f" | sed 's/^description: //')
     echo "$(basename "$f"): ${DESC}"
   done
@@ -128,25 +145,31 @@ if [ -f ops/reminders.md ]; then
 fi
 
 # Condition-based maintenance signals
+FIRED=0
 OBS_COUNT=$(ls -1 ops/observations/*.md 2>/dev/null | wc -l | tr -d ' ')
-TENS_COUNT=$(ls -1 ops/tensions/*.md 2>/dev/null | wc -l | tr -d ' ')
+TENS_COUNT=$(ls -1 ops/tensions/*.md 2>/dev/null | grep -v README | wc -l | tr -d ' ')
 SESS_COUNT=$(ls -1 ops/sessions/*.json 2>/dev/null | grep -v current | wc -l | tr -d ' ')
-INBOX_COUNT=$(ls -1 inbox/*.md 2>/dev/null | wc -l | tr -d ' ')
+INBOX_COUNT=$(ls -1 inbox/*.md 2>/dev/null | grep -v README | wc -l | tr -d ' ')
 
 if [ "$OBS_COUNT" -ge 10 ]; then
   echo "CONDITION: $OBS_COUNT pending observations. Consider /rethink."
+  FIRED=1
 fi
 if [ "$TENS_COUNT" -ge 5 ]; then
   echo "CONDITION: $TENS_COUNT unresolved tensions. Consider /rethink."
+  FIRED=1
 fi
 if [ "$SESS_COUNT" -ge 5 ]; then
   echo "CONDITION: $SESS_COUNT unprocessed sessions. Consider /remember --mine-sessions."
+  FIRED=1
 fi
 if ! command -v qmd >/dev/null 2>&1; then
   echo "CONDITION: qmd is not installed in this container. Run scripts/bootstrap.sh to restore semantic search."
+  FIRED=1
 fi
 if [ "$INBOX_COUNT" -ge 3 ]; then
   echo "CONDITION: $INBOX_COUNT items in inbox. Consider /reduce or /pipeline."
+  FIRED=1
 fi
 
 # Workboard reconciliation
@@ -164,6 +187,12 @@ if [ -d ops/methodology ] && [ -f ops/config.yaml ]; then
     DAYS_STALE=$(( (CONFIG_MTIME - METH_MTIME) / 86400 ))
     if [ "$DAYS_STALE" -ge 30 ]; then
       echo "CONDITION: Methodology notes are ${DAYS_STALE}+ days behind config changes. Consider /rethink drift."
+      FIRED=1
     fi
   fi
+fi
+
+# Silence is a state, not a gap: say so, so quiet channels are not misread.
+if [ "$FIRED" -eq 0 ]; then
+  echo "MAINTENANCE: all conditions checked and quiet — the healthy state. The pending lists in ops/queue/ are deliberately long and are not a fired condition."
 fi

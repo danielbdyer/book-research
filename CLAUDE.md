@@ -30,9 +30,9 @@ Three standing author directives govern all prose and naming. All are recorded i
 
 ## Session rhythm
 
-- **Orient.** The SessionStart hook injects the file tree, the goals file, and any maintenance conditions. Read `ops/goals.md` before acting; factor fired conditions into what is proposed.
+- **Orient.** The SessionStart hook injects `ops/orientation.md` first — the center, the reading order, and the torch — then the file tree, the goals file, the methodology descriptions, and any maintenance conditions. Read the orientation and `ops/goals.md` before acting; factor fired conditions into what is proposed, and read silence as health — the hook says so explicitly when nothing fires. Before treating an apparent inconsistency as work, check `ops/decisions.md`.
 - **Work.** Route material through the pipeline below. Templates are the schema's source of truth; structure is never invented mid-task.
-- **Persist.** Before ending: update `ops/goals.md`; capture operational friction into `ops/observations/`; the auto-commit hook records the rest.
+- **Persist.** Before ending: update `ops/goals.md`; add the session's entry to `ops/completed.md` with paths to what it produced; keep `ops/orientation.md` current where the session moved the center; capture operational friction into `ops/observations/`; the auto-commit hook records the rest.
 
 ## Layout
 
@@ -44,7 +44,7 @@ Three standing author directives govern all prose and naming. All are recorded i
 | `archive/` | Source notes: provenance records for processed material, pointing into `sources/`. |
 | `templates/` | Note templates with `_schema` blocks — the authoritative schema. |
 | `manual/` | User documentation. |
-| `ops/` | Operational state: goals, config, queue, sessions, observations, tensions, methodology, the chapter concordance, the open-corpus inventory, and the rethink log. |
+| `ops/` | Operational state: the orientation surface, goals, the completed log, the decisions register, config, queue, sessions, observations, tensions, methodology, the chapter concordance, the open-corpus inventory, and the rethink log. |
 | `provenance/` | Reconstructions of the corpus's making, held as consulted works by author decision. Not sources; the policy is `ops/methodology/personal provenance.md`. |
 | `scripts/queries/` | Ripgrep-based graph queries. `scripts/bootstrap.sh` restores tools and extracts the corpus to `.corpus/` in a fresh container. |
 | `.claude/` | Skills and hooks, versioned with the vault. |
@@ -157,6 +157,9 @@ Maintenance is condition-based. The session-orient hook counts and reports the f
 | Raw unprocessed material | `inbox/` |
 | A source document | `sources/`, plus an archive note |
 | Active threads | `ops/goals.md` |
+| The current center, reading order, and torch | `ops/orientation.md` |
+| A finished piece of work, dated | `ops/completed.md`, with paths to what it produced |
+| A question that has been closed | `ops/decisions.md`, one row, pointing at the reasoning |
 | Friction with the vault's process | `ops/observations/` |
 | The vault contradicting its own rules | `ops/tensions/` |
 | A methodology correction ("always X") | `ops/methodology/`, via /remember |
