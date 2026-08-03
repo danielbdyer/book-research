@@ -57,6 +57,20 @@ The survey's top four, each read against the primary work 2026-08-02. Recommenda
 - [[internal family systems]] — recommended reference-lineage, with the larger half of the finding elsewhere: the executed draft already uses Schwartz's vocabulary without stating a position.
 - [[hartmut rosa]] — recommended reference-lineage, seated twice: the tuning fork's completed theory, and a name for the position the corpus carries anonymously as the material voice.
 
+The crossover cluster, evaluated 2026-08-03 at the author's direction as background for the core-thesis candidate; shared provenance at `archive/research — crossover cluster background.md`:
+
+- [[henry corbin]] — the nearest footstep: Heidegger's key carried into Persian illuminationism, one-way and said so.
+- [[j l mehta]] — the standing refusal of the shortcut; the long way back as the road's mirror image.
+- [[john caputo]] — Gelassenheit traced to Eckhart, with his own later warning kept beside the finding.
+- [[the kyoto school]] — Nishitani under Heidegger, and Ueda ending the closest comparison by recording a difference.
+- [[isabelle ratie]] — the scholarly warrant that the recognition tradition argues and can argue back.
+- [[david peter lawrence]] — the treatise-as-practice precedent, and the proof-road the author declined.
+- [[loriliai biernacki]] — the crossover's living developer, whose theoretical destination leaves the practice lane open.
+- [[michel henry]] — the phenomenology nearest vimarśa; the pairing itself possibly open territory.
+- [[steven katz]] — the constructivist opponent, who breaks only the book already declined.
+- [[thomas sheehan]] — the deflationary guard, anchored in Heidegger's own 1964 retraction.
+- [[andrea jain]] — gestural subversion: the stewardship test that sincerity cannot pass alone.
+
 ### How the convergences came about
 
 - [[the unanimity claim is an artifact of how the lineages were selected]] — the lineages were gathered on one day for the property they are then reported to share.

@@ -36,7 +36,8 @@ The corpus also stations a warning at this concern and credits it to Lacan: reco
 - [[martin heidegger]] — the central verb's source, with his own four refusals and the associations named at the door
 - [[both poles of the convergence refuse the engineered epiphany]] — the foundations agree one step further: the apparatus can prepare and cannot cause
 - [[both poles of the convergence supply their own front doors]] — the accessible entries each tradition wrote for itself
-- [[the crossover has footsteps and the book already seats some of the walkers]] — the field around the core-thesis candidate, Corbin's footsteps nearest
+- [[the crossover has footsteps and the book already seats some of the walkers]] — the field around the core-thesis candidate, verified 2026-08-03: the spine held, and every careful walker recorded a difference
+- [[reading as remembering has a twenty-four-century ancestry in the west]] — Meno to Confessions X to the Parmenides lectures, sharing the gesture and disputing the destination
 
 ### Nascent stubs
 
