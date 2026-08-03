@@ -10,6 +10,7 @@ These are **works consulted, not sources**. They are about the making of the sev
 | `provenance of the corpus round two.pdf` | `provenance reconstruction round two` | The fixture points: the ontology and sister project, the workshop, Trika, the coaches, the four unidentified things, two people, the seed. |
 | `provenance round two addendum.pdf` | `provenance addendum` | Built on the author's testimony: the Tana lineage, the Hridaya retreat, Landmark 2017, the psychedelic reclamation, the self-story strand. |
 | `provenance third addendum.pdf` | `provenance addendum three` | Flourishing, flow, and facilitation as three tributaries converging on one stance; the return-changed motif, dated and attributed. |
+| `provenance fourth addendum.pdf` | `provenance addendum four` | The Alise thread: the shared metaphors — the rainbow thread and the needle, patriotism for oneself, the jam — and the long work of coming home to one's own flag. |
 
 Section citations follow each document's own structure: `provenance reconstruction §1`, `provenance addendum three §4`, `provenance reconstruction: flagged overstatements`. Quotations from the record carry the speaker mark and date the documents supply: `[D] 7 Jul 2026` for the author, `[C]` for the collaborator.
 
