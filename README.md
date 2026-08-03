@@ -4,8 +4,8 @@ This repository is a research vault for *Firing on All Cylinders / Aletheia*, a 
 
 ## Where to start
 
-- **Agents** receive `CLAUDE.md` automatically; it defines the vault's terms, schema, pipeline, and standing policies. The SessionStart hook injects the file tree, the active goals, and any maintenance conditions.
-- **Readers** start at `notes/index.md`, the entry point listing the six doctrine maps and six structural maps, then `notes/methods.md` for the working rules and the source registry.
+- **Agents** receive `CLAUDE.md` automatically; it defines the vault's terms, schema, pipeline, and standing policies. The SessionStart hook injects `ops/orientation.md` first — the center, the reading order, and the torch — then the file tree, the active goals, and any maintenance conditions.
+- **Readers** start at `notes/index.md`, which leads with the book's center and lists the six doctrine maps and six structural maps, then `notes/methods.md` for the working rules and the source registry.
 - **The manual** is at `manual/manual.md`: first session, command reference, workflows, configuration, troubleshooting.
 
 ## Layout
@@ -18,10 +18,11 @@ This repository is a research vault for *Firing on All Cylinders / Aletheia*, a 
 | `inbox/` | Capture; processed out by the pipeline. |
 | `templates/` | The authoritative note schemas. |
 | `manual/` | User documentation. |
-| `ops/` | Goals, configuration, work queues, and the standing author policies. |
+| `ops/` | Orientation, goals, decisions, configuration, work queues, and the standing author policies. |
+| `provenance/` | Reconstructions of the corpus's making, held as works consulted by author decision. |
 | `scripts/` | Graph queries and `bootstrap.sh`, which restores tools (tree, qmd) in a fresh container. |
 | `.claude/` | The sixteen pipeline skills and three hooks, versioned with the vault. |
 
 ## Current state
 
-Generated 2026-08-01 from four source documents, followed by a starter extraction pass (roughly forty notes) and a five-auditor quality pass. The pending work is enumerated in `ops/queue/candidates.md` (about sixty thinker and concept evaluations, none yet researched) and `ops/queue/extractions.md` (the source regions not yet extracted). The active threads are in `ops/goals.md`; the /next command recommends what to do first.
+The durable statement of what the work is centrally about is `ops/orientation.md`, kept current session by session; the active threads are in `ops/goals.md`, the dated log of finished work in `ops/completed.md`, and the settled questions in `ops/decisions.md`. The pending lists in `ops/queue/` are deliberately long — they enumerate the field, not the current task. The vault was generated 2026-08-01 from four source documents; the registry now holds eight — four descriptive, three manuscript drafts, and the author's poems as the primary source beneath them — with per-source extraction state recorded in `archive/`.

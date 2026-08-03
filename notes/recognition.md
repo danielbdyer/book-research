@@ -10,6 +10,11 @@ This map gathers the book's central concern. Two traditions with no historical c
 
 The corpus also stations a warning at this concern and credits it to Lacan: recognition can be taken over by the ego. The atlas states the warning as a guardrail in imperative form — "watch what the recognition is used for" (atlas §IX.5) — and groups it with Nāgārjuna's and Rieff's warnings as the three guards the book keeps against counterfeit transcendence. The other two are recorded in [[tensions]].
 
+## The lifeblood
+
+- [[the book's honest origin story is noticing first and finding company after]] — the recognition doctrine at the scale of authorship: the origin story that survives its own provenance, and doubles as the reader's invitation.
+- [[the founding inversion restates the author's own sufficiency inheritance]] — the reassurance the book leads with, practiced by the author against a perfectionist engine before it was doctrine.
+
 ## Claims in this map
 
 - [[psychedelic names a movement not a substance]] — the reclaimed word that names the project's central process
@@ -29,11 +34,6 @@ Open territory the corpus named and never developed, recorded so it is reachable
 - [[metaphor is a faculty that weaves a self rather than a device that decorates one]] — nascent; whether the reader has a figurative faculty of their own
 - [[the sacred in the ordinary is produced by sensory design]] — nascent; whether the ordinary is noticed or arranged
 - [[a person lives inside symbolic infrastructures they have built]] — nascent; the corpus has read one such system already
-
-## The lifeblood
-
-- [[the founding inversion restates the author's own sufficiency inheritance]] — the reassurance the book leads with, practiced by the author against a perfectionist engine before it was doctrine.
-- [[the book's honest origin story is noticing first and finding company after]] — the recognition doctrine at the scale of authorship: the origin story that survives its own provenance, and doubles as the reader's invitation.
 
 ## Adjacent maps
 

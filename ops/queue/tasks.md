@@ -4,11 +4,13 @@ The working queue the /tasks, /next, and /ralph commands read. Entries reference
 
 ## Open
 
-- [ ] Evaluate the four candidates whose notes exist but whose evaluations have not been run: Bateson, Ignatius, Internal Family Systems, Rosa (see `candidates.md`, priority section). None has been researched beyond what the survey says.
-- [ ] Run /verify across the generated vault and fix anything it reports.
-- [ ] Refresh the qmd index after the next substantial batch of notes (`qmd update && qmd embed`).
+- [ ] Seat or decline the four evaluated candidates — Bateson, Ignatius, Internal Family Systems, Rosa — whose recommendations are recorded in `candidates.md` (priority section). The seating decision is the author's; the vault's part is done.
+- [ ] Source the instrument's counterweights in the processing-fluency and interoception literature (`candidates.md`, priority section, the last open member of the priority five).
+- [ ] After the next substantial batch of notes, refresh the qmd index (`qmd update && qmd embed`) — recurring; never checked off.
 
 ## Completed
 
+- [x] 2026-08-02 — The four priority candidates evaluated against primary works; recommendations recorded, awaiting the author's decision (`ops/completed.md`).
+- [x] 2026-08-02 — /verify across the generated vault, leaving it fully schema-valid (`ops/completed.md`).
 - [x] 2026-08-01 — Starter extraction pass across all four sources.
 - [x] 2026-08-01 — Full register retread of all generated material under the four author directives.

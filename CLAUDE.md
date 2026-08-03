@@ -30,9 +30,9 @@ Three standing author directives govern all prose and naming. All are recorded i
 
 ## Session rhythm
 
-- **Orient.** The SessionStart hook injects the file tree, the goals file, and any maintenance conditions. Read `ops/goals.md` before acting; factor fired conditions into what is proposed.
+- **Orient.** The SessionStart hook injects `ops/orientation.md` first — the center, the reading order, and the torch — then the file tree, the goals file, the methodology descriptions, and any maintenance conditions. Read the orientation and `ops/goals.md` before acting; factor fired conditions into what is proposed, and read silence as health — the hook says so explicitly when nothing fires. Before treating an apparent inconsistency as work, check `ops/decisions.md`.
 - **Work.** Route material through the pipeline below. Templates are the schema's source of truth; structure is never invented mid-task.
-- **Persist.** Before ending: update `ops/goals.md`; capture operational friction into `ops/observations/`; the auto-commit hook records the rest.
+- **Persist.** Before ending: update `ops/goals.md`; add the session's entry to `ops/completed.md` with paths to what it produced; keep `ops/orientation.md` current where the session moved the center; capture operational friction into `ops/observations/`; the auto-commit hook records the rest.
 
 ## Layout
 
@@ -44,7 +44,7 @@ Three standing author directives govern all prose and naming. All are recorded i
 | `archive/` | Source notes: provenance records for processed material, pointing into `sources/`. |
 | `templates/` | Note templates with `_schema` blocks — the authoritative schema. |
 | `manual/` | User documentation. |
-| `ops/` | Operational state: goals, config, queue, sessions, observations, tensions, methodology, the chapter concordance, the open-corpus inventory, and the rethink log. |
+| `ops/` | Operational state: the orientation surface, goals, the completed log, the decisions register, config, queue, sessions, observations, tensions, methodology, the chapter concordance, the open-corpus inventory, and the rethink log. |
 | `provenance/` | Reconstructions of the corpus's making, held as consulted works by author decision. Not sources; the policy is `ops/methodology/personal provenance.md`. |
 | `scripts/queries/` | Ripgrep-based graph queries. `scripts/bootstrap.sh` restores tools and extracts the corpus to `.corpus/` in a fresh container. |
 | `.claude/` | Skills and hooks, versioned with the vault. |
@@ -87,7 +87,7 @@ Each document has a provenance note in `archive/` recording its standing and wha
 
 ## Relations
 
-The atlas ships a notation set the vault records but does not lean on: ≈ isomorph (the same structure arrived at in a different medium — the corpus's strongest evidence class), ⚡ kept tension, ⊖ privation, ⟿ feeds-into. The relation is always stated in words in the link gloss; the glyph may tag it. Tension claims carry status and treatment; resolving one is the author's act, never the vault's.
+The atlas ships a six-glyph notation set the vault records but does not lean on: ◉ major mass, ⚡ kept tension, ≈ isomorph (the same structure arrived at in a different medium — the corpus's strongest evidence class), ⊖ privation, ⟿ feeds-into, § cross-link. The relation is always stated in words in the link gloss; the glyph may tag it, and in practice the vault's glosses are words alone — a glyph's absence is compliance, not neglect. The notation's standing is a settled decision: the reasoning is in `ops/rethink-log.md` and the closure is indexed in `ops/decisions.md`. Tension claims carry status and treatment; resolving one is the author's act, never the vault's.
 
 **Revision relations.** The atlas's set has no edge for the relation between two states of the same element, which is the relation the three draft sources are full of. The vault adds five directed relation names for it, each naming an element and two document states: **carried unchanged into**, **revised into**, **compressed into**, **dropped at**, and **added at**. They take no glyph, deliberately: the atlas did not ship one, and a vault-invented symbol in a corpus notation set would misrepresent its provenance. A revision relation is stated in words in the link gloss or in a concordance row, always naming both states and the direction — "compressed into `abridged ch1` from `mythic-os: page 9`". The relations exist so that a comparison between drafts costs a row rather than a note; the per-chapter rows are in `ops/chapter concordance.md`.
 
@@ -157,6 +157,9 @@ Maintenance is condition-based. The session-orient hook counts and reports the f
 | Raw unprocessed material | `inbox/` |
 | A source document | `sources/`, plus an archive note |
 | Active threads | `ops/goals.md` |
+| The current center, reading order, and torch | `ops/orientation.md` |
+| A finished piece of work, dated | `ops/completed.md`, with paths to what it produced |
+| A question that has been closed | `ops/decisions.md`, one row, pointing at the reasoning |
 | Friction with the vault's process | `ops/observations/` |
 | The vault contradicting its own rules | `ops/tensions/` |
 | A methodology correction ("always X") | `ops/methodology/`, via /remember |

@@ -1,6 +1,6 @@
 # Pending candidate evaluations
 
-Transcribed from the space-around survey (see `archive/source — the space around.md`). None of these have been researched beyond what the survey itself says. Evaluating one means: read the primary work, complete or create the candidate note in `notes/` (case for, case against, admission standard applied, recommendation), and leave the seating decision to the author. The admission standard: the addition must actually change how the project thinks.
+Transcribed from the space-around survey (see `archive/source — the space around.md`). Entries marked `[e]` have been evaluated against primary works with recommendations recorded; unmarked entries have not been researched beyond what the survey itself says. The list is deliberately long — it is the field, not the task. Evaluating one means: read the primary work, complete or create the candidate note in `notes/` (case for, case against, admission standard applied, recommendation), and leave the seating decision to the author. The admission standard: the addition must actually change how the project thinks.
 
 Format: `- [ ] name — what the survey says it bears on`. When an evaluation is complete, fill the candidate note's `recommendation:` field and change the entry here to `- [e] name — evaluated, recommendation recorded, awaiting the author's decision`. Mark `[x]` only with the author's outcome (seated as X / declined because Y).
 

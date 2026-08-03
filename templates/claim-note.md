@@ -64,7 +64,9 @@ sentences never borrow the corpus's aphoristic register.}
 
 {The evidence layer. Where the claim appears, per source, with locations.
 Direct quotes belong here, marked as quotes. The atlas's notation (≈ ⚡ ⊖ ⟿)
-may tag relations that the statement layer has already put into words.}
+may tag relations that the statement layer has already put into words; in
+practice the vault states relations in words alone, and a glyph's absence is
+the norm rather than an omission (`ops/decisions.md`).}
 
 ---
 

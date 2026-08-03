@@ -40,7 +40,7 @@ This concern borders [[contraction-not-corruption]], because the anatomy's failu
 
 ## What remains
 
-The twelve primitives exist in this vault only as a single claim about their grammatical design. The individual primitives, their three make/unmake pairs, and the closure test (no thirteenth primitive found) have not been extracted from atlas §III into their own notes, and neither have the engine's three loops or the four-axis movement grid from atlas §V. All of these are listed as pending work in `ops/queue/extractions.md`.
+The twelve primitives exist in this vault only as a single claim about their grammatical design. The individual primitives, their three make/unmake pairs, and the closure test (no thirteenth primitive found) have not been extracted from atlas §III into their own notes, and neither have the engine's three loops or the four-axis movement grid from atlas §V. All of these are listed in `ops/queue/extractions.md`, where the center-of-gravity decision keeps them demoted to as-needed: this map's backlog is deliberately unhurried, and clearing it is not a priority a session should infer.
 
 ---
 

@@ -17,6 +17,9 @@ This folder records what the system knows about its own operation. The /rethink 
 - [[reference by name]] — the standing directive on reference: the named unit is the referent for the book's material, and chapter numbers are citation locators only, because numbered reference asserts a chapter progression that is not settled.
 - [[craft evidence]] — the standing directive on the craft category: record the mechanism observable in executed prose, never the manuscript's verdict on itself, and quote the author's recorded authorship conditions rather than restating them.
 - [[source standing]] — the standing directive on sources: descriptive documents and manuscript drafts are read differently, a draft's arguments for itself carry no evidential weight, and agreement between a document and its own upstream input is not corroboration.
+- [[authorial stance]] — the standing directive on posture: the convergence is held as an observation rather than an argument, provenance serves accurate pointing rather than proof, and the vault postulates no efficacy.
+- [[naming and epistemic humility]] — the standing directive on the corpus's coinages: figures and names are candidate labels for concerns, never referents; the concern leads in plain terms and the name is attributed once where the crosswalk earns its place.
+- [[personal provenance]] — the standing directive on the book's lifeblood: personal material from the making is admissible where holding it lets the writing be whole — owned, delicately, in honor of what is becoming.
 
 ## How to use this folder
 

@@ -57,6 +57,23 @@ Until 2026-08-01 this map described a book none of whose states the vault held. 
 
 The working structure recorded above is the atlas's, and the seventeen trial chapters it counts have not themselves arrived. What has arrived is enough to show that the scheme has moved at least twice, which is the evidence behind the reference directive: a unit's name is stable across all three arrangements where its number is not. The per-unit comparison is `ops/chapter concordance.md`.
 
+## How the material was made
+
+The provenance record of 2026-08-02 and after — the accounts of the corpus's making, commissioned by the author and persisted in `provenance/` — dates the corpus's layers against each other, which the seven documents themselves do not. The synthesis leads; the dated parts follow.
+
+- [[the book's honest origin story is noticing first and finding company after]] — the telling the dated record supports: noticed first, company after.
+- [[the book's native genre is the letter from a friend read alone]] — the genre datum from the one confirmed sighting of the book's promised event.
+- [[the making of the book enacts the law the book states]] — the design law's biography: container-built at every documented scale.
+- [[the figures precede the system by a year and the two were welded together later]] — the figures date to the April 2025 seed, the triad to a separate project that December, and July 2026 joined them.
+- [[the seed arrived in a season of burnout and container-building on every front]] — the conditions the earliest edition surfaced in, dated to the fortnight before its pages appear.
+- [[the book was written across the author's move to seattle to live in earnest]] — the life-arc the whole composition spans, from Houston training to Seattle rebuild.
+- [[the book's doctrine of time restates a sentence the author's father told him]] — the inheritance the temporal doctrines vary, entered by testimony.
+- [[the corpus quotes the author's poems rather than the poems quoting the corpus]] — the primary layer: for the fifteen poems predating the book, shared phrases originate in the poem.
+- [[the earliest chapter was written through a voice distilled from the author's first fifteen poems]] — the documented method behind the seed's high-water voice.
+- [[the sixteenth poem returns the book's language to the life it came from]] — the flagged exception: the one book-era poem, carrying the vocabulary home.
+- [[the gold thread is the rainbow thread re-owned]] — the continuity figure's genealogy, one layer beneath the seed: a shared image, re-dyed.
+- [[a recorded reason drifts toward doctrine with distance from the decision]] — why a reason recorded in the later documents may not be the reason given at the time.
+
 ## Claims in this map
 
 - [[the book performs what it describes]] — the governing law, stated by the atlas, the walked document, and the first telling
@@ -82,23 +99,6 @@ The working structure recorded above is the atlas's, and the seventeen trial cha
 - [[the voice names the move it has just made]] — how the earliest draft discharges the analytical reader's suspicion
 - [[the voice keeps the reader located in a walkable space]] — the house conceit working as navigation, page by page
 
-## How the material was made
-
-The provenance reconstruction of 2026-08-02 — an account of the corpus's making, commissioned by the author and held outside this repository — dates the corpus's layers against each other, which the seven documents themselves do not.
-
-- [[the figures precede the system by a year and the two were welded together later]] — the figures date to the April 2025 seed, the triad to a separate project that December, and July 2026 joined them.
-- [[the seed arrived in a season of burnout and container-building on every front]] — the conditions the earliest edition surfaced in, dated to the fortnight before its pages appear.
-- [[the book was written across the author's move to seattle to live in earnest]] — the life-arc the whole composition spans, from Houston training to Seattle rebuild.
-- [[the book's doctrine of time restates a sentence the author's father told him]] — the inheritance the temporal doctrines vary, entered by testimony.
-- [[the corpus quotes the author's poems rather than the poems quoting the corpus]] — the primary layer: for the fifteen poems predating the book, shared phrases originate in the poem.
-- [[the earliest chapter was written through a voice distilled from the author's first fifteen poems]] — the documented method behind the seed's high-water voice.
-- [[the sixteenth poem returns the book's language to the life it came from]] — the flagged exception: the one book-era poem, carrying the vocabulary home.
-- [[the gold thread is the rainbow thread re-owned]] — the continuity figure's genealogy, one layer beneath the seed: a shared image, re-dyed.
-- [[the book's honest origin story is noticing first and finding company after]] — the telling the dated record supports: noticed first, company after.
-- [[the book's native genre is the letter from a friend read alone]] — the genre datum from the one confirmed sighting of the book's promised event.
-- [[the making of the book enacts the law the book states]] — the design law's biography: container-built at every documented scale.
-- [[a recorded reason drifts toward doctrine with distance from the decision]] — why a reason recorded in the later documents may not be the reason given at the time.
-
 ## The open territory
 
 The two outlines the corpus contains — the atlas's thirteen sections and the mythic operating system edition's twenty-eight named units — are read as research scaffolding rather than as proposed structure, and are inventoried with an exploration state in `ops/open corpus.md`. That file exists to keep the naming of a territory distinct from a commitment to it: the project has been to the edge of considerably more ground than it has written, and the record of where it has stood is not a table of contents.
@@ -113,7 +113,7 @@ Manuscript placement emerges from the author's decisions and is never inferred b
 
 ## What remains
 
-The seventeen trial chapters themselves are still not in `sources/`. What arrived on 2026-08-01 is three drafts of the whole, at three scopes, none of which is the trial-chapter set the atlas counts. The next expansions this map wants, in order: reconcile the abridged edition's fifteen-chapter execution against the working structure recorded above, chapter by chapter, and record where they differ; extract the Arc and the Gloss treatment's four overlays and its four added image-system entries (the Circle, the Messenger, the Racket, the Cusp), which the atlas summarizes but does not carry whole; and establish whether the abridged edition is one state of the seventeen trial chapters or a separate artifact, which the documents in `sources/` do not settle. Placements remain the author's; none is inferred here, and the arrival of drafts does not change that rule.
+The seventeen trial chapters themselves are still not in `sources/`. What arrived on 2026-08-01 is three drafts of the whole, at three scopes, none of which is the trial-chapter set the atlas counts. The next expansions this map wants, in order: reconcile the abridged edition's fifteen-chapter execution against the working structure recorded above, chapter by chapter, and record where they differ; and extract the Arc and the Gloss treatment's four overlays and its four added image-system entries (the Circle, the Messenger, the Racket, the Cusp), which the atlas summarizes but does not carry whole. The question that stood third here is closed: the abridged edition is a separate artifact postdating the treatment's second edition, settled from outside `sources/` by the provenance reconstruction of 2026-08-02 and indexed in `ops/decisions.md`. This map is also past the split guideline (roughly twenty-five entries); its eleven sections are the split-within-structure the rule asks for first, and a further split waits for a /rethink pass. Placements remain the author's; none is inferred here, and the arrival of drafts does not change that rule.
 
 ---
 

@@ -1,42 +1,46 @@
 ---
-description: This index is the entry point to the research vault for Firing on All Cylinders / Aletheia; it lists the vault's six doctrine maps, six structural maps, and the vocabulary crosswalk.
+description: This index is the entry point to the research vault for Firing on All Cylinders / Aletheia; it leads with the book's center, then lists the six doctrine maps, the six structural maps, and the vocabulary crosswalk.
 type: moc
 topics: ["[[index]]"]
 ---
 
 # index
 
-This vault holds the research field for *Firing on All Cylinders / Aletheia*, a book about the structure of inner life. The vault stores single-claim notes connected by wiki links, organized by the topic maps listed here. Its working rules are recorded in [[methods]]; its configuration and reasoning are recorded in `ops/`.
+This vault holds the research field for *Firing on All Cylinders / Aletheia*, a book about the structure of inner life. The vault stores single-claim notes connected by wiki links, organized by the topic maps listed here. Its working rules are recorded in [[methods]]; its configuration and reasoning are recorded in `ops/`; what the work is centrally about right now is stated in `ops/orientation.md`, which a session reads before anything else.
 
 The book states one law about itself, and the vault inherits it as a design obligation: "the book performs what it describes" (stated at atlas §X and in all three sibling sources). In practice this means: claims are atomic, tensions are tracked rather than resolved, every claim names its sources, and the work is measured by what reaches the manuscript.
 
+## The center
+
+By author decision (2026-08-02, [[the system is scaffolding rather than the centerpiece]]) the book's centerpieces are the convergence of thinkers — gathered in [[interlocutors]], this vault's centerpiece map — and the lived practice, whose curriculum lives in [[felt-shift]]. The current synthesis is carried by five notes: [[the book's honest origin story is noticing first and finding company after]], [[the book's native genre is the letter from a friend read alone]], [[the book can only be auxiliary to a sovereign reader]], [[the making of the book enacts the law the book states]], and its kept counterface [[the perfectible conversation is the manuscript's most comfortable room]]. Beneath the corpus sits its primary layer — the author's sixteen poems, registered in [[methods]] — and the provenance record persisted in `provenance/`. The crosswalk between the corpus's figures and the vault's names is [[figure glossary]].
+
 ## Doctrine maps
 
-The atlas's closing section (§XII) resolves the book's entire field into six masses. Each is a topic map here. A standing reweighting applies across them (author decision, 2026-08-02, recorded at [[the system is scaffolding rather than the centerpiece]]): the book's centerpieces are the convergence of thinkers and the lived practice, and the system vocabulary gathered by [[container-anatomy]] and the formula material in [[contraction-not-corruption]] is scaffolding — secondary or tertiary, not a given outcome.
+The atlas's closing section (§XII) resolves the book's entire field into six masses, and each is a topic map here — listed by centrality rather than in the atlas's order, per the standing reweighting: the system vocabulary is scaffolding, secondary or tertiary, not a given outcome.
 
-- [[recognition]] — truth as un-concealment; liberation as the recognition of what never left
-- [[contraction-not-corruption]] — suffering understood as contracted fullness rather than damage
-- [[felt-shift]] — the book's verification standard: a claim counts when it checks out somatically
-- [[container-anatomy]] — the Wall/Door/Floor account of what every container is made of
-- [[relational-field]] — the claim that the between is real and does work that solitude cannot
+- [[recognition]] — truth as un-concealment; liberation as the recognition of what never left; holds the origin-story synthesis
+- [[felt-shift]] — the verification standard (a claim counts when it checks out somatically) and the practice curriculum: the basic posture's facets and the twelve forms live here
+- [[relational-field]] — the claim that the between is real and does work that solitude cannot; holds the book's relation to its reader
 - [[answerability]] — the publication concern: a spoken word can be answered; an unspoken one only perfected
+- [[contraction-not-corruption]] — suffering understood as contracted fullness rather than damage; carries the formula material, which is scaffolding
+- [[container-anatomy]] — the Wall/Door/Floor account of what every container is made of; gathers the system vocabulary, which is scaffolding
 
 ## Structural maps
 
-- [[interlocutors]] — the thinkers in the book's company, each with a functional seat
-- [[book-structure]] — the manuscript's parts, chapters, overlays, and apparatus; claim coverage runs against this map
+- [[interlocutors]] — the book's company of thinkers, each with a functional seat: the centerpiece map
+- [[book-structure]] — the manuscript's parts, named units, overlays, apparatus, and how the material was made
 - [[tensions]] — the registry of tensions the book keeps deliberately unresolved, each with its treatment
-- [[research-frontier]] — candidate thinkers and concepts awaiting evaluation
-- [[methods]] — the vault's working rules
+- [[research-frontier]] — the outward research program: evaluations completed and pending
+- [[methods]] — the vault's working rules and the registry of the eight source documents
 - [[open-questions]] — questions the corpus holds open on purpose
 
 ## Getting started
 
-1. Read `ops/goals.md` for the active threads.
-2. Read [[methods]] for the vault's working rules and the registry of the seven source documents, which divides them into descriptive sources and manuscript drafts.
+1. Read `ops/orientation.md` — the center, the reading order, and the torch. The session hook injects it first.
+2. Read `ops/goals.md` for the active threads, and [[methods]] for the working rules and the source registry — eight documents: four descriptive, three manuscript drafts, and the poems as the primary source beneath them all.
 3. Put new material in `inbox/`; run /reduce to extract claims from it.
-4. The standing work is listed in `ops/queue/candidates.md` (thinker and concept evaluations) and `ops/queue/extractions.md` (source regions not yet extracted).
-5. The user manual is at `manual/manual.md`.
+4. Before treating anything that looks inconsistent as work, check `ops/decisions.md` — the settled questions are indexed there, and several deliberate choices look like defects at first sight.
+5. The pending lists in `ops/queue/` are deliberately long; they are the field, not the task. The user manual is at `manual/manual.md`.
 
 ---
 
