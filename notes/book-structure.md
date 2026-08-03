@@ -84,7 +84,7 @@ The working structure recorded above is the atlas's, and the seventeen trial cha
 
 ## How the material was made
 
-The provenance record of 2026-08-02 dates the corpus's layers against each other, which the seven documents themselves do not.
+The provenance reconstruction of 2026-08-02 — an account of the corpus's making, commissioned by the author and held outside this repository — dates the corpus's layers against each other, which the seven documents themselves do not.
 
 - [[the figures precede the system by a year and the two were welded together later]] — the figures date to the April 2025 seed, the triad to a separate project that December, and July 2026 joined them.
 - [[a recorded reason drifts toward doctrine with distance from the decision]] — why a reason recorded in the later documents may not be the reason given at the time.

@@ -1,6 +1,6 @@
 # Request: the source conditions
 
-**Answered 2026-08-02.** The response is held as `sources/provenance of the corpus.pdf`, with its archive note at `archive/source — provenance of the corpus.md` and a third source standing created for it. Four claims were extracted and five existing notes qualified. The request text is kept below as the record of what was asked, and its gaps ledger — eight things the search could not reach, including the seed's composition, the author's verbatim veto sentence, and anything held inside a Project — is the natural basis for a second request.
+**Answered 2026-08-02.** The reply is an eleven-page reconstruction of the corpus's making. It is a work consulted rather than a project source: it is held outside this repository, gets no entry in `sources/` and no archive note, and is quoted inside the notes that use it, cited as `provenance reconstruction §1` and by section name (the form is recorded in [[methods]] under Works consulted). Four claims were extracted from it and five existing notes qualified. The request text is kept below as the record of what was asked, and the reply's gaps ledger — eight things the search could not reach, including the seed's composition, the author's verbatim veto sentence, and anything held inside a Project — is the natural basis for a second request.
 
 A research request to be handed to an agent with access to the author's prior threads and conversations. Written in the author's voice, 2026-08-02, so it can be sent as-is.
 
