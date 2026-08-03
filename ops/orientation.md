@@ -4,7 +4,7 @@
 
 ## The center
 
-The book's centerpieces, by author decision, are the convergence of thinkers — independent arrivals at the same finding, quoted with their refusals intact — and the lived practice, verified in the body (`ops/methodology/center of gravity.md`). The system vocabulary that fills most of the corpus's pages is scaffolding, and volume in the corpus is not centrality in the book; the maps that gather it are labeled accordingly in `notes/index.md`. Beneath the corpus sits the primary layer the corpus quotes: the author's sixteen poems (`sources/the poems.pdf`, standing recorded in `archive/source — the poems.md`) and the provenance record persisted in `provenance/`, which together established that the author said the plain things first, in his own words, and the scholarship arrived afterward and dressed them. The vault is measured by what reaches the manuscript, and the deliverable beneath every deliverable is the pilot move — one chapter, fully treated, sent to two real readers ([[seventeen chapters rest at madhyama]]).
+The book's centerpieces, by author decision, are the convergence of thinkers — independent arrivals at the same finding, quoted with their refusals intact — and the lived practice, verified in the body (`ops/methodology/center of gravity.md`). The system vocabulary that fills most of the corpus's pages is scaffolding, and volume in the corpus is not centrality in the book; the maps that gather it are labeled accordingly in `notes/index.md`. Beneath the corpus sits the primary layer the corpus quotes: the author's sixteen poems (`sources/the poems.pdf`, standing recorded in `archive/source — the poems.md`) and the provenance record persisted in `provenance/`, which together established that the author said the plain things first, in his own words, and the scholarship arrived afterward and dressed them. The vault is measured by what reaches the manuscript. Release and readership are the author's lane, owned in his words (2026-08-03); the vault's lane is the building, and [[seventeen chapters rest at madhyama]] stays his tension to resolve, not the vault's to steer.
 
 ## Read before working
 
@@ -16,17 +16,20 @@ The five notes that carry the current synthesis:
 - [[the making of the book enacts the law the book states]]
 - [[the perfectible conversation is the manuscript's most comfortable room]] — the kept counterface of the fourth, and a description of the vault itself
 
-The directives that govern how material is held: `ops/methodology/authorial stance.md` (observation, not argument; the author holds no evidentiary remarks and the vault postulates no efficacy), `naming and epistemic humility.md` (the corpus's coinages are candidate labels, never referents), `personal provenance.md` (personal material is admitted owned, delicately, in honor of what is becoming), `center of gravity.md`, and `writing test.md` (would a drafting session reach for this?). An open branch (PR #3) adds a sixth to read on arrival: `reading a source on its own terms.md` — a source is read as the body of work it is before it is read against anything else.
+The directives that govern how material is held: `ops/methodology/authorial stance.md` (observation, not argument; the author holds no evidentiary remarks and the vault postulates no efficacy), `naming and epistemic humility.md` (the corpus's coinages are candidate labels, never referents), `personal provenance.md` (personal material is admitted owned, delicately, in honor of what is becoming), `center of gravity.md`, and `writing test.md` (would a drafting session reach for this?).
 
 ## The torch
 
-In order of leverage:
+The field is wide open, all of it load-bearing — pick by appetite and build:
 
-1. **The seventeen trial chapters, the Third Drawer, and the valley letter** — located in the author's storage, never yet held; the largest single unlock, since every reconciliation blocked in `ops/chapter concordance.md` runs through them (`ops/queue/extractions.md`).
-2. **The poems, continued** — under `reading a source on its own terms` (arriving with PR #3): the collection read as its own body of work first, the comparison against the corpus second.
-3. **The seating decisions** — four candidates evaluated (Bateson, Ignatius, Internal Family Systems, Rosa) with recommendations recorded in `ops/queue/candidates.md`; the decision is the author's, never the vault's.
-4. **The instrument's counterweights** — outside sourcing in the processing-fluency and interoception literature (`ops/goals.md`, thread 1).
-5. **The naming refactor** — seven coinages across roughly thirty notes, planned and author-gated (`ops/goals.md`, thread 7).
+1. **The practice curriculum's second half** — the engineer's eye's four diagnostic moves, the crisis triage, channeling, and the Focusing protocol, straight from the executed draft (`ops/queue/extractions.md`). The lived-practice centerpiece, half extracted.
+2. **The central process** — the remainder of atlas §I ("one verb wearing three costumes") and the Kashmir Śaiva material at atlas §IX.6: the deepest well, barely tapped.
+3. **The instrument's counterweights** — real outside research: ground [[felt shift versus felt confirmation]] in the processing-fluency and interoception literature. The priority five's last open member, and the book's own two sentences of humility.
+4. **The company, growing** — the promoted candidates first (Barrett as McLaren's counterweight, wu wei via Slingerland, Wegner's ironic process — each named by a completed note as the specific thing missing), then the ~sixty in the book's own order; interlocutor notes for seated thinkers as claims come to need them.
+5. **The concordance's largest reconciliation** — the abridged execution against the working structure, chapter by chapter; and the treatment's four overlays with its four second-edition images, storyboard-only until extracted (`ops/chapter concordance.md`).
+6. **Twelve nascent stubs** to fill or decline, and **the poems' full reduce pass** via the trailheads in `archive/source — the poems.md` — sixteen poems, the headwaters, barely three claims deep.
+
+Also held: the seventeen trial chapters, the Third Drawer, and the valley letter remain locatable-not-held in the author's storage; if they arrive, they outrank everything above. Author-gated and never jumped: seatings, the naming refactor, tension resolutions, placements — and release, which is the author's own lane.
 
 ## What is settled
 
