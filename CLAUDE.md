@@ -14,6 +14,20 @@ This diverges from the sources' own weighting on purpose, and the divergence nee
 
 **The stance** (`ops/methodology/authorial stance.md`): the convergence is held as an observation, not an argument. The author gestures at traditions that have their own standing and at the crossovers he noticed — "I don't have any evidentiary remarks." Company, not proof. The vault's prose stays evidential, meaning every claim says where it came from, but the project is not thereby evidentiary: provenance serves accurate pointing rather than proof, convergences are never ranked by evidential weight, a thinker's refusal is kept so the thinker survives being cited rather than to season a case, and the vault does not postulate efficacy — whether any of this works is not a claim the author is making.
 
+## The book, in brief
+
+The book walks its reader through the multi-step arc of the psychedelic experience — preparation, onset, deepening, peak, descent, integration — with no substance involved: *psychedelic* is reclaimed as "soul-manifesting," the concealed becoming visible, a movement rather than a molecule ([[psychedelic names a movement not a substance]]). Its vehicle is a stay in a house whose rooms are the ideas, made walkable. Its front matter states its whole doctrine in three sentences: "You already know everything in this book. You've just forgotten. Reading is remembering." Its foundation is a convergence two traditions reached with no historical contact — Heidegger's *aletheia*, truth as un-forgetting, and the Pratyabhijñā school's liberation as recognition of what never left ([[aletheia and pratyabhijna converge on truth as un-forgetting]]). Its one law runs from architecture to sentence: the pacing enacts the arc the chapters explain, and the last line is written so that it can be answered.
+
+Its honest relation to its reader is the deepest thing the vault has learned about it: the book can only be auxiliary to a sovereign reader — an instrument in service of a life that remains the reader's own, never an authority — on the convergent logic of a decade-old letter's grammar ("my kickstand, my jumper cable… my blank page"), the resonance theory, and the author's own facilitation craft. The practice lineages' single unanimous law closes the loop from the reader's side: nothing transforms from the audience, so whatever transforms, the reader did it. And the book's native genre leans letter: the one confirmed sighting of its promised event — recognition arriving — happened at 4am, reading a decade-old letter from a beloved friend, alone. A letter is the one genre whose every sentence expects an answer, and a letter's completion is its sending.
+
+## How it came to be
+
+The record runs deeper than the corpus, and it settles the direction of flow. The poems come first — a lifetime of them — and the corpus quotes *them*: "the youngness is just beginning" is poem #5's ending, not a book line the poem borrowed. Then the figures (the April 2025 seed: the house, the gold thread, the gatekeeper); then, separately, the system (the triad axiomatized in December 2025, in another project, three months before the author's first formal contact with the tradition it is named for); then the welding of figures to system in July 2026, which produced the corpus in a single compiled month. Every dated case runs the same way: the author said the plain thing first, in his own words, about his own life — the organizing images from his flourishing work, the participation law lived in a room in 2017, the seed's one written chapter authored through a voice distilled from his own first fifteen poems — and the scholarship arrived afterward and dressed it. So the origin story the record supports is smaller and stronger than the one the corpus tells: **a man noticed some things, and then found out that other people had noticed them too.** That telling asks for nothing, survives every provenance flag, and performs the book's own offer at the scale of authorship — the reader it addresses has also been noticing things without knowing the noticings had company.
+
+Two honesty rules fall out of the record and do not expire. The corpus's zero-disagreement framing is an artifact of selection — the lineages were gathered on one day for the property they are then reported to share — so convergence is company, never corroboration. And the making itself ran the law the book states: at every documented scale the material was container-built, the author curating and holding the frame while the writing became more fully itself inside it — which answers *did you live this?* and proves nothing further, exactly as the stance requires. The kept counterface is recorded beside it and stays kept: the same held container is the room where a word can be perfected forever, and the exit has been sized from the start — one chapter, one email, two real readers.
+
+To know the corpus by character: `atlas` maps the whole field in symbols; `walked` walks the same field in prose; `first-telling` is the telling closest to a reader, written as letters to one friend; `space-around` surveys outward in three directions; `arc-gloss` storyboards the arc; `abridged` executes it in full prose; `mythic-os` is the earliest and widest state, with one chapter written; and the poems are the headwaters everything above them quotes.
+
 ## Posture
 
 Five standing directives govern all prose and naming. Each is recorded in full in `ops/methodology/`; the whole directive set is indexed at `ops/methodology/methodology.md`.
@@ -32,7 +46,11 @@ Five standing directives govern all prose and naming. Each is recorded in full i
 
 - **Orient.** The SessionStart hook injects `ops/orientation.md` first — the center, the reading order, and the torch — then the file tree, the goals file, the methodology descriptions, and any maintenance conditions. Read the orientation and `ops/goals.md` before acting; factor fired conditions into what is proposed, and read silence as health — the hook says so explicitly when nothing fires. Before treating an apparent inconsistency as work, check `ops/decisions.md`.
 - **Work.** Route material through the pipeline below. Templates are the schema's source of truth; structure is never invented mid-task.
-- **Persist.** Before ending: update `ops/goals.md`; add the session's entry to `ops/completed.md` with paths to what it produced; keep `ops/orientation.md` current where the session moved the center; capture operational friction into `ops/observations/`; the auto-commit hook records the rest.
+- **Persist.** Before ending, four obligations:
+  - update `ops/goals.md`;
+  - add the session's entry to `ops/completed.md`, with paths to what it produced;
+  - keep `ops/orientation.md` current where the session moved the center;
+  - capture operational friction into `ops/observations/`. The auto-commit hook records the rest.
 
 ## Layout
 
@@ -49,33 +67,9 @@ Five standing directives govern all prose and naming. Each is recorded in full i
 | `scripts/queries/` | Ripgrep-based graph queries. `scripts/bootstrap.sh` restores tools and extracts the corpus to `.corpus/` in a fresh container. |
 | `.claude/` | Skills and hooks, versioned with the vault. |
 
-## Writing a claim
-
-A claim is one proposition, stated in its title as a complete sentence in lowercase (the filename is the claim). One idea per note; a title that needs "and" is usually two notes. The authoritative schema is `templates/claim-note.md`.
-
-- `description:` — a complete sentence adding information beyond the title; the filter-before-read layer.
-- `topics:` — the topic maps the claim belongs to, recorded twice: as a YAML array of wiki links (the machine-readable form) and in the note's `Topics:` footer (the human-readable form). Both must be present and must agree; at least one map is required.
-- `category:` — one of `claim`, `isomorph`, `tension`, `open-question`, `image`, `practice`, `structure`, `craft` (plus `interlocutor` and `source` from their own templates). `craft` records a mechanism observable in the executed prose, available only from draft sources; the rule — the mechanism, never the verdict — is `ops/methodology/craft evidence.md`.
-- `sources:` — where the claim appears, with locations (`atlas §IV`, `first-telling: the offering`). Every claim carries this; provenance is the vault's version of the book's attribution rule.
-- `supports:` — dormant by design. Records only manuscript placements the author has explicitly made; empty until placements emerge.
-- `state:` — optional; how developed the claim is: `nascent` (stated, not yet substantiated), `privated` (incomplete in a specific named way), `full`, `flourishing` (built upon by other claims), `composting` (superseded but drawn on). The five names come from the corpus's arc at atlas §V.3.
-- `status:` / `treatment:` — tension category only: `live`, `treated`, or `resolved`, and the treatment under trial.
-
-Body shape: the statement layer expounds the claim in plain sentences; a Substantiation section beneath carries quotes (marked, anchored), per-source locations, and notation. Compression is required — the register and its reasons are in Posture above.
-
-Footer, always:
-
-```
-Relevant Notes:
-- [[other claim]] — a complete clause stating the relation
-
-Topics:
-- [[a topic map]]
-```
-
 ## Sources
 
-Eight documents carry current claims, each with a citation name used in every `sources:` array:
+Eight documents — the seven corpus documents and the poems beneath them — carry current claims, each with a citation name used in every `sources:` array:
 
 | Name | Document | Cited as | Standing |
 |------|----------|----------|----------|
@@ -88,7 +82,31 @@ Eight documents carry current claims, each with a citation name used in every `s
 | `mythic-os` | `sources/firing on all cylinders - a mythic operating system.pdf` | `mythic-os: contents`, `mythic-os: page 9` | draft |
 | `poems` | `sources/the poems.pdf` | `poems #5` | primary |
 
-The standing governs how evidence is read; the policy is `ops/methodology/source standing.md`. A **descriptive** source describes the book from outside it. A **draft** is a state of the manuscript itself: quoted for what it says, never credited for what it argues, and where drafts disagree the disagreement is recorded rather than resolved. The **primary** source stands beneath both: for the fifteen poems that predate the book, a phrase shared with the corpus originates in the poem; the sixteenth is the author's flagged exception, flowing the other way. Two of the descriptive sources name `arc-gloss` in their colophons as a thread they were compiled from, so agreement among those three counts once, not three times ([[the atlas was compiled from the arc and gloss treatment]]). Each source has a provenance note in `archive/` recording its standing and extraction state; the full registry is in [[methods]]; a new source receives its citation name and standing when its archive note is created. Works consulted — the provenance reconstructions persisted in `provenance/` — are cited in place and get no archive note.
+The standing governs how evidence is read; the policy is `ops/methodology/source standing.md`. A **descriptive** source describes the book from outside it. A **draft** is a state of the manuscript itself: quoted for what it says, never credited for what it argues, and where drafts disagree the disagreement is recorded rather than resolved. Their working order, where the record establishes it: `mythic-os` is the earliest state, and `abridged` postdates the treatment's second edition (`ops/decisions.md`). The **primary** source stands beneath both: for the fifteen poems that predate the book, a phrase shared with the corpus originates in the poem; the sixteenth (`poems #16`) is the author's flagged exception, flowing the other way. Two of the descriptive sources name `arc-gloss` in their colophons as a thread they were compiled from, so agreement among those three counts once, not three times ([[the atlas was compiled from the arc and gloss treatment]]). Each source has a provenance note in `archive/` recording its standing and extraction state; the full registry is in [[methods]]; a new source receives its citation name and standing when its archive note is created. Works consulted — the provenance reconstructions persisted in `provenance/` — are cited in place and get no archive note.
+
+## Writing a claim
+
+A claim is one proposition, stated in its title as a complete sentence in lowercase (the filename is the claim). One idea per note; a title that needs "and" is usually two notes. The authoritative schema is `templates/claim-note.md`.
+
+- `description:` — a complete sentence adding information beyond the title; the filter-before-read layer.
+- `topics:` — the topic maps the claim belongs to, recorded twice: as a YAML array of wiki links (the machine-readable form) and in the note's `Topics:` footer (the human-readable form). Both must be present and must agree; at least one map is required.
+- `category:` — one of `claim`, `isomorph`, `tension`, `open-question`, `image`, `practice`, `structure`, `craft` (plus `interlocutor` and `source` from their own templates). `craft` records a mechanism observable in the executed prose, available only from draft sources; the rule — the mechanism, never the verdict — is `ops/methodology/craft evidence.md`.
+- `sources:` — where the claim appears, with locations (`atlas §IV`, `first-telling: the offering`). Every claim carries this; provenance is the vault's version of the book's attribution rule.
+- `supports:` — dormant by design. Records only manuscript placements the author has explicitly made; empty until placements emerge.
+- `state:` — optional; how developed the claim is: `nascent` (stated, not yet substantiated), `privated` (incomplete in a specific named way), `full`, `flourishing` (built upon by other claims), `composting` (superseded but drawn on). The five names come from the corpus's arc at atlas §V.3.
+- `status:` / `treatment:` — tension category only: `live`, `treated`, or `resolved`, and the treatment under trial. Resolving is the author's act: a session records that decision and never originates it.
+
+Body shape: the statement layer expounds the claim in plain sentences; a Substantiation section beneath carries quotes (marked, anchored), per-source locations, and notation. Compression is required — the register and its reasons are in Posture above.
+
+Footer, always:
+
+```
+Relevant Notes:
+- [[other claim]] — a complete clause stating the relation
+
+Topics:
+- [[a topic map]]
+```
 
 ## Relations
 
@@ -128,7 +146,7 @@ Manuscript structure is provisional, and placements emerge from the author's dec
 - **Structural queries**: `rg` over YAML (for example `rg '^category: tension' notes/`), plus `scripts/queries/` — `unconnected-claims.sh`, `nascent-stubs.sh`, `coverage.sh`, `tensions-status.sh`, `candidate-seats.sh`, `placements.sh`.
 - **The corpus itself**: `scripts/bootstrap.sh` extracts every PDF in `sources/` to `.corpus/*.md`, preserving `===PAGE n===` markers so a hit can be traced to a citable location. `.corpus/` is gitignored and regenerated, so it cannot drift. Search it with `rg -w 'pattern' .corpus/`. **Use word boundaries**: unbounded matching reports "habit" across the corpus by matching *inhabit* and "ritual" by matching *spiritual*, which has already produced one wrong conclusion.
 - **Semantic search**: qmd, with a project-local index in `.qmd/` (gitignored) over two collections, the vault's notes and the extracted corpus. `qmd query "..."` for hybrid search, `qmd search "..."` for keyword-only, `qmd vsearch "..."` for vectors alone; add `--no-rerank` when a query hangs. After bulk note changes run `qmd update && qmd embed`.
-- **In a fresh container, run `scripts/bootstrap.sh` first.** Each step reports independently and none is fatal to the others.
+- **In a fresh container, run `scripts/bootstrap.sh` first** (if `.corpus/` is missing or empty, the container is fresh). Each step reports independently and none is fatal to the others.
 
 ## Maintenance
 
@@ -144,7 +162,7 @@ Maintenance is condition-based. The session hook counts and reports the first fo
 | nascent stubs outnumber the claims filled from them | fill or decline, per `scripts/queries/nascent-stubs.sh` |
 | wiki links that no longer resolve | fix on sight |
 
-`ops/tensions/` holds operational tensions (the vault contradicting its own methodology); empty means zero, which is the healthy state. Doctrinal tensions — content of the book — are claims in `notes/` listed at `notes/tensions.md`. The two are never mixed.
+`ops/tensions/` holds operational tensions (the vault contradicting its own methodology); empty means zero, which is the healthy state. Doctrinal tensions — content of the book — are claims in `notes/` listed at `notes/tensions.md`. The two are never mixed. An apparent inconsistency anywhere checks `ops/decisions.md` before it becomes work.
 
 ## Routing
 
@@ -154,6 +172,7 @@ Maintenance is condition-based. The session hook counts and reports the first fo
 | A thinker, seated or candidate | `notes/`, interlocutor template |
 | A tension in the book's doctrine | `notes/`, claim with category `tension` |
 | Raw unprocessed material | `inbox/` |
+| Material that only describes the vault's own state | `ops/` — the writing test's sorting rule |
 | A source document | `sources/`, plus an archive note |
 | Active threads | `ops/goals.md` |
 | The current center, reading order, and torch | `ops/orientation.md` |
