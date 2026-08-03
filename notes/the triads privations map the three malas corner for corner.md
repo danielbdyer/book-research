@@ -15,6 +15,7 @@ The corpus's conclusion, stated in the walked document: "Corner for corner, the 
 
 - Walked II carries all three failure descriptions and the corner-for-corner sentence.
 - Atlas §II.3 tabulates the correspondence with the privation notation (⊖) and cross-links it forward to the Privation Principle (§IV) as "the contraction doctrine in laboratory dress."
+- The corner-for-corner fit reads differently once the tradition's standing is stated. The corpus does not treat this tradition as one influence among many; the book's foundation is built from its terms, and it is placed beneath the company rather than in it ([[the kashmir shaiva tradition underlies the book rather than joining its company]]). A correspondence between a framework and its own ground is a weaker surprise than a correspondence between strangers, and the dating keeps the direction honest: the structure was built first, and the tradition's diagnosis met it afterward ([[the triad predates the author's contact with the tradition named the triad]]).
 - First-telling, "The offering," carries the reader-facing versions: the verdict, the painted-shut door, the sediment.
 
 ---
@@ -23,6 +24,8 @@ Relevant Notes:
 - [[suffering is contraction never corruption]] — the doctrine this correspondence grounds
 - [[david loy]] — the independent Western arrival at the first mala, which the corpus counts as external confirmation
 - [[the diagnosis contains the cure]] — the practical principle built on these three failure modes
+- [[the kashmir shaiva tradition underlies the book rather than joining its company]] — the standing of the tradition supplying the other half of this correspondence
+- [[the triad predates the author's contact with the tradition named the triad]] — the dating that fixes the direction: structure first, diagnosis met afterward
 
 Topics:
 - [[container-anatomy]]

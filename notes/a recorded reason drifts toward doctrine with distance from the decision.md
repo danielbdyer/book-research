@@ -29,6 +29,7 @@ The last version is the one that reads best and is furthest from what happened. 
 
 Relevant Notes:
 - [[the prose drafts use the vetoed triad names]] — the decision whose reason this traces, and the two drafts that predate it
+- [[ordinary names keep the deepest structures visible]] — the doctrine the third recording produced, which this finding qualifies at its origin without touching the rule
 - [[the author curated and vetoed while the collaborator wrote the correspondences]] — the division of hands that makes the drift legible, since the vetoes are the author's and the retellings are not
 - [[the atlas was compiled from the arc and gloss treatment]] — the other reason the later documents are read as downstream of the earlier ones
 - [[the unanimity claim is an artifact of how the lineages were selected]] — the same distance effect applied to a claim rather than to a reason

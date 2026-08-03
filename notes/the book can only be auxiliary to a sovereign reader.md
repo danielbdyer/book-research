@@ -30,6 +30,7 @@ Relevant Notes:
 - [[the reader's resistance has nowhere to land]] — the tension this eases: a sovereign's refusal is not the book's failure
 - [[the basic practice posture is a point of return rather than a state]] — the stance, which is this relation held from the book's side
 - [[a witness kept as proof forecloses what it proves]] — the failure mode the auxiliary relation exits
+- [[reading as remembering has a twenty-four-century ancestry in the west]] — the oldest staging of this relation: the Meno's guide inserts nothing and questions the knower toward what he already holds
 
 Topics:
 - [[relational-field]]

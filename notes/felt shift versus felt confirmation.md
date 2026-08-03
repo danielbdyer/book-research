@@ -18,6 +18,7 @@ The tension binds this vault as well as the book, and [[methods]] records the op
 - Space-around, "Around the instrument," carries both counterweights and ranks them in its closing priority list as the additions that make the book's other claims more credible.
 - The standard they limit is recorded at [[nothing enters the lattice the body has not countersigned]].
 - The survey notes that the book's architecture already holds two partial answers: the plain-prose passes work as a counterfeit check by contrast, and the relational field works as a second check on a solitary reading.
+- The first limit has a sharper statement available from the book's own foundations, and it names what a counterfeit click actually is. Both traditions the book stands on refuse the manufactured epiphany, so a bodily yes produced by an apparatus is, in their terms, the apparatus working rather than the world showing ([[both poles of the convergence refuse the engineered epiphany]]). That gives the honesty section the strongest form of this counterweight: the counterfeit is not merely a research finding about fluent prose, it is the failure the book's own sources predict.
 
 ---
 
@@ -25,6 +26,7 @@ Relevant Notes:
 - [[nothing enters the lattice the body has not countersigned]] — the standard whose limits this tension records
 - [[beauty recruits the wrong posture]] — the stylistic tension that overlaps with the counterfeit problem
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the load the corpus places on this instrument elsewhere, which these two limits bear on directly
+- [[both poles of the convergence refuse the engineered epiphany]] — the counterfeit named from the book's own foundations: a manufactured yes is the apparatus working, not the world showing
 
 - [[curating beauty is a practice rather than only a hazard]] — nascent; the practice this counterfeiting mechanism argues against
 

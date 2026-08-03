@@ -16,10 +16,11 @@ The consequence falls on the pilot-chapter decision rather than on the doctrine.
 ## Substantiation
 
 - The seven devices are recorded at atlas §X.6, with two of them carrying the corpus's own phrasing: the verso column where a reader writes "walked. still true." (§X.6b) and the checklist whose final question is "did writing it change you?" (§X.6g).
-- The interludes are executed and placed as specified. Both are titled "Interlude — A Poem," the first running 91 words after the Three Loops and the second 129 words after the Afterglow. The corpus places every interlude at a *sandhi*, the seam between two states (walked X; atlas §X.4c), and both placements are part-junctions.
+- The interludes are executed and placed as specified. Both are titled "Interlude — A Poem," the first running 91 words after the Three Loops and the second 129 words after the Afterglow. The corpus places every interlude at a *sandhi*, the seam between two states (walked X; atlas §X.4c), and both placements are part-junctions. The teaching that makes the placement a design decision rather than a habit is at [[the gap between two states is where the concealed shows itself]].
+- The planting ledger has one payoff pair recorded in the extracted material — a Sanskrit formula planted half-erased and completed eleven chapters later at a mirror — and whether any draft executes either site is not established ([[the unfolding of the center is planted half-erased and finished at a mirror]]).
 - The absence of the other six is a search result rather than an inference: zero occurrences of *margin*, *verso*, *countersign*, *ledger*, *escrow*, or *checklist* across the executed text. The margin apparatus in particular is not a device that could be present without being nameable, since the corpus describes it as a second book with its own plot and a late reveal of the pencil's identity (first-telling: how it's built).
 - The Arc and the Gloss treatment, which is the plan the abridged edition executes, does not specify the apparatus either. It states its own scope as "not a draft, not a plan — a whiteboard from altitude" concerned with chapter-level constellation rather than page-level device (arc-gloss: how to hold this). The apparatus is designed in the atlas and the first telling and is absent from both the treatment and the execution, so no document in `sources/` shows a device being planned into a specific chapter.
-- One device is partially inapplicable at this scope: a per-chapter dial recording the ratio of evocative to informative prose is a production instrument rather than a printed feature, and its absence from a draft is weaker evidence than the absence of the margins. The other five are reader-facing and would be visible if present.
+- One device is partially inapplicable at this scope: a per-chapter dial recording the ratio of evocative to informative prose is a production instrument rather than a printed feature, and its absence from a draft is weaker evidence than the absence of the margins. What that dial is, in the corpus's own identification, is at [[the per-chapter dial is a spanda ratio]]. The other five are reader-facing and would be visible if present.
 
 ---
 
@@ -28,6 +29,9 @@ Relevant Notes:
 - [[seventeen chapters rest at madhyama]] — the move this changes the cost of, since "fully treated" means building six devices for the first time
 - [[the closing prompt changes genre where the book turns to praxis]] — the one device the drafts add that the design does not name
 - [[the reader's resistance has nowhere to land]] — a tension whose treatment is a margin voice that argues back, and therefore depends on the unbuilt margin apparatus
+- [[the per-chapter dial is a spanda ratio]] — the one device that is a production instrument rather than a printed feature, and what the corpus identifies it with
+- [[the gap between two states is where the concealed shows itself]] — the teaching behind the one device the drafts do execute: interludes placed at the junctions
+- [[the unfolding of the center is planted half-erased and finished at a mirror]] — the one planting-ledger pair the extracted record holds, and its unverified execution
 
 Topics:
 - [[book-structure]]

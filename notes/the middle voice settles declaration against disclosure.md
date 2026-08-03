@@ -9,7 +9,7 @@ topics: ["[[answerability]]", "[[tensions]]"]
 
 # the middle voice settles declaration against disclosure
 
-Two lineages the book draws on hold opposed accounts of speech. The declarative-voluntarist pole (Erhard's lineage, descending from Austin's performatives) holds that speech makes reality: a possibility is declared and lived into. The disclosive-receptive pole (Heidegger's) holds that speech lets what-is show itself, and that forcing is the failure mode. The book resolves the opposition with a grammatical category most modern languages have lost: the middle voice — neither active nor passive, the mood in which action happens through the speaker with the speaker's consent.
+Two lineages the book draws on hold opposed accounts of speech. The declarative-voluntarist pole (Erhard's lineage, descending from Austin's performatives) holds that speech makes reality: a possibility is declared and lived into. The disclosive-receptive pole (Heidegger's) holds that speech lets what-is show itself, and that forcing is the failure mode; his chair, with the four things he would decline about this book, is [[martin heidegger]]. The book resolves the opposition with a grammatical category most modern languages have lost: the middle voice — neither active nor passive, the mood in which action happens through the speaker with the speaker's consent.
 
 The resolution is applied twice. The atlas reports that the book itself is written in the middle voice, "not by the author alone but through the conversation" (atlas §VI.6). And the same mood reappears in the book's emotional practice as McLaren's channeling: a feeling completing its movement with consent, between the failure modes of repression and venting.
 
@@ -25,6 +25,7 @@ The resolution is applied twice. The atlas reports that the book itself is writt
 Relevant Notes:
 - [[a word at madhyama can be perfected forever a word at vaikhari can be answered]] — the account of what spoken words are, which this account of speaking serves
 - [[nothing transforms from the audience]] — the law both poles agree on despite their dispute
+- [[martin heidegger]] — the disclosive pole's chair, seated in this room and supplying the book's central verb from beneath it
 
 Topics:
 - [[answerability]]

@@ -17,12 +17,14 @@ The first-telling makes the standard operational for the reader: a thirty-second
 - First-telling, "The instrument": the full test protocol, the description of the click ("unmistakable once you've felt it, and impossible to fake"), and the sentence "Misses count as data."
 - Gendlin's empirical basis is recorded at [[what is split off not felt remains the same]].
 - The standard's known failure modes have their own note, [[felt shift versus felt confirmation]]. The vault's own inability to run the test is stated in [[methods]].
+- One boundary keeps this standard from turning into something else. A verification standard says what may be admitted; it does not say that the admitted thing can be produced on demand. Both of the book's foundations refuse exactly that step, and their refusal is what stops a test of the framework from becoming a promise about the reader ([[both poles of the convergence refuse the engineered epiphany]]).
 
 ---
 
 Relevant Notes:
 - [[what is split off not felt remains the same]] — the research finding the standard rests on
 - [[felt shift versus felt confirmation]] — the standard's documented limits, kept attached rather than hidden
+- [[both poles of the convergence refuse the engineered epiphany]] — the refusal that keeps this a standard for admitting claims rather than a standard for producing shifts
 
 Topics:
 - [[felt-shift]]

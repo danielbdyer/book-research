@@ -7,7 +7,7 @@ topics: ['[[recognition]]', '[[book-structure]]']
 
 # the house with no ceiling is transcendence with plumbing
 
-The book's first image is a house whose roof opens to the sky while the floor, the walls, the doors, and the kitchen keep working. The figure equates with the Clearing and with prakāśa and Lichtung, and it carries the book's refusal of renunciation before any argument has been made: shelter exists to make the larger world bearable to receive, not to seal it out.
+The book's first image is a house whose roof opens to the sky while the floor, the walls, the doors, and the kitchen keep working. The figure equates with the Clearing and with prakāśa and Lichtung, and it carries the book's refusal of renunciation before any argument has been made: shelter exists to make the larger world bearable to receive, not to seal it out. That three-way equation is the one point where the book's structural theory and its recognition doctrine touch, and the claim behind the picture is [[the open center is made possible by the three structures and identical with none of them]].
 
 ## Substantiation
 
@@ -18,6 +18,7 @@ The book's first image is a house whose roof opens to the sky while the floor, t
 
 Relevant Notes:
 - [[the tuesday is the temple]] — the doctrine the householder axiom pre-loads
+- [[the open center is made possible by the three structures and identical with none of them]] — the claim this picture draws: the three structures and the open middle they hold
 
 Topics:
 - [[recognition]]

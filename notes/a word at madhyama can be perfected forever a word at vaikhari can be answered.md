@@ -17,6 +17,7 @@ The distinction has one consequence. An unspoken sentence can always be changed,
 - Walked VI carries the reasoning: the unspoken sentence is revisable, therefore safe, therefore in a precise sense not yet real.
 - First-telling, "Left in the tin": "the last line of the book is addressed to the reader, and it's written so that it can be answered. By the middle of the book, you'll understand that being answerable is the highest thing a sentence can be."
 - Atlas §VI seats a Western ethics of answerability alongside the ladder: Bakhtin (the no-alibi-in-being), Rosenstock-Huessy ("respondeo etsi mutabor" — I respond, although I will be changed), and Arendt (the who of a person disclosed only in action before witnesses).
+- The same tradition supplies a name for what sits between the spoken word and the answer. Its teaching on junctions holds that the concealed shows itself at the crossing between two states rather than inside either one, and walked IX applies it to exactly this interval: "the trembling between a sentence spoken and the answer arriving" ([[the gap between two states is where the concealed shows itself]]). The silence after an answerable sentence is therefore a junction rather than a failure.
 
 ---
 
@@ -24,6 +25,7 @@ Relevant Notes:
 - [[seventeen chapters rest at madhyama]] — the same distinction turned on the manuscript's own condition
 - [[ripeness is not refrigeration]] — the companion rule against indefinite preservation
 - [[the middle voice settles declaration against disclosure]] — the account of how speaking works when it works
+- [[the gap between two states is where the concealed shows itself]] — the teaching that names the interval this distinction opens: between the sentence spoken and the answer arriving
 
 - [[the sixteenth poem returns the book's language to the life it came from]] — the blade lived rather than stated: "the trembling that is the sound of the sentence leaving / the architecture" (poems #16)
 
