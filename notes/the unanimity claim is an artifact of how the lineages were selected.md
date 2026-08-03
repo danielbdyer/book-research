@@ -1,0 +1,32 @@
+---
+description: The lineages were gathered by the author on one day and chosen for their participatory character; the unanimity later announced across them is agreement on the property they were selected for.
+category: structure
+sources: ["provenance §1", "provenance: flagged overstatements", "arc-gloss: overlay four"]
+topics: ["[[interlocutors]]", "[[methods]]"]
+state: full
+---
+
+# the unanimity claim is an artifact of how the lineages were selected
+
+The provenance record dates the corpus's headline finding to a single exchange and shows the order of its two halves. On 7 July 2026 the author's own turn directed the work: bring in the facilitation thread, "also of interest to relate in here to me is Karla McLaren's 'The Language of Emotions'," search "the threads about the interactive/inherently participatory nature of Heidegger/EST/Landmark," and "research the threads about the many other coaches" (provenance §1, quoting [D] 7 Jul 2026). The lineages were chosen by the author in that sentence, and the property they share is named in it — the interactive, inherently participatory nature. The collaborator then performed the aggregation and wrote the result, which announces itself as new: "one law appears with zero disagreement across every lineage the book loves" (provenance §1, quoting [C] 7 Jul 2026; the same sentence stands at arc-gloss: overlay four).
+
+The consequence is a fact about the framing rather than about the law. The provenance record states it directly: "The lineage set was curated — by you, on July 7, explicitly by the participation axis — so unanimity within it is close to guaranteed and evidentially near-worthless. The law may still be true. The unanimity framing is an artifact of the sampling, and it is the corpus's most repeated rhetorical move" (provenance: flagged overstatements). The lineages do say the thing. What cannot be claimed is that their saying it together was discovered.
+
+## Substantiation
+
+- The vault had recorded the shape of this without its mechanism. The convergence note's substantiation already said the company was assembled by the author and that the roll-call therefore shows a noticing rather than a demonstration ([[transformation is enacted participation inside a held container]]). The provenance record supplies what was missing: the selection criterion and the unanimity claim are the same property, and one day apart.
+- The record locates the underlying commitment far earlier and in the author's own hand, which is why the finding qualifies the framing rather than the content. The Heidegger, est, and Landmark cluster appears as a single unit in April 2024 — "what about the Heidegger/EST/Landmark-esque being very immersed in what you are doing?" — and the twenty-eight-chapter seed of April 2025 already carries "there is a kind of knowing that cannot be privately possessed — it must be witnessed into coherence" (provenance §1).
+- The superlatives are the collaborator's throughout: "'Zero disagreement,' 'total unanimity,' 'zero dissent' — all AI-authored, all layered onto a sample you had curated for exactly the property being celebrated" (provenance: flagged overstatements).
+- One further claim in the corpus inherits the same defect and is dated by the record: the courtyard overlay's assertion that the book's pedagogy is the Recognition school's promise "independently reinvented" holds for the seed-era front matter and fails for anything written after 1 July 2026, when that school "had been taught to you in depth by the same collaborator writing the chapters" (provenance: flagged overstatements).
+
+---
+
+Relevant Notes:
+- [[transformation is enacted participation inside a held container]] — the finding this qualifies, whose six voices were gathered for the property they are then reported to share
+- [[the book's company of thinkers is grouped by contribution rather than by doctrine]] — the grouping principle, which the record dates to the same day
+- [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the other convergence whose independence claim the record requires to be dated
+- [[the author curated and vetoed while the collaborator wrote the correspondences]] — the division of hands that produced both the curation and the claim laid over it
+
+Topics:
+- [[interlocutors]]
+- [[methods]]
