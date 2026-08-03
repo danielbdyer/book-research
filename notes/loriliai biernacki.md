@@ -1,5 +1,5 @@
 ---
-description: Loriliai Biernacki takes Abhinavagupta as a live resource for the present consciousness-and-matter debate — proof the crossover is a current scholarly project — while developing it toward theory, leaving the practice lane open.
+description: Biernacki takes Abhinavagupta as a live resource in the consciousness-and-matter debate — proof the crossover is a current scholarly project — while developing it toward theory, leaving the practice lane open.
 category: interlocutor
 seat: candidate
 recommendation: "Reference-lineage: the living developer who proves the crossover is current, kept with the observation that her destination is metaphysics — the book's practice-verified lane stays unoccupied even here."

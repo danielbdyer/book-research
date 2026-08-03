@@ -1,5 +1,5 @@
 ---
-description: David Peter Lawrence reads the Pratyabhijñā treatises as both philosophical apologetics and spiritual exercise — argument as the vehicle of the recognition it argues for — and runs the crossover as proof, the road this book declined.
+description: Lawrence reads the Pratyabhijñā treatises as apologetics and spiritual exercise at once — argument as the vehicle of the recognition it argues for — and runs the crossover as proof, the road this book declined.
 category: interlocutor
 seat: candidate
 recommendation: "Reference-lineage: the strongest outside precedent for a text whose form enacts its content, kept beside his evidentiary ambition, which is the road the author has declined."
