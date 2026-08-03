@@ -1,5 +1,5 @@
 ---
-description: Three poems across the collection name one mechanism — the speaker's care for others is his own wanting, offered in a form nobody is obliged to answer — and the last adds that the structure is real and saving as well as costly.
+description: Three poems across the collection name one mechanism: the speaker's care for others is his own wanting, offered in a form nobody must answer — and the last credits the structure before charging its cost.
 category: structure
 sources: ["poems #8", "poems #14", "poems #16"]
 topics: ["[[contraction-not-corruption]]"]
