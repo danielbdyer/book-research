@@ -32,7 +32,11 @@ The corpus also stations a warning at this concern and credits it to Lacan: reco
 - [[the unfolding of the center is planted half-erased and finished at a mirror]] — Kṣemarāja's formula, planted as a fragment and completed late in the book
 - [[kshemaraja]] — he wrote the twenty-sūtra summary on the book's reading list, and the formula the book plants
 - [[utpaladeva]] — he founded the recognition school; the corpus names him as the far side of the founding convergence
-- [[the kashmir shaiva tradition would decline four of the book's deepest moves]] — the tradition's candidate refusals, derived at the author's request so its chair can hold a real voice
+- [[the kashmir shaiva tradition would decline four of the book's deepest moves]] — the tradition's refusals, tested by the author and now carrying exact citations
+- [[martin heidegger]] — the central verb's source, with his own four refusals and the associations named at the door
+- [[both poles of the convergence refuse the engineered epiphany]] — the foundations agree one step further: the apparatus can prepare and cannot cause
+- [[both poles of the convergence supply their own front doors]] — the accessible entries each tradition wrote for itself
+- [[the crossover has footsteps and the book already seats some of the walkers]] — the field around the core-thesis candidate, Corbin's footsteps nearest
 
 ### Nascent stubs
 

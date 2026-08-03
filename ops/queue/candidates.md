@@ -14,6 +14,23 @@ The section headings below reproduce the survey's own organization, which follow
 - [e] Hartmut Rosa — evaluated 2026-08-02, recommendation recorded, awaiting the author's decision. Recommended reference-lineage, seated twice: the uncontrollability clause completes the tuning fork's theory ("resonance thus implies semicontrollability"), and his structural diagnosis is a name for the material voice, which the roster currently carries anonymously. `notes/hartmut rosa.md`.
 - [ ] The instrument counterweights (felt shift versus felt confirmation; the muted signal and titration) — the tension itself is already admitted at `notes/felt shift versus felt confirmation.md`. What remains is the sourcing: grounding both counterweights in the processing-fluency and interoception literature rather than in the survey's summary. This is now the only unevaluated member of the priority five, and the load placed on the somatic instrument at `notes/surrender and will are adjudicated from the body rather than from doctrine.md` raises its priority.
 
+## The crossover's field (added 2026-08-03, from the core-thesis research at `notes/the crossover has footsteps and the book already seats some of the walkers.md`)
+
+The author's question: who else is around the aletheia–pratyabhijñā crossover, who develops it, who is against it, whose footsteps is he walking in. Names from the vault's knowledge, pending real evaluation.
+
+- [ ] Henry Corbin — the nearest footstep: Heidegger's first French translator, who carried unveiling into Persian illuminationism ("From Heidegger to Suhrawardī"); esoteric where the book is householder.
+- [ ] J. L. Mehta — the founding India–Heidegger scholar; what the encounter looks like done with full command of both sides.
+- [ ] John Caputo — "The Mystical Element in Heidegger's Thought": Gelassenheit as Eckhart's word; connects the book's Eckhart seat to Heidegger's deepest borrowing.
+- [ ] The Kyoto School beyond Nishida — Nishitani (studied under Heidegger; "Religion and Nothingness") and Ueda Shizuteru (the Eckhart–Zen comparison).
+- [ ] Isabelle Ratié — self and other in the Pratyabhijñā; the current standard for Utpaladeva's arguments.
+- [ ] David Peter Lawrence — recognition philosophy carried into Western argumentative form.
+- [ ] Loriliai Biernacki — Abhinavagupta into contemporary panentheism ("The Matter of Wonder"); the crossover's living developer.
+- [ ] Michel Henry — self-manifestation and auto-affection; the phenomenology nearest vimarśa, with comparative work beginning to exist.
+- [ ] Steven Katz — the constructivist against: no unmediated experience; convergence as artifact of description. The strongest scholarly opponent of the core thesis.
+- [ ] Thomas Sheehan — the deflationary Heidegger; the guard against mysticizing aletheia.
+- [ ] Andrea Jain — the appropriation economy around Indian contemplative goods; the critique the stewardship line must answer.
+- [ ] Plato's anamnesis and Augustine's memoria — the West's own remembering-doctrines; the deep ancestry of "reading is remembering," with Heidegger's Parmenides lectures as the hinge.
+
 ## Around "insight that doesn't move anything"
 
 - [ ] Louis Sass — hyperreflexivity: self-monitoring as the pathology itself.

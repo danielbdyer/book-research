@@ -23,6 +23,7 @@ The author has since stated his position (2026-08-03): the tradition deserves it
 - The two colliding commitments are both on record: the Generosity Policy at the atlas's §IX preamble and first-telling's "The offering"; the unnamed-Sanskrit choice at atlas §I, with the naming rule behind it at [[ordinary names keep the deepest structures visible]].
 - The nearest thing to a chair the tradition currently has: Utpaladeva and Kṣemarāja hold interlocutor notes from the corpus's roster, Kṣemarāja's hand writes in the margins, and the Pratyabhijñāhṛdayam sits on the reading list. These are structural credits rather than a staged, quotable presence among the company.
 - The author's flowers statement, in full where it bears: "I do think it deserves its flowers. For a western audience it may be hard to stomach or to put their comfort in and that is part of the book's responsibility is to figure out the road into the valley" (author statement, 2026-08-03).
+- His stewardship line from the same exchange, governing how the flowers are given: "for those of the Śaivite tradition I do not wish to co-opt the ideas for my own benefit" (author statement, 2026-08-03). The road must honor the tradition without extracting from it; the front doors and their faults are gathered at [[both poles of the convergence supply their own front doors]].
 
 ---
 
