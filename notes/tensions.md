@@ -42,6 +42,10 @@ The corpus preserves, rather than adjudicates, the disagreements among its conte
 - [[the transformation field divides into five theories of where suffering lives]] — the five positions themselves, with each camp's axiom quoted and the three expansions that make eight
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the sharpest of the forks, whose treatment is the body seated as referee and doctrine recusing itself
 
+## The tension the making exposes
+
+- [[the perfectible conversation is the manuscript's most comfortable room]] — the medium of the book's own making as the ideal chamber for the word that can be perfected forever. Treatment: the exit the record already named — one chapter, one email, two real readers.
+
 ## The method this map does not supply
 
 - [[a kept tension can be mapped rather than only held]] — nascent. Every treatment recorded above is an authorial move made in the writing; none is a move the reader can make. The gesture naming a reader-facing procedure is an open territory, inventoried in `ops/open corpus.md`.

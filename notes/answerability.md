@@ -26,6 +26,8 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 - [[what is recognized cannot be un-recognized]] — the one place the corpus states the reading contract as two-sided, with a cost the reader is invited to accept
 - [[the fruit that falls is the word become deed]] — the release doctrine in the orchard's vocabulary
 - [[the sixteenth poem returns the book's language to the life it came from]] — the blade lived at the size of a text: the trembling as the sentence leaves the architecture
+- [[the book's native genre is the letter from a friend read alone]] — the genre whose every sentence expects an answer, and the medium of the event's one confirmed sighting
+- [[the perfectible conversation is the manuscript's most comfortable room]] — where the perfectible word actually lives, and the exit already sized
 
 ## Adjacent maps
 

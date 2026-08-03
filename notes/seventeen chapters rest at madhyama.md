@@ -33,6 +33,8 @@ Relevant Notes:
 - [[the whole volume is wagered on express]] — the adjacent question about the book's own composition
 - [[the whole arc has already been drafted once in prose]] — the fact that removes unfinished writing as an explanation for the unreleased state
 
+- [[the perfectible conversation is the manuscript's most comfortable room]] — the mechanism beneath this tension: where the perfectible word lives, and why recess is comfortable
+
 Topics:
 - [[tensions]]
 - [[answerability]]

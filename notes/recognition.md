@@ -33,6 +33,7 @@ Open territory the corpus named and never developed, recorded so it is reachable
 ## The lifeblood
 
 - [[the founding inversion restates the author's own sufficiency inheritance]] — the reassurance the book leads with, practiced by the author against a perfectionist engine before it was doctrine.
+- [[the book's honest origin story is noticing first and finding company after]] — the recognition doctrine at the scale of authorship: the origin story that survives its own provenance, and doubles as the reader's invitation.
 
 ## Adjacent maps
 

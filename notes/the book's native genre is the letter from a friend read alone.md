@@ -1,5 +1,5 @@
 ---
-description: The one documented occurrence of the book's promised event in the author's life happened reading a decade-old letter from a beloved friend, alone — and the book's plainest telling already exists as letters to one friend.
+description: The one documented occurrence of the book's promised event happened reading a decade-old letter from a beloved friend, alone — and the book's plainest telling already exists as letters to one friend.
 category: claim
 sources: ["provenance addendum four §II.2 (consulted, held in provenance/)", "provenance reconstruction round two §6", "first-telling: the door", "mythic-os: contents"]
 topics: ["[[answerability]]", "[[book-structure]]"]

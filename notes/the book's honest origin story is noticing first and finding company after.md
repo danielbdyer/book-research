@@ -1,5 +1,5 @@
 ---
-description: Every dated case runs the same direction — the author's plain formulation precedes the tradition's arrival — so the origin story that survives its own provenance is: I noticed things, and then found that others had noticed them too.
+description: Every dated case runs the same direction — the author's plain formulation precedes the tradition's arrival — so the origin story that survives its provenance is: I noticed, and then found company.
 category: claim
 sources: ["poems #5", "provenance addendum §4 (consulted, held in provenance/)", "provenance addendum three §6", "provenance reconstruction §1", "author statement, 2026-08-02"]
 topics: ["[[recognition]]", "[[book-structure]]"]

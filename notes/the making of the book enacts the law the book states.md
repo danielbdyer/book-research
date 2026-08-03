@@ -1,5 +1,5 @@
 ---
-description: At every documented scale the production ran the same structure the book claims for transformation — work done inside a container the author built and held — so the design law has a biography before it has an argument.
+description: At every documented scale the production ran the structure the book claims for transformation — work inside a container the author built and held — so the design law has a biography before an argument.
 category: structure
 sources: ["provenance/poetic voice system prompt.md", "provenance reconstruction §4 (consulted, held in provenance/)", "author statement, 2026-08-03", "arc-gloss: overlay four"]
 topics: ["[[book-structure]]", "[[methods]]"]
