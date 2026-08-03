@@ -82,7 +82,7 @@ echo ""
 if command -v tree &> /dev/null; then
     # PDFs and scripts are shown so sources/ and scripts/ are not invisible;
     # --filelimit keeps notes/ as a count instead of an alphabetized dump.
-    tree -L 3 --charset ascii -I '.git|node_modules' -P '*.md|*.pdf|*.sh' --filelimit 20 .
+    tree -L 3 --charset ascii -I '.git|node_modules' -P '*.md|*.pdf|*.sh|*.json|*.yaml' --filelimit 20 .
 else
     find . \( -name "*.md" -o -name "*.pdf" -o -name "*.sh" \) -not -path "./.git/*" -not -path "*/node_modules/*" -maxdepth 3 | sort | while read -r file; do
         depth=$(echo "$file" | tr -cd '/' | wc -c)
