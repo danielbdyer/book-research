@@ -13,7 +13,7 @@ The gap surfaced on 2026-08-01 during a pass that needed to establish what the c
 
 A second friction sits under the first. `pypdf` is not installed in a fresh container, and installing it required repairing a broken `cryptography` package before it would import. The bootstrap script does not install it or mention it.
 
-Input to /rethink. The candidate resolutions are to extract the sources to text once and commit the derivatives to a tracked directory, which makes them permanently indexable at the cost of storing a derived copy alongside an immutable original; to have `scripts/bootstrap.sh` perform the extraction into an ignored directory and add the collection, which keeps the derivatives out of the repository but repeats the work per container; or to leave the index as it is and record in CLAUDE.md that semantic search covers the vault's notes only, which is the honest minimum and gives up the capability.
+This went to /rethink with three candidate resolutions — committing the extracted text as tracked derivatives, having `scripts/bootstrap.sh` extract into an ignored directory per container, or recording the limitation and giving up the capability — and the second was chosen. The resolution below records it; nothing here is open.
 
 ## Resolved 2026-08-01
 

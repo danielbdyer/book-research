@@ -13,7 +13,7 @@ The friction has two parts, and they are separable. The first is the missing sig
 
 Three commits were produced across three resumes in a single day's work, which sets the rate. They were repaired by re-signing rather than by changing the hook, so the condition persists.
 
-Input to /rethink. The candidate resolutions are to have the session-start hook sign its commits, to have it write the session record without committing, or to add `ops/sessions/` to the auto-commit hook's scope and remove the separate commit entirely.
+This went to /rethink with three candidate resolutions — signing the hook's commits, writing the session record without committing, or folding `ops/sessions/` into the auto-commit hook's scope and removing the separate commit — and the third was chosen. The resolution below records it; nothing here is open.
 
 ## Resolved 2026-08-01
 

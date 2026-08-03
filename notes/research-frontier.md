@@ -18,7 +18,8 @@ Four were evaluated against their primary works on 2026-08-02 and now carry reco
 2. [[ignatius of loyola]] — evaluated. The precedent holds and reads as a specification: the safety record was earned by a companion forbidden to persuade, and by either seclusion or nine months.
 3. [[internal family systems]] — evaluated. The correspondences hold, the executed draft is already using the vocabulary, and the evidence base is two randomized trials against the model's cultural weight.
 4. [[hartmut rosa]] — evaluated. The uncontrollability clause completes the tuning fork's theory, and his structural diagnosis is an objection to the book's scale of address.
-5. [[felt shift versus felt confirmation]] — this one has graduated out of the frontier: it is already admitted as a tension. The survey ranks its "two sentences of humility" first because they "make every other claim in the book more believable" (space-around, priority list). What remains is its sourcing in the processing-fluency and interoception literature, which is unresearched.
+
+The fifth member graduated before evaluation: [[felt shift versus felt confirmation]] is already admitted as a tension — the survey ranks its "two sentences of humility" first because they "make every other claim in the book more believable" (space-around, priority list). What remains of it is the sourcing in the processing-fluency and interoception literature, which is the priority five's only open work.
 
 The evaluations bumped four entries from the full queue to the front, each because a completed note now names it as the specific thing missing: Lisa Feldman Barrett (the counterweight to [[karla mclaren]]), Michael Polanyi and the wu wei literature via Slingerland (both now cited inside completed notes rather than only listed), and the shu-ha-ri material, which turned out to be half-answered by the executed draft ([[the practice forms specify when to begin and not how to tell one is finished]]).
 
@@ -58,7 +59,7 @@ Evaluating a candidate means: obtain and read the thinker's relevant primary wor
 
 ## What remains
 
-The pending-evaluation list in `ops/queue/candidates.md` holds roughly sixty entries, none yet researched beyond what the survey itself says about them. The recommended order is the priority five above first, then the rest in the book's own order, so that frontier work tracks manuscript work.
+This map's own live question is the priority five's last open member — sourcing the instrument's counterweights in the processing-fluency and interoception literature — and after it the seating decisions on the four evaluated candidates, which are the author's. Beyond those, the pending-evaluation list in `ops/queue/candidates.md` holds roughly sixty entries in the book's own order, so that frontier work tracks manuscript work; the list is deliberately long, and it is the field rather than the task.
 
 ---
 
