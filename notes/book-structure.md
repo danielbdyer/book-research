@@ -87,6 +87,9 @@ The working structure recorded above is the atlas's, and the seventeen trial cha
 The provenance reconstruction of 2026-08-02 — an account of the corpus's making, commissioned by the author and held outside this repository — dates the corpus's layers against each other, which the seven documents themselves do not.
 
 - [[the figures precede the system by a year and the two were welded together later]] — the figures date to the April 2025 seed, the triad to a separate project that December, and July 2026 joined them.
+- [[the seed arrived in a season of burnout and container-building on every front]] — the conditions the earliest edition surfaced in, dated to the fortnight before its pages appear.
+- [[the book was written across the author's move to seattle to live in earnest]] — the life-arc the whole composition spans, from Houston training to Seattle rebuild.
+- [[the book's doctrine of time restates a sentence the author's father told him]] — the inheritance the temporal doctrines vary, entered by testimony.
 - [[a recorded reason drifts toward doctrine with distance from the decision]] — why a reason recorded in the later documents may not be the reason given at the time.
 
 ## The open territory

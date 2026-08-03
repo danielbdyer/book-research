@@ -17,7 +17,7 @@ This is an author directive, issued 2026-08-01 on the admission of three manuscr
 
 The standing is recorded in each archive note and named in the source registry in `notes/methods.md`. Where a claim's evidence is drawn from a draft, the substantiation layer says so.
 
-A third kind of document was considered for a standing of its own on 2026-08-02 and routed elsewhere instead: a reconstruction of how the corpus was made, commissioned by the author from the conversation record. It is testimony about the corpus rather than a document of it, and the vault already had a category that fits — a work consulted, quoted inside the notes that use it, with no archive note and no entry in `sources/`. The rule that decided it: a document needing a new standing before it can be admitted usually belongs somewhere the vault already has.
+A third kind of document was considered for a standing of its own on 2026-08-02 and routed elsewhere instead: a reconstruction of how the corpus was made, commissioned by the author from the conversation record. It is testimony about the corpus rather than a document of it, and the vault already had a category that fits — a work consulted, quoted inside the notes that use it, with no archive note and no entry in `sources/`. The rule that decided it: a document needing a new standing before it can be admitted usually belongs somewhere the vault already has. By author decision of 2026-08-03 the four reconstruction documents are physically held in `provenance/` — persisted, not promoted; they remain consulted works, and their personal material is governed by `ops/methodology/personal provenance.md`.
 
 ## Rules
 

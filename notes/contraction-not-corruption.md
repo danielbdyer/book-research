@@ -26,6 +26,8 @@ The formulas below are the book's canonical examples. Each is a separate claim b
 - [[david loy]] — the independent Western arrival at the first contraction, which the corpus counts as external confirmation
 - [[the orchard's koan is that composting is not death]] — the image of the arc this map's states are named from
 - [[the gatekeeper is met with a bow never a fight]] — the image of the doctrine as a manner of approach
+- [[the gatekeeper has a lived referent in the author's own protective structure]] — the figure's biographical ground: the doctrine's first case, met over years with enough respect to be nicknamed
+- [[the seed arrived in a season of burnout and container-building on every front]] — the burnout formula's grounding: written from inside the compound it analyzes
 - [[the messenger makes suffering unopened correspondence]] — the image that gives the formulas their questions
 - [[the racket is the attractor state with a salary]] — the image of the suffering the privation formulas cannot reach
 

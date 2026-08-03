@@ -45,6 +45,7 @@ Three standing author directives govern all prose and naming. All are recorded i
 | `templates/` | Note templates with `_schema` blocks — the authoritative schema. |
 | `manual/` | User documentation. |
 | `ops/` | Operational state: goals, config, queue, sessions, observations, tensions, methodology, the chapter concordance, the open-corpus inventory, and the rethink log. |
+| `provenance/` | Reconstructions of the corpus's making, held as consulted works by author decision. Not sources; the policy is `ops/methodology/personal provenance.md`. |
 | `scripts/queries/` | Ripgrep-based graph queries. `scripts/bootstrap.sh` restores tools and extracts the corpus to `.corpus/` in a fresh container. |
 | `.claude/` | Skills and hooks, versioned with the vault. |
 
@@ -111,7 +112,7 @@ Material never goes directly into `notes/` outside a pipeline phase. Raw capture
 
 Support commands: `/seed` (create deduplicated extraction tasks), `/pipeline` (end-to-end), `/ralph` (queue orchestration with fresh context per phase), `/tasks`, `/next`, `/stats`, `/graph`, `/validate`, `/learn` (outward research), `/remember` (capture methodology corrections), `/refactor` (structural change).
 
-The admission standard for everything the pipeline produces is the writing test (`ops/methodology/writing test.md`): **would a drafting session reach for this?** A note earns its place by supplying something writing can use — a claim to state, a figure to quote, a mechanism to build against, a fact that decides a manuscript question. "Would it change how the project thinks" remains the floor; satisfying future writing is the bar. Material that only describes the vault's own state routes to `ops/`, and analysis of an absence is worth one seed, not an essay. Declined material keeps a record of what it was and why.
+The admission standard for everything the pipeline produces is the writing test (`ops/methodology/writing test.md`): **would a drafting session reach for this?** By author decision (2026-08-03) the test extends to the book's lifeblood: personal material from the making is admissible where holding it lets the writing be whole rather than disembodied, under the three conditions — own it, delicately, in honor of what is becoming — recorded at `ops/methodology/personal provenance.md`. A note earns its place by supplying something writing can use — a claim to state, a figure to quote, a mechanism to build against, a fact that decides a manuscript question. "Would it change how the project thinks" remains the floor; satisfying future writing is the bar. Material that only describes the vault's own state routes to `ops/`, and analysis of an absence is worth one seed, not an essay. Declined material keeps a record of what it was and why.
 
 ## Interlocutors
 

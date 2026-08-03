@@ -1,6 +1,6 @@
 # Request: the source conditions
 
-**Answered 2026-08-02, in three documents.** A first reconstruction, a second round answering follow-up questions about the project's fixture points, and an addendum built on the author's own testimony. All three are works consulted rather than project sources — held outside this repository, no entries in `sources/`, no archive notes, quoted inside the notes that use them and cited as `provenance reconstruction §N`, `provenance reconstruction round two §N`, and `provenance addendum §N`.
+**Answered 2026-08-02, in three documents.** A first reconstruction, a second round answering follow-up questions about the project's fixture points, and an addendum built on the author's own testimony. All are works consulted rather than project sources — no entries in `sources/`, no archive notes, quoted inside the notes that use them and cited as `provenance reconstruction §N`, `provenance reconstruction round two §N`, `provenance addendum §N`, and `provenance addendum three §N`. By author decision of 2026-08-03 the documents are physically held in `provenance/`, with a third addendum joining them the same day.
 
 Round two and the addendum produced two claims, filled one nascent stub, qualified six notes, and identified four documents the corpus names and the vault has never held — the seventeen trial chapters, the Third Drawer, the valley letter, and their whereabouts. That last is now an entry in `ops/queue/extractions.md` and is the largest practical unlock of the three rounds.
 
