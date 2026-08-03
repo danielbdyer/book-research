@@ -32,6 +32,7 @@ The corpus also stations a warning at this concern and credits it to Lacan: reco
 - [[the unfolding of the center is planted half-erased and finished at a mirror]] — Kṣemarāja's formula, planted as a fragment and completed late in the book
 - [[kshemaraja]] — he wrote the twenty-sūtra summary on the book's reading list, and the formula the book plants
 - [[utpaladeva]] — he founded the recognition school; the corpus names him as the far side of the founding convergence
+- [[the kashmir shaiva tradition would decline four of the book's deepest moves]] — the tradition's candidate refusals, derived at the author's request so its chair can hold a real voice
 
 ### Nascent stubs
 

@@ -48,7 +48,7 @@ The corpus preserves, rather than adjudicates, the disagreements among its conte
 
 ## The tension the author raised at the company
 
-- [[the tradition the book owes most has no chair in its company]] — the Kashmir Śaiva tradition is honored as the ground beneath everything and never given a guest's chair, raised by the author in his own words, 2026-08-03, alongside his note that the rooms grouping is a prior draft's trapping. Treatment: none on trial yet; the shape of any chair is the author's.
+- [[the tradition the book owes most has no chair in its company]] — the Kashmir Śaiva tradition is honored as the ground beneath everything and never given a guest's chair, raised by the author in his own words, 2026-08-03, alongside his note that the rooms grouping is a prior draft's trapping. The author has stated the direction: it deserves its flowers. Treatment: the road into the valley — how the book brings a Western reader to the tradition honestly; four candidate refusals are derived and awaiting his testing at [[the kashmir shaiva tradition would decline four of the book's deepest moves]].
 
 ## The method this map does not supply
 
