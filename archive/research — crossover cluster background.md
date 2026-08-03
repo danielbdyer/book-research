@@ -10,6 +10,8 @@ topics: ["[[interlocutors]]", "[[recognition]]"]
 
 # The crossover cluster, verified: background for the core-thesis candidate
 
+> Processed 2026-08-03: the twelve evaluations were reduced from this file into candidate notes (listed in `ops/queue/candidates.md`, crossover cluster, each marked `[e]`) and one claim note on the anamnesis ancestry. This file is their shared provenance record; the web sources below are the citation trail.
+
 The twelve evaluation targets in the crossover cluster of `ops/queue/candidates.md` were checked against the open web at moderate depth. The purpose was background, not the evaluations themselves: the survey note [[the crossover has footsteps and the book already seats some of the walkers]] flags itself as "from the vault's knowledge, unverified against the primary literature," and this pass tests its bibliographic spine before any candidate note is built on it. The spine holds. Every named figure, work, and relationship the survey asserts was confirmed, one survey claim failed to verify, and one fact not in the survey emerged that bears directly on the core-thesis candidate's near pole.
 
 ## Key Findings
