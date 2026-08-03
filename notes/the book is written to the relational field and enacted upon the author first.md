@@ -14,7 +14,7 @@ The addressee is the relational field rather than a reader. The book's own name 
 
 The first subject is the author. The book is not a transmission that happens to be self-descriptive; it is an enactment performed on its writer, with the text as the instrument. "Through and with and upon myself" names three relations at once — the book as the means, the book as the companion, and the book as the thing done to him.
 
-Usefulness to a reader is a consequence and not the aim. The sentence's second clause is conditional and unemphatic by design, and the vault records it in that register rather than upgrading it.
+Usefulness to a reader is a consequence and not the aim. The sentence's second clause is conditional and unemphatic by design, and the vault records it in that register rather than upgrading it. What the non-aiming buys the reader is worth stating, because it is structural rather than gracious: a book with no stake in your transformation cannot become an authority over it, which is the warrant beneath [[the book can only be auxiliary to a sovereign reader]] arriving from the writer's side rather than the reader's.
 
 ## Substantiation
 
@@ -27,6 +27,7 @@ Usefulness to a reader is a consequence and not the aim. The sentence's second c
 
 Relevant Notes:
 - [[a codex is a one-chair technology making a two-chair argument]] — the tension this statement reframes rather than answers on its own terms
+- [[the book can only be auxiliary to a sovereign reader]] — what the non-aiming buys the reader: a book with no stake in a transformation cannot be an authority over it
 - [[the field between two people does work]] — the claim about the field this statement makes the book's addressee
 - [[the book performs what it describes]] — the design law this statement gives a target: the performance is on the author
 - [[a word at madhyama can be perfected forever a word at vaikhari can be answered]] — the speech doctrine that still applies, since a word written to the field is not thereby spoken

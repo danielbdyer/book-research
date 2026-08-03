@@ -5,7 +5,7 @@ seat: candidate
 recommendation: "Reference-lineage: the crossover walked for three generations with the differences kept — and Nishida, the school's founder, is already seated in the book's company."
 works: ["Religion and Nothingness (Nishitani)", "Ueda Shizuteru's Eckhart–Zen studies"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
-topics: ["[[interlocutors]]"]
+topics: ["[[interlocutors]]", "[[research-frontier]]"]
 ---
 
 # the kyoto school
@@ -23,3 +23,4 @@ Relevant Notes:
 
 Topics:
 - [[interlocutors]]
+- [[research-frontier]]

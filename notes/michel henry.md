@@ -5,7 +5,7 @@ seat: candidate
 recommendation: "Reference-lineage for the interior half of the thesis only, with his refusals of world and clearing kept; the unclaimed Henry–vimarśa pairing is flagged as possible open territory pending a scholarly-database pass."
 works: ["The Essence of Manifestation (1963)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
-topics: ["[[interlocutors]]"]
+topics: ["[[interlocutors]]", "[[research-frontier]]"]
 ---
 
 # michel henry
@@ -23,3 +23,4 @@ Relevant Notes:
 
 Topics:
 - [[interlocutors]]
+- [[research-frontier]]

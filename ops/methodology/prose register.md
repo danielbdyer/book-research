@@ -1,5 +1,5 @@
 ---
-description: This directive, global and standing, requires vault prose to be expository and evidential: every statement is a complete sentence, the statement stands above its substantiation, and no shorthand carries an assertion on the statement line.
+description: "This directive, global and standing, requires vault prose to be expository and evidential: every statement is a complete sentence, the statement stands above its substantiation, and no shorthand carries an assertion on the statement line."
 category: configuration-state
 created: 2026-08-01
 status: active

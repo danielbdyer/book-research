@@ -5,7 +5,7 @@ seat: candidate
 recommendation: "Reference-lineage: her work supplies the valley's chair with its scholarly ground — the tradition argues — and her philologist's caution polices how its concepts are lifted."
 works: ["Le Soi et l'Autre: Identité, différence et altérité dans la philosophie de la Pratyabhijñā (Brill, 2011)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
-topics: ["[[interlocutors]]"]
+topics: ["[[interlocutors]]", "[[research-frontier]]"]
 ---
 
 # isabelle ratie
@@ -23,3 +23,4 @@ Relevant Notes:
 
 Topics:
 - [[interlocutors]]
+- [[research-frontier]]

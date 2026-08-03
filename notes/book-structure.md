@@ -77,6 +77,7 @@ The provenance record of 2026-08-02 and after — the accounts of the corpus's m
 ## Claims in this map
 
 - [[the book performs what it describes]] — the governing law, stated by the atlas, the walked document, and the first telling
+- [[reading is remembering]] — the governing law at its smallest and earliest scale: the front-matter promise, kept by the entry movement inducing what the architecture movement then names
 - [[the system is scaffolding rather than the centerpiece]] — the author's decision on what the book is centrally about, and the corpus's own prologue statement of it
 - [[the book is a tuning fork and the reader is the striking surface]] — the self-image installed on page one
 - [[beauty recruits the wrong posture]] — the tension between the prose's quality and the book's purpose

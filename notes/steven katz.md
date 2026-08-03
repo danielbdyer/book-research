@@ -5,7 +5,7 @@ seat: candidate
 recommendation: "Reference-lineage as counterweight: the scholarly name for the caution the vault already holds, whose challenge the stance survives — convergence as company stands where convergence as proof falls."
 works: ["Language, Epistemology, and Mysticism (in Mysticism and Philosophical Analysis, 1978)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
-topics: ["[[interlocutors]]"]
+topics: ["[[interlocutors]]", "[[research-frontier]]"]
 ---
 
 # steven katz
@@ -23,3 +23,4 @@ Relevant Notes:
 
 Topics:
 - [[interlocutors]]
+- [[research-frontier]]

@@ -5,7 +5,7 @@ seat: candidate
 recommendation: "Reference-lineage: the nearest footstep to the author's own crossing, with the one-way rule kept — the key opens other levels without obliging the walker to stay."
 works: ["Qu'est-ce que la métaphysique? (translation, 1939)", "From Heidegger to Suhravardi (interview with Philippe Nemo, 1976)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
-topics: ["[[interlocutors]]"]
+topics: ["[[interlocutors]]", "[[research-frontier]]"]
 ---
 
 # henry corbin
@@ -23,3 +23,4 @@ Relevant Notes:
 
 Topics:
 - [[interlocutors]]
+- [[research-frontier]]

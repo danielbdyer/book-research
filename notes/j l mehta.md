@@ -5,7 +5,7 @@ seat: candidate
 recommendation: "Reference-lineage: the standing refusal of the shortcut, and the mirror image of the book's road — Mehta walks an Indian reader through the West and home; the book walks a Western reader through the West's own philosopher into the valley."
 works: ["Martin Heidegger: The Way and the Vision (1976)", "Heidegger and Vedanta (essay)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
-topics: ["[[interlocutors]]"]
+topics: ["[[interlocutors]]", "[[research-frontier]]"]
 ---
 
 # j l mehta
@@ -23,3 +23,4 @@ Relevant Notes:
 
 Topics:
 - [[interlocutors]]
+- [[research-frontier]]

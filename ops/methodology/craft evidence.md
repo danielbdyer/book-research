@@ -1,5 +1,5 @@
 ---
-description: This directive, global and standing, governs the craft category: a note records a mechanism observable in the executed prose, never a verdict about its quality, and the author's recorded self-assessments are quoted rather than restated.
+description: "This directive, global and standing, governs the craft category: a note records a mechanism observable in the executed prose, never a verdict about its quality, and the author's recorded self-assessments are quoted rather than restated."
 category: configuration-state
 created: 2026-08-01
 status: active

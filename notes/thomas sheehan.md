@@ -5,7 +5,7 @@ seat: candidate
 recommendation: "Reference-lineage as guard: he disciplines the slogan without touching the practice, and his reading is the primary-text-anchored answer to the enthusiastic drafting session."
 works: ["Making Sense of Heidegger: A Paradigm Shift (2015)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
-topics: ["[[interlocutors]]"]
+topics: ["[[interlocutors]]", "[[research-frontier]]"]
 ---
 
 # thomas sheehan
@@ -23,3 +23,4 @@ Relevant Notes:
 
 Topics:
 - [[interlocutors]]
+- [[research-frontier]]

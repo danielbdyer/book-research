@@ -5,7 +5,7 @@ seat: candidate
 recommendation: "Reference-lineage as counterweight: the structural challenge the stewardship line must answer, kept whole precisely because sincerity does not answer it."
 works: ["Selling Yoga (Oxford, 2014)", "Peace Love Yoga: The Politics of Global Spirituality (Oxford, 2020)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
-topics: ["[[interlocutors]]"]
+topics: ["[[interlocutors]]", "[[research-frontier]]"]
 ---
 
 # andrea jain
@@ -23,3 +23,4 @@ Relevant Notes:
 
 Topics:
 - [[interlocutors]]
+- [[research-frontier]]

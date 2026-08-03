@@ -27,6 +27,7 @@ Relevant Notes:
 - [[the field between two people does work]] — the claim that creates the tension
 - [[grief cannot complete alone]] — the case that makes the missing chair concrete
 - [[ignatius of loyola]] — the four-century precedent for building the second chair into the form
+- [[the book is written to the relational field and enacted upon the author first]] — the author's statement that reframes this tension without dissolving it: if the addressee is the field, the second chair is already occupied and the reader is a third party to the event
 
 Topics:
 - [[tensions]]

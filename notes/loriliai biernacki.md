@@ -5,7 +5,7 @@ seat: candidate
 recommendation: "Reference-lineage: the living developer who proves the crossover is current, kept with the observation that her destination is metaphysics — the book's practice-verified lane stays unoccupied even here."
 works: ["The Matter of Wonder: Abhinavagupta's Panentheism and the New Materialism (Oxford, 2023)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
-topics: ["[[interlocutors]]"]
+topics: ["[[interlocutors]]", "[[research-frontier]]"]
 ---
 
 # loriliai biernacki
@@ -23,3 +23,4 @@ Relevant Notes:
 
 Topics:
 - [[interlocutors]]
+- [[research-frontier]]

@@ -5,7 +5,7 @@ seat: candidate
 recommendation: "Reference-lineage: the strongest outside precedent for a text whose form enacts its content, kept beside his evidentiary ambition, which is the road the author has declined."
 works: ["Rediscovering God with Transcendental Argument (SUNY, 1999)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
-topics: ["[[interlocutors]]"]
+topics: ["[[interlocutors]]", "[[research-frontier]]"]
 ---
 
 # david peter lawrence
@@ -23,3 +23,4 @@ Relevant Notes:
 
 Topics:
 - [[interlocutors]]
+- [[research-frontier]]
