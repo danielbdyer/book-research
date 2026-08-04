@@ -30,6 +30,7 @@ Relevant Notes:
 - [[the system is scaffolding rather than the centerpiece]] — the decision that makes this company a centerpiece rather than a bibliography
 - [[the executed draft carries the arc's sequence without the treatment's five rooms]] — the finding that this material reaches the executed prose in three passing traces
 - [[figure glossary]] — where the corpus's labels for these groupings are crosswalked to the concerns they name
+- [[the crossover has footsteps and the book already seats some of the walkers]] — the finding that this company already holds the founding crossover's walkers, witnesses, and opponents, so the remaining work is introduction rather than recruitment
 
 Topics:
 - [[interlocutors]]

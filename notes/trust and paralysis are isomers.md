@@ -1,5 +1,5 @@
 ---
-description: Trust and paralysis are built from identical components — Bind, Commit, Defer — and differ only in where the deferral attaches: to the outcome in trust, to the deciding itself in paralysis.
+description: "Trust and paralysis are built from identical components — Bind, Commit, Defer — and differ only in where the deferral attaches: to the outcome in trust, to the deciding itself in paralysis."
 category: claim
 sources: ["atlas §IV", "walked IV", "first-telling: the offering"]
 topics: ["[[contraction-not-corruption]]"]

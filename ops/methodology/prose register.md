@@ -1,5 +1,5 @@
 ---
-description: This directive, global and standing, requires vault prose to be expository and evidential: every statement is a complete sentence, the statement stands above its substantiation, and no shorthand carries an assertion on the statement line.
+description: "This directive, global and standing, requires vault prose to be expository and evidential: every statement is a complete sentence, the statement stands above its substantiation, and no shorthand carries an assertion on the statement line."
 category: configuration-state
 created: 2026-08-01
 status: active
@@ -21,6 +21,7 @@ This is an author directive, issued 2026-08-01 during the initial derivation, gl
 8. **One register at every scale.** A three-claim topic map and a three-hundred-claim topic map read in the same voice; only the depth grows.
 9. **End on the move.** An operational surface (topic map, queue, goals) closes by naming what remains or what the next pass should do. Nothing terminates at "done."
 10. **System references are self-explanatory.** A sentence that refers to the vault's own machinery names the file and states what the reference means in terms of work done or not done. "The evaluation is queued" fails this rule; "X has not been researched for this project; it is on the pending-evaluation list in ops/queue/candidates.md" passes it. A sentence must carry its meaning to a reader who has never seen the system's internals.
+11. **Readable before dense — the rule has two poles, and both are the author's.** Issued mid-session on 2026-08-03, twice. First, against ornament: "I entreat you to author plainly and reverently or do not write much at all"; "It is arcane and ornate and communicates in a way that is opaque." The fault named there is gymnastics — inverted constructions, stacked appositions, the corpus's figures carrying a title or a statement line, sentences that must be decoded rather than followed. Second, when the session over-corrected into clipped fragments, against density: "short and declarative is not the only way to write… complex sentences are fine, but you must see that I cannot parse the gymnastics quite as well as you can. I worry other agents will continue this concise praxis of explication and get saturated in their own density too." The working rule both corrections point at: write so the reader never has to stop and unpack. A sentence may be long and subordinate or short and simple, so long as it unfolds in the order a reader takes it in — one idea handed to the next, dense noun phrases opened into ordinary words, the corpus quoted beneath the statement rather than doing the stating. Compression is not a virtue in itself; a note earns nothing by being shorter than its own clarity, and a page of staccato is as saturated as a page of filigree. The test: a tired friend could follow it on first reading. When in doubt, explain a little more, in ordinary words.
 
 ## Relationship to the vocabulary policy
 

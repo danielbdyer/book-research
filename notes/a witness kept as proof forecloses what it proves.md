@@ -1,5 +1,5 @@
 ---
-description: The shadow of the book's witness doctrine, from the author's own record: sufficiency held as another's loved proof stays in custody, and keeping the proof guarantees the thing proven is never tested live.
+description: "The shadow of the book's witness doctrine, from the author's own record: sufficiency held as another's loved proof stays in custody, and keeping the proof guarantees the thing proven is never tested live."
 category: claim
 sources: ["provenance addendum four §II.3 (consulted, held in provenance/)", "provenance addendum four §I.3", "provenance addendum four §II.2"]
 topics: ["[[relational-field]]"]

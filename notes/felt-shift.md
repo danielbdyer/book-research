@@ -24,6 +24,7 @@ One consequence for this vault is recorded in [[methods]]: the vault verifies st
 - [[the practice forms specify when to begin and not how to tell one is finished]] — the twelve forms, specified at their trigger and unmarked at both exits
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the dispute the corpus asks this map's instrument to settle, case by case
 - [[felt shift versus felt confirmation]] — the tension: the click can be produced by the prose rather than the truth
+- [[both poles of the convergence refuse the engineered epiphany]] — the isomorph that keeps the standard honest: neither of the book's foundations allows the shift to be manufactured
 - [[the abridged edition compresses the opening poem rather than reproducing it]] — the one place in the sources where the treatment for that tension has been carried out on a specific text
 - [[the closing prompt changes genre where the book turns to praxis]] — the instruction genre by which the executed draft asks the reader to check the body, and its limits
 - [[the cusp is the back door to the stance]] — the image of the demand that outruns preparation

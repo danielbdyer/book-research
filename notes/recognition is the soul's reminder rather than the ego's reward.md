@@ -1,5 +1,5 @@
 ---
-description: The Echo That Teaches Us Our Name states positively the guard the atlas records only as a warning: recognition returns a person to what they already are rather than conferring a standing they can hold.
+description: "The Echo That Teaches Us Our Name states positively the guard the atlas records only as a warning: recognition returns a person to what they already are rather than conferring a standing they can hold."
 category: claim
 sources: ["mythic-os: page 16", "atlas §IX.5", "first-telling: the reframe"]
 topics: ["[[recognition]]"]
@@ -20,6 +20,7 @@ This matters operationally for the same reason the warning does. A book whose pr
 - The warning this states positively is at atlas §IX.5, recorded in the description of `notes/recognition.md`, where it is grouped with Nāgārjuna's and Rieff's warnings as the three guards the book keeps against counterfeit transcendence.
 - The compatibility with the doctrine is exact: the first-telling glosses recognition as "recognizing what was always there and never left" (first-telling: the reframe), and a thing that never left cannot be awarded.
 - The claim appears in no descriptive source, so it has one attestation; the warning it states positively has four.
+- The tradition beneath the book has its own word for what a reminder feels like when it arrives, and it fits this note's positive form rather than the warning's. Abhinavagupta's camatkāra — wonder, the taste of consciousness recognizing itself — is carried into present-day scholarship by Loriliai Biernacki, who makes it her operative term ([[loriliai biernacki]]). Wonder is not a standing anyone can hold, which is why it is the mark a reminder leaves and a reward does not.
 
 ---
 
@@ -28,6 +29,7 @@ Relevant Notes:
 - [[reading is remembering]] — the promise this keeps honest, by making what is remembered unavailable as an acquisition
 - [[what is recognized cannot be un-recognized]] — the other half of the same material: the cost that follows the reminder
 - [[felt shift versus felt confirmation]] — the adjacent failure, where the signal rather than the standing is what gets counterfeited
+- [[loriliai biernacki]] — the living scholar carrying the tradition's own word for the mark this note describes: wonder, which cannot be held
 
 Topics:
 - [[recognition]]

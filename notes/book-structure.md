@@ -32,7 +32,7 @@ The corpus reads the same arc four ways simultaneously: as a recognition plot (m
 
 ## The apparatus
 
-The corpus keeps the book honest with a specific apparatus: inhabited margins that form a second book with its own plot; a verso column where readers countersign practices ("walked. still true." — atlas §X.6b); a planting ledger tracking every planted image to its payoff; an escrow system of promises made early and kept visibly; a per-chapter dial recording the ratio of evocative to informative prose; interludes placed at the part-junctions; and an eight-question checklist every chapter must pass, ending with "did writing it change you?" (atlas §X.6g).
+The corpus keeps the book honest with a specific apparatus: inhabited margins that form a second book with its own plot; a verso column where readers countersign practices ("walked. still true." — atlas §X.6b); a planting ledger tracking every planted image to its payoff; an escrow system of promises made early and kept visibly; a per-chapter dial recording the ratio of evocative to informative prose; interludes placed at the part-junctions; and an eight-question checklist every chapter must pass, ending with "did writing it change you?" (atlas §X.6g). Two of the devices carry the source tradition inside them: the dial is identified with the tradition's word for the pulse ([[the per-chapter dial is a spanda ratio]]), and the ledger's clearest case plants a Sanskrit formula rather than an image ([[the unfolding of the center is planted half-erased and finished at a mirror]]).
 
 ## The image system
 
@@ -77,6 +77,7 @@ The provenance record of 2026-08-02 and after — the accounts of the corpus's m
 ## Claims in this map
 
 - [[the book performs what it describes]] — the governing law, stated by the atlas, the walked document, and the first telling
+- [[reading is remembering]] — the governing law at its smallest and earliest scale: the front-matter promise, kept by the entry movement inducing what the architecture movement then names
 - [[the system is scaffolding rather than the centerpiece]] — the author's decision on what the book is centrally about, and the corpus's own prologue statement of it
 - [[the book is a tuning fork and the reader is the striking surface]] — the self-image installed on page one
 - [[beauty recruits the wrong posture]] — the tension between the prose's quality and the book's purpose
@@ -91,6 +92,8 @@ The provenance record of 2026-08-02 and after — the accounts of the corpus's m
 - [[the drafts disagree about which person the book speaks in]] — the unsettled grammatical realization of the middle voice
 - [[the executed draft carries the arc's sequence without the treatment's five rooms]] — the content bound on what has been drafted
 - [[the drafts execute one of the seven designed apparatus devices]] — the apparatus bound, and what "fully treated" therefore costs
+- [[the per-chapter dial is a spanda ratio]] — the chapter dial carries the tradition's word for the pulse
+- [[the unfolding of the center is planted half-erased and finished at a mirror]] — the clearest case of the planting device: a formula planted as a fragment and finished late
 - [[the minus sign is what makes a molecule formula prescriptive]] — the notation that sorts the catalogue into descriptions and instructions
 - [[the closing prompt changes genre where the book turns to praxis]] — the unstated rule governing what an instruction may ask for, and when
 - [[the treatment records four authorship conditions in its undercurrents]] — the author's recorded observations about writing the book, quoted

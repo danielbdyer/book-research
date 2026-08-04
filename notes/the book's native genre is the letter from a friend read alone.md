@@ -29,6 +29,7 @@ Relevant Notes:
 - [[a word at madhyama can be perfected forever a word at vaikhari can be answered]] — the doctrine the genre embodies: a letter is the answerable word's own form
 - [[the founding inversion restates the author's own sufficiency inheritance]] — the letter that occasioned the one confirmed sighting, and what it carried
 - [[seventeen chapters rest at madhyama]] — the move this genre reframes: a letter's completion is its sending
+- [[the gap between two states is where the concealed shows itself]] — the tradition's name for where a sent, unanswered letter lives: a junction, still mid-crossing
 
 Topics:
 - [[answerability]]

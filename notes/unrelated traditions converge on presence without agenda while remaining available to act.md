@@ -28,6 +28,7 @@ Relevant Notes:
 - [[transformation is enacted participation inside a held container]] — the same evidence shape at the mechanism pole: many vocabularies, one finding, each quotable
 - [[nothing enters the lattice the body has not countersigned]] — the standard by which a reader would check the attractor rather than take the list on authority
 - [[the cusp is the back door to the stance]] — the entrance the treatment adds for the case where cultivating the posture stalls
+- [[steven katz]] — the scholarly objection any multi-tradition convergence meets: if no experience is unmediated, a dozen vocabularies agreeing is a fact about the descriptions
 
 Topics:
 - [[felt-shift]]

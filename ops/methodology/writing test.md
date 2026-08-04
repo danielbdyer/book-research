@@ -1,5 +1,5 @@
 ---
-description: This directive, global and standing, sharpens the admission standard: material is admitted when it would satisfy future writing, and material that only supplies more work to do or describes the vault's own state does not become a claim.
+description: "This directive, global and standing, sharpens the admission standard: material is admitted when it would satisfy future writing, and material that only supplies more work to do or describes the vault's own state does not become a claim."
 category: configuration-state
 created: 2026-08-02
 status: active

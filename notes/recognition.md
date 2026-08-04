@@ -26,6 +26,18 @@ The corpus also stations a warning at this concern and credits it to Lacan: reco
 - [[recognition is the soul's reminder rather than the ego's reward]] — the positive form of the guard the atlas records only as Lacan's warning
 - [[what is recognized cannot be un-recognized]] — the cost the recognition promise implies, which only the earliest draft states
 - [[the house with no ceiling is transcendence with plumbing]] — the image that pre-loads this map's refusal of renunciation
+- [[the kashmir shaiva tradition underlies the book rather than joining its company]] — why the source tradition is not listed as one contributor among the others
+- [[the open center is made possible by the three structures and identical with none of them]] — the open middle the three structures exist for, where Lichtung and prakāśa name one place
+- [[the gap between two states is where the concealed shows itself]] — the teaching that disclosure happens at the crossings between states, which the interludes and the ending use
+- [[the unfolding of the center is planted half-erased and finished at a mirror]] — Kṣemarāja's formula, planted as a fragment and completed late in the book
+- [[kshemaraja]] — he wrote the twenty-sūtra summary on the book's reading list, and the formula the book plants
+- [[utpaladeva]] — he founded the recognition school; the corpus names him as the far side of the founding convergence
+- [[the kashmir shaiva tradition would decline four of the book's deepest moves]] — the tradition's refusals, tested by the author and now carrying exact citations
+- [[martin heidegger]] — the central verb's source, with his own four refusals and the associations named at the door
+- [[both poles of the convergence refuse the engineered epiphany]] — the foundations agree one step further: the apparatus can prepare and cannot cause
+- [[both poles of the convergence supply their own front doors]] — the accessible entries each tradition wrote for itself
+- [[the crossover has footsteps and the book already seats some of the walkers]] — the field around the core-thesis candidate, verified 2026-08-03: the spine held, and every careful walker recorded a difference
+- [[reading as remembering has a twenty-four-century ancestry in the west]] — Meno to Confessions X to the Parmenides lectures, sharing the gesture and disputing the destination
 
 ### Nascent stubs
 
@@ -41,7 +53,7 @@ This concern borders [[contraction-not-corruption]], because the move from heali
 
 ## What remains
 
-Atlas §I presents the central process under three names; its own phrase for the arrangement is "one verb wearing three costumes." Only the first name's material has been extracted into claims here, and the remainder of §I is listed as a pending region in `ops/queue/extractions.md`. The space-around survey raises Jorge Ferrer's participatory pluralism as a direct challenge to the two-traditions-one-conclusion framing. Ferrer has not been researched for this project; he is on the pending-evaluation list in `ops/queue/candidates.md`.
+The central-process regions are now extracted: each of atlas §I's three names for the process has its claims here, and the Kashmir Śaiva material of atlas §IX.6 was worked on 2026-08-03. Two pieces of that material are deliberately queued with other passes in `ops/queue/extractions.md`: the four upāyas belong with the practice curriculum, and so'yam belongs with the Courtyard overlay. The space-around survey raises Jorge Ferrer's participatory pluralism as a direct challenge to the two-traditions-one-conclusion framing. Ferrer has not been researched for this project; he is on the pending-evaluation list in `ops/queue/candidates.md`.
 
 ---
 

@@ -46,6 +46,10 @@ The corpus preserves, rather than adjudicates, the disagreements among its conte
 
 - [[the perfectible conversation is the manuscript's most comfortable room]] — the medium of the book's own making as the ideal chamber for the word that can be perfected forever. Treatment: the exit the record already named — one chapter, one email, two real readers.
 
+## The tension the author raised at the company
+
+- [[the tradition the book owes most has no chair in its company]] — the Kashmir Śaiva tradition is honored as the ground beneath everything and never given a guest's chair, raised by the author in his own words, 2026-08-03, alongside his note that the rooms grouping is a prior draft's trapping. The author has stated the direction: it deserves its flowers. Treatment: the road into the valley — how the book brings a Western reader to the tradition honestly; four candidate refusals are derived and awaiting his testing at [[the kashmir shaiva tradition would decline four of the book's deepest moves]].
+
 ## The method this map does not supply
 
 - [[a kept tension can be mapped rather than only held]] — nascent. Every treatment recorded above is an authorial move made in the writing; none is a move the reader can make. The gesture naming a reader-facing procedure is an open territory, inventoried in `ops/open corpus.md`.

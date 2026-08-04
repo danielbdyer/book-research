@@ -1,5 +1,5 @@
 ---
-description: The book claims that two people in genuine contact generate a third participant that metabolizes what neither can metabolize alone, and it makes the claim literally: the field is a participant, and it does work.
+description: "The book claims that two people in genuine contact generate a third participant that metabolizes what neither can metabolize alone, and it makes the claim literally: the field is a participant, and it does work."
 category: claim
 sources: ["atlas §VIII", "walked VIII", "first-telling: the between"]
 topics: ["[[relational-field]]"]

@@ -1,5 +1,5 @@
 ---
-description: The fruit that falls carries ripe action, vaikhari as kriya, and brings the house rule with it: ripeness is not refrigeration — the archive preserves, the orchard ripens.
+description: "The fruit that falls carries ripe action, vaikhari as kriya, and brings the house rule with it: ripeness is not refrigeration — the archive preserves, the orchard ripens."
 category: image
 sources: ['arc-gloss: the image-system', 'atlas §X.5f']
 topics: ['[[answerability]]', '[[book-structure]]']

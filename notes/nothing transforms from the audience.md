@@ -1,5 +1,5 @@
 ---
-description: The corpus reports that its practice lineages agree on exactly one law: watching does not change the watcher, and transformation requires participation.
+description: "The corpus reports that its practice lineages agree on exactly one law: watching does not change the watcher, and transformation requires participation."
 category: claim
 sources: ["atlas §VIII.4 and §IX.3", "walked VIII–IX", "first-telling: the between"]
 topics: ["[[relational-field]]"]

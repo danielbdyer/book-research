@@ -1,5 +1,5 @@
 ---
-description: Hartmut Rosa is an evaluated candidate: his uncontrollability clause completes the tuning fork's theory, and his structural diagnosis is an objection to any book answering at the scale of one reader.
+description: "Hartmut Rosa is an evaluated candidate: his uncontrollability clause completes the tuning fork's theory, and his structural diagnosis is an objection to any book answering at the scale of one reader."
 category: interlocutor
 seat: candidate
 recommendation: "Reference-lineage, seated twice over: he completes the closing image's theory and supplies a name for the position the corpus states and leaves anonymous, that some suffering lives in economic and institutional arrangement."
@@ -23,9 +23,9 @@ The survey's proposed sentence for the honesty section — that the book can bui
 
 ## The refusal worth keeping
 
-Rosa's own refusal is the uncontrollability clause, and the book inherits it as a limit on its own claims: an apparatus designed to guarantee the felt shift would, by this argument, be building the one condition under which the shift cannot occur. The mute world is what full control produces: "where 'everything is under control', the world no longer has anything to say to us" (116).
+Rosa's own refusal is the uncontrollability clause, and the book inherits it as a limit on its own claims: an apparatus designed to guarantee the felt shift would, by this argument, be building the one condition under which the shift cannot occur. The mute world is what full control produces: "where 'everything is under control', the world no longer has anything to say to us" (116). His is the third vocabulary on record to draw this boundary, and the other two are the book's own foundations, which reach it with no contact between them ([[both poles of the convergence refuse the engineered epiphany]]). A sociologist writing in 2018 is the contemporary form of a limit Heidegger and the valley each stated in their own terms.
 
-The sharper counterweight is the objection to Rosa, because it lands on the book harder than on him. His diagnosis is structural — modern society is dynamically stabilized, requiring growth, acceleration, and innovation simply to maintain its institutional status quo — and resonance at the individual scale leaves that structure untouched. Critics of *The Uncontrollability of the World* have named the consequence directly: "there is something conservative about the prescriptions to 'simply let life happen' and joyfully accept our fate as a gratuitous gift" (Christiaens, *Marx & Philosophy Review of Books*). An oasis of resonance inside an escalatory structure can be the thing that makes the structure bearable. A book addressed to one reader's Tuesday is exposed to that objection at full force, and the corpus already holds the position it comes from without a name attached to it.
+The sharper counterweight is the objection to Rosa, because it lands on the book harder than on him. His diagnosis is structural — modern society is dynamically stabilized, requiring growth, acceleration, and innovation simply to maintain its institutional status quo — and resonance at the individual scale leaves that structure untouched. Critics of *The Uncontrollability of the World* have named the consequence directly: "there is something conservative about the prescriptions to 'simply let life happen' and joyfully accept our fate as a gratuitous gift" (Christiaens, *Marx & Philosophy Review of Books*). An oasis of resonance inside an escalatory structure can be the thing that makes the structure bearable. A book addressed to one reader's Tuesday is exposed to that objection at full force, and the corpus already holds the position it comes from without a name attached to it. The objection has a sharper form aimed at this book's particular materials: Andrea Jain's gestural subversion, on which commodified spirituality acknowledges the harms of the system it lives inside and subverts them in gesture only ([[andrea jain]]). Rosa names the structure; Jain names what happens to a book that answers it well and sells anyway.
 
 ## What the evaluation found that the survey did not
 
@@ -39,6 +39,8 @@ Relevant Notes:
 - [[the transformation field divides into five theories of where suffering lives]] — the company whose one anonymous position his structural diagnosis would name
 - [[felt shift versus felt confirmation]] — the honesty material his uncontrollability clause belongs beside
 - [[the tuesday is the temple]] — the commitment his structural objection presses hardest on
+- [[both poles of the convergence refuse the engineered epiphany]] — the same boundary reached by the book's two foundations, for which his clause is the contemporary statement
+- [[andrea jain]] — the sharper form of his structural objection, aimed at the spirituality economy this book would sell into
 
 Topics:
 - [[interlocutors]]

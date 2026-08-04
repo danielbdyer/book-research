@@ -1,5 +1,5 @@
 ---
-description: Gregory Bateson is an evaluated candidate: his learning levels formalize the book's account of protective structure, and his refusal of conscious purpose is aimed at books like this one.
+description: "Gregory Bateson is an evaluated candidate: his learning levels formalize the book's account of protective structure, and his refusal of conscious purpose is aimed at books like this one."
 category: interlocutor
 seat: candidate
 clause: "Draft, pending the author's decision: character is learning at the second level, and the reframe is the third — which he says is dangerous."

@@ -26,6 +26,7 @@ The dating is one-sided rather than global. It establishes that these two docume
 Relevant Notes:
 - [[the triad is the anatomy of every container]] — the claim these drafts state under the earlier names
 - [[the atlas was compiled from the arc and gloss treatment]] — the other reading instruction the drafts require
+- [[ordinary names keep the deepest structures visible]] — the doctrine the veto became, and the reason the drafts' names are not merely older but declined
 
 Topics:
 - [[container-anatomy]]

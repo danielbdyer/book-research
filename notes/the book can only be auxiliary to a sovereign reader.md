@@ -1,5 +1,5 @@
 ---
-description: The letter's grammar, the resonance theory, and the facilitator's craft agree on the book's honest maximum: an instrument in service of a life that remains the reader's own — never an authority.
+description: "The letter's grammar, the resonance theory, and the facilitator's craft agree on the book's honest maximum: an instrument in service of a life that remains the reader's own — never an authority."
 category: claim
 sources: ["provenance addendum four §II.1 (consulted, held in provenance/)", "atlas §IX.3", "arc-gloss: ch13", "space-around: around the honesty"]
 topics: ["[[relational-field]]"]
@@ -30,6 +30,8 @@ Relevant Notes:
 - [[the reader's resistance has nowhere to land]] — the tension this eases: a sovereign's refusal is not the book's failure
 - [[the basic practice posture is a point of return rather than a state]] — the stance, which is this relation held from the book's side
 - [[a witness kept as proof forecloses what it proves]] — the failure mode the auxiliary relation exits
+- [[the book is written to the relational field and enacted upon the author first]] — the author's own warrant for this maximum, reached from the writer's side: usefulness to a reader is a consequence rather than the aim, so there is no stake to press
+- [[reading as remembering has a twenty-four-century ancestry in the west]] — the oldest staging of this relation: the Meno's guide inserts nothing and questions the knower toward what he already holds
 
 Topics:
 - [[relational-field]]

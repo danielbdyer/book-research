@@ -28,6 +28,7 @@ Relevant Notes:
 - [[the triads privations map the three malas corner for corner]] — the correspondence this dating puts in order: the structure first, the tradition's diagnosis afterward
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the other Kashmir Śaiva convergence, whose independence claim needs the same dating
 - [[the figures precede the system by a year and the two were welded together later]] — the parallel finding one layer up, where the figures precede the system
+- [[the kashmir shaiva tradition underlies the book rather than joining its company]] — the arrangement this dating bears on: ground rather than influence, with the meeting dated rather than assumed
 
 Topics:
 - [[container-anatomy]]

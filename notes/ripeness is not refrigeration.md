@@ -1,5 +1,5 @@
 ---
-description: The corpus rules against indefinite preservation of finished work: an archive keeps work intact without maturing it, so readiness that never issues in release has become storage.
+description: "The corpus rules against indefinite preservation of finished work: an archive keeps work intact without maturing it, so readiness that never issues in release has become storage."
 category: claim
 sources: ["atlas §V.3", "walked V"]
 topics: ["[[answerability]]", "[[methods]]"]

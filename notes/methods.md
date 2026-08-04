@@ -31,11 +31,22 @@ All vault prose is expository and evidential: complete sentences with named subj
 
 ## Claims in this map
 
+### The claims the house rules rest on
+
 - [[the book performs what it describes]] — the law the vault inherits as a design obligation
 - [[ripeness is not refrigeration]] — the source of the output rule
 - [[felt shift versus felt confirmation]] — the source of the verification rule's humility
 - [[the topology only exists where it is being performed]] — the source of the scope rule
 - [[the atlas was compiled from the arc and gloss treatment]] — the source of the standing rule, and the reason agreement among three of the seven documents counts once
+
+### What the record of the making adds to the rules
+
+The provenance rounds established facts about how the corpus was made. Four of them are methodological rather than biographical: each changes how a source is read, how agreement is counted, or what the vault may claim on its own behalf.
+
+- [[the corpus quotes the author's poems rather than the poems quoting the corpus]] — the operative rule for the primary source, stated in the registry below as the direction of quotation: for poems 1–15 a shared phrase belongs to the poem, so a corpus phrase may be a citation rather than a coinage.
+- [[the earliest chapter was written through a voice distilled from the author's first fifteen poems]] — what the craft rule is actually reading when it reads the high-water voice: a specification the author wrote from his own poems and then wrote through, rather than a style that emerged.
+- [[flourishing flow and facilitation converged on one stance in the author's own record]] — the count-once rule extended from documents to domains, since three of the author's chosen fields converging shows the coherence of his attention rather than a law of the fields.
+- [[the making of the book enacts the law the book states]] — the limit case of the scope rule, and the one the vault sits inside: a law appearing in its own production history shows consistency of the maker, not truth of the law.
 
 ## Nascent stubs
 

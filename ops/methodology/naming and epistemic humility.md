@@ -1,5 +1,5 @@
 ---
-description: This directive, global and standing, treats the corpus's figures and coinages as candidate labels rather than as referents: vault prose names the concern, attributes the corpus's name, and holds every name as undecided.
+description: "This directive, global and standing, treats the corpus's figures and coinages as candidate labels rather than as referents: vault prose names the concern, attributes the corpus's name, and holds every name as undecided."
 category: configuration-state
 created: 2026-08-02
 status: active

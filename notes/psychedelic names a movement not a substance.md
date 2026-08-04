@@ -18,12 +18,14 @@ The reclaimed word does structural work: the corpus treats the movement it names
 - Atlas §I lists the word first among the three names the corpus gives this central process, before aletheia and pratyabhijñā.
 - First-telling, "The word it reclaims," carries the Tuesday formulation and connects the word to the book's structural secret (the reader undergoes the arc the word describes).
 - The space-around survey extends this claim outward: the set-and-setting literature generalizes, and the survey proposes that the book's container anatomy is a general theory of set and setting.
+- The reclamation has an objection from inside the book's own foundation, and it lands on the first half of the word rather than the second. Heidegger spent his career dismantling the soul as an inner substance, so a founding term built from psychē is, in his terms, ontotheology in friendly clothes — the fourth of the four refusals derived at [[martin heidegger]]. The objection is worth holding because the book takes its central verb from him: the same chair supplies the name for the movement and declines the name for what moves.
 
 ---
 
 Relevant Notes:
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the two older names for the same movement
 - [[the tuesday is the temple]] — the commitment that keeps the movement in ordinary life
+- [[martin heidegger]] — the chair that supplies the book's central verb and declines this word's soul-half as ontotheology
 
 Topics:
 - [[recognition]]

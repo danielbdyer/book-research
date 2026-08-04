@@ -1,5 +1,5 @@
 ---
-description: Every dated case runs the same direction — the author's plain formulation precedes the tradition's arrival — so the origin story that survives its provenance is: I noticed, and then found company.
+description: "Every dated case runs the same direction — the author's plain formulation precedes the tradition's arrival — so the origin story that survives its provenance is: I noticed, and then found company."
 category: claim
 sources: ["poems #5", "provenance addendum §4 (consulted, held in provenance/)", "provenance addendum three §6", "provenance reconstruction §1", "author statement, 2026-08-02"]
 topics: ["[[recognition]]", "[[book-structure]]"]
@@ -19,6 +19,8 @@ And it doubles as the book's invitation, which is why a drafting session would r
 - The dated instances are held in their own notes: [[the corpus quotes the author's poems rather than the poems quoting the corpus]], [[flourishing flow and facilitation converged on one stance in the author's own record]], [[the central correspondence was lived nine years before it was assembled]], [[psychedelic names a movement not a substance]], and the figure prehistory in [[figure glossary]]. This note states the pattern they share and its consequence for the telling.
 - The stronger story's defect is on record and is not softened here: the unanimity framing is a sampling artifact ([[the unanimity claim is an artifact of how the lineages were selected]]). The smaller story has no such defect, because finding company makes no claim about the field — only about the finding.
 - The stance directive governs the posture: this is an observation about what the record supports, offered as the telling the book *can* give, not a directive about the telling it must.
+- The company turns out to be larger than the corpus's roster, and the finding extends this telling rather than complicating it. The crossover the book stands on has named walkers, living developers, and standing opponents, and several of each are already seated in the book's own company ([[the crossover has footsteps and the book already seats some of the walkers]]). The same pattern runs inside the West's own remembering-tradition, which shares its gesture and disputes its destination across twenty-four centuries ([[reading as remembering has a twenty-four-century ancestry in the west]]).
+- This telling is also the one that survives the strongest scholarly objection to the whole project. Steven Katz's constructivism forbids the claim that different traditions report one underlying reality; it says nothing against a man noticing something and later finding that others had noticed it too ([[steven katz]]). What Katz breaks is the corpus's louder story, not this one.
 
 ---
 
@@ -27,6 +29,9 @@ Relevant Notes:
 - [[the unanimity claim is an artifact of how the lineages were selected]] — the defect the stronger telling carries and this one does not
 - [[reading is remembering]] — the promise to the reader that this origin story performs rather than asserts
 - [[the author curated and vetoed while the collaborator wrote the correspondences]] — the division of hands beneath the pattern: the noticings his, the wardrobe supplied after
+- [[the crossover has footsteps and the book already seats some of the walkers]] — the company found again, this time around the book's own founding crossing
+- [[reading as remembering has a twenty-four-century ancestry in the west]] — the same pattern inside the West's own remembering-line: shared gesture, disputed destination
+- [[steven katz]] — the objection this telling survives and the corpus's louder telling does not
 
 Topics:
 - [[recognition]]

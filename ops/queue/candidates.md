@@ -14,6 +14,23 @@ The section headings below reproduce the survey's own organization, which follow
 - [e] Hartmut Rosa — evaluated 2026-08-02, recommendation recorded, awaiting the author's decision. Recommended reference-lineage, seated twice: the uncontrollability clause completes the tuning fork's theory ("resonance thus implies semicontrollability"), and his structural diagnosis is a name for the material voice, which the roster currently carries anonymously. `notes/hartmut rosa.md`.
 - [ ] The instrument counterweights (felt shift versus felt confirmation; the muted signal and titration) — the tension itself is already admitted at `notes/felt shift versus felt confirmation.md`. What remains is the sourcing: grounding both counterweights in the processing-fluency and interoception literature rather than in the survey's summary. This is now the only unevaluated member of the priority five, and the load placed on the somatic instrument at `notes/surrender and will are adjudicated from the body rather than from doctrine.md` raises its priority.
 
+## The crossover's field (added 2026-08-03, from the core-thesis research at `notes/the crossover has footsteps and the book already seats some of the walkers.md`)
+
+The author's question: who else is around the aletheia–pratyabhijñā crossover, who develops it, who is against it, whose footsteps is he walking in. Researched at moderate web depth 2026-08-03 at the author's direction; shared background with full citation trail at `archive/research — crossover cluster background.md`. Deeper primary-work reads remain available per figure where a seat decision wants them.
+
+- [e] Henry Corbin — evaluated 2026-08-03, recommendation recorded, awaiting the author's decision. The nearest footstep, with the one-way rule kept. `notes/henry corbin.md`.
+- [e] J. L. Mehta — evaluated 2026-08-03, recommendation recorded, awaiting the author's decision. The standing refusal of the shortcut; the long-way-back dictum (verify wording against printed Halbfass before manuscript use). `notes/j l mehta.md`.
+- [e] John Caputo — evaluated 2026-08-03, recommendation recorded, awaiting the author's decision. Gelassenheit is Eckhart's word; his own later self-refusal kept beside the finding. `notes/john caputo.md`.
+- [e] The Kyoto School beyond Nishida — evaluated 2026-08-03, recommendation recorded, awaiting the author's decision. Nishitani under Heidegger; Ueda's difference-recording as the field's best practice. `notes/the kyoto school.md`.
+- [e] Isabelle Ratié — evaluated 2026-08-03, recommendation recorded, awaiting the author's decision. The scholarly warrant that the tradition argues. `notes/isabelle ratie.md`.
+- [e] David Peter Lawrence — evaluated 2026-08-03, recommendation recorded, awaiting the author's decision. Treatise-as-practice precedent; the proof-road kept as the declined fork. `notes/david peter lawrence.md`.
+- [e] Loriliai Biernacki — evaluated 2026-08-03, recommendation recorded, awaiting the author's decision. The living developer; the practice lane left open. `notes/loriliai biernacki.md`.
+- [e] Michel Henry — evaluated 2026-08-03, recommendation recorded, awaiting the author's decision. Nearest phenomenology to vimarśa; the pairing possibly open territory — settle with a scholarly-database pass. `notes/michel henry.md`.
+- [e] Steven Katz — evaluated 2026-08-03, recommendation recorded, awaiting the author's decision. Breaks only the evidentiary book already declined. `notes/steven katz.md`.
+- [e] Thomas Sheehan — evaluated 2026-08-03, recommendation recorded, awaiting the author's decision. The guard, anchored in the 1964 retraction. `notes/thomas sheehan.md`.
+- [e] Andrea Jain — evaluated 2026-08-03, recommendation recorded, awaiting the author's decision. Gestural subversion; sincerity is not a defense. `notes/andrea jain.md`.
+- [e] Plato's anamnesis and Augustine's memoria — evaluated 2026-08-03 as ancestry rather than a seat; recorded as a claim: `notes/reading as remembering has a twenty-four-century ancestry in the west.md`.
+
 ## Around "insight that doesn't move anything"
 
 - [ ] Louis Sass — hyperreflexivity: self-monitoring as the pathology itself.
