@@ -29,7 +29,7 @@ The field is wide open, all of it load-bearing — pick by appetite and build:
 5. **The concordance's largest reconciliation** — the abridged execution against the working structure, chapter by chapter; and the treatment's four overlays with its four second-edition images, storyboard-only until extracted (`ops/chapter concordance.md`).
 6. **Twelve nascent stubs** to fill or decline, and **the poems' full reduce pass** via the trailheads in `archive/source — the poems.md` — sixteen poems, the headwaters, barely three claims deep.
 
-Also held: the seventeen trial chapters, the Third Drawer, and the valley letter remain locatable-not-held in the author's storage; if they arrive, they outrank everything above. Author-gated and never jumped: seatings, the naming refactor, tension resolutions, placements — and release, which is the author's own lane.
+Also held: the seventeen trial chapters are arriving five at a time as of 2026-08-04, and they are unattested — another AI wrote them, the author has not read them entire, and he does not cosign them. They do not outrank the work above, and the earlier framing that said they would was written under the assumption they were his manuscript. Read them under the intake protocol in goals thread 9: they land in `inbox/`, a session reports before it reduces, only what the abridged edition does not already cover is a candidate, and no phrase from them is ever attributed to the author. The Third Drawer and the valley letter remain locatable-not-held and carry no such defect. Author-gated and never jumped: seatings, the naming refactor, tension resolutions, placements — and release, which is the author's own lane.
 
 ## What is settled
 
