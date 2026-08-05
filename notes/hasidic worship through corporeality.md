@@ -1,5 +1,5 @@
 ---
-description: The Hasidic teaching that eating, working and ordinary bodily life are themselves the site of worship rather than distractions from it, which is the book's householder claim reached in another hemisphere under another God.
+description: The Hasidic teaching that eating, working and ordinary bodily life are the site of worship rather than distractions from it, which is the book's householder claim under another God.
 category: interlocutor
 seat: candidate
 load: independent-arrival

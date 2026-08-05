@@ -118,6 +118,22 @@ The mesh grid's names, evaluated 2026-08-05 from the grid alone rather than agai
 - [[ernest gellner]] — adversary. The immunization diagnosis, and the least comfortable name available.
 - [[willoughby britton]] — adversary. The harm data, whose absence is the criticism the grid calls most defensible.
 
+The sort's named holes given chairs, 2026-08-05, at the author's direction and under the same caution — written from the grid alone, each needing its primary reading:
+
+- [[nisbett and wilson]] — adversary. Confabulation; the first paper to read of all of these, because its own carve-out may put the felt shift outside its range.
+- [[eric schwitzgebel]] — adversary. Introspection unreliable about present experience, which closes the carve-out the paper before him leaves open.
+- [[heinz von foerster]] — independent-arrival. The observer inside the observed system, from circuit design.
+- [[harold garfinkel]] — independent-arrival. Social facts produced in the doing, with the breaching experiments as a procedure for making the always-there visible.
+- [[donald schon]] — independent-arrival. Knowing-in-action, and the swampy lowlands drawn in 1983 by a management theorist.
+- [[keith johnstone]] — independent-arrival. Presence under witness from a rehearsal room, in the author's own first discipline; his status material has no equivalent in the book.
+- [[al-qushayri]] — independent-arrival. States that descend against stations that are earned, a millennium before the lattice the book would take the same structure from.
+- [[hasidic worship through corporeality]] — independent-arrival. The householder claim under another God, and the only candidate for it that adapts nothing.
+- [[paul meehl]] — adversary. What would the compositional scheme forbid? The formal version of the charge Richard Biernacki makes historically.
+- [[steven wasserstrom]] — adversary. The Eranos charge, which is structurally the charge available against this book's use of Trika.
+- [[douglas hofstadter]] — precedent. The bench's only good outcome, and the only one who handed the reader no tool.
+- [[gurdjieff and ouspensky]] — precedent. The nearest structural ancestor, and the record of authority dynamics no one designed.
+- [[mihaly csikszentmihalyi]] — precedent. The bench's only case that was welcomed, and inverted in the welcoming.
+
 ### How the convergences came about
 
 - [[the unanimity claim is an artifact of how the lineages were selected]] — the lineages were gathered on one day for the property they are then reported to share.
@@ -161,7 +177,11 @@ The nearest work is the author's: four of the survey's priority five are evaluat
 
 Two seats the evaluations found rather than filled. The material voice is the only position in the whole roster carried anonymously, and [[hartmut rosa]] is a working sociologist whose central object is exactly the grid it names. Lisa Feldman Barrett is the standing counterweight to [[karla mclaren]]'s messenger model and is on the pending list; the question her research puts to the roster — are the messengers found or made — is recorded in [[open-questions]].
 
-The sort of 2026-08-05 adds a second kind of work and reorders the first. Ten new notes exist on the grid's authority alone and each needs its primary reading; nine ranked holes are enumerated at `ops/lineage sort.md` and feed `ops/queue/candidates.md`. Eleven chairs still carry no load, which is recorded as an unanswered question rather than as a default — `scripts/queries/lineage-sort.sh` lists them. Two findings from the crossing are worth naming here because they are about the reading rather than about any thinker. Three disciplines are near-empty across every load — analytic philosophy, systems and design, practitioner pedagogy — and the strongest missing arrivals live in exactly those three, which is a fact about where the reading has gone rather than about where the thinkers are. And two of the eight propositions the grid treats as load-bearing have no claim note in this vault at all, while both already have adversaries seated against them: the vault currently holds objections to two things it has never stated.
+The sort of 2026-08-05 adds a second kind of work and reorders the first. Twenty-three new chairs exist on the grid's authority alone and every one needs its primary reading; nine ranked holes are enumerated at `ops/lineage sort.md` and feed `ops/queue/candidates.md`. Eleven older chairs still carry no load, which is recorded as an unanswered question rather than as a default — `scripts/queries/lineage-sort.sh` lists them.
+
+The queue's shape has changed and the change is worth stating precisely, because it is easy to overstate. Eight of the nine holes now have at least one chair, so the work is no longer *find the names* but *do the readings*. A chair records what the vault expects a thinker to hold and what it expects them to refuse; both expectations are the grid's until a text is opened, so no hole is closed. Only one hole has no chair at all — a third pole for the self-primacy fork, which would come from African philosophy, a discipline with no representative anywhere in the sort.
+
+Three findings from the crossing are about the reading rather than about any thinker. Three disciplines are near-empty across every load — analytic philosophy, systems and design, practitioner pedagogy — and the strongest missing arrivals live in exactly those three, which describes where the reading has gone rather than where the thinkers are. Two of the eight propositions the grid treats as load-bearing had no claim note here at all while both already had adversaries seated against them; writing them on 2026-08-05 showed that both are stated plainly in `sources/`, so the vault had missed two of the corpus's plainest propositions because neither arrives attached to a name or an image. And four traditions with nothing else in common — the Fourth Way, Sufi practice, collective trauma work, and Buber — independently refuse the same thing about the book's form, which is recorded at the foot of `ops/lineage sort.md` and settled in neither direction.
 
 ---
 

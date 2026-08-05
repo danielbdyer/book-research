@@ -1,5 +1,5 @@
 ---
-description: The Fourth Way is the nearest structural ancestor to a total system of self-observation delivered to modern practitioners, and the clearest record of how such a thing acquires authority dynamics its founder did not intend.
+description: The Fourth Way is the nearest structural ancestor to a total system of self-observation for modern practitioners, and the clearest record of how such a thing acquires authority its founder did not intend.
 category: interlocutor
 seat: candidate
 load: precedent

@@ -1,5 +1,5 @@
 ---
-description: The clinical psychologist and philosopher of science on theories in soft psychology that cannot fail because everything correlates with everything, which is the formal version of the charge against the compositional scheme.
+description: The clinical psychologist on theories in soft psychology that cannot fail because everything correlates with everything, which is the formal version of the charge against the compositional scheme.
 category: interlocutor
 seat: candidate
 load: adversary

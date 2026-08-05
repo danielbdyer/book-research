@@ -55,7 +55,7 @@ The author's question: who else is around the aletheia–pratyabhijñā crossove
 
 ## Around the instrument
 
-- [ ] Michael Polanyi — tacit knowing; the felt sense as the engine of all expertise.
+- [e] Michael Polanyi — evaluated 2026-08-05 from the mesh grid, recommendation recorded, awaiting the author's decision. The chair holds two functions by the author's direction of 2026-08-05: this one, tacit knowing as the felt sense's second voice, which matters more than it looks because the verification standard currently rests on Gendlin alone; and the larger one, the participation law's only non-continental witness. `notes/michael polanyi.md`.
 - [ ] William James — the fringe of consciousness; the felt sense's ancestry in American psychology.
 - [ ] Gendlin's Thinking at the Edge — the source lineage's own method for articulating from the murky edge.
 - [ ] Claire Petitmengin — micro-phenomenology; the strongest answer to the unfalsifiability objection.
@@ -143,7 +143,7 @@ Evaluated from the grid alone; primary reading still required for every one:
 - [e] Ken Wilber — four unrelated jobs uncredited, plus the only documented case history of an attempt like this one. `notes/ken wilber.md`.
 - [e] Martin Buber — the ontology under the relational vocabulary; currently at the epigraph position. `notes/martin buber.md`.
 - [e] Christopher Alexander — structure-preserving transformation as the book's edit-ethic; method-bearing rather than thesis-bearing. `notes/christopher alexander.md`.
-- [e] Michael Polanyi — reseated from support-for-the-felt-sense to the participation law's only non-continental witness. `notes/michael polanyi.md`. Supersedes his earlier entry under "Around the instrument," which is left in place as the record of the first reading of him.
+- [e] Michael Polanyi — the participation law's only non-continental witness. `notes/michael polanyi.md`. Held alongside rather than instead of his earlier entry under "Around the instrument": by the author's direction of 2026-08-05 the chair carries both functions, and the `load:` field records only the one the vault had missed.
 - [e] Ludwig Wittgenstein — *Investigations* §129 as an independent arrival at the veto reason, with the refusal that halves it. `notes/ludwig wittgenstein.md`. Cheap to verify; §§89–133 plus *On Certainty* on the hinge propositions.
 - [e] Thomas Hübl — independent arrival at privation through collective trauma work. `notes/thomas hubl.md`.
 - [e] Tony Robbins — the voluntarist pole at full strength, which the middle voice has to overcome. `notes/tony robbins.md`. Everything the vault holds about him is a summary written by an opponent.
@@ -152,25 +152,25 @@ Evaluated from the grid alone; primary reading still required for every one:
 
 Named by the sort and not yet given notes, grouped by the hole each would fill:
 
-- [ ] Richard Nisbett and Timothy Wilson, *Telling More Than We Can Know* (1977) — confabulation; the canonical empirical strike at the verification standard. **Hole 1.** Not to be confused with Lisa Feldman Barrett's separate entry.
-- [ ] Eric Schwitzgebel, *Perplexities of Consciousness* — introspection unreliable about current experience, not merely about causes. **Hole 1**, and the one aimed where the book actually stands.
+- [e] Richard Nisbett and Timothy Wilson — evaluated 2026-08-05 from the grid; primary reading still required. **Hole 1**, and the first paper to read of all of these. `notes/nisbett and wilson.md`.
+- [e] Eric Schwitzgebel — evaluated 2026-08-05 from the grid; primary reading still required. **Hole 1**, read second, because he closes the carve-out Nisbett and Wilson leave open. `notes/eric schwitzgebel.md`.
 - [ ] Karl Popper — unfalsifiability, against the participation law. **Hole 2.**
 - [ ] The replication-reform literature — the institutional form of the contamination objection. **Hole 2.**
 - [ ] The depersonalization and derealization literature — the observing self as symptom. **Hole 4.**
-- [ ] Heinz von Foerster — second-order cybernetics; the observer inside the observed system, reached from engineering. **Hole 3.**
-- [ ] Harold Garfinkel — ethnomethodology; the breaching experiments as the participation law demonstrated. **Hole 3.**
-- [ ] Donald Schön, *The Reflective Practitioner* — knowing-in-action, and the swampy lowlands against the high hard ground. **Hole 3.**
+- [e] Heinz von Foerster — evaluated 2026-08-05 from the grid; primary reading still required. **Hole 3.** `notes/heinz von foerster.md`.
+- [e] Harold Garfinkel — evaluated 2026-08-05 from the grid; primary reading still required. **Hole 3**, plus a second finding the grid does not name: the breaching experiments demonstrate the invisibility of the always-there rather than asserting it. `notes/harold garfinkel.md`.
+- [e] Donald Schön — evaluated 2026-08-05 from the grid; primary reading still required. **Hole 3.** `notes/donald schon.md`.
 - [ ] Edward Deci and Richard Ryan — the undermining effect; anti-instrumentality with data. **Hole 3.**
-- [ ] Keith Johnstone, *Impro* — presence under witness, from theatre training with no philosophy attached. **Hole 3**, and the author's own background is theatre.
-- [ ] Al-Qushayrī and the Sufi *ahwal*–*maqamat* distinction — the state/station structure a millennium early. **Holes 5 and 6**; verify the wording against a printed translation before manuscript use.
-- [ ] *Avodah be-gashmiyut* (Hasidic), Brother Lawrence, Layman Pang — the householder claim from outside the Indic world. **Hole 5.**
+- [e] Keith Johnstone — evaluated 2026-08-05 from the grid; primary reading still required. **Hole 3**, in the author's own first discipline; the status material has no equivalent anywhere in the book. `notes/keith johnstone.md`.
+- [e] Al-Qushayrī — evaluated 2026-08-05 from the grid; primary reading still required, and the wording must be verified against a printed translation before manuscript use. **Holes 5 and 6.** `notes/al-qushayri.md`.
+- [e] Hasidic worship through corporeality, with Brother Lawrence beside it — evaluated 2026-08-05 from the grid; primary reading still required. **Hole 5**, and the strongest candidate for it, because the tradition never required renunciation rather than adapting a practice that did. Layman Pang remains unqueued. `notes/hasidic worship through corporeality.md`.
 - [ ] Ubuntu personhood — Ifeanyi Menkiti, Mogobe Ramose — a third pole for the self-primacy fork, which has two poles because the room has two traditions. **Hole 6.**
 - [ ] Stanislav Grof — the spiritual-emergency literature, for the dissolution-versus-regression guardrail. **Hole 7.** Already listed above from the abridged edition's lineage list.
-- [ ] Paul Meehl — unfalsifiability in soft psychology; the formal version of the reification charge against the compositional scheme.
+- [e] Paul Meehl — evaluated 2026-08-05 from the grid; primary reading still required. The formal version of the charge Richard Biernacki makes historically. `notes/paul meehl.md`.
 - [ ] Richard Biernacki — the sociologist of method, on building the instrument that finds the thing everywhere. Distinct from Loriliai Biernacki, who is seated in the crossover cluster; the collision of surnames has already caused one misreading.
 - [ ] The DSM's history and the RDoC turn — the documented case of a category scheme that became real by being used.
-- [ ] Steven Wasserstrom — the charge against the Eranos circle, structurally the charge available against this book's use of Trika. Bears on `notes/henry corbin.md`.
+- [e] Steven Wasserstrom — evaluated 2026-08-05 from the grid; primary reading still required, and his own critics have to be held with him. `notes/steven wasserstrom.md`.
 - [ ] Keiji Nishitani, on his own rather than inside the Kyoto School note — the highest-variance name in the sort. `notes/nihility may be a station the contraction scheme cannot represent.md` states the fork.
-- [ ] Douglas Hofstadter, Gurdjieff and Ouspensky, Mihaly Csikszentmihalyi — the precedent bench beside Wilber, sorted by what happened to them rather than by what they hold. John Vervaeke is already queued above and belongs with them.
+- [e] Douglas Hofstadter, Gurdjieff and Ouspensky, Mihály Csíkszentmihályi — evaluated 2026-08-05 from the grid as three separate notes; what each needs is a reception history rather than a primary reading, which is the right size for a precedent. `notes/douglas hofstadter.md`, `notes/gurdjieff and ouspensky.md`, `notes/mihaly csikszentmihalyi.md`. John Vervaeke is queued above and belongs with them.
 - [ ] Byron Katie, the Conscious Leadership Group and Jerry Colonna, Otto Scharmer — ground for machinery already running; all four are already in the roster and need notes only when a claim reaches for them.
 - [ ] John Wineland and David Deida — the one coaching position that locates suffering in a withheld gift rather than a misperception, which the grid says "deserves one honest look before demotion."

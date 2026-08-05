@@ -1,5 +1,5 @@
 ---
-description: The corpus crowns its ladder of speech with aham, the full I, and ends the book by restoring the first person rather than dissolving it, which makes the self the route out of itself instead of the thing standing in the way.
+description: The corpus crowns its ladder of speech with aham, the full I, and ends the book by restoring the first person rather than dissolving it, which makes the self the route out of itself rather than the obstacle.
 category: claim
 sources: ["walked VI", "walked IX", "atlas §VI.1", "atlas §II", "arc-gloss: epilogue", "mesh grid: the claims the grid is sorting against"]
 topics: ["[[recognition]]", "[[book-structure]]"]

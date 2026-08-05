@@ -1,5 +1,5 @@
 ---
-description: The corpus writes Dogen's identity of practice and realization into every exercise it prescribes, so the practice is not undertaken to produce a state, and the book's own promise of transformation sits against that clause unresolved.
+description: The corpus writes Dogen's identity of practice and realization into every exercise it prescribes, and the book's own promise of transformation sits against that clause unresolved.
 category: claim
 sources: ["walked IX", "atlas §IX.8d", "atlas §VII.2", "mesh grid: the claims the grid is sorting against", "mesh grid: against C6"]
 topics: ["[[felt-shift]]", "[[book-structure]]"]
