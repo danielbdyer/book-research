@@ -72,6 +72,15 @@ Two open questions from the sort are held here as claims rather than as queue ro
 - [[the householder claim has no witness outside the indic world]] — a load-bearing claim supported entirely from the tradition it descends from, with an adversary already seated against it and three candidate arrivals unread.
 - [[nihility may be a station the contraction scheme cannot represent]] — the highest-variance name in the whole sort: one branch costs nothing, the other requires a structural revision, and only the reading decides.
 
+## The reading the corpus names as its own arbiter (2026-08-05)
+
+One entry in the queue was promoted out of the list on 2026-08-05, because the corpus does not merely suggest it — it names it as the standard a live claim must meet.
+
+- [[the corpus names the standard its found-not-invented axiom has not met]] — Wierzbicka's semantic primes, named by the outward survey as "the standard of evidence to meet or gracefully decline" for any claim that the alphabet is found rather than invented, while the atlas files that claim as an axiom's supporting evidence. Burke's terministic screens sit beside it as the counterweight, and both are unread.
+- [[the alphabet's closure rests on a drill no record shows being run]] — the claim on the other side of that bar: three statements of a completed falsifiability test, no candidate named, no reduction shown, and nothing in the reconstructions of the making that records the test occurring.
+
+Neither is urgent for the manuscript, because the author has already demoted the vocabulary from architecture to instrument. Both are here because they were asked for directly: whether the triad and the molecules hold merit outside the conversations that produced them (author question, 2026-08-05).
+
 The sort's own discipline-level finding belongs here too, because it is about this map rather than about any thinker. Three provenance families are near-empty across every load — analytic philosophy, systems and design, practitioner pedagogy — and the strongest missing arrivals live in exactly those three. That is a description of where the reading has gone so far, not of where the thinkers are.
 
 ## What remains

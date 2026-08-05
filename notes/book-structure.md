@@ -116,6 +116,11 @@ The provenance record of 2026-08-02 and after — the accounts of the corpus's m
 - [[the per-chapter dial is a spanda ratio]] — the chapter dial carries the tradition's word for the pulse
 - [[the unfolding of the center is planted half-erased and finished at a mirror]] — the clearest case of the planting device: a formula planted as a fragment and finished late
 - [[the minus sign is what makes a molecule formula prescriptive]] — the notation that sorts the catalogue into descriptions and instructions
+- [[the compositional notation does not license the operations its syntax implies]] — what happens when the executed draft's own formulas are checked against each other
+- [[the alphabet's closure rests on a drill no record shows being run]] — the asserted test that made the set an alphabet, and its missing instance
+- [[the corpus names the standard its found-not-invented axiom has not met]] — two descriptive sources disagreeing about whether the vocabulary is a discovery
+- [[the executed draft cannot decide whether the primitives are elementary operations or useful tools]] — the same page asserting both statuses, treated by the author's demotion
+- [[the diagnostic discipline survives the apparatus that carries it]] — what stands if the notation is set aside, and on what grounds
 - [[the closing prompt changes genre where the book turns to praxis]] — the unstated rule governing what an instruction may ask for, and when
 - [[the treatment records four authorship conditions in its undercurrents]] — the author's recorded observations about writing the book, quoted
 - [[the units the treatment flags as unfinished are the shortest in the executed draft]] — the measurement that confirms two of those conditions

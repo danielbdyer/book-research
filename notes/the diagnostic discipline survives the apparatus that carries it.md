@@ -1,5 +1,5 @@
 ---
-description: "Two things the chemistry is credited with — resolving a vague prescription into a specific missing operation, and reading distress as incompleteness rather than fault — each stand on grounds the closed alphabet and the formulas do not supply."
+description: "Two things the chemistry is credited with — resolving a vague prescription into a specific missing operation, and reading distress as incompleteness rather than fault — rest on grounds the apparatus does not supply."
 category: claim
 sources: ["abridged ch5", "abridged ch6", "space-around: around the chemistry", "atlas §II"]
 topics: ["[[contraction-not-corruption]]", "[[book-structure]]"]

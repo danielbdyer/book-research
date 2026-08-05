@@ -1,5 +1,5 @@
 ---
-description: "The formulas borrow the plus and minus signs of chemistry and arithmetic, but the executed draft's own compositions fail substitution, collapse two distinct operations into one expression, and reach outside the alphabet twice."
+description: "The formulas borrow the signs of chemistry and arithmetic, but the executed draft's own compositions fail substitution, give two distinct operations one expression, and reach outside the alphabet twice."
 category: craft
 sources: ["abridged ch5", "abridged ch6", "abridged ch8", "atlas §III", "atlas §IV"]
 topics: ["[[book-structure]]", "[[contraction-not-corruption]]"]

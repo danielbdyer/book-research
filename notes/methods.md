@@ -71,6 +71,8 @@ A claim may be recorded before it is substantiated, carrying `state: nascent`, w
 
 Seven source documents, each with an archive note recording provenance, standing, and extraction state. Each entry gives the citation name claims use, the file, and the anchor grammar.
 
+**What the registry is a registry of, restated by the author 2026-08-05.** These documents are the vault's evidence and not its subject: "this research is and has always been about the primary material, and not the sources I've provided which indicate an imperfectly potentiated form of the essences I really care about." Every rule below is unchanged as a rule for reading evidence. What sits above them is the direction of flow — the corpus is downstream of what the research is about, so no quantity of corpus material settles the subject, and where the two conflict the primary material governs. The directive is `ops/methodology/the primary material.md`; the consequence that reaches this list most often is that a thinker's own work is primary and the corpus's account of that thinker is not.
+
 ### Descriptive sources (the four founding documents, July 2026)
 
 These describe the book from outside it.

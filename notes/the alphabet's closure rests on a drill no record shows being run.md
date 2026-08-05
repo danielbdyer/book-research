@@ -1,5 +1,5 @@
 ---
-description: "Two sources report that a falsifiability test closed the set of twelve primitives at twelve, but no candidate thirteenth is named anywhere, no reduction is shown, and the provenance reconstructions do not record the test happening."
+description: "The corpus reports a falsifiability test that closed the set of primitives at twelve, but no candidate thirteenth is named, no reduction is shown, and the reconstructions of the making do not record the test."
 category: claim
 sources: ["atlas §III", "walked III", "first-telling: the offering", "provenance reconstruction §4 (consulted, held outside sources/)"]
 topics: ["[[research-frontier]]", "[[book-structure]]"]
