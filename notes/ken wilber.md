@@ -1,5 +1,5 @@
 ---
-description: The integral theorist whom the vault holds as one name in a thirty-name reference lineage, and whom the mesh grid finds already load-bearing in two places, adversarial in a third, and instructive as a case history in a fourth.
+description: The integral theorist held here as one name in a thirty-name reference lineage, whom the sort finds already load-bearing in two places, adversarial in a third, and a case history in a fourth.
 category: interlocutor
 seat: candidate
 load: precedent

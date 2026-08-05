@@ -1,5 +1,5 @@
 ---
-description: Firing on all cylinders assumes a person has multiple semi-independent capacities that can be world-class in one and infantile in another, which is the book's diagnostic premise stated as a car metaphor rather than as a claim.
+description: Firing on all cylinders assumes multiple semi-independent capacities that can be world-class in one register and infantile in another, which is the book's diagnostic premise stated as a metaphor rather than a claim.
 category: structure
 sources: ["mesh grid: addendum, Wilber properly seated", "mythic-os: contents"]
 topics: ["[[book-structure]]", "[[contraction-not-corruption]]"]

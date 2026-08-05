@@ -1,5 +1,5 @@
 ---
-description: Three of the four thinkers positioned around the book's founding convergence studied with, translated, or built their systems against Heidegger, which makes their agreement a family resemblance rather than an independent arrival.
+description: Three of the four thinkers positioned around the book's founding convergence studied with, translated, or built against Heidegger, which makes their agreement a family resemblance rather than an arrival.
 category: claim
 sources: ["mesh grid: tier 3", "archive/research — crossover cluster background.md"]
 topics: ["[[interlocutors]]", "[[methods]]"]

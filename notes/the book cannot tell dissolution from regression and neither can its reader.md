@@ -1,5 +1,5 @@
 ---
-description: Pre-rational and trans-rational states both look non-rational from outside and are routinely confused, and the book that walks a reader toward deliberate destabilization names no diagnostic anywhere for telling one from the other.
+description: Pre-rational and trans-rational states both look non-rational from outside, and a book that walks a reader toward deliberate destabilization names no diagnostic for telling one from the other.
 category: tension
 status: live
 treatment: "unassigned — the guardrail is named but not built"

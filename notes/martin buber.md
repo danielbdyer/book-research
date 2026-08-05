@@ -1,5 +1,5 @@
 ---
-description: The philosopher whose I–Thou is the origin of the relational-presence vocabulary the book runs on, reached independently of Heidegger and later argued explicitly against him, and currently seated in the lightest position the roster has.
+description: The philosopher whose I–Thou is the origin of the relational-presence vocabulary the book runs on, reached independently of Heidegger and argued against him, and currently seated at the roster's lightest position.
 category: interlocutor
 seat: candidate
 load: thesis-bearing

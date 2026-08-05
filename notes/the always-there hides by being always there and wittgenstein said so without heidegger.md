@@ -1,5 +1,5 @@
 ---
-description: Philosophical Investigations §129 states that the most important aspects of things are hidden by their simplicity and familiarity, which is the book's reason why the concealed stays concealed, written in 1953 with no debt to either pole of its founding convergence.
+description: Investigations §129 holds that the most important aspects of things are hidden by their simplicity and familiarity, which is the book's reason why the concealed stays concealed, reached with no Heidegger under it.
 category: isomorph
 sources: ["mesh grid: tier 3", "mesh grid: the search map"]
 topics: ["[[recognition]]", "[[interlocutors]]"]

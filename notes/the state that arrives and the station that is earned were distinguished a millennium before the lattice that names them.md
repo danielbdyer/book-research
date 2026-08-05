@@ -1,5 +1,5 @@
 ---
-description: The Sufi distinction between ahwal, states descending as gifts, and maqamat, stations earned by the sweat of the brow, is an independent arrival at the state-and-structure claim, reached a thousand years earlier outside both traditions the book stands on.
+description: The Sufi distinction between states that descend as gifts and stations earned by the sweat of the brow is an independent arrival at the state-and-structure claim, from outside both traditions the book stands on.
 category: isomorph
 sources: ["mesh grid: other names recovered", "mesh grid: addendum, Wilber properly seated"]
 topics: ["[[interlocutors]]", "[[recognition]]"]

@@ -1,5 +1,5 @@
 ---
-description: If Nishitani's nihility is a real condition distinct from contraction rather than a variant of constitutive lack, the book's account of what is wrong with a person is incomplete in a way that requires structural revision rather than addition.
+description: If Nishitani's nihility is a real condition distinct from contraction rather than a variant of constitutive lack, the book's account of what is wrong with a person needs structural revision rather than addition.
 category: open-question
 sources: ["mesh grid: tier 1", "archive/research — crossover cluster background.md"]
 topics: ["[[research-frontier]]", "[[contraction-not-corruption]]"]

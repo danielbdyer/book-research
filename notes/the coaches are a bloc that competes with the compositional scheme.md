@@ -1,5 +1,5 @@
 ---
-description: The five theories of where suffering lives are five complete rival accounts of the same territory the book's compound diagnoses cover, so the eleven teachers are collectively an argument against the scheme rather than a referral network inside it.
+description: The five theories of where suffering lives are rival accounts of the territory the book's compound diagnoses cover, so the eleven teachers are collectively an argument against the scheme rather than a network inside it.
 category: claim
 sources: ["mesh grid: the coaches", "walked IX", "atlas §IX.5", "arc-gloss: ch7"]
 topics: ["[[interlocutors]]", "[[contraction-not-corruption]]"]

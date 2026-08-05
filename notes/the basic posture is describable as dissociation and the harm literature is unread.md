@@ -1,5 +1,5 @@
 ---
-description: Gaze outward with attention resting inward is also a clinical description of depersonalization, and the contemplative adverse-effects research documenting flattened affect and detachment has never been put to the book's central posture.
+description: Gaze outward with attention resting inward is also a clinical description of depersonalization, and the contemplative adverse-effects research has never been put to the book's central posture.
 category: tension
 status: live
 treatment: "unassigned — Britton's research and the depersonalization literature are unread here"

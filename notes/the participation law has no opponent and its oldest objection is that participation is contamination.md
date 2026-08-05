@@ -1,5 +1,5 @@
 ---
-description: Nothing in the book's company argues against the claim that the knower is inseparable from the known, though the objection is old and institutionalized — blinding and randomization exist because the knower inside the system distorts it.
+description: "Nothing in the book's company argues against the claim that the knower is inseparable from the known, though the objection is institutionalized: blinding and randomization exist because the knower distorts the system."
 category: tension
 status: live
 treatment: "unassigned — Gellner, Popper, and the replication-reform literature are unread here"

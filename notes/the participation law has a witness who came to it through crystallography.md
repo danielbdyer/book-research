@@ -1,5 +1,5 @@
 ---
-description: Michael Polanyi arrived at indwelling, tacit knowing, and the personal participation of the knower from inside the philosophy of science with no phenomenological debt, which would make the book's first law a finding rather than a lineage position.
+description: Michael Polanyi reached indwelling and the participation of the knower from inside the philosophy of science with no phenomenological debt, which would make the book's first law a finding rather than a lineage position.
 category: isomorph
 sources: ["mesh grid: tier 3", "mesh grid: the search map"]
 topics: ["[[relational-field]]", "[[interlocutors]]"]

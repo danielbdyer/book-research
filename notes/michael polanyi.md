@@ -1,5 +1,5 @@
 ---
-description: The physical chemist turned philosopher of science who arrived at indwelling and the personal participation of the knower from inside crystallography, which would give the book's first law its only witness with no debt to either founding tradition.
+description: The physical chemist turned philosopher of science who reached indwelling and the personal participation of the knower from inside crystallography, which would give the book's first law its only outside witness.
 category: interlocutor
 seat: candidate
 load: independent-arrival

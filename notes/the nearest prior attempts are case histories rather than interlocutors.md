@@ -1,5 +1,5 @@
 ---
-description: A handful of people have already attempted a grand synthesis across contemplative and empirical traditions delivered to practitioners as a usable system, and their value to the book is what happened to them rather than what they hold.
+description: A handful of people have already attempted a synthesis across contemplative and empirical traditions delivered as a usable system, and their value to the book is what happened to them rather than what they hold.
 category: structure
 sources: ["mesh grid: tier 0", "mesh grid: revised search map"]
 topics: ["[[interlocutors]]", "[[book-structure]]"]

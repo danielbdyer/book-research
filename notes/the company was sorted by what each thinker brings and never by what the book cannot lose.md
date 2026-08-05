@@ -1,5 +1,5 @@
 ---
-description: The vault's five-group taxonomy of the book's company sorts thinkers by contribution, which answers what each brings and never asks what happens to the book if one leaves, and the author named that lens wrong on 2026-08-05.
+description: The five-group taxonomy of the book's company sorts by contribution, which answers what each thinker brings and never asks what happens if one leaves, and the author named that lens wrong on 2026-08-05.
 category: structure
 sources: ["mesh grid: how to read the pyramid", "arc-gloss: the five rooms", "atlas §IX.4", "author statement, 2026-08-05"]
 topics: ["[[interlocutors]]", "[[methods]]"]

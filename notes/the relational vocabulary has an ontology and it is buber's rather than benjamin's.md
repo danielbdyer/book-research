@@ -1,5 +1,5 @@
 ---
-description: Martin Buber's I–Thou is the origin of the relational-presence vocabulary the book runs on, reached independently of Heidegger and later explicitly against him, which makes him the philosophical bearer of the between where Benjamin is the clinic.
+description: Martin Buber's I–Thou is the origin of the relational-presence vocabulary the book runs on, which makes him the philosophical bearer of the between, where Jessica Benjamin's thirdness is the clinical account.
 category: claim
 sources: ["mesh grid: other names recovered", "atlas §IX"]
 topics: ["[[relational-field]]", "[[interlocutors]]"]

@@ -1,5 +1,5 @@
 ---
-description: The felt shift is the book's single test for whether anything is true, the felt shift is Eugene Gendlin's, and Gendlin appears in the vault only as one of twenty-nine builders of enterable structure with no interlocutor note of his own.
+description: The felt shift is the book's single test for whether anything is true and it is Eugene Gendlin's, and Gendlin appears here only as one of twenty-nine builders, with no interlocutor note of his own.
 category: structure
 sources: ["mesh grid: tier 1", "atlas §IX.4", "author statement, 2026-08-04", "author statement, 2026-08-05"]
 topics: ["[[interlocutors]]", "[[felt-shift]]", "[[methods]]"]

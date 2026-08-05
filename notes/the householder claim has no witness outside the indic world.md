@@ -1,5 +1,5 @@
 ---
-description: The claim that this is livable inside an ordinary life without renunciation is load-bearing for the book and currently supported only from the tradition it descends from, with three candidate arrivals named and none read.
+description: The claim that this is livable inside an ordinary life is load-bearing for the book and supported only from the tradition it descends from, with three candidate arrivals named and none read.
 category: open-question
 sources: ["mesh grid: tier 3", "mesh grid: the search map"]
 topics: ["[[research-frontier]]", "[[interlocutors]]"]

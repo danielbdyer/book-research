@@ -1,5 +1,5 @@
 ---
-description: The corpus names the transformation field's radical interiority of cause as a blind spot it refuses to inherit, but a formula reading burnout as obligation privated of sanctuary locates a burnout in a personal configuration, and no audit has been run.
+description: The corpus names the field's radical interiority of cause as a blind spot it refuses to inherit, but reading burnout as obligation privated of sanctuary locates it in a personal configuration, and no audit has run.
 category: tension
 status: live
 treatment: "unassigned — the counterweights are seated and the audit is not"

@@ -1,5 +1,5 @@
 ---
-description: The architect whose structure-preserving transformation and centers-strengthening-centers are arguably the book's edit-ethic and compositional logic in another medium, and who sits in the roster as one of twenty-nine builders.
+description: The architect whose structure-preserving transformation is arguably the book's edit-ethic and compositional logic in another medium, and who sits in the roster as one of twenty-nine builders.
 category: interlocutor
 seat: candidate
 load: thesis-bearing

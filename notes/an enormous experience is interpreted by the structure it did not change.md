@@ -1,5 +1,5 @@
 ---
-description: States and structures are independent axes, so anyone at any stage can have any state while the state is interpreted according to the structure — which supplies a mechanism for why the breakthrough the book's reader already had did not hold.
+description: States and structures are independent axes, so a state is interpreted by whatever structure receives it — which is a mechanism for why the breakthrough the book's reader already had did not hold.
 category: claim
 sources: ["mesh grid: addendum, Wilber properly seated", "author statement, 2026-08-04"]
 topics: ["[[recognition]]", "[[felt-shift]]"]

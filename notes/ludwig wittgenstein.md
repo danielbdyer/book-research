@@ -1,5 +1,5 @@
 ---
-description: The philosopher whose Investigations §129 states that what matters most is hidden by its simplicity and familiarity, which is the book's reason why the never-absent goes unnoticed, arrived at in 1953 with no debt to either founding tradition.
+description: The philosopher whose Investigations §129 — what matters most is hidden by its simplicity and familiarity — states the book's reason why the never-absent goes unnoticed, with no debt to either founding tradition.
 category: interlocutor
 seat: candidate
 load: independent-arrival

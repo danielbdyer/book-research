@@ -1,5 +1,5 @@
 ---
-description: Christopher Alexander's account of change that strengthens what is already alive rather than replacing it is the book's edit-ethic and possibly its compositional logic, which makes him load-bearing to the method even if not to the thesis.
+description: Christopher Alexander's account of change that strengthens what is alive rather than replacing it is the book's edit-ethic, which makes him load-bearing to the method even if not to the thesis.
 category: claim
 sources: ["mesh grid: tier 1", "atlas §IX.4"]
 topics: ["[[container-anatomy]]", "[[interlocutors]]"]

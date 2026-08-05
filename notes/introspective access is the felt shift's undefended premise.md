@@ -1,5 +1,5 @@
 ---
-description: The book's verification standard presupposes that a reader has reliable access to their own inner states, and the empirical literature against that premise — confabulation and introspective unreliability — has never been put to the book.
+description: The book's verification standard presupposes reliable access to one's own inner states, and the empirical literature against that premise has never been put to the book.
 category: tension
 status: live
 treatment: "unassigned — the reading is queued and the counterweights are unread"

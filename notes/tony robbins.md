@@ -1,5 +1,5 @@
 ---
-description: The sole occupant of the voluntarist pole in the corpus's survey of eleven teachers, whose position at full strength is that the not-doing is itself the disease — the claim the book's middle voice must overcome to have resolved anything.
+description: The sole occupant of the voluntarist pole in the corpus's survey of eleven teachers, whose position at full strength is that the not-doing is itself the disease — the claim the middle voice must overcome.
 category: interlocutor
 seat: candidate
 load: adversary
