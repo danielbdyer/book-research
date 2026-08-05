@@ -23,6 +23,14 @@ The book's central posture is the gaze outward with attention resting inward —
 
 The grid's assessment is the sharpest sentence it writes about the book: "For a book that opens reconsolidation windows and writes an Afterglow law, the harm literature is not optional. Its absence is currently the book's most defensible criticism." It also ranks the fix as the cheapest available, and pairs it with a second hole the same reading would fill — the diagnostic for telling a reader in dissolution from a reader in regression ([[the book cannot tell dissolution from regression and neither can its reader]]).
 
+## What the second source supplies, 2026-08-05
+
+A research synthesis received the same week reports her findings with numbers the chair previously lacked. The taxonomy is 59 categories of meditation-related difficulty across seven domains — cognitive, perceptual, affective, somatic, conative, sense-of-self, and social. The prevalence figure is the one that changes the conversation: **50% of people who tried meditation even once reported at least one negative effect, and 10% experienced impairment in functioning.**
+
+More important than the numbers is a distinction she draws that the vault would otherwise have got wrong. She separates *negative valence* — an unpleasant experience — from *adverse effect*, meaning lasting harm, and refuses to treat the first as the second: "If you don't have some kind of negative experience in your meditation at some point you're probably sleeping, because it's not a warm bath for the mind" (`high-energy states: the phenomenology of resistance`).
+
+That sentence is why she is an adversary worth having rather than a stick to beat the practice with. It concedes the book's own position — that difficulty is part of the work — while holding that the field had no vocabulary for the difficulties because it had only ever asked about benefit.
+
 ## What she would refuse
 
 Derived rather than sourced; the study has not been read here. Britton's own position is not anti-contemplative — she is a long-term practitioner and her project is safer practice rather than less of it — so a use of her as a general objection to the enterprise would misrepresent her. She would refuse being made an adversary in that sense.
@@ -49,6 +57,8 @@ Relevant Notes:
 - [[the book cannot tell dissolution from regression and neither can its reader]] — the paired hole, filled by the same reading
 - [[the book's native genre is the letter from a friend read alone]] — the form that is the opposite of her recommended infrastructure
 - [[felt shift versus felt confirmation]] — where the corpus's own titration guidance sits, and why it is not the same measure
+- [[a framework for what is happening is itself a protective factor]] — the finding from the same literature that runs the other way, and the first material the vault holds in the book's favour here
+- [[suffering in an intense state is the intensity multiplied by the resistance]] — the variable her negative-valence distinction turns on
 
 Topics:
 - [[interlocutors]]
