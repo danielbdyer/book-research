@@ -146,13 +146,18 @@ fi
 
 # Condition-based maintenance signals
 FIRED=0
-OBS_COUNT=$(ls -1 ops/observations/*.md 2>/dev/null | wc -l | tr -d ' ')
+# Counts observations that are actually open, not files present. Until 2026-08-05
+# this counted files, so resolved observations kept the condition firing and the
+# word "pending" described a number that included them (/rethink, 2026-08-05).
+# Exemption clause: an observation with status: resolved or status: archived is
+# not work and is not counted.
+OBS_COUNT=$(grep -l '^status: open' ops/observations/*.md 2>/dev/null | wc -l | tr -d ' ')
 TENS_COUNT=$(ls -1 ops/tensions/*.md 2>/dev/null | grep -v README | wc -l | tr -d ' ')
 SESS_COUNT=$(ls -1 ops/sessions/*.json 2>/dev/null | grep -v current | wc -l | tr -d ' ')
 INBOX_COUNT=$(ls -1 inbox/*.md 2>/dev/null | grep -v README | wc -l | tr -d ' ')
 
 if [ "$OBS_COUNT" -ge 10 ]; then
-  echo "CONDITION: $OBS_COUNT pending observations. Consider /rethink."
+  echo "CONDITION: $OBS_COUNT open observations. Consider /rethink."
   FIRED=1
 fi
 if [ "$TENS_COUNT" -ge 5 ]; then
