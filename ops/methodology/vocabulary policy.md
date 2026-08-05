@@ -20,7 +20,16 @@ Rationale: the author works this vault as a *research* surface; a term like "por
 
 The instance that raised it: the `state:` field's five values — `nascent`, `privated`, `full`, `flourishing`, `composting` — are the corpus's own arc from atlas §V.3, which is book vocabulary sitting in a YAML enum and therefore a literal violation of rule 1. It stays. The values are precise about what they mean, `privated` in particular carries a doctrinal sense the plain alternatives would lose, and the cost of renaming them is higher than the cost of the inconsistency.
 
-The boundary, stated generally so it does not have to be re-argued per field: **a name that a reader of the book would meet is governed by this directive; a name that only the pipeline ever sees is plumbing and may be whatever is clearest.** Filenames, note titles, claim categories, figure crosswalks and anything appearing in prose remain denotative. Internal enum values, script variables, hook output and queue markers do not have to justify themselves against the book's own naming philosophy. A future session finding the `state:` values inconsistent with rule 1 has found a decided question, not drift.
+**The test, in the author's words**, which is sharper than a reader-facing/internal split and is the one to apply: the book's taxonomies recorded as note *content* are a benefit and stay — "we benefit from having the book's seat tiering etc. recorded in our notes." What may decouple is the plumbing: "the logistics of the frontmatter don't need to map 1:1 to the taxonomics of the book where not directly informing the research. Supporting static reference catalogs can decouple provided they are not semantically or ontologically linked to a specific and needed outcome of the book."
+
+So the question to ask of any field is not who sees it but **what it is linked to**. A field whose values carry a claim the book needs stays coupled to the book's terms. A field that is a supporting catalog — a lookup the pipeline maintains for its own convenience — may be whatever is clearest.
+
+Worked against the three fields the vault currently runs, because the line is easier to see in cases than in the abstract:
+
+- `seat:` and `load:` **stay coupled.** Both answer questions the book needs answered — who is seated in its company, and what it cannot lose — and their values are ontologically linked to those outcomes. `thesis-bearing` is a claim about the book, not a filing convenience.
+- `state:` **decouples.** It records how substantiated a note is: a maturity marker for the vault's own material, informing which pass to run next and nothing the book asserts. That its five values happen to be the corpus's arc from atlas §V.3 is inheritance rather than necessity, and no outcome of the book depends on the vault labelling its notes with them.
+
+A future session finding the `state:` values inconsistent with rule 1 has found a decided question, not drift — and the way to decide the next such case is the linkage test above rather than this precedent.
 
 One consequence for the anti-ladder tension held at `ops/tensions/the metabolic arc is a developmental scheme with no anti-ladder feature.md`: renaming the five stages was that tension's third candidate resolution, and this decision removes it. Its second — requiring `privated` to name its own absence — was implemented the same day and stands.
 
