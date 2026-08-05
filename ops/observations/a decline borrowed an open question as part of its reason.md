@@ -1,7 +1,9 @@
 ---
 description: "A session declined material partly on a question the author had not settled, and the reason it recorded made that open question read as closed in three files at once, because a recorded reason outlives the decision it was written for."
-category: observation
-created: 2026-08-04
+date: 2026-08-04
+severity: friction
+status: resolved
+resolved_by: "the rule it asks for is already carried in ops/methodology/the book's current shape.md; frontmatter normalized 2026-08-05 after /verify found this file invisible to every status count"
 ---
 
 # a decline borrowed an open question as part of its reason
