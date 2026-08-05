@@ -42,6 +42,16 @@ Format: `- **what** (location) — why declined.`
 
 - **The WHERE grid and the master-process framing beneath the four overlays** (`arc-gloss: overlay four`, closing paragraph; `atlas §X.4`) — the depth, breadth, relation, and time axes under the one master process. This is the system vocabulary the center-of-gravity directive demotes to as-needed, and nothing in the convergence material required it. Declined for this pass, not on merit.
 
+## The seventeen trial chapters, whole (2026-08-04)
+
+**The entire set, declined as intake by the author** (held in his local storage; five were sent and read, the Prologue and Chapters One through Four) — the vault stays with the research it already holds rather than consuming the drafts. This is a decline of the whole seventeen, not of the five that were read, and it closes the extraction entry that had stood since 2026-08-02.
+
+Their standing made the decline cheap: another AI wrote them, the author had not read them entire, and he did not cosign them, so they were never evidence that the book had said anything. Two findings from the batch of five are recorded here only so that no later pass re-proposes the set as an unlock. They are built with the conceptual schemes as their spine — one chapter exists to install the three-part frame and another to pre-verify its count as exactly three — against a directive that demotes those schemes to instruments claiming neither completeness nor non-overlap. And their content is almost entirely the arc the abridged edition already executes; what was genuinely new was apparatus rather than doctrine, chiefly an executed marginal layer, a per-unit dial map, and a stated policy of naming lineage inside the body text.
+
+One observation about the drafts is recorded without an inference attached, because the inference a session drew from it was wrong and the author corrected it the same day: the chapters are written in immersive second person and carry no authorial *I* anywhere. That is a fact about the drafts. It is not evidence that the book will be written in the first person, and it was not part of why the set was declined. Whether the book says *I* or *you* is open (`ops/methodology/the book's current shape.md`, tier three).
+
+Nothing from them is in this repository, and nothing from them entered the graph. Reversing this is the author's decision and would be recorded here in place of this reason.
+
 ## Reversals
 
 None recorded.
