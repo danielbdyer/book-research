@@ -53,7 +53,10 @@ Each of these has a direction and no landing. A session records movement and sto
 
 **Whether bodily verification can bear the weight placed on it.** The author calls this "the live question," with reading to do before he can answer it honestly.
 
-## The read brief for the unattested drafts
+## The read brief for the unattested drafts — a record, not a live instruction
+
+The author declined the drafts as intake later the same day, so this section describes work that will not recur; it is kept because it was part of the statement and a record of an author decision is quoted rather than edited. The decline and its reasoning are in `ops/queue/declines.md`.
+
 
 The author asked for three things from a reading of the seventeen chapters, and one restraint. Read them for voice; for "where the prose is doing something real versus where it's performing"; and for "the places where I explain something instead of letting the reader arrive at it themselves."
 
