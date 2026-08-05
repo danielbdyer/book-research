@@ -47,6 +47,11 @@ The lineage sort and the two research syntheses reached this map from three dire
 
 This concern borders [[container-anatomy]], because the privations are that anatomy's three failure modes. It borders [[relational-field]], because the grief formula includes a witness as a structural ingredient. It borders [[interlocutors]], because David Loy reached the first contraction (lack) independently through Freud, Becker, and Nāgārjuna, which the corpus counts as its strongest external confirmation.
 
+## What the interiority audit found, 2026-08-05
+
+- [[the minus sign cannot say whether the missing element was withheld or never on offer]] — the audit's result: the notation relocates a cause inward only where the missing element is an act the person performs, and it cannot mark an element that was never available. Withheld and unavailable share a formula.
+- [[the compound diagnoses may relocate a structural condition inside a person]] — the tension it answers, now treated rather than live.
+
 ## What remains
 
 The molecule catalogue (atlas §IV lists eight families and roughly fifty compounds; the book curates about fifteen) is unextracted beyond the four canonical formulas and the foreclosure case. The abridged edition states a further set of formulas in its own prose — Sanctuary, Obligation, Possibility, Stagnation, and the relational compounds of `abridged ch8` — and extracting them alongside atlas §IV would establish whether the two sources' catalogues agree. The space-around survey identifies Aristotle's steresis as the doctrine's classical ancestor, and notes the objection that ancestry carries: privation theory has always been accused of under-describing suffering that is a presence to be borne rather than an absence to be filled. Researching this is on the pending-evaluation list in `ops/queue/candidates.md`.

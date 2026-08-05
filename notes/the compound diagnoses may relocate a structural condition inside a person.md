@@ -1,12 +1,11 @@
 ---
 description: The corpus names the field's radical interiority of cause as a blind spot it refuses to inherit, but reading burnout as obligation privated of sanctuary locates it in a personal configuration, and no audit has run.
 category: tension
-status: live
-treatment: "unassigned — the counterweights are seated and the audit is not"
+status: treated
+treatment: "ask of each privated formula whether the missing element is withheld or unavailable — one diagnostic move rather than a new taxonomy (audit run 2026-08-05)"
 sources: ["mesh grid: the coaches", "mesh grid: revised search map", "walked IX", "atlas §IX.5"]
 topics: ["[[tensions]]", "[[contraction-not-corruption]]"]
-state: privated
-privation: "the mesh grid's characterization stands in for a primary reading not yet done"
+state: full
 ---
 
 # the compound diagnoses may relocate a structural condition inside a person
@@ -16,6 +15,12 @@ The corpus identifies one thing the eleven contemporary teachers share and treat
 Naming a blind spot is not the same as not having it. The book's own diagnostic apparatus reads a difficulty as a compound of primitives held in a person: *obligation privated of sanctuary* locates a burnout in that person's configuration and prescribes work on the configuration. A person burning out because their employer has arranged the work that way has a condition with the same formula and a different address. The mesh grid puts it as an unrun test: "Run every molecule against the question: does this relocate a structural condition inside a person? The counterweights are already seated. The audit is not" (`mesh grid: revised search map`).
 
 The grid's own assessment of where this sits: "This is a live seam and it is where a serious reader will press first."
+
+## The audit, run 2026-08-05
+
+It required no outside reading and the result is not what the charge predicted. The formulas split cleanly. Where the missing element is external or relational — sanctuary in burnout, witness as grief's catalyst, all three components of trust — the notation relocates nothing and the corpus's prescription is a claim about the world. Where the missing element is an act the person performs — commit in paralysis, transform in stagnation, defer in foreclosure — it does relocate, because the notation cannot distinguish an element withheld from one never available.
+
+So the book does not inherit the field's blind spot. What it has is a narrower and more fixable defect in the notation's expressive range, stated at [[the minus sign cannot say whether the missing element was withheld or never on offer]], with a candidate treatment that is one question rather than a scheme extension.
 
 ## Substantiation
 
