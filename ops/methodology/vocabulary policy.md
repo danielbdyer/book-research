@@ -16,4 +16,12 @@ This is an author directive, issued 2026-08-01 during the initial derivation, gl
 
 Rationale: the author works this vault as a *research* surface; a term like "porch" does not signify its concern (philosophical reference lineage) to a query, a script, or a future collaborator. The book's poetry is preserved where poetry belongs — in the graph, as content with sources.
 
+**Bounded 2026-08-05, by author decision.** This directive governs how the *book's material* is named. It does not reach the vault's own operational machinery. His words: we needn't "dogfood the book's paradigm so far into our research operations."
+
+The instance that raised it: the `state:` field's five values — `nascent`, `privated`, `full`, `flourishing`, `composting` — are the corpus's own arc from atlas §V.3, which is book vocabulary sitting in a YAML enum and therefore a literal violation of rule 1. It stays. The values are precise about what they mean, `privated` in particular carries a doctrinal sense the plain alternatives would lose, and the cost of renaming them is higher than the cost of the inconsistency.
+
+The boundary, stated generally so it does not have to be re-argued per field: **a name that a reader of the book would meet is governed by this directive; a name that only the pipeline ever sees is plumbing and may be whatever is clearest.** Filenames, note titles, claim categories, figure crosswalks and anything appearing in prose remain denotative. Internal enum values, script variables, hook output and queue markers do not have to justify themselves against the book's own naming philosophy. A future session finding the `state:` values inconsistent with rule 1 has found a decided question, not drift.
+
+One consequence for the anti-ladder tension held at `ops/tensions/the metabolic arc is a developmental scheme with no anti-ladder feature.md`: renaming the five stages was that tension's third candidate resolution, and this decision removes it. Its second — requiring `privated` to name its own absence — was implemented the same day and stands.
+
 **Extended 2026-08-02.** This directive governs the reference surface. A second directive, `naming and epistemic humility.md`, extends the same polarity into prose — the concern leads and the corpus's name is attributed rather than adopted — and adds the epistemic clause this one lacks: a name is a candidate until the author settles it, and none is settled. Where the two overlap, they agree; where this one is silent, that one governs.

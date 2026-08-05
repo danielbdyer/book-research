@@ -16,15 +16,25 @@ Three things work against the failure mode already, and they are the reason this
 
 What the vault does not have is any design feature that actively prevents the ranking use, as distinct from features that make it slightly awkward. Nothing in the schema, the templates, the queries or the hooks resists a session — or a person — reading the five as a ladder. The grid's own finding after surveying the precedents is that nobody has solved this, and it calls the question "the most valuable unanswered question in the grid."
 
-## What would resolve it
+## What the author settled, 2026-08-05
 
-Three options, none taken here, because the question is genuinely open and the vault does not settle its own configuration mid-session:
+Two of the three options below are now closed, and the tension narrows rather than resolving.
+
+**Option 2 is implemented.** `state: privated` now requires a `privation:` field naming the specific absence, and 24 notes moved into it — the value had never been used before that day. A state that must say what is missing cannot be used as a bare rank, which is the structural feature this tension was asking for. `scripts/queries/frontmatter-parse.sh` enforces it.
+
+**Option 3 is declined.** Renaming the five stages denotatively is off the table: the author bounded the vocabulary policy to the book's material and away from the vault's operational machinery — "no one says that we must necessarily dogfood the book's paradigm so far into our research operations" (`ops/methodology/vocabulary policy.md`, Bounded 2026-08-05). The corpus's arc stays as the enum.
+
+**What remains open**, and it is smaller than it was. Two of the five values are still unused (`flourishing`, `composting`), so the scheme still describes more than it does. And the underlying question is untouched: a five-stage vocabulary applied to notes is available for application to people, and the fix implemented above hardens one rung rather than the ladder. Against that, the change also populated a rung that was empty — before it, two values in use was barely a ladder; now three is more ladder-shaped — which is recorded rather than argued away.
+
+## The three options as they stood when this was raised
+
+Kept as the record of what was considered. Two are now closed; see the section above.
 
 1. **A stated rule** that the field describes a note's substantiation and never a note's worth, written into `templates/claim-note.md` as a constraint rather than left to convention. Cheap, and it is close to "the tone," which the grid says is insufficient.
 2. **A structural feature** — for instance, requiring `privated` to name the specific absence in the same line, so the value cannot be used as a bare rank. That is the one candidate here that changes what the field can express rather than what it is supposed to mean.
-3. **Removing the stage names** in favour of denotative ones, which the vocabulary policy would otherwise have required and which were kept because they are the corpus's own.
+3. ~~**Removing the stage names** in favour of denotative ones.~~ Declined by the author 2026-08-05; see above.
 
-This goes to the next /rethink with the observations, and any change is a /refactor with the author's decision. What is recorded now is that the question was asked, that the vault's answer is currently "nothing in the design," and that the same question is live for the book.
+Reviewed at /rethink on 2026-08-05 and taken to the author, who implemented option 2 and declined option 3. The tension stays open in its narrowed form: the vault now has one structural feature where it had none, two of the five values remain unused, and the underlying question — whether a five-stage vocabulary for notes is available for application to people — is unanswered here and live for the book.
 
 ## Related
 
