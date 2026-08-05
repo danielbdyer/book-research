@@ -33,6 +33,15 @@ Open territory bearing on this anatomy that no document develops; each records w
 - [[a ritual can be designed to hold a self in place]] — nascent; whether an anchor is a container like any other
 - [[seasonal and weekly form can be templated]] — nascent; the form the metabolic arc does not supply
 
+## What reached the anatomy on 2026-08-05
+
+Three findings arrived from the lineage sort and the research syntheses. Two concern the ethic by which a living structure may be changed; the third concerns what counts as a container in the first place.
+
+- [[structure-preserving transformation is a method-bearing claim rather than a directional one]] — change that strengthens what is already alive rather than replacing it, which is this anatomy's account of change stated about a town instead of a self, and a species of load the axis had no word for.
+- [[christopher alexander]] — the chair for it, reseated from one of twenty-nine builders, with his own refusal of metaphorical borrowings kept at the door.
+- [[a framework for what is happening is itself a protective factor]] — a container made of description rather than of relation, and the finding that puts this book among the variables inside its own subject matter.
+- [[hasidic worship through corporeality]] — the ordinary act held as its own vessel rather than as a lesser venue for one, which is the householder claim's strongest arrival from outside the Indic world.
+
 ## How the anatomy came about
 
 - [[the triad predates the author's contact with the tradition named the triad]] — the corners were axiomatized in December 2025, three months before the author's first formal contact with Kashmir Śaivism.

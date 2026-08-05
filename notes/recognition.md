@@ -38,6 +38,7 @@ The corpus also stations a warning at this concern and credits it to Lacan: reco
 - [[both poles of the convergence supply their own front doors]] — the accessible entries each tradition wrote for itself
 - [[the crossover has footsteps and the book already seats some of the walkers]] — the field around the core-thesis candidate, verified 2026-08-03: the spine held, and every careful walker recorded a difference
 - [[reading as remembering has a twenty-four-century ancestry in the west]] — Meno to Confessions X to the Parmenides lectures, sharing the gesture and disputing the destination
+- [[the fullness of the first person is the road to selflessness rather than its obstacle]] — the direction of the whole movement: the self is the route out of itself rather than the obstruction, stated by the ladder's crown and enacted by the last page
 
 ### Nascent stubs
 
@@ -46,6 +47,22 @@ Open territory the corpus named and never developed, recorded so it is reachable
 - [[metaphor is a faculty that weaves a self rather than a device that decorates one]] — nascent; whether the reader has a figurative faculty of their own
 - [[the sacred in the ordinary is produced by sensory design]] — nascent; whether the ordinary is noticed or arranged
 - [[a person lives inside symbolic infrastructures they have built]] — nascent; the corpus has read one such system already
+
+## Arrivals from outside both traditions, added 2026-08-05
+
+The founding convergence is between two traditions, and the lineage sort asked who else reached the same structure without standing in either. Two arrivals came back, and both are recorded with the refusal that keeps them honest rather than flattering.
+
+- [[the always-there hides by being always there and wittgenstein said so without heidegger]] — Investigations §129 gives this map's own reason why the never-absent goes unnoticed, with no Heidegger underneath it.
+- [[ludwig wittgenstein]] — that arrival's chair, whose refusal halves the correspondence and is kept for that reason.
+- [[the state that arrives and the station that is earned were distinguished a millennium before the lattice that names them]] — the Sufi distinction the book already uses as its bypass guard, reached from outside both poles.
+- [[al-qushayri]] — the eleventh-century systematizer who drew it.
+
+## Why an arrival does not persist, added 2026-08-05
+
+This map states what the book says happens. The reader the author defined on 2026-08-04 is someone to whom it already happened once and did not last, so the mechanism of non-persistence is now load-bearing for the doctrine rather than incidental to it. Two mechanisms are held side by side and deliberately not merged, because they imply different books.
+
+- [[an enormous experience is interpreted by the structure it did not change]] — the state was received by an apparatus it left untouched, which locates the failure at the moment of arrival.
+- [[the plasticity window reorganizes only what attention is on]] — the apparatus was briefly changeable and nothing was done in it, which locates the failure in the weeks afterward.
 
 ## Adjacent maps
 

@@ -57,6 +57,27 @@ Until 2026-08-01 this map described a book none of whose states the vault held. 
 
 The working structure recorded above is the atlas's, and the seventeen trial chapters it counts have not themselves arrived. What has arrived is enough to show that the scheme has moved at least twice, which is the evidence behind the reference directive: a unit's name is stable across all three arrangements where its number is not. The per-unit comparison is `ops/chapter concordance.md`.
 
+## The precedent bench
+
+A small set of people have already attempted a synthesis of this shape and delivered it to practitioners, and the lineage sort of 2026-08-05 found that the seat taxonomy had no cell for what they supply. Their value to this map is what became of the object each of them made, which is evidence about this book's form rather than about its doctrine.
+
+- [[the nearest prior attempts are case histories rather than interlocutors]] — the finding that opens the bench: a precedent is read for its outcome rather than for what it holds.
+- [[ken wilber]] — the nearest thing to this book that exists, and the fullest record of what becomes of one.
+- [[douglas hofstadter]] — the bench's one good outcome, reached by refusing to hand the reader a usable framework at all.
+- [[gurdjieff and ouspensky]] — the closest structural ancestor, and the clearest record of authority dynamics its founder did not design.
+- [[mihaly csikszentmihalyi]] — the only case that was welcomed rather than refused, and inverted in the welcoming.
+- [[daniel ingram]] — not a precedent but a guardrail: the difficult stages after the threshold, mapped as an expected sequence rather than as failure.
+
+## What the object presupposes, and what it has no device for
+
+Five findings from the same round bear on the book as a made thing rather than on its doctrine. Two are propositions the corpus states and never argues; three are hazards the object carries by construction.
+
+- [[the title presupposes lines that develop at different rates]] — the diagnostic premise the title asserts in a metaphor and no document defends.
+- [[the fullness of the first person is the road to selflessness rather than its obstacle]] — the route the closing page enacts, restoring the first person rather than dissolving it.
+- [[the practice is the expression of realization rather than a means to it]] — the anti-instrumentality clause constraining every exercise in the curriculum, and its unresolved collision with the book's own promise.
+- [[a developmental scheme handed to practitioners becomes a ranking of persons]] — what every documented precedent's staged map became once its readers held it.
+- [[the book cannot tell dissolution from regression and neither can its reader]] — the diagnostic the object lacks, which the grid sizes at a chapter.
+
 ## How the material was made
 
 The provenance record of 2026-08-02 and after — the accounts of the corpus's making, commissioned by the author and persisted in `provenance/` — dates the corpus's layers against each other, which the seven documents themselves do not. The synthesis leads; the dated parts follow.

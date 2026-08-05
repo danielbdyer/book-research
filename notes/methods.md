@@ -48,6 +48,17 @@ The provenance rounds established facts about how the corpus was made. Four of t
 - [[flourishing flow and facilitation converged on one stance in the author's own record]] — the count-once rule extended from documents to domains, since three of the author's chosen fields converging shows the coherence of his attention rather than a law of the fields.
 - [[the making of the book enacts the law the book states]] — the limit case of the scope rule, and the one the vault sits inside: a law appearing in its own production history shows consistency of the maker, not truth of the law.
 
+### What the lineage sort and the two syntheses added to the rules, 2026-08-05
+
+Six findings from that day are about how the vault works rather than about what the book claims, and each puts pressure on a house rule above.
+
+- [[the company was sorted by what each thinker brings and never by what the book cannot lose]] — the sorting defect behind the second axis: a taxonomy by contribution answers what a thinker brings and never asks what happens if they leave.
+- [[the verification standard rests on one name and that name has no chair]] — the case that exposed it, and a direct check on rule 5: the standard the vault cannot run is also one the vault had not seated.
+- [[sorting a lineage by load turns it toward argument]] — the tension the new axis creates against the stance that governs prose, treated by scope rather than resolved.
+- [[the convergence's independence fails where three of its names share one teacher]] — rule 7's count-once principle extended from documents to thinkers, since shared teaching makes agreement a family resemblance rather than an arrival.
+- [[the drive to closure has measurable costs]] — the warrant beneath rule 4, and the criterion that separates a disciplined open tension from a romantic one: naming what would close it.
+- [[the research instrument is a violin rather than an oracle]] — an account of how this vault's two parties transact, which reaches the book's own claim about instruments from analytic philosophy of mind and with no contact with it.
+
 ## Nascent stubs
 
 A claim may be recorded before it is substantiated, carrying `state: nascent`, when the corpus names a territory it never develops. The stub is a seed, not an analysis: it states the proposition the source's gesture asserts, the strongest fact the corpus supplies, and the nearest held material, and the state field carries the signal that the vault does not yet hold the proposition. Thirteen such stubs exist, one per open gesture in `ops/open corpus.md`, and they are listed in [[research-frontier]]. They are admitted under the writing test's own rule for absences — one seed, not an essay — because a territory recorded only in an operational table is not reachable from the graph and will not be found again.

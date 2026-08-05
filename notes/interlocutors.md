@@ -55,6 +55,8 @@ The seats are functional. The corpus's narrative names for them are recorded in 
 - [[the nearest prior attempts are case histories rather than interlocutors]] — the kind of thinker the seat taxonomy had no cell for, whose value is their outcome.
 - [[sorting a lineage by load turns it toward argument]] — the tension the axis creates against the authorial stance, treated by scope rather than resolved.
 - [[the coaches are a bloc that competes with the compositional scheme]] — the largest re-reading the sort produced: eleven colleagues read as one argument.
+- [[structure-preserving transformation is a method-bearing claim rather than a directional one]] — the species of load the axis had no word for: a thinker removable from what the book argues and not from how it works.
+- [[the middle voice is only earned against the voluntarist pole at full strength]] — the cost of sorting badly, paid in register: quote the opposing pole weakly and the resolution turns out to have been won against nobody.
 
 ### The undefended claims
 
@@ -72,6 +74,8 @@ Four propositions the sort finds carrying weight with no adversary seated agains
 - [[the state that arrives and the station that is earned were distinguished a millennium before the lattice that names them]] — the Sufi distinction the book already uses as its bypass guard.
 - [[what was never metabolized lives on as absence and hubl reached it through inherited trauma]] — the book's own concept of privation, reached through trauma work.
 - [[the householder claim has no witness outside the indic world]] — the load-bearing claim with no arrival at all, and three candidates.
+- [[the third thing has a mechanism in participatory sense-making]] — the enactivist arrival at the relational field, and the first mechanism that concern has ever had.
+- [[the relational vocabulary has an ontology and it is buber's rather than benjamin's]] — the attribution the sort corrected: the philosophical bearer of the between, where the clinical account had been standing in for it.
 
 ### Seated
 

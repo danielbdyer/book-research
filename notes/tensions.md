@@ -34,6 +34,7 @@ The three manuscript drafts admitted 2026-08-01 carry strains that the four desc
 ## The instrument's counterweights
 
 - [[felt shift versus felt confirmation]] — the somatic test can be fooled by fluent prose, and the signal is weakest where the protective folding is deepest. This tension also binds the vault's own verification practice; see [[methods]].
+- [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the first candidate treatment the vault holds, and it comes from the standard's own author: the implicit order is precise enough to refuse a wrong word, which is a cost fluency never pays.
 
 ## The disagreements kept live among the contemporary teachers
 
@@ -41,6 +42,7 @@ The corpus preserves, rather than adjudicates, the disagreements among its conte
 
 - [[the transformation field divides into five theories of where suffering lives]] — the five positions themselves, with each camp's axiom quoted and the three expansions that make eight
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the sharpest of the forks, whose treatment is the body seated as referee and doctrine recusing itself
+- [[the middle voice is only earned against the voluntarist pole at full strength]] — the condition on that treatment: a resolution is worth what the position it overcomes was worth, and the will pole is the roster's easiest name to condescend to
 
 ## The tension the making exposes
 
@@ -62,6 +64,16 @@ Five arrived together with the mesh grid. Four are the same shape — a claim ca
 
 Two more arrived with them and sit differently. [[the compound diagnoses may relocate a structural condition inside a person]] asks whether the book inherits the blind spot it names in the field it diagnoses — the counterweights are seated and the audit is not. And [[sorting a lineage by load turns it toward argument]] is the only one of the seven that is already treated: the instrument that found the other six operates in a register the authorial stance declines, and the author resolved the collision by scope rather than by choosing a side.
 
+### The chairs seated against them
+
+Five names were brought in against the four undefended claims and the fork above, each written from the grid's characterization with the primary reading still to do. A chair here records the objection the vault expects a thinker to press, which is not the same as having read them press it.
+
+- [[willoughby britton]] — the adverse-effects data the basic posture has never been read against, and the cheapest of the five to answer.
+- [[ernest gellner]] — the immunization charge: a system that metabolizes every objection as further evidence, aimed at the participation law.
+- [[paul meehl]] — the formal version of the same charge, asking what the compositional scheme forbids.
+- [[steven wasserstrom]] — the Eranos charge, which is structurally the charge available against this book's use of Trika.
+- [[tony robbins]] — the voluntarist pole at full strength, held as an adversary rather than as one teacher among eleven.
+
 ## The tensions the two syntheses raised (2026-08-05)
 
 - [[a synthesis organized by the schemes offers to promote them back to architecture]] — treated. A neurobiology synthesis organized throughout by the three-loop scheme, supplying each loop with neural correlates, is the most plausible route by which the demotion of 2026-08-04 gets reversed without anyone deciding to reverse it. Treatment: take the findings, decline the organizing principle, state every derived claim in plain terms.
@@ -70,6 +82,12 @@ Two more arrived with them and sit differently. [[the compound diagnoses may rel
 ## The method this map does not supply
 
 - [[a kept tension can be mapped rather than only held]] — nascent. Every treatment recorded above is an authorial move made in the writing; none is a move the reader can make. The gesture naming a reader-facing procedure is an open territory, inventoried in `ops/open corpus.md`.
+
+## The warrant for keeping them
+
+Holding a tension open has been a rule of deference here — resolving is the author's act — rather than a claim that non-resolution is better. One of the two syntheses received 2026-08-05 supplies the missing half.
+
+- [[the drive to closure has measurable costs]] — the need-for-cognitive-closure literature documents that seizing on an early answer and freezing on it produces replicable biases, which turns this map's practice from restraint into a position. It also supplies the criterion that keeps the position honest: a tension earns its openness by naming what would close it, so the four adversary holes above, which carry no treatment at all, are accurate rather than comfortable.
 
 ## Adjacent maps
 
