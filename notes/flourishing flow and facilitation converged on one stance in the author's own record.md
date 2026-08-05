@@ -29,6 +29,7 @@ Relevant Notes:
 - [[the basic practice posture is a point of return rather than a state]] — the posture all three lines arrive at, named later than the arriving
 - [[the author curated and vetoed while the collaborator wrote the correspondences]] — the division of hands this finding instances again: lived law from one, formal wardrobe from the other
 - [[the unanimity claim is an artifact of how the lineages were selected]] — the stronger claim this one stands beside without supporting
+- [[mihaly csikszentmihalyi]] — the flow line's own author, held as a precedent for what happens to a construct after it is operationalized rather than as a source for the convergence
 
 Topics:
 - [[felt-shift]]

@@ -25,6 +25,8 @@ Two literatures populate the gap and neither is in the vault: the clinical work 
 - The book's stated reader makes the gap sharper rather than more theoretical. The reader is someone who has already had the big experience and found it did not hold (`ops/methodology/the book's current shape.md`, tier one) — which means the reader arrives having already been through the state the book cannot classify, and possibly having classified it wrong.
 - One thing this note does not claim, kept clear because the stance forbids it: that readers will be harmed. The claim is about the architecture — a book that induces a state names no way to tell which state it induced — and the vault postulates nothing about outcomes in either direction.
 - The guardrail's own dependency is worth recording. Whatever fills this hole has to survive the demotion of the schemes: the author's decision of 2026-08-04 makes the conceptual schemes instruments rather than architecture, so a new developmental scheme imported to solve the problem would arrive against the current of that decision. Wilber's own version of the distinction is embedded in a stage model, and the book's use of the distinction cannot inherit the model with it.
+- One partial answer is available that does not require a diagnostic at all, and it comes from the same synthesis that supplies the harm material: having any accurate framework for what is happening is itself among the protective factors, so a book that describes the territory well does something for a reader it cannot classify ([[a framework for what is happening is itself a protective factor]]). That is a floor rather than a fix, and it raises the cost of describing the territory wrongly.
+- A second route in, which meets the constraint above because it is a sequence rather than a ladder of persons: the pragmatic-dharma treatment of the difficult insight stages as a named, expected phase that follows the threshold event and shows up in ordinary life ([[daniel ingram]]). What the book lacks is a way to tell a reader that what they are in has a name and an end; that is a weaker thing than a diagnostic and it is the shape of the guardrail the material could support.
 
 ---
 
@@ -35,6 +37,8 @@ Relevant Notes:
 - [[an enormous experience is interpreted by the structure it did not change]] — the mechanism from the same source, which explains why a state alone settles nothing
 - [[ken wilber]] — the name for the confusion, and the reason he moves out of the reference lineage
 - [[the system is scaffolding rather than the centerpiece]] — the constraint on any fix: a guardrail may not smuggle a stage model back in as architecture
+- [[daniel ingram]] — the candidate whose insight-stage material treats the difficult phase as named and expected, which is the guardrail's likeliest available shape
+- [[a framework for what is happening is itself a protective factor]] — the floor beneath the missing diagnostic: description alone is one of the measured protections
 
 Topics:
 - [[tensions]]

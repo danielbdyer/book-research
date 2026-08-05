@@ -26,6 +26,8 @@ Relevant Notes:
 - [[the book performs what it describes]] — the general law of which this promise-keeping is an instance
 - [[reading as remembering has a twenty-four-century ancestry in the west]] — the Western line the promise stands in, and the Meno's staging of its method
 - [[the unfolding of the center is planted half-erased and finished at a mirror]] — the promise kept on one Sanskrit formula: planted illegible, completed eleven chapters later
+- [[the voice keeps the reader located in a walkable space]] — how the induce-then-name sequence is survivable: meaning may stay unclear as long as location does not
+- [[metaphor is a faculty that weaves a self rather than a device that decorates one]] — nascent; the reader-side version of this promise, where the remembering is done in figures the reader already reaches for
 
 Topics:
 - [[recognition]]

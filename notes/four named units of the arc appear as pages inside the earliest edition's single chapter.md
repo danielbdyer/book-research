@@ -25,6 +25,7 @@ This bears on how the corpus's structural material should be read. The arc that 
 
 Relevant Notes:
 - [[the mythic operating system contents hold four territories the arc drops]] — the other relation between the two schemes, where the later arc subtracts rather than spaces
+- [[the earlier contents distribute transcendence where the arc concentrates a peak]] — where this page sequence matters most: the peak and descent exist at page scale here and nowhere in the same document's plan for the whole
 - [[the abridged edition compresses the opening poem rather than reproducing it]] — the same two documents compared at the level of one embedded text
 - [[the book performs what it describes]] — the law the overlays serve, and which this note dates as applied rather than generative
 

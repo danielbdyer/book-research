@@ -27,6 +27,7 @@ Beside it sits the measured version. Interpersonal coordination in joint action 
 
 Relevant Notes:
 - [[the field between two people does work]] — the claim this supplies a mechanism for
+- [[de jaegher and di paolo]] — the chair holding this arrival, with the 2007 paper still to be read
 - [[the relational vocabulary has an ontology and it is buber's rather than benjamin's]] — the ontological bearer, where this is the empirical one
 - [[hartmut rosa]] — the resonance theory this makes literal
 - [[the convergence's independence fails where three of its names share one teacher]] — the test this arrival passes

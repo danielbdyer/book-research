@@ -27,6 +27,7 @@ Relevant Notes:
 - [[the unfolding of the center is planted half-erased and finished at a mirror]] — what the book does with his formula
 - [[the open center is made possible by the three structures and identical with none of them]] — the center his formula speaks of
 - [[utpaladeva]] — the founder of the school his twenty sūtras condense
+- [[the fullness of the first person is the road to selflessness rather than its obstacle]] — the proposition his tradition holds and this chair carries, which the vault had never written down
 
 Topics:
 - [[interlocutors]]

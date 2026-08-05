@@ -17,7 +17,7 @@ The set is worth holding because its failure modes are documented and this book'
 
 ## Substantiation
 
-- Stated on the grid's authority and `privated`: none of these cases has been researched in this vault. The grid names Ken Wilber, Douglas Hofstadter, Gurdjieff and Ouspensky, John Vervaeke, and Mihaly Csikszentmihalyi, and its own characterizations are reproduced above rather than verified.
+- Stated on the grid's authority and `privated`: none of these cases has been researched in this vault. The grid names Ken Wilber, Douglas Hofstadter, Gurdjieff and Ouspensky, John Vervaeke, and Mihaly Csikszentmihalyi, and its own characterizations are reproduced above rather than verified. Four now hold chairs and each names the one reading that would settle its case: the unfalsifiability charge and the stage ladder at [[ken wilber]]; the synthesis that withheld its tool at [[douglas hofstadter]]; the structural ancestor with the best-documented authority dynamics at [[gurdjieff and ouspensky]]; and the construct that was absorbed rather than refused at [[mihaly csikszentmihalyi]]. Vervaeke remains in the candidate queue. What each chair needs is a reception history rather than a primary reading, which is a different kind of work from every other reading the vault owes.
 - The vault previously held two of them under descriptions that miss what this position records. Wilber sits in the corpus's reference lineage — one philosophical name among thirty — and Vervaeke sits in the candidate queue as "the book's most conspicuous living interlocutor." Both descriptions treat them as sources of ideas. Neither has any way to record that one of them already ran this experiment and what happened.
 - This is a second case of the defect the author named on 2026-08-05, arriving from a different direction than the first: a taxonomy of contribution has no cell for a thinker whose relevance is their outcome ([[the company was sorted by what each thinker brings and never by what the book cannot lose]]). The `load:` axis added the same day carries `precedent` as a value for exactly this reason.
 - The most useful single output of the set is a question rather than a lesson, and it is unanswered by any of them: what design feature, if any, prevents a developmental scheme from becoming a status ladder among the people who adopt it ([[a developmental scheme handed to practitioners becomes a ranking of persons]]).
@@ -32,6 +32,9 @@ Relevant Notes:
 - [[the participation law has no opponent and its oldest objection is that participation is contamination]] — the objection one case met in public
 - [[seventeen chapters rest at madhyama]] — the author's own tension about release, which these outcomes bear on and which is his to resolve
 - [[ken wilber]] — the most documented of the five, and the one the sort moves in four other places as well
+- [[douglas hofstadter]] — the instructive contrast: the same breadth, achieved by withholding the usable framework this book hands over
+- [[gurdjieff and ouspensky]] — the nearest structural ancestor, and the clearest record of authority a founder did not intend
+- [[mihaly csikszentmihalyi]] — the road not taken, and the only case on the bench that was absorbed rather than refused
 
 Topics:
 - [[interlocutors]]

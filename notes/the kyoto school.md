@@ -22,6 +22,7 @@ Relevant Notes:
 - [[the crossover has footsteps and the book already seats some of the walkers]] — the field's pattern, which Ueda's conclusion instantiates most sharply
 - [[martin heidegger]] — the teacher Nishitani sat under while lecturing on Eckhart
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the isomorph whose careful form (gesture shared, destination disputed) the school's practice confirms
+- [[nihility may be a station the contraction scheme cannot represent]] — the school's own contribution turned into an objection: a groundlessness the fold-and-open account may have no shape for
 
 Topics:
 - [[interlocutors]]

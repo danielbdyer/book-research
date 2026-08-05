@@ -28,6 +28,7 @@ Relevant Notes:
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the convergence he anchors from the tradition's side
 - [[reading is remembering]] — his school's doctrine, printed as the book's promise
 - [[kshemaraja]] — the disciple generation that condensed his school
+- [[the fullness of the first person is the road to selflessness rather than its obstacle]] — the proposition his school states in the first person, held by the tradition rather than by any one thinker
 
 Topics:
 - [[interlocutors]]

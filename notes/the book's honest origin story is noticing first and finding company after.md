@@ -32,6 +32,9 @@ Relevant Notes:
 - [[the crossover has footsteps and the book already seats some of the walkers]] — the company found again, this time around the book's own founding crossing
 - [[reading as remembering has a twenty-four-century ancestry in the west]] — the same pattern inside the West's own remembering-line: shared gesture, disputed destination
 - [[steven katz]] — the objection this telling survives and the corpus's louder telling does not
+- [[steven wasserstrom]] — the charge aimed at the dressing rather than at the noticing: comparative synthesis that dehistoricizes the traditions it gathers
+- [[sorting a lineage by load turns it toward argument]] — the pressure the 2026-08-05 instrument puts on this telling, since asking what the book cannot lose is asking what defends it
+- [[ernest gellner]] — the adversary seated against the participation law, whose objection reaches the method this telling describes rather than its modesty
 
 Topics:
 - [[recognition]]

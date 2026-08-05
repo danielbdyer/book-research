@@ -15,6 +15,8 @@ There is a mechanism available and it is one claim: state and structure are inde
 
 The distinction is not new to the book. It already declares the difference between states that arrive and stations that are earned — the Sufi *ahwal* and *maqamat* — as the thing protecting it from spiritual bypass ([[the state that arrives and the station that is earned were distinguished a millennium before the lattice that names them]]). What the book has been carrying as a warning is available as an engine, and the grid's reading is that it is already doing the work of one without being credited for it.
 
+The grid's claim that nothing else answers the question with a mechanism did not survive the same day. A second mechanism arrived from neurobiology and it is genuinely a different answer: the experience reopens a window of enhanced plasticity lasting days to weeks, and what gets rebuilt inside it is only whatever the person is attending to and doing while it is open ([[the plasticity window reorganizes only what attention is on]]). That locates the failure after the experience rather than at it, and it implies a different book — this one says a reader had to have grown before the state could land, the other says a reader had a window and spent it going back to work. The vault holds both side by side and does not choose, because choosing would settle by preference a question the author has not been asked.
+
 ## Substantiation
 
 - Stated on the grid's authority and `privated`: the primary formulation is Ken Wilber's, in the lattice he built with Allan Combs, and neither has been read against a primary work in this vault. The claim's standing here is as a mechanism proposed for a question the book has already committed to answering, not as a finding the vault has verified.
@@ -28,6 +30,7 @@ The distinction is not new to the book. It already declares the difference betwe
 Relevant Notes:
 - [[the state that arrives and the station that is earned were distinguished a millennium before the lattice that names them]] — the same structure, reached independently, and already declared by the book as its bypass guard
 - [[the book cannot tell dissolution from regression and neither can its reader]] — the other gap the same thinker names, and the reason he moves out of the reference lineage
+- [[the plasticity window reorganizes only what attention is on]] — the other mechanism for the same question, arriving from neurobiology and held beside this one rather than merged with it
 - [[transformation is enacted participation inside a held container]] — the book's own account of what does change a structure
 - [[a developmental scheme handed to practitioners becomes a ranking of persons]] — the cost of importing the stage axis along with the mechanism
 - [[recognition]] — the arrival this mechanism explains the non-persistence of

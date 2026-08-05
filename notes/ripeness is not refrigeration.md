@@ -21,6 +21,8 @@ The rule binds this vault directly, and [[methods]] adopts it as the output rule
 
 Relevant Notes:
 - [[a word at madhyama can be perfected forever a word at vaikhari can be answered]] — the speech-level form of the same distinction
+- [[the fruit that falls is the word become deed]] — the image the rule travels with, where release is the word spent as deed
+- [[the perfectible conversation is the manuscript's most comfortable room]] — this rule at manuscript scale, with the room the word is currently kept in named
 - [[the whole volume is wagered on express]] — the tension over the primitive this rule keeps pressing on
 
 - [[seasonal and weekly form can be templated]] — nascent; the form a season would take, constrained by this rule

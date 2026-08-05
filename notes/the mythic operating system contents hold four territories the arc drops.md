@@ -26,6 +26,7 @@ What the divergence establishes is that the later arc's compression was a set of
 
 Relevant Notes:
 - [[four named units of the arc appear as pages inside the earliest edition's single chapter]] — the other relation between the two schemes, running in the opposite direction
+- [[the earlier contents distribute transcendence where the arc concentrates a peak]] — the sharpest difference between the two schemes, which is about shape rather than about scope
 - [[the tuesday is the temple]] — the doctrine the dropped time-design chapters would have served
 - [[beauty recruits the wrong posture]] — the reason the later arc has for treating aesthetic practice as a risk rather than a chapter
 - [[the whole arc has already been drafted once in prose]] — the scope that these four territories are absent from

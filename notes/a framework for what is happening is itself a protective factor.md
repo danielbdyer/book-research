@@ -36,6 +36,7 @@ Relevant Notes:
 - [[the book cannot tell dissolution from regression and neither can its reader]] — the place where an inaccurate framework would cost the most
 - [[container-anatomy]] — the vault's account of what makes a space enterable, of which a framework is the descriptive case
 - [[the book can only be auxiliary to a sovereign reader]] — the commitment a protective framework serves rather than strains
+- [[the plasticity window reorganizes only what attention is on]] — the other finding from the same synthesis, and the one that says when an accurate framework has to arrive to be of use
 
 Topics:
 - [[container-anatomy]]

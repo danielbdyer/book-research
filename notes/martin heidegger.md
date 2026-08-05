@@ -42,6 +42,7 @@ Relevant Notes:
 - [[both poles of the convergence refuse the engineered epiphany]] — the refusal the two poles share
 - [[the tuesday is the temple]] — the axiom his early work refuses and his later work almost joins
 - [[the middle voice settles declaration against disclosure]] — the speech-acts room's central settlement, made with his vocabulary
+- [[martin buber]] — the contemporary who reached the relational half of the same territory and named an ontology the book uses without crediting
 
 Topics:
 - [[interlocutors]]

@@ -30,6 +30,9 @@ Relevant Notes:
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the other convergence whose independence claim the record requires to be dated
 - [[the author curated and vetoed while the collaborator wrote the correspondences]] — the division of hands that produced both the curation and the claim laid over it
 - [[steven katz]] — the scholarly form of this caution, arguing the same objection one scale up: no experience is unmediated, so no convergence is unconstructed
+- [[ernest gellner]] — the seated adversary for the participation law, whose charge against participatory epistemics is the disciplinary version of this one
+- [[the participation law has no opponent and its oldest objection is that participation is contamination]] — the consequence of a curated sample never meeting an argument: the law has been reported and never contested
+- [[sorting a lineage by load turns it toward argument]] — the tension a second sort of the same company creates, since asking what the book cannot lose is asking what defends it
 
 Topics:
 - [[interlocutors]]

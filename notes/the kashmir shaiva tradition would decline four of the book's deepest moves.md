@@ -41,6 +41,7 @@ Relevant Notes:
 - [[isabelle ratie]] — the scholarship behind the fourth refusal: the system was forged against named opponents
 - [[david peter lawrence]] — the fourth refusal's other resolution, the crossover run as proof rather than as gesture
 - [[both poles of the convergence supply their own front doors]] — the tradition's own entry texts, which a reader meets before these refusals
+- [[steven wasserstrom]] — the historian's version of the same refusals, aimed at the practice of comparative synthesis rather than at any one of its moves
 
 Topics:
 - [[interlocutors]]

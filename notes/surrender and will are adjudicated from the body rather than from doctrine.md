@@ -35,6 +35,8 @@ Relevant Notes:
 - [[nothing enters the lattice the body has not countersigned]] — the standard being borrowed, stated in the register where it was introduced
 - [[the middle voice settles declaration against disclosure]] — the corpus's other unresolved fork between two of its lineages, which it treats by grammar rather than by referee
 - [[distress is a question about machinery not a verdict about character]] — the diagnostic that routes a misfire to one of the disputing camps
+- [[tony robbins]] — the will pole's single holder, whose chair is the condition on whether this fork is a real fork
+- [[the coaches are a bloc that competes with the compositional scheme]] — what the disputing camps turn out to be when read as a group rather than as options to route between
 
 Topics:
 - [[tensions]]
