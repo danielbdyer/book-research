@@ -41,7 +41,7 @@ Each of these has a direction and no landing. A session records movement and sto
 
 **Sources and citation.** The author leans toward keeping the body text clean and putting the scholarly apparatus in the margins, on the reasoning that "in a book whose final authority is the reader's own body, a citation can't do load-bearing work." He has not decided and does not want it underwritten yet.
 
-**The poems and the margin apparatus.** What both are for is unresolved. He heard the argument that "the poems are the engine rather than the interludes," finds it plausible, and is "not signing it." The vault's own source work bears on this independently: the poems hold primary standing and the corpus quotes them, so the direction of flow already runs from the poems into the book ([[the poems are the corpus's primary layer]] and the standing rule in `source standing.md`). That is a second road to the same door and is not a signature either.
+**The poems and the margin apparatus.** What both are for is unresolved. He heard the argument that "the poems are the engine rather than the interludes," finds it plausible, and is "not signing it." The vault's own source work bears on this independently: the poems hold primary standing and the corpus quotes them, so the direction of flow already runs from the poems into the book ([[the corpus quotes the author's poems rather than the poems quoting the corpus]], and the standing rule in `source standing.md`). That is a second road to the same door and is not a signature either.
 
 **Length and chapter shape.** "Probably shorter than the drafts. Almost certainly more interruptible."
 

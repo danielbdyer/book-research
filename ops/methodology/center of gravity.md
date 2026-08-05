@@ -26,6 +26,12 @@ This intentionally diverges from the corpus's weighting, and the divergence is o
 
 The decision above is recorded in the terms it was issued in, including the corpus's own labels — the guild, the five rooms, the valley, the Stance. A later directive the same day, `naming and epistemic humility.md`, walks those labels back: they are candidate names for concerns rather than the concerns, and vault prose states the concern and attributes the label. That directive governs how this one's material is written up from here; this text is left as issued, because a record of an author decision is quoted rather than edited.
 
+## Refinement, 2026-08-04
+
+The author sharpened the demotion two days later, in a statement recorded whole at `the book's current shape.md`. Two things changed. The schemes move "from architecture to instrument" — "useful for seeing with; not the thing the book is wrapped around" — which names what they are rather than only what they are not. And he supplied the model: the Vijñāna Bhairava offers a hundred and twelve short practices while claiming neither completeness nor non-overlap, so that "nobody asks whether practice forty-seven duplicates practice twelve, because they're ways in rather than a map of the territory." A session applying this directive uses that specification, because it decides cases the word *scaffolding* leaves open — most usefully, that gaps and overlaps in the scheme set are not defects and are never work.
+
+The same statement raises the somatic floor this directive already refused to demote. The felt shift is not one doctrine among several but the book's whole verification standard, and the author judges it currently underdefended. Research priority follows accordingly.
+
 ## Consequences for work
 
 1. **Research and extraction priority** runs the guild and the practice curriculum ahead of system detail: the five rooms, the coaches' five theories of suffering, the valley, and the convergences they carry; the Stance, the kata, and channeling as practices with verification conditions. The primitives, the molecule catalogue, and the engine detail are extracted as-needed — when a convergence or a practice requires the vocabulary — not as a program.
