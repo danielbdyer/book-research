@@ -28,6 +28,19 @@ Commissioned readings of the company of thinkers rather than of the corpus. They
 
 Section citations follow the document's own structure: `mesh grid: tier 1`, `mesh grid: the search map`, `mesh grid: addendum, Wilber properly seated`, `mesh grid: the coaches`.
 
+## Research syntheses on the book's subject
+
+Commissioned outward research on the territory the book covers, rather than on its making or its lineage. They differ from the two kinds above in what they can do: a reconstruction is testimony about the record, and an analysis of the lineage is a proposal about the roster, but a synthesis reports what an outside literature holds — which means it can be checked against that literature and is wrong in an ordinary way when it is wrong. None of the primary works behind them has been read here.
+
+| File | Cited as | Contents |
+|------|----------|----------|
+| `high-energy states and system decoupling.pdf` | `high-energy states` | The neurobiology of ego dissolution and its integration: DMN suppression, the entropic brain and REBUS, what predicts whether dissolution liberates or terrifies, the contemplative maps beside the clinical data, substance-by-substance phenomenology, the neuroplastic window, and the somatic dimension. Received 2026-08-05. |
+| `the epistemics of the standing wave.pdf` | `standing wave` | Whether not-knowing is a genuine epistemic mode, and whether a language model can occupy it: implicit precision in Gendlin, Polanyi and Dreyfus; disciplined non-resolution in paraconsistent logic, negative capability and apophatic theology; the measured costs of premature closure; participatory sense-making and entrainment; and the author's verdict on itself. Received 2026-08-05, and the author's instruction is to hold it lightly. |
+
+Section citations follow each document's own structure: `high-energy states: what predicts whether dissolution liberates or terrifies`, `standing wave: §1`, `standing wave: the friction test`.
+
+**One caution belongs with the first of these and is recorded here because it is easy to miss.** `high-energy states` is organized throughout by the book's own three-loop scheme and supplies neural correlates for each loop. The author demoted the schemes from architecture to instrument on 2026-08-04, and a synthesis that hands them an empirical warrant is the most plausible route by which that decision gets quietly reversed — not by argument but by a session finding the scheme confirmed and building on it. The vault takes the document's findings and does not adopt its organizing principle; the record is [[a synthesis organized by the schemes offers to promote them back to architecture]].
+
 ## The author's own instrument
 
 One further artifact sits here beside the rest: `poetic voice system prompt.md`, built by analyzing his first fifteen poems and then used to author the seed's one written chapter. It is the documented bridge between `sources/the poems.pdf` and the seed.
