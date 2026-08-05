@@ -20,7 +20,7 @@ This folder records what the system knows about its own operation. The /rethink 
 - [[authorial stance]] — the standing directive on posture: the convergence is held as an observation rather than an argument, provenance serves accurate pointing rather than proof, and the vault postulates no efficacy.
 - [[naming and epistemic humility]] — the standing directive on the corpus's coinages: figures and names are candidate labels for concerns, never referents; the concern leads in plain terms and the name is attributed once where the crosswalk earns its place.
 - [[personal provenance]] — the standing directive on the book's lifeblood: personal material from the making is admissible where holding it lets the writing be whole — owned, delicately, in honor of what is becoming.
-- [[the book's current shape]] — the author's statement of 2026-08-04 on where the book actually stands, sorted into three tiers by his own confidence: a session builds on tier one, holds tier two loosely and never lands it, and treats tier three as undecided rather than as a gap to fill.
+- [[the book's current shape]] — the author's statement of 2026-08-04 on where the book actually stands, sorted into three tiers by his own confidence: a session builds on tier one, holds tier two loosely and never lands it, and treats tier three as undecided rather than as a gap to fill. It also carries the rule that keeps the tiers honest — a decision about one thing must not quietly settle a different question it touched, and a refusal is not evidence about anything but what was refused.
 
 ## How to use this folder
 

@@ -17,9 +17,11 @@ The author's own framing of why this matters: the drafts are "a record of where 
 
 Two things follow that the vault did not previously hold. First, the standard is carrying far more weight than the vault modeled: it is the book's single verification criterion rather than one doctrine among six. Second, the author's own assessment is that it currently has "little defense," and shoring it up is his main reading job going forward. This raises the instrument's counterweights from one open item among several to the central research task.
 
-**The form is first-person and demonstrative, with a developmental constraint.** The book is "epistemically based in a first-person context and is inherently demonstrative." Its argumentation offers paths the author actually walked and observations he actually made, and part of the evidence is structural: "the person writing the later chapters isn't the person who wrote the earlier ones." His named model is Augustine's *Confessions*.
+**The book's epistemic grounding is first-person and demonstrative — and grammatical person is a separate, undecided question.** In his words the book is "likely epistemically based in a first-person context and is inherently demonstrative." Its argumentation offers paths the author actually walked and observations he actually made, and part of the evidence is structural: "the person writing the later chapters isn't the person who wrote the earlier ones." His named model is Augustine's *Confessions*. The hedge is his and is kept.
 
-This is a form commitment and it binds hard: "I can't reveal something early that I didn't know until much later without breaking the thing that makes it work." Any proposal that front-loads a late understanding breaks the book, however much cleaner it reads.
+What binds regardless is the developmental constraint: "I can't reveal something early that I didn't know until much later without breaking the thing that makes it work." Any proposal that front-loads a late understanding breaks the book, however much cleaner it reads — and it breaks it in any grammatical person, because the constraint is about the order in which the author's own knowing is disclosed, not about the pronoun disclosing it.
+
+**Whether the book says *I* or *you* is not settled and is not implied by any of the above.** The author stated this directly on 2026-08-04, correcting a session that had read the epistemic commitment as a grammatical one and then reasoned from the conflation. A book can be grounded entirely in what its author walked and still address its reader in the second person; the corpus's own drafts disagree about person, and that disagreement stays open. The question belongs to tier three below and is listed there.
 
 **The conceptual schemes are demoted from architecture to instrument.** This extends the center-of-gravity decision of 2026-08-02 and sharpens it. The schemes named are the primitive elements that combine into compound diagnoses, the developmental arc with named stages, and the three-part structural frame. In his words: "I'm not throwing them out. I'm demoting them from architecture to instrument. Useful for seeing with; not the thing the book is wrapped around."
 
@@ -27,7 +29,7 @@ His comparison supplies the positive specification the earlier directive lacked.
 
 **The reader is known well enough to write toward, and comes in two related types.** The first is "someone who's tired and screen/notification/AI fixed but holds their soma with reverence, who is already on some version of a healing path, who has *already had the big experience* — the retreat, the ceremony, the breakthrough — and found it didn't hold." The second "understands integration clinically or intellectually, has the entire vocabulary, and uses that fluency to avoid feeling anything all the way through."
 
-The second type carries a consequence the author states directly: "my own articulacy is a hazard: a fluent reader will take my vocabulary and wear it as armor while believing they're doing the work." This is the same mechanism the corpus already records at [[felt shift versus felt confirmation]], where bodily assent responds to fluent prose rather than to the claim — so the book's verification standard and the book's defining reader-hazard are one mechanism seen from two sides, and any defense of the standard must also be a defense against the book's own sentences.
+The second type carries a consequence the author states directly: "my own articulacy is a hazard: a fluent reader will take my vocabulary and wear it as armor while believing they're doing the work." This is the same mechanism the corpus already records at [[felt shift versus felt confirmation]], where bodily assent responds to fluent prose rather than to the claim. The vault's inference from that overlap, marked as an inference and not as the author's statement: the book's verification standard and its defining reader-hazard look like one mechanism seen from two sides, which would mean a defense of the standard must also be a defense against the book's own sentences.
 
 **The promise has shifted.** No longer "here's how to break through," but, in his words, "closer to *you already did, it didn't hold, here's why, and here's what to do about that.*"
 
@@ -51,7 +53,15 @@ Each of these has a direction and no landing. A session records movement and sto
 
 **What makes a reader turn the page.** "The old engine was the intellectual pleasure of a system that explains things cleanly. If the schemes demote, that pleasure goes with them, and I don't yet know what replaces it." The vault holds one candidate from its own record rather than from outside: the single confirmed sighting of the book's promised event was recognition arriving at 4am over a decade-old letter from a friend, read alone ([[the book's native genre is the letter from a friend read alone]]) — and a letter's engine is that it is addressed to one person and expects an answer. Offered as a candidate, not an answer.
 
+**Whether the book says *I* or *you*.** Undecided, and separable from the epistemic grounding recorded in tier one. The corpus's drafts disagree about grammatical person, and the disagreement is held rather than resolved.
+
 **Whether bodily verification can bear the weight placed on it.** The author calls this "the live question," with reading to do before he can answer it honestly.
+
+## The rule this document exists to enforce
+
+A decision about one thing must not quietly settle a different question it happened to touch, and a refusal is not evidence about anything except what was refused. This rule was issued by the author on 2026-08-04, after a session read his epistemic commitment as a grammatical one, declined the trial chapters partly on the conflation, and thereby made an open question look closed in three files at once. His words: do not let "the refusal or the decision collapse this (or any other) dichotomies that are yet unresolved by a strong consensus."
+
+Two practical consequences. When work turns on an open question, the work says which way it assumed and marks the assumption as an assumption; it does not report the assumption back as a finding. And when something is declined, the decline records what was refused and why, without borrowing an unsettled question as part of the reason — because a reason recorded in the vault outlives the decision it was written for, and the next pass reads it as settled fact.
 
 ## The read brief for the unattested drafts — a record, not a live instruction
 
