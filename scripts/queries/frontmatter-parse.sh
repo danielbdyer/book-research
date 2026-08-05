@@ -40,6 +40,19 @@ ENUMS = {
 }
 MAXDESC = 220
 
+# The named units, read from the concordance so the two cannot drift apart.
+UNITS = set()
+_c = pathlib.Path("ops/chapter concordance.md")
+if _c.exists():
+    _in = False
+    for line in _c.read_text().splitlines():
+        if line.startswith("| Named unit"): _in = True; continue
+        if line.startswith("|---"): continue
+        if line.startswith("## "): _in = False
+        if _in and line.startswith("| "):
+            u = line.split("|")[1].strip()
+            if u: UNITS.add(u)
+
 failures = []
 notes = sorted(pathlib.Path("notes").glob("*.md"))
 for p in notes:
@@ -62,6 +75,14 @@ for p in notes:
         failures.append((p.stem, "no topics"))
     if fm.get("state") == "privated" and not fm.get("privation"):
         failures.append((p.stem, "state: privated with no privation: naming the absence"))
+    bo = fm.get("bears-on")
+    if bo is not None:
+        if not isinstance(bo, list):
+            failures.append((p.stem, "bears-on: must be an array of named units"))
+        else:
+            for u in bo:
+                if u not in UNITS:
+                    failures.append((p.stem, f"bears-on: {u!r} is not a named unit in the concordance"))
     for field, legal in ENUMS.items():
         v = fm.get(field)
         if v is not None and v not in legal:
