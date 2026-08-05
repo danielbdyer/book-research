@@ -2,6 +2,8 @@
 description: "David Loy is seated in the reference lineage: his account of the ego's constitutive lack independently confirms the book's first contraction, which is why the corpus counts it as its strongest external evidence."
 category: interlocutor
 seat: reference-lineage
+load: adversary
+discipline: indic-and-buddhist-primary
 clause: "The lack, entered rather than fled, inverts to openness."
 works: ["Lack and Transcendence", "Money, Sex, War, Karma"]
 sources: ["atlas §IX.8a", "walked IX", "space-around: method preamble"]

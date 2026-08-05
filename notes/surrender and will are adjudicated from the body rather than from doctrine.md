@@ -27,6 +27,8 @@ The treatment identifies what the referee actually is, and the identification is
 ---
 
 Relevant Notes:
+- [[the middle voice is only earned against the voluntarist pole at full strength]] — the condition on this treatment: the will pole is held by one name in a room of ten, and a resolution is worth what the position it overcame was worth
+- [[introspective access is the felt shift's undefended premise]] — the pressure on seating the body as referee, since the referee's reliability is the one thing never argued for
 - [[the transformation field divides into five theories of where suffering lives]] — the five positions this fork runs through, of which two are its poles
 - [[the corpus quotes the author's poems rather than the poems quoting the corpus]] — the fork held in one breath, years earlier and without a referee: "complete surrender / and trying one's very hardest" (poems #7)
 - [[felt shift versus felt confirmation]] — the two documented limits on the instrument this treatment seats as referee

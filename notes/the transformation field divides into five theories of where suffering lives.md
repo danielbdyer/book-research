@@ -25,10 +25,15 @@ The corpus then names what the five share and treats it as a defect rather than 
 - Counting the expansions, the atlas's own fault-line register lists eight locations rather than five: "thought ⚡ feeling ⚡ state ⚡ complicity ⚡ closed body ⚡ unmet meaning ⚡ unmetabolized inheritance ⚡ the grid itself" (atlas §XI.2a). The five are the industry's positions; the last three are what the corpus added to it.
 - The five have two working functions in the book, both stated: at the loops they become a referral network — "which cylinder → which guild wing" (arc-gloss: ch7) — and at the diagnostic unit they become "the engineer's five swappable lenses… with the honest instruction that no lens is master and the body is the tiebreaker" (arc-gloss: ch15).
 - The corpus does not rank the five, and it says so: the fault lines are "kept as features; the fork left honestly unresolved with the body seated as referee" (atlas §IX.5).
+- **Read differently 2026-08-05.** Individually the five are colleagues who disagree, which is how the corpus presents them and how this note was written. Collectively they are five complete rival accounts of the territory the book's own compound diagnoses claim to compose, which makes them an argument against the scheme rather than a network inside it ([[the coaches are a bloc that competes with the compositional scheme]]). Two members break out of the bloc under that reading and are held separately: Robbins as the voluntarist pole the book's middle voice has to overcome at full strength ([[the middle voice is only earned against the voluntarist pole at full strength]]), and Hübl as an independent arrival at the book's own concept of privation ([[what was never metabolized lives on as absence and hubl reached it through inherited trauma]]). The shared blind spot recorded above became a question about the book rather than about them ([[the compound diagnoses may relocate a structural condition inside a person]]).
 
 ---
 
 Relevant Notes:
+- [[the coaches are a bloc that competes with the compositional scheme]] — the collective reading of the same five, and what it puts at stake
+- [[the middle voice is only earned against the voluntarist pole at full strength]] — the first member who breaks out
+- [[what was never metabolized lives on as absence and hubl reached it through inherited trauma]] — the second, arriving at the book's own position from outside
+- [[the compound diagnoses may relocate a structural condition inside a person]] — the blind spot turned back on the book
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the sharpest of the fault lines, and the rule the corpus uses instead of choosing
 - [[the book's company of thinkers is grouped by contribution rather than by doctrine]] — why a room of disagreeing figures can be admitted whole
 - [[distress is a question about machinery not a verdict about character]] — the diagnostic the five theories are docked into as a referral network

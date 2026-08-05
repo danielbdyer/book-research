@@ -50,6 +50,18 @@ The corpus preserves, rather than adjudicates, the disagreements among its conte
 
 - [[the tradition the book owes most has no chair in its company]] — the Kashmir Śaiva tradition is honored as the ground beneath everything and never given a guest's chair, raised by the author in his own words, 2026-08-03, alongside his note that the rooms grouping is a prior draft's trapping. The author has stated the direction: it deserves its flowers. Treatment: the road into the valley — how the book brings a Western reader to the tradition honestly; four candidate refusals are derived and awaiting his testing at [[the kashmir shaiva tradition would decline four of the book's deepest moves]].
 
+## The tensions the lineage sort exposed (2026-08-05)
+
+Five arrived together with the mesh grid. Four are the same shape — a claim carrying weight with nothing argued against it — and they are holes in the reading rather than faults in the book; each names what would fill it, and all five are ranked at `ops/lineage sort.md`.
+
+- [[introspective access is the felt shift's undefended premise]] — the verification standard presupposes reliable access to one's own states, and the literature against that premise is unread. First-ranked, and the same standard the author judges thinly defended. Treatment: unassigned; the objection has not been read.
+- [[the participation law has no opponent and its oldest objection is that participation is contamination]] — nothing in the roster attacks the central claim, and the objection is institutionalized in the whole apparatus of blinding and randomization. Treatment: unassigned.
+- [[the basic posture is describable as dissociation and the harm literature is unread]] — the same description read clinically is a symptom, and the contemplative adverse-effects data is absent. Called the book's most defensible criticism and the cheapest to answer. Treatment: unassigned.
+- [[the book cannot tell dissolution from regression and neither can its reader]] — the book induces destabilization and names no diagnostic for what it induced; the standard that decides everything else is the one worst placed to decide this. Treatment: unassigned.
+- [[a developmental scheme handed to practitioners becomes a ranking of persons]] — every documented precedent turned into a status hierarchy among its readers, and none produced a design feature that prevents it. Treatment: unassigned, and the demotion of the schemes is only a partial answer.
+
+Two more arrived with them and sit differently. [[the compound diagnoses may relocate a structural condition inside a person]] asks whether the book inherits the blind spot it names in the field it diagnoses — the counterweights are seated and the audit is not. And [[sorting a lineage by load turns it toward argument]] is the only one of the seven that is already treated: the instrument that found the other six operates in a register the authorial stance declines, and the author resolved the collision by scope rather than by choosing a side.
+
 ## The method this map does not supply
 
 - [[a kept tension can be mapped rather than only held]] — nascent. Every treatment recorded above is an authorial move made in the writing; none is a move the reader can make. The gesture naming a reader-facing procedure is an open territory, inventoried in `ops/open corpus.md`.
@@ -59,6 +71,8 @@ The corpus preserves, rather than adjudicates, the disagreements among its conte
 This map borders [[book-structure]], because the book's six revision passes exist as treatments for these tensions. It borders [[methods]], which records the rule that the vault never resolves a tension itself.
 
 ## What remains
+
+The seven added 2026-08-05 change the shape of this map's work. Six carry no treatment, and that is accurate rather than a backlog: a treatment is a move under trial, and there is nothing to try until the objections are read. Filling them is a reading queue rather than a writing queue, ranked at `ops/lineage sort.md`. One of the seven — the interiority audit — is the exception, because it needs no outside reading at all; it is an extraction pass over the drafts asking of each compound diagnosis whether it addresses the right subject.
 
 Of the four fault lines the corpus keeps live among its company of thinkers, two now have notes — surrender versus will, and declaration versus disclosure. Interiority versus structure and the four doors' war do not, and the first of the two has gained a candidate who would carry it: Hartmut Rosa's structural diagnosis, evaluated at [[hartmut rosa]], is the position the corpus holds anonymously, calling it the material voice. The Barrett-versus-McLaren question (are emotions found or made) is stated in [[open-questions]] and now has its sourcing in [[karla mclaren]]; if the author decides it belongs among the kept tensions, it gets a tension note here.
 

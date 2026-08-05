@@ -2,6 +2,8 @@
 description: Nishitani studied under Heidegger while lecturing on Eckhart; Ueda made the closest Eckhart–Zen comparison on record and ended it by recording a difference — the crossover walked at full professional depth.
 category: interlocutor
 seat: candidate
+load: adversary
+discipline: continental-philosophy
 recommendation: "Reference-lineage: the crossover walked for three generations with the differences kept — and Nishida, the school's founder, is already seated in the book's company."
 works: ["Religion and Nothingness (Nishitani)", "Ueda Shizuteru's Eckhart–Zen studies"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]

@@ -2,6 +2,8 @@
 description: Utpaladeva founded the recognition school whose doctrine the book's front matter translates; the corpus seats him as the named far side of the Heidegger convergence.
 category: interlocutor
 seat: source-tradition
+load: thesis-bearing
+discipline: indic-and-buddhist-primary
 clause: "Recognition philosophy's architect — the Heidegger convergence's far pole."
 works: ["Īśvarapratyabhijñākārikā"]
 sources: ["atlas §IX.6d", "walked IX", "atlas §I"]

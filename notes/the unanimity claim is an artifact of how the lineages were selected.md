@@ -24,6 +24,7 @@ The consequence is a fact about the framing rather than about the law. It states
 ---
 
 Relevant Notes:
+- [[the convergence's independence fails where three of its names share one teacher]] — the same conclusion by a second road, about descent rather than assembly, which survives independently of how the room was gathered
 - [[transformation is enacted participation inside a held container]] — the finding this qualifies, whose six voices were gathered for the property they are then reported to share
 - [[the book's company of thinkers is grouped by contribution rather than by doctrine]] — the grouping principle, which the record dates to the same day
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the other convergence whose independence claim the record requires to be dated

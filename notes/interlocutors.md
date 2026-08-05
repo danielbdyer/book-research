@@ -10,6 +10,14 @@ This map organizes the people the book thinks with, and by author decision (2026
 
 Each interlocutor note records the seat the thinker holds and the single sentence that justifies it; the atlas seats its reference lineage with "the clause that earned the chair" (§IX.8), and the vault generalizes that device to every seat. Candidates arrive through [[research-frontier]] and are evaluated against the admission bar recorded in [[methods]]. A candidate evaluation ends in a recommendation; the seating decision belongs to the author.
 
+## Two axes
+
+Since 2026-08-05 the company is sorted twice. The **seat** records what a thinker does for the book and is the taxonomy below. The **load** records what a thinker carries — what happens to the book if they leave — and was added by author decision after he named the older sort insufficient: "I think the 29 thinkers were the wrong lens all along." The two are orthogonal; a thinker has one of each and neither implies the other. The directive is `ops/methodology/thesis-bearing and company.md`, the current crossing is `ops/lineage sort.md`, and `scripts/queries/lineage-sort.sh` reports it from the notes.
+
+Six loads: `thesis-bearing` (remove them and the thesis changes shape), `adversary` (aims at a thesis-bearing claim from a position the book must survive), `independent-arrival` (reached the same finding down a different road, with no shared teacher), `names-existing-practice` (names machinery the book already runs), `company` (agrees on how things get made, without holding weight), and `precedent` (attempted this before; sorted by what happened to them). A third field, `discipline`, records where a thinker got their epistemics; crossed against load it exposes empty cells, and an empty cell is a reading question.
+
+Three rules govern the axis and are not optional. It allocates reading and never ranks evidence, so `ops/methodology/authorial stance.md` governs prose unchanged and a load never appears in a claim as a reason the claim is true ([[sorting a lineage by load turns it toward argument]]). A load is a proposal until the author makes it, the instrument being cosigned at 65–75%. And `company` is not a lesser standing — it is the sense that the work belongs to a living conversation, and its only failure mode is being mistaken for the argument.
+
 ## Seat taxonomy
 
 The seats are functional. The corpus's narrative names for them are recorded in [[figure glossary]].
@@ -38,6 +46,32 @@ The seats are functional. The corpus's narrative names for them are recorded in 
 - [[the transformation field divides into five theories of where suffering lives]] — the eleven contemporary teachers as a living argument, each camp's axiom quoted.
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the sharpest fault line, left unresolved with the body as referee.
 - [[the book's company of thinkers is grouped by contribution rather than by doctrine]] — how the company was assembled, which is what the convergences are agreement across.
+- [[the convergence's independence fails where three of its names share one teacher]] — the test applied to the field around the founding convergence, which most of it does not pass.
+
+### How the company is sorted, and the sorting's own findings
+
+- [[the company was sorted by what each thinker brings and never by what the book cannot lose]] — the author's correction of 2026-08-05 and the reason for the second axis.
+- [[the verification standard rests on one name and that name has no chair]] — the case that exposed the blind spot: the felt shift's author filed among twenty-nine builders.
+- [[the nearest prior attempts are case histories rather than interlocutors]] — the kind of thinker the seat taxonomy had no cell for, whose value is their outcome.
+- [[sorting a lineage by load turns it toward argument]] — the tension the axis creates against the authorial stance, treated by scope rather than resolved.
+- [[the coaches are a bloc that competes with the compositional scheme]] — the largest re-reading the sort produced: eleven colleagues read as one argument.
+
+### The undefended claims
+
+Four propositions the sort finds carrying weight with no adversary seated against them. Each is a hole in the reading rather than a fault in the book, and each names what would fill it.
+
+- [[introspective access is the felt shift's undefended premise]] — first-ranked, and the same standard the author judges thinly defended.
+- [[the participation law has no opponent and its oldest objection is that participation is contamination]] — the central claim, with nothing aimed at it.
+- [[the basic posture is describable as dissociation and the harm literature is unread]] — called the book's most defensible criticism, and the cheapest to answer.
+- [[the book cannot tell dissolution from regression and neither can its reader]] — sized at a chapter, and rising with every peak-state passage.
+
+### The arrivals from outside the lineage
+
+- [[the participation law has a witness who came to it through crystallography]] — Polanyi, the one witness with no debt to either founding pole.
+- [[the always-there hides by being always there and wittgenstein said so without heidegger]] — the cleanest correspondence the sort found, with the refusal that halves it.
+- [[the state that arrives and the station that is earned were distinguished a millennium before the lattice that names them]] — the Sufi distinction the book already uses as its bypass guard.
+- [[what was never metabolized lives on as absence and hubl reached it through inherited trauma]] — the book's own concept of privation, reached through trauma work.
+- [[the householder claim has no witness outside the indic world]] — the load-bearing claim with no arrival at all, and three candidates.
 
 ### Seated
 
@@ -70,6 +104,19 @@ The crossover cluster, evaluated 2026-08-03 at the author's direction as backgro
 - [[steven katz]] — the constructivist opponent, who breaks only the book already declined.
 - [[thomas sheehan]] — the deflationary guard, anchored in Heidegger's own 1964 retraction.
 - [[andrea jain]] — gestural subversion: the stewardship test that sincerity cannot pass alone.
+
+The mesh grid's names, evaluated 2026-08-05 from the grid alone rather than against primary works. Each note says so; every one carries a reading still to be done, and none of the loads is a seating.
+
+- [[eugene gendlin]] — thesis-bearing. The verification standard is his, and he has been carrying it from inside a roster of twenty-nine.
+- [[ken wilber]] — precedent, and thesis-bearing in one place. Four unrelated jobs the book has not credited, plus the only documented case history of an attempt like this one.
+- [[martin buber]] — thesis-bearing. The ontology under the relational vocabulary, currently seated at the epigraph position.
+- [[christopher alexander]] — thesis-bearing on the method rather than the thesis: structure-preserving transformation as the book's edit-ethic.
+- [[michael polanyi]] — independent-arrival. Reseated from support-for-the-felt-sense to the participation law's only non-continental witness.
+- [[ludwig wittgenstein]] — independent-arrival, with the refusal that makes the correspondence honest rather than flattering.
+- [[thomas hubl]] — independent-arrival at privation, broken out of the eleven-teacher bloc.
+- [[tony robbins]] — adversary. The voluntarist pole at full strength, and the name the register is most likely to condescend to.
+- [[ernest gellner]] — adversary. The immunization diagnosis, and the least comfortable name available.
+- [[willoughby britton]] — adversary. The harm data, whose absence is the criticism the grid calls most defensible.
 
 ### How the convergences came about
 
@@ -113,6 +160,8 @@ This map is fed by [[research-frontier]], which holds the evaluation queue. It b
 The nearest work is the author's: four of the survey's priority five are evaluated and await the seating decision, which the vault cannot make. The vault's own nearest work is the fifth member — the instrument's counterweights, admitted as a tension at [[felt shift versus felt confirmation]] and still needing sourcing in the processing-fluency and interoception literature. Beyond those, roughly sixty candidates are enumerated in `ops/queue/candidates.md`, which is deliberately long — the field, not the task. The roster above names about a hundred seated thinkers and works; they get notes when a claim needs them, because creating them all at once would add volume without use.
 
 Two seats the evaluations found rather than filled. The material voice is the only position in the whole roster carried anonymously, and [[hartmut rosa]] is a working sociologist whose central object is exactly the grid it names. Lisa Feldman Barrett is the standing counterweight to [[karla mclaren]]'s messenger model and is on the pending list; the question her research puts to the roster — are the messengers found or made — is recorded in [[open-questions]].
+
+The sort of 2026-08-05 adds a second kind of work and reorders the first. Ten new notes exist on the grid's authority alone and each needs its primary reading; nine ranked holes are enumerated at `ops/lineage sort.md` and feed `ops/queue/candidates.md`. Eleven chairs still carry no load, which is recorded as an unanswered question rather than as a default — `scripts/queries/lineage-sort.sh` lists them. Two findings from the crossing are worth naming here because they are about the reading rather than about any thinker. Three disciplines are near-empty across every load — analytic philosophy, systems and design, practitioner pedagogy — and the strongest missing arrivals live in exactly those three, which is a fact about where the reading has gone rather than about where the thinkers are. And two of the eight propositions the grid treats as load-bearing have no claim note in this vault at all, while both already have adversaries seated against them: the vault currently holds objections to two things it has never stated.
 
 ---
 

@@ -19,11 +19,11 @@ The grid sorts thinkers against eight claims it names C1 through C8. The letters
 | C3 · the Stance | Gaze outward, attention resting inward; held but not holding, available and discerning. | [[unrelated traditions converge on presence without agenda while remaining available to act]] |
 | C4 · felt-shift verification | Nothing counts unless the body countersigns. | [[nothing enters the lattice the body has not countersigned]] |
 | C5 · compositional physics | Primitives combine into compound diagnoses; the diagnosis contains the cure. | [[distress is a question about machinery not a verdict about character]] |
-| C6 · anti-instrumentality | Practice and realization are one; the peak is not the work. | [[the practice is the point rather than the state it produces]] |
-| C7 · selflessness by self-primacy | Selflessness is reached through the fullness of the I rather than around it. | [[the core experience is inalienable]] |
-| C8 · the householder claim | This is livable inside an ordinary life; no renunciation required. | [[the practice belongs in an ordinary week rather than in retreat]] |
+| C6 · anti-instrumentality | Practice and realization are one; the peak is not the work. | Nearest only: [[the basic practice posture is a point of return rather than a state]] |
+| C7 · selflessness by self-primacy | Selflessness is reached through the fullness of the I rather than around it. | **No note.** |
+| C8 · the householder claim | This is livable inside an ordinary life; no renunciation required. | [[the tuesday is the temple]]; [[the house with no ceiling is transcendence with plumbing]] |
 
-The grid's own discipline for this table is the one worth carrying: "for C1 through C8, who holds it? If a claim has no Tier 1 name, either it is not load-bearing or it is being carried by the prose. The second is the dangerous case, and the prose is good enough to hide it" (`mesh grid: the Tier 1 discipline`).
+Two rows of that table are the first thing the sort found, before any thinker was moved. The claim about reaching selflessness through the fullness of the I has no claim note in this vault at all, and the claim that practice and realization are one has only a near neighbour. Both are claims the grid treats as load-bearing and both have adversaries already seated against them — Nāgārjuna, Loy, Nishitani and Weil against the first; Han against the second — so the vault currently holds the objections to two propositions it has never stated. Whether that means they are not load-bearing or that they are being carried by the prose is the question the grid's own discipline puts, and it is not answered here: "for C1 through C8, who holds it? If a claim has no Tier 1 name, either it is not load-bearing or it is being carried by the prose. The second is the dangerous case, and the prose is good enough to hide it" (`mesh grid: the Tier 1 discipline`). Both are queued in `ops/queue/extractions.md`.
 
 ## The sort
 

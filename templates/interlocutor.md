@@ -38,6 +38,8 @@ _schema:
     discipline:
       - continental-philosophy
       - indic-and-buddhist-primary
+      - abrahamic-contemplative
+      - african-philosophy
       - clinical
       - empirical-science
       - social-theory

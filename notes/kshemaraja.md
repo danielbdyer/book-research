@@ -2,6 +2,8 @@
 description: Kṣemarāja, Abhinavagupta's disciple, wrote the twenty-sūtra Heart of Recognition; the book takes its planted center-formula from him, and his hand also writes in the book's margins.
 category: interlocutor
 seat: source-tradition
+load: thesis-bearing
+discipline: indic-and-buddhist-primary
 clause: "From the unfolding of the center comes the bliss of consciousness."
 works: ["Pratyabhijñāhṛdayam", "Spanda Nirṇaya"]
 sources: ["atlas §IX.6c", "atlas §IX.6d", "atlas §IX.7", "walked IX"]

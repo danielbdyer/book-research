@@ -2,6 +2,8 @@
 description: Ignatius of Loyola is an evaluated candidate — the Spiritual Exercises are a worked precedent for the performing book with the second chair built in, and their two hardest rules contradict the book's design.
 category: interlocutor
 seat: candidate
+load: independent-arrival
+discipline: abrahamic-contemplative
 clause: "Draft, pending the author's decision: the performing book is a genre with a four-century safety record, and its safety came from a companion forbidden to persuade."
 recommendation: "Reference-lineage, with the craft findings routed to the book-as-artifact material: the precedent is worth naming for the genre it establishes, and its two governing rules — the neutral companion and the withdrawal — are the sharpest tests the book's design has been put to."
 works: ["The Spiritual Exercises"]

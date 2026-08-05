@@ -2,6 +2,8 @@
 description: Henry Corbin, Heidegger's first French translator, carried the hermeneutics of unveiling into Persian illuminationism — the crossover's nearest footstep, who used the key on other doors and said so.
 category: interlocutor
 seat: candidate
+load: names-existing-practice
+discipline: continental-philosophy
 recommendation: "Reference-lineage: the nearest footstep to the author's own crossing, with the one-way rule kept — the key opens other levels without obliging the walker to stay."
 works: ["Qu'est-ce que la métaphysique? (translation, 1939)", "From Heidegger to Suhravardi (interview with Philippe Nemo, 1976)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
@@ -14,12 +16,14 @@ Henry Corbin was Heidegger's first French translator — his edition of *Qu'est-
 
 The refusal kept: the passage was one-way, and Corbin said so. Using the key did not require sharing Heidegger's worldview, and he did not stay. The instructive difference from this book's crossing: Corbin's destination was esoteric — the imaginal realm, Shi'ite gnosis — where this book's destination is a householder's Tuesday. He proves the road exists and shows the fork in it.
 
+One charge to meet, added 2026-08-05 and not yet researched here. Steven Wasserstrom's argument against the Eranos circle is that it lifted esotericism clean out of its legal, communal and juridical context, keeping the visionary material and discarding the obligations it was embedded in. The mesh grid's observation is that this is "structurally the same charge available against the book's use of Trika" (`mesh grid: tier 4`) — and the vault already holds the same objection from another direction, in the tradition's own refusals and in the question of the road into the valley. Corbin is therefore both the nearest footstep and the nearest cautionary case, which is a more useful pairing than either alone.
+
 ---
 
 Relevant Notes:
 - [[the crossover has footsteps and the book already seats some of the walkers]] — the field this footstep leads
 - [[martin heidegger]] — the philosopher whose key Corbin carried out of the building
-- [[the tradition the book owes most has no chair in its company]] — the road-building problem his precedent bears on
+- [[the tradition the book owes most has no chair in its company]] — the road-building problem his precedent bears on, and where the Wasserstrom charge lands on this book rather than on Eranos
 
 Topics:
 - [[interlocutors]]

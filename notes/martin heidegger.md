@@ -2,6 +2,8 @@
 description: "Heidegger anchors the speech-acts room and supplies the book's central verb; his chair holds four refusals derived from his texts, and the associations an erudite reader brings — named at the door, with escorts seated."
 category: interlocutor
 seat: speech-acts
+load: thesis-bearing
+discipline: continental-philosophy
 clause: "Truth is aletheia — an event of un-concealment, not a property of statements."
 works: ["Being and Time", "Letter on Humanism", "The Question Concerning Technology", "Discourse on Thinking (the Memorial Address)", "Building Dwelling Thinking", "The Thing", "The End of Philosophy and the Task of Thinking"]
 sources: ["atlas §I", "atlas §IX.3", "walked I", "author statement, 2026-08-03"]
