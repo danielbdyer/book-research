@@ -164,7 +164,7 @@ Named by the sort and not yet given notes, grouped by the hole each would fill:
 - [e] Keith Johnstone — evaluated 2026-08-05 from the grid; primary reading still required. **Hole 3**, in the author's own first discipline; the status material has no equivalent anywhere in the book. `notes/keith johnstone.md`.
 - [e] Al-Qushayrī — evaluated 2026-08-05 from the grid; primary reading still required, and the wording must be verified against a printed translation before manuscript use. **Holes 5 and 6.** `notes/al-qushayri.md`.
 - [e] Hasidic worship through corporeality, with Brother Lawrence beside it — evaluated 2026-08-05 from the grid; primary reading still required. **Hole 5**, and the strongest candidate for it, because the tradition never required renunciation rather than adapting a practice that did. Layman Pang remains unqueued. `notes/hasidic worship through corporeality.md`.
-- [ ] Ubuntu personhood — Ifeanyi Menkiti, Mogobe Ramose — a third pole for the self-primacy fork, which has two poles because the room has two traditions. **Hole 6.**
+- [e] Ubuntu personhood — evaluated 2026-08-05 at the author's request; primary reading still required. **Hole 6**, the sort's only chairless hole and its only wholly empty discipline. Read Menkiti's 1984 essay and Gyekye's 1987 reply together, because the internal disagreement maps onto the book's own fork; Metz supplies the analytic reconstruction and fills a second empty cell; Matolino and Kwindingwi, and Praeg, supply the capture critique, which is the same charge Wasserstrom makes against Eranos. `notes/ubuntu personhood.md`.
 - [ ] Stanislav Grof — the spiritual-emergency literature, for the dissolution-versus-regression guardrail. **Hole 7.** Already listed above from the abridged edition's lineage list.
 - [e] Paul Meehl — evaluated 2026-08-05 from the grid; primary reading still required. The formal version of the charge Richard Biernacki makes historically. `notes/paul meehl.md`.
 - [ ] Richard Biernacki — the sociologist of method, on building the instrument that finds the thing everywhere. Distinct from Loriliai Biernacki, who is seated in the crossover cluster; the collision of surnames has already caused one misreading.
@@ -174,3 +174,27 @@ Named by the sort and not yet given notes, grouped by the hole each would fill:
 - [e] Douglas Hofstadter, Gurdjieff and Ouspensky, Mihály Csíkszentmihályi — evaluated 2026-08-05 from the grid as three separate notes; what each needs is a reception history rather than a primary reading, which is the right size for a precedent. `notes/douglas hofstadter.md`, `notes/gurdjieff and ouspensky.md`, `notes/mihaly csikszentmihalyi.md`. John Vervaeke is queued above and belongs with them.
 - [ ] Byron Katie, the Conscious Leadership Group and Jerry Colonna, Otto Scharmer — ground for machinery already running; all four are already in the roster and need notes only when a claim reaches for them.
 - [ ] John Wineland and David Deida — the one coaching position that locates suffering in a withheld gift rather than a misperception, which the grid says "deserves one honest look before demotion."
+
+## The two syntheses of 2026-08-05 (`high-energy states`, `standing wave`)
+
+Two commissioned research documents arrived on the book's subject and on the method. Two chairs were built from them — `notes/daniel ingram.md` and `notes/de jaegher and di paolo.md` — and Britton's existing chair gained real content. The rest are queued here rather than written, which is the metering the author asked for: each entry names what the synthesis supplies, so a later pass starts from something rather than from a name.
+
+From `high-energy states`:
+
+- [ ] Stanislav Grof — spiritual emergency as crisis and emergence together; the clinical vocabulary for the territory Ingram maps from inside. **Hole 7.** Already listed above from the abridged edition's lineage list; this is the same entry with content attached.
+- [ ] Robin Carhart-Harris, with Karl Friston — the entropic brain and REBUS: rigid states show abnormally low brain entropy, psychedelics deweight overconfident priors so ascending prediction errors find freer register. Already queued above; the synthesis supplies the mechanism in enough detail to evaluate.
+- [ ] Marc Wittmann — subjective time and bodily self-awareness processed in the same region, and duration experienced as "tortuous" in depression. Already queued; now with the specific finding.
+- [ ] Raphaël Millière — that psychedelic ego dissolution reaches the minimal self and not only the narrative self, which bears on how far the book's dissolution passages actually go.
+- [ ] Gül Dölen — critical-period reopening with durations, and the context-dependence qualification that is the load-bearing part. Already queued; the finding is now a claim at `notes/the plasticity window reorganizes only what attention is on.md`.
+- [ ] Teresa of Avila and John of the Cross — the interior mansions and the dark night of spirit, as the Christian map of the same sequence. Neither is in the vault; the corpus seats Eckhart and Julian of Norwich but no one from this pair.
+- [ ] Roland Griffiths and the Mystical Experience Questionnaire — that completeness of mystical experience predicts outcome, which is a measured version of a claim the book makes qualitatively. Already queued.
+
+From `standing wave`:
+
+- [ ] Hubert Dreyfus — absorbed coping as non-conceptual rather than merely unspoken, which goes further than Polanyi. **Note before evaluating:** he is a Heidegger interpreter, so he fails the independence test exactly as Nishitani, Corbin and Henry do. He extends the tacit-knowing material and does not add a witness.
+- [ ] John Keats, negative capability — "capable of being in uncertainties, Mysteries, doubts, without any irritable reaching after fact and reason," with Bate's point that the operative word is *irritable*. Would fill `poets-and-artists`, currently empty in every load.
+- [ ] Arie Kruglanski and Donna Webster — the need for cognitive closure, seizing and freezing, and the documented biases. The empirical half of `notes/the drive to closure has measurable costs.md`.
+- [ ] Wilfred Bion — "resisting the tendency to fill with knowing the empty space created by ignorance"; negative capability as a container for the anxiety of not-knowing, which is the container anatomy arriving from psychoanalysis.
+- [ ] The apophatic lineage — Pseudo-Dionysius, the Cloud of Unknowing, Nicholas of Cusa's learned ignorance and coincidence of opposites. Disciplined non-resolution with a procedure and a terminus. Eckhart is already in the corpus's reference lineage and is the bridge.
+- [ ] Graham Priest — paraconsistent logic, and the distinction between reasoning within contradiction and holding contradictions true. The formal warrant for the vault's tension practice, and the weaker claim is the one that is defensible.
+- [ ] Interpersonal entrainment — Kelso on coupled oscillators, the pianist hyperscanning work, Wiltermuth and Heath on synchrony and cooperation. What makes resonance literal rather than figurative; bears on `notes/hartmut rosa.md`.

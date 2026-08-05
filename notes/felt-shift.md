@@ -42,6 +42,13 @@ Open territory bearing on the verification standard, none of it yet substantiate
 
 This concern borders [[relational-field]], because the book uses the field as a second check on what the solitary body reports. It borders [[answerability]], because the book applies the same test to reading itself (did the understanding arrive, or was it constructed?). It borders [[methods]], because the vault inherits the standard's humility without possessing the organ.
 
+## The defence and the objections (2026-08-05)
+
+- [[introspective access is the felt shift's undefended premise]] — the objection the standard has never met, first-ranked of the sort's nine holes.
+- [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the first candidate answer the vault holds, and it comes from the standard's own author: the implicit order is precise enough to refuse a wrong word, and a refusal is a cost fluency never pays.
+- [[the verification standard rests on one name and that name has no chair]] — why the standard cannot be defended by company.
+- [[eugene gendlin]] — the chair, written 2026-08-05, with the primary reading still to do.
+
 ## What remains
 
 This map's own live question is the instrument's counterweights: grounding [[felt shift versus felt confirmation]] in the processing-fluency and interoception literature is the priority five's last open member. Beyond it, the space-around survey proposes four candidates that bear directly on this map, none yet researched — Polanyi's tacit knowing, William James's account of the vague, Gendlin's own Thinking at the Edge method, and Petitmengin's micro-phenomenology — on the pending-evaluation list in `ops/queue/candidates.md`, which is deliberately long.

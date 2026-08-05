@@ -134,6 +134,12 @@ The sort's named holes given chairs, 2026-08-05, at the author's direction and u
 - [[gurdjieff and ouspensky]] — precedent. The nearest structural ancestor, and the record of authority dynamics no one designed.
 - [[mihaly csikszentmihalyi]] — precedent. The bench's only case that was welcomed, and inverted in the welcoming.
 
+Three more, 2026-08-05, from the author's request and from two research syntheses received the same day:
+
+- [[ubuntu personhood]] — independent-arrival. The third pole for the self-primacy fork, with the tradition's own internal disagreement kept and its capture critique with it. Fills the sort's only chairless hole.
+- [[daniel ingram]] — names-existing-practice. The difficult stages after the threshold as a named, expected sequence, which is the most practically developed answer to the guardrail the book lacks.
+- [[de jaegher and di paolo]] — independent-arrival. Participatory sense-making, which is the first mechanism the relational field has ever had, and the most precise version of the objection to the book's solitary form.
+
 ### How the convergences came about
 
 - [[the unanimity claim is an artifact of how the lineages were selected]] — the lineages were gathered on one day for the property they are then reported to share.

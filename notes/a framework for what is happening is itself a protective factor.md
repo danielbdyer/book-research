@@ -1,5 +1,5 @@
 ---
-description: Among the psychological predictors of a difficult altered-state experience is the absence of any framework for it, which means an accurate account of the territory reduces harm and puts the book inside its own subject matter.
+description: Among the predictors of a difficult altered-state experience is having no framework for it, which means an accurate account reduces harm and puts the book inside its own subject matter.
 category: claim
 sources: ["high-energy states: what predicts whether dissolution liberates or terrifies", "high-energy states: the contemplative maps"]
 topics: ["[[container-anatomy]]", "[[answerability]]"]

@@ -62,6 +62,11 @@ Five arrived together with the mesh grid. Four are the same shape — a claim ca
 
 Two more arrived with them and sit differently. [[the compound diagnoses may relocate a structural condition inside a person]] asks whether the book inherits the blind spot it names in the field it diagnoses — the counterweights are seated and the audit is not. And [[sorting a lineage by load turns it toward argument]] is the only one of the seven that is already treated: the instrument that found the other six operates in a register the authorial stance declines, and the author resolved the collision by scope rather than by choosing a side.
 
+## The tensions the two syntheses raised (2026-08-05)
+
+- [[a synthesis organized by the schemes offers to promote them back to architecture]] — treated. A neurobiology synthesis organized throughout by the three-loop scheme, supplying each loop with neural correlates, is the most plausible route by which the demotion of 2026-08-04 gets reversed without anyone deciding to reverse it. Treatment: take the findings, decline the organizing principle, state every derived claim in plain terms.
+- [[the author is the book's first audience member and that is where the promise starts]] — treated, and the treatment is the author's own. Asked how a book that refuses instrumentality can promise transformation, he refused both available answers and started instead from what is intrinsically useful to him during his own therapy and integration, offering enough of the shape to be held up to the light rather than the whole passage. He states that the resolution is not clear to him, so this stays a trial.
+
 ## The method this map does not supply
 
 - [[a kept tension can be mapped rather than only held]] — nascent. Every treatment recorded above is an authorial move made in the writing; none is a move the reader can make. The gesture naming a reader-facing procedure is an open territory, inventoried in `ops/open corpus.md`.

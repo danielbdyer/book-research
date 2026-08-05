@@ -1,5 +1,5 @@
 ---
-description: The enactivist cognitive scientists whose participatory sense-making holds that an interaction between two people can take on autonomy and generate meaning irreducible to either, which is a mechanism for the book's third thing.
+description: The enactivist cognitive scientists whose participatory sense-making holds that an interaction can take on autonomy and generate meaning irreducible to either party — a mechanism for the book's third thing.
 category: interlocutor
 seat: candidate
 load: independent-arrival

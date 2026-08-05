@@ -1,5 +1,5 @@
 ---
-description: The need-for-cognitive-closure literature documents that seizing on an early answer and freezing on it produces replicable biases, which gives the vault's practice of holding tensions live an empirical warrant it did not have.
+description: The need-for-cognitive-closure literature documents that seizing on an early answer and freezing on it produces replicable biases, which gives the vault's practice of holding tensions live a warrant.
 category: claim
 sources: ["standing wave: §3", "standing wave: §2"]
 topics: ["[[methods]]", "[[tensions]]"]

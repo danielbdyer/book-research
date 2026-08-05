@@ -1,5 +1,5 @@
 ---
-description: The neurobiology synthesis received 2026-08-05 is organized throughout by the book's three-loop scheme and supplies each loop with neural correlates, which is the most plausible route by which the schemes' demotion gets reversed without anyone deciding to reverse it.
+description: The neurobiology synthesis is organized throughout by the book's three-loop scheme and gives each loop neural correlates, which would reverse the schemes' demotion by accretion rather than by decision.
 category: tension
 status: treated
 treatment: "take the findings, decline the organizing principle; every claim drawn from the synthesis states its finding in plain terms rather than as a property of a loop"
