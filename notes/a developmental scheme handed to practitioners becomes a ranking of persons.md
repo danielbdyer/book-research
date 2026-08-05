@@ -5,7 +5,8 @@ status: live
 treatment: "unassigned — the design question is open, and the grid calls it the most valuable unanswered question in the sort"
 sources: ["mesh grid: tier 0", "mesh grid: revised search map"]
 topics: ["[[tensions]]", "[[book-structure]]"]
-state: nascent
+state: privated
+privation: "the mesh grid's characterization stands in for a primary reading not yet done"
 ---
 
 # a developmental scheme handed to practitioners becomes a ranking of persons
@@ -18,7 +19,7 @@ The grid's ranking of the question is not rhetorical: "No one on this bench solv
 
 ## Substantiation
 
-- Stated on the grid's authority and `nascent`: the precedent cases have not been researched in this vault. What the grid supplies is the pattern across several attempts — a synthesis, a school, and a construct that escaped into general use — rather than a single anecdote, and the pattern is what the claim rests on ([[the nearest prior attempts are case histories rather than interlocutors]]).
+- Stated on the grid's authority and `privated`: the precedent cases have not been researched in this vault. What the grid supplies is the pattern across several attempts — a synthesis, a school, and a construct that escaped into general use — rather than a single anecdote, and the pattern is what the claim rests on ([[the nearest prior attempts are case histories rather than interlocutors]]).
 - The demotion of the schemes is the author's, recorded in `ops/decisions.md` and stated at `ops/methodology/the book's current shape.md`: "Useful for seeing with; not the thing the book is wrapped around."
 - What the book already holds that cuts against the failure mode, recorded so the tension is not overstated. Its account of difficulty is that distress is a question about machinery rather than a verdict about character ([[distress is a question about machinery not a verdict about character]]), which removes the moral valence a ranking needs. Its stated foundation is that the reader already knows everything in the book, which is a poor premise for a ladder. And its promise, since 2026-08-04, is addressed to someone whose breakthrough did not hold — a reader positioned as having already been high on any scale and found the position empty.
 - What cuts the other way, and is the reason this stays live rather than treated. Any account of protective structure that persists after its cause supplies a way to rank people by how much of it they carry, and the book's diagnostic apparatus is built to identify exactly that in a person. A vocabulary for naming what is contracted in someone is a vocabulary for saying who is more contracted.

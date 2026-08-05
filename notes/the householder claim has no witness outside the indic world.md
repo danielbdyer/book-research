@@ -3,7 +3,8 @@ description: The claim that this is livable inside an ordinary life is load-bear
 category: open-question
 sources: ["mesh grid: tier 3", "mesh grid: the search map"]
 topics: ["[[research-frontier]]", "[[interlocutors]]"]
-state: nascent
+state: privated
+privation: "the mesh grid's characterization stands in for a primary reading not yet done"
 ---
 
 # the householder claim has no witness outside the indic world

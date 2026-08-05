@@ -3,7 +3,8 @@ description: Martin Buber's I–Thou is the origin of the relational-presence vo
 category: claim
 sources: ["mesh grid: other names recovered", "atlas §IX"]
 topics: ["[[relational-field]]", "[[interlocutors]]"]
-state: nascent
+state: privated
+privation: "the mesh grid's characterization stands in for a primary reading not yet done"
 ---
 
 # the relational vocabulary has an ontology and it is buber's rather than benjamin's
@@ -16,7 +17,7 @@ Two further facts make the placement matter. Buber arrived at I–Thou independe
 
 ## Substantiation
 
-- Stated on the grid's authority and `nascent`: *Ich und Du* has not been read in this vault. Buber's current placement is checkable and was checked — he appears in the corpus's chapter-patron list and in `ops/chapter concordance.md`, and has no interlocutor note.
+- Stated on the grid's authority and `privated`: *Ich und Du* has not been read in this vault. Buber's current placement is checkable and was checked — he appears in the corpus's chapter-patron list and in `ops/chapter concordance.md`, and has no interlocutor note.
 - The vault's material on the concern is at [[the field between two people does work]] and gathered at [[relational-field]]; Benjamin's thirdness is recorded in the corpus's reference lineage and in the map.
 - The distinction the grid draws is between two kinds of warrant rather than two levels of quality, and both are worth having. A clinical account says what happens in a room and can be observed; an ontological account says what kind of thing the between is, and the book makes claims of that second kind — that the field is real, that it acts, that something arrives in it neither party supplied.
 - The independence claim needs verifying and is the reason to read rather than cite: Buber's explicit argument against Heidegger is in his later writing on the philosophy of religion, and its content matters here because the disagreement is about exactly what the book borrows from both — whether the ground of disclosure is impersonal or addressed.

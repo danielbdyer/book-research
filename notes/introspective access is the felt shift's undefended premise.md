@@ -5,7 +5,8 @@ status: live
 treatment: "unassigned — the reading is queued and the counterweights are unread"
 sources: ["mesh grid: against C4", "mesh grid: the search map", "author statement, 2026-08-04"]
 topics: ["[[tensions]]", "[[felt-shift]]"]
-state: nascent
+state: privated
+privation: "the mesh grid's characterization stands in for a primary reading not yet done"
 ---
 
 # introspective access is the felt shift's undefended premise
@@ -18,7 +19,7 @@ The three are of different kinds and the difference matters. Nisbett and Wilson'
 
 ## Substantiation
 
-- This note is stated on the grid's authority and is `nascent` by the vault's own convention: none of the three primary works has been read here, and the descriptions above are the grid's characterizations rather than the vault's verification. Filling it is the first item in `ops/lineage sort.md` and the first item in the torch.
+- This note is stated on the grid's authority and is `privated` by the vault's own convention: none of the three primary works has been read here, and the descriptions above are the grid's characterizations rather than the vault's verification. Filling it is the first item in `ops/lineage sort.md` and the first item in the torch.
 - The load the claim carries is the author's own, stated 2026-08-04: the felt shift is the book's single verification criterion and "everything else runs downstream of it." He judges it currently to have "little defense," which makes this hole his assessment as well as the grid's.
 - The tension is filed `live` with no treatment, and that is accurate rather than a placeholder: the vault has nothing to try yet, because the objection has not been read.
 - One reason this tension is harder than a literature pass, carried from `ops/methodology/the book's current shape.md`: the book's second reader type is fluent in integration vocabulary and uses that fluency to avoid feeling, which makes the author's own articulacy a hazard. If the standard's failure mode and the book's defining reader are the same thing, then a defense of the standard has to survive being written in the book's own prose.

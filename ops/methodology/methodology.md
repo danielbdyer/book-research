@@ -25,6 +25,14 @@ This folder records what the system knows about its own operation. The /rethink 
 - [[propositions carry names and images]] — the standing directive on attachment, issued 2026-08-05: every claim names the bearer and the figure the corpus supplies for it, because the pipeline reaches for material attached to a thinker or an image and a proposition attached to neither is invisible to both routes. It is not permission to file claims by thinker or by figure; the proposition stays the subject of its own note.
 - [[the graduate student phase]] — the author's statement of 2026-08-05 naming the project's current phase: following the research backlog's rabbit holes where valuable is expected and favorable rather than the displacement risk it would normally read as, "as long as it's metered." The admission standard for individual notes is unchanged; what changes is how a pattern of pursuit is read.
 
+## Retrieval note: chairs are found by name, not by meaning
+
+An interlocutor note's description is mostly about the tradition it seats the thinker for, so the note does not surface in a semantic search for its own subject. Measured 2026-08-03: five of seventeen chairs were absent from the top ten results for their own description, one from the top twelve, while a keyword search on a work title returned its note first. Twenty-three chairs were added on 2026-08-05, which makes the gap wider rather than narrower.
+
+The consequence for any pass that reaches for related material — /reflect, /reweave, /verify — is that `qmd query` will not find a thinker by what they hold. **Retrieve chairs by surname or work title using `qmd search`, or by `rg -l '^category: interlocutor' notes/`.** And /verify's retrieval test, which asks whether a note surfaces in a search for its own description, reports a failure for interlocutor notes that no description can fix; run it with a name query for any note whose subject is a person.
+
+This is guidance rather than a counted condition, because it rests on one measurement (`ops/observations/semantic search does not find a note inside its own topical cluster.md`).
+
 ## How to use this folder
 
 List the notes: `ls ops/methodology/`. Find active directives: `rg '^status: active' ops/methodology/`. Corrections captured by /remember land here as dated notes; when a correction contradicts a standing directive, the contradiction goes to `ops/tensions/` for the next /rethink review.

@@ -3,7 +3,8 @@ description: Among the predictors of a difficult altered-state experience is hav
 category: claim
 sources: ["high-energy states: what predicts whether dissolution liberates or terrifies", "high-energy states: the contemplative maps"]
 topics: ["[[container-anatomy]]", "[[answerability]]"]
-state: nascent
+state: privated
+privation: "the primary work behind the high-energy states synthesis has not been read"
 ---
 
 # a framework for what is happening is itself a protective factor
@@ -16,7 +17,7 @@ This changes where the book stands in relation to its own subject. A book that g
 
 ## Substantiation
 
-- `nascent`: no primary work behind the predictor list has been read here, and the claim rests on the synthesis's report. What would need checking is whether "lack of framework" appears as a measured variable in the challenging-experiences literature or as the synthesis's summary of clinical consensus, because those carry different weight.
+- `privated` — no primary work behind the predictor list has been read here, and the claim rests on the synthesis's report. What would need checking is whether "lack of framework" appears as a measured variable in the challenging-experiences literature or as the synthesis's summary of clinical consensus, because those carry different weight.
 - Stated in plain terms rather than as a property of loop release, per [[a synthesis organized by the schemes offers to promote them back to architecture]].
 - The finding cuts in two directions and both belong in the note.
 

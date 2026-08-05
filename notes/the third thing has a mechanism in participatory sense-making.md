@@ -3,7 +3,8 @@ description: Enactivist work holds that a social interaction can itself take on 
 category: isomorph
 sources: ["standing wave: §4"]
 topics: ["[[relational-field]]", "[[interlocutors]]"]
-state: nascent
+state: privated
+privation: "the primary work behind the standing wave paper has not been read"
 ---
 
 # the third thing has a mechanism in participatory sense-making
@@ -16,7 +17,7 @@ Beside it sits the measured version. Interpersonal coordination in joint action 
 
 ## Substantiation
 
-- `nascent`: none of the primary work has been read here — not De Jaegher and Di Paolo's 2007 paper, not the entrainment or hyperscanning studies. The formulations are the paper's report of them.
+- `privated` — none of the primary work has been read here — not De Jaegher and Di Paolo's 2007 paper, not the entrainment or hyperscanning studies. The formulations are the paper's report of them.
 - Why this counts as an isomorph rather than as support. Enactivist cognitive science reached an irreducible interaction process from autonomy and dynamical systems, with no contact with either pole of the book's founding convergence, which is the property the sort finds most of the company lacking ([[the convergence's independence fails where three of its names share one teacher]]). Under `ops/methodology/authorial stance.md` the arrival is company rather than corroboration, and the vault does not rank it as stronger evidence than any other.
 - The clearest illustration is the ensemble, and it is worth keeping because it is a case rather than a metaphor: musicians achieve a precise joint accomplishment — playing together — without anyone stating the tempo. The tempo is known in the coupling and in no one's head.
 - One finding here bears on the resonance material specifically. The corpus runs a resonance theory and the vault seats [[hartmut rosa]] for its uncontrollability clause; the entrainment literature is what makes "resonance over dissonance" literal rather than figurative, which is a different kind of support from a sociological one. The synchrony-without-positive-emotion result is the sharper detail: coordination does its work without needing to feel good, which cuts against any reading of the relational field as fundamentally about warmth.

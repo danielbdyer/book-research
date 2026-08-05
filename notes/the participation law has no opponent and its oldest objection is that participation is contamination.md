@@ -5,7 +5,8 @@ status: live
 treatment: "unassigned — Gellner, Popper, and the replication-reform literature are unread here"
 sources: ["mesh grid: against C1", "mesh grid: the search map"]
 topics: ["[[tensions]]", "[[relational-field]]"]
-state: nascent
+state: privated
+privation: "the mesh grid's characterization stands in for a primary reading not yet done"
 ---
 
 # the participation law has no opponent and its oldest objection is that participation is contamination
@@ -18,7 +19,7 @@ The third is the sharp one, and it is aimed at this book rather than at the gene
 
 ## Substantiation
 
-- Stated on the grid's authority and `nascent` accordingly: none of the three has been read here, and Gellner has no note in this vault. The reading is second in the ranked holes at `ops/lineage sort.md`, behind the felt shift's adversary.
+- Stated on the grid's authority and `privated` accordingly: none of the three has been read here, and Gellner has no note in this vault. The reading is second in the ranked holes at `ops/lineage sort.md`, behind the felt shift's adversary.
 - What makes this a genuine hole rather than an oversight is the asymmetry with the book's other claims. The corpus supplies adversaries for four of the eight propositions the grid treats as load-bearing — Nāgārjuna, Loy, Nishitani and Weil against reaching selflessness through the fullness of the I; Han against practice as its own end; Weil again against the householder claim; Biernacki against the compositional scheme. It supplies none against the one it calls first.
 - The vault already holds the adjacent structural finding from its own record, arrived at by another road: the lineages were gathered on one day for the property they are then reported to share, so the unanimity is an artifact of selection ([[the unanimity claim is an artifact of how the lineages were selected]]). That explains the absence of opponents as a sampling result. It does not answer the objection, and the two should not be confused — knowing why no one in the room disagrees is not the same as knowing what someone outside it would say.
 - The immunization charge has a live second address in the vault. The nearest prior attempt at a synthesis of this kind met exactly it: everything fits inside the framework, therefore nothing tests it ([[the nearest prior attempts are case histories rather than interlocutors]]). The grid's own framing of that coincidence is that it lets the objection be watched landing on a neighbour rather than on the book.

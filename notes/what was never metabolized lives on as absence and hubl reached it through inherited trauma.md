@@ -3,7 +3,8 @@ description: Thomas Hübl's account of collective and ancestral trauma holds tha
 category: isomorph
 sources: ["mesh grid: the coaches", "atlas §IX.5"]
 topics: ["[[contraction-not-corruption]]", "[[interlocutors]]"]
-state: nascent
+state: privated
+privation: "the mesh grid's characterization stands in for a primary reading not yet done"
 ---
 
 # what was never metabolized lives on as absence and hubl reached it through inherited trauma
@@ -16,7 +17,7 @@ Hübl currently sits in the vault inside a group of eleven contemporary teachers
 
 ## Substantiation
 
-- Stated on the grid's authority and `nascent`: Hübl's primary work has not been read in this vault, and the formulation above is the grid's characterization. The correspondence is worth verifying at the text before manuscript use, because the whole value of an independent arrival is that it was arrived at, and a paraphrase cannot establish that.
+- Stated on the grid's authority and `privated`: Hübl's primary work has not been read in this vault, and the formulation above is the grid's characterization. The correspondence is worth verifying at the text before manuscript use, because the whole value of an independent arrival is that it was arrived at, and a paraphrase cannot establish that.
 - Hübl's current placement is at atlas §IX.5, among the expansions to the five theories: he holds collective trauma as inherited weather, beside the anonymous material voice. That position is recorded at [[the transformation field divides into five theories of where suffering lives]].
 - The book's own concept of privation is at [[suffering is contraction never corruption]] and [[distress is a question about machinery not a verdict about character]]; its descent from the recognition tradition, where the obstruction is a covering rather than a defect, is at [[contraction-not-corruption]].
 - This is an independent arrival in the strict sense the sort finds the company mostly lacking ([[the convergence's independence fails where three of its names share one teacher]]), and it arrives from a discipline — clinical trauma work — that the crossing shows thinly populated at this position.

@@ -3,7 +3,8 @@ description: A handful of people have already attempted a synthesis across conte
 category: structure
 sources: ["mesh grid: tier 0", "mesh grid: revised search map"]
 topics: ["[[interlocutors]]", "[[book-structure]]"]
-state: nascent
+state: privated
+privation: "the mesh grid's characterization stands in for a primary reading not yet done"
 ---
 
 # the nearest prior attempts are case histories rather than interlocutors
@@ -16,7 +17,7 @@ The set is worth holding because its failure modes are documented and this book'
 
 ## Substantiation
 
-- Stated on the grid's authority and `nascent`: none of these cases has been researched in this vault. The grid names Ken Wilber, Douglas Hofstadter, Gurdjieff and Ouspensky, John Vervaeke, and Mihaly Csikszentmihalyi, and its own characterizations are reproduced above rather than verified.
+- Stated on the grid's authority and `privated`: none of these cases has been researched in this vault. The grid names Ken Wilber, Douglas Hofstadter, Gurdjieff and Ouspensky, John Vervaeke, and Mihaly Csikszentmihalyi, and its own characterizations are reproduced above rather than verified.
 - The vault previously held two of them under descriptions that miss what this position records. Wilber sits in the corpus's reference lineage — one philosophical name among thirty — and Vervaeke sits in the candidate queue as "the book's most conspicuous living interlocutor." Both descriptions treat them as sources of ideas. Neither has any way to record that one of them already ran this experiment and what happened.
 - This is a second case of the defect the author named on 2026-08-05, arriving from a different direction than the first: a taxonomy of contribution has no cell for a thinker whose relevance is their outcome ([[the company was sorted by what each thinker brings and never by what the book cannot lose]]). The `load:` axis added the same day carries `precedent` as a value for exactly this reason.
 - The most useful single output of the set is a question rather than a lesson, and it is unanswered by any of them: what design feature, if any, prevents a developmental scheme from becoming a status ladder among the people who adopt it ([[a developmental scheme handed to practitioners becomes a ranking of persons]]).

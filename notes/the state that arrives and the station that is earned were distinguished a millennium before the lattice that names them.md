@@ -3,7 +3,8 @@ description: The Sufi distinction between states that descend as gifts and stati
 category: isomorph
 sources: ["mesh grid: other names recovered", "mesh grid: addendum, Wilber properly seated"]
 topics: ["[[interlocutors]]", "[[recognition]]"]
-state: nascent
+state: privated
+privation: "the mesh grid's characterization stands in for a primary reading not yet done"
 ---
 
 # the state that arrives and the station that is earned were distinguished a millennium before the lattice that names them
@@ -16,7 +17,7 @@ Two witnesses to one structure is materially different from one. The book curren
 
 ## Substantiation
 
-- Stated on the grid's authority and `nascent`: al-Qushayrī's *Risāla* has not been read in this vault, and the wording above reproduces the grid's characterization rather than a checked translation. Before manuscript use the formulation needs the printed text, in the same way the vault flagged Mehta's dictum against the printed Halbfass.
+- Stated on the grid's authority and `privated`: al-Qushayrī's *Risāla* has not been read in this vault, and the wording above reproduces the grid's characterization rather than a checked translation. Before manuscript use the formulation needs the printed text, in the same way the vault flagged Mehta's dictum against the printed Halbfass.
 - The grid's own statement of the finding: "arrived at a millennium before Wilber and entirely independently. States descend as gifts; stations are earned by the sweat of the brow. Two independent witnesses to the same structure is materially stronger than one" (`mesh grid: other names recovered`).
 - The vault's rule on how that last sentence is used is `ops/methodology/authorial stance.md`, and it applies here without softening: the second witness is recorded as company rather than as corroboration, and the vault does not rank this convergence as stronger evidence than any other. What it does record is a fact about the reading — the claim has an arrival from outside the room, which most of the book's claims do not ([[the convergence's independence fails where three of its names share one teacher]]).
 - The book's own use of the distinction is as the bypass guard, which makes this note's second function diagnostic. If the same structure appears in a Sufi manual, a modern developmental lattice, and the book's own architecture, the question of what the book adds to it is live and unanswered here.

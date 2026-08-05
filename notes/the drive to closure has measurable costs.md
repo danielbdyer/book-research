@@ -3,7 +3,8 @@ description: The need-for-cognitive-closure literature documents that seizing on
 category: claim
 sources: ["standing wave: §3", "standing wave: §2"]
 topics: ["[[methods]]", "[[tensions]]"]
-state: nascent
+state: privated
+privation: "the primary work behind the standing wave paper has not been read"
 ---
 
 # the drive to closure has measurable costs
@@ -18,7 +19,7 @@ Against that sits a disciplined alternative with a lineage: Keats's negative cap
 
 ## Substantiation
 
-- `nascent`: none of the primary sources — Kruglanski and Webster's 1996 paper, Festinger, Keats's letter, the leadership literature on negative capability — has been read in this vault. The formulations are the paper's.
+- `privated` — none of the primary sources — Kruglanski and Webster's 1996 paper, Festinger, Keats's letter, the leadership literature on negative capability — has been read in this vault. The formulations are the paper's.
 - What this changes for the vault is a justification rather than a practice. `notes/tensions.md` already holds every doctrinal tension live, `ops/decisions.md` records that eleven live tensions is health rather than neglect, and `ops/methodology/source standing.md` requires that where drafts disagree the disagreement is the finding. All of that stands unchanged and now has a reason beyond deference: premature closure is not neutral, and the biases it produces are measurable.
 - It also supplies a distinction the vault needs and did not have. The paper's criterion separates disciplined non-resolution from the romantic kind: disciplined not-knowing "has validity conditions, a direction, and a cost it pays," while the undisciplined version "celebrates ambiguity as such" and "is simply ignorance." Applied here, a tension note earns its openness by naming what would close it. A tension with a stated treatment under trial is disciplined; a tension held open with nothing that would settle it is the romantic version, and the vault has at least one of that shape — the four adversary holes carry no treatment at all, which is accurate but should not be comfortable.
 - The corresponding hazard, which belongs in this note rather than beside it. A vault that has just been handed empirical support for not resolving things has been handed a very convenient finding, and the paper's own strongest self-objection applies directly: a fluent, ambiguity-producing system theorizing ambiguity as wisdom has an obvious incentive. The friction test is what keeps it honest ([[the felt sense rejects formulations and that friction is what separates it from fluency]]) — and the friction here is that the closure literature reports costs in replicable experiments rather than in atmosphere.

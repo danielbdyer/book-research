@@ -3,7 +3,8 @@ description: Firing on all cylinders assumes multiple semi-independent capacitie
 category: structure
 sources: ["mesh grid: addendum, Wilber properly seated", "mythic-os: contents"]
 topics: ["[[book-structure]]", "[[contraction-not-corruption]]"]
-state: nascent
+state: privated
+privation: "the mesh grid's characterization stands in for a primary reading not yet done"
 ---
 
 # the title presupposes lines that develop at different rates
@@ -16,7 +17,7 @@ The finding is not that the premise is wrong. It is that the book asserts it in 
 
 ## Substantiation
 
-- The attribution is the grid's and is `nascent` here: the developmental-lines literature has not been read in this vault, and whether Wilber's version is the best statement of the premise or merely the nearest one is unestablished. What is checkable is the vault's side — no note in `notes/` states the premise, and the title is treated everywhere as a figure rather than as a proposition.
+- The attribution is the grid's and is `privated` here: the developmental-lines literature has not been read in this vault, and whether Wilber's version is the best statement of the premise or merely the nearest one is unestablished. What is checkable is the vault's side — no note in `notes/` states the premise, and the title is treated everywhere as a figure rather than as a proposition.
 - The premise's reach in the book is wide. The compound diagnoses assume separable components; the practice curriculum assumes different capacities can be worked on separately; the referral network of five theories assumes a person can need different help in different registers ([[the transformation field divides into five theories of where suffering lives]]).
 - This is a case of the naming directive working exactly as written and producing an unexpected result. `ops/methodology/naming and epistemic humility.md` holds that the corpus's figures are candidate labels rather than the concerns themselves, and that vault prose states the concern in plain terms. Applying it to the title turns a figure into a claim, and the claim turns out to be unheld. The general lesson is worth recording: a metaphor can carry a proposition invisibly for as long as nobody translates it.
 - One reason to be careful about how the premise gets substantiated, from the author's decision of 2026-08-04: the schemes were demoted from architecture to instrument, and importing a developmental-lines model wholesale would reinstate a scheme as architecture at the exact place the book's title sits. What the title needs is the separability, which is the weaker and more defensible half; what it does not need is a taxonomy of which lines there are.

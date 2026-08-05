@@ -3,7 +3,8 @@ description: Christopher Alexander's account of change that strengthens what is 
 category: claim
 sources: ["mesh grid: tier 1", "atlas §IX.4"]
 topics: ["[[container-anatomy]]", "[[interlocutors]]"]
-state: nascent
+state: privated
+privation: "the mesh grid's characterization stands in for a primary reading not yet done"
 ---
 
 # structure-preserving transformation is a method-bearing claim rather than a directional one
@@ -16,7 +17,7 @@ The grid draws a distinction from this that the vault's new axis needs and did n
 
 ## Substantiation
 
-- Stated on the grid's authority and `nascent`: Alexander's later work, where structure-preserving transformation is stated as such, has not been read in this vault. He appears in the corpus at atlas §IX.4 among the builders, as a chapter patron, and in the recommended reading as *The Nature of Order* Book Four.
+- Stated on the grid's authority and `privated`: Alexander's later work, where structure-preserving transformation is stated as such, has not been read in this vault. He appears in the corpus at atlas §IX.4 among the builders, as a chapter patron, and in the recommended reading as *The Nature of Order* Book Four.
 - The vault holds the book's side of the correspondence already: [[suffering is contraction never corruption]] is the claim that nothing needs replacing, and the container anatomy is the structural account the correspondence runs through ([[container-anatomy]]).
 - What makes the distinction between thesis-bearing and method-bearing worth keeping rather than collapsing: the book's thesis survives Alexander's removal — recognition, un-forgetting, and the felt shift are all statable without him. Its practice of revision may not, because an edit-ethic is what decides which changes to a draft are improvements, and this one is unusually specific. The `load:` axis added 2026-08-05 records his position as a candidate for `thesis-bearing` with the qualification stated in the body of his note rather than by inventing a seventh value.
 - The correspondence has a second address the grid does not mention and the vault does. The making of the book has already been recorded as running the same ethic at every documented scale: the author curating and holding a frame while the writing became more fully itself inside it ([[the making of the book enacts the law the book states]]). Structure-preserving transformation is a name for what that account describes, which would put Alexander at the method's origin rather than at its illustration.

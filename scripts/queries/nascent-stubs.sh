@@ -4,6 +4,11 @@
 # it is admitted so the territory is reachable from the graph, and it is debt
 # until it is either filled in or declined. The inventory behind them is
 # ops/open corpus.md. Run from anywhere.
+# Exemption clause (adopted 2026-08-05): a claim with state: privated is NOT
+# a stub and is not counted. It is a complete claim whose substantiation waits
+# on a named absence — usually an unread primary work — and its privation field
+# says which. Only state: nascent, a proposition stated and not yet
+# substantiated, is a seed this condition is asking about.
 cd "$(dirname "$0")/../.." || exit 1
 echo "Nascent stubs — claims recorded but not yet substantiated:"
 echo

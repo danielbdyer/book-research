@@ -2,7 +2,8 @@
 description: Fourteen of the nineteen claims from the lineage sort are nascent because their evidence sits in unread primary works, which trips the nascent-stubs maintenance condition even though every one of them is substantiated work rather than a seed.
 date: 2026-08-05
 severity: friction
-status: open
+status: resolved
+resolved_by: "proposal 3 (state: privated with a required privation field) and proposal 1d (the exemption clause in nascent-stubs.sh), approved by the author 2026-08-05"
 ---
 
 # nascent claims from a consulted work outrun the stub condition

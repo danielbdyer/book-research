@@ -2,7 +2,8 @@
 description: "Thirty-three of 159 claims held a description with an unquoted colon, so their frontmatter would not parse as YAML — and no check the vault runs parses YAML, so the defect was invisible."
 date: 2026-08-03
 severity: failure
-status: open
+status: resolved
+resolved_by: "proposal 1 (scripts/queries/frontmatter-parse.sh, plus the colon rule in templates/claim-note.md), approved by the author 2026-08-05"
 ---
 
 # no check ever parsed a note's frontmatter as yaml

@@ -3,7 +3,8 @@ description: Psychedelics reopen a period of enhanced plasticity lasting days to
 category: claim
 sources: ["high-energy states: the neuroplastic window", "high-energy states: integration"]
 topics: ["[[recognition]]", "[[felt-shift]]"]
-state: nascent
+state: privated
+privation: "the primary work behind the high-energy states synthesis has not been read"
 ---
 
 # the plasticity window reorganizes only what attention is on
@@ -16,7 +17,7 @@ That is a mechanism for the book's central question — why the breakthrough did
 
 ## Substantiation
 
-- `nascent`: the primary paper has not been read here, and the durations above are the synthesis's report of it. The finding is from work on a social-reward-learning critical period in animals, which is a substantial qualification the synthesis states and any use of this claim has to carry.
+- `privated` — the primary paper has not been read here, and the durations above are the synthesis's report of it. The finding is from work on a social-reward-learning critical period in animals, which is a substantial qualification the synthesis states and any use of this claim has to carry.
 - Stated in plain terms rather than as loop release, per [[a synthesis organized by the schemes offers to promote them back to architecture]].
 - **The two mechanisms are genuinely different and the vault should not merge them.** One locates the failure in the receiving structure at the moment of the experience; the other locates it in what did or did not happen in the weeks afterward. They imply different books. The first says a reader needs to have grown before the experience can land, which is a slow and unpromising message; the second says a reader had a window and spent it going back to work, which is actionable and also gentler. Both are available and the vault holds them side by side rather than choosing, because choosing would settle by preference a question the author has not been asked.
 - One thing the second mechanism does that the first cannot: it makes the corpus's descent and integration material load-bearing rather than decorative. If the window is where the change happens, then the phases after the peak are the operative part of the arc and the peak is the occasion rather than the event — which is the same shape as the anti-instrumentality clause arriving from neurobiology ([[the practice is the expression of realization rather than a means to it]]).

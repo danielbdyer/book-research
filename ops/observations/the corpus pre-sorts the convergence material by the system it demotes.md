@@ -2,7 +2,8 @@
 description: The corpus's primary statements of the two convergence findings are both embedded in system apparatus — the teachers' axioms appear sorted by loop, and the convergence table for the basic posture lists the framework among its dozen traditions.
 date: 2026-08-02
 severity: friction
-status: open
+status: resolved
+resolved_by: "proposal 4 (the pre-sorting reading instruction in center of gravity.md), approved by the author 2026-08-05"
 ---
 
 # the corpus pre-sorts the convergence material by the system it demotes

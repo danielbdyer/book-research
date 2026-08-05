@@ -4,6 +4,11 @@
 # and this script treat as authoritative. Second: notes whose frontmatter array
 # and Topics footer disagree. Fix either with /reflect or by editing both
 # locations to match. Run from the repository root.
+# Exemption clause (adopted 2026-08-05): a topic map is not an unconnected
+# claim, and neither is a note whose only inbound links are from maps if it
+# carries outbound links that are glossed. The condition is asking about notes
+# unreachable from the graph, not about notes with thin backlinks — that is
+# /reweave's question and is not counted here.
 cd "$(dirname "$0")/../.." || exit 1
 echo "Notes with an empty topics: array (no machine-readable membership):"
 EMPTY=0

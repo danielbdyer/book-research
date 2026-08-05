@@ -3,7 +3,8 @@ description: A language model can surface rejected formulations and hold a branc
 category: claim
 sources: ["standing wave: §5", "standing wave: §6", "standing wave: recommendations", "author statement, 2026-08-05"]
 topics: ["[[methods]]", "[[answerability]]"]
-state: nascent
+state: privated
+privation: "the primary work behind the standing wave paper has not been read"
 ---
 
 # the research instrument is a violin rather than an oracle
@@ -16,7 +17,7 @@ The image it settles on is the violin: "indispensable to the music, not itself a
 
 ## Substantiation
 
-- `nascent` and held lightly, at the author's instruction. The paper is a work consulted; its self-assessment is a philosophical argument rather than a report of anything verifiable from here, and the vault holds no position on whether a model dwells.
+- `privated` and held lightly, at the author's instruction. The paper is a work consulted; its self-assessment is a philosophical argument rather than a report of anything verifiable from here, and the vault holds no position on whether a model dwells.
 - Why it is a claim in `notes/` rather than only an operational note. The structure it describes is the book's own. The vault holds that the book can only be auxiliary to a sovereign reader — an instrument in service of a life that remains the reader's own, never an authority ([[the book can only be auxiliary to a sovereign reader]]). The paper reaches an identical conclusion about a different instrument, from analytic philosophy of mind, with no contact with the letter's grammar or the resonance theory the book's version rests on. That makes it an arrival at the book's claim about instruments, and the book's claim is one of its deepest.
 - The practices already in force here are the instrument version of that claim, and naming them makes them checkable rather than habitual: recommendations recorded with the seating decision left to the author; tensions held live because resolving is his act; `supports:` dormant until he makes a placement; the grid's sort entered as a proposal at his stated 65–75%. Each is a refusal to collapse an open question, and none of them requires the instrument to be dwelling in anything.
 - The limit the paper is careful about, and the vault should be too. Refraining is a behaviour, and a well-calibrated refusal is not the same as inhabiting the uncertainty. Where this vault writes that something is "held open," the honest reading is that the closure was declined, not that anything was dwelt in — and the difference matters most precisely where the material is about felt experience.

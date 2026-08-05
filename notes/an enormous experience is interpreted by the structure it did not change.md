@@ -3,7 +3,8 @@ description: States and structures are independent axes, so a state is interpret
 category: claim
 sources: ["mesh grid: addendum, Wilber properly seated", "author statement, 2026-08-04"]
 topics: ["[[recognition]]", "[[felt-shift]]"]
-state: nascent
+state: privated
+privation: "the mesh grid's characterization stands in for a primary reading not yet done"
 ---
 
 # an enormous experience is interpreted by the structure it did not change
@@ -16,7 +17,7 @@ The distinction is not new to the book. It already declares the difference betwe
 
 ## Substantiation
 
-- Stated on the grid's authority and `nascent`: the primary formulation is Ken Wilber's, in the lattice he built with Allan Combs, and neither has been read against a primary work in this vault. The claim's standing here is as a mechanism proposed for a question the book has already committed to answering, not as a finding the vault has verified.
+- Stated on the grid's authority and `privated`: the primary formulation is Ken Wilber's, in the lattice he built with Allan Combs, and neither has been read against a primary work in this vault. The claim's standing here is as a mechanism proposed for a question the book has already committed to answering, not as a finding the vault has verified.
 - The reader and the promise are the author's own, quoted from `ops/methodology/the book's current shape.md`, tier one — the tier a session may build on.
 - The two claims the mechanism sits between are both already in the vault. What the book says happens is [[recognition]]; what the book says obstructs it is protective structure that persists after its cause ([[contraction-not-corruption]]). The mechanism connects them: a state of recognition arriving into unchanged protective structure is read by that structure, which is why the recognition can be genuine and change nothing.
 - One constraint on adopting it, which the author's own decision of 2026-08-04 imposes. The lattice's other axis is a stage model, and the schemes were demoted from architecture to instrument. Taking the mechanism therefore means taking the independence of the two axes, which is the part that does the work, without taking the developmental ladder it was drawn on — and the ladder is exactly the part that became a status hierarchy among the people who adopted it ([[a developmental scheme handed to practitioners becomes a ranking of persons]]). The mechanism can be stated with structure meaning nothing more than *whatever equipment the person brought*, which is all the answer requires.

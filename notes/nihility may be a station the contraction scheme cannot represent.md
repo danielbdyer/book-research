@@ -3,7 +3,8 @@ description: If Nishitani's nihility is a real condition distinct from contracti
 category: open-question
 sources: ["mesh grid: tier 1", "archive/research — crossover cluster background.md"]
 topics: ["[[research-frontier]]", "[[contraction-not-corruption]]"]
-state: nascent
+state: privated
+privation: "the mesh grid's characterization stands in for a primary reading not yet done"
 ---
 
 # nihility may be a station the contraction scheme cannot represent
@@ -16,7 +17,7 @@ The mesh grid flags this as the one name it cannot place, and treats the unplace
 
 ## Substantiation
 
-- Recorded as an open question and `nascent`: *Religion and Nothingness* has not been read in this vault. Nishitani appears here through the crossover research of 2026-08-03, which established his study under Heidegger in Freiburg and seated him within [[the kyoto school]] rather than on his own.
+- Recorded as an open question and `privated`: *Religion and Nothingness* has not been read in this vault. Nishitani appears here through the crossover research of 2026-08-03, which established his study under Heidegger in Freiburg and seated him within [[the kyoto school]] rather than on his own.
 - The alternative the grid names is already held here. David Loy's constitutive lack is seated as independently confirming the book's first contraction ([[david loy]]), and if nihility reduces to that, the book loses nothing and gains a second voice for a position it already has.
 - What makes the other branch expensive rather than merely interesting: the book's scheme treats every difficulty as configuration, which is what lets the diagnosis contain the cure. A condition that is not a configuration of anything has no formula, and a reader in it would be handed an instrument that returns nothing — which is the same failure the corpus already records for readers whose somatic signal is muted ([[felt shift versus felt confirmation]]), arriving by a different route.
 - The question also bears on the vault's own metabolic vocabulary. The `state:` enum takes privation as a stage — incomplete in a specific named way — and a condition that is not a privation of any particular thing would have no state to occupy, which is a small structural echo of the same gap.

@@ -3,7 +3,8 @@ description: Investigations §129 holds that the most important aspects of thing
 category: isomorph
 sources: ["mesh grid: tier 3", "mesh grid: the search map"]
 topics: ["[[recognition]]", "[[interlocutors]]"]
-state: nascent
+state: privated
+privation: "the mesh grid's characterization stands in for a primary reading not yet done"
 ---
 
 # the always-there hides by being always there and wittgenstein said so without heidegger
@@ -16,7 +17,7 @@ Its value is specific rather than general, and it is the reason this note exists
 
 ## Substantiation
 
-- Stated on the grid's authority and `nascent`: §129 has not been read here in the original, and the paraphrase above is the grid's. The section is short and the verification is cheap, which is part of why it ranks in the sort's third hole.
+- Stated on the grid's authority and `privated`: §129 has not been read here in the original, and the paraphrase above is the grid's. The section is short and the verification is cheap, which is part of why it ranks in the sort's third hole.
 - The grid's own framing, which is where the finding's force sits: "That is the WALL/DOOR/FLOOR veto reason, stated in 1953 with no Heidegger under it. Nothing hides like the always-there has an independent arrival and the book does not know it yet."
 - The book's version of the principle is architectural rather than epistemic — it names three specific always-there structures and treats their invisibility as the thing to be worked on ([[container-anatomy]]). Wittgenstein's is a claim about noticing in general. The relation is that the book's architecture is a special case of his principle, which is what makes it an arrival at the same finding rather than a restatement of the same words.
 - One refusal to keep, so the thinker survives being cited, and it is not incidental. Wittgenstein's remark is embedded in a passage about philosophical method, and its point is that the confusions being dissolved are confusions of language rather than concealments of being. He would not underwrite the ontological reading the book gives the same observation, and the discipline he is filed under is the one the sort finds near-empty across every load — which is exactly why he is worth reading rather than quoting.

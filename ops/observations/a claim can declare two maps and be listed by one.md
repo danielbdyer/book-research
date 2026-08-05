@@ -2,7 +2,8 @@
 description: Seven claims declared a topic map in their YAML that does not carry them in its claim list; no maintenance condition counts this, because each of them does belong to at least one map.
 date: 2026-08-03
 severity: friction
-status: open
+status: archived
+resolved_by: "verified resolved at /rethink, 2026-08-05"
 ---
 
 # a claim can declare two maps and be listed by one
