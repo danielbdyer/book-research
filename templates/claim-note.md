@@ -11,7 +11,6 @@ _schema:
     - supports
     - state
     - privation
-    - bears-on
     - status
     - treatment
   enums:
@@ -50,8 +49,6 @@ _schema:
       format: "How developed the claim is. Two of the five are commonly confused and the vault settled the difference on 2026-08-05: 'nascent' is a seed — the proposition stated, not yet substantiated, waiting on writing. 'privated' is a complete claim incomplete in a specific named way, usually waiting on a reading rather than on writing; it REQUIRES a privation field naming the absence, which is what stops the value being usable as a bare rank."
     privation:
       format: "Required when state is 'privated'; forbidden otherwise. One clause naming exactly what is missing, e.g. 'the primary work behind the standing wave paper has not been read'."
-    bears-on:
-      format: "Array of named units from `ops/chapter concordance.md` that this claim would serve. THIS IS AN OFFER, NOT A PLACEMENT. It stands to `supports:` exactly as `recommendation:` stands to `seat:` — the vault gathers candidates, the author decides. A unit's `bears-on` set is never presented as a draft outline, and a claim carrying it has not been placed anywhere. Added 2026-08-05 so that manuscript readiness can be measured per unit; the conditions are in `ops/manuscript readiness.md`."
     description_quoting:
       rule: "A description containing a colon MUST be quoted, or the frontmatter will not parse as YAML. The prose register's own habit — a statement, a colon, then its unpacking — makes this the natural sentence to write, and a fifth of the graph carried unparseable frontmatter this way until 2026-08-03. `scripts/queries/frontmatter-parse.sh` catches it."
 

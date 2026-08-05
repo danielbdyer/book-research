@@ -1,5 +1,5 @@
 ---
-description: Firing on all cylinders assumes multiple semi-independent capacities that can be world-class in one register and infantile in another, which is the book's diagnostic premise stated as a metaphor rather than a claim.
+description: "Corrected: the corpus names its cylinders as will, knowledge and action, so the open question is whether those three are meant developmentally rather than whether the title has a bearer at all."
 category: structure
 sources: ["mesh grid: addendum, Wilber properly seated", "mythic-os: contents"]
 topics: ["[[book-structure]]", "[[contraction-not-corruption]]"]
@@ -14,6 +14,16 @@ The book's title carries an assumption it never states. An engine firing on all 
 That is a substantive claim about how a person is put together — multiple semi-independent capacities developing at different rates — and it is the premise the book's entire diagnostic apparatus stands on. Without it there is nothing to diagnose separately and no cylinders to count. The mesh grid names both the claim and its current status: "That presupposition is the book's diagnostic premise, and it is a Wilber claim currently wearing a car metaphor" (`mesh grid: addendum, Wilber properly seated`).
 
 The finding is not that the premise is wrong. It is that the book asserts it in its title, builds on it throughout, and argues it nowhere.
+
+## Correction, 2026-08-05
+
+**The corpus names its own cylinders and this note did not check.** The atlas states them directly: "Icchā / jñāna / kriyā — will, knowledge, action: Śakti's three faces = the three cylinders" (atlas §V.1), and the walked document repeats it (walked VI). So the title's referent is a specific, named, three-part scheme the corpus already supplies a bearer for — not an unstated premise awaiting an outside one.
+
+That makes the claim below wrong in its strong form. What survives is narrower and still worth holding: three named faculties that can each be present or absent is a different premise from *multiple semi-independent capacities developing at different rates*, and the second is what the title's diagnostic force actually trades on. The corpus supplies three fixed cylinders; the phrase "firing on all cylinders" as a description of a life implies they can be independently well or badly. Whether the corpus's three are meant developmentally, or only structurally, is the open question — and it is a question about the corpus rather than a gap for an outside thinker to fill.
+
+The error is the one `ops/methodology/propositions carry names and images.md` exists to prevent, running in reverse: rather than a proposition with no bearer, this was a proposition whose bearer the corpus already supplied, and a session attached an outside name to it without checking. The directive's rule should be read both ways — find the bearer before proposing one.
+
+Two further things this bears on. The three cylinders are **not** the Generative Triad, and the vault should not let the two run together: the Triad is Wall / Door / Floor = Differentiation / Relation / Persistence (atlas §II), while the cylinders are will / knowledge / action. Different triples, different work, both called three-part schemes in places ([[the engine is a triadic theology in mechanic's clothing]] holds the second). And an earlier Presence / Process / Potential triad appears in the record with its derivation to the current one unestablished (`ops/goals.md`, thread 8).
 
 ## Substantiation
 
