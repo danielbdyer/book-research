@@ -132,3 +132,45 @@ The abridged edition opens with a lineage list of about sixty names and cites a 
 - [ ] Stanislav Grof, Daniel Ingram, Willoughby Britton — the adverse-effects and cartography literature, which the edition names and does not use. Britton in particular is a counterweight the project does not currently hold.
 - [ ] James Hillman — soul-making, cited once at `abridged ch7`.
 - [ ] Joanna Macy — named in the lineage list without a use in the text. The other lineage names in that position (Priya Parker, Parker Palmer, Stewart Brand, James Carse, Jeong Kwan, Neri Oxman, Andy Matuschak, Maggie Appleton, Gordon Brander) are already seated among the container-makers in `notes/interlocutors.md` and need no entry here.
+
+## The lineage sort's names and holes (added 2026-08-05, from `provenance/the mesh grid.pdf`)
+
+The mesh grid sorts the whole company by what each thinker carries and reports the cells that are empty. Two kinds of entry follow. The first is ten names given interlocutor notes the same day, marked `[e]` — but the evaluation behind them is thinner than the mark usually implies, and the notes say so in their own bodies: each was written from the grid's characterization, with no primary work read. They are proposals with recommendations attached, awaiting both the author's seating decision and a real reading. The second kind is the ranked holes, which are reading questions rather than names; the ranking is at `ops/lineage sort.md` and the numbers below are its order.
+
+Evaluated from the grid alone; primary reading still required for every one:
+
+- [e] Eugene Gendlin — the verification standard's author, filed among twenty-nine builders and holding the whole burden alone. `notes/eugene gendlin.md`. **Read first of these ten**; the standard is the book's single test and the reading is overdue rather than optional.
+- [e] Ken Wilber — four unrelated jobs uncredited, plus the only documented case history of an attempt like this one. `notes/ken wilber.md`.
+- [e] Martin Buber — the ontology under the relational vocabulary; currently at the epigraph position. `notes/martin buber.md`.
+- [e] Christopher Alexander — structure-preserving transformation as the book's edit-ethic; method-bearing rather than thesis-bearing. `notes/christopher alexander.md`.
+- [e] Michael Polanyi — reseated from support-for-the-felt-sense to the participation law's only non-continental witness. `notes/michael polanyi.md`. Supersedes his earlier entry under "Around the instrument," which is left in place as the record of the first reading of him.
+- [e] Ludwig Wittgenstein — *Investigations* §129 as an independent arrival at the veto reason, with the refusal that halves it. `notes/ludwig wittgenstein.md`. Cheap to verify; §§89–133 plus *On Certainty* on the hinge propositions.
+- [e] Thomas Hübl — independent arrival at privation through collective trauma work. `notes/thomas hubl.md`.
+- [e] Tony Robbins — the voluntarist pole at full strength, which the middle voice has to overcome. `notes/tony robbins.md`. Everything the vault holds about him is a summary written by an opponent.
+- [e] Ernest Gellner — the immunization diagnosis, aimed at the participation law. `notes/ernest gellner.md`.
+- [e] Willoughby Britton — the contemplative harm data. `notes/willoughby britton.md`. Already listed above from the abridged edition's lineage list; that entry and this one are the same person, promoted.
+
+Named by the sort and not yet given notes, grouped by the hole each would fill:
+
+- [ ] Richard Nisbett and Timothy Wilson, *Telling More Than We Can Know* (1977) — confabulation; the canonical empirical strike at the verification standard. **Hole 1.** Not to be confused with Lisa Feldman Barrett's separate entry.
+- [ ] Eric Schwitzgebel, *Perplexities of Consciousness* — introspection unreliable about current experience, not merely about causes. **Hole 1**, and the one aimed where the book actually stands.
+- [ ] Karl Popper — unfalsifiability, against the participation law. **Hole 2.**
+- [ ] The replication-reform literature — the institutional form of the contamination objection. **Hole 2.**
+- [ ] The depersonalization and derealization literature — the observing self as symptom. **Hole 4.**
+- [ ] Heinz von Foerster — second-order cybernetics; the observer inside the observed system, reached from engineering. **Hole 3.**
+- [ ] Harold Garfinkel — ethnomethodology; the breaching experiments as the participation law demonstrated. **Hole 3.**
+- [ ] Donald Schön, *The Reflective Practitioner* — knowing-in-action, and the swampy lowlands against the high hard ground. **Hole 3.**
+- [ ] Edward Deci and Richard Ryan — the undermining effect; anti-instrumentality with data. **Hole 3.**
+- [ ] Keith Johnstone, *Impro* — presence under witness, from theatre training with no philosophy attached. **Hole 3**, and the author's own background is theatre.
+- [ ] Al-Qushayrī and the Sufi *ahwal*–*maqamat* distinction — the state/station structure a millennium early. **Holes 5 and 6**; verify the wording against a printed translation before manuscript use.
+- [ ] *Avodah be-gashmiyut* (Hasidic), Brother Lawrence, Layman Pang — the householder claim from outside the Indic world. **Hole 5.**
+- [ ] Ubuntu personhood — Ifeanyi Menkiti, Mogobe Ramose — a third pole for the self-primacy fork, which has two poles because the room has two traditions. **Hole 6.**
+- [ ] Stanislav Grof — the spiritual-emergency literature, for the dissolution-versus-regression guardrail. **Hole 7.** Already listed above from the abridged edition's lineage list.
+- [ ] Paul Meehl — unfalsifiability in soft psychology; the formal version of the reification charge against the compositional scheme.
+- [ ] Richard Biernacki — the sociologist of method, on building the instrument that finds the thing everywhere. Distinct from Loriliai Biernacki, who is seated in the crossover cluster; the collision of surnames has already caused one misreading.
+- [ ] The DSM's history and the RDoC turn — the documented case of a category scheme that became real by being used.
+- [ ] Steven Wasserstrom — the charge against the Eranos circle, structurally the charge available against this book's use of Trika. Bears on `notes/henry corbin.md`.
+- [ ] Keiji Nishitani, on his own rather than inside the Kyoto School note — the highest-variance name in the sort. `notes/nihility may be a station the contraction scheme cannot represent.md` states the fork.
+- [ ] Douglas Hofstadter, Gurdjieff and Ouspensky, Mihaly Csikszentmihalyi — the precedent bench beside Wilber, sorted by what happened to them rather than by what they hold. John Vervaeke is already queued above and belongs with them.
+- [ ] Byron Katie, the Conscious Leadership Group and Jerry Colonna, Otto Scharmer — ground for machinery already running; all four are already in the roster and need notes only when a claim reaches for them.
+- [ ] John Wineland and David Deida — the one coaching position that locates suffering in a withheld gift rather than a misperception, which the grid says "deserves one honest look before demotion."
