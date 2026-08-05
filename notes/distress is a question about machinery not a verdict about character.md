@@ -30,6 +30,7 @@ Relevant Notes:
 - [[paul meehl]] — the adversary chair: the formal charge that a scheme correlating with everything has been tested against nothing
 - [[the compound diagnoses may relocate a structural condition inside a person]] — the same charge turned toward the book's own ethic, where an internal composition can absorb an external arrangement
 - [[the coaches are a bloc that competes with the compositional scheme]] — what the referral network turns out to be once the eleven are read as a group rather than as options
+
 - [[a schedule can be aligned to the nervous system rather than to the clock]] — nascent; the step from diagnosing a loop to arranging a week
 
 Topics:

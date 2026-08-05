@@ -27,9 +27,9 @@ Relevant Notes:
 - [[the corpus quotes the author's poems rather than the poems quoting the corpus]] — the definition's oldest anchor: poem twelve's litany, "even leaving, beginning again; even older, beginning again; even crying, beginning again" (poems #12)
 - [[the basic practice posture is specified as simultaneous conditions rather than as a sequence]] — the six components the executed draft gives it
 - [[the practice forms specify when to begin and not how to tell one is finished]] — the twelve forms said to land on this posture, and what their specification leaves out
-
 - [[the practice is the expression of realization rather than a means to it]] — the clause beneath the definition: returning is not a means to steadiness, the returning is the practice
 - [[the basic posture is describable as dissociation and the harm literature is unread]] — the adversary the posture had never met, and the only one that describes it from outside its own vocabulary
+
 - [[a ritual can be designed to hold a self in place]] — nascent; the competing account, in which steadiness is built rather than returned to
 - [[a habit becomes a ritual when it is designed rather than accumulated]] — nascent; whether a practice that has become automatic still counts
 

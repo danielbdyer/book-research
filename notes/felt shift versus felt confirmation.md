@@ -34,6 +34,7 @@ Relevant Notes:
 - [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the first limit's answer from inside Gendlin's own method: friction distinguishes the felt sense from fluent prose
 - [[the basic posture is describable as dissociation and the harm literature is unread]] — the cost of the second limit read from the other side: a muted signal may be an outcome rather than a starting condition
 - [[the author is the book's first audience member and that is where the promise starts]] — where the counterfeit hazard lands hardest, since the writer checking his own body is the one reader the standard is currently run by
+
 - [[curating beauty is a practice rather than only a hazard]] — nascent; the practice this counterfeiting mechanism argues against
 
 Topics:
