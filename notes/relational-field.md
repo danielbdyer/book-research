@@ -39,6 +39,26 @@ Open territory bearing on the field that no document develops.
 
 This concern borders [[answerability]], because a word becomes answerable only before someone (the corpus cites Arendt: the who of a person is disclosed only in action before witnesses). It borders [[tensions]], where the solitary-read problem is listed with its treatment. It borders [[recognition]], because the book identifies mutual recognition as the field's fullest act.
 
+## The mechanism, added 2026-08-05
+
+- [[the third thing has a mechanism in participatory sense-making]] — enactivist work holding that an interaction can take on autonomy and generate meaning irreducible to either party, with entrainment research as the measured half. The first mechanism this concern has had.
+- [[the relational vocabulary has an ontology and it is buber's rather than benjamin's]] — the ontological bearer proposed the same week.
+- [[ubuntu personhood]] — a constitutive account of relation, where the person is made in it rather than meeting another across it.
+- [[de jaegher and di paolo]] — the chair for the mechanism, with the refusal that it is a process rather than a presence.
+
+## The participation law's witnesses and its missing opponent, added 2026-08-05
+
+The claim that the knower is inside what they know is the condition this map's law states first, and the lineage sort tested it twice: once for who reached it independently of the traditions the book stands on, and once for who argues against it. The first search returned five names from four disciplines. The second returned nothing from the roster at all.
+
+- [[the participation law has a witness who came to it through crystallography]] — the arrival with no debt to either founding pole, which would make the law a finding rather than a lineage position.
+- [[michael polanyi]] — that witness's chair, reseated to hold two positions at once: the felt sense's second voice, and the law's only outside arrival.
+- [[heinz von foerster]] — the observer placed inside the observed system from an engineering starting point, with no phenomenological debt whatsoever.
+- [[harold garfinkel]] — social facts produced in the doing, with the breaching experiments as a procedure for making the always-there visible.
+- [[donald schon]] — knowing-in-action and the swampy lowlands, drawn in 1983 from inside the management literature this book's argument would otherwise address from outside it.
+- [[keith johnstone]] — presence under witness reached in a rehearsal room, in the author's own first discipline, and carrying status material the book has no equivalent for.
+- [[martin buber]] — the chair for the ontology beneath this map's vocabulary, currently seated at the roster's lightest position.
+- [[the participation law has no opponent and its oldest objection is that participation is contamination]] — the hole the second search found: the objection is institutionalized in blinding and randomization, and no one in the company puts it.
+
 ## What remains
 
 The space-around survey proposes the strongest evidence and the strongest objections for this map, none yet researched: Tronick's still-face experiment (evidence), Levinas's asymmetry (an objection to the mutuality framing), Merleau-Ponty's intercorporeality, the Ubuntu tradition, Collins's interaction ritual chains, and the warning that witnessing can shade into consumption. All are on the pending-evaluation list in `ops/queue/candidates.md`, which is deliberately long; the consumption warning is this map's nearest counterweight, since [[a witness kept as proof forecloses what it proves]] already states its shadow from the author's own record.

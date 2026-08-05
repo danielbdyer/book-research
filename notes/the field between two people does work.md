@@ -11,12 +11,16 @@ The book claims that the field between two people in genuine contact is a real p
 
 The corpus assembles a supporting lineage for the claim: Jessica Benjamin's thirdness, with rupture-and-repair as the mechanism of real relationship; Winnicott's transitional space, the territory where play, reading, and culture happen; and co-regulation as the physiological floor, two nervous systems settling each other. In the Trika vocabulary the corpus uses, the field is vimarśa — awareness's touch on itself — socialized.
 
+Two of those attributions were qualified on 2026-08-05 and the qualifications belong with the claim. The vocabulary the corpus reaches for when it calls the field a participant is ontological rather than clinical, and its owner is Buber rather than Benjamin: thirdness is a mechanism for repair inside a treatment relationship, where what is asserted here is that the between is a mode of being ([[the relational vocabulary has an ontology and it is buber's rather than benjamin's]]). Winnicott's transitional space, meanwhile, carries a finding of its own that the corpus uses elsewhere — the boundary rule that hiddenness is joyful only inside an intention to be found ([[a hiding that never intends to be found has stopped being play]]).
+
 ## Substantiation
 
 - Atlas §VIII: "The Third Entity (Ch. 8, patron: bell hooks) — the field as participant: the field does work."
 - Walked VIII adds Arendt's contribution: the who of a person is disclosed only in action before others, which makes the field the answer to a question ("who?") that solitude cannot ask properly.
 - The claim's strongest single case is [[grief cannot complete alone]]; its structural cost for a printed book is [[a codex is a one-chair technology making a two-chair argument]].
 - The space-around survey proposes material for this claim in both directions, none yet researched: Tronick and Merleau-Ponty as evidence; Levinas's asymmetry and the witnessing-can-become-consumption warning as counterweights. All are on the pending-evaluation list in `ops/queue/candidates.md`.
+- The claim is stated functionally and, until 2026-08-05, without any account of how a field could do work. One is now available and it arrived from outside both poles of the founding convergence: participatory sense-making, in which the interaction process itself takes on a form of autonomy irreducible to either party ([[the third thing has a mechanism in participatory sense-making]], seated at [[de jaegher and di paolo]]). It is a proposal rather than a verification — no primary reading has been done here — but it is the difference between asserting that the field is a participant and saying what a participant would consist of.
+- A position from outside the corpus's whole gathering says the stronger version of the claim: that a person is not born a person but becomes one through incorporation into a community, so relation is constitutive rather than additive ([[ubuntu personhood]]). It is filed as a candidate and is the vault's only entry from African philosophy.
 
 ---
 
@@ -24,6 +28,10 @@ Relevant Notes:
 - [[grief cannot complete alone]] — the sharpest case
 - [[nothing transforms from the audience]] — the law that distinguishes a working field from spectatorship
 - [[a codex is a one-chair technology making a two-chair argument]] — the tension this claim creates for the book's own medium
+- [[the third thing has a mechanism in participatory sense-making]] — the mechanism this claim lacked, from enactivist cognitive science
+- [[the relational vocabulary has an ontology and it is buber's rather than benjamin's]] — which thinker the corpus's own words actually commit it to
+- [[a hiding that never intends to be found has stopped being play]] — the boundary rule inside the Winnicott material this claim borrows from
+- [[ubuntu personhood]] — the same claim at full strength: relation constitutes the person rather than assisting them
 
 Topics:
 - [[relational-field]]

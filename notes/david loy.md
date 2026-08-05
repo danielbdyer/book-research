@@ -2,6 +2,8 @@
 description: "David Loy is seated in the reference lineage: his account of the ego's constitutive lack independently confirms the book's first contraction, which is why the corpus counts it as its strongest external evidence."
 category: interlocutor
 seat: reference-lineage
+load: adversary
+discipline: indic-and-buddhist-primary
 clause: "The lack, entered rather than fled, inverts to openness."
 works: ["Lack and Transcendence", "Money, Sex, War, Karma"]
 sources: ["atlas §IX.8a", "walked IX", "space-around: method preamble"]
@@ -27,6 +29,8 @@ Loy also sets a standard this vault has adopted. The space-around survey's admis
 Relevant Notes:
 - [[suffering is contraction never corruption]] — the doctrine his work independently confirms
 - [[the diagnosis contains the cure]] — the analytical principle his lack projects extend to institutions
+- [[the fullness of the first person is the road to selflessness rather than its obstacle]] — the claim his far-seat position stands at the other end of
+- [[nihility may be a station the contraction scheme cannot represent]] — the open question his neighbours at the same seat raise about the doctrine he confirms
 
 Topics:
 - [[interlocutors]]

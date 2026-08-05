@@ -32,6 +32,7 @@ Relevant Notes:
 - [[the messenger makes suffering unopened correspondence]] — her model carried as one of the book's figures
 - [[grief is sever plus love plus persist]] — the formula her finding places a required catalyst inside
 - [[the middle voice settles declaration against disclosure]] — the grammatical category her channeling practice instantiates for affect
+- [[eugene gendlin]] — the other empirical seat beneath the felt-shift material, whose standard her practice is measured by rather than beside
 
 Topics:
 - [[interlocutors]]

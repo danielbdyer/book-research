@@ -10,10 +10,13 @@ topics: ['[[research-frontier]]', '[[tensions]]']
 
 The gesture names a reader-facing method for holding two opposed things without resolving them or being paralysed. The corpus is built on kept tensions, and every treatment it records is an authorial move made in the writing; the nearest reader-facing material is the polarity teaching's disposition — tension as home (abridged ch9) — which is a posture, not a procedure.
 
+The gesture also has a warrant it did not have when this seed was written. The appetite for a settled answer is a measured disposition with measured costs — premature closure degrades judgment where the evidence is still arriving ([[the drive to closure has measurable costs]]) — which means holding a tension open is a described skill rather than only an authorial taste, and a procedure for it would be teaching something rather than modelling a temperament.
+
 ---
 
 Relevant Notes:
 - [[the middle voice settles declaration against disclosure]] — a tension the author did resolve, and the model for how resolution is recorded
+- [[the drive to closure has measurable costs]] — the empirical warrant for the gesture: closing early is a measurable cost rather than a stylistic preference
 
 Topics:
 - [[research-frontier]]

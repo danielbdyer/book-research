@@ -57,6 +57,27 @@ Until 2026-08-01 this map described a book none of whose states the vault held. 
 
 The working structure recorded above is the atlas's, and the seventeen trial chapters it counts have not themselves arrived. What has arrived is enough to show that the scheme has moved at least twice, which is the evidence behind the reference directive: a unit's name is stable across all three arrangements where its number is not. The per-unit comparison is `ops/chapter concordance.md`.
 
+## The precedent bench
+
+A small set of people have already attempted a synthesis of this shape and delivered it to practitioners, and the lineage sort of 2026-08-05 found that the seat taxonomy had no cell for what they supply. Their value to this map is what became of the object each of them made, which is evidence about this book's form rather than about its doctrine.
+
+- [[the nearest prior attempts are case histories rather than interlocutors]] — the finding that opens the bench: a precedent is read for its outcome rather than for what it holds.
+- [[ken wilber]] — the nearest thing to this book that exists, and the fullest record of what becomes of one.
+- [[douglas hofstadter]] — the bench's one good outcome, reached by refusing to hand the reader a usable framework at all.
+- [[gurdjieff and ouspensky]] — the closest structural ancestor, and the clearest record of authority dynamics its founder did not design.
+- [[mihaly csikszentmihalyi]] — the only case that was welcomed rather than refused, and inverted in the welcoming.
+- [[daniel ingram]] — not a precedent but a guardrail: the difficult stages after the threshold, mapped as an expected sequence rather than as failure.
+
+## What the object presupposes, and what it has no device for
+
+Five findings from the same round bear on the book as a made thing rather than on its doctrine. Two are propositions the corpus states and never argues; three are hazards the object carries by construction.
+
+- [[the title presupposes lines that develop at different rates]] — the diagnostic premise the title asserts in a metaphor and no document defends.
+- [[the fullness of the first person is the road to selflessness rather than its obstacle]] — the route the closing page enacts, restoring the first person rather than dissolving it.
+- [[the practice is the expression of realization rather than a means to it]] — the anti-instrumentality clause constraining every exercise in the curriculum, and its unresolved collision with the book's own promise.
+- [[a developmental scheme handed to practitioners becomes a ranking of persons]] — what every documented precedent's staged map became once its readers held it.
+- [[the book cannot tell dissolution from regression and neither can its reader]] — the diagnostic the object lacks, which the grid sizes at a chapter.
+
 ## How the material was made
 
 The provenance record of 2026-08-02 and after — the accounts of the corpus's making, commissioned by the author and persisted in `provenance/` — dates the corpus's layers against each other, which the seven documents themselves do not. The synthesis leads; the dated parts follow.
@@ -116,7 +137,7 @@ Manuscript placement emerges from the author's decisions and is never inferred b
 
 ## What remains
 
-The seventeen trial chapters themselves are still not in `sources/`. What arrived on 2026-08-01 is three drafts of the whole, at three scopes, none of which is the trial-chapter set the atlas counts. The next expansions this map wants, in order: reconcile the abridged edition's fifteen-chapter execution against the working structure recorded above, chapter by chapter, and record where they differ; and extract the Arc and the Gloss treatment's four overlays and its four added image-system entries (the Circle, the Messenger, the Racket, the Cusp), which the atlas summarizes but does not carry whole. The question that stood third here is closed: the abridged edition is a separate artifact postdating the treatment's second edition, settled from outside `sources/` by the provenance reconstruction of 2026-08-02 and indexed in `ops/decisions.md`. This map is also past the split guideline (roughly twenty-five entries); its eleven sections are the split-within-structure the rule asks for first, and a further split waits for a /rethink pass. Placements remain the author's; none is inferred here, and the arrival of drafts does not change that rule.
+The seventeen trial chapters themselves are still not in `sources/`. What arrived on 2026-08-01 is three drafts of the whole, at three scopes, none of which is the trial-chapter set the atlas counts. The next expansions this map wants, in order: reconcile the abridged edition's fifteen-chapter execution against the working structure recorded above, chapter by chapter, and record where they differ; and extract the Arc and the Gloss treatment's four overlays and its four added image-system entries (the Circle, the Messenger, the Racket, the Cusp), which the atlas summarizes but does not carry whole. The question that stood third here is closed: the abridged edition is a separate artifact postdating the treatment's second edition, settled from outside `sources/` by the provenance reconstruction of 2026-08-02 and indexed in `ops/decisions.md`. This map is also well past the split guideline (roughly twenty-five entries; it now carries about sixty); its thirteen sections are the split-within-structure the rule asks for first, and a further split waits for a /rethink pass. The two sections added 2026-08-05 — the precedent bench and what the object presupposes — are the clearest candidates for a map of their own if that pass ever runs, because both are about the book as an attempted object rather than about the structure the sources record. Placements remain the author's; none is inferred here, and the arrival of drafts does not change that rule.
 
 ---
 

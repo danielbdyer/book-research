@@ -31,6 +31,7 @@ Relevant Notes:
 
 - [[an externalized system can be built to hold a self rather than only its information]] — nascent; the hardest untried medium for this claim
 - [[a ritual can be designed to hold a self in place]] — nascent; an object this anatomy would classify if one were built
+- [[nostalgia carries continuity across a threshold]] — nascent; the affective account the persisting structure has nowhere else in the corpus
 
 Topics:
 - [[container-anatomy]]

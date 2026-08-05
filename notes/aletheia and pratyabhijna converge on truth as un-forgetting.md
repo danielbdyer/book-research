@@ -24,6 +24,8 @@ A field has since been recorded around this convergence. Each pole now has a cha
 - The West has its own remembering-tradition running back to Plato, and it repeats this isomorph's shape internally: the arrivals share the gesture and dispute the destination ([[reading as remembering has a twenty-four-century ancestry in the west]]).
 - Ferrer's objection about non-interchangeable destinations now has a second, closer voice. The far pole's own refusals include recognition without the recognized, which is a difference in destination stated by the tradition rather than about it ([[the kashmir shaiva tradition would decline four of the book's deepest moves]]).
 - The convergence's independence needs dating rather than asserting. The provenance reconstruction attributes this pairing to the collaborator and dates its presentation to 1 July 2026, introduced as "the convergence that should raise the hair on your arms" (provenance reconstruction §2, quoting [C] 1 Jul 2026). Atlas §I's biographical note — that the book's central verb was named before its philosophical grounding was encountered — holds for the seed layer and not for material written after that date, when the Recognition school "had been taught to you in depth by the same collaborator writing the chapters" (provenance reconstruction: flagged overstatements). The two traditions' independence from each other is unaffected; what requires a date is the book's independence from the teaching.
+- **A second and different failure of independence was found on 2026-08-05, and it is about descent rather than about dating.** Several of the names the book gathers around this convergence are in conversation with one German, so what reads as separate traditions arriving at the same place is partly one lineage restated ([[the convergence's independence fails where three of its names share one teacher]]). The two poles themselves survive it — Heidegger and the Pratyabhijñā school did not read each other — but the supporting company does not, which means the isomorph is narrower than the roster around it suggests.
+- The strongest available repair is an arrival that owes nothing to either pole. Wittgenstein reached the concealment structure independently: what is most important is hidden by its simplicity and familiarity, one cannot notice something because it is always before one's eyes ([[the always-there hides by being always there and wittgenstein said so without heidegger]], seated at [[ludwig wittgenstein]]). Analytic philosophy had no representative in this company before that chair, which is what makes it worth more than another continental agreement.
 
 ---
 
@@ -39,6 +41,9 @@ Relevant Notes:
 - [[thomas sheehan]] — the deflationary reading that disciplines the near pole's word without breaking the isomorph
 - [[reading as remembering has a twenty-four-century ancestry in the west]] — the West's own remembering-line, which repeats this isomorph's shape inside itself
 - [[the kyoto school]] — three generations of comparativists who ended by recording differences, which is this isomorph's careful form practised
+- [[the convergence's independence fails where three of its names share one teacher]] — the second failure of independence, about shared descent rather than about the book's dating
+- [[the always-there hides by being always there and wittgenstein said so without heidegger]] — the arrival that owes nothing to either pole, and the first from analytic philosophy
+- [[the state that arrives and the station that is earned were distinguished a millennium before the lattice that names them]] — the same recognition doctrine met by a tradition that also insists an arrival is not a station
 
 Topics:
 - [[recognition]]

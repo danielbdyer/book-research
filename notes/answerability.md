@@ -31,6 +31,14 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 - [[the sixteenth poem returns the book's language to the life it came from]] — the blade lived at the size of a text: the trembling as the sentence leaves the architecture
 - [[the gap between two states is where the concealed shows itself]] — the teaching that the silence between a spoken word and its answer is a crossing, not a failure
 
+## Who the word is answerable to, added 2026-08-05
+
+Three findings from the same day bear on this map from the speaker's side rather than the reader's: who the first audience is, what the instrument the writing is done with can and cannot be answerable for, and what a word carries once it is spoken to someone at a threshold.
+
+- [[the author is the book's first audience member and that is where the promise starts]] — the author's own answer to how a book that refuses instrumentality can promise anything, which starts from what is intrinsically useful to him rather than from either available position, and which he states is not clear to him yet.
+- [[the research instrument is a violin rather than an oracle]] — the instrument this vault is built with, which can surface rejected formulations and hold a space open but cannot dwell in one, so the answering stays the person's.
+- [[a framework for what is happening is itself a protective factor]] — the weight a spoken account carries: an accurate framework reduces harm, which means an inaccurate one is not merely unhelpful to a reader at the threshold.
+
 ## Adjacent maps
 
 This concern borders [[relational-field]], because answerability requires someone to answer. It borders [[felt-shift]], because the corpus supplies a somatic test for whether an understanding arrived in reading or was merely assembled. It borders [[book-structure]], because the book is designed to end on a line written so that it can be answered.

@@ -2,7 +2,8 @@
 description: The session-start hook commits a one-line change to ops/sessions/current.json on every resume, and those commits carry no signature, so a branch accumulates unsigned no-content commits.
 date: 2026-08-01
 severity: friction
-status: resolved
+status: archived
+resolved_by: "verified resolved at /rethink, 2026-08-05"
 ---
 
 # the session-start hook commits an unsigned record on every session resume

@@ -2,6 +2,8 @@
 description: "Henry's auto-affection — manifestation feeling itself before any object — is the phenomenology nearest vimarśa, and no literature joining them surfaced: the pairing may be open territory beside the author's own."
 category: interlocutor
 seat: candidate
+load: adversary
+discipline: continental-philosophy
 recommendation: "Reference-lineage for the interior half of the thesis only, with his refusals of world and clearing kept; the unclaimed Henry–vimarśa pairing is flagged as possible open territory pending a scholarly-database pass."
 works: ["The Essence of Manifestation (1963)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
@@ -20,6 +22,7 @@ Relevant Notes:
 - [[the ink that listens is the relational field at the scale of a page]] — the book's vimarśa figure, whose nearest Western phenomenology he is
 - [[the tuesday is the temple]] — the daylight his interiority refuses
 - [[the crossover has footsteps and the book already seats some of the walkers]] — the field, where his pairing with the valley may be unwalked
+- [[the convergence's independence fails where three of its names share one teacher]] — the test his position has to pass, since a French phenomenologist reading Heidegger is descent rather than arrival
 
 Topics:
 - [[interlocutors]]

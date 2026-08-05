@@ -2,7 +2,8 @@
 description: The bootstrap script indexes only markdown, so the seven source PDFs are absent from semantic search; the corpus must be extracted to text and added as a second collection by hand each session.
 date: 2026-08-01
 severity: friction
-status: resolved
+status: archived
+resolved_by: "verified resolved at /rethink, 2026-08-05"
 ---
 
 # the qmd index does not cover the source documents

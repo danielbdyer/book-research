@@ -31,6 +31,18 @@ The formulas below are the book's canonical examples. Each is a separate claim b
 - [[the messenger makes suffering unopened correspondence]] — the image that gives the formulas their questions
 - [[the racket is the attractor state with a salary]] — the image of the suffering the privation formulas cannot reach
 
+## What the doctrine met on 2026-08-05
+
+The lineage sort and the two research syntheses reached this map from three directions at once: an arrival at its central concept from outside the tradition, a bloc of rivals to the apparatus that houses it, and three questions about what the doctrine can and cannot represent.
+
+- [[what was never metabolized lives on as absence and hubl reached it through inherited trauma]] — privation reached through collective and ancestral trauma work with no Trika underneath it, which is the first outside arrival this map's central concept has had.
+- [[thomas hubl]] — that arrival's chair, broken out of the eleven-teacher bloc where the corpus had filed him.
+- [[the coaches are a bloc that competes with the compositional scheme]] — the largest re-reading the sort produced: the five theories of where suffering lives are rival accounts of the same territory the compound diagnoses cover, so the eleven teachers are collectively an argument against the scheme rather than a network inside it.
+- [[the compound diagnoses may relocate a structural condition inside a person]] — the charge the corpus levels at the field and may inherit: reading burnout as obligation privated of sanctuary locates it in a personal configuration, and no audit has run.
+- [[nihility may be a station the contraction scheme cannot represent]] — the open question of whether a condition exists that this map's account cannot reach, which would require structural revision rather than addition.
+- [[the title presupposes lines that develop at different rates]] — the premise beneath every compound diagnosis, since separable components are what makes separate diagnosis possible at all.
+- [[suffering in an intense state is the intensity multiplied by the resistance]] — the doctrine at high intensity, where the multiplier is resistance and the clearing itself is neutral territory.
+
 ## Adjacent maps
 
 This concern borders [[container-anatomy]], because the privations are that anatomy's three failure modes. It borders [[relational-field]], because the grief formula includes a witness as a structural ingredient. It borders [[interlocutors]], because David Loy reached the first contraction (lack) independently through Freud, Becker, and Nāgārjuna, which the corpus counts as its strongest external confirmation.

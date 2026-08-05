@@ -21,10 +21,13 @@ A second consequence is that one person can hold two places without contradictio
 - The rule governing how the company is used in the prose is stated at atlas §IX preamble: "secrets are for the story, never for the sources — every elder named on sight, on the page, diegetically."
 - The warning clause belongs to the speech-act group alone and is recorded as part of its contribution rather than as an objection to it: the standing danger of "declaration-as-vestment — the declared self worn as costume" (atlas §IX.3).
 - The corpus's own labels for these groupings — the guild, the five rooms, the valley, the porch — are the project's names for them and are recorded in [[figure glossary]] with the concerns they denote. This note states the grouping principle; the labels are held as the corpus's, not adopted as the vault's.
+- **Qualified 2026-08-05.** The author named this sort the wrong lens for the book's purposes — "I think the 29 thinkers were the wrong lens all along" — on receiving an instrument that sorts the same company by what each thinker carries instead. The principle stated above is not withdrawn and remains an accurate account of how the corpus assembled its company; what it cannot do is say which thinkers the book would not survive losing, because sorting by contribution asks what someone brings and never what happens if they leave. The twenty-nine builders named in the first paragraph are the case that exposed it, holding the book's whole verification standard and its edit-ethic in the same room as its poets ([[the company was sorted by what each thinker brings and never by what the book cannot lose]]). A second axis now runs beside this one, recorded in `ops/methodology/thesis-bearing and company.md`.
 
 ---
 
 Relevant Notes:
+- [[the company was sorted by what each thinker brings and never by what the book cannot lose]] — the author's correction of 2026-08-05, and the axis added beside this principle
+- [[the verification standard rests on one name and that name has no chair]] — the specific case that exposed the blind spot
 - [[transformation is enacted participation inside a held container]] — the finding the five groups produce once laid over the whole arc, and the reason the company is content rather than context
 - [[the transformation field divides into five theories of where suffering lives]] — the fault lines the fifth group was admitted with, kept live
 - [[the system is scaffolding rather than the centerpiece]] — the decision that makes this company a centerpiece rather than a bibliography

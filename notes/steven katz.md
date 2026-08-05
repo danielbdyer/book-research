@@ -2,6 +2,8 @@
 description: Steven Katz's constructivism — "There are NO pure (i.e. unmediated) experiences" — is the strongest scholarly opponent of the crossover, and he breaks only the evidentiary book the author has already declined to write.
 category: interlocutor
 seat: candidate
+load: adversary
+discipline: social-theory
 recommendation: "Reference-lineage as counterweight: the scholarly name for the caution the vault already holds, whose challenge the stance survives — convergence as company stands where convergence as proof falls."
 works: ["Language, Epistemology, and Mysticism (in Mysticism and Philosophical Analysis, 1978)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
@@ -17,6 +19,7 @@ What matters for the book is where his blade lands. Convergence held as proof fa
 ---
 
 Relevant Notes:
+- [[introspective access is the felt shift's undefended premise]] — where the sort of 2026-08-05 places him specifically: the constructivist objection aimed at the verification standard, that a trained body countersigns the training rather than the truth, instead of at the convergence in general
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the isomorph his hypothesis tests, which survives at its recorded strength
 - [[the unanimity claim is an artifact of how the lineages were selected]] — the vault's own form of his caution
 - [[the book's honest origin story is noticing first and finding company after]] — the telling that needs nothing Katz forbids

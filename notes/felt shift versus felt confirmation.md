@@ -18,15 +18,22 @@ The tension binds this vault as well as the book, and [[methods]] records the op
 - Space-around, "Around the instrument," carries both counterweights and ranks them in its closing priority list as the additions that make the book's other claims more credible.
 - The standard they limit is recorded at [[nothing enters the lattice the body has not countersigned]].
 - The survey notes that the book's architecture already holds two partial answers: the plain-prose passes work as a counterfeit check by contrast, and the relational field works as a second check on a solitary reading.
+- **Added 2026-08-05.** Both limits recorded here are limits on the *reliability of the reading under conditions* — the confirmation can be manufactured, and the signal can be too faint to read. Neither attacks the premise that there is a reading to be had, and a literature that does exists and is unread in this vault: confabulation research, and the case that introspection is unreliable even about current experience ([[introspective access is the felt shift's undefended premise]]). That is the sort's first-ranked hole. Two further findings arrived with it. The standard's author has no chair here, so a single-bearer claim cannot be defended by company ([[the verification standard rests on one name and that name has no chair]]) — and Gendlin's own method papers treat the muted signal as a teachable problem, which means the second limit recorded above is stated inside his work rather than only outside it.
 - The first limit has a sharper statement available from the book's own foundations, and it names what a counterfeit click actually is. Both traditions the book stands on refuse the manufactured epiphany, so a bodily yes produced by an apparatus is, in their terms, the apparatus working rather than the world showing ([[both poles of the convergence refuse the engineered epiphany]]). That gives the honesty section the strongest form of this counterweight: the counterfeit is not merely a research finding about fluent prose, it is the failure the book's own sources predict.
 
 ---
 
 Relevant Notes:
+- [[introspective access is the felt shift's undefended premise]] — the objection to the premise rather than to the reading, and the sort's first-ranked hole
+- [[the verification standard rests on one name and that name has no chair]] — why the standard cannot be defended by company
+- [[eugene gendlin]] — the standard's author, whose own method papers treat the muted signal
 - [[nothing enters the lattice the body has not countersigned]] — the standard whose limits this tension records
 - [[beauty recruits the wrong posture]] — the stylistic tension that overlaps with the counterfeit problem
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the load the corpus places on this instrument elsewhere, which these two limits bear on directly
 - [[both poles of the convergence refuse the engineered epiphany]] — the counterfeit named from the book's own foundations: a manufactured yes is the apparatus working, not the world showing
+- [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the first limit's answer from inside Gendlin's own method: friction distinguishes the felt sense from fluent prose
+- [[the basic posture is describable as dissociation and the harm literature is unread]] — the cost of the second limit read from the other side: a muted signal may be an outcome rather than a starting condition
+- [[the author is the book's first audience member and that is where the promise starts]] — where the counterfeit hazard lands hardest, since the writer checking his own body is the one reader the standard is currently run by
 
 - [[curating beauty is a practice rather than only a hazard]] — nascent; the practice this counterfeiting mechanism argues against
 

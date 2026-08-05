@@ -2,6 +2,8 @@
 description: Thomas Sheehan's deflationary Heidegger — the topic was the finite clearing of intelligibility, not a cosmic mystery — is the standing guard against mysticizing aletheia, anchored in Heidegger's own 1964 retraction.
 category: interlocutor
 seat: candidate
+load: adversary
+discipline: continental-philosophy
 recommendation: "Reference-lineage as guard: he disciplines the slogan without touching the practice, and his reading is the primary-text-anchored answer to the enthusiastic drafting session."
 works: ["Making Sense of Heidegger: A Paradigm Shift (2015)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
@@ -17,6 +19,7 @@ The refusal kept cuts kindly: on Sheehan's account the deflationary reading is n
 ---
 
 Relevant Notes:
+- [[the convergence's independence fails where three of its names share one teacher]] — the reason his objection is the hardest of the three aimed at the central verb: it attacks the provenance of the claim rather than the claim, and the vault holds three continental adversaries where it holds none from anywhere else
 - [[martin heidegger]] — the chair whose first refusal Sheehan's reading anchors
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the isomorph his deflation disciplines without breaking
 - [[both poles of the convergence supply their own front doors]] — the door-keeping his guard belongs at

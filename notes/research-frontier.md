@@ -63,6 +63,17 @@ Evaluated candidates move to [[interlocutors]] with a seat, or are declined with
 
 Evaluating a candidate means: obtain and read the thinker's relevant primary work — the /learn command runs outward research and files what it finds into `inbox/`; write or complete the interlocutor note with what the thinker holds in their own terms, what they would refuse, and the specific crossovers to existing claims; apply the admission standard (would this actually change how the project thinks?); and record the outcome in the note's `recommendation:` field, leaving `seat: candidate` until the author decides. Update the entry in `ops/queue/candidates.md` to its evaluated state so the recommendation surfaces for the author. Works consulted for an evaluation are cited inside the interlocutor note; only the project's own source documents get archive notes. A decline is recorded, not deleted.
 
+## The reading queue the lineage sort produced (2026-08-05)
+
+A second kind of frontier arrived with the mesh grid, and it is organized by absence rather than by name. Crossing what a thinker carries against where they got their epistemics produces cells that are visibly empty, and an empty cell is a reading question. Nine are ranked at `ops/lineage sort.md`, headed by an adversary for the verification standard — which is also the torch's first item and the author's own stated reading job. The entries feed `ops/queue/candidates.md`, where they sit as a section of their own.
+
+Two open questions from the sort are held here as claims rather than as queue rows, because each has a fork worth stating before the reading rather than after:
+
+- [[the householder claim has no witness outside the indic world]] — a load-bearing claim supported entirely from the tradition it descends from, with an adversary already seated against it and three candidate arrivals unread.
+- [[nihility may be a station the contraction scheme cannot represent]] — the highest-variance name in the whole sort: one branch costs nothing, the other requires a structural revision, and only the reading decides.
+
+The sort's own discipline-level finding belongs here too, because it is about this map rather than about any thinker. Three provenance families are near-empty across every load — analytic philosophy, systems and design, practitioner pedagogy — and the strongest missing arrivals live in exactly those three. That is a description of where the reading has gone so far, not of where the thinkers are.
+
 ## What remains
 
 This map's own live question is the priority five's last open member — sourcing the instrument's counterweights in the processing-fluency and interoception literature — and after it the seating decisions on the four evaluated candidates and the eleven from the crossover cluster, which are the author's. One research task of a different kind sits beside them: the scholarly-database pass that would confirm or close the unclaimed Henry–vimarśa pairing. Beyond those, the pending-evaluation list in `ops/queue/candidates.md` holds roughly sixty entries in the book's own order, so that frontier work tracks manuscript work; the list is deliberately long, and it is the field rather than the task.

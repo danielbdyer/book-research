@@ -26,6 +26,8 @@ Relevant Notes:
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the two older names for the same movement
 - [[the tuesday is the temple]] — the commitment that keeps the movement in ordinary life
 - [[martin heidegger]] — the chair that supplies the book's central verb and declines this word's soul-half as ontotheology
+- [[the gatekeeper has a lived referent in the author's own protective structure]] — the same life the reclamation was performed on first, and the figure the record traces to it
+- [[the plasticity window reorganizes only what attention is on]] — the literature about the substance the word is being taken back from, and one of two mechanisms the book has for why an experience does not hold
 
 Topics:
 - [[recognition]]

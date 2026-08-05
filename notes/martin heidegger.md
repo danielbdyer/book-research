@@ -2,6 +2,8 @@
 description: "Heidegger anchors the speech-acts room and supplies the book's central verb; his chair holds four refusals derived from his texts, and the associations an erudite reader brings — named at the door, with escorts seated."
 category: interlocutor
 seat: speech-acts
+load: thesis-bearing
+discipline: continental-philosophy
 clause: "Truth is aletheia — an event of un-concealment, not a property of statements."
 works: ["Being and Time", "Letter on Humanism", "The Question Concerning Technology", "Discourse on Thinking (the Memorial Address)", "Building Dwelling Thinking", "The Thing", "The End of Philosophy and the Task of Thinking"]
 sources: ["atlas §I", "atlas §IX.3", "walked I", "author statement, 2026-08-03"]
@@ -40,6 +42,7 @@ Relevant Notes:
 - [[both poles of the convergence refuse the engineered epiphany]] — the refusal the two poles share
 - [[the tuesday is the temple]] — the axiom his early work refuses and his later work almost joins
 - [[the middle voice settles declaration against disclosure]] — the speech-acts room's central settlement, made with his vocabulary
+- [[martin buber]] — the contemporary who reached the relational half of the same territory and named an ontology the book uses without crediting
 
 Topics:
 - [[interlocutors]]

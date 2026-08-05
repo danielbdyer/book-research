@@ -24,6 +24,8 @@ The tension is deliberately unresolved. Weil also does second duty among the cor
 Relevant Notes:
 - [[the tuesday is the temple]] — the axiom this tension keeps under pressure
 - [[the diagnosis contains the cure]] — the claim that a diagnosis names a missing ingredient and so points at its own remedy, which Weil's concept of affliction limits
+- [[the fullness of the first person is the road to selflessness rather than its obstacle]] — the claim her decreation opposes directly, and the reason her seat covers both the householder axiom and the route through the I
+- [[hasidic worship through corporeality]] — the position she is the Christian answer to, arriving from the same Abrahamic ground and reaching the opposite conclusion about the ordinary
 
 Topics:
 - [[tensions]]

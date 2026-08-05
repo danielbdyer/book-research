@@ -20,6 +20,9 @@ Relevant Notes:
 - [[the tradition the book owes most has no chair in its company]] — the stewardship line her critique tests
 - [[hartmut rosa]] — the structural seat that is the book's beginning of an answer
 - [[the transformation field divides into five theories of where suffering lives]] — the map her challenge extends: some suffering lives in the economy the book itself sells into
+- [[the compound diagnoses may relocate a structural condition inside a person]] — her charge stated as a property of the book's own vocabulary rather than of the market
+- [[steven wasserstrom]] — the same critique aimed one layer up, at comparative synthesis rather than at the spirituality economy
+- [[mihaly csikszentmihalyi]] — the documented case of exactly what she describes: a construct absorbed by the market that adopted it
 
 Topics:
 - [[interlocutors]]

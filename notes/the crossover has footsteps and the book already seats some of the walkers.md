@@ -34,6 +34,8 @@ Relevant Notes:
 - [[martin heidegger]] — the near pole's chair, with the stain the erudite reader will bring
 - [[the kashmir shaiva tradition would decline four of the book's deepest moves]] — the far pole's voice
 - [[the unanimity claim is an artifact of how the lineages were selected]] — the vault's own form of the constructivist caution
+- [[the convergence's independence fails where three of its names share one teacher]] — the cost of the field being this well-populated: shared descent among the walkers, which is a different failure from a curated sample
+- [[michel henry]] — the nearest walker whose crossing the vault could not confirm, and the pairing held open as possibly unwritten territory
 
 Topics:
 - [[interlocutors]]
