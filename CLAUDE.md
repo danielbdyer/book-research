@@ -206,7 +206,7 @@ Maintenance is condition-based. The session hook counts and reports the first si
 
 ## Known risks
 
-The five failure modes rated high in the derivation, each with its guard: **vault work displacing manuscript work** (the output rule, the writing test, and /rethink's question "what reached the manuscript this month?"); **collecting without admitting** (the admission standard over the deliberately long candidate list); **transplanting the sources' prose** (the register in Posture and the quote-marking rule); **claims with no topic map** (the hook plus /verify); **map proliferation** (the /rethink gate).
+The five failure modes rated high in the derivation, each with its guard: **vault work displacing manuscript work** (the output rule, the writing test, and /rethink's question "what reached the manuscript this month?"); **collecting without admitting** (the admission standard over the deliberately long candidate list); **transplanting the sources' prose** (the register in Posture and the quote-marking rule); **claims with no topic map** (the hook plus /verify); **map proliferation** (the /rethink gate). The displacement guard currently reads phase-scoped: the author has named this a deliberate outward-reading phase, "expected and favorable rather than a failure mode, provided it stays metered" (`ops/methodology/the graduate student phase.md`), so pursuit of the reading queue is not a symptom while that directive stands.
 
 ## Evolution
 
