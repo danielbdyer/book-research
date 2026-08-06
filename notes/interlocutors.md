@@ -88,7 +88,7 @@ Four propositions the sort finds carrying weight with no adversary seated agains
 
 ### The apparatus region's chairs
 
-Until this date the region of the graph holding the triad, the alphabet, the chemistry and the record of the making contained **no interlocutor at all** — the only such region, measured at `ops/convergence points.md`. The author directed the evaluation of the four candidates the corpus itself names for it, and the pass turned up two more that no source names. All six are written from secondary knowledge with the primary reading undone, and each says so in its own body.
+Until 2026-08-05 the region of the graph holding the triad, the alphabet, the chemistry and the record of the making contained **no interlocutor at all** — the only such region, measured at `ops/convergence points.md`. The author directed the evaluation of the four candidates the corpus itself names for it, and the pass turned up two more that no source names. All six are written from secondary knowledge with the primary reading undone, and each says so in its own body.
 
 - [[anna wierzbicka]] — recommended recommended-reading, load `adversary`: the corpus names her the standard the alphabet's closure claim must meet or gracefully decline, and her sixty-five primes came from a method that could have failed.
 - [[kenneth burke]] — recommended reference-lineage, load `adversary`: terministic screens, the objection that survives whether or not the set is complete, and therefore the one the book has to answer in prose rather than in research.
