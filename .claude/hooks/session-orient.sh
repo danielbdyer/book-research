@@ -202,11 +202,6 @@ if [ "$INBOX_COUNT" -ge 3 ]; then
   FIRED=1
 fi
 
-# Workboard reconciliation
-if [ -f ops/scripts/reconcile.sh ]; then
-  bash ops/scripts/reconcile.sh --compact 2>/dev/null
-fi
-
 # Methodology staleness check (Rule Zero)
 if [ -d ops/methodology ] && [ -f ops/config.yaml ]; then
   CONFIG_MTIME=$(stat -c %Y ops/config.yaml 2>/dev/null || stat -f %m ops/config.yaml 2>/dev/null || echo 0)
