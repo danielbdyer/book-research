@@ -71,14 +71,10 @@ A synthesis received 2026-08-05 reports the literature on intense states, and th
 - [[the plasticity window reorganizes only what attention is on]] — the second and different mechanism for the same failure, locating it after the event rather than at it.
 - [[the practice is the expression of realization rather than a means to it]] — the clause that forbids treating any of the above as a technique, and the constraint every exercise this map's curriculum contains is written under.
 
-## The standard's program, named 2026-08-05
-
-- [[carl rogers]] — the corpus tells the story of Gendlin's research three times and never names the program it happened in or the man whose question it answered. That matters for this map specifically: the standard rests on one name and cannot be defended by company, and Rogers does not add an arrival but does establish that the finding came out of a funded, measured, adversarial research program rather than out of one man's introspection — which is the charge the standard is most exposed to.
-
-## The sorting defect, second instance (2026-08-05)
+## The sorting defect's second instance
 
 - [[the referral network sends readers to a name the sort filed as company]] — the same shape as this map's own case. The verification standard rested on one name filed among twenty-nine builders; the referral network's somatic destination rests on one name filed among thirty said to hold no weight. A referral is worse than an internal commitment, because it is the one place the book stops being auxiliary and points.
-- [[joe hudson]] — the chair, carrying the load the vault assigns against the grid.
+- [[joe hudson]] — his evaluation note, which carries the thesis-bearing designation the vault assigned against the grid's own filing and states the case for it: he holds one of the five theories of suffering alone, and the referral aims at him.
 
 ## What remains
 
