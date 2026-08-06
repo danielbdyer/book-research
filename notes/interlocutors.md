@@ -73,8 +73,8 @@ The crossover cluster, evaluated 2026-08-03 at the author's direction as backgro
 
 The generative-pass round, evaluated 2026-08-04; shared provenance at `archive/research — generative pass background.md`:
 
-- [[william james]] — the stance's ancestor: two judgments held apart, worth settled by fruits, and the authority verdict that is the sovereignty doctrine in 1902. Refusal kept: fruits verify, and the felt shift is a root.
-- [[jack kornfield]] — the shifted promise's evidentiary book, from the testimony of teachers: they don't last, and the laundry is where maturation happens. Refusal kept: the after is communal, not book-alone.
+- [[william james]] — the stance's ancestor: two judgments held apart, worth settled by fruits, and the authority verdict that is the sovereignty doctrine in 1902. His refusal is kept: fruits verify, and the felt shift is a root.
+- [[jack kornfield]] — the shifted promise's evidentiary book, from the testimony of teachers: they don't last, and the laundry is where maturation happens. His refusal is kept: nobody did the laundry alone, so no book gets to offer itself as enough.
 
 ### Seated in the corpus, notes built as claims needed them
 
