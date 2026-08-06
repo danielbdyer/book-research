@@ -63,7 +63,7 @@ The claim that the knower is inside what they know is the condition this map's l
 
 ## What the founding paper's reading added
 
-- [[the second chair is the verification standard's own requirement]] — the book's own test for whether anything landed barely operates alone, on the authority of the man the test is borrowed from: working solo a person circles without movement, and "even just saying to the other person a little" produces it. The wound at [[a codex is a one-chair technology making a two-chair argument]] now binds the verification standard as well as the relational doctrine, and the Second Chair treatment gains a mechanism to go with its lineage.
+- [[the second chair is the verification standard's own requirement]] — from the Gendlin 1964 reading (2026-08-06): the book's own test for whether anything landed barely operates alone, on the authority of the man the test is borrowed from — working solo a person circles without movement, and "even just saying to the other person a little" produces it. The solitary-reader problem at [[a codex is a one-chair technology making a two-chair argument]] now binds the verification standard as well as the relational doctrine, and the Second Chair treatment gains a mechanism to go with its lineage.
 
 ## What remains
 
