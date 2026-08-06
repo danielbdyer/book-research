@@ -16,6 +16,8 @@ Steven Katz's 1978 essay states its working hypothesis in one sentence: "There a
 
 What matters for the book is where his blade lands. Convergence held as proof falls to Katz. Convergence held as company — the stance's actual position, observation without evidentiary remarks — is not his target. His hypothesis forbids the strong reading of the founding isomorph (same experience, two vocabularies) and leaves the weak reading (same word-construction, same gesture) untouched, and the vault's phrasing of that isomorph already lives at the weak reading. The refusal kept is therefore double: he refuses the book the author declined to write, and his presence in the company keeps that book declined.
 
+The reseating of 2026-08-06 changed what his reading has to settle, and it is open. The survived challenge above is the one aimed at the convergence. The reading queue's first tier aims him at the verification standard instead: on his own hypothesis, a body trained by the book's vocabulary would produce the felt shift in response to the training rather than to anything beyond it — the deepest available version of the fluency objection, because it survives plain prose. That question is new, unread, and not answered by anything on this note; the paragraphs above settle the convergence reading only. The load assignment is the sort's (2026-08-05, reseated 2026-08-06), untested against a full reading of the essay.
+
 ---
 
 Relevant Notes:
