@@ -33,6 +33,7 @@ Relevant Notes:
 - [[nothing transforms from the audience]] — his room's one unanimous law, and the corpus's only stated point of total agreement inside a lineage
 - [[the racket is the attractor state with a salary]] — the diagnostic he donates, carried as one of the book's figures
 - [[the middle voice settles declaration against disclosure]] — the fault line he is one pole of, and the treatment the corpus applies to it
+- [[kurt lewin]] — the head of est's second, unprinted genealogy: T-groups through the encounter movement into the group format, the branch that carries the participation law
 - [[a word at madhyama can be perfected forever a word at vaikhari can be answered]] — the speech doctrine his lineage's performative tradition feeds
 
 Topics:
