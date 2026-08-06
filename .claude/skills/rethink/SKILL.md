@@ -46,7 +46,7 @@ Parse immediately:
 
 **The system is not sacred. Evidence beats intuition.**
 
-**THIS VAULT'S STANDING QUESTIONS.** Every rethink pass here asks two questions before generating proposals: what reached the manuscript since the last pass, and what proportion of the period's new notes would a drafting session actually reach for (`ops/methodology/writing test.md`). Growth that fails the second question is the vault's highest-rated failure mode operating, however well-formed the notes are. A third check, from the center-of-gravity directive: has the period's work drifted back toward the system vocabulary the sources overweight (`ops/methodology/center of gravity.md`)? Sorting by source volume instead of by the book's centerpieces is regression, not coverage.
+**THIS VAULT'S STANDING QUESTIONS.** Every rethink pass here asks two questions before generating proposals: what reached the manuscript since the last pass, and what proportion of the period's new notes would a drafting session actually reach for (`ops/methodology/writing test.md`). Growth that fails the second question is the vault's highest-rated failure mode operating, however well-formed the notes are. A third check, from the center-of-gravity directive: has the period's work drifted back toward the system vocabulary the sources overweight (`ops/methodology/center of gravity.md`)? Sorting by source volume instead of by the book's centerpieces is regression, not coverage. Apply the personality block and the register countermeasure stamped at the end of `ops/derivation-manifest.md` to every sentence written.
 
 Every rule in the context file, every workflow in a skill, every assumption baked into the architecture was a hypothesis at some point. Hypotheses need testing against reality. Observation notes in `ops/observations/` capture friction from actual use. Tension notes in `ops/tensions/` capture unresolved conflicts. Rethink first triages these individually (some become {DOMAIN:notes}, some become methodology updates, some get archived), then compares remaining evidence against what the system assumes and proposes changes when patterns emerge.
 
@@ -122,7 +122,7 @@ For each drift finding, create an observation note in `ops/observations/`:
 ---
 description: [specific drift finding]
 category: drift
-status: pending
+status: open
 observed: {today's date}
 related_notes: ["[[methodology note]]", "[[config element]]"]
 ---
@@ -157,7 +157,7 @@ If drift observations were created, they join the pool of pending observations f
 ### 1a. Gather Pending Evidence
 
 ```bash
-OBS_PENDING=$(grep -rl '^status: pending' ops/observations/ 2>/dev/null)
+OBS_PENDING=$(grep -rl '^status: open' ops/observations/ 2>/dev/null)
 OBS_COUNT=$(echo "$OBS_PENDING" | grep -c . 2>/dev/null || echo 0)
 TENSION_PENDING=$(grep -rl '^status: pending\|^status: open' ops/tensions/ 2>/dev/null)
 TENSION_COUNT=$(echo "$TENSION_PENDING" | grep -c . 2>/dev/null || echo 0)
@@ -173,11 +173,11 @@ Assign exactly one disposition per observation or tension:
 
 | Disposition | Meaning | When to Apply | Action |
 |-------------|---------|---------------|--------|
-| PROMOTE | Reusable insight worth keeping as a permanent {DOMAIN:note} | General principle across sessions. Would work as a claim note. Crystallized insight, not operational guidance. | Create {DOMAIN:note} in {vocabulary.notes}/, set observation `status: promoted`, add `promoted_to: [[title]]` |
+| PROMOTE | A proposition of the BOOK'S framework hiding inside an observation | Only if it passes the writing test — a drafting session would reach for it. Material about the vault's own operation NEVER becomes a note in notes/ (CLAUDE.md: the two registers are never mixed); that is METHODOLOGY or IMPLEMENT. | Route it through the pipeline into {vocabulary.notes}/ under templates/claim-note.md, set observation `status: resolved`, add `resolved_by: promoted to [[title]]` |
 | IMPLEMENT | Operational guidance that should change the system | "System should do X differently." Points to a concrete improvement in context file, template, or skill. | Update the specific file, set `status: implemented`, add `implemented_in: [filepath]` |
 | METHODOLOGY | Friction pattern that should inform agent behavior | Behavioral learning. Not a domain insight (PROMOTE) or a system change (IMPLEMENT) — a methodology learning about HOW to operate. | Create or update methodology note in `ops/methodology/`, set `status: implemented`, add `implemented_in: ops/methodology/[file]` |
 | ARCHIVE | Session-specific, no longer relevant | One-session-specific with no lasting value. Already addressed by later work. Superseded by newer evidence. | Set `status: archived` |
-| KEEP PENDING | Not enough evidence yet | Might matter but need more data. Part of a pattern that has not fully emerged. Single data point that could go either way. | No change — leave `status: pending` |
+| KEEP PENDING | Not enough evidence yet | Might matter but need more data. Part of a pattern that has not fully emerged. Single data point that could go either way. | No change — leave `status: open` |
 
 **Triage heuristics for observations:**
 
@@ -232,8 +232,8 @@ Use AskUserQuestion: "Review the triage above. Approve all, or list items to rec
 After user confirmation, apply all dispositions in order:
 
 **For PROMOTE items:**
-1. Create {DOMAIN:note} with prose-as-title in {vocabulary.notes}/
-2. Follow standard note schema: YAML frontmatter (description, type, created), body developing the insight, Topics footer linking to relevant {vocabulary.topic_map}(s)
+1. Confirm the writing test passes: the insight is a proposition of the book's framework, not a fact about the vault. If it is about the vault, use METHODOLOGY or IMPLEMENT instead.
+2. Create the note per templates/claim-note.md: description, category, sources (with locations), topics in YAML and footer, statement layer plus a Substantiation section
 3. The observation content becomes the seed for the note body — but develop it fully, do not just copy the observation
 4. Update the observation: set `status: promoted`, add `promoted_to: [[note title]]`
 
@@ -315,7 +315,7 @@ Analyze remaining pending evidence (post-triage) plus promoted/implemented histo
 
 ### Evidence Sources
 
-1. **Still-pending observations** — items with `status: pending` after triage
+1. **Still-open observations** — items with `status: open` after triage
 2. **Still-pending tensions** — items with `status: open` or `status: pending` after triage
 3. **Recently promoted/implemented items** — may share themes with pending items
 4. **Methodology notes** — patterns in `ops/methodology/` by category

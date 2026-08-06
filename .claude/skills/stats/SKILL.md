@@ -10,6 +10,8 @@ allowed-tools: Read, Grep, Glob, Bash
 argument-hint: "[--share] — optional flag for compact shareable output"
 ---
 
+**THIS VAULT'S STATE SURFACES (overrides the generic counts below).** The queue is `ops/queue/tasks.md`, a markdown checklist counted by `- [ ]` entries. Observations carry `status: open|resolved|archived`; count open ones. Session records are `ops/sessions/*.json` (current.json excluded from counts). No queue.yaml, queue.json, or markdown session files exist. Apply the personality block and the register countermeasure stamped at the end of `ops/derivation-manifest.md` to every sentence written.
+
 ## Runtime Configuration (Step 0 — before any processing)
 
 Read these files to configure domain-specific behavior:
@@ -142,7 +144,7 @@ INBOX_COUNT=$(find {vocabulary.inbox}/ -name "*.md" 2>/dev/null | wc -l | tr -d 
 QUEUE_FILE=""
 if [[ -f "ops/queue/queue.yaml" ]]; then
   QUEUE_FILE="ops/queue/queue.yaml"
-  QUEUE_PENDING=$(grep -c 'status: pending' "$QUEUE_FILE" 2>/dev/null || echo 0)
+  QUEUE_PENDING=$(grep -c '^- \[ \]' "$QUEUE_FILE" 2>/dev/null || echo 0)
   QUEUE_DONE=$(grep -c 'status: done' "$QUEUE_FILE" 2>/dev/null || echo 0)
 elif [[ -f "ops/queue/queue.json" ]]; then
   QUEUE_FILE="ops/queue/queue.json"
@@ -202,13 +204,13 @@ fi
 METHODOLOGY_COUNT=$(ls -1 ops/methodology/*.md 2>/dev/null | wc -l | tr -d ' ')
 
 # Observations pending
-OBS_PENDING=$(grep -rl '^status: pending' ops/observations/ 2>/dev/null | wc -l | tr -d ' ')
+OBS_PENDING=$(grep -rl '^status: open' ops/observations/ 2>/dev/null | wc -l | tr -d ' ')
 
 # Tensions pending
 TENSION_PENDING=$(grep -rl '^status: open\|^status: pending' ops/tensions/ 2>/dev/null | wc -l | tr -d ' ')
 
 # Sessions captured
-SESSION_COUNT=$(ls -1 ops/sessions/*.md 2>/dev/null | wc -l | tr -d ' ')
+SESSION_COUNT=$(ls -1 ops/sessions/*.json 2>/dev/null | grep -v current | wc -l | tr -d ' ')
 ```
 
 Adapt all directory names to domain vocabulary. Skip checks for directories that do not exist — report "N/A" instead of errors.

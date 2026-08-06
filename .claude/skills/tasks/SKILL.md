@@ -10,6 +10,8 @@ allowed-tools: Read, Write, Edit, Grep, Glob, Bash
 argument-hint: "[add|done|drop|reorder|status] [description|number] — manage task stack and view queue"
 ---
 
+**THIS VAULT'S QUEUE (overrides the queue backend below).** The queue is `ops/queue/tasks.md`, a markdown checklist; the standing lists are `candidates.md`, `claim candidates.md`, and `extractions.md` in the same folder, and the reading backlog is `ops/reading queue.md`. No `queue.yaml`, `queue.json`, or `ops/tasks.md` exists and none is ever created — read and write the checklist. Completed entries stay inline, dated, newest first; there is no archive subfolder. Apply the personality block and the register countermeasure stamped at the end of `ops/derivation-manifest.md` to every sentence written.
+
 ## Runtime Configuration (Step 0 — before any processing)
 
 Read these files to configure domain-specific behavior:

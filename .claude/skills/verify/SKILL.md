@@ -6,6 +6,8 @@ allowed-tools: Read, Write, Edit, Grep, Glob, mcp__qmd__vector_search
 context: fork
 ---
 
+**THIS VAULT'S CONVENTIONS (overrides three stock checks below).** A description here is a complete sentence that ENDS WITH A PERIOD, up to 220 characters (`templates/claim-note.md`); the stock no-trailing-period convention does not apply, and stripping a period is never a fix. Map membership means: listed in a declared map's claims list — maps have no 'Core Ideas' section. Semantic search runs via the qmd CLI; if `.qmd/index.sqlite` is older than the newest note, reindex first or report findability scores as stale. The authoritative cross-field rules (status/treatment on tensions only, privation paired with state: privated, sources required) are checked by `scripts/queries/frontmatter-parse.sh`. Apply the personality block and the register countermeasure stamped at the end of `ops/derivation-manifest.md` to every sentence written.
+
 ## Runtime Configuration (Step 0 — before any processing)
 
 Read these files to configure domain-specific behavior:
@@ -268,8 +270,9 @@ If you have Edit tool access, apply fixes for clear-cut issues:
 **Auto-fix (safe to apply):**
 - Improved description if recite score < 3
 - Missing `---` frontmatter delimiters
-- Trailing period on description
 - Missing Topics footer (if obvious which {DOMAIN:topic map} applies)
+
+(Never strip a description's trailing period in this vault: descriptions are complete sentences ending with a period, per templates/claim-note.md.)
 
 **Do NOT auto-fix (requires judgment):**
 - Bundled notes (splitting requires understanding the claims)

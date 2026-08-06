@@ -9,6 +9,8 @@ model: sonnet
 allowed-tools: Read, Grep, Glob, Bash
 ---
 
+**THIS VAULT'S STATE SURFACES (overrides the generic checks below).** The queue is `ops/queue/tasks.md` (markdown checklist; no queue.yaml or queue.json exists or is created). Observations in `ops/observations/` carry `status: open|resolved|archived` — gather with `^status: open`. Session records are JSON files in `ops/sessions/` written by the session hook; no `*.md` session files exist, and mined state lives in `ops/sessions/mined.txt` (one filename per line), not in frontmatter. Thresholds are CLAUDE.md's maintenance table: inbox at 3, open observations at 10, operational tensions at 5, unprocessed sessions at 5, and the map split guideline is roughly 25 within sections. The methodology index is `ops/methodology/methodology.md`; the change record is `ops/decisions.md` plus `ops/rethink-log.md`; create none of the stock files these steps name. Apply the personality block and the register countermeasure stamped at the end of `ops/derivation-manifest.md` to every sentence written.
+
 ## Runtime Configuration (Step 0 — before any processing)
 
 Read these files to configure domain-specific behavior:
@@ -61,10 +63,10 @@ Before collecting state, evaluate all maintenance conditions and reconcile the q
 | orphan_notes | For each note in {vocabulary.notes}/, count incoming [[links]]. Zero = orphan. |
 | dangling_links | Extract all [[links]], verify targets exist as files. Missing = dangling. |
 | inbox_pressure | Count *.md in {vocabulary.inbox}/. |
-| observation_accumulation | Count status: pending in ops/observations/. |
+| observation_accumulation | Count status: open in ops/observations/. |
 | tension_accumulation | Count status: pending or open in ops/tensions/. |
-| pipeline_stalled | Queue tasks with status: pending unchanged across sessions. |
-| unprocessed_sessions | Count files in ops/sessions/ without mined: true. |
+| pipeline_stalled | Unchecked `- [ ]` entries in ops/queue/tasks.md unchanged across sessions. |
+| unprocessed_sessions | Count ops/sessions/*.json (excluding current.json) not listed in ops/sessions/mined.txt. |
 | moc_oversize | For each topic map, count linked notes. |
 | stale_notes | Notes not modified in 30+ days with < 2 links. |
 | low_link_density | Average link count across all notes. |
@@ -124,11 +126,11 @@ Gather all signals. Run independent checks in parallel where possible. Record ea
 | **Dangling links** | Extract all `[[links]]` from notes/, verify each target file exists | Count, first 5 targets |
 | **Stale notes** | Notes not modified recently AND with low link density (< 2 links) | Count |
 | **Goals** | Read `self/goals.md` or `ops/goals.md` — current priorities, active threads | Priority list, active research directions |
-| **Observations** | Count files with `status: pending` in `ops/observations/` | Count |
+| **Observations** | Count files with `status: open` in `ops/observations/` | Count |
 | **Tensions** | Count files with `status: pending` or `status: open` in `ops/tensions/` | Count |
 | **Methodology** | Check `ops/methodology/` for recent captures (files modified in last 7 days) | Count of recent, total count |
 | **Health** | Read most recent report in `ops/health/` — note timestamp and issues | Last run date, issue count, any critical issues |
-| **Sessions** | Check `ops/sessions/` for files without `mined: true` in frontmatter | Count of unmined sessions |
+| **Sessions** | Count `ops/sessions/*.json` (excluding current.json) not listed in `ops/sessions/mined.txt` | Count of unmined sessions |
 | **Recent /next** | Read `ops/next-log.md` (if exists) — last 3 recommendations | Previous suggestions to avoid repetition |
 
 **Adaptation rules:**

@@ -7,6 +7,8 @@ context: fork
 model: sonnet
 ---
 
+**THIS VAULT'S CONVENTIONS (overrides the stock description rules below).** A description is a complete sentence ending with a period, up to 220 characters, per `templates/claim-note.md`; `scripts/queries/frontmatter-parse.sh` is the enforcing instrument and its enums are the templates'. The queue is `ops/queue/tasks.md`; no queue.yaml or queue.json exists. Apply the personality block and the register countermeasure stamped at the end of `ops/derivation-manifest.md` to every sentence written.
+
 ## Runtime Configuration (Step 0 — before any processing)
 
 Read these files to configure domain-specific behavior:
@@ -83,9 +85,9 @@ A missing required field is a hard failure. The note cannot pass validation with
 
 | Check | Rule | How to Verify |
 |-------|------|---------------|
-| Length | Should be ~50-200 characters | Count characters in description value |
+| Length | Up to 220 characters, per templates/claim-note.md | Count characters in description value |
 | New information | Must add context beyond the title | Compare description text against filename/title — if semantically equivalent, WARN |
-| No trailing period | Convention: descriptions don't end with periods | Check last character |
+| Trailing period present | This vault's convention: a description is a complete sentence and ENDS with a period (templates/claim-note.md, max 220 chars) | Check last character |
 | Single sentence | Should be one coherent statement | Check for sentence-ending punctuation mid-description |
 
 **How to check "adds new info":** Read the title (filename without .md). Read the description. If the description merely restates the title using different words, it fails this check. A good description adds one of:
