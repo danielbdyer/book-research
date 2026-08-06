@@ -5,6 +5,9 @@
 
 # Only run in Ars Contexta vaults
 GUARD_DIR="$(cd "$(dirname "$0")" && pwd)"
+# Work from the repository root regardless of the invoking directory: every
+# path below is root-relative, and the guard resolves the root the same way.
+cd "${CLAUDE_PROJECT_DIR:-$GUARD_DIR/../..}" || exit 0
 "$GUARD_DIR/vaultguard.sh" || exit 0
 
 # ── Session tracking (silent — no stdout) ──────────────────────
