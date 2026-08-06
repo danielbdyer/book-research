@@ -1,5 +1,5 @@
 ---
-description: Steven Katz's constructivism — "There are NO pure experiences" — is the crossover's strongest scholarly opponent; the convergence reading survives him, and his reseated question against the felt shift is queued and unread.
+description: Steven Katz's constructivism — "There are NO pure experiences" — is the crossover's strongest scholarly opponent; the convergence reading survives him, and his reseated question against the felt shift is unread.
 category: interlocutor
 seat: candidate
 load: adversary
