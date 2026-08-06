@@ -15,7 +15,7 @@ This is the executed counterpart of the earliest draft's spatial device: where t
 
 - All fifteen unit openings checked in the extracted text: twelve carry the inventory, three open cold, and the three are the phenomenological entries; the ch7 and ch13 specimens are quoted above.
 - Checkable: read each unit's first three sentences — the inventory names already-built material before new material, and a cold open outside the phenomenological entries is the exception to find.
-- The relation between the two location devices is a concordance-grade fact about the same element across draft states: the device was revised, not dropped.
+- The relation between the two location devices is a fact about one element across two draft states, of the kind the per-chapter concordance rows record: the device was revised, not dropped.
 
 ---
 

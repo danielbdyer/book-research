@@ -14,7 +14,7 @@ The author's later definition (2026-08-04) names a different person: someone who
 ## Substantiation
 
 - First-telling, "The problem," carries the definition, quoted whole above.
-- The earliest draft's six intended-reader groups ("Sensitive overthinkers in search of sacred grounding…", mythic-os: book overview) are the wider prior form; the extraction queue holds them.
+- The earliest draft's six intended-reader groups ("Sensitive overthinkers in search of sacred grounding…", mythic-os: book overview) are the wider prior form; they await extraction and are not yet claims.
 - The author's current definition is recorded at `ops/methodology/the book's current shape.md`, tier one: the reader whose big experience did not hold, the second type fluent in integration vocabulary — and the fluent type is this claim's overthinker with the vocabulary finally acquired.
 
 ---

@@ -15,7 +15,7 @@ So on current evidence the trade is exact: the arrivals that make the law a find
 
 - The six refusals are quoted from the evaluations of 2026-08-05, each marked there as derived rather than sourced — none of the six primary works has been read here, so this claim inherits that standing and sharpens what each queued reading must check.
 - The independence test's prior failure is recorded at [[the convergence's independence fails where three of its names share one teacher]]; these six pass it, which is what makes their shared refusal decisive rather than incidental.
-- The discipline-level concentration (every strong-reading arrival in conversation with one German) is recorded in the crossing at `ops/lineage sort.md`; this claim states the trade-off that concentration produces.
+- The discipline-level concentration — every strong-reading arrival is in conversation with Heidegger — is recorded in the crossing at `ops/lineage sort.md`; this claim states the trade-off that concentration produces.
 
 ---
 

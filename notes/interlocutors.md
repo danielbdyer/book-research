@@ -42,7 +42,7 @@ The seats are functional. The corpus's narrative names for them are recorded in 
 ### The convergences
 
 - [[the company is joined by the reader rather than consulted]] — the corpus's design law for how the whole company is held toward the reader
-- [[the refusal of the engineered epiphany is a convergence in its own right]] — the shared refusal upgraded to convergence grade: at least seven vocabularies, several arriving unsought
+- [[the refusal of the engineered epiphany is a convergence in its own right]] — the shared refusal now held as a convergence in its own right: at least seven vocabularies, several arriving unsought
 - [[the arrivals that pass the independence test arrive only at the weak reading of the participation law]] — the trade-off the six independent witnesses jointly reveal
 - [[the householder road is priced long by every witness who grants it]] — the witnesses' convergence on the road's price
 - [[chairs that agree on nothing else agree that the formulation can be the resistance]] — the convergence among mutual adversaries, aimed at the formula catalogue

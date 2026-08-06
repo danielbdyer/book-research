@@ -9,7 +9,7 @@ topics: ["[[felt-shift]]", "[[book-structure]]"]
 
 The practice curriculum is not a collection borrowed from the traditions; it is the author's professional craft — holding a room for people — redesigned for a room of one. The first telling states it as the section's own law: "the book's practices are, at bottom, the craft of holding a room for people — scaled down to one. By the end, you've become your own room," and adds that the Stance's two directions — toward a room, toward oneself — are "one skill" (first-telling: the practice). The compiled documents carry the same sentence as a design fact: "its practices are facilitation moves scaled to one — Part Five is facilitation-for-one; the reader becomes their own room" (walked VII; the same statement at atlas §VII.5 and in the treatment's part-five preamble, which calls it "the author's hand-craft, scaled to a single practitioner and a Tuesday").
 
-This is the wire between the lived-practice centerpiece and the author's own record: what he has facilitated at room scale, the book teaches at self scale, which is also why the practice material can carry provenance the borrowed material cannot.
+This connects the lived-practice centerpiece to the author's own record: what he has facilitated at room scale, the book teaches at self scale, which is also why the practice material can carry provenance the borrowed material cannot.
 
 ## Substantiation
 

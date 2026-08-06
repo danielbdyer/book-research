@@ -39,7 +39,7 @@ The simulated brief: a drafting session sits down to write the material where th
 
 - [[a codex is a one-chair technology making a two-chair argument]] — the structural wound, live, with the Second Chair treatment.
 - [[the required second person splits into a judge and a mirror]] — the treatment's job description as a live fork.
-- The refusals of the solitary reading, a census approaching nineteen chairs, with the honest narrowing: the burden falls on *addressed*, not on *alone*.
+- The refusals of the solitary reading now number nearly nineteen across the company, and the honest narrowing is recorded with them: the burden falls on *addressed*, not on *alone*.
 - [[the participation law has no opponent and its oldest objection is that participation is contamination]] — the undefended flank.
 - [[the reader's resistance has nowhere to land]] — live, with two designed treatments.
 - [[a witness kept as proof forecloses what it proves]] — the witness doctrine's shadow.
@@ -61,7 +61,7 @@ The simulated brief: a drafting session sits down to write the material where th
 
 ## The gaps — the calibration result
 
-1. Nothing in the concern was argued against when this list was run; the counterpoint round of 2026-08-06 filled the shelf with three candidate attackers at three flanks — Storr (the second person dispensable, from inside the Winnicott lineage), Eliot (the personal escaped), Kierkegaard (the direct foreclosed, granting the goal) — all on the shelf awaiting the author's evaluation, verified at web depth (`archive/research — counterpoint round background.md`). Gellner remains chaired and unread for the participation flank.
+1. Nothing in the concern was argued against when this list was first run. The counterpoint round of 2026-08-06 filled that gap with three candidate attackers, one per flank: Storr, who argues from inside the Winnicott lineage that the second person is dispensable; Eliot, whose doctrine is that the transforming work escapes the personal; and Kierkegaard, who grants the reader's own appropriation as the goal and forecloses direct address as the means. All three wait in `ops/queue/candidates.md` for the author's evaluation, verified at web depth, with the trace at `archive/research — counterpoint round background.md`. Gellner is already seated for the participation flank and remains unread.
 2. The relational evidence bench is unresearched: Tronick, Levinas, Merleau-Ponty, Collins, and the witnessing-becomes-consumption warning all sit on the shelf.
 3. McLaren's *The Language of Emotions* is unread, so the concern's strongest single case rests wholly on the corpus's paraphrase — proposed for the queue.
 4. Both mechanisms the field claim leans on are grid-characterized with no scheduled reading: Buber's *Ich und Du* and De Jaegher and Di Paolo 2007 — and the coupling question for asynchronous, mediated exchange (what a letter is) is exactly the drafting question, now proposed for the queue.

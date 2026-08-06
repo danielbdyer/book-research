@@ -13,9 +13,9 @@ The pairing matters because the book holds one answer that serves both at once: 
 
 ## Substantiation
 
-- The Katz limb is his reseated question (2026-08-06), unread; the Burke limb is his evaluation's characterization of trained incapacity, from consulted works; both standings are carried on the chairs and inherited here.
+- The Katz limb is his reseated question (2026-08-06), unread; the Burke limb is his evaluation's characterization of trained incapacity, from consulted works; both standings are carried on the two thinkers' notes and inherited here.
 - The friction answer is primary-sourced from the Gendlin 1964 reading: "his direct referent does the judging."
-- The two readings sit in the queue's first and third tiers; this claim adds the instruction that their questions converge and should be read against each other.
+- The two readings sit in the reading queue's first and third tiers; this claim adds the instruction that their questions converge and should be read against each other.
 
 ---
 

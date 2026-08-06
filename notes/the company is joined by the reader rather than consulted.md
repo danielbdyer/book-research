@@ -9,7 +9,7 @@ topics: ["[[interlocutors]]", "[[book-structure]]"]
 
 The vault records how the thinkers are organized; the corpus also states how they are held toward the reader, and the statement is a design law. The first telling: the lineage is "held not as a bibliography but as a company you gradually join" (first-telling: the offering). The walked document: "a guild is not a bibliography; it is a community the reader is joining" (walked IX); the atlas compresses the same sentence (§X.3); and the treatment gives the drafting instruction outright: "you are not reading about these people; you are pulling up a chair… the reader should feel they've joined a living argument, not a settled canon" (arc-gloss: the lineage).
 
-For a drafting session writing any thinker's seat, this is the register instruction: the thinker arrives as a person at a table with a live disagreement, not as a citation with an authority attached — which is also why the vault keeps every refusal, since a settled canon has no arguments left to join.
+For a drafting session writing any thinker's introduction, this is the register instruction: the thinker arrives as a person at a table with a live disagreement, not as a citation with an authority attached — which is also why the vault keeps every refusal, since a settled canon has no arguments left to join.
 
 ## Substantiation
 

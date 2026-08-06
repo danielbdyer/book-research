@@ -36,7 +36,7 @@ Relevant Notes:
 - [[the founding inversion restates the author's own sufficiency inheritance]] — the letter that occasioned the one confirmed sighting, and what it carried
 - [[seventeen chapters rest at madhyama]] — the move this genre reframes: a letter's completion is its sending
 - [[the gap between two states is where the concealed shows itself]] — the tradition's name for where a sent, unanswered letter lives: a junction, still mid-crossing
-- [[the third thing has a mechanism in participatory sense-making]] — the most mechanically precise of the solitary reading's refusals (a census that now approaches nineteen chairs, sorted at [[the required second person splits into a judge and a mirror]]): coupling needs two oscillators
+- [[the third thing has a mechanism in participatory sense-making]] — the most mechanically precise of the solitary reading's refusals (a census of refusing thinkers that now approaches nineteen, sorted at [[the required second person splits into a judge and a mirror]]): coupling needs two oscillators
 - [[the author is the book's first audience member and that is where the promise starts]] — the form a partial shape held up to the light takes, which is the letter's scale rather than the treatise's
 
 Topics:

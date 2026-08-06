@@ -131,8 +131,8 @@ The provenance record of 2026-08-02 and after — the accounts of the corpus's m
 - [[a chapter opens by restating what is built before adding to it]] — the execution's location device: inventory openings at twelve of fifteen units, cold opens at the three phenomenological entries
 - [[the executed draft announces a register change before performing it]] — disorientation converted to confirmation by pre-naming each shift
 - [[the peak uncouples the syntax and the descent re-couples it]] — the arc's deepest transition performed in sentence structure
-- [[the earliest draft addresses its figures and the executed draft explains them]] — the high-water voice difference as one grammatical operation: apostrophe became exposition
-- [[the authorial first person frames while the poems carry the lived testimony]] — the execution's quarantine arrangement: framing in prose, testimony in verse, two exceptions enumerated
+- [[the earliest draft addresses its figures and the executed draft explains them]] — the voice difference at its widest as one grammatical operation: apostrophe became exposition
+- [[the authorial first person frames while the poems carry the lived testimony]] — the execution's division of labor: framing in prose, testimony in verse, two exceptions enumerated
 - [[the close repeats the opening's exit with one sentence inserted]] — the ending built from the beginning by one insertion, with the tautological epilogue keeping the promise small
 - [[the executed draft stages a concept by cataloguing the reader's own remembered scenes]] — the staging instrument behind reading-as-remembering
 - [[the executed draft introduces each thinker by the duration of their labor]] — the seating formula for the convergence centerpiece

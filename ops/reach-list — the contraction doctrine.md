@@ -20,10 +20,10 @@ The simulated brief: a drafting session sits down to write the book's theory of 
 
 ## Evidence and company
 
-- [[the privation move is an independent arrival across five fields rather than a book coinage]] — the centerpiece-grade convergence, now carrying its open arity question (the five may reduce to three).
+- [[the privation move is an independent arrival across five fields rather than a book coinage]] — the convergence of centerpiece rank; the question whether its five arrivals reduce to three was closed unread by the author's ruling of 2026-08-06, recorded in `ops/decisions.md`.
 - [[david loy]] — the independent arrival at the first contraction, and the seated opponent of the route.
 - [[what was never metabolized lives on as absence and hubl reached it through inherited trauma]] with [[thomas hubl]] — the outside arrival at privation itself.
-- [[aristotle on privation]], [[james marcia]], [[wilhelm reich]] — the oldest arrival, the restatement, the headless lineage.
+- [[aristotle on privation]], [[james marcia]], [[wilhelm reich]] — Aristotle the oldest arrival, Marcia the restatement, Reich the headless lineage, his construct circulating without his name.
 - [[the diagnostic discipline survives the apparatus that carries it]] — what stands if the notation is set aside.
 - [[structure-preserving transformation is a method-bearing claim rather than a directional one]] — how a fold opens (privated; Alexander unread).
 - [[suffering in an intense state is the intensity multiplied by the resistance]] — the doctrine at the peak (privated).
@@ -31,7 +31,7 @@ The simulated brief: a drafting session sits down to write the book's theory of 
 ## Limits and honesty
 
 - [[weil is seated as the opponent the plumbing deserves]] — affliction that can only be borne, limiting diagnosis-contains-cure directly.
-- The affliction objection in kept-tension form, on the Aristotle evaluation.
+- The affliction objection stands in kept-tension form on the Aristotle evaluation.
 - [[the racket is the attractor state with a salary]] — the counter-case inside the book's own catalogue: a suffering diagnosed by a presence.
 - [[the minus sign cannot say whether the missing element was withheld or never on offer]] — the interiority audit's result, with the one-question treatment and the prose consequence.
 - [[the compound diagnoses may relocate a structural condition inside a person]] — the charge, treated and narrowed.
@@ -45,7 +45,7 @@ The simulated brief: a drafting session sits down to write the book's theory of 
 - [[the gatekeeper is met with a bow never a fight]] — the doctrine as etiquette, with the executed practice quoted.
 - [[the messenger makes suffering unopened correspondence]] — the formulas' interrogative face.
 - [[a framework for what is happening is itself a protective factor]] — what a book can do at the threshold.
-- The audit's one-question move — withheld or unavailable? — usable as written.
+- The audit's one-question move — withheld or unavailable? — is usable as written.
 
 ## Quotable material
 

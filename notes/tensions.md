@@ -85,9 +85,9 @@ Five names were brought in against the four undefended claims and the fork above
 
 ## The tensions the company's own record exposed
 
-Two arrived 2026-08-06 from reading the sixty-four evaluations as one corpus; each is a fork between chairs rather than a strain inside any one of them.
+Two arrived 2026-08-06 from reading the company's sixty-four candidate evaluations as one corpus; each is a fork between thinkers' accounts rather than a strain inside any one of them.
 
-- [[the required second person splits into a judge and a mirror]] — the solitary reader's many refusals specify two incompatible missing persons: a watcher with authority to overrule the reader's self-report, and a presence forbidden to direct. The sovereignty doctrine can ship only the mirror, and the safety holes are what the judge exists for. Treatment: unassigned; the candidate is a division of labor — the mirror for verification, pre-committed outside architecture at the crisis points.
+- [[the required second person splits into a judge and a mirror]] — the solitary reader's many refusals specify two incompatible missing persons: a watcher with authority to overrule the reader's self-report, and a presence forbidden to direct. The sovereignty doctrine can supply only the mirror, and the safety holes are what the judge exists for. Treatment: unassigned; the candidate is a division of labor — the mirror for verification, a pre-committed outside contact at the crisis points.
 - [[the map that protects the destabilized reader is the tool that becomes a ranking]] — the protective-framework finding and the status-ladder record prescribe opposite designs for the same deliverable. Treatment: candidate — split the deliverable into a sequence of expected difficulty, which can be handed over, and a hierarchy of attainment, which cannot; derived from the chairs' own cases and untested.
 
 ## The method this map does not supply

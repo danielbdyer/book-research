@@ -20,7 +20,7 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 - [[ripeness is not refrigeration]] — the corpus's rule against indefinite preservation of finished work
 - [[naming aloud is part of what is happening rather than a report about it]] — the speech doctrine at session scale: the spoken name is part of the event it names
 - [[the poems end by naming the next act and leaving it undone]] — the answerable ending as the author's native signature across four poems
-- [[the close repeats the opening's exit with one sentence inserted]] — the executed ending's mechanics: the whole delta carried by one inserted sentence, the promise kept small
+- [[the close repeats the opening's exit with one sentence inserted]] — the executed ending's mechanics: the whole difference between opening and close carried by one inserted sentence, the promise kept small
 - [[the book's doctrine of time restates a sentence the author's father told him]] — the inheritance beneath the temporal doctrines, and beneath the manuscript's unhurried condition
 - [[seventeen chapters rest at madhyama]] — the meta-tension: the manuscript's current state, and the pilot-chapter move
 - [[the book is written to the relational field and enacted upon the author first]] — the author's statement of the book's address, which moves what the unsent manuscript means without dissolving the tension: the enactment is already under way on its writer, and a word written to the field is still not a word spoken
