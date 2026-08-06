@@ -36,15 +36,19 @@ On 2026-08-05 a session built a rubric keyed to the fifteen named units in `ops/
 
 The error is worth keeping because of its shape. The vault's rules say the named unit is the stable referent for citation (`ops/methodology/reference by name.md`) and that manuscript structure is provisional and never assigned by the vault (`CLAUDE.md`, Placement). A session read the first as licence to treat the corpus's unit list as settled, which the second forbids. And measuring against a structure is the strongest available way to reify it: once readiness is scored per unit, the unit list becomes the thing the work optimizes toward, and nothing would have fired.
 
-The author had already named the right frame in the same conversation, and it was not taken up: **the unit of readiness should be a cluster that emerges from convergence points in the graph, not a chapter inherited from a prior table of contents.**
+The author had already named the right frame in the same conversation, and it was not taken up: **the unit of readiness should be a cluster that emerges from convergence points in the graph, not a chapter inherited from a prior table of contents.** He directed that pass the same day and it has now run; the section below reports it.
 
-So the mechanism waits on a prior question. The six conditions above are sound and unit-agnostic — they describe what any piece of writing needs, whatever it is called. What is missing is the *target*: what the vault should assess readiness *for*. Until clusters emerge, a candidate-offering field has nothing legitimate to point at, and building one would presuppose the answer.
+The six conditions above are sound and unit-agnostic — they describe what any piece of writing needs, whatever it is called. What was missing was the *target*: what the vault should assess readiness *for*. A candidate-offering field still has nothing legitimate to point at, because a computed region is not a unit the author has acknowledged, and building one would presuppose the answer.
 
-## What is needed before readiness can be measured
+## What was needed before readiness could be measured, and what the pass found
 
-One pass, not yet run: **find the convergence points.** Where do several claims, several chairs and a live tension already commingle around one thesis? Those clusters are discoverable from the graph as it stands — the link structure, the shared topics, the tensions with the densest neighbourhoods — and they would be found rather than declared, which is the property the concordance's units lack.
+The prerequisite pass — **find the convergence points** — ran on 2026-08-05 at the author's instruction. Its instrument is `scripts/queries/clusters.sh` and its interpretation is `ops/convergence points.md`. The method was chosen so that the result could not be a table of contents in disguise: notes are nodes, wiki links between claims are edges, and the groupings come from modularity maximization over that graph, computed from link glosses sessions wrote for other reasons.
 
-When a cluster is found and the author recognizes it, the readiness conditions can be run against it, and a candidate-offering field can point at something he has acknowledged rather than something a prior draft assumed. That is the order: clusters first, then the rubric, then the offering.
+The graph organizes into three regions of content, one region holding the apparatus together with the record of its making, and one seven-note island that turned out to be a linking defect rather than a thesis. No region is a topic map restated — the largest draws members from nine and eleven maps respectively — which is the property the concordance's fifteen units could not have, since each of those was a chapter name with material fitted to it.
+
+The six conditions above were then run against the three content regions, and they separate. The region concerned with the book as an address that expects a reply carries four privated claims out of fifty-nine, the lowest reading debt in the graph, and has no seated adversary anywhere in it. The region concerned with verification in the body carries thirteen privated and eighteen chairs mostly one day old, and holds the author's own stated priority. The full table and the caveats on each number are in `ops/convergence points.md`.
+
+**The order still holds and the next step is his.** These are regions of mass, not units. If he recognizes one, the conditions can be run against a target he has acknowledged; until then the assessment above is a description of the vault rather than a readiness verdict on anything.
 
 ## What is true today, without the instrument
 

@@ -42,15 +42,23 @@ Hubs: [[the triad is the anatomy of every container]], [[the compositional notat
 
 The graph puts two things in one region that the vault files separately: the triad, the primitives, the molecules — and the provenance record of where all of it came from, including the poems, the gold thread's genealogy, the seed's season, and the division of hands. That grouping is not arbitrary. Both halves are about the apparatus's origin and standing rather than about the book's content, which is also why neither half has anyone outside to ask.
 
-### 5 · The participation law's witnesses — 7 notes
+### 5 · The participation law's witnesses — 7 notes, and they are a bridge
 
 [[the participation law has a witness who came to it through crystallography]], [[the participation law has no opponent and its oldest objection is that participation is contamination]], [[the always-there hides by being always there and wittgenstein said so without heidegger]], and the chairs for von Foerster, Garfinkel, Schön, and Gellner.
 
-**This is a defect rather than a thesis.** All seven were created on 2026-08-05, they link each other densely, and the claim they are witnesses *for* — [[transformation is enacted participation inside a held container]] — sits in region 2. Five independent arrivals formed an island instead of reinforcing the law they arrived at. It is a /reweave target, and it is the second time a same-day batch has cross-linked internally and failed to link back.
+**A first reading of this group as an orphaned island was wrong, and the measurement is worth stating because it reverses the finding.** The seven carry eight internal edges and twenty-six external ones, and the external edges divide almost evenly across the three content regions: nine to region 1, eight to region 2, nine to region 3. Every one of the seven has three or four links outside the group. Six of the seven link the claim they are witnesses for, [[transformation is enacted participation inside a held container]], which sits in region 2.
+
+They form their own group not because they are cut off but because **they belong equally to all three**, and modularity cannot assign a node that connects three regions in equal measure. That is the graph signature of a bridge, and a bridge is what a cross-cutting thesis looks like from the outside.
+
+It is also the right answer substantively. The participation law — nothing transforms from the audience — bears on verification (what is verified is what was participated in), on address (a reader who does not answer has not participated), and on convergence (it is the one law the corpus reports every lineage sharing). A claim that runs underneath three concerns would produce exactly this shape, and it is the only structure in the graph that does.
+
+The one repair the measurement supports is small: [[the always-there hides by being always there and wittgenstein said so without heidegger]] is the single member with no link to the law, and it is the member whose relation to it is least obvious.
 
 ## The four findings
 
-**The graph's own answer to "what are the units" is three, not fifteen.** Regions 1, 2 and 3 are the book's content; region 4 is its apparatus and its provenance; region 5 is an error. Whatever the book's chapters turn out to be, the concerns the material has actually organized itself around are a much smaller number than any table of contents in the corpus proposes. This is offered as a description of the vault, not a proposal about the book.
+**The graph's own answer to "what are the units" is three, plus one thing that runs under all three.** Regions 1, 2 and 3 are the book's content; region 4 is its apparatus and its provenance; region 5 is the participation law's material, which binds the other three. Whatever the book's chapters turn out to be, the concerns the material has actually organized itself around are a much smaller number than any table of contents in the corpus proposes. This is offered as a description of the vault, not a proposal about the book.
+
+**The clearest commingling in the graph is the participation law, and it is a bridge rather than a region.** The author asked for convergence points where several theses commingle. The three large regions are concentrations; region 5 is the only place where material connects all three roughly equally, which is a different and rarer thing. If any single claim in this vault is load-bearing across the whole book rather than within one part of it, the link structure says it is that one — and it is also the claim the lineage sort found had no opponent at all until 2026-08-05.
 
 **No region is a topic map restated, which is the property that makes them worth having.** Region 1 draws at least three members each from nine different maps; region 2 from eleven. The maps gather by declared concern and the regions gather by what sessions actually connected, and the two do not coincide — which is the test the concordance's fifteen units could not pass, since each of those was a chapter name and the material was fitted to it.
 
