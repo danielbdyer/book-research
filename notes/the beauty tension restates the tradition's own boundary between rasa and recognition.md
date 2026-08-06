@@ -1,5 +1,5 @@
 ---
-description: "The connoisseur problem — prose beauty recruiting appreciation instead of practice — is the line the source tradition drew a millennium ago between aesthetic relish, which stays in the theater, and recognition, which is once-for-all."
+description: "The connoisseur problem — prose beauty recruiting appreciation instead of practice — is the line the source tradition drew between staged relish, which ends with the tasting, and recognition, which is once-for-all."
 category: claim
 sources: ["atlas §XI.1a (the tension)", "the rasa doctrine's anchors (via the camatkāra claim cited in body)"]
 topics: ["[[tensions]]", "[[recognition]]"]

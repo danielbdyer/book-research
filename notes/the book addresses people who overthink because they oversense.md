@@ -1,5 +1,5 @@
 ---
-description: "The corpus's own reader definition — overthinkers whose thinking is driven by oversensing, needing rigor and the sacred in one sentence — recorded so its difference from the author's later did-not-hold definition stays visible."
+description: "The corpus's own reader definition — overthinkers whose thinking is driven by oversensing, needing rigor and the sacred in one sentence — kept so its difference from the author's later definition stays visible."
 category: claim
 sources: ["first-telling: the problem"]
 topics: ["[[relational-field]]", "[[book-structure]]"]

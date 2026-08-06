@@ -1,5 +1,5 @@
 ---
-description: "All six outside arrivals at the participation law that owe nothing to either founding pole refuse the same two upgrades — the interior transposition and the ontological reading — so the book can have independence or the strong claim, not both."
+description: "All six outside arrivals at the participation law that owe nothing to either pole refuse the same two upgrades — the interior and the ontological — so the book can have independence or the strong claim, not both."
 category: claim
 sources: ["derived refusals across six evaluations, 2026-08-05 (each quoted in body)", "mesh grid: the family-level read"]
 topics: ["[[relational-field]]", "[[interlocutors]]"]

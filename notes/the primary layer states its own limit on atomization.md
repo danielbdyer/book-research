@@ -1,5 +1,5 @@
 ---
-description: "Years before the alphabet and the formulas existed, the poems stated an anti-atomization principle — elements may not be split into particles beyond their matter, and the unsolvable equation works out anyway — which the primary layer holds over the system."
+description: "Before the alphabet and the formulas existed, the poems stated an anti-atomization principle — elements may not be split beyond their matter — which the primary layer holds over the system."
 category: claim
 sources: ["poems #7", "poems #11"]
 topics: ["[[container-anatomy]]"]

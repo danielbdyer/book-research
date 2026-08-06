@@ -1,5 +1,5 @@
 ---
-description: "Every thinker who grants that transformation can happen in ordinary life prices it in months to decades — Ignatius's nine months, Maslow's long living, Kornfield's years of laundry — which presses on the book's one-reading arc, not its doctrine."
+description: "Every thinker who grants that transformation happens in ordinary life prices it in months to decades — Ignatius's nine months, Kornfield's years of laundry — which presses on the one-reading arc, not the doctrine."
 category: claim
 sources: ["Spiritual Exercises, Annotation 19 (via the evaluation)", "derived and quoted positions across seven evaluations (cited in body)"]
 topics: ["[[recognition]]", "[[interlocutors]]"]

@@ -1,5 +1,5 @@
 ---
-description: "The epilogue's exit repeats the prologue's exactly — 'The clearing was always there. / Step in.' — with one sentence inserted ('You have always been ready.'), and its only sustained future tense keeps the promise deliberately small."
+description: "The epilogue's exit repeats the prologue's — 'The clearing was always there. / Step in.' — with one sentence inserted ('You have always been ready.'), and its lone future-tense passage keeps the promise small."
 category: craft
 sources: ["abridged: prologue", "abridged: epilogue"]
 topics: ["[[answerability]]", "[[book-structure]]"]

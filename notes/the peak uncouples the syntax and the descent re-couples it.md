@@ -1,5 +1,5 @@
 ---
-description: "The peak chapter's sentences uncouple — 'and also' chains, doubled copulas, distinctions declared inapplicable — and the descent's opening re-couples them into short declaratives, so the arc's deepest transition is performed in syntax."
+description: "The peak chapter's sentences uncouple — 'and also' chains, doubled copulas — and the descent's opening re-couples them into short declaratives, so the arc's deepest transition is performed in syntax."
 category: craft
 sources: ["abridged ch11", "abridged ch12"]
 topics: ["[[book-structure]]", "[[felt-shift]]"]

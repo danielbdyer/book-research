@@ -1,5 +1,5 @@
 ---
-description: "At least seven unconnected vocabularies refuse the manufactured breakthrough — the two foundations, Rosa, Buber, the Sufi states, Maslow's plateau, Bateson's conscious purpose — which upgrades the shared refusal to convergence-grade evidence."
+description: "At least seven unconnected vocabularies refuse the manufactured breakthrough — the two foundations, Rosa, Buber, the Sufi states, Maslow, Bateson — which upgrades the shared refusal to convergence-grade evidence."
 category: isomorph
 sources: ["derived and quoted refusals across the evaluations (cited in body)", "atlas §IX.8 (Rosa)", "Gregory Bateson, \"Conscious Purpose versus Nature,\" in Steps to an Ecology of Mind (quoted at the evaluation)"]
 topics: ["[[recognition]]", "[[interlocutors]]"]

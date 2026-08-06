@@ -1,5 +1,5 @@
 ---
-description: "The two adversaries share one premise — a vocabulary constructs its user's perception — aimed at the felt shift and at the alphabet respectively, and the book's one answer to both is the felt sense's capacity to refuse a formulation."
+description: "The two adversaries share one premise — a vocabulary constructs its user's perception — aimed at the felt shift and the alphabet, and the book's one answer to both is the felt sense's refusal of a formulation."
 category: claim
 sources: ["Language, Epistemology, and Mysticism (1978), via the evaluation", "trained incapacity, via the Burke evaluation", "Gendlin 1964 (the friction finding)"]
 topics: ["[[felt-shift]]", "[[interlocutors]]"]

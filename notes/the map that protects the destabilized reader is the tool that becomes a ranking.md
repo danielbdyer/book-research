@@ -1,5 +1,5 @@
 ---
-description: "The company's answer to the destabilized reader is a handed-over map, and its answer to the status-ladder failure is withholding the map — the two safety findings prescribe opposite designs, and the split between them is a candidate resolution."
+description: "The company's answer to the destabilized reader is a handed-over map, and its answer to the status-ladder failure is withholding the map — opposite designs, with the split between them as the candidate resolution."
 category: tension
 status: live
 treatment: "candidate — split the deliverable: a sequence of expected difficulty (where you are on a hard road) can be handed over, while a hierarchy of attainment (how high you stand) cannot; derived from the chairs' own cases and untested"

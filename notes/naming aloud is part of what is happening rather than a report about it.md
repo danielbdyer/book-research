@@ -1,5 +1,5 @@
 ---
-description: "The corpus states the speech doctrine at session scale — naming aloud changes the named situation rather than describing it — which bridges the manuscript-scale answerability blade to the lived practice, with affect-labeling as its named evidence."
+description: "The corpus states the speech doctrine at session scale — naming aloud changes the named situation rather than describing it — bridging the manuscript-scale answerability blade to the lived practice."
 category: claim
 sources: ["first-telling: the practice", "space-around: around the practice"]
 topics: ["[[answerability]]", "[[felt-shift]]"]

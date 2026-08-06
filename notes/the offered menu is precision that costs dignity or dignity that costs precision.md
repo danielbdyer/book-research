@@ -1,5 +1,5 @@
 ---
-description: "The book positions itself against both available vocabularies in one sentence — clinical precision that presumes malfunction, spiritual dignity that goes vague where traction is needed — and the alphabet exists to refuse that menu."
+description: "The book positions itself against both available vocabularies — clinical precision that presumes malfunction, spiritual dignity that goes vague where traction is needed — and the alphabet exists to refuse that menu."
 category: claim
 sources: ["first-telling: the problem", "space-around: around \"insight that doesn't move anything\""]
 topics: ["[[book-structure]]", "[[contraction-not-corruption]]"]

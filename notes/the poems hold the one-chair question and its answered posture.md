@@ -1,5 +1,5 @@
 ---
-description: "The book's structural wound — its deepest claim needs two people and reading is solitary — stands in the poems as a lived question, and the posture its treatment aims at stands there as a lived answer, years before the corpus."
+description: "The book's structural wound — the deepest claim needs two people and reading is solitary — stands in the poems as a lived question, with the treatment's target posture standing there as a lived answer."
 category: claim
 sources: ["poems #13", "poems #7"]
 topics: ["[[relational-field]]"]

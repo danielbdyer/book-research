@@ -1,5 +1,5 @@
 ---
-description: "The prose formula for seating a thinker runs duration, then compression, then the reader's own confirmation — a career's length stated first, the finding in one sentence, the refusal kept inside the introduction where one exists."
+description: "The prose formula for seating a thinker runs duration, then compression: a career's length stated first, the finding in one sentence, and the refusal kept inside the introduction where one exists."
 category: craft
 sources: ["abridged ch1", "abridged ch5", "abridged ch2", "abridged ch7", "abridged: epilogue"]
 topics: ["[[interlocutors]]", "[[book-structure]]"]

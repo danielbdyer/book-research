@@ -1,5 +1,5 @@
 ---
-description: "Each pace or register shift in the executed draft is preceded by a sentence describing it — 'the prose will get stranger,' 'If you find yourself disoriented, you are reading correctly. Stay.' — converting disorientation into confirmation."
+description: "Each register shift in the executed draft is preceded by a sentence describing it — 'If you find yourself disoriented, you are reading correctly. Stay.' — converting disorientation into confirmation."
 category: craft
 sources: ["abridged: front matter", "abridged: prologue", "abridged ch10", "abridged ch11"]
 topics: ["[[book-structure]]"]

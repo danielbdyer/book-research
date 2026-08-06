@@ -1,5 +1,5 @@
 ---
-description: "The executed draft's first-person singular is a quarantine arrangement: ten speech-act framings, seven sentences scripted to the reader, and lived testimony confined to the three poems plus two enumerable prose exceptions."
+description: "The executed draft's first-person singular is a quarantine: ten speech-act framings, seven sentences scripted to the reader, and lived testimony confined to the three poems plus two enumerable exceptions."
 category: craft
 sources: ["abridged ch1", "abridged ch2", "abridged ch12", "abridged: interlude after ch12", "abridged: epilogue"]
 topics: ["[[book-structure]]"]

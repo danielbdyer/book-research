@@ -1,5 +1,5 @@
 ---
-description: "The corpus names the exact posture the book asks of its reader — Winnicott's capacity to be alone in the presence of another — which is the positive specification every treatment of the solitary-reader problem is aiming at."
+description: "The corpus names the exact posture the book asks of its reader — the capacity to be alone in the presence of another — the positive specification every treatment of the solitary-reader problem aims at."
 category: claim
 sources: ["walked VIII", "atlas §VIII"]
 topics: ["[[relational-field]]"]

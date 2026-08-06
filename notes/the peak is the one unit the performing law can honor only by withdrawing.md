@@ -1,5 +1,5 @@
 ---
-description: "The book performs what it describes, and both foundations refuse the engineered epiphany — the two laws collide at exactly one unit, and the corpus's staging of the peak already resolves the collision by withdrawal without stating the rule."
+description: "The performing law and the refusal of the engineered epiphany collide at exactly one unit, and the corpus's staging of the peak already resolves the collision by withdrawal without stating the rule."
 category: claim
 sources: ["walked X", "atlas §X (the pacing law)", "the refusals at both poles (via the claims cited in body)"]
 topics: ["[[book-structure]]", "[[recognition]]"]

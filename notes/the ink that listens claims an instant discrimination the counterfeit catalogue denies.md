@@ -1,5 +1,5 @@
 ---
-description: "The executed entry chapter asserts the reader can tell instantly whether a page listens, and the fluency literature shows exactly that judgment being fooled — the repair is the graph's own friction test, which is slower and survives."
+description: "The entry chapter asserts the reader can tell instantly whether a page listens, and the fluency literature shows exactly that judgment being fooled — the repair is the friction test, which is slower and survives."
 category: claim
 sources: ["abridged ch2", "the counterfeit catalogue's studies (via the claim cited in body)"]
 topics: ["[[felt-shift]]", "[[book-structure]]"]

@@ -1,5 +1,5 @@
 ---
-description: "Across four poems the author's native ending names the next act and does not perform it — the unresolved resolution, the goodbye never said, the dash that stops mid-address — which is the answerable ending as a lifelong signature."
+description: "Across four poems the author's native ending names the next act and does not perform it — the goodbye never said, the dash that stops mid-address — the answerable ending as a lifelong signature."
 category: claim
 sources: ["poems #6", "poems #11", "poems #14", "poems #16"]
 topics: ["[[answerability]]", "[[book-structure]]"]

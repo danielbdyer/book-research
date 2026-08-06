@@ -1,5 +1,5 @@
 ---
-description: "Every prescription in the executed draft runs one template — 'The medicine is not X' naming the culture's usual counsel, then 'the medicine is to restore Y' naming the structural supply — so the formulas' prescriptive face has a prose form."
+description: "Every prescription in the executed draft runs one template — 'The medicine is not X,' naming the usual counsel, then the structural restoration — so the formulas' prescriptive face has a prose form."
 category: craft
 sources: ["abridged ch5", "abridged ch6", "abridged ch15"]
 topics: ["[[contraction-not-corruption]]", "[[book-structure]]"]

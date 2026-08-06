@@ -1,5 +1,5 @@
 ---
-description: "The many chairs refusing the solitary reader specify two incompatible missing persons — a judge with authority to overrule the reader's self-report, and a mirror forbidden to direct — and the book's sovereignty doctrine can ship only the mirror."
+description: "The chairs refusing the solitary reader specify two incompatible persons — a judge who can overrule the reader's self-report, and a mirror forbidden to direct — and the sovereignty doctrine can ship only the mirror."
 category: tension
 status: live
 treatment: "unassigned — the candidate resolution is a division of labor: the mirror for verification (the Second Chair as designed), the judge replaced by pre-committed outside architecture at the crisis points, per the safety-partner move awaiting the author's pick"

@@ -1,5 +1,5 @@
 ---
-description: "Hudson and Robbins from opposite poles, Rogers, Reich, and Gendlin converge on one premise aimed at the book's diagnostic apparatus: naming what is wrong can be the wrongness's defense — a convergence among mutual adversaries."
+description: "Hudson and Robbins from opposite poles, Rogers, Reich, and Gendlin converge on one premise aimed at the book's diagnostic apparatus: naming what is wrong can be the wrongness's defense."
 category: isomorph
 sources: ["Gendlin 1964, fn. 13 (the explanatory orbit)", "derived positions across four evaluations (quoted in body)"]
 topics: ["[[felt-shift]]", "[[contraction-not-corruption]]"]

@@ -1,5 +1,5 @@
 ---
-description: "The poems' creatures are actual company — the two cats at a grief, the moth that knows by collision, the lowing creatures — while the corpus's complete animal inventory is four similes, so the creature register never entered the book."
+description: "The poems' creatures are actual company — the two cats at a grief, the moth that knows by collision — while the corpus's complete animal inventory is four similes, so the creature register never entered the book."
 category: claim
 sources: ["poems #8", "poems #15", "poems #16", "mythic-os (two similes)", "first-telling: one simile", "abridged: one simile"]
 topics: ["[[book-structure]]"]

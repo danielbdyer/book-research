@@ -1,5 +1,5 @@
 ---
-description: "The high-water voice difference reduces to one grammatical operation: the mythic draft speaks to its textual objects — 'Hello, ink. Thank you for coming.' — where the executed draft hedges the same agency behind 'as though.'"
+description: "The high-water voice difference is one grammatical operation: the mythic draft speaks to its textual objects — 'Hello, ink. Thank you for coming.' — where the execution hedges the same agency behind 'as though.'"
 category: craft
 sources: ["mythic-os: page 9", "mythic-os: page 10", "mythic-os: page 12", "abridged ch2", "abridged ch8"]
 topics: ["[[book-structure]]"]

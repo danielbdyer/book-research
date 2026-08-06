@@ -1,5 +1,5 @@
 ---
-description: "Five unrelated traditions refuse having their practices lifted out of context, and their stated reason is the book's own doctrine — the container is constitutive of what it holds — so the extraction charge cannot be answered without self-contradiction."
+description: "Five unrelated traditions refuse having their practices lifted out of context, and their stated reason is the book's own container doctrine, so the extraction charge cannot be answered without self-contradiction."
 category: isomorph
 sources: ["derived refusals across five evaluations and the tradition's cited texts (quoted in body)"]
 topics: ["[[container-anatomy]]", "[[interlocutors]]"]

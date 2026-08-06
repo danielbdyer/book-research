@@ -1,5 +1,5 @@
 ---
-description: "The executed relational chapter states the field's stated failure mode and its core skill in two sentences — the third entity survives conflict and dies of prolonged withdrawal, so the practical work of love is the practice of staying."
+description: "The executed relational chapter states the field's failure mode and its core skill: the third entity survives conflict and dies of prolonged withdrawal, so the practical work of love is the practice of staying."
 category: claim
 sources: ["abridged ch8", "arc-gloss: ch8"]
 topics: ["[[relational-field]]"]

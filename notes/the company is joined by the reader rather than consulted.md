@@ -1,5 +1,5 @@
 ---
-description: "The corpus specifies how the thinkers are held toward the reader — a company gradually joined, a living argument the reader pulls a chair into — which is a design law for the convergence centerpiece, not a bibliographic fact."
+description: "The corpus specifies how the thinkers are held toward the reader — a company gradually joined, a living argument the reader pulls a chair into — a design law for the centerpiece, not a bibliographic fact."
 category: claim
 sources: ["first-telling: the offering", "walked IX", "atlas §X.3", "arc-gloss: the lineage"]
 topics: ["[[interlocutors]]", "[[book-structure]]"]
