@@ -35,6 +35,18 @@ else
   STATUS=1
 fi
 
+echo "== python deps for the query scripts =="
+# frontmatter-parse.sh needs pyyaml; clusters.sh needs networkx as well. In a
+# fresh container both scripts degrade to a skip without this step.
+if python3 -c "import yaml, networkx" >/dev/null 2>&1; then
+  echo "  present."
+else
+  pip install --quiet pyyaml networkx >/dev/null 2>&1
+  python3 -c "import yaml, networkx" >/dev/null 2>&1 \
+    && echo "  installed." \
+    || { echo "  install failed; frontmatter-parse.sh and clusters.sh will not run this session."; STATUS=1; }
+fi
+
 echo "== qmd =="
 if ! command -v qmd >/dev/null 2>&1; then
   npm install -g @tobilu/qmd >/dev/null 2>&1 || echo "  install failed."
