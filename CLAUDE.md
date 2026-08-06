@@ -65,7 +65,7 @@ Seven standing directives, stated below, govern all prose and naming. Each is re
 | `notes/` | The knowledge graph: claims and topic maps. Flat; no subfolders. |
 | `inbox/` | Capture. Anything can land here; everything is later processed out. |
 | `sources/` | Original source documents. Immutable. |
-| `archive/` | Source notes: provenance records for processed material, pointing into `sources/`. |
+| `archive/` | Provenance records: source notes for processed documents in `sources/`, reading records for completed primary readings, research records for verified outside sweeps. |
 | `templates/` | Note templates with `_schema` blocks — the authoritative schema. |
 | `manual/` | User documentation. |
 | `ops/` | Operational state: the orientation surface, goals, the completed log, the decisions register, config, queue, sessions, observations, tensions, methodology, the chapter concordance, the open-corpus inventory, and the rethink log. |
