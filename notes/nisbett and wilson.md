@@ -48,7 +48,7 @@ Relevant Notes:
 - [[nothing enters the lattice the body has not countersigned]] — the standard the objection is aimed at
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the causal load the corpus places on the instrument, which is where the paper reaches
 - [[eric schwitzgebel]] — the broader objection, which lands whichever way this one falls
-- [[eugene gendlin]] — the standard's author, whose own account of checking may already answer part of this
+- [[eugene gendlin]] — the standard's author, whose founding paper now answers the checking question directly: the shift certifies movement rather than truth, his direct referent "does the judging," and his own footnote taxonomy names the counterfeits (1964, fn. 13)
 - [[felt shift versus felt confirmation]] — the two limits the corpus already records, both on the reading rather than on the premise
 
 Topics:
