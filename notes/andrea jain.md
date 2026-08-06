@@ -14,12 +14,17 @@ Andrea Jain studies the global spirituality economy, and her named mechanism is 
 
 The refusal kept: she would refuse the framing of Indian contemplative goods as apolitical inner technology at all. Any book that walks a Western reader into the valley is, on her account, operating inside the appropriation economy and owes its answer from there, not from outside. The vault holds the beginning of an answer in the seat found for the structural position — that some suffering lives in economic and institutional arrangement, with Rosa as its candidate — and Jain is the test of whether that answer is load-bearing or gestural.
 
+Evidence standing (added 2026-08-06). The quoted phrases on this note — "gestural subversion" among them — come from the crossover research's web-verified survey of 2026-08-03 (archive/research — crossover cluster background.md), not from either book's pages; *Selling Yoga* and *Peace Love Yoga* are unread in this vault. The recommendation rests on that survey depth, not on a reading.
+
 ---
 
 Relevant Notes:
 - [[the tradition the book owes most has no chair in its company]] — the stewardship line her critique tests
 - [[hartmut rosa]] — the structural seat that is the book's beginning of an answer
 - [[the transformation field divides into five theories of where suffering lives]] — the map her challenge extends: some suffering lives in the economy the book itself sells into
+- [[the compound diagnoses may relocate a structural condition inside a person]] — her charge stated as a property of the book's own vocabulary rather than of the market
+- [[steven wasserstrom]] — the same critique aimed one layer up, at comparative synthesis rather than at the spirituality economy
+- [[mihaly csikszentmihalyi]] — the documented case of exactly what she describes: a construct absorbed by the market that adopted it
 
 Topics:
 - [[interlocutors]]

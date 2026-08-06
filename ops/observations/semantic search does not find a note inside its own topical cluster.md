@@ -2,7 +2,8 @@
 description: "Querying qmd vsearch with a note's own description returns its topical neighbours and not the note: inside a dense cluster the distinctive proper names are washed out by the shared vocabulary."
 date: 2026-08-03
 severity: friction
-status: open
+status: resolved
+resolved_by: "proposal 5 (the retrieval note in methodology.md), approved by the author 2026-08-05"
 ---
 
 # semantic search does not find a note inside its own topical cluster

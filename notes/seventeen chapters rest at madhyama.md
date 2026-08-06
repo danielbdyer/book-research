@@ -34,6 +34,8 @@ Relevant Notes:
 - [[the whole arc has already been drafted once in prose]] — the fact that removes unfinished writing as an explanation for the unreleased state
 
 - [[the perfectible conversation is the manuscript's most comfortable room]] — the mechanism beneath this tension: where the perfectible word lives, and why recess is comfortable
+- [[the nearest prior attempts are case histories rather than interlocutors]] — what happened to the five people who released a synthesis of this kind, which is the one class of evidence this tension has never had
+- [[the fruit that falls is the word become deed]] — the image the release is written in, and the house rule it carries
 
 Topics:
 - [[tensions]]

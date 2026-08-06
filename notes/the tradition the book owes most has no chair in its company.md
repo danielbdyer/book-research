@@ -41,6 +41,8 @@ Relevant Notes:
 - [[andrea jain]] — the structural test the stewardship line must pass, in which sincerity is not a defense
 - [[henry corbin]] — the one recorded precedent for the road, walked out of Heidegger into an Eastern tradition of light
 - [[j l mehta]] — the road's constraint stated in mirror image: no shortcut, and the way to what is closest is the longest way back
+- [[steven wasserstrom]] — the charge this absence is most exposed to: comparative synthesis that lifts a tradition's material out of its history
+- [[ubuntu personhood]] — the same absence found a second time, in a whole discipline the company has no representative from
 
 Topics:
 - [[tensions]]

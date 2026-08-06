@@ -6,6 +6,8 @@ allowed-tools: Read, Write, Edit, Grep, Glob, Bash, mcp__qmd__search, mcp__qmd__
 context: fork
 ---
 
+**THIS VAULT'S MAP ANATOMY (overrides the stock map structure below).** A topic map here has: an intro stating the concern; a 'Claims in this map' list where every entry carries a complete-clause gloss stating the target's content (never a category label or a fragment); optional concern-named sections; an 'Adjacent maps' paragraph; and a closing 'What remains' naming the open work. There are no 'Core Ideas', 'Tensions', 'Gaps', or 'Agent Notes' sections. The split threshold is roughly twenty-five entries, and a map splits within its section structure first — creating a new map requires a /rethink pass (CLAUDE.md, Topic maps). Membership means: listed in a declared map's claims list. Semantic search runs via the qmd CLI (`qmd query "..."`), not MCP tools. Apply the personality block and the register countermeasure stamped at the end of `ops/derivation-manifest.md` to every sentence written.
+
 ## Runtime Configuration (Step 0 — before any processing)
 
 Read these files to configure domain-specific behavior:

@@ -6,6 +6,8 @@
 
 # Only run in Ars Contexta vaults
 GUARD_DIR="$(cd "$(dirname "$0")" && pwd)"
+# Work from the repository root regardless of the invoking directory.
+cd "${CLAUDE_PROJECT_DIR:-$GUARD_DIR/../..}" 2>/dev/null || true
 if ! "$GUARD_DIR/vaultguard.sh"; then
   cat > /dev/null  # drain stdin
   exit 0

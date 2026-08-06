@@ -10,6 +10,8 @@ allowed-tools: Read, Grep, Glob, Bash
 argument-hint: "[operation] [target] — operations: health, triangles, bridges, clusters, hubs, siblings, forward, backward, query"
 ---
 
+**THIS VAULT'S FIELD NAMES (overrides the stock query vocabulary below).** Notes carry `category:` (not `type:`, except maps' `type: moc`), a `sources:` flow array of anchors (not `source:`), and `status: live|treated|resolved` on tensions only. There is no `ops/scripts/graph/`; the inline fallbacks below are the implementation, and `scripts/queries/clusters.sh` is the standing regions query. Apply the personality block and the register countermeasure stamped at the end of `ops/derivation-manifest.md` to every sentence written.
+
 ## Runtime Configuration (Step 0 — before any processing)
 
 Read these files to configure domain-specific behavior:
@@ -471,11 +473,11 @@ Supported query patterns:
 | Query | Ripgrep Pattern | Purpose |
 |-------|----------------|---------|
 | `topics [[X]]` | `rg '^topics:.*\[\[X\]\]'` | Find notes in a topic |
-| `type tension` | `rg '^type: tension'` | Find notes by type |
+| `category tension` | `rg '^category: tension'` | Find notes by category |
 | `methodology X` | `rg '^methodology:.*X'` | Find notes by tradition |
-| `status open` | `rg '^status: open'` | Find notes by status |
+| `status live` | `rg '^status: live'` | Find tension notes by status (live/treated/resolved) |
 | `created 2026-02` | `rg '^created: 2026-02'` | Find notes by date range |
-| `source [[X]]` | `rg '^source:.*\[\[X\]\]'` | Find notes from a source |
+| `source X` | `rg '^sources:.*X'` | Find notes citing a source (sources: is a flow array of anchors) |
 
 **Step 2: Execute query**
 

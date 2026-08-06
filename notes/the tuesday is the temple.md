@@ -20,6 +20,8 @@ The axiom also governs how the book names things. Walked II records that retirin
 - Walked I states the axiom ("the Tuesday is the temple; no renunciation is required; the grid stays on") and records the first-image observation.
 - First-telling, "The honesty," restates it for the reader: nothing in the book asks for the departure from job, kitchen, or life.
 - Atlas §IX.8a records the Eckhart precedent, with the biographical note that he was tried for heresy and died before the verdict.
+- **The axiom's independence was audited on 2026-08-05 and it failed in one specific way.** Every witness the corpus seats for the householder position is Indic or is a Western adaptation of a withdrawal practice, so the claim that the sacred is available in ordinary life has no arrival from a tradition that never located it elsewhere to begin with ([[the householder claim has no witness outside the indic world]]). Two candidates now fill the hole from the Abrahamic side and they are not equally strong: Hasidic worship through corporeality holds that the ordinary act *is* the worship, adapting nothing ([[hasidic worship through corporeality]]), where [[ignatius of loyola]] is an adaptation of a withdrawal practice and [[al-qushayri]] sits between them. Neither has been read here.
+- The axiom is also the householder half of a claim the vault only wrote down on the same day: that the road runs through the fullness of the first person rather than around it ([[the fullness of the first person is the road to selflessness rather than its obstacle]]). The corpus ties the two explicitly, and the tie is what makes the Weil objection an objection to both at once rather than to one of them.
 
 ---
 
@@ -31,6 +33,9 @@ Relevant Notes:
 - [[john caputo]] — the scholar who traced Heidegger's releasement to the Eckhart precedent this axiom already cites
 - [[michel henry]] — the interiority that refuses the daylight the axiom depends on
 - [[both poles of the convergence supply their own front doors]] — the ordinary register both traditions' own entry texts already speak
+- [[the householder claim has no witness outside the indic world]] — the audit that found this axiom's company to be one tradition plus its adaptations
+- [[hasidic worship through corporeality]] — the strongest candidate to fill that hole, because it adapts nothing
+- [[the fullness of the first person is the road to selflessness rather than its obstacle]] — the claim the corpus ties to this axiom, and which the Weil objection contests along with it
 
 - [[the morning is where a day acquires its coherence]] — nascent; the scale of the day, which this doctrine commits to and never treats
 - [[the sacred in the ordinary is produced by sensory design]] — nascent; whether the ordinary is noticed or arranged

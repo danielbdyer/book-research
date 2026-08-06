@@ -27,10 +27,10 @@ The atlas's closing section (§XII) resolves the book's entire field into six ma
 
 ## Structural maps
 
-- [[interlocutors]] — the book's company of thinkers, each with a functional seat: the centerpiece map
+- [[interlocutors]] — the book's company of thinkers, each sorted on two axes: a functional seat (what the thinker does for the book) and a load (what the book cannot lose if they leave); the centerpiece map
 - [[book-structure]] — the manuscript's parts, named units, overlays, apparatus, and how the material was made
 - [[tensions]] — the registry of tensions the book keeps deliberately unresolved, each with its treatment
-- [[research-frontier]] — the outward research program: evaluations completed and pending
+- [[research-frontier]] — the outward research program: evaluations completed and pending, with the sharpened reading backlog at `ops/reading queue.md`
 - [[methods]] — the vault's working rules and the registry of the eight source documents
 - [[open-questions]] — questions the corpus holds open on purpose
 
@@ -40,7 +40,7 @@ The atlas's closing section (§XII) resolves the book's entire field into six ma
 2. Read `ops/goals.md` for the active threads, and [[methods]] for the working rules and the source registry — eight documents: four descriptive, three manuscript drafts, and the poems as the primary source beneath them all.
 3. Put new material in `inbox/`; run /reduce to extract claims from it.
 4. Before treating anything that looks inconsistent as work, check `ops/decisions.md` — the settled questions are indexed there, and several deliberate choices look like defects at first sight.
-5. The pending lists in `ops/queue/` are deliberately long; they are the field, not the task. The user manual is at `manual/manual.md`.
+5. The backlog splits into a work tier and a shelf. The work tier is `ops/reading queue.md` — nineteen readings, each with a question that can fail, its stake, and a page-level address. The pending lists in `ops/queue/` are the deliberately long shelf behind it: the field, not the task. The conditions a piece of writing needs before drafting are stated at `ops/manuscript readiness.md`. The user manual is at `manual/manual.md`.
 
 ---
 

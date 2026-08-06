@@ -15,11 +15,13 @@ The corpus generalizes the point as bond order: in this chemistry, sequence is p
 
 - First-telling, "The offering," carries the formula and the reversed-order failure case.
 - Atlas §IV records it under bond order, alongside isomerism and catalysis as the chemistry's precision terms.
+- **The word carrying the whole claim is *then*, and it is the only ordering operator the notation contains.** Every other formula in the corpus is written with plus signs, which are commutative — `Sever + Release` and `Release + Sever` are the same expression, and the difference between forgiveness and bypass is exactly the difference that expression cannot hold. The corpus solves it by writing an English word into the formula once. Counted with the rest at `ops/formula audit.md`; the general finding is [[the chemistry's teachings are structural and its notation is only compositional]].
 
 ---
 
 Relevant Notes:
 - [[trust and paralysis are isomers]] — the sibling teaching, where the variable is attachment rather than order
+- [[the chemistry's teachings are structural and its notation is only compositional]] — why *then* has to be a word, and the eight other teachings in the same position
 - [[the diagnosis contains the cure]] — the principle both teachings serve
 
 Topics:

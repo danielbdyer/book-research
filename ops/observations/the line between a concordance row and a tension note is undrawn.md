@@ -2,7 +2,8 @@
 description: The methodology gives draft disagreements two destinations — a concordance row and a doctrinal tension note — and no rule for when a disagreement is one, the other, or both.
 date: 2026-08-03
 severity: gap
-status: open
+status: resolved
+resolved_by: "proposal 6, approved by the author 2026-08-05 after explanation; the rule is in CLAUDE.md's Relations section"
 ---
 
 # the line between a concordance row and a tension note is undrawn

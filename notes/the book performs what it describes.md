@@ -26,6 +26,7 @@ Relevant Notes:
 - [[the book is a tuning fork and the reader is the striking surface]] — the law applied to the book's ending and publication
 - [[seventeen chapters rest at madhyama]] — the law turned on the manuscript's own unfinished state
 - [[david peter lawrence]] — the millennium-old precedent for this law, in the recognition tradition's own treatises
+- [[douglas hofstadter]] — the modern case of the law obeyed at full strength, by a synthesis that performed its insight structurally and handed the reader no system at all
 
 Topics:
 - [[book-structure]]

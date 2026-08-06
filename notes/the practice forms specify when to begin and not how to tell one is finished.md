@@ -29,6 +29,7 @@ Relevant Notes:
 - [[nothing enters the lattice the body has not countersigned]] — the standard that would supply the missing tests, already established earlier in the book
 - [[ripeness is not refrigeration]] — the rule the survey's outgrowing point rhymes with, stated for work rather than for practices
 - [[the gatekeeper is met with a bow never a fight]] — the one form whose verification condition the corpus states plainly
+- [[the practice is the expression of realization rather than a means to it]] — the clause that makes the missing tests a commitment rather than an oversight: a form justified by what it produces has already broken it
 
 Topics:
 - [[felt-shift]]

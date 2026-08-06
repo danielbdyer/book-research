@@ -43,6 +43,7 @@ Relevant Notes:
 - [[distress is a question about machinery not a verdict about character]] — the three-loop model his learning levels would give a formal ladder
 - [[the field between two people does work]] — the relational claim his organism-plus-environment unit widens past the dyad
 - [[nothing enters the lattice the body has not countersigned]] — the standard his conscious-purpose refusal would be tested against
+- [[the drive to closure has measurable costs]] — the empirical version of his refusal of conscious purpose, stated as a disposition with measured costs rather than as a warning
 
 Topics:
 - [[interlocutors]]

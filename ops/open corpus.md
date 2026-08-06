@@ -12,7 +12,7 @@ This file treats the corpus's two outlines — the atlas's section structure and
 
 ## The atlas outline as a coverage map
 
-The atlas organizes the whole field into thirteen sections. Read as scaffolding, the outline is a checklist of the project's own territory with an exploration state against each. "Held" names what the vault has extracted; "open" names what the section contains and the vault does not.
+The atlas organizes the whole field into thirteen sections. Read as scaffolding, the outline is a checklist of the project's own territory with an exploration state against each. "Held" names what the vault has extracted; "open" names what the section contains and the vault does not. The Held column is a snapshot refreshed when a row is worked, not continuously — three rows stale by an order of magnitude (§IV, §IX, §XI) were trued against the graph on 2026-08-06 — and current counts come from `scripts/queries/` (`coverage.sh`, `tensions-status.sh`, `candidate-seats.sh`), never from this table.
 
 | Section | Territory | Held | Open |
 |---|---|---|---|
@@ -20,14 +20,14 @@ The atlas organizes the whole field into thirteen sections. Read as scaffolding,
 | §I | The deepest well: the master process | Three claims on recognition, the reclaimed word, and the play doctrine | The central process's other two names; the Clearing's own treatment; the thisness lineage (Scotus, Hopkins, Deleuze, and the sister ontology project) |
 | §II | The ontic core: the Generative Triad | The anatomy, the privation mapping, the vetoed names | The diagram's centre-word and its formula for the whole path |
 | §III | The alphabet: the twelve primitives | One claim, on why they are verbs | Each of the twelve individually; the three make/unmake pairs; the closure test that found no thirteenth |
-| §IV | The chemistry: molecules of experience | Four canonical formulas, the foreclosure extension, the minus-sign mechanism | Eight families and roughly fifty compounds; the eight cluster heads |
+| §IV | The chemistry: molecules of experience | All twenty-one operator-written formulas audited at `ops/formula audit.md`, with the foreclosure extension and the minus-sign mechanism | Eight families and roughly fifty compounds; the eight cluster heads |
 | §V | The engine: three loops, one arc, four dimensions | One claim, on structural diagnosis | Each loop with its misfire signature and medicine; the four-axis movement grid; the treatment of high-energy states |
 | §VI | The epistemic ladder: the word descending | Two claims, on madhyamā against vaikharī and on the middle voice | Each of the four levels; the reading test; the answerability ethics (Bakhtin, Rosenstock-Huessy, Arendt, Celan) |
 | §VII | The praxis stratum: what the hands do | Two claims, on the Stance and on somatic countersigning | The twelve kata; channeling; the Focusing protocol; the group protocols; the four doors of practice; the systems-craft toolkit; the six revision passes as practices |
 | §VIII | The relational field | Four claims | The field's own three-loop structure; the relational molecule set |
-| §IX | The guild: every lineage seated | The roster and seat taxonomy; five candidate notes; one seated thinker | Roughly a hundred named thinkers without notes; the valley's four subsections; the margin faculty; the porch's six groups; the chapter patrons; the satellites |
+| §IX | The guild: every lineage seated | The roster and seat taxonomy; sixty-one thinker evaluations sorted on two axes, crossed at `ops/lineage sort.md` | Roughly a hundred named thinkers without notes; the valley's four subsections; the margin faculty; the porch's six groups; the chapter patrons; the satellites |
 | §X | The book as artifact | Book-structure, the poem compression, the apparatus gap, and the image system entire — twelve image claims | Six of seven apparatus devices; the four overlays individually |
-| §XI | The fault-line country | Eight tension claims | Nine guild fault lines (§XI.2a–2i), of which one has a note; the koan under the map |
+| §XI | The fault-line country | Twenty-three tension claims, every one carrying status and treatment fields | Nine guild fault lines (§XI.2a–2i), of which one has a note; the koan under the map |
 | §XII | The gravitational summary | The six doctrine maps derive from it | — |
 
 The pattern the table makes visible: the vault holds the head of nearly every section and the body of almost none. The sections where that gap is widest are §III, §VII, and §IX — the alphabet, the practice curriculum, and the roster — each of which is a list the corpus enumerates and the vault has reduced to a single claim about the list.

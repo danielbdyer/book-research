@@ -9,6 +9,8 @@ allowed-tools: Read, Write, Edit, Grep, Glob, Bash
 argument-hint: "[dimension|--dry-run] — focus on specific dimension or preview without approval prompt"
 ---
 
+**THIS VAULT'S LAYOUT (overrides stock paths below).** Methodology files live in `ops/methodology/` with spaces in their names (no kebab-case); templates live in `templates/` (no `ops/templates/`); the change record is `ops/decisions.md` plus `ops/rethink-log.md` (no `ops/changelog.md`). Structural change here always shows the plan first and records its rationale in the rethink log. Apply the personality block and the register countermeasure stamped at the end of `ops/derivation-manifest.md` to every sentence written.
+
 ## Runtime Configuration (Step 0 — before any processing)
 
 Read these files to configure domain-specific behavior:

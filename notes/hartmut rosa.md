@@ -41,6 +41,9 @@ Relevant Notes:
 - [[the tuesday is the temple]] — the commitment his structural objection presses hardest on
 - [[both poles of the convergence refuse the engineered epiphany]] — the same boundary reached by the book's two foundations, for which his clause is the contemporary statement
 - [[andrea jain]] — the sharper form of his structural objection, aimed at the spirituality economy this book would sell into
+- [[the third thing has a mechanism in participatory sense-making]] — what makes resonance literal rather than figurative: coupling described as a process with its own autonomy
+- [[the compound diagnoses may relocate a structural condition inside a person]] — his objection turned on the book's own diagnostic vocabulary rather than on its subject matter
+- [[thomas hubl]] — the other externalizing seat, holding what is inherited where Rosa holds what is arranged
 
 Topics:
 - [[interlocutors]]

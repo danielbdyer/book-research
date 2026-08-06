@@ -5,6 +5,9 @@
 
 # Only run in Ars Contexta vaults
 GUARD_DIR="$(cd "$(dirname "$0")" && pwd)"
+# Work from the repository root regardless of the invoking directory: every
+# path below is root-relative, and the guard resolves the root the same way.
+cd "${CLAUDE_PROJECT_DIR:-$GUARD_DIR/../..}" || exit 0
 "$GUARD_DIR/vaultguard.sh" || exit 0
 
 # ── Session tracking (silent — no stdout) ──────────────────────
@@ -74,6 +77,28 @@ if [ -f ops/orientation.md ]; then
   echo "---"
   echo ""
 fi
+
+# The register countermeasure: printed at every session start, at the author's
+# direction (2026-08-05), deliberately redundant with CLAUDE.md, the
+# orientation, and the register itself. The canonical copy is the final section
+# of ops/methodology/prose register.md; where copies disagree, that one wins.
+echo "## The register countermeasure (applies to every sentence this session writes; six lines)"
+echo ""
+echo "1. Every statement is a complete sentence with a named subject and a finite verb. No fragment stands as a sentence; check the last sentence of each paragraph first, because fragments concentrate at the closes."
+echo "2. A vault-internal term (chair, seat, load, privated, the sort, the torch, and every other pipeline coinage) is unfolded in the sentence where it appears, or replaced with plain words. In replies to the author this is absolute: he authored the book the terms describe, not the terms."
+echo "3. A reference is a receipt, never the content. Every link or file path travels with one clause stating what it points to; a paragraph must still assert everything it asserted with its links struck out."
+echo "4. A figure of speech appears only inside quotation marks, where the quoted phrasing is itself the finding. Mirrored pairs, load-bearing metaphors, quotable endings, and self-narration are statements withheld, not style."
+echo "5. An abstract noun that stands for something specific is expanded where it stands: the sentence names the thing, not its category. Check consequence-sentences first, because abstraction concentrates where a finding's meaning is stated."
+echo "6. Every reply to the author is reread as him before it is sent, in full, applying lines 1 through 5."
+echo ""
+echo "The quality clause carries equal force: none of this shortens or flattens. Long subordinate sentences are welcome when they unfold in reading order; richness is the right fact, complete, with its reason attached. The ban is on compression that withholds, never on complexity that delivers."
+echo ""
+if [ -f scripts/queries/countermeasure.sh ]; then
+  bash scripts/queries/countermeasure.sh --quiet || true
+fi
+echo ""
+echo "---"
+echo ""
 
 echo "## Workspace Structure"
 echo ""
@@ -146,13 +171,18 @@ fi
 
 # Condition-based maintenance signals
 FIRED=0
-OBS_COUNT=$(ls -1 ops/observations/*.md 2>/dev/null | wc -l | tr -d ' ')
+# Counts observations that are actually open, not files present. Until 2026-08-05
+# this counted files, so resolved observations kept the condition firing and the
+# word "pending" described a number that included them (/rethink, 2026-08-05).
+# Exemption clause: an observation with status: resolved or status: archived is
+# not work and is not counted.
+OBS_COUNT=$(grep -l '^status: open' ops/observations/*.md 2>/dev/null | wc -l | tr -d ' ')
 TENS_COUNT=$(ls -1 ops/tensions/*.md 2>/dev/null | grep -v README | wc -l | tr -d ' ')
 SESS_COUNT=$(ls -1 ops/sessions/*.json 2>/dev/null | grep -v current | wc -l | tr -d ' ')
 INBOX_COUNT=$(ls -1 inbox/*.md 2>/dev/null | grep -v README | wc -l | tr -d ' ')
 
 if [ "$OBS_COUNT" -ge 10 ]; then
-  echo "CONDITION: $OBS_COUNT pending observations. Consider /rethink."
+  echo "CONDITION: $OBS_COUNT open observations. Consider /rethink."
   FIRED=1
 fi
 if [ "$TENS_COUNT" -ge 5 ]; then
@@ -166,15 +196,18 @@ fi
 if ! command -v qmd >/dev/null 2>&1; then
   echo "CONDITION: qmd is not installed in this container. Run scripts/bootstrap.sh to restore semantic search."
   FIRED=1
+elif [ -f .qmd/index.sqlite ]; then
+  # The index serves stale results silently; CLAUDE.md's own rule is to
+  # reindex after bulk note changes, and nothing enforced it until now.
+  STALE_NOTE=$(find notes -name '*.md' -newer .qmd/index.sqlite -print -quit 2>/dev/null)
+  if [ -n "$STALE_NOTE" ]; then
+    echo "CONDITION: notes have changed since the semantic index was built. Run qmd update && qmd embed."
+    FIRED=1
+  fi
 fi
 if [ "$INBOX_COUNT" -ge 3 ]; then
   echo "CONDITION: $INBOX_COUNT items in inbox. Consider /reduce or /pipeline."
   FIRED=1
-fi
-
-# Workboard reconciliation
-if [ -f ops/scripts/reconcile.sh ]; then
-  bash ops/scripts/reconcile.sh --compact 2>/dev/null
 fi
 
 # Methodology staleness check (Rule Zero)

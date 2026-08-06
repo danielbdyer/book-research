@@ -2,6 +2,8 @@
 description: Utpaladeva founded the recognition school whose doctrine the book's front matter translates; the corpus seats him as the named far side of the Heidegger convergence.
 category: interlocutor
 seat: source-tradition
+load: thesis-bearing
+discipline: indic-and-buddhist-primary
 clause: "Recognition philosophy's architect — the Heidegger convergence's far pole."
 works: ["Īśvarapratyabhijñākārikā"]
 sources: ["atlas §IX.6d", "walked IX", "atlas §I"]
@@ -20,12 +22,15 @@ That convergence is the book's foundation, and Utpaladeva is its named far side:
 - Atlas §I places the doctrine in the book's deepest layer: "Pratyabhijñā — recognition as the whole of liberation."
 - The dating discipline for the convergence — the traditions are independent of each other; the book's independence from the teaching needs a date — is kept at [[aletheia and pratyabhijna converge on truth as un-forgetting]].
 
+Evidence standing (added 2026-08-06). The corpus's account carries this note, and the tradition's own words sit one link away rather than on it: Utpaladeva's opening and closing statements of the kārikās are quoted with their edition (Torella) at [[the kashmir shaiva tradition would decline four of the book's deepest moves]]. No continuous reading of the Īśvarapratyabhijñākārikā exists in this vault. The thesis-bearing designation is the lineage sort's assignment (2026-08-05, `ops/lineage sort.md`), made because the book's front matter translates his school's doctrine; the author has not seated it, and no reading has tested it.
+
 ---
 
 Relevant Notes:
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the convergence he anchors from the tradition's side
 - [[reading is remembering]] — his school's doctrine, printed as the book's promise
 - [[kshemaraja]] — the disciple generation that condensed his school
+- [[the fullness of the first person is the road to selflessness rather than its obstacle]] — the proposition his school states in the first person, held by the tradition rather than by any one thinker
 - [[the recognition school installs wonder at the definition of consciousness]] — the tie scholarship credits to him first: camatkāra bound to vimarśa, wonder installed where consciousness is defined
 
 Topics:

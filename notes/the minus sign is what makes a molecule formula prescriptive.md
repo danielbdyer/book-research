@@ -19,7 +19,14 @@ The transferable point is a constraint on writing rather than an observation abo
 
 ---
 
+## What the sort turned out to be measuring, established 2026-08-05
+
+The formula audit found the reason this sort works, and it is not about minus signs specifically. The minus is the notation's only operator that states a *relation* rather than a membership: it says a term is absent rather than merely unlisted. Every other mark in the notation reports which operations are present. So this note measured, without knowing it, that the notation's one relational operator is its one operator that predicts anything — which is the confirming instance for the general finding at [[the chemistry's teachings are structural and its notation is only compositional]]. The exception recorded above is the same point from the other side: grief's missing term is a witness, a relation to a person, and the notation has no way to write it, so the corpus writes it in prose as a catalyst.
+
+---
+
 Relevant Notes:
+- [[the chemistry's teachings are structural and its notation is only compositional]] — what this sort turned out to be measuring
 - [[the diagnosis contains the cure]] — the principle this note locates in the notation that carries it
 - [[trust paralysis and foreclosure differ only on the commit-defer axis]] — the group whose two failure states are both minus formulas and whose healthy state is not
 - [[grief is sever plus love plus persist]] — the formula the sort does not fit, and the reason

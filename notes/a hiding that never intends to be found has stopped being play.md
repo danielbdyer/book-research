@@ -15,6 +15,7 @@ The rule does diagnostic work in the book: it distinguishes protective concealme
 
 - Walked I: "The best games have real stakes and deep hiding places — but note the rule folded into the game's name: it is hide and seek."
 - First-telling, "The between," closes its section with Winnicott's eleven words and attributes them to his clinical career.
+- The eleven words' home in Winnicott's own corpus is his 1963 paper on communicating and not communicating, published in *The Maturational Processes and the Facilitating Environment* (1965) — an address stated from general knowledge rather than from a reading. Within this vault the line is carried by first-telling alone and has not been verified against Winnicott's text, so the isomorph's clinical half currently rests on the corpus's relay.
 - Atlas §I cross-links the doctrine to the metabolic arc (the orchard as its seasonal form) and to the atlas itself, which was "commissioned as krīḍā" — a self-application the vault records at [[the topology only exists where it is being performed]].
 - The space-around survey identifies Tronick's still-face experiment as the strongest laboratory evidence for the disaster of not being found. Tronick has not been researched for this project; he is on the pending-evaluation list in `ops/queue/candidates.md`.
 

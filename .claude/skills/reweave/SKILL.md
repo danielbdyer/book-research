@@ -6,6 +6,8 @@ allowed-tools: Read, Write, Edit, Grep, Glob, Bash, mcp__qmd__search, mcp__qmd__
 context: fork
 ---
 
+**THIS VAULT'S CONVENTIONS (overrides the stock structures below).** Notes follow `templates/claim-note.md`; maps have a claims list with complete-clause glosses, Adjacent maps, and What remains — no Core Ideas or Gaps sections. The queue is `ops/queue/tasks.md` (markdown checklist; no queue.yaml/queue.json). Observation status values are open/resolved/archived. Semantic search runs via the qmd CLI. When new material changes an older claim's context, the backfill states the new fact with its date and address rather than deleting the old sentence silently. Apply the personality block and the register countermeasure stamped at the end of `ops/derivation-manifest.md` to every sentence written.
+
 ## Runtime Configuration (Step 0 — before any processing)
 
 Read these files to configure domain-specific behavior:

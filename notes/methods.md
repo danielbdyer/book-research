@@ -48,6 +48,17 @@ The provenance rounds established facts about how the corpus was made. Four of t
 - [[flourishing flow and facilitation converged on one stance in the author's own record]] — the count-once rule extended from documents to domains, since three of the author's chosen fields converging shows the coherence of his attention rather than a law of the fields.
 - [[the making of the book enacts the law the book states]] — the limit case of the scope rule, and the one the vault sits inside: a law appearing in its own production history shows consistency of the maker, not truth of the law.
 
+### What the lineage sort and the two syntheses added to the rules
+
+Six findings from that day are about how the vault works rather than about what the book claims, and each puts pressure on a house rule above.
+
+- [[the company was sorted by what each thinker brings and never by what the book cannot lose]] — the sorting defect behind the second axis: a taxonomy by contribution answers what a thinker brings and never asks what happens if they leave.
+- [[the verification standard rests on one name and cannot be defended by company]] — the case that exposed it, and a direct check on rule 5: the standard the vault cannot run is also one the vault had not seated.
+- [[sorting a lineage by load turns it toward argument]] — the tension the new axis creates against the stance that governs prose, treated by scope rather than resolved.
+- [[the convergence's independence fails where three of its names share one teacher]] — rule 7's count-once principle extended from documents to thinkers, since shared teaching makes agreement a family resemblance rather than an arrival.
+- [[the drive to closure has measurable costs]] — the warrant beneath rule 4, and the criterion that separates a disciplined open tension from a romantic one: naming what would close it.
+- [[the research instrument is a violin rather than an oracle]] — an account of how this vault's two parties transact, which reaches the book's own claim about instruments from analytic philosophy of mind and with no contact with it.
+
 ## Nascent stubs
 
 A claim may be recorded before it is substantiated, carrying `state: nascent`, when the corpus names a territory it never develops. The stub is a seed, not an analysis: it states the proposition the source's gesture asserts, the strongest fact the corpus supplies, and the nearest held material, and the state field carries the signal that the vault does not yet hold the proposition. Thirteen such stubs exist, one per open gesture in `ops/open corpus.md`, and they are listed in [[research-frontier]]. They are admitted under the writing test's own rule for absences — one seed, not an essay — because a territory recorded only in an operational table is not reachable from the graph and will not be found again.
@@ -58,7 +69,9 @@ A claim may be recorded before it is substantiated, carrying `state: nascent`, w
 
 ## Source registry
 
-Seven source documents, each with an archive note recording provenance, standing, and extraction state. Each entry gives the citation name claims use, the file, and the anchor grammar.
+Eight source documents — the seven corpus documents and the poems beneath them — each with an archive note recording provenance, standing, and extraction state. Each entry gives the citation name claims use, the file, and the anchor grammar.
+
+**What the registry is a registry of, restated by the author 2026-08-05.** These documents are the vault's evidence and not its subject: "this research is and has always been about the primary material, and not the sources I've provided which indicate an imperfectly potentiated form of the essences I really care about." Every rule below is unchanged as a rule for reading evidence. What sits above them is the direction of flow — the corpus is downstream of what the research is about, so no quantity of corpus material settles the subject, and where the two conflict the primary material governs. The directive is `ops/methodology/the primary material.md`; the consequence that reaches this list most often is that a thinker's own work is primary and the corpus's account of that thinker is not.
 
 ### Descriptive sources (the four founding documents, July 2026)
 
@@ -83,11 +96,19 @@ These are the book rather than accounts of it. They are secondary by the author'
 - [[source — the abridged edition]] — the fifteen-chapter arc executed in full prose. File: `sources/firing on all cylinders - abridged edition.pdf`. Cited as `abridged`, with chapter numbers and section names: `abridged ch6`, `abridged: a note on sources`.
 - [[source — the mythic operating system]] — a twenty-eight-chapter table of contents with one chapter written; the author's named high-water mark of voice. File: `sources/firing on all cylinders - a mythic operating system.pdf`. Cited as `mythic-os`, with section names and the written chapter's own page numbers: `mythic-os: contents`, `mythic-os: page 9`. The provenance reconstruction dates this document to April 2025, making it the earliest datable state of the project rather than one draft among three.
 
+### Reading records (the primary readings' trace, begun 2026-08-05)
+
+A completed reading of a thinker's own work produces its own archive record, named `reading — <author>, <work> (<year>).md`, stating what was read (edition, whole or in part), the findings with their locators, the questions the reading settled, and the works still unread. Claims then cite the work by its own stable locators — `Gendlin 1964, fn. 13 and def. 13` — and the reading record is the trace behind that citation grammar; the record kind's schema sits beside the source template in `templates/source.md`. The first instance is `archive/reading — gendlin, a theory of personality change (1964).md`, from the founding paper of the felt-shift standard. The queue that produces readings is `ops/reading queue.md`, and a reading's findings enter `notes/` through the pipeline like any other material.
+
 ## Works consulted
 
 Documents read and cited that are not the project's own sources. They are quoted inside the notes that use them and get no archive note, following the rule in [[research-frontier]]: only the project's own source documents are seeded. The primary works behind the candidate evaluations are cited this way, inside each interlocutor note.
 
 Four are cited widely enough to state their form here: the **provenance reconstruction** (round one), **provenance reconstruction round two**, the **provenance addendum**, and **provenance addendum three** — accounts of how the corpus was made, commissioned by the author from an agent with access to their conversation threads. By author decision (2026-08-03) the four documents are held in `provenance/` with committed extractions; they remain consulted works rather than sources, and the reasoning is in `ops/methodology/source standing.md`. Each is cited by its own sections — `provenance reconstruction §1`, `provenance addendum three §4`, `provenance reconstruction: flagged overstatements` — and quotations from the record they retrieve carry the speaker mark and date they supply: `provenance reconstruction §1, quoting [D] 7 Jul 2026`. The admission of their personal material is governed by `ops/methodology/personal provenance.md`.
+
+Two more arrived 2026-08-05 and differ in kind again: they are commissioned research on the book's *subject* rather than on its making or its lineage, which means they report an outside literature and can be checked against it. **`high-energy states`** synthesizes the neurobiology of ego dissolution and its integration; **`standing wave`** asks whether not-knowing is a genuine epistemic mode and whether a language model can occupy one. Both are held in `provenance/` under the same standing and cited by their own sections. Two rules govern them. No primary work behind either has been read here, so a claim resting on one is `nascent` and says so. And the first carries a structural caution recorded at [[a synthesis organized by the schemes offers to promote them back to architecture]]: it is organized by the book's three-loop scheme and supplies neural correlates for it, which is the most plausible route by which the schemes' demotion gets reversed without anyone deciding to reverse it.
+
+A fifth is cited widely enough to state here and differs in kind from the four: the **mesh grid**, received 2026-08-05, an analysis of the book's lineage rather than of the corpus's making. It sorts the company by the load each thinker carries, crosses that against where each got their epistemics, and reports the holes the crossing exposes. It is held in `provenance/` under the same standing and cited by its own sections — `mesh grid: tier 1`, `mesh grid: the search map`, `mesh grid: addendum, Wilber properly seated`. Two rules govern how it is read, both from the author's decision of 2026-08-05. Its judgments are cosigned "gently… about 65–75%," so a tier assignment is the grid's proposal rather than his seating; and its sort allocates reading rather than ranking evidence, so the rules on convergence in `ops/methodology/authorial stance.md` continue to govern vault prose unchanged. The directive is `ops/methodology/thesis-bearing and company.md`.
 
 ## What remains
 

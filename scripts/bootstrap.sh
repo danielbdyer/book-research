@@ -35,13 +35,28 @@ else
   STATUS=1
 fi
 
+echo "== python deps for the query scripts =="
+# frontmatter-parse.sh needs pyyaml; clusters.sh needs networkx as well. In a
+# fresh container both scripts degrade to a skip without this step.
+if python3 -c "import yaml, networkx" >/dev/null 2>&1; then
+  echo "  present."
+else
+  pip install --quiet pyyaml networkx >/dev/null 2>&1
+  python3 -c "import yaml, networkx" >/dev/null 2>&1 \
+    && echo "  installed." \
+    || { echo "  install failed; frontmatter-parse.sh and clusters.sh will not run this session."; STATUS=1; }
+fi
+
 echo "== qmd =="
 if ! command -v qmd >/dev/null 2>&1; then
   npm install -g @tobilu/qmd >/dev/null 2>&1 || echo "  install failed."
 fi
 if command -v qmd >/dev/null 2>&1; then
   [ -d .qmd ] || qmd init >/dev/null 2>&1
-  qmd collection add . --name notes --mask "**/*.md" >/dev/null 2>&1 || true
+  # The notes collection covers notes/ alone, per the two-collection design in
+  # CLAUDE.md; registering it at the repository root indexed ops/, templates/,
+  # archive/, and the manual alongside claims and diluted findability scoring.
+  qmd collection add ./notes --name notes --mask "**/*.md" >/dev/null 2>&1 || true
   [ -d .corpus ] && { qmd collection add ./.corpus --name corpus --mask "**/*.md" >/dev/null 2>&1 || true; }
   echo "  refreshing the index (first embedding run takes several minutes on CPU)..."
   qmd update >/dev/null 2>&1 && qmd embed >/dev/null 2>&1 \

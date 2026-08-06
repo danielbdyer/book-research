@@ -3,7 +3,7 @@ description: "Karla McLaren holds the emotion-work seat: she treats every emotio
 category: interlocutor
 seat: emotion-work
 clause: "Grief is the one emotion that cannot complete alone — it structurally requires witness and ceremony."
-works: ["The Language of Emotions"]
+works: ["The Language of Emotions (2010; unread here — the chair rests on the corpus's account)"]
 sources: ["atlas §IX.2", "arc-gloss: the five rooms", "arc-gloss: ch6", "walked IX", "space-around: around the chemistry"]
 topics: ["[[interlocutors]]", "[[relational-field]]"]
 ---
@@ -18,7 +18,9 @@ Her second contribution is a practice, and it is a refusal of both standard opti
 
 ## The counterweight worth keeping
 
-The live objection to her model is not a doubt about grief but a doubt about messengers, and it is current science rather than a philosophical position. Lisa Feldman Barrett's constructionism holds that emotions are built in the moment out of more basic ingredients rather than arriving pre-formed, which "sits in genuine tension with McLaren's discrete emissaries, each with its fixed gift and question." The survey states the question in one line — "are the messengers found or made?" — and proposes that the book need not choose: "molecules are real and composed — which may be the most graceful position available in that debate" (space-around: around the chemistry). Barrett has not been researched for this project and is on the pending-evaluation list in `ops/queue/candidates.md`.
+Two objections stand against her model, and they differ in standing. The first is current science at survey depth: Lisa Feldman Barrett's constructionism holds that emotions are built in the moment out of more basic ingredients rather than arriving pre-formed, which "sits in genuine tension with McLaren's discrete emissaries, each with its fixed gift and question." The survey states the question in one line — "are the messengers found or made?" — and proposes that the book need not choose: "molecules are real and composed — which may be the most graceful position available in that debate" (space-around: around the chemistry). Barrett has not been researched for this project and is on the pending-evaluation list in `ops/queue/candidates.md`.
+
+The second arrived 2026-08-05 from the founding paper of the book's own verification standard, and it is primary-sourced where Barrett's is not: Gendlin holds that an emotion is "sheer," internally one quality, and that emotions "often keep him from sensing that in himself which is the complex ground of the emotion" — his instruction is to move past the emotion to the felt sense beneath it, where hers is to open the emotion's mail. The quotation and its anchor are on his note ([[eugene gendlin]], from the 1964 reading); the two are co-patrons of the same chapter, so the disagreement sits inside the book's own front row.
 
 ## Where she sits in the book
 
@@ -32,6 +34,7 @@ Relevant Notes:
 - [[the messenger makes suffering unopened correspondence]] — her model carried as one of the book's figures
 - [[grief is sever plus love plus persist]] — the formula her finding places a required catalyst inside
 - [[the middle voice settles declaration against disclosure]] — the grammatical category her channeling practice instantiates for affect
+- [[eugene gendlin]] — the other empirical seat beneath the felt-shift material, whose standard her practice is measured by rather than beside
 
 Topics:
 - [[interlocutors]]
