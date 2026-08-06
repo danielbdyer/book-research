@@ -50,7 +50,7 @@ The founding paper is read — Gendlin 1964, complete on 2026-08-05, with the re
 - [[gendlin names four kinds of inward attention that are not focusing]] — his own counterfeit-detection, from a 1964 footnote: sheer emotion, the circumstantial orbit, the explanatory orbit, and self-engineering, each marked by the absence of referent movement. The self-engineering entry carries the first mechanism the vault holds for the surrender-and-will fork: willpower works only where experiencing already implicitly functions.
 - [[the second chair is the verification standard's own requirement]] — the same reading's relational consequence: solo focusing is "always unsteady and difficult" in Gendlin's words, and the listener's responses are what produce movement, so the corpus's Second Chair device is required by the standard itself rather than only by the relational doctrine.
 
-## The defence and the objections (2026-08-05)
+## The defence and the objections
 
 - [[introspective access is the felt shift's undefended premise]] — the objection the standard has never met, first-ranked of the sort's nine holes. It now carries a candidate treatment from the reading above: the narrowed certificate has a smaller attack surface, and whether the narrowed version survives Schwitzgebel is what his reading has to settle.
 - [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the first candidate answer the vault holds, and it comes from the standard's own author: the implicit order is precise enough to refuse a wrong word, and a refusal is a cost fluency never pays. Confirmed at the primary text on 2026-08-05: "his direct referent does the judging."
