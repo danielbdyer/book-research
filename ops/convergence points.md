@@ -14,9 +14,9 @@ Three limits on the measurement, stated before the results so they are read with
 2. **This measures where sessions linked, not where the book's mass is.** A concern the vault has never linked into would not appear here at all, however central it is to the book.
 3. **Chair counts measure the searching, not the field.** A region with no interlocutors may have none because nobody looked. This matters below and is called out where it does.
 
-## The five regions
+## The regions
 
-Snapshot: 213 claims, 815 claim-to-claim edges, five clusters. Names below are descriptions of the concern, written here for reference; they are not titles and they are not the author's.
+Snapshot: 213 claims, 815 claim-to-claim edges, five clusters, computed 2026-08-05; the descriptions below interpret that run. **Recomputed 2026-08-06 after the generative round's twenty-seven additions: 284 claims, 1,137 edges, six clusters.** The five regions below persist with their concerns intact, and one new region separated out of them: a reader-safety region of thirty-three notes gathered around [[the book cannot tell dissolution from regression and neither can its reader]], the basic posture, [[a framework for what is happening is itself a protective factor]], [[the book can only be auxiliary to a sovereign reader]], and the two census tensions ([[the required second person splits into a judge and a mirror]]; [[the map that protects the destabilized reader is the tool that becomes a ranking]]) — six tensions, five live, and ten evaluations, which makes it the graph's most tension-dense region per note. The dissolution-regression hub moved there from the verification region, so the safety material now clumps by what protects the reader rather than by what verifies the claim. The per-region prose below still describes the 2026-08-05 run; rerun `scripts/queries/clusters.sh` for current membership, and read the six-cluster output beside these descriptions until the next full reinterpretation. Names below are descriptions of the concern, written for reference; they are not titles and they are not the author's.
 
 ### 1 · Verification in the body, and what stresses it — 65 notes
 
