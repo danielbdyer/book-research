@@ -53,7 +53,7 @@ Open territory the corpus named and never developed, recorded so it is reachable
 The founding convergence is between two traditions, and the lineage sort asked who else reached the same structure without standing in either. Two arrivals came back, and both are recorded with the refusal that keeps them honest rather than flattering.
 
 - [[the always-there hides by being always there and wittgenstein said so without heidegger]] — Investigations §129 gives this map's own reason why the never-absent goes unnoticed, with no Heidegger underneath it.
-- [[ludwig wittgenstein]] — that arrival's chair, whose refusal halves the correspondence and is kept for that reason.
+- [[ludwig wittgenstein]] — that arrival's evaluation note, whose refusal halves the correspondence and is kept for that reason.
 - [[the state that arrives and the station that is earned were distinguished a millennium before the lattice that names them]] — the Sufi distinction the book already uses as its bypass guard, reached from outside both poles.
 - [[al-qushayri]] — the eleventh-century systematizer who drew it.
 
