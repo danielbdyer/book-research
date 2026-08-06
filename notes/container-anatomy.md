@@ -33,7 +33,7 @@ Open territory bearing on this anatomy that no document develops; each records w
 - [[a ritual can be designed to hold a self in place]] — nascent; whether an anchor is a container like any other
 - [[seasonal and weekly form can be templated]] — nascent; the form the metabolic arc does not supply
 
-## What reached the anatomy on 2026-08-05
+## What reached the anatomy from outside
 
 Three findings arrived from the lineage sort and the research syntheses. Two concern the ethic by which a living structure may be changed; the third concerns what counts as a container in the first place.
 
