@@ -75,6 +75,27 @@ if [ -f ops/orientation.md ]; then
   echo ""
 fi
 
+# The register countermeasure: printed at every session start, at the author's
+# direction (2026-08-05), deliberately redundant with CLAUDE.md, the
+# orientation, and the register itself. The canonical copy is the final section
+# of ops/methodology/prose register.md; where copies disagree, that one wins.
+echo "## The register countermeasure (applies to every sentence this session writes)"
+echo ""
+echo "1. Every statement is a complete sentence with a named subject and a finite verb. No fragment stands as a sentence; check the last sentence of each paragraph first, because fragments concentrate at the closes."
+echo "2. A vault-internal term (chair, seat, load, privated, the sort, the torch, and every other pipeline coinage) is unfolded in the sentence where it appears, or replaced with plain words. In replies to the author this is absolute: he authored the book the terms describe, not the terms."
+echo "3. A reference is a receipt, never the content. Every link or file path travels with one clause stating what it points to; a paragraph must still assert everything it asserted with its links struck out."
+echo "4. A figure of speech appears only inside quotation marks, where the quoted phrasing is itself the finding. Mirrored pairs, load-bearing metaphors, quotable endings, and self-narration are statements withheld, not style."
+echo "5. Every reply to the author is reread as him before it is sent, in full, applying lines 1 through 4."
+echo ""
+echo "Quality clause, equal force: none of this shortens or flattens. Long subordinate sentences are welcome when they unfold in reading order; richness is the right fact, complete, with its reason attached. The ban is on compression that withholds, never on complexity that delivers."
+echo ""
+if [ -f scripts/queries/countermeasure.sh ]; then
+  bash scripts/queries/countermeasure.sh --quiet || true
+fi
+echo ""
+echo "---"
+echo ""
+
 echo "## Workspace Structure"
 echo ""
 
