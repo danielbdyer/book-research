@@ -72,7 +72,7 @@ This concern borders [[contraction-not-corruption]], because the move from heali
 
 - [[abraham maslow]] — *peak experience* is his term, used nine times as a technical term in the executed draft and cited nowhere; more consequentially, the book's claim that the peak is not the work is his own late correction toward the plateau, made sixty years earlier by the man whose vocabulary the book is using.
 
-## The identity vocabulary's origin, added 2026-08-05
+## The identity vocabulary's origin
 
 - [[erik erikson]] — *identity crisis* is his coinage and the psychosocial moratorium is his construct, which makes him the frame behind Marcia's statuses and behind the book's identity loop. His refusal is the useful part: identity on his account has to be recognized by a community to hold, which is half of what a reader working alone from a formula can do.
 
