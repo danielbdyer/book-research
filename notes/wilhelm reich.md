@@ -1,38 +1,54 @@
 ---
-description: "Reich's character armor is protection formed against threat that persists in the body after the threat is gone — the book's fold, with a somatic mechanism — and he is cited nowhere while his descendants all are."
+description: "Reich's character armor names protection organized into posture and breathing that persists after the threat is gone, which is the book's fold; the abridged edition cites four of his descendants and neither him nor Lowen."
 category: interlocutor
 seat: candidate
 load: precedent
 discipline: clinical
-clause: "The fold — protection that outlives its cause and is legible in the body — is his construct, and every somatic authority the book does cite descends from him."
-recommendation: "Seat as reference-lineage with the precedent load, and cite him at the fold's first statement with the liabilities named in the same clause. The corpus queues three outside physics for the fold and has never named the psychology that already holds it."
-sources: ["abridged: acknowledgements", "abridged ch4", "space-around: around \"folded, not broken\""]
-works: ["Character Analysis (1933; the 1945 English edition adds the muscular-armor material)", "The Function of the Orgasm (1927)", "Alexander Lowen, The Language of the Body (1958), for the transmission"]
+clause: "Every somatic authority the abridged edition names works in a line that begins with him, and the construct they inherited is the one the book calls a fold."
+recommendation: "Seat as reference-lineage with the precedent load, and cite him where the fold is first stated, with the liabilities in the same clause. Read Character Analysis before the citation is made, because the correspondence is unchecked and because his disagreement with the book about how armor is met is worth more than the credit."
+sources: ["abridged: acknowledgements", "abridged ch9", "space-around: around \"folded, not broken\""]
+works: ["Character Analysis (1933; the muscular-armor material is added in the 1945 English edition, part three)", "The Function of the Orgasm (1927)", "Alexander Lowen, The Language of the Body (1958), for how the construct reached the field"]
 topics: ["[[interlocutors]]", "[[contraction-not-corruption]]"]
 ---
 
 # wilhelm reich
 
-Reich's *Character Analysis* argues that defense is not a set of occasional acts but a settled structure. A person under sustained threat organizes their whole manner — posture, breathing, muscular tone, timing, tone of voice — into a configuration that keeps the threat manageable, and that configuration then stays after the threat is gone, because it has become the person's character rather than their response. He called it **character armor**, insisted it was simultaneously psychological and muscular, and made the clinical consequence explicit: you cannot argue armor away, because it is not a belief; you work with it in the body, and what it was protecting becomes available when it softens.
+*Character Analysis* argues that defense is not a set of occasional acts but a settled arrangement of the whole person. Under sustained threat someone organizes posture, breathing, muscular tone, timing and voice into a configuration that makes the threat survivable, and the configuration then stays once the threat is gone, because by then it is their character rather than their response. Reich called it **character armor**, held that it is psychological and muscular at once, and drew the clinical consequence: armor cannot be argued away, because it is not a belief. It is worked with in the body, and what it was protecting becomes reachable as it softens.
 
-That is the book's fold, and it is closer than any of the analogies the corpus does reach for. The survey queues hysteresis from materials physics ("the fold persists after its cause not out of stubbornness but out of the ordinary physics of formed things"), attractor landscapes from dynamical systems, and Bateson's learning levels as "a formal ladder" for the folds — three imported metaphors for a construct that a psychologist had already stated in exactly the book's own register, which is the body.
+That is what the book calls a fold — protection that outlives its cause and is legible in the body.
 
-**And the corpus cites his descendants.** The abridged edition's acknowledgements name Peter Levine, Stephen Porges and Pat Ogden; chapter nine runs on Somatic Experiencing and Sensorimotor Psychotherapy. Both of those modalities sit in the body-psychotherapy line that runs Reich → Lowen → the field, and neither Reich nor Lowen appears in any of the eight documents. This is the sharpest form of the pattern: the lineage is present, credited from the middle down, and headless.
+**The corpus cites this lineage from the middle down.** The abridged edition's acknowledgements name Peter Levine, Stephen Porges and Pat Ogden; chapter nine runs on Somatic Experiencing and Sensorimotor Psychotherapy. Levine's and Ogden's modalities both sit in the body-psychotherapy line that begins with Reich and reaches the field through Lowen. Neither *Reich* nor *Lowen* appears anywhere in the eight documents, in any spelling.
 
-**What he would refuse.** The book's method, at the point where it matters most. Reich held that armor cannot be reached by insight, by naming, or by the client's own report — the whole reason he moved to bodywork was that the analytic conversation kept producing agreement without change. A reader working alone from a written diagnosis is doing the thing he abandoned. He would also refuse the gentleness: his technique was to press directly on the armor and provoke its discharge, which is not "the Gatekeeper is met with a bow, never a fight" ([[the gatekeeper is met with a bow never a fight]]). The book's protective structure is honored; Reich's is broken. That is a real disagreement about the same object, and it is worth more than the citation.
+**And the corpus reaches past him for the mechanism it wants.** The outward survey proposes hysteresis from materials physics — "the fold persists after its cause not out of stubbornness but out of the ordinary physics of formed things" — then attractor landscapes from dynamical systems, then Bateson's learning levels as "a formal ladder" for the folds. Three imported analogies for a construct a clinician had already stated in the book's own register, which is the body.
 
-**The liabilities, stated rather than managed.** Reich's later career went to orgone energy, accumulator boxes, an FDA injunction, the burning of his books by the US government, and his death in federal prison in 1957. Citing him brings that with it. Two things make it manageable and both belong in the same clause as the citation: *Character Analysis* predates the orgone period and is the work being cited, and the whole somatic field the book already relies on made exactly this separation decades ago.
+**The relation here is a headless lineage.** Not a restatement under the same word, which is Marcia and Minuchin, and not the originator's own correction, which is Maslow. Reich's descendants carry the citation and he does not, which is the form of debt that is hardest to notice, because the page looks well-sourced.
 
-**The evaluation is from secondary knowledge.** What the reading has to settle: whether Reich frames armor as a privation or as a presence, which decides whether he joins the privation convergence or stands with the Racket against it ([[the privation move is an independent arrival across five fields rather than a book coinage]]); whether the muscular claim is defensible now or has been quietly replaced by the polyvagal and interoceptive accounts the book already cites; and whether Lowen is the better citation, since he transmitted the construct without the liabilities.
+**One half of the correspondence is quoted and the other is not.** The corpus's side is above with anchors. Reich's construct is stated here in the vault's words from secondary knowledge; nothing above is his wording and *Character Analysis* has not been read here. The address for checking it is part three of the 1945 English edition, where the muscular material is set out. The match between armor and the fold is proposed rather than established.
+
+## What he would refuse
+
+The method, at the place where it matters. Reich moved to bodywork because the analytic conversation kept producing agreement without change — armor, on his account, cannot be reached by insight, by naming, or by a client's own report. A reader working alone from a written diagnosis is doing the thing he abandoned, and this is a sharper objection than most of the ones the vault holds, because it is aimed at the book's delivery rather than at its content.
+
+He would also refuse the gentleness. His technique was to press on the armor directly and provoke its discharge, which is not "the Gatekeeper is met with a bow, never a fight" (the book's rule, at [[the gatekeeper is met with a bow never a fight]]). The book honors protective structure; Reich broke it. That is a real disagreement about one object, and it is worth more to the book than the citation is.
+
+## The liabilities, stated rather than managed
+
+Reich's later career went to orgone energy, accumulator boxes, an FDA injunction, the burning of his books by order of a US court, and his death in federal prison in 1957. A citation brings that with it.
+
+Two facts make it workable and both belong in the same clause as the citation. *Character Analysis* predates the orgone period and is the work being cited. And the somatic field the book already leans on made exactly this separation decades ago, which means the book would be following its own sources' practice rather than inventing an exemption.
+
+## What the reading has to settle
+
+Whether Reich frames armor as an absence or as a presence, which decides whether he belongs in the privation convergence or stands with the Racket against it ([[the privation move is an independent arrival across five fields rather than a book coinage]]). Whether the muscular claim is still defensible or has been superseded by the polyvagal and interoceptive accounts the book already cites, in which case the citation is historical rather than evidential. And whether Lowen is the better name to print, since he transmitted the construct without the liabilities.
 
 ---
 
 Relevant Notes:
 - [[suffering is contraction never corruption]] — the doctrine the fold operationalizes, which his construct states in the body
-- [[the gatekeeper is met with a bow never a fight]] — where he and the book disagree about the same object, which is the more useful half of seating him
-- [[an enormous experience is interpreted by the structure it did not change]] — the structure in question, named a century earlier
-- [[the apparatus descends from the settlement the book positions itself against]] — the pattern this belongs to
-- [[the molecule catalogue divides by whether the construct existed before the formula]] — the same shape at the formula layer
+- [[the gatekeeper is met with a bow never a fight]] — the one object he and the book disagree about, which is the more useful half of seating him
+- [[an enormous experience is interpreted by the structure it did not change]] — the structure in question, described a century earlier
+- [[the apparatus descends from the settlement the book positions itself against]] — the finding this belongs to, as its clearest structural case
+- [[abraham maslow]] — the other unquoted correspondence from the same day, and a different relation: the originator's own correction
 
 Topics:
 - [[interlocutors]]
