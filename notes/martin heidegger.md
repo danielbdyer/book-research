@@ -34,6 +34,8 @@ Heidegger joined the Nazi party in 1933, served as rector of Freiburg from 1933 
 
 The book's own company already holds the escorts this stain requires. Paul Celan — seated in the reference lineage — visited Heidegger's hut at Todtnauberg on 25 July 1967 and wrote in the guestbook of "a hope, today, for a thinker's coming word in the heart"; the word never came, and the poem "Todtnauberg" holds that silence. Hannah Arendt — also seated — carried the complicated grace of "Martin Heidegger at Eighty" (1971). Adorno — seated among the critics of the age — wrote the standing prosecution, "The Jargon of Authenticity" (1964). The book does not need to import Heidegger's witnesses; it has already seated them, and a road to Heidegger that names the stain at the door can be walked in their company.
 
+One provenance line on the two sections above, because this note otherwise marks its verification and these paragraphs have none. The aletheia retraction earlier on this page carries its mark ("verified, crossover research 2026-08-03"); the stain section's two quoted phrases — the Bremen sentence and the guestbook line — are stated from general knowledge and are widely reproduced in the secondary literature, but they have not been checked here against their published homes (the Bremen lectures volume, Gesamtausgabe 79, and the facsimiled guestbook entry). A drafting session that quotes either attaches that caveat or waits for the verification pass.
+
 ---
 
 Relevant Notes:
