@@ -84,9 +84,9 @@ Neither is urgent for the manuscript, because the author has already demoted the
 
 The sort's own discipline-level finding belongs here too, because it is about this map rather than about any thinker. Of the three provenance families the sort found near-empty — analytic philosophy, systems and design, practitioner pedagogy — two have since gained chairs, and systems and design still holds only unread names (von Foerster, Alexander, Wilber). The finding survives the filling: it is a description of where the reading has gone so far, not of where the thinkers are.
 
-## The apparatus region's readings, evaluated 2026-08-05
+## The apparatus region's readings
 
-The author directed the evaluation of the four candidates the corpus names for the region of the graph that held no interlocutor at all. All four are now chairs with recommendations and undone readings.
+The author directed the evaluation of the four candidates the corpus names for the region of the graph that held no interlocutor at all (2026-08-05). All four are now chairs with recommendations and undone readings, and their sharpened questions sit in the reading queue's arbiter tier.
 
 - [[anna wierzbicka]] — the closure claim's named standard, and the first of these to read, because the alphabet cannot be called found until her method is met or declined.
 - [[kenneth burke]] — the objection that does not go away if her test is passed, and the only one here answerable in prose.
