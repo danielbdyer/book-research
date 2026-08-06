@@ -19,7 +19,7 @@ The grid's assessment of him is three words and they are accurate: "Precise, unm
 
 ## Why the sort wants him
 
-The book's verification standard is a report about a present bodily state — something shifted, or it did not. That is the exact category Schwitzgebel argues we are bad at. Where the confabulation literature may land beside the standard, his lands on it ([[introspective access is the felt shift's undefended premise]]).
+The book's verification standard is a report about a present bodily state — something shifted, or it did not. That is the exact category Schwitzgebel argues we are bad at. Where the confabulation literature may land beside the standard, his lands on it ([[introspective access is the felt shift's undefended premise]]). Since the Gendlin reading of 2026-08-05 his target is narrower and the hit harder to score: the standard's certificate is noticing change against no-change rather than describing inner states ([[the felt shift certifies carrying forward rather than correspondence]]), so his reading has to show that even that minimal report is unreliable — which is exactly the coverage question his evaluation lists below.
 
 The second reason is structural rather than about him. Analytic philosophy is one of three disciplines the sort finds near-empty across every load, and the grid reads that emptiness as a fact about the reading rather than about the field. Schwitzgebel and Wittgenstein are the two names that would begin to populate it, and they arrive from opposite directions — one at a claim the book makes, one against it.
 
