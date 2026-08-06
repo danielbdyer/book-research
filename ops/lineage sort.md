@@ -125,6 +125,9 @@ One caveat the grid attaches and the vault keeps: Wineland and Deida hold the on
 
 ## The holes, ranked
 
+**The sharpened form of this queue now lives at `ops/reading queue.md`** — each hole restated as a question that can fail, with its stake, a page-level address, what it inherits from completed readings, and the grade of the current evidence. The ranking below stands as the record of what the sort found; the queue is where the work is.
+
+
 The grid's search map, in its order, with its two addendum entries appended. This is the reading queue; entries become work through `ops/queue/candidates.md`.
 
 **What changed on 2026-08-05, and what did not.** Every hole below except the sixth now has at least one chair in `notes/`, written from the grid alone with no primary work read. That converts the queue from *find the names* to *do the readings*, which is progress of a specific and limited kind: a chair records what the vault expects a thinker to say and what it expects them to refuse, and both expectations are the grid's until a primary text is opened. Nothing below is closed. A hole closes when a reading has been done and the note says what the text actually holds.

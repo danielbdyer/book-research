@@ -1,5 +1,5 @@
 ---
-description: "The corpus offers the second chair as a treatment for the book's solitary-reading wound, and Gendlin's founding paper makes the listener a working part of the verification instrument itself, which upgrades the device from remedy to requirement."
+description: "The corpus offers the second chair as a remedy for the solitary-reading wound, and Gendlin's founding paper makes the listener part of the verification instrument itself, upgrading the device to a requirement."
 category: claim
 sources: ["atlas §XI.1d", "atlas §VII.10", "atlas §VIII", "Gendlin 1964, fn. 13 and def. 13 (read 2026-08-05; the reading record is archive/reading — gendlin, a theory of personality change (1964).md)"]
 topics: ["[[felt-shift]]", "[[relational-field]]"]
