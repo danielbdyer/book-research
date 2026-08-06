@@ -91,7 +91,7 @@ Five names were brought in against the four undefended claims and the fork above
 
 Holding a tension open has been a rule of deference here — resolving is the author's act — rather than a claim that non-resolution is better. One of the two syntheses received 2026-08-05 supplies the missing half.
 
-- [[the drive to closure has measurable costs]] — the need-for-cognitive-closure literature documents that seizing on an early answer and freezing on it produces replicable biases, which turns this map's practice from restraint into a position. It also supplies the criterion that keeps the position honest: a tension earns its openness by naming what would close it, so the four adversary holes above, which carry no treatment at all, are accurate rather than comfortable.
+- [[the drive to closure has measurable costs]] — the need-for-cognitive-closure literature documents that seizing on an early answer and freezing on it produces replicable biases, which turns this map's practice from restraint into a position. It also supplies the criterion that keeps the position honest: a tension earns its openness by naming what would close it, so the adversary holes above that still carry no treatment — three of the four, since the Gendlin reading gave the first a candidate — are accurate rather than comfortable.
 
 ## Adjacent maps
 
