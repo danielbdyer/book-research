@@ -29,8 +29,8 @@ Relevant Notes:
 - [[seventeen chapters rest at madhyama]] — the tension this fact sharpens, by removing writing as the explanation for what has not happened
 - [[a word at madhyama can be perfected forever a word at vaikhari can be answered]] — the distinction that keeps a finished draft short of an answerable one
 - [[the atlas was compiled from the arc and gloss treatment]] — the provenance relation this edition's absence from the colophons should be read against
-- [[the executed draft carries the arc's sequence without the treatment's five rooms]] — the content bound on this completeness
-- [[the drafts execute one of the seven designed apparatus devices]] — the apparatus bound on it
+- [[the executed draft carries the arc's sequence without the treatment's five rooms]] — the limit on the completeness: the prose pass carries the whole sequence while omitting the second edition's five-rooms material
+- [[the drafts execute one of the seven designed apparatus devices]] — the second limit: of the seven apparatus devices the treatment designs, the drafts execute one
 
 Topics:
 - [[book-structure]]
