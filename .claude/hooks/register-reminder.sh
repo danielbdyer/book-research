@@ -8,6 +8,9 @@
 # silently and speaks only if a surface has drifted or a wire is cut.
 # The canonical copy is the final section of ops/methodology/prose register.md.
 GUARD_DIR="$(cd "$(dirname "$0")" && pwd)"
+# Work from the repository root regardless of the invoking directory, so the
+# stamp check below finds its surfaces.
+cd "${CLAUDE_PROJECT_DIR:-$GUARD_DIR/../..}" || exit 0
 "$GUARD_DIR/vaultguard.sh" || exit 0
 
 INPUT=$(cat)
