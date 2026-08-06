@@ -21,7 +21,7 @@ For a single item, run the phases directly. For a batch, `/pipeline` runs them i
 
 ## The session rhythm
 
-Orient (read the injected tree, goals, and conditions), work (through the pipeline), persist (update `ops/goals.md`, capture friction into `ops/observations/`, let the auto-commit hook record the files). The goals file is what the next session reads first; leaving it current is the last task of every session.
+Orient (read the injected orientation, tree, goals, and conditions), work (through the pipeline), persist — four obligations before ending: update `ops/goals.md`; add the session's dated entry to `ops/completed.md` with paths to what it produced; keep `ops/orientation.md` current where the session moved the center; capture friction into `ops/observations/`. The auto-commit hook records the files. The orientation and goals are what the next session reads first; leaving them current is the last task of every session.
 
 ## Maintenance conditions
 
@@ -30,10 +30,13 @@ Maintenance responds to conditions, not schedules. The orientation report surfac
 | Condition | Response |
 |-----------|----------|
 | 3 or more inbox items | /reduce or /pipeline |
-| 10 or more observations | /rethink |
+| 10 or more open observations | /rethink |
 | 5 or more operational tensions | /rethink |
 | 5 or more unprocessed session records | /remember --mine-sessions |
+| qmd missing, or notes newer than the semantic index | `scripts/bootstrap.sh`, or `qmd update && qmd embed` |
+| Methodology notes 30 or more days behind config changes | /rethink drift |
 | Claims missing topic map membership | /reflect |
+| Nascent stubs outnumbering the claims filled from them | fill or decline, per `scripts/queries/nascent-stubs.sh` |
 | Wiki links that no longer resolve | fix immediately |
 
 Read [[configuration]] next for the settings behind these behaviors.

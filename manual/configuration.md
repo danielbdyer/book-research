@@ -17,7 +17,7 @@ generated_from: "arscontexta-0.8.0"
 
 ## The standing policies
 
-Two author directives govern all writing in the vault and bind the skills: naming is denotative (narrative vocabulary lives in `notes/figure glossary.md` as content), and prose is expository and evidential (complete sentences, quotes marked and anchored, system references self-explanatory). Both are stated in full in `ops/methodology/`. A third directive governs structure: manuscript placements are never inferred; the `supports:` field on claims stays empty until the author makes a placement.
+The standing directives that govern writing have grown well past the founding pair, and the live index is `ops/methodology/methodology.md`, one line per directive. The founding pair still binds — naming is denotative (narrative vocabulary lives in `notes/figure glossary.md` as content) and prose is expository and evidential (complete sentences, quotes marked and anchored) — and the register countermeasure of 2026-08-05 binds every sentence a session writes: six lines, stamped at every surface a session loads and verified by `scripts/queries/countermeasure.sh` at each session start and each turn. A third founding directive governs structure: manuscript placements are never inferred; the `supports:` field on claims stays empty until the author makes a placement.
 
 ## Semantic search
 
