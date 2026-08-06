@@ -68,7 +68,7 @@ Seven standing directives, stated below, govern all prose and naming. Each is re
 | `archive/` | Provenance records: source notes for processed documents in `sources/`, reading records for completed primary readings, research records for verified outside sweeps. |
 | `templates/` | Note templates with `_schema` blocks — the authoritative schema. |
 | `manual/` | User documentation. |
-| `ops/` | Operational state: the orientation surface, goals, the completed log, the decisions register, config, queue, sessions, observations, tensions, methodology, the chapter concordance, the open-corpus inventory, and the rethink log. |
+| `ops/` | Operational state: the orientation surface, goals, the completed log, the decisions register, config, queue, sessions, observations, tensions, methodology, the reading queue, the chapter concordance, the formula audit, the inherited-constructs register, the graph's convergence points, the manuscript-readiness conditions, the open-corpus inventory, the register-violations log, and the rethink log. |
 | `provenance/` | Reconstructions of the corpus's making, held as consulted works by author decision. Not sources; the policy is `ops/methodology/personal provenance.md`. |
 | `scripts/queries/` | Ripgrep-based graph queries. `scripts/bootstrap.sh` restores tools and extracts the corpus to `.corpus/` in a fresh container. |
 | `.claude/` | Skills and hooks, versioned with the vault. |
