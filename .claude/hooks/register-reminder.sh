@@ -12,7 +12,7 @@ GUARD_DIR="$(cd "$(dirname "$0")" && pwd)"
 
 INPUT=$(cat)
 
-echo "REGISTER (reread the reply as the author before sending): every statement is a complete sentence with a named subject and a finite verb, and paragraph closes are checked first; every pipeline coinage is unfolded or replaced with plain words; every reference is a receipt carrying one clause of its content; figures of speech appear only inside quotation marks. The ban is on compression that withholds, never on complexity that delivers."
+echo "REGISTER (reread the reply as the author before sending): every statement is a complete sentence with a named subject and a finite verb, and paragraph closes are checked first; every pipeline coinage is unfolded or replaced with plain words; every reference is a receipt carrying one clause of its content; figures of speech appear only inside quotation marks; every abstract noun standing for something specific is expanded where it stands, so the sentence names the thing, not its category, checked first at consequence-sentences. The ban is on compression that withholds, never on complexity that delivers."
 
 if [ -f scripts/queries/countermeasure.sh ]; then
   bash scripts/queries/countermeasure.sh --turn || true

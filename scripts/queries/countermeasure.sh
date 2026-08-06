@@ -22,14 +22,16 @@ cd "$(dirname "$0")/../.." || exit 1
 MODE="$1"
 FAIL=0
 
-# The six signatures, one per line of the countermeasure plus the quality
-# clause. Each must appear verbatim, on one line, at every document surface.
+# The seven signatures, one per line of the countermeasure plus the quality
+# clause. The seventh was added 2026-08-06 with line 5 (name the thing, not
+# its category), the amendment protocol's first real exercise. Each must appear verbatim, on one line, at every document surface.
 SIG1='complete sentence with a named subject and a finite verb'
 SIG2='every other pipeline coinage'
 SIG3='a receipt, never the content'
 SIG4='only inside quotation marks'
 SIG5='reread as him before it is sent'
 SIG6='never on complexity that delivers'
+SIG7='names the thing, not its category'
 
 DOC_SURFACES='CLAUDE.md
 ops/orientation.md
@@ -47,7 +49,7 @@ check_doc () {
     return
   fi
   n=1
-  for sig in "$SIG1" "$SIG2" "$SIG3" "$SIG4" "$SIG5" "$SIG6"; do
+  for sig in "$SIG1" "$SIG2" "$SIG3" "$SIG4" "$SIG5" "$SIG6" "$SIG7"; do
     if ! grep -qF "$sig" "$f"; then
       MISSING="$MISSING $n"
     fi
@@ -106,6 +108,6 @@ fi
 if [ "$MODE" = "--quiet" ]; then
   echo "STAMP CHECK: the register countermeasure is whole at every surface, and the wiring that delivers it is intact."
 elif [ -z "$MODE" ]; then
-  echo "The register countermeasure is whole at every surface — six signatures at six document surfaces, both hooks wired, the violations log present."
+  echo "The register countermeasure is whole at every surface — seven signatures at six document surfaces, both hooks wired, the violations log present."
 fi
 exit 0

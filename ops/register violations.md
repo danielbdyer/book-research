@@ -6,3 +6,4 @@
 |---|---|---|
 | 2026-08-05 | "Recorded on the chair, not resolved." | 1 (no subject or verb), 2 (an unfolded vault term), 4 (an ending compressed to sound finished) — the founding specimen |
 | 2026-08-05 | "a subject and a verb" written where the canonical line says "a named subject and a finite verb" | Not a prose violation but the first recorded drift of a stamped copy, one day after installation — the case that turned the stamp check from a label check into a signature check |
+| 2026-08-06 | "That deepens the wound, because it now binds the standard and not only the doctrine, and it strengthens the treatment, because a device that had a lineage now has a mechanism." | Seven abstract nouns with none of their referents named in the sentence, plus a mirrored pair — the founding specimen of line 5, which it occasioned |
