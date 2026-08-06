@@ -20,7 +20,7 @@ A piece of writing is ready when the vault holds all six for it, whatever that p
 
 4. **Its tensions are visible and marked as not to be resolved.** The author resolves a tension in the writing, deliberately. What the vault owes is that he can see which sentences would close one by accident.
 
-5. **Its adversary is seated, or the absence is named.** He should know where the thin ice is before he writes over it. Four of the book's load-bearing claims currently have no adversary at all, each named at `ops/lineage sort.md`; writing over one of those is a decision rather than an oversight, and it should be made as one.
+5. **Its adversary is seated, or the absence is named.** He should know where the thin ice is before he writes over it. When this file was written, four of the book's load-bearing claims had no adversary at all; three of the four now have adversary evaluations written and none of them read — the felt shift (Nisbett and Wilson, Schwitzgebel, and the reseated Katz), the participation law (Gellner), the Stance (Britton) — and the pre/trans distinction still has nobody seated against it. Writing over one of those is a decision rather than an oversight, and it should be made as one; the ranked questions are in `ops/reading queue.md`.
 
 6. **Its constraints are stated.** Chiefly the disclosure order from `ops/methodology/the book's current shape.md`: nothing may be revealed early that the author learned late, in any grammatical person. Also the stance's refusal of efficacy claims, and the register.
 
