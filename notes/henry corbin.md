@@ -18,6 +18,8 @@ The refusal kept: the passage was one-way, and Corbin said so. Using the key did
 
 One charge to meet, added 2026-08-05 and not yet researched here. Steven Wasserstrom's argument against the Eranos circle is that it lifted esotericism clean out of its legal, communal and juridical context, keeping the visionary material and discarding the obligations it was embedded in. The mesh grid's observation is that this is "structurally the same charge available against the book's use of Trika" (`mesh grid: tier 4`) — and the vault already holds the same objection from another direction, in the tradition's own refusals and in the question of the road into the valley. Corbin is therefore both the nearest footstep and the nearest cautionary case, which is a more useful pairing than either alone.
 
+Evidence standing (added 2026-08-06). The quotations on this note come from the crossover research's web-verified survey of 2026-08-03 (archive/research — crossover cluster background.md), not from the work's own pages, which remain unread here; the recommendation rests on that survey depth.
+
 ---
 
 Relevant Notes:

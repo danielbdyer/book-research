@@ -14,6 +14,8 @@ Loriliai Biernacki's *The Matter of Wonder* (Oxford, 2023) takes Abhinavagupta's
 
 The refusal kept: her destination is metaphysics — a model for contemporary theory and environmental thought — not practice. The living developer develops the crossover toward theory, which means the lane this book occupies, the practice verified in the body, stays unoccupied even by the field's most current work. Her camatkāra is also worth the book's attention on its own: the tradition's own word for wonder as a mark of recognition.
 
+Evidence standing (added 2026-08-06). The quotations on this note come from the crossover research's web-verified survey of 2026-08-03 (archive/research — crossover cluster background.md), not from the work's own pages, which remain unread here; the recommendation rests on that survey depth.
+
 ---
 
 Relevant Notes:

@@ -14,6 +14,8 @@ Jarava Lal Mehta (1912–1988) taught at Banaras Hindu University and later at H
 
 The refusal kept: Mehta is the standing refusal of the shortcut. The scholar best positioned to declare the traditions one held instead that the encounter cannot be skipped to, and fusion talk that spares the reader the voyage is what his life's work declines.
 
+Evidence standing (added 2026-08-06). The quotations on this note come from the crossover research's web-verified survey of 2026-08-03 (archive/research — crossover cluster background.md), not from the work's own pages, which remain unread here; the recommendation rests on that survey depth.
+
 ---
 
 Relevant Notes:

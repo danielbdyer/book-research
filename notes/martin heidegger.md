@@ -36,6 +36,8 @@ The book's own company already holds the escorts this stain requires. Paul Celan
 
 One provenance line on the two sections above, because this note otherwise marks its verification and these paragraphs have none. The aletheia retraction earlier on this page carries its mark ("verified, crossover research 2026-08-03"); the stain section's two quoted phrases — the Bremen sentence and the guestbook line — are stated from general knowledge and are widely reproduced in the secondary literature, but they have not been checked here against their published homes (the Bremen lectures volume, Gesamtausgabe 79, and the facsimiled guestbook entry). A drafting session that quotes either attaches that caveat or waits for the verification pass.
 
+The load designation on this note — thesis-bearing — is the lineage sort's assignment (2026-08-05, recorded in the crossing at `ops/lineage sort.md`), grounded in the aletheia convergence being one of the book's two named foundations. The author has not cosigned it individually, and the four refusals above remain derived, awaiting his testing.
+
 ---
 
 Relevant Notes:

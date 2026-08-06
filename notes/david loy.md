@@ -1,5 +1,5 @@
 ---
-description: "David Loy independently confirms the book's first contraction through Freud, Becker, and Nāgārjuna, and carries the adversary designation against a different claim — the route to selflessness through the fullness of the I."
+description: "David Loy independently confirms the book's first contraction through Freud, Becker, and Nāgārjuna, and carries the adversary designation against another claim — the route to selflessness through the fullness of the I."
 category: interlocutor
 seat: reference-lineage
 load: adversary
