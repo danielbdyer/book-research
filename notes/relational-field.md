@@ -46,9 +46,9 @@ This concern borders [[answerability]], because a word becomes answerable only b
 - [[ubuntu personhood]] — a constitutive account of relation, where the person is made in it rather than meeting another across it.
 - [[de jaegher and di paolo]] — their evaluation note, holding the mechanism, with the refusal that participatory sense-making is a process rather than a presence.
 
-## The participation law's witnesses and its missing opponent, added 2026-08-05
+## The participation law's witnesses, its clinical bearers, and its missing opponent
 
-The claim that the knower is inside what they know is the condition this map's law states first, and the lineage sort tested it twice: once for who reached it independently of the traditions the book stands on, and once for who argues against it. The first search returned five names from four disciplines. The second returned nothing from the roster at all.
+The claim that the knower is inside what they know is the condition this map's law states first, and the lineage sort tested it twice on 2026-08-05: once for who reached it independently of the traditions the book stands on, and once for who argues against it. The first search returned five names from four disciplines; the second returned nothing from the roster at all. Two clinical bearers surfaced in the same round from reading the formulas rather than any list.
 
 - [[the participation law has a witness who came to it through crystallography]] — the arrival with no debt to either founding pole, which would make the law a finding rather than a lineage position.
 - [[michael polanyi]] — that witness's chair, reseated to hold two positions at once: the felt sense's second voice, and the law's only outside arrival.
