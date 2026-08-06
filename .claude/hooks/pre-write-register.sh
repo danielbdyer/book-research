@@ -13,12 +13,17 @@ GUARD_DIR="$(cd "$(dirname "$0")" && pwd)"
 cd "${CLAUDE_PROJECT_DIR:-$GUARD_DIR/../..}" || exit 0
 [ -f scripts/queries/register-tripwires.py ] || exit 0
 
-python3 - "$PWD" << 'PYEOF'
+PAYLOAD_FILE=$(mktemp) || exit 0
+trap 'rm -f "$PAYLOAD_FILE"' EXIT
+cat > "$PAYLOAD_FILE"
+
+python3 - "$PWD" "$PAYLOAD_FILE" << 'PYEOF'
 import json, subprocess, sys, os
 
-root = sys.argv[1]
+root, payload_file = sys.argv[1], sys.argv[2]
 try:
-    payload = json.load(sys.stdin)
+    with open(payload_file, encoding="utf-8") as fh:
+        payload = json.load(fh)
 except Exception:
     sys.exit(0)
 ti = payload.get("tool_input", {}) or {}
