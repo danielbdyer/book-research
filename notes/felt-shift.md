@@ -42,9 +42,9 @@ Open territory bearing on the verification standard, none of it yet substantiate
 
 This concern borders [[relational-field]], because the book uses the field as a second check on what the solitary body reports. It borders [[answerability]], because the book applies the same test to reading itself (did the understanding arrive, or was it constructed?). It borders [[methods]], because the vault inherits the standard's humility without possessing the organ.
 
-## The first primary reading, done 2026-08-05
+## The founding paper, read whole
 
-The founding paper is read — Gendlin 1964, complete, with the record at `archive/reading — gendlin, a theory of personality change (1964).md` — and it changed this map's standing question.
+The founding paper is read — Gendlin 1964, complete on 2026-08-05, with the record at `archive/reading — gendlin, a theory of personality change (1964).md` — and it changed this map's standing question.
 
 - [[the felt shift certifies carrying forward rather than correspondence]] — the reading's central finding. Gendlin defines a symbolization's correctness as its experienced effect on the process and denies in his own footnote that it means the symbols match the referent. His certificate is movement; the book's use of it is truth. The narrowing shrinks the introspective demand the standard makes — noticing change against no-change, not describing inner contents — and it costs the book the power to underwrite doctrine with a shift.
 - [[gendlin names four kinds of inward attention that are not focusing]] — his own counterfeit-detection, from a 1964 footnote: sheer emotion, the circumstantial orbit, the explanatory orbit, and self-engineering, each marked by the absence of referent movement. The self-engineering entry carries the first mechanism the vault holds for the surrender-and-will fork: willpower works only where experiencing already implicitly functions.
