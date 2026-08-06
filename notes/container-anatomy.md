@@ -50,7 +50,7 @@ Three findings arrived from the lineage sort and the research syntheses. Two con
 
 This concern borders [[contraction-not-corruption]], because the anatomy's failure modes are that map's subject. It borders [[interlocutors]], because the twenty-nine builders in the book's company are the anatomy's evidence base. It borders [[book-structure]], because the book's central conceit — a house the reader inhabits for sixteen days — is this anatomy made walkable.
 
-## Two names the anatomy runs on and never cites (2026-08-05)
+## Two names the anatomy runs on and never cites
 
 - [[set and setting]] — the corpus's own survey states that Wall, Door and Floor are what *setting* is made of and the Stance is what *set* is made of, calls the crossover unstated, and names neither Leary who coined the pair nor Zinberg who made it a framework. The identification cuts both ways: it makes set-and-setting research evidence about the anatomy, including Zinberg's finding that the operative variable is the group's rituals rather than the individual.
 - [[carl rogers]] — his 1957 conditions are a specified, falsifiable version of what the book's container describes, with the claim attached that they are necessary and sufficient, so technique and diagnosis are not doing the work.
