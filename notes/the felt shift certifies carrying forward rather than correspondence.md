@@ -1,5 +1,5 @@
 ---
-description: "In Gendlin's 1964 paper the correctness of a symbolization is defined as its experienced effect on the process, explicitly not as a match between symbols and referent, so the shift certifies movement where the book reads it as certifying truth."
+description: "Gendlin's 1964 paper defines a symbolization's correctness as its experienced effect on the process, explicitly not as a match between symbols and referent, so the shift certifies movement where the book reads truth."
 category: claim
 sources: ["atlas §III", "walked III", "author statement, 2026-08-04", "Gendlin 1964, fn. 9 and def. 11 (read 2026-08-05; the reading record is archive/reading — gendlin, a theory of personality change (1964).md)"]
 topics: ["[[felt-shift]]", "[[tensions]]"]

@@ -1,5 +1,5 @@
 ---
-description: "A 1964 footnote lists sheer emotion, the circumstantial orbit, the explanatory orbit, and self-engineering as inward attention that is not direct reference, which gives the book's counterfeit problem a taxonomy from the standard's own author."
+description: "A 1964 footnote lists sheer emotion, the circumstantial orbit, the explanatory orbit, and self-engineering as inward attention that is not focusing — the counterfeit problem given a taxonomy by the standard's own author."
 category: claim
 sources: ["Gendlin 1964, fn. 13 (read 2026-08-05; the reading record is archive/reading — gendlin, a theory of personality change (1964).md)", "atlas §XI.1a", "walked IX"]
 topics: ["[[felt-shift]]", "[[contraction-not-corruption]]"]

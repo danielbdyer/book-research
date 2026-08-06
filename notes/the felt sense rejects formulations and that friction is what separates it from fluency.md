@@ -3,8 +3,7 @@ description: Gendlin's implicit order is precise enough to refuse a wrong word, 
 category: claim
 sources: ["standing wave: §1", "standing wave: recommendations", "space-around: around the instrument (counterweights)"]
 topics: ["[[felt-shift]]", "[[tensions]]"]
-state: privated
-privation: "the primary work behind the standing wave paper has not been read"
+state: full
 ---
 
 # the felt sense rejects formulations and that friction is what separates it from fluency
@@ -19,7 +18,7 @@ That supplies a test. A confirmation produced by fluent prose is agreement — i
 
 ## Substantiation
 
-- `privated` — the Gendlin passages are quoted at second hand from the paper, which cites "The New Phenomenology of Carrying Forward" (2004). The paper carries its own caveat that "implicit precision" is the editorial title of the collected works rather than a verbatim phrase, and that one attributed string was not verified against a primary source. Before manuscript use these need checking at the text — which is the same discipline applied to Mehta's dictum and al-Qushayrī's formulation.
+- **The property now stands on a primary text, read 2026-08-05.** Gendlin's founding paper states it twice in its own words: a person "may find that his previous formulation which felt correct must be replaced by another which now feels more correct," and "Not even the individual himself judges it but, we might say somewhat poetically, his direct referent does the judging" (Gendlin 1964, def. 8 and fn. 11; the reading record is `archive/reading — gendlin, a theory of personality change (1964).md`). The 2004 passages quoted above remain second-hand from the standing wave paper and still need checking at their own text before manuscript use — but the claim no longer depends on them, because the 1964 paper carries it.
 - Why this is a candidate treatment rather than an answer. The test separates disciplined from undisciplined not-knowing, and the corpus's counterweight is about a reader whose bodily yes is produced by the prose. A reader who never notices the felt sense refusing anything has no friction and, on this test, no verification — which is checkable from the inside in a way the standard previously was not. What it does not do is answer the introspective-unreliability objection, which holds that the *report* of a rejection may itself be unreliable. The test raises the bar; it does not clear it.
 - The paper states the strongest objection to itself and it is the same one the author states about his own writing. "'Not-knowing as a way of knowing' is exactly the self-flattering mysticism that a fluent, ambiguity-producing system — or a poetically-inclined human — would generate to dignify mere vagueness," and "the very fluency of this essay is grounds for suspicion of it." Its own verdict: the objection "wins against the mysticism and loses against the mechanism," because the disciplined cases pay costs that vagueness never pays. That is precisely the distinction the book needs and does not currently draw.
 - Two frictions from other territory sit in the same criterion and are worth keeping together, because a test with one instance is a definition. Polanyi's pianist stumbles when attention shifts to the fingers, which is a skill ruptured by the demand to make it explicit ([[the participation law has a witness who came to it through crystallography]]). And the closure literature reports replicable, measurable bias under time pressure and fatigue ([[the drive to closure has measurable costs]]).

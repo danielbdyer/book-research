@@ -42,12 +42,19 @@ Open territory bearing on the verification standard, none of it yet substantiate
 
 This concern borders [[relational-field]], because the book uses the field as a second check on what the solitary body reports. It borders [[answerability]], because the book applies the same test to reading itself (did the understanding arrive, or was it constructed?). It borders [[methods]], because the vault inherits the standard's humility without possessing the organ.
 
+## The first primary reading, done 2026-08-05
+
+The founding paper is read — Gendlin 1964, complete, with the record at `archive/reading — gendlin, a theory of personality change (1964).md` — and it changed this map's standing question.
+
+- [[the felt shift certifies carrying forward rather than correspondence]] — the reading's central finding. Gendlin defines a symbolization's correctness as its experienced effect on the process and denies in his own footnote that it means the symbols match the referent. His certificate is movement; the book's use of it is truth. The narrowing shrinks the introspective demand the standard makes — noticing change against no-change, not describing inner contents — and it costs the book the power to underwrite doctrine with a shift.
+- [[gendlin names four kinds of inward attention that are not focusing]] — his own counterfeit-detection, from a 1964 footnote: sheer emotion, the circumstantial orbit, the explanatory orbit, and self-engineering, each marked by the absence of referent movement. The self-engineering entry carries the first mechanism the vault holds for the surrender-and-will fork: willpower works only where experiencing already implicitly functions.
+
 ## The defence and the objections (2026-08-05)
 
-- [[introspective access is the felt shift's undefended premise]] — the objection the standard has never met, first-ranked of the sort's nine holes.
-- [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the first candidate answer the vault holds, and it comes from the standard's own author: the implicit order is precise enough to refuse a wrong word, and a refusal is a cost fluency never pays.
+- [[introspective access is the felt shift's undefended premise]] — the objection the standard has never met, first-ranked of the sort's nine holes. It now carries a candidate treatment from the reading above: the narrowed certificate has a smaller attack surface, and whether the narrowed version survives Schwitzgebel is what his reading has to settle.
+- [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the first candidate answer the vault holds, and it comes from the standard's own author: the implicit order is precise enough to refuse a wrong word, and a refusal is a cost fluency never pays. Confirmed at the primary text on 2026-08-05: "his direct referent does the judging."
 - [[the verification standard rests on one name and cannot be defended by company]] — why the standard cannot be defended by company.
-- [[eugene gendlin]] — the chair, written 2026-08-05, with the primary reading still to do.
+- [[eugene gendlin]] — the chair, now carrying the reading section; *Focusing*, *A Process Model*, and the outcome research remain unread.
 - [[nisbett and wilson]] — the canonical empirical strike, and the first paper to read of all of them, because its own carve-out may put the felt shift outside its range.
 - [[eric schwitzgebel]] — the chair that closes that carve-out, arguing introspection unreliable about present experience rather than only about its causes.
 - [[the basic posture is describable as dissociation and the harm literature is unread]] — the objection aimed at what the standard is used on rather than at the standard itself: the same posture read clinically is a symptom.
