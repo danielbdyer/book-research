@@ -25,6 +25,7 @@ Relevant Notes:
 - [[the unfolding of the center is planted half-erased and finished at a mirror]] — what the book does with his formula
 - [[the open center is made possible by the three structures and identical with none of them]] — the center his formula speaks of
 - [[utpaladeva]] — the founder of the school his twenty sūtras condense
+- [[the recognition school installs wonder at the definition of consciousness]] — his gloss closes the identification: vimarśana, "whose other name is camatkāra," and the stages of yoga as wonder
 
 Topics:
 - [[interlocutors]]

@@ -30,6 +30,7 @@ The author has since stated his position (2026-08-03): the tradition deserves it
 ---
 
 Relevant Notes:
+- [[the recognition school installs wonder at the definition of consciousness]] — the treatment's newest material: the road into the valley has a candidate route through art, and the connection is the tradition's own rather than the book's imposition
 - [[the kashmir shaiva tradition underlies the book rather than joining its company]] — the recorded arrangement this tension questions
 - [[the kashmir shaiva tradition would decline four of the book's deepest moves]] — the refusals derived at the author's request, awaiting his testing
 - [[the executed draft carries the arc's sequence without the treatment's five rooms]] — the rooms grouping has already been dropped once, by the executed draft

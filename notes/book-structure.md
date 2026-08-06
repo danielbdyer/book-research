@@ -101,6 +101,7 @@ The provenance record of 2026-08-02 and after — the accounts of the corpus's m
 - [[the voice follows every reach with a release]] — the composure rhythm of the voice at its high-water mark
 - [[the voice names the move it has just made]] — how the earliest draft discharges the analytical reader's suspicion
 - [[the voice keeps the reader located in a walkable space]] — the house conceit working as navigation, page by page
+- [[the confessions is address to a thou that the reader overhears]] — a third position for the open person question, found inside the author's own named model
 
 ## The open territory
 

@@ -30,6 +30,7 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 - [[the fruit that falls is the word become deed]] — the release doctrine in the orchard's vocabulary
 - [[the sixteenth poem returns the book's language to the life it came from]] — the blade lived at the size of a text: the trembling as the sentence leaves the architecture
 - [[the gap between two states is where the concealed shows itself]] — the teaching that the silence between a spoken word and its answer is a crossing, not a failure
+- [[the confessions is address to a thou that the reader overhears]] — the author's named model read for its form: address sustained past the reader, who receives everything and is the target of nothing
 
 ## Adjacent maps
 

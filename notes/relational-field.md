@@ -28,6 +28,7 @@ The atlas records the structural problem under its own heading at §VIII — "th
 - [[a codex is a one-chair technology making a two-chair argument]] — the structural problem stated as a tension
 - [[the ink that listens is the relational field at the scale of a page]] — the image that puts this map's claim on the book's own surface
 - [[the circle is the form in which the naked sentence gets met]] — the image of the practice form witnessing requires
+- [[zen's makyo instruction refuses the self-certifying experience]] — a thousand-year precedent for the field as second check: the teacher, not the experience, verifies
 
 ### Nascent stubs
 

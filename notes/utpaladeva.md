@@ -26,6 +26,7 @@ Relevant Notes:
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the convergence he anchors from the tradition's side
 - [[reading is remembering]] — his school's doctrine, printed as the book's promise
 - [[kshemaraja]] — the disciple generation that condensed his school
+- [[the recognition school installs wonder at the definition of consciousness]] — the tie scholarship credits to him first: camatkāra bound to vimarśa, wonder installed where consciousness is defined
 
 Topics:
 - [[interlocutors]]
