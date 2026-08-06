@@ -100,6 +100,20 @@ if ! grep -qF 'session-orient.sh' '.claude/settings.json'; then
   echo "  WIRING BROKEN: .claude/settings.json does not register the session-start hook"
   FAIL=1
 fi
+for gate in .claude/hooks/pre-write-register.sh .claude/hooks/post-bash-register.sh scripts/queries/register-tripwires.py; do
+  if [ ! -f "$gate" ]; then
+    echo "  WIRING BROKEN: $gate is missing — the write-time gate installed after the seventh correction is gone"
+    FAIL=1
+  fi
+done
+if ! grep -qF 'pre-write-register.sh' '.claude/settings.json'; then
+  echo "  WIRING BROKEN: .claude/settings.json does not register the pre-write gate"
+  FAIL=1
+fi
+if ! grep -qF 'post-bash-register.sh' '.claude/settings.json'; then
+  echo "  WIRING BROKEN: .claude/settings.json does not register the shell-channel gate"
+  FAIL=1
+fi
 if [ ! -f 'ops/register violations.md' ]; then
   echo "  MISSING: ops/register violations.md — the violations log is gone"
   FAIL=1
@@ -141,6 +155,6 @@ fi
 if [ "$MODE" = "--quiet" ]; then
   echo "STAMP CHECK: the register countermeasure is whole at every surface, and the wiring that delivers it is intact."
 elif [ -z "$MODE" ]; then
-  echo "The register countermeasure is whole at every surface — ten signatures at six document surfaces, both hooks wired, the violations log present, and no superseded count phrase anywhere."
+  echo "The register countermeasure is whole at every surface — ten signatures at six document surfaces, all four hooks wired, the violations log present, and no superseded count phrase anywhere."
 fi
 exit 0
