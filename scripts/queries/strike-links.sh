@@ -35,7 +35,9 @@ marks opens closes reads writes quotes cites claims argues refuses requires
 produces supplies covers reaches fails works serves starts ends earns waits
 follows leads moves changes grows falls proves tests checks confirms denies
 adds drops wins loses tells sends builds finds found holds kept stated named
-recorded survives governs decides settles arrives arrived""".split())
+recorded survives governs decides settles arrives arrived describe describes
+described develops develop functions function meets meet cuts cut reports
+report reported""".split())
 
 rows = []
 for p in sorted(pathlib.Path("notes").glob("*.md")):
