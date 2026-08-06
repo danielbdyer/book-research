@@ -39,12 +39,12 @@ Open territory bearing on the field that no document develops.
 
 This concern borders [[answerability]], because a word becomes answerable only before someone (the corpus cites Arendt: the who of a person is disclosed only in action before witnesses). It borders [[tensions]], where the solitary-read problem is listed with its treatment. It borders [[recognition]], because the book identifies mutual recognition as the field's fullest act.
 
-## The mechanism, added 2026-08-05
+## The mechanism
 
 - [[the third thing has a mechanism in participatory sense-making]] — enactivist work holding that an interaction can take on autonomy and generate meaning irreducible to either party, with entrainment research as the measured half. The first mechanism this concern has had.
-- [[the relational vocabulary has an ontology and it is buber's rather than benjamin's]] — the ontological bearer proposed the same week.
+- [[the relational vocabulary has an ontology and it is buber's rather than benjamin's]] — the proposal that the vocabulary's real bearer is Buber's I-Thou relation, not Benjamin's thirdness, which decides whom the book owes the citation.
 - [[ubuntu personhood]] — a constitutive account of relation, where the person is made in it rather than meeting another across it.
-- [[de jaegher and di paolo]] — the chair for the mechanism, with the refusal that it is a process rather than a presence.
+- [[de jaegher and di paolo]] — their evaluation note, holding the mechanism, with the refusal that participatory sense-making is a process rather than a presence.
 
 ## The participation law's witnesses and its missing opponent, added 2026-08-05
 
