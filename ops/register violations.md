@@ -1,6 +1,6 @@
 # Register violations
 
-<!-- The log the register countermeasure writes to when the author flags a sentence. One row per violation: the date, the sentence quoted, and which of the five lines it broke. The log exists because the countermeasure's one measured pattern — fragments concentrate at paragraph closes — was found only by counting past violations, and the next correction needs an address the same way rule 7 had one. Logging the flagged sentence is the session's job in the same turn the flag arrives. The canonical countermeasure is the final section of ops/methodology/prose register.md. -->
+<!-- The log the register countermeasure writes to when the author flags a sentence. One row per violation: the date, the sentence quoted, and which of the six lines it broke. The log exists because the countermeasure's one measured pattern — fragments concentrate at paragraph closes — was found only by counting past violations, and the next correction needs an address the same way rule 7 had one. Logging the flagged sentence is the session's job in the same turn the flag arrives. The canonical countermeasure is the final section of ops/methodology/prose register.md. -->
 
 | Date | The sentence, quoted | Lines broken |
 |---|---|---|

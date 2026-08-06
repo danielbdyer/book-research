@@ -1,5 +1,5 @@
 #!/bin/bash
-# The register countermeasure, per-turn form. Prints the compact five lines
+# The register countermeasure, per-turn form. Prints the compact six lines
 # before every reply is composed, so the countermeasure sits at zero distance
 # from the moment every recorded failure happened — and so it re-arms after
 # context compaction, which pushed the session-start copy out of the window at

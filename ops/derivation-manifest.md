@@ -146,6 +146,7 @@ personality:
     explication: full                # meaning is explicated where it is made; a reference is a receipt, never the content
     vault_terms: unfold              # chair, seat, load, privated, and every other pipeline coinage unfolded or replaced with plain words
     figures: quoted-only             # figures of speech appear only inside quotation marks, where the quoted phrasing is itself the finding
+    abstractions: expanded-in-place  # an abstract noun standing for something specific is expanded where it stands — the sentence names the thing, not its category
     reply_protocol: reread-as-author # every reply to the author is reread as him before it is sent
     quality: withholding-banned      # the ban is on compression that withholds, never on complexity that delivers
 ---
