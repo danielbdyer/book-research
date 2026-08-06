@@ -61,7 +61,7 @@ The simulated brief: a drafting session sits down to write the material where th
 
 ## The gaps — the calibration result
 
-1. Nothing in the concern is argued against: no adversary is seated anywhere in the region, Gellner is chaired and unread, and nobody has been sought who argues against the letter thesis itself — an advocate for the impersonal or treatise form, a position the corpus's own third draft voice occupies with no outside bearer.
+1. Nothing in the concern was argued against when this list was run; the counterpoint round of 2026-08-06 filled the shelf with three candidate attackers at three flanks — Storr (the second person dispensable, from inside the Winnicott lineage), Eliot (the personal escaped), Kierkegaard (the direct foreclosed, granting the goal) — all on the shelf awaiting the author's evaluation, verified at web depth (`archive/research — counterpoint round background.md`). Gellner remains chaired and unread for the participation flank.
 2. The relational evidence bench is unresearched: Tronick, Levinas, Merleau-Ponty, Collins, and the witnessing-becomes-consumption warning all sit on the shelf.
 3. McLaren's *The Language of Emotions* is unread, so the concern's strongest single case rests wholly on the corpus's paraphrase — proposed for the queue.
 4. Both mechanisms the field claim leans on are grid-characterized with no scheduled reading: Buber's *Ich und Du* and De Jaegher and Di Paolo 2007 — and the coupling question for asynchronous, mediated exchange (what a letter is) is exactly the drafting question, now proposed for the queue.

@@ -253,3 +253,13 @@ Found by the second provenance sweep, one layer above the formulas. The register
 
 - [ ] Otto Scharmer — presencing sits in the convergence table for the basic posture while the grid files him Tier 5. The Hudson problem again, unchecked.
 - [ ] Fritz Perls and Virginia Satir in their own right — both absent, both from the same settlement, and plausibly behind more of the practice register than the Robbins row accounts for. A suspicion rather than a find.
+
+## Against the address — the attacker shelf, filled 2026-08-06
+
+The address concern's calibration found no one seated to argue against it. Three candidate attackers entered from the counterpoint round, verified at web depth (`archive/research — counterpoint round background.md`); each awaits the author's evaluation, and the flank each attacks is named.
+
+- [ ] Anthony Storr — *Solitude: A Return to the Self* (1988). The second person dispensable: solitary work transforms, argued from the book's own Winnicott premise read the other way. Attacks [[the reader's working posture is solitude held inside relationship]] and the Second Chair's necessity.
+- [ ] T. S. Eliot — "Tradition and the Individual Talent" (1919). The personal escaped: the author as catalyst, absent from the product. Attacks the letter thesis; the executed draft already carries two Eliot epigraphs, which makes the evaluation cheap and the stakes visible.
+- [ ] Søren Kierkegaard, as attacker — *The Point of View of My Work as an Author* (1848/1859). The direct foreclosed: indirect communication as the only transfer of capability. Grants the sovereign-reader goal and attacks the friendly-address means; already on this shelf in a different function (the aesthetic stage), so one evaluation would serve both.
+- [ ] Miller and C'de Baca — *Quantum Change* (Guilford, 2001), with the ten-year follow-up (2004). A documented research program rather than a position piece, so a possible evaluation rather than only a counterweight: sudden permanent transformation in ordinary lives, unbidden — company for the epiphany refusal, counterpoint to the householder pricing.
+- [ ] The demand-withdraw literature — Christensen and Heavey (1990); Schrodt et al. meta-analysis (2014). The staying doctrine's boundary: pursuit as the mechanism of withdrawal. Belongs beside Levinas in the between's counterweights.

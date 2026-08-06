@@ -17,6 +17,8 @@ A convergence among mutual adversaries is worth more than one among allies, beca
 - The premise's reader-side case is the author's defined second reader — fluent in integration vocabulary, using the fluency to avoid feeling — which makes this convergence the company-side statement of [[the book opens from a surplus of insight rather than a lack of it]].
 - No pair of these positions was previously linked except Hudson and Rogers.
 
+**The distinguishing sentence, added 2026-08-06, because the counter-evidence was already inside the vault wearing a supporting badge.** Affect labeling helps: naming a present feeling diminishes amygdala response and recruits prefrontal regulation (Lieberman et al., *Psychological Science* 18(5), 2007 — the same citation shelved as support for [[naming aloud is part of what is happening rather than a report about it]]), and even being measured moves behavior in the therapeutic direction (McCambridge and Kypri's review of assessment reactivity, *PLoS ONE* 6(10), 2011). The convergence therefore indicts *explanatory formulation* — Gendlin's explanatory orbit, the account of why — and not *the labeling of what is present now*, which is the naming-aloud doctrine's territory. The five voices' own wording already carries the modal: the formulation *can be* the resistance, not that it must be. Verified at web depth; the trace is `archive/research — counterpoint round background.md`.
+
 ---
 
 Relevant Notes:

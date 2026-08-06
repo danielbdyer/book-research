@@ -17,6 +17,8 @@ Both sentences are held under draft standing: quoted for what the drafts say, ne
 - The failure mode is the negative image of the field's work: what the field metabolizes it can only metabolize while both people remain in it ([[the field between two people does work]]).
 - The staying skill is the relational form of the basic posture — a point of return rather than a state — applied to the space between rather than the space within ([[the basic practice posture is a point of return rather than a state]]).
 
+**The boundary the doctrine needs, added 2026-08-06.** The demand-withdraw literature documents the pattern where one partner's pursuit is the mechanism of the other's withdrawal — each move precipitating the other's, with worse outcomes across 74 studies (Christensen and Heavey, *JPSP* 59(1), 1990; Schrodt, Witt and Shimkowski's meta-analysis, *Communication Monographs* 81(1), 2014, N = 14,255, r = .360) — so staying that the other experiences as demand is the failure's fuel, not its cure, and the chapter's "practice of staying" is distinct from pursuit or it is the pattern. Bowen's counter-frame is kept beside it: distance and cutoff as symptoms of undifferentiated fusion, the remedy a better-differentiated self in contact rather than more togetherness pressure (*Family Therapy in Clinical Practice*, 1978) — which is close kin to the reader-posture claim at [[the reader's working posture is solitude held inside relationship]] and gives the queued Minuchin-and-Bowen reading a second question. Verified at web depth; the trace is `archive/research — counterpoint round background.md`.
+
 ---
 
 Relevant Notes:

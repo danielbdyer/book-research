@@ -17,6 +17,8 @@ The convergence does not touch the doctrine — every witness grants that the Tu
 - The pressure's existing neighbor is [[what the big experience leaves behind depends on what follows it]], which prices the aftermath; this claim prices the road itself.
 - The arc is the author's live commitment and nothing here proposes changing it; the claim records what the company charges for the road the book takes.
 
+**The counterpoint arrived 2026-08-06 and the quantifier fails as written.** A measured literature documents deep change in ordinary lives that is sudden and durable: the quantum-change program (Miller and C'de Baca, *Quantum Change*, Guilford 2001 — "ordinary lives" is the subtitle's own setting) reports vivid, permanent transformations with a ten-year follow-up finding them sustained (C'de Baca and Wilbourne, *Journal of Clinical Psychology* 60(5), 2004), and the sudden-gains literature (Tang and DeRubeis, *JCCP* 67(6), 1999; meta-analyzed at g = 0.62 in Aderka et al., *JCCP* 80(1), 2012) finds large between-session steps carrying half of total improvement and holding at follow-up. So the claim's honest form is "every witness assembled so far," and the pricing convergence is a fact about the gathered company rather than the field. Two edges are kept with it: the quantum changes arrived unbidden — "a bolt from the blue" — which makes the same witnesses company for the engineered-epiphany refusal even as they break this claim's universality; and the program's method (newspaper-ad self-selection, retrospective report) is a failable queue question before the counterpoint hardens. Verified at web depth; the trace is `archive/research — counterpoint round background.md`.
+
 ---
 
 Relevant Notes:

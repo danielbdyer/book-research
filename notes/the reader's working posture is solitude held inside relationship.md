@@ -17,6 +17,8 @@ This converts the one-chair problem from a deficiency to a design brief: the boo
 - The posture is Winnicott's capacity-to-be-alone finding turned prescriptive for reading; the Winnicott lineage's standing in the vault — corpus-relayed, unverified at his text — is recorded at [[a hiding that never intends to be found has stopped being play]].
 - The poems state the same posture as lived fact years earlier: "I am together by myself / in all my glory and inconsistency" (poems #7), held at [[the poems hold the one-chair question and its answered posture]].
 
+**The posture gained its seated opponent on 2026-08-06, from inside its own lineage.** Anthony Storr's *Solitude: A Return to the Self* (1988) builds from the same Winnicott capacity-to-be-alone finding and takes it the opposite direction: solitary work and interests transform and integrate a life without a second person, argued explicitly against the orthodoxy that intimate relationships are the chief source of human flourishing. That is the exact attacker the address calibration recorded as missing, and the strongest available, because the disagreement is inside the shared premise — Winnicott's capacity, read toward the room or away from it. The claim stands as the corpus's specification; whether "inside relationship" is load-bearing or dispensable is now an argued question with a named bearer awaiting evaluation. Verified at web depth; the trace is `archive/research — counterpoint round background.md`.
+
 ---
 
 Relevant Notes:
