@@ -40,7 +40,7 @@ _schema:
     topics:
       format: "Array of wiki links to topic maps; at least one."
     sources:
-      format: "Array of source anchors naming document and location, e.g. 'atlas §IV', 'first-telling: the offering', 'walked VI', 'space-around: around the instrument'."
+      format: "Array of citations, each naming its work and a location within it. Registry anchors use the citation names in the methods registry, e.g. 'atlas §IV', 'first-telling: the offering', 'poems #5'. Completed primary readings cite the work's own stable locators, e.g. 'Gendlin 1964, fn. 13', with the reading record in archive/ as the trace. Works consulted — provenance reconstructions, the mesh grid, author statements, verified web research — are cited in the forms listed in methods.md's Works-consulted section. Every entry carries a location; a bare title with no location is not a citation."
     supports:
       format: "Dormant until placements emerge. Records only manuscript placements the author has explicitly made; the vault never infers a placement from the corpus. Values when used: ch1..ch17, part-i..part-v, front-matter, interlude-1, epilogue."
     treatment:
