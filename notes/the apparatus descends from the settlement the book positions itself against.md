@@ -30,6 +30,8 @@ Inside the table, the one entry the book does credit came from a commercial semi
 
 **So the finding is not that the book borrows.** It is that eight of the nine constructs above come from the settlement whose characteristic error the book names in order to distance itself from it, and that eight of the nine are uncredited. The ninth, the Racket, is both from that settlement and credited, which is the exception that shows the crediting was possible.
 
+**This finding and the privation convergence quietly contradict each other over three names, found 2026-08-06.** [[the privation move is an independent arrival across five fields rather than a book coinage]] counts Bowlby, Minuchin, and Marcia as three of five independent arrivals; this note files the same three inside one formation. Both cannot be fully right: if the three took their absence-form from a shared psychoanalytic ancestor, the convergence's five reduces to three. The question that decides it — do the three definitional passages and citation trails show a common source for the absence-form, or local coinage — is failable, addressed in the readings already queued for those names, and proposed for the reading queue; each note now flags the other.
+
 A reader who knows this literature meets the parentage before they meet the argument.
 
 ## Substantiation
