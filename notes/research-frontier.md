@@ -72,7 +72,7 @@ Two open questions from the sort are held here as claims rather than as queue ro
 - [[the householder claim has no witness outside the indic world]] — a load-bearing claim supported entirely from the tradition it descends from, with an adversary already seated against it and three candidate arrivals unread.
 - [[nihility may be a station the contraction scheme cannot represent]] — the highest-variance name in the whole sort: one branch costs nothing, the other requires a structural revision, and only the reading decides.
 
-## The reading the corpus names as its own arbiter (2026-08-05)
+## The reading the corpus names as its own arbiter
 
 One entry in the queue was promoted out of the list on 2026-08-05, because the corpus does not merely suggest it — it names it as the standard a live claim must meet.
 
