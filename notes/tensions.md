@@ -78,7 +78,7 @@ Five names were brought in against the four undefended claims and the fork above
 - [[steven wasserstrom]] — the Eranos charge, which is structurally the charge available against this book's use of Trika.
 - [[tony robbins]] — the voluntarist pole at full strength, held as an adversary rather than as one teacher among eleven.
 
-## The tensions the two syntheses raised (2026-08-05)
+## The tensions the two syntheses raised
 
 - [[a synthesis organized by the schemes offers to promote them back to architecture]] — treated. A neurobiology synthesis organized throughout by the three-loop scheme, supplying each loop with neural correlates, is the most plausible route by which the demotion of 2026-08-04 gets reversed without anyone deciding to reverse it. Treatment: take the findings, decline the organizing principle, state every derived claim in plain terms.
 - [[the author is the book's first audience member and that is where the promise starts]] — treated, and the treatment is the author's own. Asked how a book that refuses instrumentality can promise transformation, he refused both available answers and started instead from what is intrinsically useful to him during his own therapy and integration, offering enough of the shape to be held up to the light rather than the whole passage. He states that the resolution is not clear to him, so this stays a trial.
