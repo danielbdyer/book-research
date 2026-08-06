@@ -78,7 +78,7 @@ A synthesis received 2026-08-05 reports the literature on intense states, and th
 
 ## What remains
 
-This map's own live question is the instrument's counterweights: grounding [[felt shift versus felt confirmation]] in the processing-fluency and interoception literature is the priority five's last open member. Beyond it, the space-around survey proposes four candidates that bear directly on this map, none yet researched — Polanyi's tacit knowing, William James's account of the vague, Gendlin's own Thinking at the Edge method, and Petitmengin's micro-phenomenology — on the pending-evaluation list in `ops/queue/candidates.md`, which is deliberately long.
+This map's nearest reading is Nisbett and Wilson 1977, first of the standard's-defense tier in `ops/reading queue.md`, inheriting the narrowed question the founding paper produced: not "is introspection reliable" but "does the certificate of movement survive." This map's own live sourcing question is the instrument's counterweights: grounding [[felt shift versus felt confirmation]] in the processing-fluency and interoception literature is the priority five's last open member. Beyond those, the space-around survey proposes four candidates bearing directly on this map: Polanyi's tacit knowing is evaluated, with a dual-function chair at [[michael polanyi]] and the primary unread, while William James's account of the vague, Gendlin's own Thinking at the Edge method, and Petitmengin's micro-phenomenology remain unresearched on the pending list in `ops/queue/candidates.md`, which is deliberately long.
 
 ---
 
