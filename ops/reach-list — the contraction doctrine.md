@@ -22,7 +22,7 @@ The simulated brief: a drafting session sits down to write the book's theory of 
 
 - [[the privation move is an independent arrival across five fields rather than a book coinage]] — the convergence of centerpiece rank; the question whether its five arrivals reduce to three was closed unread by the author's ruling of 2026-08-06, recorded in `ops/decisions.md`.
 - [[david loy]] — the independent arrival at the first contraction, and the seated opponent of the route.
-- [[what was never metabolized lives on as absence and hubl reached it through inherited trauma]] with [[thomas hubl]] — the outside arrival at privation itself.
+- [[what was never metabolized lives on as absence and hubl reached it through inherited trauma]] with [[thomas hubl]] — the outside arrival at privation itself; round three found his formation includes Wilber, so the shape stands and the "no shared teacher" clause does not.
 - [[aristotle on privation]], [[james marcia]], [[wilhelm reich]] — Aristotle the oldest arrival, Marcia the restatement, Reich the headless lineage, his construct circulating without his name.
 - [[the diagnostic discipline survives the apparatus that carries it]] — what stands if the notation is set aside.
 - [[structure-preserving transformation is a method-bearing claim rather than a directional one]] — how a fold opens (privated; Alexander unread).

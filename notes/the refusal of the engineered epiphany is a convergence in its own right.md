@@ -1,5 +1,5 @@
 ---
-description: "At least seven unconnected vocabularies refuse the manufactured breakthrough — the foundations, Rosa, Buber, the Sufi states, Maslow, Bateson — a convergence of the book's strongest evidence class, several arriving unsought."
+description: "At least seven unconnected vocabularies refuse the manufactured breakthrough — the foundations, Rosa, Buber, the Sufi states, Maslow, Bateson — a convergence of the strongest evidence class, several arriving unsought."
 category: isomorph
 sources: ["derived and quoted refusals across the evaluations (cited in body)", "atlas §IX.8 (Rosa)", "Gregory Bateson, \"Conscious Purpose versus Nature,\" in Steps to an Ecology of Mind (quoted at the evaluation)"]
 topics: ["[[recognition]]", "[[interlocutors]]"]

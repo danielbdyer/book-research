@@ -1,10 +1,10 @@
 ---
-description: Martin Buber's I–Thou is the origin of the relational-presence vocabulary the book runs on, which makes him the philosophical bearer of the between, where Jessica Benjamin's thirdness is the clinical account.
+description: Martin Buber is the philosophical bearer of the book's between, Jessica Benjamin the clinical account — with the grid's origin claim narrowed at round three, because the dialogical circle had two earlier arrivals.
 category: claim
 sources: ["mesh grid: other names recovered", "atlas §IX"]
 topics: ["[[relational-field]]", "[[interlocutors]]"]
 state: privated
-privation: "the primary reading of Ich und Du is not yet done; the chronology half of the grid's characterization — 1923 before Being and Time's 1927, with the explicit 1938 critique of Heidegger — was web-verified 2026-08-06 (archive/research — counterpoint round background.md, round two)"
+privation: "the primary reading of Ich und Du is not yet done; the chronology half of the grid's characterization was web-verified at round two, and the origin half failed at round three — Ebner and Rosenzweig precede — so the reading also weighs what I and Thou owes the circle (archive/research — counterpoint round background.md)"
 ---
 
 # the relational vocabulary has an ontology and it is buber's rather than benjamin's
@@ -22,6 +22,8 @@ Two further facts make the placement matter. Buber arrived at I–Thou independe
 - The distinction the grid draws is between two kinds of warrant rather than two levels of quality, and both are worth having. A clinical account says what happens in a room and can be observed; an ontological account says what kind of thing the between is, and the book makes claims of that second kind — that the field is real, that it acts, that something arrives in it neither party supplied.
 - The independence claim needs verifying and is the reason to read rather than cite: Buber's explicit argument against Heidegger is in his later writing on the philosophy of religion, and its content matters here because the disagreement is about exactly what the book borrows from both — whether the ground of disclosure is impersonal or addressed.
 - The refusal to keep: Buber held that I–Thou cannot be produced, sustained, or made into a technique, and that every Thou must become an It — the relation lapses by necessity, not by failure. A book with a practice curriculum aimed at the between is proposing precisely what he said cannot be arranged, and that objection belongs beside the citation rather than after it.
+
+**The grid's sentence came apart at the blind repeat pass (2026-08-06, round three): the independence half survives and the origin half fails.** Independence from Heidegger holds on chronology — *Ich und Du* (1923) precedes *Sein und Zeit* (1927), the explicit critique later still. But the origin claim fails against documented priority: Ferdinand Ebner's *Das Wort und die geistigen Realitäten* appeared in 1921 with parts published in 1920, Rosenzweig's *Star of Redemption* was finished in 1919 and published in 1921, and the Stanford Encyclopedia of Philosophy's Buber entry, fetched at the pass, states that Buber's first preliminary formulation followed his reading of Rosenzweig's *Star* in December 1921 and that Buber himself pointed readers to Ebner, who holds general priority over both. Dialogical philosophy was a circle, and Buber was its most famous member rather than its source. The bearer placement this note records survives, because carrying a claim does not require originating it; the sentence that falls is the grid's "I–Thou is the origin of the entire relational-presence vocabulary." Verified at web depth; the trace is `archive/research — counterpoint round background.md`, round three.
 
 ---
 

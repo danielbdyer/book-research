@@ -17,6 +17,8 @@ So on current evidence the trade is exact: the arrivals that make the law a find
 - The independence test's prior failure is recorded at [[the convergence's independence fails where three of its names share one teacher]]; these six pass it, which is what makes their shared refusal decisive rather than incidental.
 - The discipline-level concentration — every strong-reading arrival is in conversation with Heidegger — is recorded in the crossing at `ops/lineage sort.md`; this claim states the trade-off that concentration produces.
 
+**The independence arithmetic narrowed at the blind repeat pass (2026-08-06, round three).** Two of the six roads share an ancestor: the scholarship on Polanyi's epistemology records Gestalt perception psychology as a main inspiration behind tacit knowing, and Merleau-Ponty's phenomenology is documented as drawing on the same Gestalt theorists — two arrivals drinking from one source, which the grid's own family-resemblance rule prices at less than two roads. And Schön's knowing-in-action is documented as resting on Polanyi's tacit knowledge, so Schön and Polanyi are one road counted twice. The count of genuinely independent arrivals shrinks from six toward roughly three. The finding this note states — that the arrivals which pass the test refuse both upgrades — stands on every reading, because it does not depend on the count. Verified at web depth; the trace is `archive/research — counterpoint round background.md`, round three.
+
 ---
 
 Relevant Notes:
