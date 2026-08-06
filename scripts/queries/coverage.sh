@@ -5,7 +5,10 @@
 # separately because their evidence is read differently — see
 # ops/methodology/source standing.md. Run from anywhere.
 cd "$(dirname "$0")/../.." || exit 1
-count_for () { grep -l "\"$1" notes/*.md 2>/dev/null | wc -l | tr -d ' '; }
+# Both YAML quote styles count: live sources arrays use double and single
+# quotes, and matching only the double style halved the reported draft
+# coverage and hid the poems entirely (audit, 2026-08-06).
+count_for () { grep -l "['\"]$1" notes/*.md 2>/dev/null | wc -l | tr -d ' '; }
 echo "Claims citing each source:"
 echo
 echo "  Descriptive sources"
@@ -15,6 +18,11 @@ done
 echo
 echo "  Draft sources"
 for s in arc-gloss abridged mythic-os; do
+  printf '    %-16s %s\n' "$s" "$(count_for "$s")"
+done
+echo
+echo "  Primary source"
+for s in poems; do
   printf '    %-16s %s\n' "$s" "$(count_for "$s")"
 done
 echo
