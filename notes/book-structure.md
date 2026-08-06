@@ -38,18 +38,18 @@ The corpus keeps the book honest with a specific apparatus: inhabited margins th
 
 The corpus equips the book with paired figures, each equating an image, a concern, and a term from the Kashmir Śaiva tradition. Every figure is an image-category claim, quotable when drafting the unit it serves:
 
-- [[the house with no ceiling is transcendence with plumbing]]
-- [[the orchard's koan is that composting is not death]]
-- [[the gold thread ties the continuity loop to the book's own genre]]
-- [[the ink that listens is the relational field at the scale of a page]]
-- [[the engine is a triadic theology in mechanic's clothing]]
-- [[the fruit that falls is the word become deed]]
-- [[the gatekeeper is met with a bow never a fight]]
-- [[the book is a tuning fork and the reader is the striking surface]]
-- [[the circle is the form in which the naked sentence gets met]] — second edition
-- [[the messenger makes suffering unopened correspondence]] — second edition
-- [[the racket is the attractor state with a salary]] — second edition
-- [[the cusp is the back door to the stance]] — second edition
+- [[the house with no ceiling is transcendence with plumbing]] — the whole-book vehicle: working rooms below, an unclosed top above
+- [[the orchard's koan is that composting is not death]] — the figure for the metabolic arc's last station, where superseded material feeds what follows
+- [[the gold thread ties the continuity loop to the book's own genre]] — the continuity figure, whose reach into the letter genre is the book's own address question
+- [[the ink that listens is the relational field at the scale of a page]] — the between, installed on the book's own surface
+- [[the engine is a triadic theology in mechanic's clothing]] — the three loops carrying the triad in working dress
+- [[the fruit that falls is the word become deed]] — completion as expression leaving the tree that made it
+- [[the gatekeeper is met with a bow never a fight]] — the threshold figure and the posture it teaches at every gate
+- [[the book is a tuning fork and the reader is the striking surface]] — the resonance theory of reading, installed on page one to govern the ending
+- [[the circle is the form in which the naked sentence gets met]] — a second-edition addition: the practice form witnessing requires
+- [[the messenger makes suffering unopened correspondence]] — a second-edition addition: emotion as a letter waiting to be read
+- [[the racket is the attractor state with a salary]] — a second-edition addition: the payoff that keeps a stuck pattern funded
+- [[the cusp is the back door to the stance]] — a second-edition addition: the demand that outruns preparation
 
 ## Three drafts of the object itself
 
