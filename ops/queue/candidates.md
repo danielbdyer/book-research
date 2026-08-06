@@ -254,9 +254,9 @@ Found by the second provenance sweep, one layer above the formulas. The register
 - [ ] Otto Scharmer — presencing sits in the corpus's convergence table for the basic posture, which no base tier records. The grid's addendum moved him from its base to Tier 4, so the vault's earlier flag slightly overstated the grid's error; the substance stands, and the function-count proposed in `ops/reading queue.md` starts with him. The Hudson problem again, still unchecked.
 - [ ] Fritz Perls and Virginia Satir in their own right — both absent, both from the same settlement, and plausibly behind more of the practice register than the Robbins row accounts for. A suspicion rather than a find.
 
-## Against the address — the attacker shelf, filled 2026-08-06
+## Against the address — three candidate opponents, added 2026-08-06
 
-The address concern's calibration found no one seated to argue against it. Three candidate attackers entered from the counterpoint round, verified at web depth (`archive/research — counterpoint round background.md`); each awaits the author's evaluation, and the flank each attacks is named.
+The drafting-readiness dry run for the address concern found that nobody had yet been evaluated to argue against it. Three candidate attackers entered from the counterpoint round, verified at web depth (`archive/research — counterpoint round background.md`); each awaits the author's evaluation, and the flank each attacks is named.
 
 - [ ] Anthony Storr — *Solitude: A Return to the Self* (1988). He argues the second person is dispensable: solitary work transforms, from the book's own Winnicott premise read the other way. Attacks [[the reader's working posture is solitude held inside relationship]] and the Second Chair's necessity.
 - [ ] T. S. Eliot — "Tradition and the Individual Talent" (1919). His doctrine is that the transforming work escapes the personal: the author is a catalyst, absent from the product. He attacks the letter thesis; the executed draft already carries two Eliot epigraphs, which makes the evaluation cheap and the stakes visible.

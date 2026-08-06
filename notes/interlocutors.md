@@ -45,7 +45,7 @@ The seats are functional. The corpus's narrative names for them are recorded in 
 - [[the refusal of the engineered epiphany is a convergence in its own right]] — the shared refusal now held as a convergence in its own right: at least seven vocabularies, several arriving unsought
 - [[the arrivals that pass the independence test arrive only at the weak reading of the participation law]] — the trade-off the six independent witnesses jointly reveal
 - [[the householder road is priced long by every witness who grants it]] — the witnesses' convergence on the road's price
-- [[chairs that agree on nothing else agree that the formulation can be the resistance]] — the convergence among mutual adversaries, aimed at the formula catalogue
+- [[thinkers who agree on nothing else agree that a formulation can be the resistance]] — the convergence among mutual adversaries, aimed at the formula catalogue
 - [[katz and burke aim the same trained-vocabulary premise at two different claims]] — two adversaries, one premise, one shared answer to test
 - [[the stance's refusals-intact rule was the company's practice before it was the book's]] — the company's own documented self-limiting practice
 - [[the company's refusals converge unsought where its agreements were assembled]] — the two provenance classes of convergence, and which caveat reaches which

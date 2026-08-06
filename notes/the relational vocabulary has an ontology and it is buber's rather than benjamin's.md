@@ -1,5 +1,5 @@
 ---
-description: Martin Buber is the philosophical bearer of the book's between, Jessica Benjamin the clinical account — with the grid's origin claim narrowed at round three, because the dialogical circle had two earlier arrivals.
+description: "Martin Buber carries the philosophy behind the book's word for the space between two people and Jessica Benjamin the clinical account, but Buber did not originate that vocabulary: Ebner and Rosenzweig arrived first."
 category: claim
 sources: ["mesh grid: other names recovered", "atlas §IX"]
 topics: ["[[relational-field]]", "[[interlocutors]]"]
