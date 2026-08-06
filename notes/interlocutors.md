@@ -110,6 +110,16 @@ A second sweep of the same kind, one layer above the formulas: for each operatio
 
 Each brings a refusal worth more than its citation. Reich broke armor where the book bows to it; Rogers held that the helper's formulation is the obstacle, which is what a chapter of formulas is; Zinberg's controlling variable is the group's rituals rather than the individual; Maslow's peak sits atop a needs hierarchy the book does not engage.
 
+### The queued three, and the two the author named (2026-08-05)
+
+The three the apparatus sweep left queued rather than chaired are now evaluated, plus the two contemporary teachers the author asked for. All from secondary knowledge, readings undone.
+
+- [[kurt lewin]] — recommended reference-lineage, load `precedent`: action research is the participation law in the register of science, the T-group is his invention and the head of the lineage that becomes est, and *field* entered social psychology through him. Weakest on any single construct, strongest on breadth.
+- [[erik erikson]] — recommended reference-lineage, load `precedent`, and honestly small: the frame Marcia operationalized, owed one clause where the identity loop is introduced. The citation the book actually owes is Marcia's.
+- [[the experiential learning cycle]] — recommended reference-lineage, load `precedent`: Dewey's miseducative experience and Kolb's four stations are a century-old answer to why the peak does not hold. A reading rather than a citation debt, since no term is borrowed.
+- [[joe hudson]] — recommended coaches, load **`thesis-bearing`**, which is the vault contradicting the grid on the grid's own evidence. He holds one of the five theories of suffering alone and is the referral network's named destination for a somatic misfire, and both sorts filed him among the thirty names said to hold no weight ([[the referral network sends readers to a name the sort filed as company]]).
+- [[tony robbins]] — chair extended rather than re-evaluated. The sweep found that his method's genealogy — NLP with Grinder, modelling Erickson, Satir and Perls — appears nowhere in the corpus, which puts the book's voluntarist pole downstream of the same mid-century settlement its apparatus descends from, and gives the fork a literature to be resolved against rather than one seminar leader.
+
 ### Evaluated, awaiting the author's decision
 
 The survey's top four, each read against the primary work 2026-08-02. Recommendations are recorded in the notes; the seat field stays `candidate`.

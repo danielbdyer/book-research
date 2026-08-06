@@ -1,5 +1,5 @@
 ---
-description: "Hudson holds one of the five theories of where suffering lives — the resisted feeling — alone, is the referral network's destination for a somatic misfire, and supplies the VIEW frame, while both sorts filed him among the company."
+description: "Hudson holds one of the five theories of suffering alone — the resisted feeling — and is the referral network's destination for a somatic misfire, while both sorts filed him among the company."
 category: interlocutor
 seat: candidate
 load: thesis-bearing

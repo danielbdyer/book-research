@@ -72,6 +72,10 @@ This concern borders [[contraction-not-corruption]], because the move from heali
 
 - [[abraham maslow]] — *peak experience* is his term, used nine times as a technical term in the executed draft and cited nowhere; more consequentially, the book's claim that the peak is not the work is his own late correction toward the plateau, made sixty years earlier by the man whose vocabulary the book is using.
 
+## The identity vocabulary's origin, added 2026-08-05
+
+- [[erik erikson]] — *identity crisis* is his coinage and the psychosocial moratorium is his construct, which makes him the frame behind Marcia's statuses and behind the book's identity loop. His refusal is the useful part: identity on his account has to be recognized by a community to hold, which is half of what a reader working alone from a formula can do.
+
 ## What remains
 
 The central-process regions are now extracted: each of atlas §I's three names for the process has its claims here, and the Kashmir Śaiva material of atlas §IX.6 was worked on 2026-08-03. Two pieces of that material are deliberately queued with other passes in `ops/queue/extractions.md`: the four upāyas belong with the practice curriculum, and so'yam belongs with the Courtyard overlay. The space-around survey raises Jorge Ferrer's participatory pluralism as a direct challenge to the two-traditions-one-conclusion framing. Ferrer has not been researched for this project; he is on the pending-evaluation list in `ops/queue/candidates.md`.

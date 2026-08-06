@@ -43,13 +43,31 @@ Two sharpest instances, both worth stating on their own:
 - **Maslow.** The book uses his coinage as a technical term and then makes his own late self-correction — the plateau is the point, not the peak — without knowing whose correction it is. To say it, the corpus borrows the Sufi state/station distinction, which it credits.
 - **Reich.** The lineage is credited from the middle down. Every somatic authority the book leans on descends from the body-psychotherapy line he began, and the survey reaches for hysteresis, attractor landscapes and Bateson's learning levels to explain a construct a psychologist had already stated in the book's own register, which is the body.
 
-## What is queued rather than chaired
+## The queued three, evaluated 2026-08-05, and two more found with them
 
-Three where a lineage is plausible and the correspondence is looser than the nine above. Recorded so the next pass starts from something rather than from nothing.
+The author directed the queue be worked and added two contemporary names. Four chairs and one extension came out of it, and one of the five is a different kind of finding.
 
-- **Kurt Lewin** — action research and the T-group, and the dictum that to understand something you try to change it. This is the participation law in social science, and the T-group line runs Lewin → NTL → the encounter movement → est, which is the other half of a genealogy the corpus traces only through Austin's speech acts. Weaker than the nine because Lewin's claim is epistemological (you learn by intervening) and the book's is transformational (you do not change by watching); those are adjacent rather than identical.
-- **Erikson** — Marcia's own frame, and the identity loop's ancestor. Absent from the corpus. Secondary to Marcia rather than a debt of its own.
-- **Dewey and Kolb** — the experiential-learning cycle, which is the practice curriculum's pedagogy. Both absent. The correspondence is at the level of a whole tradition rather than a construct, which makes it a reading rather than a citation.
+| The book's move | The construct, and whose | Corpus |
+|---|---|---|
+| the participation law's scientific form; the group whose subject is itself; the word *field* | **action research**, **the T-group**, **field theory** — Lewin, 1946–51 | absent; and the T-group is the head of the lineage running NTL → the encounter movement → est, where the corpus traces only Austin's speech-act line |
+| the identity loop's vocabulary | **identity crisis**, the **psychosocial moratorium** — Erikson | absent; the debt is properly Marcia's, and Erikson is owed one clause |
+| why the peak does not hold; the practice curriculum's pedagogy | **the experiential learning cycle** — Dewey's miseducative experience, 1938; Kolb's four stations, 1984 | both absent; Schön is chaired here and is a direct descendant, so the lineage is seated without its head |
+| the voluntarist pole's method | **NLP** (Bandler and Grinder, modelling **Milton Erickson**, **Satir**, **Perls**), via Grinder to Robbins | *NLP*, *neuro-linguistic*, *Bandler*, *Grinder*, *Milton Erickson*, *Satir* and *Jim Rohn* all return zero |
+
+The Robbins row is the one that closes a loop. The book's designated opponent at the will pole is himself downstream of the same mid-century settlement the book's apparatus descends from — Satir is Minuchin's contemporary in family therapy, Perls is the Gestalt line that runs into the encounter movement beside Lewin's T-groups. Naming it makes the fork harder to win and therefore worth more, and simultaneously hands the book a ready criticism of him, since NLP's own empirical record is poor and its modelling premise is the one the participation law denies. Recorded at [[tony robbins]].
+
+## The one find in this group that is not a provenance debt
+
+Joe Hudson is not an uncredited ancestor; he is a seated name filed in the wrong tier. The corpus gives him six functions, one of which is that the referral network routes a reader in somatic difficulty to him by name, and he holds one of the five theories of suffering alone. The mesh grid files him in Tier 5 twice. That is the second instance of the defect the load axis exists for — the first being Gendlin — and it was found by the same method, applied to the grid's own output. The claim is [[the referral network sends readers to a name the sort filed as company]]; the chair is [[joe hudson]], carrying `thesis-bearing` against the grid.
+
+One further name sits in the same Tier 5 list with the same problem and has not been treated: Otto Scharmer, whose presencing appears in the same convergence table as Hudson's VIEW.
+
+## What is still queued rather than chaired
+
+All three of the original queue are now chaired, above. What replaces them, from the same sweep:
+
+- **Otto Scharmer** — presencing sits in the convergence table for the basic posture and he is filed in the grid's Tier 5, which is the Hudson problem again. Not yet checked against the corpus in the way Hudson was.
+- **Fritz Perls and Virginia Satir**, in their own right rather than through NLP — both absent, both from the same settlement, and both plausibly behind more of the practice register than the Robbins row accounts for. This is a suspicion rather than a find; nothing has been checked construct by construct.
 
 ## Two cautions on this register
 

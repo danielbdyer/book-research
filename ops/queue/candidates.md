@@ -218,6 +218,16 @@ Found by the second provenance sweep, one layer above the formulas. The register
 
 ### Queued rather than chaired from the same sweep
 
-- [ ] Kurt Lewin — action research, the T-group, and "to understand something, try to change it." The participation law in social science, and the other half of est's genealogy: Lewin → NTL → the encounter movement → est, where the corpus traces only Austin's speech-act line. Weaker than the four above because his claim is epistemological and the book's is transformational. Absent from the corpus.
-- [ ] Erik Erikson — the frame Marcia operationalized, and the identity loop's ancestor. Absent from the corpus. Secondary to Marcia rather than a debt of its own.
-- [ ] Dewey and Kolb — the experiential-learning cycle as the practice curriculum's pedagogy. Both absent. A whole-tradition correspondence rather than a construct debt, so a reading rather than a citation.
+- [e] Kurt Lewin — evaluated 2026-08-05 from secondary knowledge. Recommended reference-lineage, load `precedent`: action research, the T-group, and *field* in social psychology — three parts of the book, and the head of the est lineage's other half. Weakest on any single construct, strongest on breadth. `notes/kurt lewin.md`.
+- [e] Erik Erikson — evaluated 2026-08-05 from secondary knowledge. Recommended reference-lineage, load `precedent`, and honestly small: one clause behind Marcia, whose citation is the one actually owed. `notes/erik erikson.md`.
+- [e] The experiential learning cycle (Dewey, Kolb) — evaluated 2026-08-05 from secondary knowledge. Recommended reference-lineage, load `precedent`: a century-old answer to why the peak does not hold. A reading rather than a citation debt, and Schön is already chaired as a direct descendant. `notes/the experiential learning cycle.md`.
+
+### The two contemporary names the author added, 2026-08-05
+
+- [e] Joe Hudson — evaluated 2026-08-05 from the corpus rather than from his work, none of which has been read or heard here. Recommended **coaches** with the **`thesis-bearing`** load, which is the vault contradicting the mesh grid's Tier 5 filing on the grid's own evidence. He holds the resisted-feeling theory alone, and the book's referral network sends a reader in somatic difficulty to him by name. `notes/joe hudson.md`; the case is `notes/the referral network sends readers to a name the sort filed as company.md`.
+- [e] Tony Robbins — chair extended 2026-08-05 rather than re-evaluated. The provenance sweep found that his method's genealogy is absent from the corpus in every spelling: NLP with Grinder, modelling Milton Erickson, Satir and Perls. That puts the book's voluntarist pole downstream of the same settlement its apparatus descends from, gives the fork a literature to be resolved against, and simultaneously supplies a ready criticism of him. The primary reading remains the requirement. `notes/tony robbins.md`.
+
+### Replacing them in the queue, from the same sweep
+
+- [ ] Otto Scharmer — presencing sits in the convergence table for the basic posture while the grid files him Tier 5. The Hudson problem again, unchecked.
+- [ ] Fritz Perls and Virginia Satir in their own right — both absent, both from the same settlement, and plausibly behind more of the practice register than the Robbins row accounts for. A suspicion rather than a find.

@@ -63,6 +63,10 @@ The claim that the knower is inside what they know is the condition this map's l
 
 - [[salvador minuchin]] — the book's Enmeshment formula is his construct under his own word, and the larger find is the second thing he holds: fifty years of technique for altering a relational field deliberately, which the book's relational claim currently asserts without mechanizing. Whether he is a `precedent` for one formula or an `independent-arrival` at the participation law is what the reading decides.
 
+## The word's own origin, added 2026-08-05
+
+- [[kurt lewin]] — *field* entered social psychology through him, with behavior as a function of person and environment taken together rather than as two separable causes. The book's between and its "the field is real" doctrine run on that vocabulary; so, at one remove, does set and setting. He also invented the group whose subject is itself, which is the head of the lineage the corpus traces only through Austin's speech acts.
+
 ## What remains
 
 The space-around survey proposes the strongest evidence and the strongest objections for this map, none yet researched: Tronick's still-face experiment (evidence), Levinas's asymmetry (an objection to the mutuality framing), Merleau-Ponty's intercorporeality, the Ubuntu tradition, Collins's interaction ritual chains, and the warning that witnessing can shade into consumption. All are on the pending-evaluation list in `ops/queue/candidates.md`, which is deliberately long; the consumption warning is this map's nearest counterweight, since [[a witness kept as proof forecloses what it proves]] already states its shadow from the author's own record.
