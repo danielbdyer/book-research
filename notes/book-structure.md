@@ -128,6 +128,20 @@ The provenance record of 2026-08-02 and after — the accounts of the corpus's m
 - [[the voice follows every reach with a release]] — the composure rhythm of the voice at its high-water mark
 - [[the voice names the move it has just made]] — how the earliest draft discharges the analytical reader's suspicion
 - [[the voice keeps the reader located in a walkable space]] — the house conceit working as navigation, page by page
+- [[a chapter opens by restating what is built before adding to it]] — the execution's location device: inventory openings at twelve of fifteen units, cold opens at the three phenomenological entries
+- [[the executed draft announces a register change before performing it]] — disorientation converted to confirmation by pre-naming each shift
+- [[the peak uncouples the syntax and the descent re-couples it]] — the arc's deepest transition performed in sentence structure
+- [[the earliest draft addresses its figures and the executed draft explains them]] — the high-water voice difference as one grammatical operation: apostrophe became exposition
+- [[the authorial first person frames while the poems carry the lived testimony]] — the execution's quarantine arrangement: framing in prose, testimony in verse, two exceptions enumerated
+- [[the close repeats the opening's exit with one sentence inserted]] — the ending built from the beginning by one insertion, with the tautological epilogue keeping the promise small
+- [[the executed draft stages a concept by cataloguing the reader's own remembered scenes]] — the staging instrument behind reading-as-remembering
+- [[the executed draft introduces each thinker by the duration of their labor]] — the seating formula for the convergence centerpiece
+- [[the medicine sentence negates the familiar advice before naming the restoration]] — the prescriptions' prose template
+- [[the peak is the one unit the performing law can honor only by withdrawing]] — the two laws' one collision, resolved by the staging's withdrawal
+- [[the offered menu is precision that costs dignity or dignity that costs precision]] — the book's positioning against both available vocabularies
+- [[the small hours are the poems' native hour before they were the book's founding scene]] — the founding scene's hour, traced to the primary layer
+- [[the poems' animals are present company while the corpus's animals are similes]] — the image system's missing creature register, already drafted in the poems
+- [[the map that protects the destabilized reader is the tool that becomes a ranking]] — the tension between the two safety findings, with the sequence-or-hierarchy split as its candidate treatment
 - [[the confessions is address to a thou that the reader overhears]] — a third position for the open person question, found inside the author's own named model
 
 ## The open territory

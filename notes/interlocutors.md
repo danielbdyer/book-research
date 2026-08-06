@@ -41,6 +41,16 @@ The seats are functional. The corpus's narrative names for them are recorded in 
 
 ### The convergences
 
+- [[the company is joined by the reader rather than consulted]] — the corpus's design law for how the whole company is held toward the reader
+- [[the refusal of the engineered epiphany is a convergence in its own right]] — the shared refusal upgraded to convergence grade: at least seven vocabularies, several arriving unsought
+- [[the arrivals that pass the independence test arrive only at the weak reading of the participation law]] — the trade-off the six independent witnesses jointly reveal
+- [[the householder road is priced long by every witness who grants it]] — the witnesses' convergence on the road's price
+- [[chairs that agree on nothing else agree that the formulation can be the resistance]] — the convergence among mutual adversaries, aimed at the formula catalogue
+- [[katz and burke aim the same trained-vocabulary premise at two different claims]] — two adversaries, one premise, one shared answer to test
+- [[the stance's refusals-intact rule was the company's practice before it was the book's]] — the company's own documented self-limiting practice
+- [[the company's refusals converge unsought where its agreements were assembled]] — the two provenance classes of convergence, and which caveat reaches which
+- [[the executed draft introduces each thinker by the duration of their labor]] — the prose formula that seats the company in the execution
+
 - [[transformation is enacted participation inside a held container]] — the one law six lineages state in six vocabularies, each quoted.
 - [[unrelated traditions converge on presence without agenda while remaining available to act]] — the same evidence shape at the practice pole: a dozen vocabularies orbiting one posture.
 - [[the transformation field divides into five theories of where suffering lives]] — the eleven contemporary teachers as a living argument, each camp's axiom quoted.

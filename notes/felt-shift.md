@@ -29,6 +29,12 @@ One consequence for this vault is recorded in [[methods]]: the vault verifies st
 - [[the closing prompt changes genre where the book turns to praxis]] — the instruction genre by which the executed draft asks the reader to check the body, and its limits
 - [[the cusp is the back door to the stance]] — the image of the demand that outruns preparation
 - [[the voice follows every reach with a release]] — the prose rhythm that makes room for the somatic check
+- [[the book's practices are facilitation moves scaled to one reader]] — the curriculum's design law: the author's room-holding craft scaled to a room of one
+- [[the book opens from a surplus of insight rather than a lack of it]] — the problem statement that makes a somatic standard necessary: understanding that moves nothing
+- [[the executed draft scripts the reader's recognition in the reader's own first person]] — the craft that models what an arrived shift sounds like from inside
+- [[the ink that listens claims an instant discrimination the counterfeit catalogue denies]] — the entry figure's verification claim, bounded by the fluency evidence and repaired by the friction test
+- [[katz and burke aim the same trained-vocabulary premise at two different claims]] — two adversaries sharing one premise, met by one answer: the felt sense's refusal event
+- [[chairs that agree on nothing else agree that the formulation can be the resistance]] — mutual adversaries converging on the charge the formula catalogue must answer
 - [[all six doctrine concerns appear in the first fifteen poems]] — the instrument in the primary layer: poem #4 names trusting experience as clear, and poem #8 records a felt shift happening on the page years before the vocabulary arrived
 - [[a genuine felt shift changes what can be said next]] — the defense, from the standard's own source: the genuine shift is a step that rearranges the sayable, and the counterfeit produces no step
 - [[gendlin's focusing protocol already guards against the counterfeit shift]] — the source protocol's own instructions: quick answers dismissed, freshness required, the check repeated across days

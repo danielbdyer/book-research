@@ -23,6 +23,8 @@ The book stacks three further levels on this anatomy: twelve verb-primitives as 
 - [[the open center is made possible by the three structures and identical with none of them]] — what the three structures are for: the open middle they hold
 - [[thisness is the grain of the container anatomy]] — containers serve particulars, and Scotus, Hopkins, and Deleuze are the named lineage for that idea
 - [[ordinary names keep the deepest structures visible]] — the naming rule from the rename: plain names keep the teaching in the reader's room
+- [[the primary layer states its own limit on atomization]] — the poems' prior ruling on how far decomposition may go: elements keep their matter
+- [[the traditions' refusal of extraction restates the book's own container law]] — five traditions refusing extraction, on the book's own theorem that the container is constitutive
 
 ### Nascent stubs
 

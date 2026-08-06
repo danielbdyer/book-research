@@ -15,6 +15,9 @@ The formulas below are the book's canonical examples. Each is a separate claim b
 - [[suffering is contraction never corruption]] — the master doctrine and its lineage
 - [[the transformation field divides into five theories of where suffering lives]] — the contemporary field's five answers to the question this map's doctrine answers, kept in disagreement
 - [[the diagnosis contains the cure]] — the Privation Principle, which the book calls its signature move
+- [[four molecule names stand in the poems as poem words with their contents]] — the catalogue's vocabulary as the poet's first, with the common-word caution attached
+- [[the medicine sentence negates the familiar advice before naming the restoration]] — the prescriptions' prose template in the executed draft
+- [[the offered menu is precision that costs dignity or dignity that costs precision]] — the two failed vocabularies whose menu the doctrine's precision refuses
 - [[burnout is obligation minus sanctuary]] — the formula that reverses the standard prescription for burnout
 - [[grief is sever plus love plus persist]] — the formula that reclassifies grief as love under conditions of loss
 - [[trust and paralysis are isomers]] — the formula pair showing identical components with one differently attached bond
