@@ -51,7 +51,7 @@ This concern borders [[answerability]], because a word becomes answerable only b
 The claim that the knower is inside what they know is the condition this map's law states first, and the lineage sort tested it twice on 2026-08-05: once for who reached it independently of the traditions the book stands on, and once for who argues against it. The first search returned five names from four disciplines; the second returned nothing from the roster at all. Two clinical bearers surfaced in the same round from reading the formulas rather than any list.
 
 - [[the participation law has a witness who came to it through crystallography]] — the arrival with no debt to either founding pole, which would make the law a finding rather than a lineage position.
-- [[michael polanyi]] — that witness's chair, reseated to hold two positions at once: the felt sense's second voice, and the law's only outside arrival.
+- [[michael polanyi]] — that witness's evaluation note, extended to hold two positions at once: the felt sense's second voice, and the law's only outside arrival.
 - [[heinz von foerster]] — the observer placed inside the observed system from an engineering starting point, with no phenomenological debt whatsoever.
 - [[harold garfinkel]] — social facts produced in the doing, with the breaching experiments as a procedure for making the always-there visible.
 - [[donald schon]] — knowing-in-action and the swampy lowlands, drawn in 1983 from inside the management literature this book's argument would otherwise address from outside it.
