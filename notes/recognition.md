@@ -68,7 +68,7 @@ This map states what the book says happens. The reader the author defined on 202
 
 This concern borders [[contraction-not-corruption]], because the move from healing to recognition is what removes "broken" as a starting assumption. It borders [[answerability]], because the book claims recognition lands in reading only when the word is fully embodied. It borders [[relational-field]], because the same word (Hegel's *Anerkennung*, recognition) grounds the book's account of what two people do for each other.
 
-## The vocabulary of the peak, and who coined it (2026-08-05)
+## The vocabulary of the peak, and who coined it
 
 - [[abraham maslow]] — *peak experience* is his term, used nine times as a technical term in the executed draft and cited nowhere; more consequentially, the book's claim that the peak is not the work is his own late correction toward the plateau, made sixty years earlier by the man whose vocabulary the book is using.
 
