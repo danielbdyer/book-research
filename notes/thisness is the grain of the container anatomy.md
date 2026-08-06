@@ -24,7 +24,7 @@ The point for the book is that containers serve particulars — this person, thi
 Relevant Notes:
 - [[the triad is the anatomy of every container]] — the anatomy this is the grain of
 - [[the book is a tuning fork and the reader is the striking surface]] — the image that carries Hopkins's instress
-- [[an externalized system can be built to hold a self rather than only its information]] — nascent; the sister medium named for Scotus's word
+- [[an externalized system can be built to hold a self rather than only its information]] — the sister medium named for Scotus's word, filled 2026-08-03
 
 Topics:
 - [[container-anatomy]]
