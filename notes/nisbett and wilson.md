@@ -21,6 +21,8 @@ The paper is the reference point for a whole literature, and it is the one an ed
 
 The book verifies in the body rather than in the argument, and the felt shift is its single test for whether anything is true — the author's own statement, with everything else running downstream of it. Nothing in the book's company argues against that, and this pairing is the first of three names the sort puts into the empty cell ([[introspective access is the felt shift's undefended premise]]). The grid ranks the hole first of nine and states the stake plainly: until it is populated, "the body countersigns" is "an assertion wearing the costume of a standard" (`mesh grid: against C4`).
 
+The Gendlin reading of 2026-08-05 narrowed what their paper has to hit, and their reading inherits the narrowed question. The standard's own certificate is movement against no-change, not a description of inner contents ([[the felt shift certifies carrying forward rather than correspondence]]), so the question is no longer "is introspection reliable" but "does that narrowed certificate survive their evidence" — and their own carve-out for reports of present states may put the certificate outside their paper's range entirely, which would be worth as much as the opposite result.
+
 ## What they would refuse
 
 Derived rather than sourced; the paper has not been read in this vault.
