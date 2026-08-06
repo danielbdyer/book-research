@@ -38,7 +38,7 @@ Open territory bearing on this anatomy that no document develops; each records w
 Three findings arrived from the lineage sort and the research syntheses. Two concern the ethic by which a living structure may be changed; the third concerns what counts as a container in the first place.
 
 - [[structure-preserving transformation is a method-bearing claim rather than a directional one]] — change that strengthens what is already alive rather than replacing it, which is this anatomy's account of change stated about a town instead of a self, and a species of load the axis had no word for.
-- [[christopher alexander]] — the chair for it, reseated from one of twenty-nine builders, with his own refusal of metaphorical borrowings kept at the door.
+- [[christopher alexander]] — his evaluation note, reseated from one of twenty-nine builders, with his own refusal of metaphorical borrowings kept at the door.
 - [[a framework for what is happening is itself a protective factor]] — a container made of description rather than of relation, and the finding that puts this book among the variables inside its own subject matter.
 - [[hasidic worship through corporeality]] — the ordinary act held as its own vessel rather than as a lesser venue for one, which is the householder claim's strongest arrival from outside the Indic world.
 
