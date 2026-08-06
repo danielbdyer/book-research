@@ -31,6 +31,10 @@ Two documents identified in the same set were never part of the decline and carr
 
 - [ ] The poems, full reduce pass (`poems #1`–`#15`) — the archive note's concordance of trailheads (`archive/source — the poems.md`) worked line by line against the corpus's phrases, under the direction rule: for these fifteen, a shared phrase originates in the poem. Candidates already sighted: the father's welcome (#1), shared perception (#6), surrender-beside-effort (#7), letting-go-without-forgetting and the caretaking bind (#8), recognition-and-clearing (#10), flowers-from-manure (#11), the beginning-again litany and shared seeing with the kettle (#12), grief and self-forgiveness (#13, #14), already-there and light-as-what-a-person-is (#15). Three claims are done; the pass is what remains.
 
+## The verification conditions (added 2026-08-04, generative pass)
+
+- [ ] Per-practice verification conditions — a pass over every practice the corpus carries (the twelve forms, the posture's facets, Focusing, channeling, the diagnostic moves as they arrive) asking one question of each: what does the corpus say would tell a practitioner it worked? The rows wire the lived-practice centerpiece to the felt-shift standard and give the standard's defense a case file; where the corpus specifies no verification condition for a practice, that absence is the finding and is recorded as such. Sources: `abridged ch13`–`ch15`, atlas §VII, walked VII.
+
 ## The three drafts (added 2026-08-01)
 
 These have draft standing under `ops/methodology/source standing.md`. Extracting from them means recording what the draft states and where, without inheriting the draft's own advocacy; where a draft disagrees with a descriptive source, the disagreement is the extraction rather than a correction to either.

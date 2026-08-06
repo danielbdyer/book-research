@@ -17,6 +17,18 @@ And it doubles as the book's invitation, which is why a drafting session would r
 ## Substantiation
 
 - The dated instances are held in their own notes: [[the corpus quotes the author's poems rather than the poems quoting the corpus]], [[flourishing flow and facilitation converged on one stance in the author's own record]], [[the central correspondence was lived nine years before it was assembled]], [[psychedelic names a movement not a substance]], and the figure prehistory in [[figure glossary]]. This note states the pattern they share and its consequence for the telling.
+- Assembled into one record (2026-08-04), the scattered instances make a table, and the table is the claim's whole evidence in a form a front-matter drafting session could lift directly:
+
+| The plain thing, said first | Said | The dressing arrived | Held at |
+|---|---|---|---|
+| The participation law, lived in a room | 2017 | Assembled into the lineages' roll-call, 7 July 2026 | [[the central correspondence was lived nine years before it was assembled]] |
+| The six doctrine concerns, stated in the poems | The first fifteen poems, predating the book | The corpus quotes and elaborates them, July 2026 | [[all six doctrine concerns appear in the first fifteen poems]] |
+| Gravitational wells organizing the flourishing work | October 2024 | The atlas takes the image as its architecture, July 2026 | [[figure glossary]] |
+| Kairos rituals, coined | March 2025 | The split clock read as kairos, fifteen months later | provenance reconstruction |
+| The seed's figures — the house, the gold thread, the gatekeeper | April 2025 | Welded to the system, July 2026 | [[figure glossary]] |
+| The triad, axiomatized in another project | December 2025 | First formal contact with the tradition it is named for, March 2026 | provenance reconstruction |
+| *Psychedelic* reclaimed on his own life | 1 January 2026 | The corpus formalizes the reclamation, July 2026 | [[psychedelic names a movement not a substance]] |
+| "Automatic yet fully attended," said of facilitation | January 2026 | The survey matches it to the classical wu wei debate | [[flourishing flow and facilitation converged on one stance in the author's own record]] |
 - The stronger story's defect is on record and is not softened here: the unanimity framing is a sampling artifact ([[the unanimity claim is an artifact of how the lineages were selected]]). The smaller story has no such defect, because finding company makes no claim about the field — only about the finding.
 - The stance directive governs the posture: this is an observation about what the record supports, offered as the telling the book *can* give, not a directive about the telling it must.
 - The company turns out to be larger than the corpus's roster, and the finding extends this telling rather than complicating it. The crossover the book stands on has named walkers, living developers, and standing opponents, and several of each are already seated in the book's own company ([[the crossover has footsteps and the book already seats some of the walkers]]). The same pattern runs inside the West's own remembering-tradition, which shares its gesture and disputes its destination across twenty-four centuries ([[reading as remembering has a twenty-four-century ancestry in the west]]).

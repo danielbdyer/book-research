@@ -29,6 +29,7 @@ One consequence for this vault is recorded in [[methods]]: the vault verifies st
 - [[the closing prompt changes genre where the book turns to praxis]] — the instruction genre by which the executed draft asks the reader to check the body, and its limits
 - [[the cusp is the back door to the stance]] — the image of the demand that outruns preparation
 - [[the voice follows every reach with a release]] — the prose rhythm that makes room for the somatic check
+- [[all six doctrine concerns appear in the first fifteen poems]] — the instrument in the primary layer: poem #4 names trusting experience as clear, and poem #8 records a felt shift happening on the page years before the vocabulary arrived
 
 ### Nascent stubs
 

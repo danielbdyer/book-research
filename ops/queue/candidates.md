@@ -53,6 +53,25 @@ The author's question: who else is around the aletheia–pratyabhijñā crossove
 - [ ] The integration-gap literature — the book as integration technology for the phase the clinical field neglects.
 - [ ] Chögyam Trungpa — spiritual materialism, counterweight: practice as acquisition.
 
+## Around the promise — "it didn't hold" (added 2026-08-04, generative pass)
+
+The author's restated promise — the reader already had the big experience and it did not hold — makes the literature of non-persistence a direct concern rather than background.
+
+- [ ] John Welwood — coined spiritual bypassing (1984): spiritual ideas and experiences used to avoid psychological work; one of the named ways it didn't hold.
+- [ ] The reader's shelf — a mapping pass, not a person: what the book's likely reader has already read (van der Kolk, Pollan, Chödrön, the IFS workbooks), to learn which words arrive pre-armored. Serves the second reader type, whose armor is made of vocabulary.
+
+## The letter-writers' bench (added 2026-08-04, generative pass)
+
+Genre research feeding the open genre question without landing it: what letters do that treatises do not.
+
+- [ ] Seneca — the Letters to Lucilius as directed practice in epistolary form.
+- [ ] Keats — negative capability, formulated inside a letter rather than an essay.
+- [ ] Paul Celan — the poem as message in a bottle, underway toward an addressable you (Bremen speech).
+
+## Around the occasion (added 2026-08-04; bounded by author decision to introduction and conclusion)
+
+- [ ] Byung-Chul Han — The Burnout Society; the tired, self-optimizing subject is the first reader type diagnosed in two pages. One-page companion for the occasion only; the technology argument is not a chapter engine.
+
 ## Around the instrument
 
 - [ ] Michael Polanyi — tacit knowing; the felt sense as the engine of all expertise.

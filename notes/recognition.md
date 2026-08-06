@@ -38,6 +38,7 @@ The corpus also stations a warning at this concern and credits it to Lacan: reco
 - [[both poles of the convergence supply their own front doors]] — the accessible entries each tradition wrote for itself
 - [[the crossover has footsteps and the book already seats some of the walkers]] — the field around the core-thesis candidate, verified 2026-08-03: the spine held, and every careful walker recorded a difference
 - [[reading as remembering has a twenty-four-century ancestry in the west]] — Meno to Confessions X to the Parmenides lectures, sharing the gesture and disputing the destination
+- [[all six doctrine concerns appear in the first fifteen poems]] — the recognition doctrine in the primary layer: the answer already had, the inside already occupied, stated in the poems before the book existed
 
 ### Nascent stubs
 
