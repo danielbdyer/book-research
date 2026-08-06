@@ -76,8 +76,8 @@ Genre research feeding the open genre question without landing it: what letters 
 ## Around the instrument
 
 - [ ] Michael Polanyi — tacit knowing; the felt sense as the engine of all expertise.
-- [ ] William James — the fringe of consciousness; the felt sense's ancestry in American psychology.
-- [ ] Gendlin's Thinking at the Edge — the source lineage's own method for articulating from the murky edge.
+- [e] William James — evaluated 2026-08-04, recommendation recorded, awaiting the author's decision. The stance's ancestor; fruits-not-roots kept as the counterweight to the felt shift. `notes/william james.md`.
+- [e] Gendlin's Thinking at the Edge — recorded 2026-08-04 on the chair at `notes/eugene gendlin.md`: the writer's-side method matching the verification standard. Full primary read (The Folio 19(1)) still open.
 - [ ] Claire Petitmengin — micro-phenomenology; the strongest answer to the unfalsifiability objection.
 
 ## Around the anatomy

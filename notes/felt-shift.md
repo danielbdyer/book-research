@@ -30,6 +30,12 @@ One consequence for this vault is recorded in [[methods]]: the vault verifies st
 - [[the cusp is the back door to the stance]] — the image of the demand that outruns preparation
 - [[the voice follows every reach with a release]] — the prose rhythm that makes room for the somatic check
 - [[all six doctrine concerns appear in the first fifteen poems]] — the instrument in the primary layer: poem #4 names trusting experience as clear, and poem #8 records a felt shift happening on the page years before the vocabulary arrived
+- [[a genuine felt shift changes what can be said next]] — the defense, from the standard's own source: the genuine shift is a step that rearranges the sayable, and the counterfeit produces no step
+- [[gendlin's focusing protocol already guards against the counterfeit shift]] — the source protocol's own instructions: quick answers dismissed, freshness required, the check repeated across days
+- [[the felt sense of truth has a documented counterfeit catalogue]] — the measured literature of vehicle-produced yeses, with the teachability finding and the honest middle
+- [[attending to the body is not the same as reading it accurately]] — the dissociation that gives the second reader an empirical spine, with the measurement debate kept
+- [[zen's makyo instruction refuses the self-certifying experience]] — the refusal from inside the company, and the relational check it installs instead
+- [[eugene gendlin]] — the standard's source, seated by the corpus; his refusal bounds the borrowing: the shift verifies movement, not doctrine
 
 ### Nascent stubs
 
@@ -45,7 +51,7 @@ This concern borders [[relational-field]], because the book uses the field as a 
 
 ## What remains
 
-This map's own live question is the instrument's counterweights: grounding [[felt shift versus felt confirmation]] in the processing-fluency and interoception literature is the priority five's last open member. Beyond it, the space-around survey proposes four candidates that bear directly on this map, none yet researched — Polanyi's tacit knowing, William James's account of the vague, Gendlin's own Thinking at the Edge method, and Petitmengin's micro-phenomenology — on the pending-evaluation list in `ops/queue/candidates.md`, which is deliberately long.
+The counterweights question that led this map is answered in outline as of 2026-08-04: both limits are grounded in their literatures, and the defense was found where nobody had looked, in the standard's own source ([[a genuine felt shift changes what can be said next]]). What remains of it is depth rather than existence: A Process Model was inaccessible to the research round and is the philosophy's full statement; the titration guidance for muted-signal readers still rests on one clause with no sourcing of its own; and the per-practice verification-conditions pass is queued in `ops/queue/extractions.md`, which would give every practice on this map its own answer to "what would tell you it worked." Of the survey's four proposed candidates, James is now evaluated ([[william james]] — his fruits test is this map's standing counterweight) and Gendlin's TAE is recorded on his chair ([[eugene gendlin]]); Polanyi and Petitmengin remain unresearched in `ops/queue/candidates.md`.
 
 ---
 
