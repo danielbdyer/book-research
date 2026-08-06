@@ -56,18 +56,12 @@ The claim that the knower is inside what they know is the condition this map's l
 - [[harold garfinkel]] — social facts produced in the doing, with the breaching experiments as a procedure for making the always-there visible.
 - [[donald schon]] — knowing-in-action and the swampy lowlands, drawn in 1983 from inside the management literature this book's argument would otherwise address from outside it.
 - [[keith johnstone]] — presence under witness reached in a rehearsal room, in the author's own first discipline, and carrying status material the book has no equivalent for.
-- [[martin buber]] — the chair for the ontology beneath this map's vocabulary, currently seated at the roster's lightest position.
+- [[martin buber]] — his evaluation note, holding the ontology beneath this map's vocabulary while seated at the roster's lightest position.
+- [[salvador minuchin]] — the book's Enmeshment formula is his construct under his own word, and the larger find is the second thing he holds: fifty years of technique for altering a relational field deliberately, which the book's relational claim currently asserts without mechanizing. Whether he is a precedent for one formula or an independent arrival at the participation law is what the reading decides.
+- [[kurt lewin]] — *field* entered social psychology through him, with behavior as a function of person and environment taken together rather than as two separable causes. The book's between and its "the field is real" doctrine run on that vocabulary; so, at one remove, does set and setting. He also invented the group whose subject is itself, which is the head of the lineage the corpus traces only through Austin's speech acts.
 - [[the participation law has no opponent and its oldest objection is that participation is contamination]] — the hole the second search found: the objection is institutionalized in blinding and randomization, and no one in the company puts it.
 
-## The clinical bearer the between has never cited, added 2026-08-05
-
-- [[salvador minuchin]] — the book's Enmeshment formula is his construct under his own word, and the larger find is the second thing he holds: fifty years of technique for altering a relational field deliberately, which the book's relational claim currently asserts without mechanizing. Whether he is a `precedent` for one formula or an `independent-arrival` at the participation law is what the reading decides.
-
-## The word's own origin, added 2026-08-05
-
-- [[kurt lewin]] — *field* entered social psychology through him, with behavior as a function of person and environment taken together rather than as two separable causes. The book's between and its "the field is real" doctrine run on that vocabulary; so, at one remove, does set and setting. He also invented the group whose subject is itself, which is the head of the lineage the corpus traces only through Austin's speech acts.
-
-## What the Gendlin reading added, 2026-08-06
+## What the founding paper's reading added
 
 - [[the second chair is the verification standard's own requirement]] — the book's own test for whether anything landed barely operates alone, on the authority of the man the test is borrowed from: working solo a person circles without movement, and "even just saying to the other person a little" produces it. The wound at [[a codex is a one-chair technology making a two-chair argument]] now binds the verification standard as well as the relational doctrine, and the Second Chair treatment gains a mechanism to go with its lineage.
 
