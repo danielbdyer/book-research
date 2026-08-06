@@ -47,7 +47,7 @@ Relevant Notes:
 - [[suffering is contraction never corruption]] — the doctrine the fold operationalizes, which his construct states in the body
 - [[the gatekeeper is met with a bow never a fight]] — the one object he and the book disagree about, which is the more useful half of seating him
 - [[an enormous experience is interpreted by the structure it did not change]] — the structure in question, described a century earlier
-- [[the apparatus descends from the settlement the book positions itself against]] — the finding this belongs to, as its clearest structural case
+- [[the apparatus descends from the settlement the book positions itself against]] — eight of the book's nine traced constructs come uncredited from mid-century clinical psychology; Reich is the clearest case because his descendants are named in the acknowledgements while he is absent entirely
 - [[abraham maslow]] — the other unquoted correspondence from the same day, and a different relation: the originator's own correction
 
 Topics:

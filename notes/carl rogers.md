@@ -38,7 +38,7 @@ Relevant Notes:
 - [[the verification standard rests on one name and cannot be defended by company]] — the exposure Rogers partly answers by supplying the finding's program
 - [[nothing enters the lattice the body has not countersigned]] — the standard itself
 - [[the book can only be auxiliary to a sovereign reader]] — the book's commitment, which his non-directive practice states as a specified condition
-- [[the apparatus descends from the settlement the book positions itself against]] — the finding this belongs to, where his relation is a headless program rather than a headless lineage: the research is told three times and its principal is never named
+- [[the apparatus descends from the settlement the book positions itself against]] — eight of the book's nine traced constructs come uncredited from one mid-century formation; Rogers is the case where a research program is retold three times and its principal never named
 - [[transformation is enacted participation inside a held container]] — the law his three conditions are a specification of
 
 Topics:

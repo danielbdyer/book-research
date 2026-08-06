@@ -17,7 +17,7 @@ Minuchin's structural family therapy reads a family as a system with subsystems 
 
 The book's formula states the same thing. "Connection − Sever-capacity gives you Enmeshment. The medicine is to restore the capacity to Sever, to set difference and boundary, without leaving the connection altogether" (abridged ch8). The construct is his, the word is his, and the prescription's second clause, *without leaving the connection altogether*, is the distinction his continuum exists to draw. No source cites him.
 
-**The relation here is a restatement**, the same one Marcia's foreclosure has: the construct came first, the book states it operationally, and the technical term travels with it. The six relations the sweep produced are set out at `ops/inherited constructs.md`.
+**The relation here is a restatement**, the same one Marcia's foreclosure has: the construct came first, the book states it operationally, and the technical term travels with it. Other cases in this provenance work took other shapes — a lineage cited only from the middle down, an originator's own correction made unknowingly — and all six kinds are distinguished at `ops/inherited constructs.md`.
 
 **One half of this correspondence is quoted and the other is not.** The book's side is above, anchored. Minuchin's continuum is stated here from secondary knowledge in the vault's own words, and *Families and Family Therapy* has not been read here. The address is its chapters on boundaries and on the family in transformation. The match is proposed rather than established.
 

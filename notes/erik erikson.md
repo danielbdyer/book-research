@@ -35,7 +35,7 @@ Two questions, in the order that decides the most.
 Relevant Notes:
 - [[james marcia]] — the operationalization, and the citation the book actually owes
 - [[trust paralysis and foreclosure differ only on the commit-defer axis]] — the vault's reconstruction of Marcia's two axes, which are Erikson's two dimensions
-- [[the apparatus descends from the settlement the book positions itself against]] — the finding he belongs to, at its smallest: a frame rather than a construct
+- [[the apparatus descends from the settlement the book positions itself against]] — nine of the book's constructs trace to uncredited mid-century ancestors; Erikson is owed the least of any of them, one clause naming the frame Marcia measured
 - [[an enormous experience is interpreted by the structure it did not change]] — the structure in question, which his account makes socially negotiated rather than private
 
 Topics:

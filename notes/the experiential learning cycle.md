@@ -41,7 +41,7 @@ Relevant Notes:
 - [[abraham maslow]] — the same correction from the other direction: the plateau is built, and building is what this tradition studies
 - [[donald schon]] — the descendant already seated here, without his lineage's head
 - [[the practice forms specify when to begin and not how to tell one is finished]] — the curriculum's own gap, which the cycle's fourth station is an answer to
-- [[the apparatus descends from the settlement the book positions itself against]] — the finding this belongs to, at its loosest: a whole tradition rather than a borrowed term
+- [[the apparatus descends from the settlement the book positions itself against]] — the book's constructs trace to uncredited mid-century ancestors; this is the loosest of those cases, because the book borrows no term from this tradition, only its conclusion that experience alone does not teach
 
 Topics:
 - [[interlocutors]]

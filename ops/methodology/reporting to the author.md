@@ -28,6 +28,7 @@ What a session writes to the author is held to the same register as what it writ
 3. **A proposal states the problem before the answer.** What is currently going wrong or unhandled; one real instance, quoted or pointed at, of each option under consideration; what changes if it is adopted and what continues if it is not. A proposal reported as its conclusion alone asks him to approve a sentence rather than a decision.
 4. **The strength of the evidence is stated with the recommendation.** Two independent events and one observation with a single data point are different situations, and a report that ranks them together has hidden the thing he most needs in order to decide.
 5. **Compression stays required.** This is not a licence to lengthen. The register's fourth rule holds — the sources are highly styled and their style is contagious — and a long report is easier to write than a clear one. What is being asked for is context, not volume.
+6. **In conversation, rule 12 of the register binds hardest.** Added 2026-08-05, from the author's correction of the same day: indirection — meaning made by gesture, reference, or compression rather than fully explicated — is a tic of the same standing as the ones the register already names. A note's wiki links at least resolve; a chat reply's references cannot be opened at all, so a sentence spoken to him must stand entirely on what it says. Every pointer in conversation carries the content it points at, in a clause, or it does not appear.
 
 ## What this does not change
 

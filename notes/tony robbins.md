@@ -65,7 +65,7 @@ Relevant Notes:
 - [[the transformation field divides into five theories of where suffering lives]] — the survey in which he is one against four
 - [[the coaches are a bloc that competes with the compositional scheme]] — the bloc he breaks out of
 - [[an enormous experience is interpreted by the structure it did not change]] — the mechanism his state-change claim would have to be reconciled with
-- [[the apparatus descends from the settlement the book positions itself against]] — the finding his own uncredited genealogy belongs to, as a second half-traced genealogy
+- [[the apparatus descends from the settlement the book positions itself against]] — the book's own toolkit descends uncredited from mid-century clinical psychology, and so does its chosen opponent: his NLP ancestry is a second lineage the corpus leaves entirely untraced
 - [[joe hudson]] — the pole he stands opposite, whose sorting the same sweep also found wrong
 - [[kurt lewin]] — the T-group line that runs beside the one Robbins descends from, into the same room
 

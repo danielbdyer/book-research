@@ -41,7 +41,7 @@ Relevant Notes:
 - [[the triad is the anatomy of every container]] — the architecture the survey identifies with this framework
 - [[psychedelic names a movement not a substance]] — the reclamation that makes the borrowing legitimate and also complicates it
 - [[the basic practice posture is a point of return rather than a state]] — the Stance, which the survey says is what *set* is made of
-- [[the apparatus descends from the settlement the book positions itself against]] — the finding this belongs to, as its case of mis-addressed credit
+- [[the apparatus descends from the settlement the book positions itself against]] — eight of the book's nine traced constructs come uncredited from mid-century clinical and human-potential psychology; this is the one case where the corpus cites the living scholar and not the two originators
 - [[the transformation field divides into five theories of where suffering lives]] — where Zinberg's rituals-and-sanctions finding would land
 
 Topics:
