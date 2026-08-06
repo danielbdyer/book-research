@@ -10,6 +10,8 @@ allowed-tools: Read, Write, Edit, Grep, Glob, Bash, Task
 argument-hint: "[file] — path to source file to process end-to-end"
 ---
 
+**THIS VAULT'S EXTRACTION STANDARD (overrides the yield language below).** Admission is strict, governed by the writing test (`ops/methodology/writing test.md`) and the extraction categories in `ops/derivation-manifest.md`: a note earns its place by supplying something writing can use. A low or zero extraction count from a source is a valid result under this standard, not a bug, and count alone never triggers a retry — the stock 'TFT' yield rules below belong to the upstream engine's domain, not to this vault. The queue is `ops/queue/tasks.md` and the standing lists beside it; no queue.yaml or queue.json exists or is created. Notes follow `templates/claim-note.md`. Apply the personality block and the register countermeasure stamped at the end of `ops/derivation-manifest.md` to every sentence written.
+
 ## EXECUTE NOW
 
 **Target: $ARGUMENTS**

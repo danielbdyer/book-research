@@ -9,7 +9,7 @@
 cd "$(dirname "$0")/../.." || exit 1
 
 LOADS="thesis-bearing adversary independent-arrival names-existing-practice company precedent"
-DISCIPLINES="continental-philosophy indic-and-buddhist-primary abrahamic-contemplative african-philosophy clinical empirical-science social-theory systems-and-design poets-and-artists practitioner-pedagogy analytic-philosophy"
+DISCIPLINES="continental-philosophy indic-and-buddhist-primary abrahamic-contemplative african-philosophy clinical empirical-science social-theory systems-and-design poets-and-artists practitioner-pedagogy analytic-philosophy classical-philosophy"
 
 echo "== By load =="
 for L in $LOADS; do

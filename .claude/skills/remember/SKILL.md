@@ -9,6 +9,8 @@ model: sonnet
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash
 ---
 
+**THIS VAULT'S RECORDS (overrides the stock paths below).** The methodology index is `ops/methodology/methodology.md` — never create an `ops/methodology.md` file; a correction becomes its own file in `ops/methodology/` with spaces in its name, matching the folder's convention. Session records are JSON files in `ops/sessions/` (`current.json` plus timestamped archives); no `*.md` session files exist and there is no frontmatter to stamp — track mined state in `ops/sessions/mined.txt`, one filename per line, creating it on first use. New observations carry `status: open` per `templates/observation.md`. Apply the personality block and the register countermeasure stamped at the end of `ops/derivation-manifest.md` to every sentence written.
+
 ## Runtime Configuration (Step 0 — before any processing)
 
 Read these files to configure domain-specific behavior:
@@ -262,7 +264,7 @@ This mode scans stored session transcripts for friction patterns the user addres
 
 ```bash
 # Find session files without mined: true marker
-UNMINED=$(grep -rL '^mined: true' ops/sessions/*.md 2>/dev/null)
+UNMINED=$(ls ops/sessions/*.json 2>/dev/null | grep -v current | grep -vxF -f ops/sessions/mined.txt 2>/dev/null || ls ops/sessions/*.json 2>/dev/null | grep -v current)
 UNMINED_COUNT=$(echo "$UNMINED" | grep -c . 2>/dev/null || echo 0)
 ```
 
@@ -317,7 +319,7 @@ Before creating any notes:
 ---
 description: [what was observed and what it suggests]
 category: [friction | surprise | process-gap | methodology]
-status: pending
+status: open
 observed: YYYY-MM-DD
 source: session-mining
 session_source: [session filename]

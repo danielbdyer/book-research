@@ -30,6 +30,7 @@ Relevant Notes:
 - [[the convergence's independence fails where three of its names share one teacher]] — the test this arrival passes and most of the company fails
 - [[container-anatomy]] — the book's own architectural version of the same principle
 - [[the participation law has a witness who came to it through crystallography]] — the other clean arrival from a near-empty discipline
+- [[transformation is enacted participation inside a held container]] — the law this principle sits beside: what hides by being always there is only disclosed by someone inside it, which is why the seeing cannot be done from the audience
 - [[ludwig wittgenstein]] — the candidate note, with the refusal recorded
 
 Topics:

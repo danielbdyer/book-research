@@ -1,10 +1,10 @@
 ---
-description: Steven Katz's constructivism — "There are NO pure (i.e. unmediated) experiences" — is the strongest scholarly opponent of the crossover, and he breaks only the evidentiary book the author has already declined to write.
+description: Steven Katz's constructivism — "There are NO pure experiences" — is the crossover's strongest scholarly opponent; the convergence reading survives him, and his reseated question against the felt shift is unread.
 category: interlocutor
 seat: candidate
 load: adversary
 discipline: social-theory
-recommendation: "Reference-lineage as counterweight: the scholarly name for the caution the vault already holds, whose challenge the stance survives — convergence as company stands where convergence as proof falls."
+recommendation: "Reference-lineage as counterweight: convergence as company stands where convergence as proof falls, so the stance survives the 1978 essay's challenge to the crossover. The 2026-08-06 reseating aims him at the verification standard instead, and that question is unread. Grade: the survival verdict rests on the essay's thesis at survey depth, not on a full reading."
 works: ["Language, Epistemology, and Mysticism (in Mysticism and Philosophical Analysis, 1978)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
 topics: ["[[interlocutors]]", "[[research-frontier]]"]
@@ -15,6 +15,8 @@ topics: ["[[interlocutors]]", "[[research-frontier]]"]
 Steven Katz's 1978 essay states its working hypothesis in one sentence: "There are NO pure (i.e. unmediated) experiences." On his constructivism, a tradition's concepts shape the experiences its practitioners have, so a Christian's union and a Buddhist's śūnyatā are two experiences, not one reality twice reported — and any claimed convergence between traditions is an artifact of description. He is the strongest scholarly opponent the core thesis has, and the scholarly form of a caution the vault already holds in its own words at [[the unanimity claim is an artifact of how the lineages were selected]].
 
 What matters for the book is where his blade lands. Convergence held as proof falls to Katz. Convergence held as company — the stance's actual position, observation without evidentiary remarks — is not his target. His hypothesis forbids the strong reading of the founding isomorph (same experience, two vocabularies) and leaves the weak reading (same word-construction, same gesture) untouched, and the vault's phrasing of that isomorph already lives at the weak reading. The refusal kept is therefore double: he refuses the book the author declined to write, and his presence in the company keeps that book declined.
+
+The reseating of 2026-08-06 changed what his reading has to settle, and it is open. The survived challenge above is the one aimed at the convergence. The reading queue's first tier aims him at the verification standard instead: on his own hypothesis, a body trained by the book's vocabulary would produce the felt shift in response to the training rather than to anything beyond it — the deepest available version of the fluency objection, because it survives plain prose. That question is new, unread, and not answered by anything on this note; the paragraphs above settle the convergence reading only. The load assignment is the sort's (2026-08-05, reseated 2026-08-06), untested against a full reading of the essay.
 
 ---
 

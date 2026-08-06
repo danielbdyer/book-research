@@ -44,6 +44,10 @@ The corpus preserves, rather than adjudicates, the disagreements among its conte
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the sharpest of the forks, whose treatment is the body seated as referee and doctrine recusing itself
 - [[the middle voice is only earned against the voluntarist pole at full strength]] — the condition on that treatment: a resolution is worth what the position it overcomes was worth, and the will pole is the roster's easiest name to condescend to
 
+## The tension inside the vocabulary the author is questioning
+
+- [[the executed draft cannot decide whether the primitives are elementary operations or useful tools]] — treated. One page of the prose edition calls the six base operations "not metaphors… the elementary operations that constitute almost everything you do" and, four sentences later, "useful, not as facts but as tools." The two license different books, and the reader is given no signal about which they are in. Treatment: the author's decision of 2026-08-04 demoting the schemes from architecture to instrument, under which the prologue's scaffolding sentence stands and chapter five's first sentence does not. What is left is a revision note rather than an open question.
+
 ## The tension the making exposes
 
 - [[the perfectible conversation is the manuscript's most comfortable room]] — the medium of the book's own making as the ideal chamber for the word that can be perfected forever. Treatment: the exit the record already named — one chapter, one email, two real readers.
@@ -52,17 +56,17 @@ The corpus preserves, rather than adjudicates, the disagreements among its conte
 
 - [[the tradition the book owes most has no chair in its company]] — the Kashmir Śaiva tradition is honored as the ground beneath everything and never given a guest's chair, raised by the author in his own words, 2026-08-03, alongside his note that the rooms grouping is a prior draft's trapping. The author has stated the direction: it deserves its flowers. Treatment: the road into the valley — how the book brings a Western reader to the tradition honestly; four candidate refusals are derived and awaiting his testing at [[the kashmir shaiva tradition would decline four of the book's deepest moves]].
 
-## The tensions the lineage sort exposed (2026-08-05)
+## The tensions the lineage sort exposed
 
-Five arrived together with the mesh grid. Four are the same shape — a claim carrying weight with nothing argued against it — and they are holes in the reading rather than faults in the book; each names what would fill it, and all five are ranked at `ops/lineage sort.md`.
+Five arrived together with the mesh grid on 2026-08-05. Four are the same shape — a claim carrying weight with nothing argued against it — and they are holes in the reading rather than faults in the book; each names what would fill it, and the readings that would fill them are ranked, with page-level addresses, at `ops/reading queue.md`.
 
-- [[introspective access is the felt shift's undefended premise]] — the verification standard presupposes reliable access to one's own states, and the literature against that premise is unread. First-ranked, and the same standard the author judges thinly defended. Treatment: unassigned; the objection has not been read.
-- [[the participation law has no opponent and its oldest objection is that participation is contamination]] — nothing in the roster attacks the central claim, and the objection is institutionalized in the whole apparatus of blinding and randomization. Treatment: unassigned.
-- [[the basic posture is describable as dissociation and the harm literature is unread]] — the same description read clinically is a symptom, and the contemplative adverse-effects data is absent. Called the book's most defensible criticism and the cheapest to answer. Treatment: unassigned.
-- [[the book cannot tell dissolution from regression and neither can its reader]] — the book induces destabilization and names no diagnostic for what it induced; the standard that decides everything else is the one worst placed to decide this. Treatment: unassigned.
+- [[introspective access is the felt shift's undefended premise]] — the verification standard presupposes reliable access to one's own states, and the literature against that premise is unread. First-ranked, and the same standard the author judges thinly defended. Treatment: a candidate since the Gendlin 1964 reading — restate what the shift certifies as movement rather than truth, which narrows what introspection must deliver from describing inner states to noticing change against no-change; it is the standard's own author answering, and it is untested against the counterweights, which remain unread.
+- [[the participation law has no opponent and its oldest objection is that participation is contamination]] — nothing in the roster attacks the central claim, and the objection is institutionalized in the whole apparatus of blinding and randomization. Treatment: unassigned; Gellner, Popper, and the replication-reform literature are unread here.
+- [[the basic posture is describable as dissociation and the harm literature is unread]] — the same description read clinically is a symptom, and the contemplative adverse-effects data is absent. Called the book's most defensible criticism and the cheapest to answer. Treatment: unassigned; Britton's data is chaired and unread.
+- [[the book cannot tell dissolution from regression and neither can its reader]] — the book induces destabilization and names no diagnostic for what it induced; the standard that decides everything else is the one worst placed to decide this. Treatment: unassigned; the guardrail is named but not built.
 - [[a developmental scheme handed to practitioners becomes a ranking of persons]] — every documented precedent turned into a status hierarchy among its readers, and none produced a design feature that prevents it. Treatment: unassigned, and the demotion of the schemes is only a partial answer.
 
-Two more arrived with them and sit differently. [[the compound diagnoses may relocate a structural condition inside a person]] asks whether the book inherits the blind spot it names in the field it diagnoses — the counterweights are seated and the audit is not. And [[sorting a lineage by load turns it toward argument]] is the only one of the seven that is already treated: the instrument that found the other six operates in a register the authorial stance declines, and the author resolved the collision by scope rather than by choosing a side.
+Two more arrived with them and sit differently. [[the compound diagnoses may relocate a structural condition inside a person]] asked whether the book inherits the blind spot it names in the field it diagnoses; the audit was run on 2026-08-05 and the answer is no — the formulas split by whether their missing element is external or an act the person performs, and the defect is narrower than the charge ([[the minus sign cannot say whether the missing element was withheld or never on offer]]). It now carries a treatment: ask of each privated formula whether the missing element is withheld or unavailable. And [[sorting a lineage by load turns it toward argument]] is the only one of the seven that is already treated: the instrument that found the other six operates in a register the authorial stance declines, and the author resolved the collision by scope rather than by choosing a side.
 
 ### The chairs seated against them
 
@@ -74,7 +78,7 @@ Five names were brought in against the four undefended claims and the fork above
 - [[steven wasserstrom]] — the Eranos charge, which is structurally the charge available against this book's use of Trika.
 - [[tony robbins]] — the voluntarist pole at full strength, held as an adversary rather than as one teacher among eleven.
 
-## The tensions the two syntheses raised (2026-08-05)
+## The tensions the two syntheses raised
 
 - [[a synthesis organized by the schemes offers to promote them back to architecture]] — treated. A neurobiology synthesis organized throughout by the three-loop scheme, supplying each loop with neural correlates, is the most plausible route by which the demotion of 2026-08-04 gets reversed without anyone deciding to reverse it. Treatment: take the findings, decline the organizing principle, state every derived claim in plain terms.
 - [[the author is the book's first audience member and that is where the promise starts]] — treated, and the treatment is the author's own. Asked how a book that refuses instrumentality can promise transformation, he refused both available answers and started instead from what is intrinsically useful to him during his own therapy and integration, offering enough of the shape to be held up to the light rather than the whole passage. He states that the resolution is not clear to him, so this stays a trial.
@@ -87,7 +91,7 @@ Five names were brought in against the four undefended claims and the fork above
 
 Holding a tension open has been a rule of deference here — resolving is the author's act — rather than a claim that non-resolution is better. One of the two syntheses received 2026-08-05 supplies the missing half.
 
-- [[the drive to closure has measurable costs]] — the need-for-cognitive-closure literature documents that seizing on an early answer and freezing on it produces replicable biases, which turns this map's practice from restraint into a position. It also supplies the criterion that keeps the position honest: a tension earns its openness by naming what would close it, so the four adversary holes above, which carry no treatment at all, are accurate rather than comfortable.
+- [[the drive to closure has measurable costs]] — the need-for-cognitive-closure literature documents that seizing on an early answer and freezing on it produces replicable biases, which turns this map's practice from restraint into a position. It also supplies the criterion that keeps the position honest: a tension earns its openness by naming what would close it, so the adversary holes above that still carry no treatment — three of the four, since the Gendlin reading gave the first a candidate — are accurate rather than comfortable.
 
 ## Adjacent maps
 
@@ -95,7 +99,7 @@ This map borders [[book-structure]], because the book's six revision passes exis
 
 ## What remains
 
-The seven added 2026-08-05 change the shape of this map's work. Six carry no treatment, and that is accurate rather than a backlog: a treatment is a move under trial, and there is nothing to try until the objections are read. Filling them is a reading queue rather than a writing queue, ranked at `ops/lineage sort.md`. One of the seven — the interiority audit — is the exception, because it needs no outside reading at all; it is an extraction pass over the drafts asking of each compound diagnosis whether it addresses the right subject.
+The seven added 2026-08-05 change the shape of this map's work, and their treatment states have started to move: two are treated (the interiority audit ran the same day; the sort's own register collision was resolved by scope), one holds a candidate treatment from the first completed reading (introspective access, from Gendlin 1964), and the remaining four carry none — which is accurate rather than a backlog, because a treatment is a move under trial and there is nothing to try until the objections are read. Filling them is a reading queue rather than a writing queue, ranked with page-level addresses at `ops/reading queue.md`.
 
 Of the four fault lines the corpus keeps live among its company of thinkers, two now have notes — surrender versus will, and declaration versus disclosure. Interiority versus structure and the four doors' war do not, and the first of the two has gained a candidate who would carry it: Hartmut Rosa's structural diagnosis, evaluated at [[hartmut rosa]], is the position the corpus holds anonymously, calling it the material voice. The Barrett-versus-McLaren question (are emotions found or made) is stated in [[open-questions]] and now has its sourcing in [[karla mclaren]]; if the author decides it belongs among the kept tensions, it gets a tension note here.
 

@@ -18,7 +18,7 @@ The resolution is applied twice. The atlas reports that the book itself is writt
 - Atlas §VI.6 records both poles, the resolution, and the cross-application to channeling.
 - Walked VI carries the lineage detail (Austin through Erhard, Flores, and Dreyfus) and the epigraph the book composed and chose not to print: "you are not about to read a conversation; you are about to be one."
 - The atlas attaches a standing danger to the declarative pole at §IX.3, where the speech-act lineage is seated: the failure it names "declaration-as-vestment — the declared self worn as costume," a performance of transformation standing in for the event.
-- The space-around survey connects this resolution to Whitehead, whose account of a God that lures rather than forces it calls the middle voice at cosmological scale. Whitehead has not been researched for this project; he is on the pending-evaluation list in `ops/queue/candidates.md`.
+- The space-around survey connects this resolution to Whitehead, whose account of a God that lures rather than forces it calls the middle voice at cosmological scale. Whitehead was evaluated 2026-08-05 and holds an evaluation note at [[alfred north whitehead]] — the recommendation is to cite the lure in one sentence rather than import the machinery — with the primary work unread, so the connection stands at survey depth.
 
 ---
 

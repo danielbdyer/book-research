@@ -48,12 +48,12 @@ The provenance rounds established facts about how the corpus was made. Four of t
 - [[flourishing flow and facilitation converged on one stance in the author's own record]] — the count-once rule extended from documents to domains, since three of the author's chosen fields converging shows the coherence of his attention rather than a law of the fields.
 - [[the making of the book enacts the law the book states]] — the limit case of the scope rule, and the one the vault sits inside: a law appearing in its own production history shows consistency of the maker, not truth of the law.
 
-### What the lineage sort and the two syntheses added to the rules, 2026-08-05
+### What the lineage sort and the two syntheses added to the rules
 
 Six findings from that day are about how the vault works rather than about what the book claims, and each puts pressure on a house rule above.
 
 - [[the company was sorted by what each thinker brings and never by what the book cannot lose]] — the sorting defect behind the second axis: a taxonomy by contribution answers what a thinker brings and never asks what happens if they leave.
-- [[the verification standard rests on one name and that name has no chair]] — the case that exposed it, and a direct check on rule 5: the standard the vault cannot run is also one the vault had not seated.
+- [[the verification standard rests on one name and cannot be defended by company]] — the case that exposed it, and a direct check on rule 5: the standard the vault cannot run is also one the vault had not seated.
 - [[sorting a lineage by load turns it toward argument]] — the tension the new axis creates against the stance that governs prose, treated by scope rather than resolved.
 - [[the convergence's independence fails where three of its names share one teacher]] — rule 7's count-once principle extended from documents to thinkers, since shared teaching makes agreement a family resemblance rather than an arrival.
 - [[the drive to closure has measurable costs]] — the warrant beneath rule 4, and the criterion that separates a disciplined open tension from a romantic one: naming what would close it.
@@ -69,7 +69,9 @@ A claim may be recorded before it is substantiated, carrying `state: nascent`, w
 
 ## Source registry
 
-Seven source documents, each with an archive note recording provenance, standing, and extraction state. Each entry gives the citation name claims use, the file, and the anchor grammar.
+Eight source documents — the seven corpus documents and the poems beneath them — each with an archive note recording provenance, standing, and extraction state. Each entry gives the citation name claims use, the file, and the anchor grammar.
+
+**What the registry is a registry of, restated by the author 2026-08-05.** These documents are the vault's evidence and not its subject: "this research is and has always been about the primary material, and not the sources I've provided which indicate an imperfectly potentiated form of the essences I really care about." Every rule below is unchanged as a rule for reading evidence. What sits above them is the direction of flow — the corpus is downstream of what the research is about, so no quantity of corpus material settles the subject, and where the two conflict the primary material governs. The directive is `ops/methodology/the primary material.md`; the consequence that reaches this list most often is that a thinker's own work is primary and the corpus's account of that thinker is not.
 
 ### Descriptive sources (the four founding documents, July 2026)
 
@@ -93,6 +95,10 @@ These are the book rather than accounts of it. They are secondary by the author'
 - [[source — the arc and the gloss]] — the storyboard treatment of the fifteen-chapter arc, second edition, five rooms integrated. File: `sources/the arc and the gloss - second edition.pdf`. Cited as `arc-gloss`, with named sections: `arc-gloss: overlay four`, `arc-gloss: ch4`. Upstream of the atlas and the walked document, which name it in their colophons.
 - [[source — the abridged edition]] — the fifteen-chapter arc executed in full prose. File: `sources/firing on all cylinders - abridged edition.pdf`. Cited as `abridged`, with chapter numbers and section names: `abridged ch6`, `abridged: a note on sources`.
 - [[source — the mythic operating system]] — a twenty-eight-chapter table of contents with one chapter written; the author's named high-water mark of voice. File: `sources/firing on all cylinders - a mythic operating system.pdf`. Cited as `mythic-os`, with section names and the written chapter's own page numbers: `mythic-os: contents`, `mythic-os: page 9`. The provenance reconstruction dates this document to April 2025, making it the earliest datable state of the project rather than one draft among three.
+
+### Reading records (the primary readings' trace, begun 2026-08-05)
+
+A completed reading of a thinker's own work produces its own archive record, named `reading — <author>, <work> (<year>).md`, stating what was read (edition, whole or in part), the findings with their locators, the questions the reading settled, and the works still unread. Claims then cite the work by its own stable locators — `Gendlin 1964, fn. 13 and def. 13` — and the reading record is the trace behind that citation grammar; the record kind's schema sits beside the source template in `templates/source.md`. The first instance is `archive/reading — gendlin, a theory of personality change (1964).md`, from the founding paper of the felt-shift standard. The queue that produces readings is `ops/reading queue.md`, and a reading's findings enter `notes/` through the pipeline like any other material.
 
 ## Works consulted
 

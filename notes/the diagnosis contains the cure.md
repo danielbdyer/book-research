@@ -16,7 +16,7 @@ The corpus identifies the principle as the contraction doctrine in operational f
 - Atlas §IV marks the principle as a major mass (◉) and states it in the sentence this note takes as its title.
 - The three canonical formulas each have their own claim: [[burnout is obligation minus sanctuary]], [[grief is sever plus love plus persist]], and [[trust and paralysis are isomers]] (with [[forgiveness is sever then release]] carrying the ordering rule).
 - First-telling, "The offering": "Suffering, in this framework, is almost never a wrong ingredient. It's a missing one, and the minus sign points directly at what to supply."
-- The space-around survey identifies the principle's classical ancestor and the objection that comes with it: Aristotle's steresis, and the distinction between privation (a missing ingredient) and affliction (a presence that must be borne). Researching both is on the pending-evaluation list in `ops/queue/candidates.md`.
+- The space-around survey identifies the principle's classical ancestor and the objection that comes with it: Aristotle's steresis, and the distinction between privation (a missing ingredient) and affliction (a presence that must be borne). The ancestry was evaluated 2026-08-06 and holds an evaluation note at [[aristotle on privation]], which carries the affliction objection with it; the primary text remains unread, so the connection stands at survey depth.
 
 ---
 

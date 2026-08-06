@@ -38,18 +38,18 @@ The corpus keeps the book honest with a specific apparatus: inhabited margins th
 
 The corpus equips the book with paired figures, each equating an image, a concern, and a term from the Kashmir Śaiva tradition. Every figure is an image-category claim, quotable when drafting the unit it serves:
 
-- [[the house with no ceiling is transcendence with plumbing]]
-- [[the orchard's koan is that composting is not death]]
-- [[the gold thread ties the continuity loop to the book's own genre]]
-- [[the ink that listens is the relational field at the scale of a page]]
-- [[the engine is a triadic theology in mechanic's clothing]]
-- [[the fruit that falls is the word become deed]]
-- [[the gatekeeper is met with a bow never a fight]]
-- [[the book is a tuning fork and the reader is the striking surface]]
-- [[the circle is the form in which the naked sentence gets met]] — second edition
-- [[the messenger makes suffering unopened correspondence]] — second edition
-- [[the racket is the attractor state with a salary]] — second edition
-- [[the cusp is the back door to the stance]] — second edition
+- [[the house with no ceiling is transcendence with plumbing]] — the whole-book vehicle: working rooms below, an unclosed top above
+- [[the orchard's koan is that composting is not death]] — the figure for the metabolic arc's last station, where superseded material feeds what follows
+- [[the gold thread ties the continuity loop to the book's own genre]] — the continuity figure, whose reach into the letter genre is the book's own address question
+- [[the ink that listens is the relational field at the scale of a page]] — the between, installed on the book's own surface
+- [[the engine is a triadic theology in mechanic's clothing]] — the three loops carrying the triad in working dress
+- [[the fruit that falls is the word become deed]] — completion as expression leaving the tree that made it
+- [[the gatekeeper is met with a bow never a fight]] — the threshold figure and the posture it teaches at every gate
+- [[the book is a tuning fork and the reader is the striking surface]] — the resonance theory of reading, installed on page one to govern the ending
+- [[the circle is the form in which the naked sentence gets met]] — a second-edition addition: the practice form witnessing requires
+- [[the messenger makes suffering unopened correspondence]] — a second-edition addition: emotion as a letter waiting to be read
+- [[the racket is the attractor state with a salary]] — a second-edition addition: the payoff that keeps a stuck pattern funded
+- [[the cusp is the back door to the stance]] — a second-edition addition: the demand that outruns preparation
 
 ## Three drafts of the object itself
 
@@ -116,6 +116,12 @@ The provenance record of 2026-08-02 and after — the accounts of the corpus's m
 - [[the per-chapter dial is a spanda ratio]] — the chapter dial carries the tradition's word for the pulse
 - [[the unfolding of the center is planted half-erased and finished at a mirror]] — the clearest case of the planting device: a formula planted as a fragment and finished late
 - [[the minus sign is what makes a molecule formula prescriptive]] — the notation that sorts the catalogue into descriptions and instructions
+- [[the compositional notation does not license the operations its syntax implies]] — what happens when the executed draft's own formulas are checked against each other
+- [[the chemistry's teachings are structural and its notation is only compositional]] — the general finding from the complete formula audit: the notation records membership and every teaching is about relation
+- [[the alphabet's closure rests on a drill no record shows being run]] — the asserted test that made the set an alphabet, and its missing instance
+- [[the corpus names the standard its found-not-invented axiom has not met]] — two descriptive sources disagreeing about whether the vocabulary is a discovery
+- [[the executed draft cannot decide whether the primitives are elementary operations or useful tools]] — the same page asserting both statuses, treated by the author's demotion
+- [[the diagnostic discipline survives the apparatus that carries it]] — what stands if the notation is set aside, and on what grounds
 - [[the closing prompt changes genre where the book turns to praxis]] — the unstated rule governing what an instruction may ask for, and when
 - [[the treatment records four authorship conditions in its undercurrents]] — the author's recorded observations about writing the book, quoted
 - [[the units the treatment flags as unfinished are the shortest in the executed draft]] — the measurement that confirms two of those conditions
@@ -137,7 +143,7 @@ Manuscript placement emerges from the author's decisions and is never inferred b
 
 ## What remains
 
-The seventeen trial chapters themselves are still not in `sources/`. What arrived on 2026-08-01 is three drafts of the whole, at three scopes, none of which is the trial-chapter set the atlas counts. The next expansions this map wants, in order: reconcile the abridged edition's fifteen-chapter execution against the working structure recorded above, chapter by chapter, and record where they differ; and extract the Arc and the Gloss treatment's four overlays and its four added image-system entries (the Circle, the Messenger, the Racket, the Cusp), which the atlas summarizes but does not carry whole. The question that stood third here is closed: the abridged edition is a separate artifact postdating the treatment's second edition, settled from outside `sources/` by the provenance reconstruction of 2026-08-02 and indexed in `ops/decisions.md`. This map is also well past the split guideline (roughly twenty-five entries; it now carries about sixty); its thirteen sections are the split-within-structure the rule asks for first, and a further split waits for a /rethink pass. The two sections added 2026-08-05 — the precedent bench and what the object presupposes — are the clearest candidates for a map of their own if that pass ever runs, because both are about the book as an attempted object rather than about the structure the sources record. Placements remain the author's; none is inferred here, and the arrival of drafts does not change that rule.
+The seventeen trial chapters themselves are still not in `sources/`. What arrived on 2026-08-01 is three drafts of the whole, at three scopes, none of which is the trial-chapter set the atlas counts. The next expansions this map wants, in order: reconcile the abridged edition's fifteen-chapter execution against the working structure recorded above, chapter by chapter, and record where they differ; and extract the Arc and the Gloss treatment's four overlays, which the atlas summarizes but does not carry whole — the treatment's four added image-system entries (the Circle, the Messenger, the Racket, the Cusp) are done, each carrying a claim in the image list above. The question that stood third here is closed: the abridged edition is a separate artifact postdating the treatment's second edition, settled from outside `sources/` by the provenance reconstruction of 2026-08-02 and indexed in `ops/decisions.md`. This map is also well past the split guideline (roughly twenty-five entries; it now carries about sixty); its thirteen sections are the split-within-structure the rule asks for first, and a further split waits for a /rethink pass. The two sections added 2026-08-05 — the precedent bench and what the object presupposes — are the clearest candidates for a map of their own if that pass ever runs, because both are about the book as an attempted object rather than about the structure the sources record. Placements remain the author's; none is inferred here, and the arrival of drafts does not change that rule.
 
 ---
 

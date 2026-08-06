@@ -1,5 +1,5 @@
 ---
-description: "David Loy is seated in the reference lineage: his account of the ego's constitutive lack independently confirms the book's first contraction, which is why the corpus counts it as its strongest external evidence."
+description: "David Loy independently confirms the book's first contraction through Freud, Becker, and Nāgārjuna, and carries the adversary designation against another claim — the route to selflessness through the fullness of the I."
 category: interlocutor
 seat: reference-lineage
 load: adversary
@@ -17,6 +17,8 @@ David Loy is a Buddhist philosopher working at the meeting point of psychoanalys
 Loy contributes a second element the corpus uses at scale: his "lack projects" — money, fame, romance, immortality — describe entire economies organized around a complaint that cannot be satisfied and a payoff that keeps it running, which the corpus reads as its Racket diagnostic operating at civilizational size.
 
 Loy also sets a standard this vault has adopted. The space-around survey's admission rule — nothing gets listed unless it would actually change how the project thinks — is stated in that document as "the Loy standard," and [[methods]] records it as the vault's admission rule.
+
+The load field says `adversary`, and the two paragraphs above are not the case for it, so the case is stated here. The confirmation is real and stays: he reaches the first contraction independently. What he opposes is a different claim — the book's account of the route. The book holds that selflessness is reached through the fullness of the first person ([[the fullness of the first person is the road to selflessness rather than its obstacle]]); Loy's no-self position stands at the other end of that claim, which makes him the seated opponent of the route while remaining the confirmer of the diagnosis. The assignment is the lineage sort's proposal (2026-08-05, `ops/lineage sort.md`), untested against a primary reading; both listed works are unread here.
 
 ## Substantiation
 

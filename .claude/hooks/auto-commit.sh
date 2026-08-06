@@ -7,8 +7,9 @@
 
 set -e
 
-# Change to project directory
-cd "${CLAUDE_PROJECT_DIR:-$(pwd)}"
+# Change to project directory; fall back to the repository root this script
+# lives in, not the invoking directory, which may be anywhere.
+cd "${CLAUDE_PROJECT_DIR:-$(cd "$(dirname "$0")/../.." && pwd)}"
 
 # Only run in Ars Contexta vaults
 GUARD_DIR="$(cd "$(dirname "$0")" && pwd)"

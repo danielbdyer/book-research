@@ -48,16 +48,16 @@ Open territory the corpus named and never developed, recorded so it is reachable
 - [[the sacred in the ordinary is produced by sensory design]] — nascent; whether the ordinary is noticed or arranged
 - [[a person lives inside symbolic infrastructures they have built]] — nascent; the corpus has read one such system already
 
-## Arrivals from outside both traditions, added 2026-08-05
+## Arrivals from outside both traditions
 
 The founding convergence is between two traditions, and the lineage sort asked who else reached the same structure without standing in either. Two arrivals came back, and both are recorded with the refusal that keeps them honest rather than flattering.
 
 - [[the always-there hides by being always there and wittgenstein said so without heidegger]] — Investigations §129 gives this map's own reason why the never-absent goes unnoticed, with no Heidegger underneath it.
-- [[ludwig wittgenstein]] — that arrival's chair, whose refusal halves the correspondence and is kept for that reason.
+- [[ludwig wittgenstein]] — that arrival's evaluation note, whose refusal halves the correspondence and is kept for that reason.
 - [[the state that arrives and the station that is earned were distinguished a millennium before the lattice that names them]] — the Sufi distinction the book already uses as its bypass guard, reached from outside both poles.
 - [[al-qushayri]] — the eleventh-century systematizer who drew it.
 
-## Why an arrival does not persist, added 2026-08-05
+## Why an arrival does not persist
 
 This map states what the book says happens. The reader the author defined on 2026-08-04 is someone to whom it already happened once and did not last, so the mechanism of non-persistence is now load-bearing for the doctrine rather than incidental to it. Two mechanisms are held side by side and deliberately not merged, because they imply different books.
 
@@ -67,6 +67,14 @@ This map states what the book says happens. The reader the author defined on 202
 ## Adjacent maps
 
 This concern borders [[contraction-not-corruption]], because the move from healing to recognition is what removes "broken" as a starting assumption. It borders [[answerability]], because the book claims recognition lands in reading only when the word is fully embodied. It borders [[relational-field]], because the same word (Hegel's *Anerkennung*, recognition) grounds the book's account of what two people do for each other.
+
+## The vocabulary of the peak, and who coined it
+
+- [[abraham maslow]] — *peak experience* is his term, used nine times as a technical term in the executed draft and cited nowhere; more consequentially, the book's claim that the peak is not the work is his own late correction toward the plateau, made sixty years earlier by the man whose vocabulary the book is using.
+
+## The identity vocabulary's origin
+
+- [[erik erikson]] — *identity crisis* is his coinage and the psychosocial moratorium is his construct, which makes him the frame behind Marcia's statuses and behind the book's identity loop. His refusal is the useful part: identity on his account has to be recognized by a community to hold, which is half of what a reader working alone from a formula can do.
 
 ## What remains
 

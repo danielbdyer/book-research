@@ -21,23 +21,27 @@ That is the standard this book verifies on. By the author's statement of 2026-08
 
 ## What his placement here has been
 
-One name in the roster of twenty-nine builders of enterable structure (atlas §IX.4), plus a shared chapter-patron position with Karla McLaren. Five claim notes use his term and none cites the man. The mesh grid's correction is the sharpest structural finding it makes about this vault: "He is the floor under every claim the book makes about whether something worked. Promote, and then defend" (`mesh grid: tier 1`). The general defect it exposed is at [[the company was sorted by what each thinker brings and never by what the book cannot lose]]; the specific one is at [[the verification standard rests on one name and that name has no chair]].
+One name in the roster of twenty-nine builders of enterable structure (atlas §IX.4), plus a shared chapter-patron position with Karla McLaren. Five claim notes use his term and none cites the man. The mesh grid's correction is the sharpest structural finding it makes about this vault: "He is the floor under every claim the book makes about whether something worked. Promote, and then defend" (`mesh grid: tier 1`). The general defect it exposed is at [[the company was sorted by what each thinker brings and never by what the book cannot lose]]; the specific one is at [[the verification standard rests on one name and cannot be defended by company]].
 
 The `load:` assignment here is the grid's and the author cosigns the instrument at 65–75%. It is unusually well supported for a grid assignment, because the vault can check it against the author's own statement of what the standard is: if the felt shift is the single verification criterion, its author is thesis-bearing by the axis's own test, and no reading of Gendlin is required to see that.
 
-## What he would refuse
+## The reading, 2026-08-05
 
-This is where the evaluation is thinnest and it is also where it matters most, so the refusals below are marked as derived rather than sourced — none is quoted from a primary text read in this vault, and each needs verification before manuscript use.
+The vault's first primary reading of him is done: "A Theory of Personality Change" (1964), the paper the Focusing Institute's library describes as containing the original observation and definition of focusing, read complete. The record, with locations and what remains unread, is `archive/reading — gendlin, a theory of personality change (1964).md`. It settled two of the three questions this chair had queued and moved the third.
 
-Gendlin was insistent that focusing is a *teachable procedure with steps*, deliberately demystified and stripped of any spiritual framing, precisely so that it would not become an initiation. He published the steps for anyone. A book that embeds the felt shift inside an arc of preparation, onset, peak and integration is doing the thing he took the trouble to undo.
+**He makes a narrower claim than the book makes on his behalf.** The 1964 correctness of a symbolization is its experienced effect on the process, and his own footnote denies the stronger reading: "'correctness' does not imply that a given set of symbols means what the felt referent alone means" (fn. 9). The shift — his 1964 term is "referent movement" — certifies that the process carried forward, not that a content is true. The full claim, with what it does to the standard's largest objection and what it costs the book, is [[the felt shift certifies carrying forward rather than correspondence]].
 
-He also held that the felt sense is not a message from a wiser part of the person. It is unformed and requires carrying forward; it can be wrong, and what comes from it is checked against the situation rather than accepted because it arrived bodily. A standard that reads bodily assent as verification without that checking step is using half of his instrument.
+**He treats the checking question himself, in a taxonomy.** Footnote 13 lists four kinds of inward attention that are not focusing — sheer emotion, the circumstantial orbit, the explanatory orbit, self-engineering — each detectable by the same mark, the absence of referent movement. The claim is [[gendlin names four kinds of inward attention that are not focusing]]. His sentence on the will inside that footnote supplies the first mechanism the vault holds for the surrender-and-will fork: willpower "cannot be effectively exerted at points where experiencing does not implicitly function."
 
-And there is a limit he stated himself that bears directly on the largest open hole: focusing does not work for everyone at first, and he devoted method papers to teaching the felt sense to people who did not have one available. That is his own acknowledgment of the muted-signal problem the corpus records ([[felt shift versus felt confirmation]]), and it means the objection to the standard's universality is inside his own work rather than only outside it.
+**The friction property is his, at the primary text.** "His previous formulation which felt correct must be replaced by another which now feels more correct," and "Not even the individual himself judges it but, we might say somewhat poetically, his direct referent does the judging" (def. 8 and fn. 11). The vault's note at [[the felt sense rejects formulations and that friction is what separates it from fluency]] held this at second hand; it now stands on the founding paper.
+
+**He is a witness against the solitary reading, in one sentence.** "It is often possible, though always unsteady and difficult, for the individual to focus by himself" (fn. 13) — and the surrounding passage says the difference is dramatic: alone, hours of circling with no movement; with an understanding listener, movement from saying a little. The manner-of-experiencing section (def. 13) generalizes it: "there is already all the difference between how one thinks and feels alone and how one thinks and feels with another person."
+
+**One disagreement the reading opened, between the two chapter co-patrons.** McLaren's teaching is that every emotion is a messenger carrying a question; Gendlin's footnote says emotions are "sheer," internally one quality, and that they "often keep him from sensing that in himself which is the complex ground of the emotion" — his instruction is to move past the emotion to the felt sense beneath it. One co-patron says open the emotion's mail; the other says the emotion is not the mail. The disagreement is recorded on both notes and left open, and the arbitration needs two readings, not one: no completed reading of McLaren's *The Language of Emotions* exists in this vault — her chair rests on the corpus's account — and Gendlin's *Focusing* is likewise unread, so each side currently speaks through a different kind of evidence (his through the 1964 paper, hers through the corpus's relay).
 
 ## What the evaluation still requires
 
-The primary reading has not been done. Three things it should settle: whether Gendlin himself makes the verification claim the book makes on his behalf, or something narrower; how *A Process Model* grounds the felt sense, since that is where the philosophical weight sits rather than in *Focusing*; and what he says about checking, because the difference between a felt shift and a felt confirmation may already be treated in his own terms ([[introspective access is the felt shift's undefended premise]]).
+The empirical history is the remaining gap, and it is the one the corpus's own story leans on. The 1964 paper is theory; its one research citation calls the physiological evidence "tentative" in Gendlin's own word (fn. 10). What predicted change in the recorded therapy studies is in the 1968 focusing-ability paper and the later reviews, none read here, and the 1969 research paper is paywalled. *Focusing* itself and *A Process Model* also remain unread — the life-sentence the corpus quotes is from *Focusing* and is still unverified against its book, and the chair's question about where the philosophical weight sits now points at *A Process Model* with more urgency, since the 1964 paper carries more of it than expected.
 
 ## Recommendation
 
@@ -46,8 +50,10 @@ Recorded in the field above; the seating decision is the author's.
 ---
 
 Relevant Notes:
+- [[the felt shift certifies carrying forward rather than correspondence]] — the reading's central finding: his certificate is movement, the book's use of it is truth
+- [[gendlin names four kinds of inward attention that are not focusing]] — his own counterfeit-detection, from the same paper
 - [[nothing enters the lattice the body has not countersigned]] — the standard, as the book states it
-- [[the verification standard rests on one name and that name has no chair]] — the structural finding this note answers
+- [[the verification standard rests on one name and cannot be defended by company]] — the structural finding this note answers
 - [[felt shift versus felt confirmation]] — the two limits the corpus records, one of which he recorded first
 - [[introspective access is the felt shift's undefended premise]] — the objection the standard has never met, and the reading that would follow this one
 - [[what is split off not felt remains the same]] — the claim that runs most directly on his account of the implicit

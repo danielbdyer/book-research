@@ -34,7 +34,7 @@ processing:
 provenance: full             # every claim carries sources with locations
 
 personality:
-  enabled: false
+  enabled: true   # the manifest's personality block carries the register countermeasure (2026-08-05); this flag said false while the manifest carried tuned values — reconciled 2026-08-06
 
 research:
   primary: web-search

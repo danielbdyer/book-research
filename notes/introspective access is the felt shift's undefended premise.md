@@ -2,7 +2,7 @@
 description: The book's verification standard presupposes reliable access to one's own inner states, and the empirical literature against that premise has never been put to the book.
 category: tension
 status: live
-treatment: "unassigned — the reading is queued and the counterweights are unread"
+treatment: "candidate, from the standard's own founding paper (read 2026-08-05): restate what the shift certifies as movement rather than content, which narrows what introspection must deliver from describing inner states to noticing change against no-change — the counterweights remain unread, so this is untested against them"
 sources: ["mesh grid: against C4", "mesh grid: the search map", "author statement, 2026-08-04"]
 topics: ["[[tensions]]", "[[felt-shift]]"]
 state: privated
@@ -21,7 +21,7 @@ The three are of different kinds and the difference matters. Nisbett and Wilson'
 
 - This note is stated on the grid's authority and is `privated` by the vault's own convention: none of the three primary works has been read here, and the descriptions above are the grid's characterizations rather than the vault's verification. Filling it is the first item in `ops/lineage sort.md` and the first item in the torch.
 - The load the claim carries is the author's own, stated 2026-08-04: the felt shift is the book's single verification criterion and "everything else runs downstream of it." He judges it currently to have "little defense," which makes this hole his assessment as well as the grid's.
-- The tension is filed `live` with no treatment, and that is accurate rather than a placeholder: the vault has nothing to try yet, because the objection has not been read.
+- The tension stays `live`, and it gained a candidate treatment on 2026-08-05 from the least expected direction: the standard's own founding paper. Gendlin's 1964 definition makes the shift certify that the process moved, not that a content is true, and his negative criterion — "From this lack of referent movement, one knows that nothing has really changed" — asks a person only to notice change against no-change, not to describe their inner states accurately. A discrimination is a weaker introspective demand than a description, so the standard as its author stated it has a smaller attack surface than the standard as the book uses it ([[the felt shift certifies carrying forward rather than correspondence]]). This narrows the target; whether the narrowed target survives Schwitzgebel is exactly what his reading now has to settle, and it is unread.
 - One reason this tension is harder than a literature pass, carried from `ops/methodology/the book's current shape.md`: the book's second reader type is fluent in integration vocabulary and uses that fluency to avoid feeling, which makes the author's own articulacy a hazard. If the standard's failure mode and the book's defining reader are the same thing, then a defense of the standard has to survive being written in the book's own prose.
 - What would break if the objection holds is worth stating so the stakes are not vague: not the book's claims about what is true, but its account of how a reader would know. A reader who cannot trust the countersignature is left with the argument, and the author has explicitly said the book does not verify there.
 
@@ -30,7 +30,7 @@ The three are of different kinds and the difference matters. Nisbett and Wilson'
 Relevant Notes:
 - [[nothing enters the lattice the body has not countersigned]] — the standard whose premise this tension names
 - [[felt shift versus felt confirmation]] — the two limits already recorded, both on the reading rather than on the premise
-- [[the verification standard rests on one name and that name has no chair]] — why a single-bearer claim cannot be defended by company
+- [[the verification standard rests on one name and cannot be defended by company]] — why a single-bearer claim cannot be defended by company
 - [[steven katz]] — the one named adversary already evaluated here, whom the grid reseats against this claim specifically
 - [[beauty recruits the wrong posture]] — the stylistic form of the same problem, where the prose produces the assent
 

@@ -12,7 +12,7 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 
 ## Claims in this map
 
-- [[a word at madhyama can be perfected forever a word at vaikhari can be answered]] — the distinction itself
+- [[a word at madhyama can be perfected forever a word at vaikhari can be answered]] — madhyamā is the inner articulate level where a formulation can be revised without end, vaikharī the uttered level where it can finally be answered; the manuscript's unreleased state lives on the revisable side of that line
 - [[the middle voice settles declaration against disclosure]] — the book's resolution of the speech-makes-reality versus speech-lets-reality-show dispute
 - [[werner erhard]] — the declarative pole of that dispute, seated for the mechanism and carrying its own standing danger
 - [[the book is a tuning fork and the reader is the striking surface]] — the image the book installs on page one to govern its ending and its publication
@@ -31,7 +31,7 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 - [[the sixteenth poem returns the book's language to the life it came from]] — the blade lived at the size of a text: the trembling as the sentence leaves the architecture
 - [[the gap between two states is where the concealed shows itself]] — the teaching that the silence between a spoken word and its answer is a crossing, not a failure
 
-## Who the word is answerable to, added 2026-08-05
+## Who the word is answerable to
 
 Three findings from the same day bear on this map from the speaker's side rather than the reader's: who the first audience is, what the instrument the writing is done with can and cannot be answerable for, and what a word carries once it is spoken to someone at a threshold.
 
@@ -42,6 +42,10 @@ Three findings from the same day bear on this map from the speaker's side rather
 ## Adjacent maps
 
 This concern borders [[relational-field]], because answerability requires someone to answer. It borders [[felt-shift]], because the corpus supplies a somatic test for whether an understanding arrived in reading or was merely assembled. It borders [[book-structure]], because the book is designed to end on a line written so that it can be answered.
+
+## The pedagogy under the integration argument
+
+- [[the experiential learning cycle]] — Dewey established that experience is not automatically educative and that some experience is miseducative, and Kolb formalized the stations an experience has to pass through to become learning. That is the book's answer to why the peak does not hold, held by a tradition that has been testing it for a century and that appears in no source. Donald Schön, already chaired here, is a direct descendant, so part of the lineage is seated without its head.
 
 ## What remains
 

@@ -51,7 +51,7 @@ The seats are functional. The corpus's narrative names for them are recorded in 
 ### How the company is sorted, and the sorting's own findings
 
 - [[the company was sorted by what each thinker brings and never by what the book cannot lose]] — the author's correction of 2026-08-05 and the reason for the second axis.
-- [[the verification standard rests on one name and that name has no chair]] — the case that exposed the blind spot: the felt shift's author filed among twenty-nine builders.
+- [[the verification standard rests on one name and cannot be defended by company]] — the case that exposed the blind spot: the felt shift's author filed among twenty-nine builders.
 - [[the nearest prior attempts are case histories rather than interlocutors]] — the kind of thinker the seat taxonomy had no cell for, whose value is their outcome.
 - [[sorting a lineage by load turns it toward argument]] — the tension the axis creates against the authorial stance, treated by scope rather than resolved.
 - [[the coaches are a bloc that competes with the compositional scheme]] — the largest re-reading the sort produced: eleven colleagues read as one argument.
@@ -85,6 +85,40 @@ Four propositions the sort finds carrying weight with no adversary seated agains
 - [[kshemaraja]] — source-tradition. He wrote the twenty-sūtra Heart of Recognition, and the book plants his formula about the center rather than quoting it.
 - [[utpaladeva]] — source-tradition. He founded the recognition school; the corpus names him as the far side of the Heidegger convergence.
 - [[martin heidegger]] — speech-acts, and the central verb's source. His chair holds four derived refusals and the associations named at the door, with Celan, Arendt, and Adorno as the escorts already seated.
+
+### The apparatus region's chairs
+
+Until 2026-08-05 the region of the graph holding the triad, the alphabet, the chemistry and the record of the making contained **no interlocutor at all** — the only such region, measured at `ops/convergence points.md`. The author directed the evaluation of the four candidates the corpus itself names for it, and the pass turned up two more that no source names. All six are written from secondary knowledge with the primary reading undone, and each says so in its own body.
+
+- [[anna wierzbicka]] — recommended recommended-reading, load `adversary`: the corpus names her the standard the alphabet's closure claim must meet or gracefully decline, and her sixty-five primes came from a method that could have failed.
+- [[kenneth burke]] — recommended reference-lineage, load `adversary`: terministic screens, the objection that survives whether or not the set is complete, and therefore the one the book has to answer in prose rather than in research.
+- [[alfred north whitehead]] — recommended reference-lineage, load `precedent`: the completed metaphysics behind the verbs-only commitment, to be cited in a sentence rather than imported, since the machinery would reinstate a scheme as architecture.
+- [[aristotle on privation]] — recommended reference-lineage, load `precedent`: the signature move's twenty-four-century ancestry, which the corpus records as never cited, and the affliction objection that travels with it.
+- [[james marcia]] — recommended reference-lineage, load `precedent`: `Foreclosure = Commitment − Defer` is his 1966 identity status under his own word, cited nowhere in the corpus.
+- [[salvador minuchin]] — recommended reference-lineage, load `precedent`: `Enmeshment = Connection − Sever-capacity` is his construct and its prescription is his intervention, cited nowhere in the corpus.
+
+The last two are the finding rather than illustrations of it: the catalogue's constructs have their own provenance, and two of them are taken along with the discipline's technical term ([[the molecule catalogue divides by whether the construct existed before the formula]]). What the seven borrowings share is recorded at [[the privation move is an independent arrival across five fields rather than a book coinage]].
+
+### The apparatus's uncredited ancestors
+
+A second sweep of the same kind ran 2026-08-05, one layer above the formulas: for each operational move the book makes, does a named literature already hold the construct, and does any source name it? Nine came back absent, two of them already flagged by the corpus's own survey. The register with the search method and its bounds is `ops/inherited constructs.md`; the pattern the nine make is [[the apparatus descends from the settlement the book positions itself against]]. Four new chairs, all from secondary knowledge with the readings undone.
+
+- [[abraham maslow]] — recommended reference-lineage, load `precedent`: he coined *peak experience*, the draft uses it as a technical term nine times without him, and the book's central correction of it is his own late self-correction toward the plateau.
+- [[carl rogers]] — recommended reference-lineage, load `precedent`, and the most load-bearing of the four: Gendlin's felt shift was produced in Rogers's program on Rogers's question, and Rogers separately specified the conditions the book's container describes. The corpus tells that research story three times and never names the program.
+- [[wilhelm reich]] — recommended reference-lineage, load `precedent`: character armor is the fold with a somatic mechanism, and the somatic authorities the book does cite all descend from him. The lineage is credited from the middle down.
+- [[set and setting]] — recommended reference-lineage, load `precedent`: the corpus's own survey says the Triad and the Stance together are a general theory of set and setting, names the current scholar, and names neither Leary nor Zinberg.
+
+Each brings a refusal worth more than its citation. Reich broke armor where the book bows to it; Rogers held that the helper's formulation is the obstacle, which is what a chapter of formulas is; Zinberg's controlling variable is the group's rituals rather than the individual; Maslow's peak sits atop a needs hierarchy the book does not engage.
+
+### The queued three, and the two the author named
+
+The three the apparatus sweep left queued rather than chaired were evaluated 2026-08-05, plus the two contemporary teachers the author asked for. All from secondary knowledge, readings undone.
+
+- [[kurt lewin]] — recommended reference-lineage, load `precedent`: action research is the participation law in the register of science, the T-group is his invention and the head of the lineage that becomes est, and *field* entered social psychology through him. Weakest on any single construct, strongest on breadth.
+- [[erik erikson]] — recommended reference-lineage, load `precedent`, and honestly small: the frame Marcia operationalized, owed one clause where the identity loop is introduced. The citation the book actually owes is Marcia's.
+- [[the experiential learning cycle]] — recommended reference-lineage, load `precedent`: Dewey's miseducative experience and Kolb's four stations are a century-old answer to why the peak does not hold. A reading rather than a citation debt, since no term is borrowed.
+- [[joe hudson]] — recommended coaches, load **`thesis-bearing`**, which is the vault contradicting the grid on the grid's own evidence. He holds one of the five theories of suffering alone and is the referral network's named destination for a somatic misfire, and both sorts filed him among the thirty names said to hold no weight ([[the referral network sends readers to a name the sort filed as company]]).
+- [[tony robbins]] — chair extended rather than re-evaluated. The sweep found that his method's genealogy — NLP with Grinder, modelling Erickson, Satir and Perls — appears nowhere in the corpus, which puts the book's voluntarist pole downstream of the same mid-century settlement its apparatus descends from, and gives the fork a literature to be resolved against rather than one seminar leader.
 
 ### Evaluated, awaiting the author's decision
 
@@ -140,7 +174,7 @@ The sort's named holes given chairs, 2026-08-05, at the author's direction and u
 
 Three more, 2026-08-05, from the author's request and from two research syntheses received the same day:
 
-- [[ubuntu personhood]] — independent-arrival. The third pole for the self-primacy fork, with the tradition's own internal disagreement kept and its capture critique with it. Fills the sort's only chairless hole.
+- [[ubuntu personhood]] — independent-arrival. The third pole for the self-primacy fork, with the tradition's own internal disagreement kept and its capture critique with it. Filled the sort's last chairless hole (2026-08-05); the Menkiti-and-Gyekye reading is undone.
 - [[daniel ingram]] — names-existing-practice. The difficult stages after the threshold as a named, expected sequence, which is the most practically developed answer to the guardrail the book lacks.
 - [[de jaegher and di paolo]] — independent-arrival. Participatory sense-making, which is the first mechanism the relational field has ever had, and the most precise version of the objection to the book's solitary form.
 
@@ -183,17 +217,17 @@ This map is fed by [[research-frontier]], which holds the evaluation queue. It b
 
 ## What remains
 
-The nearest work is the author's: four of the survey's priority five are evaluated and await the seating decision, which the vault cannot make. The vault's own nearest work is the fifth member — the instrument's counterweights, admitted as a tension at [[felt shift versus felt confirmation]] and still needing sourcing in the processing-fluency and interoception literature. Beyond those, roughly sixty candidates are enumerated in `ops/queue/candidates.md`, which is deliberately long — the field, not the task. The roster above names about a hundred seated thinkers and works; they get notes when a claim needs them, because creating them all at once would add volume without use.
+The nearest work is the author's: thirty-eight evaluations carry recommendations and await his seating decisions, which the vault cannot make (`scripts/queries/candidate-seats.sh` reports the set). The vault's own nearest work is the priority five's last open member — the instrument's counterweights, admitted as a tension at [[felt shift versus felt confirmation]] and still needing sourcing in the processing-fluency and interoception literature. Beyond those, roughly eighty candidates are enumerated in `ops/queue/candidates.md`, which is deliberately long — the field, not the task. The roster above names about a hundred seated thinkers and works; they get notes when a claim needs them, because creating them all at once would add volume without use.
 
 Two seats the evaluations found rather than filled. The material voice is the only position in the whole roster carried anonymously, and [[hartmut rosa]] is a working sociologist whose central object is exactly the grid it names. Lisa Feldman Barrett is the standing counterweight to [[karla mclaren]]'s messenger model and is on the pending list; the question her research puts to the roster — are the messengers found or made — is recorded in [[open-questions]].
 
-The sort of 2026-08-05 adds a second kind of work and reorders the first. Twenty-three new chairs exist on the grid's authority alone and every one needs its primary reading; nine ranked holes are enumerated at `ops/lineage sort.md` and feed `ops/queue/candidates.md`. Eleven older chairs still carry no load, which is recorded as an unanswered question rather than as a default — `scripts/queries/lineage-sort.sh` lists them.
+The sort of 2026-08-05 adds a second kind of work and reorders the first. The chairs written from the grid exist on its authority alone and every one needs its primary reading; the ranked holes stand at `ops/lineage sort.md`, and their sharpened questions — one per reading, each able to fail, with a page-level address — are the queue at `ops/reading queue.md`. Eleven older chairs still carry no load, which is recorded as an unanswered question rather than as a default — `scripts/queries/lineage-sort.sh` lists them.
 
-The queue's shape has changed and the change is worth stating precisely, because it is easy to overstate. Eight of the nine holes now have at least one chair, so the work is no longer *find the names* but *do the readings*. A chair records what the vault expects a thinker to hold and what it expects them to refuse; both expectations are the grid's until a text is opened, so no hole is closed. Only one hole has no chair at all — a third pole for the self-primacy fork, which would come from African philosophy, a discipline with no representative anywhere in the sort.
+The queue's shape has changed and the change is worth stating precisely, because it is easy to overstate. Every one of the nine holes now has at least one chair — the last, a third pole for the self-primacy fork, gained [[ubuntu personhood]] on 2026-08-05, built at the author's request from a discipline that until that day had no representative anywhere in the sort. So the work is no longer *find the names* but *do the readings*. A chair records what the vault expects a thinker to hold and what it expects them to refuse; both expectations are the grid's until a text is opened, so no hole is closed.
 
 One structural signal, surfaced rather than acted on. This map now carries roughly eighty-five list entries against a split guideline of about twenty-five, which makes it the largest in the vault by a wide margin — the sort of 2026-08-05 added twenty-six entries to it in one day. Its section structure is the split-within-structure the rule asks for first and it is doing real work, but the map is now three things at once: the convergence findings, the sorting's own findings about the company, and the roster of chairs. Creating a map requires a /rethink pass with a recorded rationale, so this is a note for that pass rather than a proposal here.
 
-Three findings from the crossing are about the reading rather than about any thinker. Three disciplines are near-empty across every load — analytic philosophy, systems and design, practitioner pedagogy — and the strongest missing arrivals live in exactly those three, which describes where the reading has gone rather than where the thinkers are. Two of the eight propositions the grid treats as load-bearing had no claim note here at all while both already had adversaries seated against them; writing them on 2026-08-05 showed that both are stated plainly in `sources/`, so the vault had missed two of the corpus's plainest propositions because neither arrives attached to a name or an image. And four traditions with nothing else in common — the Fourth Way, Sufi practice, collective trauma work, and Buber — independently refuse the same thing about the book's form, which is recorded at the foot of `ops/lineage sort.md` and settled in neither direction.
+Three findings from the crossing are about the reading rather than about any thinker. Of the three disciplines the sort found near-empty across every load — analytic philosophy, systems and design, practitioner pedagogy — two have since gained chairs, and systems and design still holds only unread names; the finding survives the filling, because it describes where the reading has gone rather than where the thinkers are. Two of the eight propositions the grid treats as load-bearing had no claim note here at all while both already had adversaries seated against them; writing them on 2026-08-05 showed that both are stated plainly in `sources/`, so the vault had missed two of the corpus's plainest propositions because neither arrives attached to a name or an image. And four traditions with nothing else in common — the Fourth Way, Sufi practice, collective trauma work, and Buber — independently refuse the same thing about the book's form, which is recorded at the foot of `ops/lineage sort.md` and settled in neither direction.
 
 ---
 
