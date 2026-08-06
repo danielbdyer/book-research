@@ -110,9 +110,9 @@ A second sweep of the same kind ran 2026-08-05, one layer above the formulas: fo
 
 Each brings a refusal worth more than its citation. Reich broke armor where the book bows to it; Rogers held that the helper's formulation is the obstacle, which is what a chapter of formulas is; Zinberg's controlling variable is the group's rituals rather than the individual; Maslow's peak sits atop a needs hierarchy the book does not engage.
 
-### The queued three, and the two the author named (2026-08-05)
+### The queued three, and the two the author named
 
-The three the apparatus sweep left queued rather than chaired are now evaluated, plus the two contemporary teachers the author asked for. All from secondary knowledge, readings undone.
+The three the apparatus sweep left queued rather than chaired were evaluated 2026-08-05, plus the two contemporary teachers the author asked for. All from secondary knowledge, readings undone.
 
 - [[kurt lewin]] — recommended reference-lineage, load `precedent`: action research is the participation law in the register of science, the T-group is his invention and the head of the lineage that becomes est, and *field* entered social psychology through him. Weakest on any single construct, strongest on breadth.
 - [[erik erikson]] — recommended reference-lineage, load `precedent`, and honestly small: the frame Marcia operationalized, owed one clause where the identity loop is introduced. The citation the book actually owes is Marcia's.
