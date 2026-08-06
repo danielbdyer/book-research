@@ -96,6 +96,10 @@ These are the book rather than accounts of it. They are secondary by the author'
 - [[source — the abridged edition]] — the fifteen-chapter arc executed in full prose. File: `sources/firing on all cylinders - abridged edition.pdf`. Cited as `abridged`, with chapter numbers and section names: `abridged ch6`, `abridged: a note on sources`.
 - [[source — the mythic operating system]] — a twenty-eight-chapter table of contents with one chapter written; the author's named high-water mark of voice. File: `sources/firing on all cylinders - a mythic operating system.pdf`. Cited as `mythic-os`, with section names and the written chapter's own page numbers: `mythic-os: contents`, `mythic-os: page 9`. The provenance reconstruction dates this document to April 2025, making it the earliest datable state of the project rather than one draft among three.
 
+### Reading records (the primary readings' trace, begun 2026-08-05)
+
+A completed reading of a thinker's own work produces its own archive record, named `reading — <author>, <work> (<year>).md`, stating what was read (edition, whole or in part), the findings with their locators, the questions the reading settled, and the works still unread. Claims then cite the work by its own stable locators — `Gendlin 1964, fn. 13 and def. 13` — and the reading record is the trace behind that citation grammar; the record kind's schema sits beside the source template in `templates/source.md`. The first instance is `archive/reading — gendlin, a theory of personality change (1964).md`, from the founding paper of the felt-shift standard. The queue that produces readings is `ops/reading queue.md`, and a reading's findings enter `notes/` through the pipeline like any other material.
+
 ## Works consulted
 
 Documents read and cited that are not the project's own sources. They are quoted inside the notes that use them and get no archive note, following the rule in [[research-frontier]]: only the project's own source documents are seeded. The primary works behind the candidate evaluations are cited this way, inside each interlocutor note.
