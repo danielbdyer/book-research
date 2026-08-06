@@ -10,7 +10,7 @@ state: full
 
 The book names one defect in the contemporary transformation field and treats it as the field's signature: "the American transformation canon's radical interiority of cause, its structural inability to hold suffering as meaningful, structural, or genuinely external" (walked IX). It seats three expansions against that defect and positions its own diagnostic apparatus as something other than one more entry in the canon.
 
-Tracing the apparatus's constructs to their sources shows something the corpus never assembles. The named ancestors are, with one exception, **one intellectual formation**: American and American-adjacent clinical and human-potential psychology between roughly 1930 and 1975.
+Tracing the apparatus's constructs to their sources shows something the corpus never assembles. Eight of the nine named ancestors below belong to **one intellectual formation**: American and American-adjacent clinical and human-potential psychology, dated by the works themselves from 1933 to 1984.
 
 | The book's move | The construct, and whose | Cited? |
 |---|---|---|
@@ -24,9 +24,13 @@ Tracing the apparatus's constructs to their sources shows something the corpus n
 | the Triad and the Stance as one theory | set and setting (Leary; Zinberg, 1984) | Hartogsohn once; neither originator |
 | the Racket | the fixed complaint with fixed payoff (Landmark, via est) | **yes, explicitly donated** |
 
-The exception is the privation move itself, which is older and wider than this formation and arrives independently in five fields ([[the privation move is an independent arrival across five fields rather than a book coinage]]). Everything else in the table is one lineage, and the one entry the book does credit is the one that came from a commercial seminar rather than from a university.
+One construct in the apparatus sits outside this table entirely, and it is the privation move: older than the formation by two millennia, and arrived at independently in five fields rather than descended through one ([[the privation move is an independent arrival across five fields rather than a book coinage]]).
 
-**So the finding is not that the book borrows.** It is that the book's operational layer descends, almost entirely and almost invisibly, from the settlement whose characteristic error the book names in order to distance itself from it. A reader who knows that literature will see the parentage before they see the argument.
+Inside the table, the one entry the book does credit came from a commercial seminar rather than from a university.
+
+**So the finding is not that the book borrows.** It is that eight of the nine constructs above come from the settlement whose characteristic error the book names in order to distance itself from it, and that eight of the nine are uncredited. The ninth, the Racket, is both from that settlement and credited, which is the exception that shows the crediting was possible.
+
+A reader who knows this literature meets the parentage before they meet the argument.
 
 ## Substantiation
 
@@ -35,7 +39,7 @@ The exception is the privation move itself, which is older and wider than this f
 - **The clearest structural instance is the somatic lineage.** The abridged edition's acknowledgements name Levine, Porges and Ogden, and chapter nine runs on Somatic Experiencing and Sensorimotor Psychotherapy. Both modalities descend from the body-psychotherapy line that begins with Reich, and neither Reich nor Lowen appears in any of the eight documents. The lineage is credited from the middle down.
 - **The vault has already run the related audit and the results do not conflict.** The interiority audit of 2026-08-05 asked whether the book *inherits* the field's blind spot and found that it does not — the formulas split by whether the missing element is external or an act the person performs, and the defect is narrower ([[the compound diagnoses may relocate a structural condition inside a person]]). This claim is about descent rather than about inheritance of the error. The book got its tools from that field and did not get that particular fault with them.
 - **What follows is a positioning question, and the vault's reading of it is stated as the vault's.** Naming the parents is not a concession. A book that says *I come from this settlement, here is what it got right, here is exactly where it went wrong and what I do instead* holds a stronger position than one that appears to have arrived from nowhere with a new system — and the book already has the critique in hand, since walked IX is that sentence. Two of the newly named ancestors would also press the objection themselves: Zinberg's controlling variable is the group's rituals and sanctions rather than the individual, and Rogers's conditions require a relationship the reader is not in.
-- **The counter-reading, kept.** Convergence of ancestry is not the same as convergence of finding. These nine constructs mostly do not agree with each other, and the fact that a set of tools came from one formation says something about where the reading went — the author's, and the collaborator's — rather than about whether the tools are right. The vault's own sort found the same shape in its own reading queue on 2026-08-05, and the honest version of both findings is that they describe a search history.
+- **The counter-reading, kept.** Shared ancestry is not shared finding. Reich says armor is broken through and Rogers says nothing is done to a person at all; Maslow ranks the plateau above the peak and Leary built a movement on the peak. These nine do not agree with each other, so what the table describes is where a search went rather than what is true. The vault's own lineage sort reached the same conclusion about its own reading queue on 2026-08-05, and both findings are of that kind: a record of attention, not a verdict.
 - What this does not establish: that any construct is wrongly compressed, which is a question for the readings; or that the uncredited ancestors would endorse the compressions, which four of them explicitly would not.
 
 ---

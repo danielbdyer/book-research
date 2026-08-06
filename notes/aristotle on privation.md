@@ -23,7 +23,15 @@ That is the book's Privation Principle, arrived at twenty-four centuries earlier
 
 **The load, and what happens without him.** With `precedent`: the analysis stands without him and loses a lineage. But the finding that puts him in the apparatus region is larger than his own chair, and it is new as of 2026-08-05 — the privation reading is the one part of the chemistry with independent arrivals behind it, in classical metaphysics, in Trika's three *malas*, and in at least two clinical literatures ([[the molecule catalogue divides by whether the construct existed before the formula]]). The move is not a book coinage at all.
 
-**The evaluation is from secondary knowledge.** What the reading has to settle: whether *Physics* I.7–9 supports the therapeutic direction of fit at all, or only the analytic one; whether the *privatio boni* tradition's own answers to the affliction objection are usable here; and whether the Trika *malas* and the Aristotelian privation are the same structure or two structures that resemble each other, which matters because the vault currently maps them corner for corner ([[the triads privations map the three malas corner for corner]]) and has never asked whether the mapping is more than verbal.
+**One half of this correspondence is quoted and the other is not.** The survey's sentence about the uncited patent-holder is quoted above. Aristotle's argument is stated here from secondary knowledge in the vault's own words; the *Physics* has not been read here, in any translation. The address is book one, chapters seven to nine.
+
+## What the reading has to settle
+
+Three questions, in the order that decides the most.
+
+- Whether *Physics* I.7–9 supports the therapeutic direction of fit at all, or only the analytic one.
+- Whether the *privatio boni* tradition's own answers to the affliction objection are usable here.
+- Whether the Trika *malas* and the Aristotelian privation are the same structure or two structures that resemble each other, which matters because the vault currently maps them corner for corner ([[the triads privations map the three malas corner for corner]]) and has never asked whether the mapping is more than verbal.
 
 ---
 

@@ -23,7 +23,15 @@ What follows from holding it alone is the part that matters. **The book's referr
 
 **The load, and its evidence.** With `thesis-bearing`, assigned by the vault on 2026-08-05 against the grid. What happens to the book without him: one of the five theories of suffering loses its only holder, the referral network loses a destination and can no longer route a somatic misfire, the convergence table loses a vocabulary, and the temporal loop loses its practice. That is a structural answer rather than a judgment about his merit, and it is the answer the contribution sort could not produce.
 
-**The evaluation is from the corpus rather than from his work.** He is a living practitioner whose material is podcast and course rather than book, and none of it has been read or heard in this vault. What the reading has to settle: whether "every feeling fully welcomed completes itself" is his own formulation or a received one from the affect-completion tradition that runs through Gendlin and the body-psychotherapy line ([[wilhelm reich]]); what VIEW's four terms actually specify; and whether his own account of the method's lineage names anyone, since the corpus's other coaches turn out to have genealogies it does not print ([[tony robbins]]).
+**This chair has no second half at all, and says so.** Every quotation in it is from the corpus. Hudson is a living practitioner whose material is podcast and course rather than book, and none of it has been read or heard in this vault, so what is recorded here is the corpus's account of him rather than his account of himself. That is a weaker basis than any other chair in this group, and it is the basis on which the vault has assigned a load contradicting the grid.
+
+## What the reading has to settle
+
+Three questions, in the order that decides the most.
+
+- Whether "every feeling fully welcomed completes itself" is his own formulation or a received one from the affect-completion tradition that runs through Gendlin and the body-psychotherapy line ([[wilhelm reich]]).
+- What VIEW's four terms actually specify.
+- Whether his own account of the method's lineage names anyone, since the corpus's other coaches turn out to have genealogies it does not print ([[tony robbins]]).
 
 ---
 

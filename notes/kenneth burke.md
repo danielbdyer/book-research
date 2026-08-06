@@ -23,7 +23,14 @@ The corpus states the application itself: "Whatever the twelve reveal, they also
 
 **The load, and what happens without him.** With `adversary`: he is the objection that does not go away if Wierzbicka's test is passed. Without him the book's only defense of its vocabulary is that the vocabulary is complete, which is a claim about the set; Burke's charge is about what having a set does to a reader, and no set answers it. The assignment is the vault's, made 2026-08-05, and it has not been tested against the primary essay.
 
-**The evaluation is from secondary knowledge.** What the reading has to settle: whether Burke's own answer to his objection — the "dramatistic" pentad, itself a five-term screen he defends as more capacious rather than as neutral — is a model the book could adopt, since that would turn the objection into a method; and whether *trained incapacity* bears on the book's defining reader, the one who has learned a fluent integration vocabulary and uses it to avoid feeling anything all the way through, which is the same shape and would make Burke relevant to the felt-shift region as well as this one.
+**One half of this correspondence is quoted and the other is not.** The survey's application of his objection is quoted above. Burke's own formulation is stated here in the vault's words from secondary knowledge, and the essay has not been read in this vault. The address is "Terministic Screens" in *Language as Symbolic Action*.
+
+## What the reading has to settle
+
+Two questions, in the order that decides the most.
+
+- Whether Burke's own answer to his objection — the "dramatistic" pentad, itself a five-term screen he defends as more capacious rather than as neutral — is a model the book could adopt, since that would turn the objection into a method.
+- Whether *trained incapacity* bears on the book's defining reader, the one who has learned a fluent integration vocabulary and uses it to avoid feeling anything all the way through, which is the same shape and would make Burke relevant to the felt-shift region as well as this one.
 
 ---
 

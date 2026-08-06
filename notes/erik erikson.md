@@ -21,14 +21,21 @@ The book's identity loop runs on that vocabulary without naming it, and one of i
 
 **The load, and why he sits behind Marcia rather than beside him.** With `precedent`. The construct the book actually states is Marcia's, and the attribution debt is Marcia's; Erikson is the frame that makes the construct intelligible, and he supplies something Marcia does not — the reason the absence of exploration matters, which is that identity has to be negotiated rather than assigned. One clause. This is the honest size of it, and it is smaller than the other finds in this group.
 
-**The evaluation is from secondary knowledge.** What the reading has to settle: whether Erikson's own account of foreclosure — he discusses premature identity closure directly — is stated as a privation, which would put him in the convergence at [[the privation move is an independent arrival across five fields rather than a book coinage]]; and whether the moratorium has anything to say to the book's Defer, which would make the correspondence a construct rather than a frame.
+**Neither half of this correspondence is quoted.** The book's identity-loop material is described rather than quoted here, and Erikson's stage is stated from secondary knowledge in the vault's own words. Nothing of his has been read in this vault. The address is *Identity: Youth and Crisis*, chapter three. Of the group this is the smallest claim and the loosest evidence, which is consistent: one clause is what it asks for.
+
+## What the reading has to settle
+
+Two questions, in the order that decides the most.
+
+- Whether Erikson's own account of foreclosure — he discusses premature identity closure directly — is stated as a privation, which would put him in the convergence at [[the privation move is an independent arrival across five fields rather than a book coinage]].
+- Whether the moratorium has anything to say to the book's Defer, which would make the correspondence a construct rather than a frame.
 
 ---
 
 Relevant Notes:
 - [[james marcia]] — the operationalization, and the citation the book actually owes
 - [[trust paralysis and foreclosure differ only on the commit-defer axis]] — the vault's reconstruction of Marcia's two axes, which are Erikson's two dimensions
-- [[the apparatus descends from the settlement the book positions itself against]] — the pattern he belongs to
+- [[the apparatus descends from the settlement the book positions itself against]] — the finding he belongs to, at its smallest: a frame rather than a construct
 - [[an enormous experience is interpreted by the structure it did not change]] — the structure in question, which his account makes socially negotiated rather than private
 
 Topics:

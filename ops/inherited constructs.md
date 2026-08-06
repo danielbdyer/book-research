@@ -32,6 +32,21 @@ Checked and credited, so not debts: Heidegger (the Clearing is explicitly `prak�
 
 Nine rows. Two were already flagged by the corpus itself; seven were found here, four of them on 2026-08-05 in this pass and three in the formula pass earlier the same day.
 
+## Six relations, not one pattern
+
+Added 2026-08-05, after the author asked for more precision and the notes were audited against `ops/methodology/prose register.md`. The audit's finding about vocabulary: every one of these notes closed by pointing at "the pattern this belongs to," and that abstraction was covering six distinct relations. Naming which relation a case is turns a bin into a set of distinctions that can disagree with each other.
+
+The six are what these cases produced. The list makes no claim to be complete and gains nothing from being six.
+
+1. **Restatement.** The construct came first, the book states it operationally, and the discipline's technical word travels with it. *Marcia's foreclosure; Minuchin's enmeshment.* This is the form that creates a plain attribution debt, because the word itself is borrowed.
+2. **The originator's own correction.** The book inherits a term, inherits the problem the term created, and solves it the way the person who coined it solved it. *Maslow's peak, corrected to the plateau in 1970.* The debt here is smaller than the finding: what matters is that the book's central argument has a sixty-year-old precedent inside the vocabulary it is already using.
+3. **Headless lineage.** The descendants are cited and the origin is not. *Reich: Levine, Porges and Ogden named in the acknowledgements; Reich and Lowen absent.* Hardest of the six to notice, because the page looks well-sourced.
+4. **Self-flagged debt.** The corpus's own survey identifies the debt and the book never pays it. *Aristotle on privation, "an ancient patent-holder we've never cited"; Bowlby and Ainsworth, "strangely, nowhere in the project."* These need no research to find, only a reader who follows up the survey's own sentences.
+5. **Mis-addressed credit.** The corpus draws the correspondence, cites a name, and it is the wrong name — usually the current scholar rather than the originator. *Set and setting: Hartogsohn cited once as "the scholarly spine," Leary and Zinberg absent.*
+6. **Half-traced genealogy.** One branch of a lineage is followed and another is not. *est traced through "Austin's performatives ⟿ Erhard" and never through Lewin's T-groups; Robbins's method traced nowhere at all.*
+
+The relations are not ranked and a case can hold two. What each one changes is what the book owes: a restatement owes a name, a self-flagged debt owes a follow-through the corpus already wrote, a mis-addressed credit owes a correction rather than an addition, and a headless lineage owes a sentence about where the whole line came from.
+
 ## The shape they make
 
 Eight of the nine ancestors belong to **one formation**: American and American-adjacent clinical and human-potential psychology, roughly 1930 to 1975 — Reich, Rogers, Maslow, Bowlby, Minuchin, Marcia, Leary, Zinberg. The exception is Aristotle, and the privation move is also the one part of the apparatus with independent arrivals across unrelated fields rather than a single lineage.

@@ -23,7 +23,14 @@ The corpus states the relation and states its limit in the same breath: "'A self
 
 **The load, and the specific danger.** With `precedent`: nothing depends on him, and the book loses only a credential if he is absent. The danger runs the other way. Importing *Process and Reality* wholesale would install a metaphysical scheme as architecture at exactly the layer the author demoted schemes from on 2026-08-04, and the vault has already recorded that failure mode once when a synthesis arrived pre-organized by the three loops ([[a synthesis organized by the schemes offers to promote them back to architecture]]). The rule is the same here: take the finding, decline the system.
 
-**The evaluation is from secondary knowledge.** What the reading has to settle: whether the fallacy of misplaced concreteness is aimed at this book's use of its own formulas, in which case Whitehead's load is closer to `adversary` than to `precedent`; and whether the lure is genuinely the middle voice or a persuasive-agency doctrine that would carry theological commitments the book does not want.
+**One half of this correspondence is quoted and the other is not.** The survey's sentence about who paid the metaphysical bill is quoted above. Whitehead's account of actual occasions is stated here from secondary knowledge in the vault's own words, and *Process and Reality* has not been read here. The address is its part two, on the theory of prehension.
+
+## What the reading has to settle
+
+Two questions, in the order that decides the most.
+
+- Whether the fallacy of misplaced concreteness is aimed at this book's use of its own formulas, in which case Whitehead's load is closer to `adversary` than to `precedent`.
+- Whether the lure is genuinely the middle voice or a persuasive-agency doctrine that would carry theological commitments the book does not want.
 
 ---
 

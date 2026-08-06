@@ -12,7 +12,9 @@ The corpus calls the Privation Principle "the signature move of the whole book" 
 
 Aristotle makes *steresis* one of the three principles of any change at all, and the scholastics extend it to evil as *privatio boni* rather than as a substance (space-around: around the chemistry). Trika analyzes the primal contractions as three *malas*, diminishments rather than corruptions, which the vault already maps onto the anatomy corner for corner ([[the triads privations map the three malas corner for corner]]). Attachment research locates the injury in the *absence* of a secure base rather than in a defect of the child, and the corpus's own survey identifies the secure base as Sanctuary with six decades of data behind it. Structural family therapy defines enmeshment by a *missing* boundary and prescribes restoring it, not removing the closeness. And identity development defines foreclosure by *absent* exploration rather than by a bad commitment.
 
-Five fields with nothing in common — classical metaphysics, an eleventh-century Śaiva school, post-war developmental science, 1970s family systems, and identity psychology — each reaching for the same analytic form. That is the exact evidence class the author has named the book's centerpiece: independent arrivals at one finding, from traditions with no contact.
+Five fields with nothing in common reach for the same analytic form: classical metaphysics, an eleventh-century Śaiva school, post-war developmental science, 1970s family systems, and identity psychology. That is the evidence class the author has named the book's centerpiece, which is independent arrivals at one finding from traditions with no contact.
+
+None of the five has been read against a primary work in this vault, and each of the five chairs says so. What is established is that the corpus itself supplies two of them and that the other three were found by looking; what is not established is that any of the five defines its construct by absence in its own words, which is the sentence the whole claim turns on.
 
 ## Substantiation
 

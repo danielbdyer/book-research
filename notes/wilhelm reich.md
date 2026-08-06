@@ -1,5 +1,5 @@
 ---
-description: "Reich's character armor names protection organized into posture and breathing that persists after the threat is gone, which is the book's fold; the abridged edition cites four of his descendants and neither him nor Lowen."
+description: "Reich's character armor names protection organized into posture and breathing that outlasts the threat, which is the book's fold; the abridged edition cites four of his descendants and not him."
 category: interlocutor
 seat: candidate
 load: precedent

@@ -25,7 +25,15 @@ Three of Lewin's inventions sit under this book and none of them is named in it.
 
 **The load, and why he is weaker than the others in this group.** With `precedent`. His claim is epistemological — you learn by intervening — where the book's is transformational: you do not change by watching. Those are adjacent rather than identical, and no single construct of his maps onto a book construct the way character armor maps onto the fold. What makes him worth a chair anyway is breadth: three separate parts of the book trace to him, and he is the named head of the est lineage's other half.
 
-**The evaluation is from secondary knowledge.** What the reading has to settle: whether the change-through-intervention claim is about knowledge or about change in Lewin's own words, which decides whether he is a precedent or an independent arrival at the participation law; whether the unfreeze–change–refreeze model bears on the book's plasticity-window material or is a later simplification of him; and whether the T-group's own documented harms belong with the adverse-effects reading already queued.
+**Neither half of one of these correspondences is quoted, which is worse than the others.** The book's side is described rather than quoted here, and the dictum on Lewin's side is one the note itself marks as "usually attributed to him" rather than located. Nothing of Lewin's has been read in this vault. The addresses are the 1946 *Journal of Social Issues* paper for action research and *Field Theory in Social Science* for the person-and-environment function. This chair is the least evidenced of the group and should be read before it is used for anything.
+
+## What the reading has to settle
+
+Three questions, in the order that decides the most.
+
+- Whether the change-through-intervention claim is about knowledge or about change in Lewin's own words, which decides whether he is a precedent or an independent arrival at the participation law.
+- Whether the unfreeze–change–refreeze model bears on the book's plasticity-window material or is a later simplification of him.
+- Whether the T-group's own documented harms belong with the adverse-effects reading already queued.
 
 ---
 
@@ -34,7 +42,7 @@ Relevant Notes:
 - [[the participation law has no opponent and its oldest objection is that participation is contamination]] — the hole he stands nearest to, and the objection he would half-endorse
 - [[the racket is the attractor state with a salary]] — the est-donated construct whose other genealogy is his
 - [[set and setting]] — the framework whose person-and-environment structure restates his function
-- [[the apparatus descends from the settlement the book positions itself against]] — the pattern he belongs to, as the settlement's own upstream figure
+- [[the apparatus descends from the settlement the book positions itself against]] — the finding he belongs to, as its case of a half-traced genealogy and as the settlement's own upstream figure
 - [[the field between two people does work]] — the claim his vocabulary supplied the word for
 
 Topics:

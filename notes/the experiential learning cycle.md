@@ -23,7 +23,15 @@ Kolb formalized it forty years later into a cycle with four stations: concrete e
 
 **The load, and the honest size of it.** With `precedent`, and this is the loosest of the provenance finds. There is no borrowed term here, no construct the book states under someone else's word. What there is is a century-old tradition holding the answer to the book's central question — why the enormous experience does not hold — and never appearing. The nearest thing to a construct debt is oblique: Donald Schön, already chaired here for the participation law, is Kolb's contemporary and a direct Dewey descendant, so part of this lineage is seated without its head ([[donald schon]]).
 
-**The evaluation is from secondary knowledge.** What the reading has to settle: whether Dewey's *miseducative experience* names the same failure as the book's un-integrated peak, which would make this a construct correspondence rather than a tradition-level one; whether Kolb's cycle has survived its own literature's criticism well enough to cite; and whether the tradition supplies anything the book's own two mechanisms for the failing peak do not ([[an enormous experience is interpreted by the structure it did not change]] and [[the plasticity window reorganizes only what attention is on]]).
+**One half of this correspondence is quoted and the other is not.** The book's integration sentence is quoted above from `abridged ch12`. Dewey's and Kolb's positions are stated here from secondary knowledge in the vault's own words, and neither has been read in this vault. The addresses are *Experience and Education* chapter three, on the criteria of experience, and Kolb's chapter two, where the four stations are set out.
+
+## What the reading has to settle
+
+Three questions, in the order that decides the most.
+
+- Whether Dewey's *miseducative experience* names the same failure as the book's un-integrated peak, which would make this a construct correspondence rather than a tradition-level one.
+- Whether Kolb's cycle has survived its own literature's criticism well enough to cite.
+- Whether the tradition supplies anything the book's own two mechanisms for the failing peak do not ([[an enormous experience is interpreted by the structure it did not change]] and [[the plasticity window reorganizes only what attention is on]]).
 
 ---
 
@@ -33,7 +41,7 @@ Relevant Notes:
 - [[abraham maslow]] — the same correction from the other direction: the plateau is built, and building is what this tradition studies
 - [[donald schon]] — the descendant already seated here, without his lineage's head
 - [[the practice forms specify when to begin and not how to tell one is finished]] — the curriculum's own gap, which the cycle's fourth station is an answer to
-- [[the apparatus descends from the settlement the book positions itself against]] — the pattern this belongs to, at its loosest
+- [[the apparatus descends from the settlement the book positions itself against]] — the finding this belongs to, at its loosest: a whole tradition rather than a borrowed term
 
 Topics:
 - [[interlocutors]]

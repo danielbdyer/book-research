@@ -23,7 +23,15 @@ That is the same wager the book makes at its second layer, reached by a differen
 
 **The load, and what happens without her.** With `adversary`: she is the only named test the closure claim can be put to, and the corpus named her, not the vault. Without her the claim that the set is closed stands on a drill nobody can find ([[the alphabet's closure rests on a drill no record shows being run]]) and the assertion that the vocabulary is found rather than invented stands on portability across three artifacts the author built himself ([[the corpus names the standard its found-not-invented axiom has not met]]). The assignment is the vault's, made 2026-08-05 from the corpus's own framing, and it has not been tested against her primary work.
 
-**The evaluation is from secondary knowledge and the reading is undone.** What the reading has to settle: whether NSM's method could even be applied to a set of operations rather than of meanings; whether the sixty-five includes anything the twelve would have to absorb; and whether her own account of why the set stabilized at that number gives the book a usable procedure or only a verdict.
+**One half of this correspondence is quoted and the other is not.** The survey's sentence naming her as the standard is quoted above. Her method and her result are stated here from secondary knowledge in the vault's own words, and nothing of hers has been read in this vault. The address is *Semantics: Primes and Universals*, where the prime list and the reduction procedure are both set out.
+
+## What the reading has to settle
+
+Three questions, in the order that decides the most.
+
+- Whether NSM's method could even be applied to a set of operations rather than of meanings.
+- Whether the sixty-five includes anything the twelve would have to absorb.
+- Whether her own account of why the set stabilized at that number gives the book a usable procedure or only a verdict.
 
 ---
 

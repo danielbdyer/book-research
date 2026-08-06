@@ -21,7 +21,15 @@ He is also the source of a second thing the book runs on. His 1957 paper specifi
 
 **What he gives.** The verification standard's institutional parentage, which matters because that standard rests on one name and cannot be defended by company ([[the verification standard rests on one name and cannot be defended by company]]) — Rogers does not add a second arrival, but he does establish that the finding came out of a funded, adversarial, measured research program rather than out of one man's introspection, which is the specific charge the standard is most exposed to. And a specified, testable version of the container conditions, against the book's descriptive one.
 
-**The evaluation is from secondary knowledge.** What the reading has to settle: whether the Wisconsin project's results actually support the strong reading of Gendlin's finding or complicate it, since that project's outcomes were mixed and its own authors said so; whether the necessary-and-sufficient claim has survived sixty years of common-factors research; and whether Rogers's non-directivity is compatible with a book that names the reader's condition, or is a genuine adversary to it. The third question is the one that decides his load.
+**One half of this correspondence is quoted and the other is not.** The corpus's three tellings of the research story are quoted above. Rogers's conditions are stated here from secondary knowledge in the vault's own words, and neither the 1957 paper nor the Wisconsin volume has been read in this vault. The address is the 1957 paper, which is six pages and states the six conditions as a numbered list.
+
+## What the reading has to settle
+
+Three questions, in the order that decides the most.
+
+- Whether the Wisconsin project's results actually support the strong reading of Gendlin's finding or complicate it, since that project's outcomes were mixed and its own authors said so.
+- Whether the necessary-and-sufficient claim has survived sixty years of common-factors research.
+- Whether Rogers's non-directivity is compatible with a book that names the reader's condition, or is a genuine adversary to it. The third question is the one that decides his load.
 
 ---
 
@@ -30,7 +38,7 @@ Relevant Notes:
 - [[the verification standard rests on one name and cannot be defended by company]] — the exposure Rogers partly answers by supplying the finding's program
 - [[nothing enters the lattice the body has not countersigned]] — the standard itself
 - [[the book can only be auxiliary to a sovereign reader]] — the book's commitment, which his non-directive practice states as a specified condition
-- [[the apparatus descends from the settlement the book positions itself against]] — the pattern this belongs to
+- [[the apparatus descends from the settlement the book positions itself against]] — the finding this belongs to, where his relation is a headless program rather than a headless lineage: the research is told three times and its principal is never named
 - [[transformation is enacted participation inside a held container]] — the law his three conditions are a specification of
 
 Topics:
