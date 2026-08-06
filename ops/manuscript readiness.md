@@ -55,7 +55,7 @@ The six conditions above were then run against the three content regions, and th
 Stated so the absence of a measurement is not read as an absence of readiness:
 
 - **Condition 1** is strongest for the material extracted from the corpus in the first passes, and weakest where the mesh grid found propositions stated in `sources/` that no note carried. Two were found by accident; the vault does not know how many remain (`ops/observations/nothing counts propositions the corpus states and the vault never wrote.md`).
-- **Condition 2** is the binding constraint right now. Twenty-four claims are `privated` on an unread primary work, and twenty-six chairs carry recommendations built from consulted works. This is the condition the reading queue at `ops/lineage sort.md` exists to satisfy.
+- **Condition 2** is the binding constraint right now. Twenty-three claims are `privated` on an unread primary work, and most thinker evaluations carry recommendations built from consulted works rather than from the works themselves. This is the condition the reading queue at `ops/reading queue.md` exists to satisfy, one completed reading at a time; the first (Gendlin 1964) has run.
 - **Conditions 3 and 4** are in good shape and are the vault's oldest disciplines.
 - **Condition 5** has four named failures, all ranked.
 - **Condition 6** is stated and current.
