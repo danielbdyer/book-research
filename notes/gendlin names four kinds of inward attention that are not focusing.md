@@ -37,6 +37,7 @@ Relevant Notes:
 - [[an enormous experience is interpreted by the structure it did not change]] — the book's version of insight that moves nothing, which the explanatory orbit anticipates
 - [[eugene gendlin]] — the chair, with the reading this comes from
 - [[karla mclaren]] — the co-patron whose messenger teaching the sheer-emotion entry disagrees with, recorded on the chair
+- [[gendlin's focusing protocol already guards against the counterfeit shift]] — the same detection written as practice instructions in Focusing, verified verbatim by the parallel branch
 
 Topics:
 - [[felt-shift]]

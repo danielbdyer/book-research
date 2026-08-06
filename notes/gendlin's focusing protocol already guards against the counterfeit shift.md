@@ -27,6 +27,7 @@ Relevant Notes:
 - [[felt shift versus felt confirmation]] — the tension whose treatment these guards supply from the source lineage
 - [[the closing prompt changes genre where the book turns to praxis]] — where the executed draft already asks for the check, and where these guards would live
 - [[zen's makyo instruction refuses the self-certifying experience]] — the parallel guard from the other lineage: dismiss the compelling arrival, keep practicing
+- [[gendlin names four kinds of inward attention that are not focusing]] — the founding paper's taxonomy behind these instructions: four counterfeits, one shared mark, the absence of referent movement
 
 Topics:
 - [[felt-shift]]

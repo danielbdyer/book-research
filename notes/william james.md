@@ -1,5 +1,5 @@
 ---
-description: "William James is the authorial stance's ancestor — reports held as observations, value judged by fruits — and his transiency mark names the book's promise in 1902; his refusal kept is that fruits, not feelings, verify."
+description: "William James is the authorial stance's ancestor — reports held as observations, value judged by fruits — and his transiency mark names the book's promise in 1902; his refusal is kept: fruits, not feelings, verify."
 category: interlocutor
 seat: candidate
 recommendation: "Reference-lineage as the stance's ancestor: the two-judgments method and the authority verdict are the book's posture with a century of standing; the fruits test is kept whole as a counterweight to the felt shift."

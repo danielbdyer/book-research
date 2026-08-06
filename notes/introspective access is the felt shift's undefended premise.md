@@ -33,6 +33,7 @@ Relevant Notes:
 - [[the verification standard rests on one name and cannot be defended by company]] — why a single-bearer claim cannot be defended by company
 - [[steven katz]] — the one named adversary already evaluated here, whom the grid reseats against this claim specifically
 - [[beauty recruits the wrong posture]] — the stylistic form of the same problem, where the prose produces the assent
+- [[attending to the body is not the same as reading it accurately]] — the interoception half of the premise's literature, landed by the parallel branch: sensibility and accuracy dissociate, invisibly from inside
 
 Topics:
 - [[tensions]]

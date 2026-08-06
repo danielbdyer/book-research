@@ -21,6 +21,8 @@ Relevant Notes:
 - [[william james]] — transiency as a defining mark, with recurrence cumulative
 - [[psychedelic names a movement not a substance]] — the reclamation that bounds how far this literature can be pressed
 - [[the book can only be auxiliary to a sovereign reader]] — the persistence predictors are the reader's own practice and context, which is what auxiliary means
+- [[an enormous experience is interpreted by the structure it did not change]] — the first mechanism behind this finding: states and structures are independent axes, so the peak lands in whatever receives it
+- [[the plasticity window reorganizes only what attention is on]] — the second mechanism: the window opens either way, and what consolidates is what attention and context hold during it
 
 Topics:
 - [[recognition]]

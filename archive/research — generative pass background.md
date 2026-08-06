@@ -1,7 +1,9 @@
 ---
 description: "Provenance record for the generative-pass research round of 2026-08-04 — five parallel web-depth investigations with verbatim verification against primary sources, their citation trails, access failures, and what each cluster became."
 category: source
+source_type: web-search
 created: 2026-08-04
+generated: 2026-08-04T21:30:00Z
 ---
 
 # research — generative pass background

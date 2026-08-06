@@ -28,6 +28,8 @@ Relevant Notes:
 - [[gendlin's focusing protocol already guards against the counterfeit shift]] — the practice-level guards from the same source
 - [[what is split off not felt remains the same]] — the summary sentence this claim sits beneath
 - [[zen's makyo instruction refuses the self-certifying experience]] — the lineage-side counterweight: even the genuine article does not certify itself
+- [[the felt shift certifies carrying forward rather than correspondence]] — the same paper read by the parallel branch for the certificate's scope: movement, not truth — the limit this defense lives inside
+- [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the sibling criterion from the same source: a real referent refuses wrong words, and fluency never pays that cost
 
 Topics:
 - [[felt-shift]]

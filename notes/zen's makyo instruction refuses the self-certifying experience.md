@@ -28,6 +28,7 @@ Relevant Notes:
 - [[both poles of the convergence refuse the engineered epiphany]] — the sibling refusal: neither foundation lets the shift be manufactured, and Zen adds that even the unmanufactured one does not certify itself
 - [[transformation is enacted participation inside a held container]] — the law whose witness-and-container structure dokusan instantiates as verification
 - [[nothing enters the lattice the body has not countersigned]] — the standard this refusal tests: the body countersigns, and makyō asks who countersigns the body
+- [[the second chair is the verification standard's own requirement]] — the same conclusion from the standard's founding paper: the listener is part of the instrument, which is dokusan's function in this lineage
 
 Topics:
 - [[felt-shift]]

@@ -31,6 +31,7 @@ Relevant Notes:
 - [[gendlin names four kinds of inward attention that are not focusing]] — the same paper's own counterfeit-detection, found in the same reading
 - [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the friction property, now confirmed at this primary text
 - [[eugene gendlin]] — the chair, with the reading section this claim comes from
+- [[a genuine felt shift changes what can be said next]] — the parallel branch's reading of the same paper for the defense: the movement this note bounds is checkable as a step in what becomes sayable
 
 Topics:
 - [[felt-shift]]

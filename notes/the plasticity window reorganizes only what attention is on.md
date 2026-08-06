@@ -31,6 +31,7 @@ Relevant Notes:
 - [[the author is the book's first audience member and that is where the promise starts]] — the author's own version of the same difficulty
 - [[a framework for what is happening is itself a protective factor]] — the other finding from the same synthesis that bears on what a book can do
 - [[a synthesis organized by the schemes offers to promote them back to architecture]] — the treatment under which this is stated
+- [[what the big experience leaves behind depends on what follows it]] — the outcome data this mechanism predicts: enduring change tracked ongoing practice and context, not dose
 
 Topics:
 - [[recognition]]
