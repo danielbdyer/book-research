@@ -12,7 +12,7 @@ This file treats the corpus's two outlines — the atlas's section structure and
 
 ## The atlas outline as a coverage map
 
-The atlas organizes the whole field into thirteen sections. Read as scaffolding, the outline is a checklist of the project's own territory with an exploration state against each. "Held" names what the vault has extracted; "open" names what the section contains and the vault does not.
+The atlas organizes the whole field into thirteen sections. Read as scaffolding, the outline is a checklist of the project's own territory with an exploration state against each. "Held" names what the vault has extracted; "open" names what the section contains and the vault does not. The Held column is a snapshot refreshed when a row is worked, not continuously — three rows stale by an order of magnitude (§IV, §IX, §XI) were trued against the graph on 2026-08-06 — and current counts come from `scripts/queries/` (`coverage.sh`, `tensions-status.sh`, `candidate-seats.sh`), never from this table.
 
 | Section | Territory | Held | Open |
 |---|---|---|---|
