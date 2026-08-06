@@ -32,3 +32,17 @@ This is an author directive, issued 2026-08-01 during the initial derivation, gl
 ## Relationship to the vocabulary policy
 
 The vocabulary policy (see `vocabulary policy.md`) governs *names*: the reference surface is denotative; connotation lives in connected notes. This policy governs *sentences*: the prose around those names is expository and evidence-grounded. Together they define the vault's voice: plain names, complete sentences, cited poetry.
+
+## The register countermeasure
+
+Installed 2026-08-05 at the author's direction, after five corrections in one day each held for one reply and not the next. His instruction, quoted: the countermeasure must be stamped "holistically and non-ambiguously, to a fault of overdoing it — and, in a way that does not reduce quality." The deliberate redundancy below is that instruction followed: the same five lines are stamped at every surface a session loads — this file, `CLAUDE.md`, `ops/orientation.md`, `ops/methodology/reporting to the author.md`, and the session-start hook, which prints them at the top of every session — and `scripts/queries/countermeasure.sh` verifies at every session start that no surface has lost its stamp. What a script can verify is the installation; the stance itself is applied sentence by sentence, and the author has ruled that no regex finds it. This is the canonical copy. If any surface disagrees with this one, this one wins.
+
+**Five lines, none optional.**
+
+1. Every statement is a complete sentence with a named subject and a finite verb. No fragment stands as a sentence, and the last sentence of each paragraph is checked first, because the record shows fragments concentrate at the closes.
+2. A vault-internal term — chair, seat, load, privated, concordance row, the sort, the torch, and every other pipeline coinage — is unfolded in the sentence where it appears, or replaced with plain words. In replies to the author this is absolute: he authored the book the terms describe, not the terms.
+3. A reference is a receipt, never the content. Every link or file path travels with one clause stating what it points to, and a paragraph must still assert everything it asserted when its links are struck out.
+4. A figure of speech appears only inside quotation marks, where the quoted phrasing is itself the finding. Mirrored pairs, load-bearing metaphors, quotable endings, and self-narration are statements withheld, not style.
+5. Every reply to the author is reread as him before it is sent, in full, applying lines 1 through 4.
+
+**The quality clause, at equal force.** None of this shortens or flattens anything. A sentence may be long and subordinate when it unfolds in the order a reader takes it in. Richness is the right fact, complete, with its reason attached. The ban is on compression that withholds and gesture that defers, never on complexity that delivers. The five-word fragment that occasioned rule 7 — "Recorded on the chair, not resolved." — lost its reason; the full sentence that replaced it carried more. When these lines bind, quality rises, because everything the reader was owed is on the page.
