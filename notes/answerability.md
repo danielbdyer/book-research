@@ -43,7 +43,7 @@ Three findings from the same day bear on this map from the speaker's side rather
 
 This concern borders [[relational-field]], because answerability requires someone to answer. It borders [[felt-shift]], because the corpus supplies a somatic test for whether an understanding arrived in reading or was merely assembled. It borders [[book-structure]], because the book is designed to end on a line written so that it can be answered.
 
-## The pedagogy under the integration argument, added 2026-08-05
+## The pedagogy under the integration argument
 
 - [[the experiential learning cycle]] — Dewey established that experience is not automatically educative and that some experience is miseducative, and Kolb formalized the stations an experience has to pass through to become learning. That is the book's answer to why the peak does not hold, held by a tradition that has been testing it for a century and that appears in no source. Donald Schön, already chaired here, is a direct descendant, so part of the lineage is seated without its head.
 
