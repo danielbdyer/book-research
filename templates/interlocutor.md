@@ -47,6 +47,7 @@ _schema:
       - poets-and-artists
       - practitioner-pedagogy
       - analytic-philosophy
+      - classical-philosophy
   constraints:
     description:
       max_length: 220

@@ -36,7 +36,8 @@ ENUMS = {
     "discipline": {"continental-philosophy","indic-and-buddhist-primary",
                    "abrahamic-contemplative","african-philosophy","clinical",
                    "empirical-science","social-theory","systems-and-design",
-                   "poets-and-artists","practitioner-pedagogy","analytic-philosophy"},
+                   "poets-and-artists","practitioner-pedagogy","analytic-philosophy",
+                   "classical-philosophy"},
 }
 MAXDESC = 220
 
