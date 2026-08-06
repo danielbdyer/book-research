@@ -27,7 +27,7 @@ The atlas organizes the whole field into thirteen sections. Read as scaffolding,
 | §VIII | The relational field | Four claims | The field's own three-loop structure; the relational molecule set |
 | §IX | The guild: every lineage seated | The roster and seat taxonomy; sixty-one thinker evaluations sorted on two axes, crossed at `ops/lineage sort.md` | Roughly a hundred named thinkers without notes; the valley's four subsections; the margin faculty; the porch's six groups; the chapter patrons; the satellites |
 | §X | The book as artifact | Book-structure, the poem compression, the apparatus gap, and the image system entire — twelve image claims | Six of seven apparatus devices; the four overlays individually |
-| §XI | The fault-line country | Eight tension claims | Nine guild fault lines (§XI.2a–2i), of which one has a note; the koan under the map |
+| §XI | The fault-line country | Twenty-three tension claims, every one carrying status and treatment fields | Nine guild fault lines (§XI.2a–2i), of which one has a note; the koan under the map |
 | §XII | The gravitational summary | The six doctrine maps derive from it | — |
 
 The pattern the table makes visible: the vault holds the head of nearly every section and the body of almost none. The sections where that gap is widest are §III, §VII, and §IX — the alphabet, the practice curriculum, and the roster — each of which is a list the corpus enumerates and the vault has reduced to a single claim about the list.
