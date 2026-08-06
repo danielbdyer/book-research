@@ -162,14 +162,16 @@ Manuscript structure is provisional, and placements emerge from the author's dec
 
 ## Maintenance
 
-Maintenance is condition-based. The session hook counts and reports the first four conditions below at session start, prints any unchecked entries in `ops/reminders.md`, and says explicitly when nothing fires. The last two conditions are manual: `scripts/queries/unconnected-claims.sh` and /verify.
+Maintenance is condition-based. The session hook counts and reports the first six conditions below at session start, prints any unchecked entries in `ops/reminders.md`, and says explicitly when nothing fires. The last three conditions are manual, with their tools: `scripts/queries/unconnected-claims.sh`, `scripts/queries/nascent-stubs.sh`, and /verify.
 
 | Condition | Action |
 |-----------|--------|
 | inbox holds 3 or more items | /reduce or /pipeline |
-| 10 or more observations in `ops/observations/` | /rethink |
+| 10 or more open observations in `ops/observations/` | /rethink |
 | 5 or more operational tensions in `ops/tensions/` | /rethink |
 | 5 or more unprocessed session records | /remember --mine-sessions |
+| qmd missing, or notes newer than the semantic index | `scripts/bootstrap.sh`, or `qmd update && qmd embed` |
+| methodology notes 30 or more days behind config changes | /rethink drift |
 | claims with no topic map | /reflect |
 | nascent stubs outnumber the claims filled from them | fill or decline, per `scripts/queries/nascent-stubs.sh` |
 | wiki links that no longer resolve | fix on sight |
