@@ -1,12 +1,12 @@
 ---
-description: This page lists all sixteen generated commands, what each does, and when to use it.
+description: This page lists the sixteen generated commands and the one command written for this vault by hand, says what each does, and says when to use it.
 type: manual
 generated_from: "arscontexta-0.8.0"
 ---
 
 # Skills
 
-Sixteen commands were generated with the vault, in `.claude/skills/`, and are versioned with the repository, so they are available in any session on it. Each reads `ops/derivation-manifest.md` at invocation for this vault's vocabulary and extraction categories.
+Sixteen commands were generated with the vault, in `.claude/skills/`, and are versioned with the repository, so they are available in any session on it. Each reads `ops/derivation-manifest.md` at invocation for this vault's vocabulary and extraction categories. A seventeenth, `/recompose`, was written for this vault by hand on 2026-08-06 and reads the methodology directives instead.
 
 ## Processing
 
@@ -35,5 +35,6 @@ Sixteen commands were generated with the vault, in `.claude/skills/`, and are ve
 - `/remember` — capture a correction or lesson from the session into `ops/methodology/`.
 - `/rethink` — review accumulated observations and operational tensions; challenge the system's configuration. See [[meta-skills]].
 - `/refactor` — implement an approved structural change across the vault.
+- `/recompose` — rewrite finished prose to the register in `ops/methodology/prose register.md` without changing what it claims. Run it when the author flags a file or a branch as unreadable, when a research round has just filed a batch of notes, or before a pull request opens. It repairs seven faults — fragments, words the pipeline invented, references that point instead of saying, figures of speech carrying claims, abstract nouns left unexpanded, opaque filenames, and citations with no address — and it reports content problems rather than fixing them.
 
 Read [[workflows]] next for how the processing commands chain.

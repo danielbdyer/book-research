@@ -82,6 +82,10 @@ vocabulary:
   cmd_reweave: "/reweave"
   cmd_verify: "/verify"
   cmd_rethink: "/rethink"
+  # Vault-native, not generated: the register repair pass. A skill that has just
+  # written prose chains here when the register is in doubt; the directive it
+  # enforces is ops/methodology/prose register.md.
+  cmd_recompose: "/recompose"
 
   # Level 7: extraction categories. what_to_find is written for a reader with no
   # prior context, per the prose register (ops/methodology/prose register.md).
