@@ -174,7 +174,7 @@ The sort's named holes given chairs, 2026-08-05, at the author's direction and u
 
 Three more, 2026-08-05, from the author's request and from two research syntheses received the same day:
 
-- [[ubuntu personhood]] — independent-arrival. The third pole for the self-primacy fork, with the tradition's own internal disagreement kept and its capture critique with it. Fills the sort's only chairless hole.
+- [[ubuntu personhood]] — independent-arrival. The third pole for the self-primacy fork, with the tradition's own internal disagreement kept and its capture critique with it. Filled the sort's last chairless hole (2026-08-05); the Menkiti-and-Gyekye reading is undone.
 - [[daniel ingram]] — names-existing-practice. The difficult stages after the threshold as a named, expected sequence, which is the most practically developed answer to the guardrail the book lacks.
 - [[de jaegher and di paolo]] — independent-arrival. Participatory sense-making, which is the first mechanism the relational field has ever had, and the most precise version of the objection to the book's solitary form.
 
