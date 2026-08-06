@@ -54,10 +54,11 @@ The founding paper is read — Gendlin 1964, complete on 2026-08-05, with the re
 
 - [[introspective access is the felt shift's undefended premise]] — the objection the standard has never met, first-ranked of the sort's nine holes. It now carries a candidate treatment from the reading above: the narrowed certificate has a smaller attack surface, and whether the narrowed version survives Schwitzgebel is what his reading has to settle.
 - [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the first candidate answer the vault holds, and it comes from the standard's own author: the implicit order is precise enough to refuse a wrong word, and a refusal is a cost fluency never pays. Confirmed at the primary text on 2026-08-05: "his direct referent does the judging."
-- [[the verification standard rests on one name and cannot be defended by company]] — why the standard cannot be defended by company.
-- [[eugene gendlin]] — the chair, now carrying the reading section; *Focusing*, *A Process Model*, and the outcome research remain unread.
+- [[the verification standard rests on one name and cannot be defended by company]] — twenty-nine builders of enterable structure share the roster, and only Gendlin supplies the verification standard, so the company is abundant exactly where the load is not.
+- [[eugene gendlin]] — his evaluation note, which now integrates the 1964 reading; *Focusing*, *A Process Model*, and the outcome research remain unread.
+- [[carl rogers]] — the program behind the finding, which the corpus never names though it tells the research story three times. He adds no second arrival — the standard still rests on one name — but he establishes that the finding came out of a funded, measured, adversarial research program rather than out of one man's introspection, which is the charge the standard is most exposed to.
 - [[nisbett and wilson]] — the canonical empirical strike, and the first paper to read of all of them, because its own carve-out may put the felt shift outside its range.
-- [[eric schwitzgebel]] — the chair that closes that carve-out, arguing introspection unreliable about present experience rather than only about its causes.
+- [[eric schwitzgebel]] — the evaluation note that closes that carve-out, arguing introspection unreliable about present experience rather than only about its causes.
 - [[the basic posture is describable as dissociation and the harm literature is unread]] — the objection aimed at what the standard is used on rather than at the standard itself: the same posture read clinically is a symptom.
 
 ## What the body is being asked to verify, added 2026-08-05
