@@ -82,7 +82,7 @@ One entry in the queue was promoted out of the list on 2026-08-05, because the c
 
 Neither is urgent for the manuscript, because the author has already demoted the vocabulary from architecture to instrument. Both are here because they were asked for directly: whether the triad and the molecules hold merit outside the conversations that produced them (author question, 2026-08-05).
 
-The sort's own discipline-level finding belongs here too, because it is about this map rather than about any thinker. Three provenance families are near-empty across every load — analytic philosophy, systems and design, practitioner pedagogy — and the strongest missing arrivals live in exactly those three. That is a description of where the reading has gone so far, not of where the thinkers are.
+The sort's own discipline-level finding belongs here too, because it is about this map rather than about any thinker. Of the three provenance families the sort found near-empty — analytic philosophy, systems and design, practitioner pedagogy — two have since gained chairs, and systems and design still holds only unread names (von Foerster, Alexander, Wilber). The finding survives the filling: it is a description of where the reading has gone so far, not of where the thinkers are.
 
 ## The apparatus region's readings, evaluated 2026-08-05
 
