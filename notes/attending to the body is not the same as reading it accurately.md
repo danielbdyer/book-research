@@ -1,5 +1,5 @@
 ---
-description: "Interoception research splits body-listening into accuracy, sensibility, and awareness, and finds them dissociable — constant attention with inaccurate reading is a measured profile, which is the book's second reader given an empirical spine."
+description: "Interoception research splits body-listening into accuracy, sensibility, and awareness and finds them dissociable — constant attention with inaccurate reading is a measured profile, and it is the book's second reader."
 category: claim
 sources: ["generative pass research, 2026-08-04 (archive/research — generative pass background.md)", "Garfinkel, Seth, Barrett, Suzuki & Critchley 2015, Biological Psychology 104 (cited in place)"]
 topics: ["[[felt-shift]]", "[[research-frontier]]"]

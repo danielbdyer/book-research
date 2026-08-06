@@ -1,5 +1,5 @@
 ---
-description: "Gendlin holds corpus seats as container-maker and chapter-patron, and supplies the book's verification standard; his philosophy carries its defense, and his refusal kept is that the shift verifies a life's meaning moving, not a book's claims."
+description: "Gendlin holds corpus seats as container-maker and chapter-patron and supplies the verification standard; his philosophy carries its defense, and his refusal kept: the shift verifies a life moving, not a book's claims."
 category: interlocutor
 seat: container-makers
 recommendation: "The seats are corpus-assigned (container-makers; chapter-patron with McLaren); this note records what they rest on and the refusal that bounds the book's central borrowing."

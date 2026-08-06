@@ -43,6 +43,16 @@ The simulated brief: a drafting session sits down to write the material where th
 
 **Verdict on the writing test:** for this concern, the vault would have served statement, origin, and limits well, practice partially, and the defense not at all — and the defense is the part the author named as his main job. The test's calibration finding, stated once for /rethink: a map's claim list measures coverage of what the corpus says, and this dry run caught a shelf the corpus never stocked. Coverage of the sources is not coverage of the writing's needs; only a simulated drafting session sees the second kind of gap.
 
-## Patched in as the research lands (2026-08-04)
+## Patched in as the research landed (2026-08-04, same day)
 
-- The Gendlin defense claims, the counterfeit catalogue, and the interoception dissociation — being reduced from the generative-pass research round; paths recorded in `ops/completed.md` with the round's entry.
+The empty shelf was stocked by the generative-pass research round, and the drafting session now also gets:
+
+- [[a genuine felt shift changes what can be said next]] — the defense: referent movement as a step that rearranges the sayable, from the standard's own source.
+- [[gendlin's focusing protocol already guards against the counterfeit shift]] — the guards as teachable instructions: quick answers dismissed, freshness required, checking-in across days.
+- [[the felt sense of truth has a documented counterfeit catalogue]] — the measured counterfeits, with the teachability finding (the rhyme effect shrinks when readers are warned) and the honest middle (the counterfeit runs weaker than the genuine article).
+- [[attending to the body is not the same as reading it accurately]] — the dissociation, the second reader's empirical spine, with the measurement debate kept.
+- [[zen's makyo instruction refuses the self-certifying experience]] — the refusal from inside the lineages, and the relational check installed in the experience's place.
+- [[eugene gendlin]] — the source's chair, with the refusal that bounds the borrowing: the shift verifies a life's meaning moving, not a text's claims.
+- [[what the big experience leaves behind depends on what follows it]] — the promise's clinical grounding, adjacent to this concern through the persistence question.
+
+Still empty after the round, for the next session that takes this concern: the titration guidance for muted-signal readers (one clause, no sourcing), the per-practice verification conditions (queued), and A Process Model itself, which no round has yet been able to read.

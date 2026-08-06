@@ -1,5 +1,5 @@
 ---
-description: "Utpaladeva ties camatkāra to reflective awareness itself — a jar is not relished-with-wonder, a subject is — and Abhinavagupta bridges it to aesthetic rapture, so art is a doorway the tradition theorized, with the difference kept."
+description: "Utpaladeva ties camatkāra to reflective awareness itself, and Abhinavagupta bridges it to aesthetic rapture — art is a doorway the tradition theorized on its own, with the theater-not-world difference kept."
 category: claim
 sources: ["generative pass research, 2026-08-04 (archive/research — generative pass background.md)", "Torella, JIP 42 (2014); ĪPV ad 1.5.13; Pratyabhijñāhṛdayam ad sūtra 11; Gnoli 1968; Gerow, JAOS 114.2 (cited in place)"]
 topics: ["[[recognition]]", "[[research-frontier]]"]

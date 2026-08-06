@@ -1,5 +1,5 @@
 ---
-description: "Kornfield's interview corpus establishes the book's shifted promise clinically — awakening experiences arrive and do not last, and maturation happens in the ordinary life after — with his refusal kept: the after is walked in community, not alone with a book."
+description: "Kornfield's interview corpus establishes the shifted promise — awakenings arrive and do not last, and maturation happens in the ordinary life after — with his refusal kept: the after is communal, not book-alone."
 category: interlocutor
 seat: candidate
 recommendation: "Reference-lineage for the promise: After the Ecstasy, the Laundry is the shifted promise as a title, built from the testimony of teachers rather than argument."

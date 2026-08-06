@@ -1,5 +1,5 @@
 ---
-description: "Processing fluency, rhyme, decorative photos, and induced aha moments each produce feelings of truth without truth — a measured catalogue, and one study shows the effect shrinks when readers are warned, so the discernment is teachable."
+description: "Fluency, rhyme, decorative photos, and induced aha moments each produce felt truth without truth — a measured catalogue, and the rhyme effect shrinks when readers are warned, so the discernment is teachable."
 category: claim
 sources: ["generative pass research, 2026-08-04 (archive/research — generative pass background.md)", "Reber & Schwarz 1999; McGlone & Tofighbakhsh 2000; Alter & Oppenheimer 2009; Newman et al. 2012; Danek & Wiley 2017; Laukkonen et al. 2020 (cited in place)"]
 topics: ["[[felt-shift]]", "[[research-frontier]]"]

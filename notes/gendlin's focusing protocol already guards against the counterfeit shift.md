@@ -1,5 +1,5 @@
 ---
-description: "The Focusing protocol's own instructions anticipate the fluent counterfeit — quick answers are dismissed, the sense must be fresh rather than remembered, and the check is repeated across days — so the book's guards have a source, not just a need."
+description: "The Focusing protocol's own instructions anticipate the counterfeit — quick answers dismissed, freshness required, the check repeated across days — so the book's guards have a source, not just a need."
 category: claim
 sources: ["generative pass research, 2026-08-04 (archive/research — generative pass background.md)", "Gendlin, Focusing (1978), fourth and fifth movements and the checking-in section (cited in place)"]
 topics: ["[[felt-shift]]", "[[methods]]"]

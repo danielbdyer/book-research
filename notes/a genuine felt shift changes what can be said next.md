@@ -1,5 +1,5 @@
 ---
-description: "Gendlin's own philosophy carries the felt shift's defense — a real shift is a step that rearranges what is sayable, while fluent assent leaves the sayable unchanged — which converts the counterfeit problem into a checkable difference."
+description: "Gendlin's own philosophy carries the felt shift's defense — a real shift is a step that rearranges what is sayable, while fluent assent leaves it unchanged — so the counterfeit problem becomes a checkable difference."
 category: claim
 sources: ["generative pass research, 2026-08-04 (archive/research — generative pass background.md)", "Gendlin, A Theory of Personality Change (1964); Focusing (1978); Experiencing and the Creation of Meaning (1962) (cited in place)"]
 topics: ["[[felt-shift]]", "[[research-frontier]]"]
