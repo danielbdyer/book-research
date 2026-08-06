@@ -4,7 +4,7 @@ category: claim
 sources: ["mesh grid: other names recovered", "atlas §IX"]
 topics: ["[[relational-field]]", "[[interlocutors]]"]
 state: privated
-privation: "the mesh grid's characterization stands in for a primary reading not yet done"
+privation: "the primary reading of Ich und Du is not yet done; the chronology half of the grid's characterization — 1923 before Being and Time's 1927, with the explicit 1938 critique of Heidegger — was web-verified 2026-08-06 (archive/research — counterpoint round background.md, round two)"
 ---
 
 # the relational vocabulary has an ontology and it is buber's rather than benjamin's

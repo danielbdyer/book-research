@@ -251,7 +251,7 @@ Found by the second provenance sweep, one layer above the formulas. The register
 
 ### Replacing them in the queue, from the same sweep
 
-- [ ] Otto Scharmer — presencing sits in the convergence table for the basic posture while the grid files him Tier 5. The Hudson problem again, unchecked.
+- [ ] Otto Scharmer — presencing sits in the corpus's convergence table for the basic posture, which no base tier records. The grid's addendum moved him from its base to Tier 4, so the vault's earlier flag slightly overstated the grid's error; the substance stands, and the function-count proposed in `ops/reading queue.md` starts with him. The Hudson problem again, still unchecked.
 - [ ] Fritz Perls and Virginia Satir in their own right — both absent, both from the same settlement, and plausibly behind more of the practice register than the Robbins row accounts for. A suspicion rather than a find.
 
 ## Against the address — the attacker shelf, filled 2026-08-06
