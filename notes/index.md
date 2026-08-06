@@ -30,7 +30,7 @@ The atlas's closing section (§XII) resolves the book's entire field into six ma
 - [[interlocutors]] — the book's company of thinkers, each sorted on two axes: a functional seat (what the thinker does for the book) and a load (what the book cannot lose if they leave); the centerpiece map
 - [[book-structure]] — the manuscript's parts, named units, overlays, apparatus, and how the material was made
 - [[tensions]] — the registry of tensions the book keeps deliberately unresolved, each with its treatment
-- [[research-frontier]] — the outward research program: evaluations completed and pending
+- [[research-frontier]] — the outward research program: evaluations completed and pending, with the sharpened reading backlog at `ops/reading queue.md`
 - [[methods]] — the vault's working rules and the registry of the eight source documents
 - [[open-questions]] — questions the corpus holds open on purpose
 
