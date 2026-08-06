@@ -86,7 +86,7 @@ Four propositions the sort finds carrying weight with no adversary seated agains
 - [[utpaladeva]] — source-tradition. He founded the recognition school; the corpus names him as the far side of the Heidegger convergence.
 - [[martin heidegger]] — speech-acts, and the central verb's source. His chair holds four derived refusals and the associations named at the door, with Celan, Arendt, and Adorno as the escorts already seated.
 
-### The apparatus region's chairs, evaluated 2026-08-05
+### The apparatus region's chairs
 
 Until this date the region of the graph holding the triad, the alphabet, the chemistry and the record of the making contained **no interlocutor at all** — the only such region, measured at `ops/convergence points.md`. The author directed the evaluation of the four candidates the corpus itself names for it, and the pass turned up two more that no source names. All six are written from secondary knowledge with the primary reading undone, and each says so in its own body.
 
