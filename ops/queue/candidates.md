@@ -57,7 +57,8 @@ The author's question: who else is around the aletheia–pratyabhijñā crossove
 
 The author's restated promise — the reader already had the big experience and it did not hold — makes the literature of non-persistence a direct concern rather than background.
 
-- [ ] John Welwood — coined spiritual bypassing (1984): spiritual ideas and experiences used to avoid psychological work; one of the named ways it didn't hold.
+- [ ] John Welwood — coined spiritual bypassing in "Principles of Inner Work" (Journal of Transpersonal Psychology 16(1), 1984); his own late formulation: "a widespread tendency to use spiritual ideas and practices to sidestep or avoid facing unresolved emotional issues, psychological wounds, and unfinished developmental tasks" (Tricycle, 2011). One of the named ways it didn't hold; the 1984 paper's internal wording still unverified.
+- [e] Jack Kornfield — evaluated 2026-08-04, recommendation recorded, awaiting the author's decision. The shifted promise's evidentiary book, from testimony; refusal kept: the after is communal. `notes/jack kornfield.md`.
 - [ ] The reader's shelf — a mapping pass, not a person: what the book's likely reader has already read (van der Kolk, Pollan, Chödrön, the IFS workbooks), to learn which words arrive pre-armored. Serves the second reader type, whose armor is made of vocabulary.
 
 ## The letter-writers' bench (added 2026-08-04, generative pass)
