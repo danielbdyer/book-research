@@ -61,7 +61,7 @@ R2 = re.compile(
 R3 = re.compile(r"\*\*[^*.!?]{2,70}:\*\*")
 BULLET = re.compile(r"^(?:[-*+]\s+|\d+\.\s+)")
 SKIP_START = ("#", ">", "|", "`", "%", "!", "[", "---")
-YAML_KEY = re.compile(r"^[a-zA-Z_][\w -]*:\s")
+YAML_KEY = re.compile(r"^[a-zA-Z_][\w-]*:\s")
 
 
 def gated(path):
