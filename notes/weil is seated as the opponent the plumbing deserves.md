@@ -11,7 +11,7 @@ topics: ["[[tensions]]"]
 
 The book's commitment to ordinary life — the corpus's name for it is "transcendence with plumbing," the Householder Axiom recorded at [[the tuesday is the temple]] — has a genuine opponent, and the book seats her inside itself. Simone Weil's position (decreation, attention as the purest generosity, affliction that cannot be transformed but only borne) runs directly against the householder commitment, and she is seated in the reference lineage at full strength. The atlas states the logic at §XI.2g: the axiom is "kept honest by its worthiest adversary," and §IX.8d records the seating.
 
-The tension is deliberately unresolved. Weil also does second duty among the corpus's expansions of the five theories of where suffering lives (atlas §IX.5), where she represents suffering that is borne rather than dissolved. The classical form of that counterweight — Aristotle's distinction between privation (a missing ingredient) and affliction (a presence that must be borne) — has not been researched for this project; it is on the pending-evaluation list in `ops/queue/candidates.md`.
+The tension is deliberately unresolved. Weil also does second duty among the corpus's expansions of the five theories of where suffering lives (atlas §IX.5), where she represents suffering that is borne rather than dissolved. The classical form of that counterweight — Aristotle's distinction between privation (a missing ingredient) and affliction (a presence that must be borne) — was evaluated 2026-08-06 and holds an evaluation note at [[aristotle on privation]], which states the affliction objection as the inheritance the book takes on with the move; the primary text remains unread.
 
 ## Substantiation
 
