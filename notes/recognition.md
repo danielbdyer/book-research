@@ -48,7 +48,7 @@ Open territory the corpus named and never developed, recorded so it is reachable
 - [[the sacred in the ordinary is produced by sensory design]] — nascent; whether the ordinary is noticed or arranged
 - [[a person lives inside symbolic infrastructures they have built]] — nascent; the corpus has read one such system already
 
-## Arrivals from outside both traditions, added 2026-08-05
+## Arrivals from outside both traditions
 
 The founding convergence is between two traditions, and the lineage sort asked who else reached the same structure without standing in either. Two arrivals came back, and both are recorded with the refusal that keeps them honest rather than flattering.
 
