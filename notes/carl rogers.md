@@ -1,5 +1,5 @@
 ---
-description: "Rogers ran the research program Gendlin's felt shift came out of and specified the conditions a helping relationship must meet, so the book's verification standard and its container doctrine both descend from him uncited."
+description: "Rogers ran the program Gendlin's felt shift came out of and specified what a helping relationship requires, so the book's verification standard and its container doctrine both descend from him uncited."
 category: interlocutor
 seat: candidate
 load: precedent

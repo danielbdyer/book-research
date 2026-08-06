@@ -1,5 +1,5 @@
 ---
-description: "Maslow coined peak experience, a term the executed draft uses throughout without citing him, and then spent his last years correcting it toward the plateau — the sustained way of living, not the visit — which is the book's own central argument."
+description: "Maslow coined peak experience, which the draft uses throughout without citing him, then spent his last years correcting it toward the plateau — the sustained life, not the visit — the book's own argument."
 category: interlocutor
 seat: candidate
 load: precedent

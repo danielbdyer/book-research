@@ -99,6 +99,17 @@ Until this date the region of the graph holding the triad, the alphabet, the che
 
 The last two are the finding rather than illustrations of it: the catalogue's constructs have their own provenance, and two of them are taken along with the discipline's technical term ([[the molecule catalogue divides by whether the construct existed before the formula]]). What the seven borrowings share is recorded at [[the privation move is an independent arrival across five fields rather than a book coinage]].
 
+### The apparatus's uncredited ancestors, found 2026-08-05
+
+A second sweep of the same kind, one layer above the formulas: for each operational move the book makes, does a named literature already hold the construct, and does any source name it? Nine came back absent, two of them already flagged by the corpus's own survey. The register with the search method and its bounds is `ops/inherited constructs.md`; the pattern the nine make is [[the apparatus descends from the settlement the book positions itself against]]. Four new chairs, all from secondary knowledge with the readings undone.
+
+- [[abraham maslow]] — recommended reference-lineage, load `precedent`: he coined *peak experience*, the draft uses it as a technical term nine times without him, and the book's central correction of it is his own late self-correction toward the plateau.
+- [[carl rogers]] — recommended reference-lineage, load `precedent`, and the most load-bearing of the four: Gendlin's felt shift was produced in Rogers's program on Rogers's question, and Rogers separately specified the conditions the book's container describes. The corpus tells that research story three times and never names the program.
+- [[wilhelm reich]] — recommended reference-lineage, load `precedent`: character armor is the fold with a somatic mechanism, and the somatic authorities the book does cite all descend from him. The lineage is credited from the middle down.
+- [[set and setting]] — recommended reference-lineage, load `precedent`: the corpus's own survey says the Triad and the Stance together are a general theory of set and setting, names the current scholar, and names neither Leary nor Zinberg.
+
+Each brings a refusal worth more than its citation. Reich broke armor where the book bows to it; Rogers held that the helper's formulation is the obstacle, which is what a chapter of formulas is; Zinberg's controlling variable is the group's rituals rather than the individual; Maslow's peak sits atop a needs hierarchy the book does not engage.
+
 ### Evaluated, awaiting the author's decision
 
 The survey's top four, each read against the primary work 2026-08-02. Recommendations are recorded in the notes; the seat field stays `candidate`.

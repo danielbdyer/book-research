@@ -62,6 +62,10 @@ A synthesis received the same day reports the literature on intense states, and 
 - [[the plasticity window reorganizes only what attention is on]] — the second and different mechanism for the same failure, locating it after the event rather than at it.
 - [[the practice is the expression of realization rather than a means to it]] — the clause that forbids treating any of the above as a technique, and the constraint every exercise this map's curriculum contains is written under.
 
+## The standard's program, named 2026-08-05
+
+- [[carl rogers]] — the corpus tells the story of Gendlin's research three times and never names the program it happened in or the man whose question it answered. That matters for this map specifically: the standard rests on one name and cannot be defended by company, and Rogers does not add an arrival but does establish that the finding came out of a funded, measured, adversarial research program rather than out of one man's introspection — which is the charge the standard is most exposed to.
+
 ## What remains
 
 This map's own live question is the instrument's counterweights: grounding [[felt shift versus felt confirmation]] in the processing-fluency and interoception literature is the priority five's last open member. Beyond it, the space-around survey proposes four candidates that bear directly on this map, none yet researched — Polanyi's tacit knowing, William James's account of the vague, Gendlin's own Thinking at the Edge method, and Petitmengin's micro-phenomenology — on the pending-evaluation list in `ops/queue/candidates.md`, which is deliberately long.

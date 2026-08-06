@@ -1,5 +1,5 @@
 ---
-description: "Set and setting is Leary's coinage and Zinberg's framework for why the same substance produces different experiences, and the corpus's own survey says the book's central architecture is a general theory of it while naming neither originator."
+description: "Set and setting is Leary's coinage and Zinberg's framework, and the corpus's own survey says the book's central architecture is a general theory of it while naming neither originator."
 category: interlocutor
 seat: candidate
 load: precedent

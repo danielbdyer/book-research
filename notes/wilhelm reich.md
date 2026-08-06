@@ -1,5 +1,5 @@
 ---
-description: "Reich's character armor is protective structure formed against threat that persists in the body after the threat is gone, which is the book's fold with a somatic mechanism and a century of lineage, and he is cited nowhere while his descendants all are."
+description: "Reich's character armor is protection formed against threat that persists in the body after the threat is gone — the book's fold, with a somatic mechanism — and he is cited nowhere while his descendants all are."
 category: interlocutor
 seat: candidate
 load: precedent

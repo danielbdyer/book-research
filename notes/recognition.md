@@ -68,6 +68,10 @@ This map states what the book says happens. The reader the author defined on 202
 
 This concern borders [[contraction-not-corruption]], because the move from healing to recognition is what removes "broken" as a starting assumption. It borders [[answerability]], because the book claims recognition lands in reading only when the word is fully embodied. It borders [[relational-field]], because the same word (Hegel's *Anerkennung*, recognition) grounds the book's account of what two people do for each other.
 
+## The vocabulary of the peak, and who coined it (2026-08-05)
+
+- [[abraham maslow]] — *peak experience* is his term, used nine times as a technical term in the executed draft and cited nowhere; more consequentially, the book's claim that the peak is not the work is his own late correction toward the plateau, made sixty years earlier by the man whose vocabulary the book is using.
+
 ## What remains
 
 The central-process regions are now extracted: each of atlas §I's three names for the process has its claims here, and the Kashmir Śaiva material of atlas §IX.6 was worked on 2026-08-03. Two pieces of that material are deliberately queued with other passes in `ops/queue/extractions.md`: the four upāyas belong with the practice curriculum, and so'yam belongs with the Courtyard overlay. The space-around survey raises Jorge Ferrer's participatory pluralism as a direct challenge to the two-traditions-one-conclusion framing. Ferrer has not been researched for this project; he is on the pending-evaluation list in `ops/queue/candidates.md`.

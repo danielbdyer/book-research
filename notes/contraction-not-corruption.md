@@ -27,6 +27,8 @@ The formulas below are the book's canonical examples. Each is a separate claim b
 - [[the privation move is an independent arrival across five fields rather than a book coinage]] — the convergence beneath this whole map's signature move, assembled 2026-08-05
 - [[aristotle on privation]] — the oldest of the arrivals, with the affliction objection it brings
 - [[james marcia]] — the unnamed bearer of the foreclosure formula
+- [[the apparatus descends from the settlement the book positions itself against]] — the wider sweep: nine of the book's operational constructs trace to one uncredited formation
+- [[wilhelm reich]] — the fold's uncited ancestor, whose descendants the book cites throughout
 - [[the diagnostic discipline survives the apparatus that carries it]] — what the doctrine keeps once that limit is granted, and where each survivor's standing comes from
 - [[intimacy is a tether rather than a binding]] — the healthy state that stands opposite the enmeshment privation
 - [[forgiveness is sever then release]] — the ordering rule, which carries the book's critique of premature peace
