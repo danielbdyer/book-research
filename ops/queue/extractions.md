@@ -1,6 +1,6 @@
 # Pending extractions
 
-Regions of the seven source documents not yet extracted into claims.
+Regions of the eight source documents — the seven corpus documents and the poems beneath them — not yet extracted into claims.
 
 **Priority (2026-08-02, per `ops/methodology/center of gravity.md`):** the company of thinkers and the practice curriculum come first — the five groups the treatment calls rooms, the contemporary teachers' five theories of suffering, the Kashmir Śaiva material, and the convergences they carry; the basic posture, the twelve practice forms, and channeling. The system sections (the primitives, the molecule catalogue, the engine detail) are demoted to as-needed: extracted when a convergence or a practice requires the vocabulary, not as a program. Do not let the sources' volume reorder this. Working one of these means: read the region, extract against the categories in `ops/derivation-manifest.md` under the admission standard, connect the new claims into topic maps with /reflect, and update the source's archive note. Mark `[x]` with the date and the number of claims produced.
 
