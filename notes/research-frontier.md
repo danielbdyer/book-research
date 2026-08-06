@@ -21,7 +21,7 @@ Four were evaluated against their primary works on 2026-08-02 and now carry reco
 
 The fifth member graduated before evaluation: [[felt shift versus felt confirmation]] is already admitted as a tension — the survey ranks its "two sentences of humility" first because they "make every other claim in the book more believable" (space-around, priority list). What remains of it is the sourcing in the processing-fluency and interoception literature, which is the priority five's only open work.
 
-The evaluations bumped four entries from the full queue to the front, each because a completed note now names it as the specific thing missing: Lisa Feldman Barrett (the counterweight to [[karla mclaren]]), Michael Polanyi and the wu wei literature via Slingerland (both now cited inside completed notes rather than only listed), and the shu-ha-ri material, which turned out to be half-answered by the executed draft ([[the practice forms specify when to begin and not how to tell one is finished]]).
+The evaluations bumped four entries from the full queue to the front, each because a completed note names it as the specific thing missing. Of those four, Michael Polanyi has since been evaluated and holds a chair with a dual function ([[michael polanyi]]); Lisa Feldman Barrett (the counterweight to [[karla mclaren]]), the wu wei literature via Slingerland, and the shu-ha-ri material — half-answered by the executed draft at [[the practice forms specify when to begin and not how to tell one is finished]] — remain open.
 
 ## The crossover cluster
 
