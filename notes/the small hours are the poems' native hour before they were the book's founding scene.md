@@ -1,5 +1,5 @@
 ---
-description: "The poems carry the only small-hour timestamps in the whole record — 4am in poem #7, 3am in #12, 1:13am in #16 — so the founding scene's hour was the poems' hour of crying, breathing, and trying before it was the book's."
+description: "The poems carry the only small-hour timestamps in the record — 4am in poem #7, 3am in #12, 1:13am in #16 — so the founding scene's hour was the poems' hour of crying, breathing, and trying before it was the book's."
 category: claim
 sources: ["poems #7", "poems #12", "poems #16", "provenance addendum four §II.2 (the 4am scene)"]
 topics: ["[[book-structure]]"]
