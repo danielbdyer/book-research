@@ -3,7 +3,7 @@ description: "Karla McLaren holds the emotion-work seat: she treats every emotio
 category: interlocutor
 seat: emotion-work
 clause: "Grief is the one emotion that cannot complete alone — it structurally requires witness and ceremony."
-works: ["The Language of Emotions"]
+works: ["The Language of Emotions (2010; unread here — the chair rests on the corpus's account)"]
 sources: ["atlas §IX.2", "arc-gloss: the five rooms", "arc-gloss: ch6", "walked IX", "space-around: around the chemistry"]
 topics: ["[[interlocutors]]", "[[relational-field]]"]
 ---
