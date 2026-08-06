@@ -99,9 +99,9 @@ Until 2026-08-05 the region of the graph holding the triad, the alphabet, the ch
 
 The last two are the finding rather than illustrations of it: the catalogue's constructs have their own provenance, and two of them are taken along with the discipline's technical term ([[the molecule catalogue divides by whether the construct existed before the formula]]). What the seven borrowings share is recorded at [[the privation move is an independent arrival across five fields rather than a book coinage]].
 
-### The apparatus's uncredited ancestors, found 2026-08-05
+### The apparatus's uncredited ancestors
 
-A second sweep of the same kind, one layer above the formulas: for each operational move the book makes, does a named literature already hold the construct, and does any source name it? Nine came back absent, two of them already flagged by the corpus's own survey. The register with the search method and its bounds is `ops/inherited constructs.md`; the pattern the nine make is [[the apparatus descends from the settlement the book positions itself against]]. Four new chairs, all from secondary knowledge with the readings undone.
+A second sweep of the same kind ran 2026-08-05, one layer above the formulas: for each operational move the book makes, does a named literature already hold the construct, and does any source name it? Nine came back absent, two of them already flagged by the corpus's own survey. The register with the search method and its bounds is `ops/inherited constructs.md`; the pattern the nine make is [[the apparatus descends from the settlement the book positions itself against]]. Four new chairs, all from secondary knowledge with the readings undone.
 
 - [[abraham maslow]] — recommended reference-lineage, load `precedent`: he coined *peak experience*, the draft uses it as a technical term nine times without him, and the book's central correction of it is his own late self-correction toward the plateau.
 - [[carl rogers]] — recommended reference-lineage, load `precedent`, and the most load-bearing of the four: Gendlin's felt shift was produced in Rogers's program on Rogers's question, and Rogers separately specified the conditions the book's container describes. The corpus tells that research story three times and never names the program.
