@@ -28,6 +28,17 @@
           }
         ]
       }
+    ],
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash .claude/hooks/register-reminder.sh",
+            "timeout": 5
+          }
+        ]
+      }
     ]
   }
 }

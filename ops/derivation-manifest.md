@@ -138,3 +138,12 @@ personality:
   formality: formal
   emotional_awareness: task-focused
 ---
+
+# ── register countermeasure (stamped 2026-08-05; the canonical copy is the final section of ops/methodology/prose register.md) ──
+# Every skill that reads this manifest writes under the five lines below, and where this copy disagrees with the canonical one, the canonical one wins.
+# 1. Every statement is a complete sentence with a named subject and a finite verb, and the last sentence of each paragraph is checked first, because fragments concentrate at the closes.
+# 2. A vault-internal term — chair, seat, load, privated, and every other pipeline coinage — is unfolded where it appears or replaced with plain words.
+# 3. A reference is a receipt, never the content, and travels with one clause stating what it points to.
+# 4. A figure of speech appears only inside quotation marks, where the quoted phrasing is itself the finding.
+# 5. Every reply to the author is reread as him before it is sent, in full.
+# The quality clause binds at equal force: the ban is on compression that withholds, never on complexity that delivers.
