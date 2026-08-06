@@ -57,7 +57,7 @@ The founding convergence is between two traditions, and the lineage sort asked w
 - [[the state that arrives and the station that is earned were distinguished a millennium before the lattice that names them]] — the Sufi distinction the book already uses as its bypass guard, reached from outside both poles.
 - [[al-qushayri]] — the eleventh-century systematizer who drew it.
 
-## Why an arrival does not persist, added 2026-08-05
+## Why an arrival does not persist
 
 This map states what the book says happens. The reader the author defined on 2026-08-04 is someone to whom it already happened once and did not last, so the mechanism of non-persistence is now load-bearing for the doctrine rather than incidental to it. Two mechanisms are held side by side and deliberately not merged, because they imply different books.
 
