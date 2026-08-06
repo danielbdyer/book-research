@@ -46,7 +46,7 @@ This concern borders [[relational-field]], because the book uses the field as a 
 
 - [[introspective access is the felt shift's undefended premise]] — the objection the standard has never met, first-ranked of the sort's nine holes.
 - [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the first candidate answer the vault holds, and it comes from the standard's own author: the implicit order is precise enough to refuse a wrong word, and a refusal is a cost fluency never pays.
-- [[the verification standard rests on one name and that name has no chair]] — why the standard cannot be defended by company.
+- [[the verification standard rests on one name and cannot be defended by company]] — why the standard cannot be defended by company.
 - [[eugene gendlin]] — the chair, written 2026-08-05, with the primary reading still to do.
 - [[nisbett and wilson]] — the canonical empirical strike, and the first paper to read of all of them, because its own carve-out may put the felt shift outside its range.
 - [[eric schwitzgebel]] — the chair that closes that carve-out, arguing introspection unreliable about present experience rather than only about its causes.

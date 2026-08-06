@@ -53,7 +53,7 @@ The provenance rounds established facts about how the corpus was made. Four of t
 Six findings from that day are about how the vault works rather than about what the book claims, and each puts pressure on a house rule above.
 
 - [[the company was sorted by what each thinker brings and never by what the book cannot lose]] — the sorting defect behind the second axis: a taxonomy by contribution answers what a thinker brings and never asks what happens if they leave.
-- [[the verification standard rests on one name and that name has no chair]] — the case that exposed it, and a direct check on rule 5: the standard the vault cannot run is also one the vault had not seated.
+- [[the verification standard rests on one name and cannot be defended by company]] — the case that exposed it, and a direct check on rule 5: the standard the vault cannot run is also one the vault had not seated.
 - [[sorting a lineage by load turns it toward argument]] — the tension the new axis creates against the stance that governs prose, treated by scope rather than resolved.
 - [[the convergence's independence fails where three of its names share one teacher]] — rule 7's count-once principle extended from documents to thinkers, since shared teaching makes agreement a family resemblance rather than an arrival.
 - [[the drive to closure has measurable costs]] — the warrant beneath rule 4, and the criterion that separates a disciplined open tension from a romantic one: naming what would close it.

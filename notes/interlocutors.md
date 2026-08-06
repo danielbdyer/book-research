@@ -51,7 +51,7 @@ The seats are functional. The corpus's narrative names for them are recorded in 
 ### How the company is sorted, and the sorting's own findings
 
 - [[the company was sorted by what each thinker brings and never by what the book cannot lose]] — the author's correction of 2026-08-05 and the reason for the second axis.
-- [[the verification standard rests on one name and that name has no chair]] — the case that exposed the blind spot: the felt shift's author filed among twenty-nine builders.
+- [[the verification standard rests on one name and cannot be defended by company]] — the case that exposed the blind spot: the felt shift's author filed among twenty-nine builders.
 - [[the nearest prior attempts are case histories rather than interlocutors]] — the kind of thinker the seat taxonomy had no cell for, whose value is their outcome.
 - [[sorting a lineage by load turns it toward argument]] — the tension the axis creates against the authorial stance, treated by scope rather than resolved.
 - [[the coaches are a bloc that competes with the compositional scheme]] — the largest re-reading the sort produced: eleven colleagues read as one argument.

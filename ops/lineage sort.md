@@ -39,7 +39,7 @@ One finding came out of writing them and is left open. The anti-instrumentality 
 |---|---|---|
 | Trika — Abhinavagupta, Utpaladeva, Kṣemarāja `[v]` | indic-and-buddhist-primary | Four claims at once: recognition, obstruction-not-absence, fullness as the road to selflessness, and a householder tradition. No substitution available. |
 | Heidegger `[v]` | continental-philosophy | The central verb. Inherited rather than earned — Sheehan makes that inheritance the problem. |
-| Gendlin `[v]` | continental-philosophy + clinical | The verification standard entire. Currently filed among the twenty-eight builders; see [[the verification standard rests on one name and that name has no chair]]. |
+| Gendlin `[v]` | continental-philosophy + clinical | The verification standard entire. Currently filed among the twenty-eight builders; see [[the verification standard rests on one name and cannot be defended by company]]. |
 | Wilber, on the state/structure lattice | systems-and-design | The mechanism answering why an enormous experience leaves nothing behind; see [[an enormous experience is interpreted by the structure it did not change]]. |
 | Buber — probable, currently seated as chapter patron | continental-philosophy | The ontology under the relational vocabulary. The grid's reading: Benjamin is the clinic, Buber is the ontology. |
 | Alexander — probable, on the method rather than the thesis | systems-and-design | Structure-preserving transformation as the book's edit-ethic; see [[structure-preserving transformation is a method-bearing claim rather than a directional one]]. |

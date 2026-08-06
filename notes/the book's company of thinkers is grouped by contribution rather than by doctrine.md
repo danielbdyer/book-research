@@ -27,7 +27,7 @@ A second consequence is that one person can hold two places without contradictio
 
 Relevant Notes:
 - [[the company was sorted by what each thinker brings and never by what the book cannot lose]] — the author's correction of 2026-08-05, and the axis added beside this principle
-- [[the verification standard rests on one name and that name has no chair]] — the specific case that exposed the blind spot
+- [[the verification standard rests on one name and cannot be defended by company]] — the specific case that exposed the blind spot
 - [[transformation is enacted participation inside a held container]] — the finding the five groups produce once laid over the whole arc, and the reason the company is content rather than context
 - [[the transformation field divides into five theories of where suffering lives]] — the fault lines the fifth group was admitted with, kept live
 - [[the system is scaffolding rather than the centerpiece]] — the decision that makes this company a centerpiece rather than a bibliography

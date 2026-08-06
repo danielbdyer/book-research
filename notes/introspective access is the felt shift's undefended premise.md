@@ -30,7 +30,7 @@ The three are of different kinds and the difference matters. Nisbett and Wilson'
 Relevant Notes:
 - [[nothing enters the lattice the body has not countersigned]] — the standard whose premise this tension names
 - [[felt shift versus felt confirmation]] — the two limits already recorded, both on the reading rather than on the premise
-- [[the verification standard rests on one name and that name has no chair]] — why a single-bearer claim cannot be defended by company
+- [[the verification standard rests on one name and cannot be defended by company]] — why a single-bearer claim cannot be defended by company
 - [[steven katz]] — the one named adversary already evaluated here, whom the grid reseats against this claim specifically
 - [[beauty recruits the wrong posture]] — the stylistic form of the same problem, where the prose produces the assent
 
