@@ -30,6 +30,7 @@ Relevant Notes:
 - [[the open center is made possible by the three structures and identical with none of them]] — the center his formula speaks of
 - [[utpaladeva]] — the founder of the school his twenty sūtras condense
 - [[the fullness of the first person is the road to selflessness rather than its obstacle]] — the proposition his tradition holds and this chair carries, which the vault had never written down
+- [[the recognition school installs wonder at the definition of consciousness]] — his gloss closes the identification: vimarśana, "whose other name is camatkāra," and the stages of yoga as wonder
 
 Topics:
 - [[interlocutors]]

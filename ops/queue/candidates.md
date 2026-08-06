@@ -55,11 +55,31 @@ The author's question: who else is around the aletheia–pratyabhijñā crossove
 - [ ] The integration-gap literature — the book as integration technology for the phase the clinical field neglects.
 - [ ] Chögyam Trungpa — spiritual materialism, counterweight: practice as acquisition.
 
+## Around the promise — "it didn't hold" (added 2026-08-04, generative pass)
+
+The author's restated promise — the reader already had the big experience and it did not hold — makes the literature of non-persistence a direct concern rather than background.
+
+- [ ] John Welwood — coined spiritual bypassing in "Principles of Inner Work" (Journal of Transpersonal Psychology 16(1), 1984); his own late formulation: "a widespread tendency to use spiritual ideas and practices to sidestep or avoid facing unresolved emotional issues, psychological wounds, and unfinished developmental tasks" (Tricycle, 2011). One of the named ways it didn't hold; the 1984 paper's internal wording still unverified.
+- [e] Jack Kornfield — evaluated 2026-08-04, recommendation recorded, awaiting the author's decision. The shifted promise's evidentiary book, from testimony; his refusal is kept: nobody did the laundry alone. `notes/jack kornfield.md`.
+- [ ] The reader's shelf — a mapping pass, not a person: what the book's likely reader has already read (van der Kolk, Pollan, Chödrön, the IFS workbooks), to learn which words arrive pre-armored. Serves the second reader type, whose armor is made of vocabulary.
+
+## The letter-writers' bench (added 2026-08-04, generative pass)
+
+Genre research feeding the open genre question without landing it: what letters do that treatises do not.
+
+- [ ] Seneca — the Letters to Lucilius as directed practice in epistolary form.
+- [ ] Keats — negative capability, formulated inside a letter rather than an essay.
+- [ ] Paul Celan — the poem as message in a bottle, underway toward an addressable you (Bremen speech).
+
+## Around the occasion (added 2026-08-04; bounded by author decision to introduction and conclusion)
+
+- [ ] Byung-Chul Han — The Burnout Society; the tired, self-optimizing subject is the first reader type diagnosed in two pages. One-page companion for the occasion only; the technology argument is not a chapter engine.
+
 ## Around the instrument
 
 - [e] Michael Polanyi — evaluated 2026-08-05 from the mesh grid, recommendation recorded, awaiting the author's decision. The chair holds two functions by the author's direction of 2026-08-05: this one, tacit knowing as the felt sense's second voice, which matters more than it looks because the verification standard currently rests on Gendlin alone; and the larger one, the participation law's only non-continental witness. `notes/michael polanyi.md`.
-- [ ] William James — the fringe of consciousness; the felt sense's ancestry in American psychology.
-- [ ] Gendlin's Thinking at the Edge — the source lineage's own method for articulating from the murky edge.
+- [e] William James — evaluated 2026-08-04, recommendation recorded, awaiting the author's decision. The stance's ancestor; fruits-not-roots kept as the counterweight to the felt shift. `notes/william james.md`.
+- [e] Gendlin's Thinking at the Edge — recorded 2026-08-04 on the chair at `notes/eugene gendlin.md`: the writer's-side method matching the verification standard. Full primary read (The Folio 19(1)) still open.
 - [ ] Claire Petitmengin — micro-phenomenology; the strongest answer to the unfalsifiability objection.
 
 ## Around the anatomy

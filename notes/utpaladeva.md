@@ -31,6 +31,7 @@ Relevant Notes:
 - [[reading is remembering]] — his school's doctrine, printed as the book's promise
 - [[kshemaraja]] — the disciple generation that condensed his school
 - [[the fullness of the first person is the road to selflessness rather than its obstacle]] — the proposition his school states in the first person, held by the tradition rather than by any one thinker
+- [[the recognition school installs wonder at the definition of consciousness]] — the tie scholarship credits to him first: camatkāra bound to vimarśa, wonder installed where consciousness is defined
 
 Topics:
 - [[interlocutors]]

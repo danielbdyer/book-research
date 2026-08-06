@@ -31,6 +31,7 @@ Relevant Notes:
 - [[the householder claim has no witness outside the indic world]] — the neighbouring hole the same tradition partly fills
 - [[the unanimity claim is an artifact of how the lineages were selected]] — why arrivals from outside the assembled room count differently from arrivals inside it
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the book's founding convergence, whose two poles this one is outside
+- [[the recognition school installs wonder at the definition of consciousness]] — the boundary's Śaiva instance: aesthetic rapture lasts exactly as long as the tasting, and the tradition says so itself
 
 Topics:
 - [[interlocutors]]

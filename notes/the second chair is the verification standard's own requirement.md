@@ -31,6 +31,7 @@ Relevant Notes:
 - [[the third thing has a mechanism in participatory sense-making]] — the enactivist arrival at the same shape, independent of this one
 - [[nothing enters the lattice the body has not countersigned]] — the standard whose operating condition this claim names
 - [[eugene gendlin]] — the chair, with the reading section this draws on
+- [[zen's makyo instruction refuses the self-certifying experience]] — a thousand-year working instance of the requirement: the teacher, not the experience, verifies, and even kensho is tested in relation
 
 Topics:
 - [[felt-shift]]

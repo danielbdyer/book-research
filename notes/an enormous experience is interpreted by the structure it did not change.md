@@ -35,6 +35,7 @@ Relevant Notes:
 - [[a developmental scheme handed to practitioners becomes a ranking of persons]] — the cost of importing the stage axis along with the mechanism
 - [[recognition]] — the arrival this mechanism explains the non-persistence of
 - [[ken wilber]] — the bearer, and the five places the grid finds him already load-bearing without credit
+- [[what the big experience leaves behind depends on what follows it]] — the clinical measurements of this mechanism's output: persistence tracked completeness and subsequent practice, not the peak alone
 
 Topics:
 - [[recognition]]

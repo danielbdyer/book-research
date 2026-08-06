@@ -143,6 +143,12 @@ The crossover cluster, evaluated 2026-08-03 at the author's direction as backgro
 - [[thomas sheehan]] — the deflationary guard, anchored in Heidegger's own 1964 retraction.
 - [[andrea jain]] — gestural subversion: the stewardship test that sincerity cannot pass alone.
 
+The generative-pass round, evaluated 2026-08-04; shared provenance at `archive/research — generative pass background.md`:
+
+- [[william james]] — the stance's ancestor: two judgments held apart, worth settled by fruits, and the authority verdict that is the sovereignty doctrine in 1902. His refusal is kept: fruits verify, and the felt shift is a root.
+- [[jack kornfield]] — the shifted promise's evidentiary book, from the testimony of teachers: they don't last, and the laundry is where maturation happens. His refusal is kept: nobody did the laundry alone, so no book gets to offer itself as enough.
+- [[rainer maria rilke]] — first chapter-patron by the corpus's roster, the note built because the round's claims needed it; the torso poem performs the book's event out of a trained practice of looking. Two refusals are kept: the devils priced with the angels, and art reachable only by love.
+
 The mesh grid's names, evaluated 2026-08-05 from the grid alone rather than against primary works. Each note says so; every one carries a reading still to be done, and none of the loads is a seating.
 
 - [[eugene gendlin]] — thesis-bearing. The verification standard is his, and he has been carrying it from inside a roster of twenty-nine.
@@ -217,7 +223,7 @@ This map is fed by [[research-frontier]], which holds the evaluation queue. It b
 
 ## What remains
 
-The nearest work is the author's: thirty-eight evaluations carry recommendations and await his seating decisions, which the vault cannot make (`scripts/queries/candidate-seats.sh` reports the set). The vault's own nearest work is the priority five's last open member — the instrument's counterweights, admitted as a tension at [[felt shift versus felt confirmation]] and still needing sourcing in the processing-fluency and interoception literature. Beyond those, roughly eighty candidates are enumerated in `ops/queue/candidates.md`, which is deliberately long — the field, not the task. The roster above names about a hundred seated thinkers and works; they get notes when a claim needs them, because creating them all at once would add volume without use.
+The nearest work is the author's: the evaluations carry recommendations and await his seating decisions, which the vault cannot make — thirty-eight when `scripts/queries/candidate-seats.sh` last counted, plus the generative-pass round's two (James and Kornfield), rejoined in the merge of 2026-08-06. The instrument's counterweights are no longer the open member they were: the sourcing landed 2026-08-04 (the fluency catalogue, the interoception dissociation, and the defense found in Gendlin's own philosophy), and what remains of that thread is the reading program — Nisbett and Wilson first in `ops/reading queue.md`, A Process Model still unread. Beyond those, roughly eighty candidates are enumerated in `ops/queue/candidates.md`, which is deliberately long — the field, not the task. The roster above names about a hundred seated thinkers and works; they get notes when a claim needs them, because creating them all at once would add volume without use.
 
 Two seats the evaluations found rather than filled. The material voice is the only position in the whole roster carried anonymously, and [[hartmut rosa]] is a working sociologist whose central object is exactly the grid it names. Lisa Feldman Barrett is the standing counterweight to [[karla mclaren]]'s messenger model and is on the pending list; the question her research puts to the roster — are the messengers found or made — is recorded in [[open-questions]].
 

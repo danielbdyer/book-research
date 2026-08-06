@@ -33,6 +33,7 @@ Relevant Notes:
 - [[nothing enters the lattice the body has not countersigned]] — the standard itself
 - [[the drive to closure has measurable costs]] — the second friction in the same criterion
 - [[the participation law has a witness who came to it through crystallography]] — the third, where the rupture is a skill rather than a word
+- [[the felt sense of truth has a documented counterfeit catalogue]] — the measured literature of what fluency produces without friction: felt truth from ease, rhyme, decoration, and induced insight
 
 Topics:
 - [[felt-shift]]
