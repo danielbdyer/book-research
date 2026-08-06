@@ -67,7 +67,7 @@ The claim that the knower is inside what they know is the condition this map's l
 
 ## What remains
 
-The space-around survey proposes the strongest evidence and the strongest objections for this map, none yet researched: Tronick's still-face experiment (evidence), Levinas's asymmetry (an objection to the mutuality framing), Merleau-Ponty's intercorporeality, the Ubuntu tradition, Collins's interaction ritual chains, and the warning that witnessing can shade into consumption. All are on the pending-evaluation list in `ops/queue/candidates.md`, which is deliberately long; the consumption warning is this map's nearest counterweight, since [[a witness kept as proof forecloses what it proves]] already states its shadow from the author's own record.
+The space-around survey proposes the strongest evidence and the strongest objections for this map: Tronick's still-face experiment (evidence), Levinas's asymmetry (an objection to the mutuality framing), Merleau-Ponty's intercorporeality, Collins's interaction ritual chains, and the warning that witnessing can shade into consumption — all still unresearched on the pending-evaluation list in `ops/queue/candidates.md`, which is deliberately long. The Ubuntu tradition has left that list: its evaluation stands at [[ubuntu personhood]] in this map's mechanism section, with the primary reading undone. The consumption warning is this map's nearest counterweight, since [[a witness kept as proof forecloses what it proves]] already states its shadow from the author's own record.
 
 ---
 
