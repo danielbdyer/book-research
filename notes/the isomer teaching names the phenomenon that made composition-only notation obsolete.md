@@ -1,5 +1,5 @@
 ---
-description: "Isomerism is the anomaly that forced chemistry to invent structural formulas in the nineteenth century, and the corpus borrows it — along with the words bond site and stereochemistry — while writing formulas that record composition alone."
+description: "Isomerism is the anomaly that forced chemistry to invent structural formulas, and the corpus borrows it — with the words bond site and stereochemistry — while writing formulas that record composition alone."
 category: claim
 sources: ["atlas §IV", "abridged ch6", "first-telling: the offering"]
 topics: ["[[contraction-not-corruption]]", "[[research-frontier]]"]

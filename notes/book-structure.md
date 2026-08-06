@@ -117,6 +117,7 @@ The provenance record of 2026-08-02 and after — the accounts of the corpus's m
 - [[the unfolding of the center is planted half-erased and finished at a mirror]] — the clearest case of the planting device: a formula planted as a fragment and finished late
 - [[the minus sign is what makes a molecule formula prescriptive]] — the notation that sorts the catalogue into descriptions and instructions
 - [[the compositional notation does not license the operations its syntax implies]] — what happens when the executed draft's own formulas are checked against each other
+- [[the chemistry's teachings are structural and its notation is only compositional]] — the general finding from the complete formula audit: the notation records membership and every teaching is about relation
 - [[the alphabet's closure rests on a drill no record shows being run]] — the asserted test that made the set an alphabet, and its missing instance
 - [[the corpus names the standard its found-not-invented axiom has not met]] — two descriptive sources disagreeing about whether the vocabulary is a discovery
 - [[the executed draft cannot decide whether the primitives are elementary operations or useful tools]] — the same page asserting both statuses, treated by the author's demotion

@@ -28,7 +28,12 @@ One consequence for the vault's own reading. The isomer teaching is the clearest
 
 ---
 
+**Extended 2026-08-05 by a complete audit.** All twenty-one formulas in the corpus were checked, not just chapter five's, and two further arithmetic failures came out of it: `Stagnation = Lifecycle − Transform` reduces to Transform's own formula, so the state defined by lacking the operation is the operation; and Trust and Paralysis cannot be both isomers and privations, since the privation formula leaves them sharing one atom of three. The inventory is `ops/formula audit.md`, and the general finding it supports — that the notation records composition while every teaching is about structure — is [[the chemistry's teachings are structural and its notation is only compositional]].
+
+---
+
 Relevant Notes:
+- [[the chemistry's teachings are structural and its notation is only compositional]] — the general statement of which this note is the mechanical half
 - [[the diagnostic discipline survives the apparatus that carries it]] — what is left standing once the notation's claim is set aside, and why it is not nothing
 - [[trust and paralysis are isomers]] — the teaching that requires a bond notation the formulas do not have
 - [[the minus sign is what makes a molecule formula prescriptive]] — the one operator that does predict something, and the exception that limits it

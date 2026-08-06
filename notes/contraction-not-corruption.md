@@ -21,6 +21,8 @@ The formulas below are the book's canonical examples. Each is a separate claim b
 - [[trust paralysis and foreclosure differ only on the commit-defer axis]] — the third arrangement, supplied by the abridged edition, which turns that pair into a group of three
 - [[the minus sign is what makes a molecule formula prescriptive]] — the notation rule that sorts the catalogue into conditions described and suffering-states with an instruction attached
 - [[the compositional notation does not license the operations its syntax implies]] — the limit on all of the formulas above: the discriminations they are credited with are made by the prose beside them
+- [[the chemistry's teachings are structural and its notation is only compositional]] — the general finding beneath every formula note in this section, from a complete audit of all twenty-one
+- [[the isomer teaching names the phenomenon that made composition-only notation obsolete]] — where the borrowed term comes from, and what the discipline did when it faced the same problem
 - [[the diagnostic discipline survives the apparatus that carries it]] — what the doctrine keeps once that limit is granted, and where each survivor's standing comes from
 - [[intimacy is a tether rather than a binding]] — the healthy state that stands opposite the enmeshment privation
 - [[forgiveness is sever then release]] — the ordering rule, which carries the book's critique of premature peace

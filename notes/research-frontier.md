@@ -78,6 +78,7 @@ One entry in the queue was promoted out of the list on 2026-08-05, because the c
 
 - [[the corpus names the standard its found-not-invented axiom has not met]] — Wierzbicka's semantic primes, named by the outward survey as "the standard of evidence to meet or gracefully decline" for any claim that the alphabet is found rather than invented, while the atlas files that claim as an axiom's supporting evidence. Burke's terministic screens sit beside it as the counterweight, and both are unread.
 - [[the alphabet's closure rests on a drill no record shows being run]] — the claim on the other side of that bar: three statements of a completed falsifiability test, no candidate named, no reduction shown, and nothing in the reconstructions of the making that records the test occurring.
+- [[the isomer teaching names the phenomenon that made composition-only notation obsolete]] — a reading the vault owes because it has already used the history: the nineteenth-century move from molecular to structural formulas is stated in that note from general knowledge and has not been read here, which is why the note carries a privation. It is the one entry in this section whose reading would settle a finding the vault has already recorded rather than open a new question.
 
 Neither is urgent for the manuscript, because the author has already demoted the vocabulary from architecture to instrument. Both are here because they were asked for directly: whether the triad and the molecules hold merit outside the conversations that produced them (author question, 2026-08-05).
 

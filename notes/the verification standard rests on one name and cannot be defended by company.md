@@ -1,5 +1,5 @@
 ---
-description: "The felt shift is the book's single test for whether anything is true and it is Eugene Gendlin's alone, which means the convergence that supports every other claim is unavailable to this one and the defense has to be built against objections."
+description: "The felt shift is the book's single test for whether anything is true and it is Eugene Gendlin's alone, so the convergence that supports every other claim is unavailable here and the defense must be built against objections."
 category: structure
 sources: ["mesh grid: tier 1", "atlas §IX.4", "author statement, 2026-08-04", "author statement, 2026-08-05"]
 topics: ["[[interlocutors]]", "[[felt-shift]]", "[[methods]]"]

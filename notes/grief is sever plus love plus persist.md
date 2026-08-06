@@ -17,12 +17,14 @@ The formula carries a structurally unusual element: a catalyst. A witness sits i
 - Atlas §IV lists the formula with the witness marked as catalyst and cross-links it to the relational-field section (§VIII).
 - Walked IV records the book's staging of the catalyst requirement in a canning scene: some preservations cannot be done alone.
 - The space-around survey proposes three loans from real chemistry that would deepen the catalyst reading: activation energy, nucleation (the witness as nucleation site), and catalytic surfaces (holding reactants in the right orientation as a definition of facilitation). None has been researched for this project; all three are on the pending-evaluation list in `ops/queue/candidates.md`.
+- **This is the formula that departs furthest from the alphabet, and the departure is the point.** Neither *Love* nor *Persist* is one of the twelve operations — the twelve are Create, Dissolve, Bind, Sever, Maintain, Release, Transform, Attend, Express, Contain, Commit, Defer — so two of the three terms are imported, and the catalyst is a fourth import that is a person rather than an operation at all. A notation of operations has no place to put a witness, which is why the corpus writes the witness in as a label. The formula that carries the book's relational claim is the one its own alphabet cannot spell ([[the chemistry's teachings are structural and its notation is only compositional]]; the inventory is `ops/formula audit.md`).
 
 ---
 
 Relevant Notes:
 - [[grief cannot complete alone]] — the clinical statement of the catalyst requirement
 - [[the field between two people does work]] — the relational claim this formula proves at molecule scale
+- [[the chemistry's teachings are structural and its notation is only compositional]] — why the catalyst has to sit outside the formula, and the eight other teachings in the same position
 
 - [[a partnership can be deliberately entered and deliberately left]] — nascent; a chosen ending, which this formula does not cover
 
