@@ -87,7 +87,7 @@ echo "3. A reference is a receipt, never the content. Every link or file path tr
 echo "4. A figure of speech appears only inside quotation marks, where the quoted phrasing is itself the finding. Mirrored pairs, load-bearing metaphors, quotable endings, and self-narration are statements withheld, not style."
 echo "5. Every reply to the author is reread as him before it is sent, in full, applying lines 1 through 4."
 echo ""
-echo "Quality clause, equal force: none of this shortens or flattens. Long subordinate sentences are welcome when they unfold in reading order; richness is the right fact, complete, with its reason attached. The ban is on compression that withholds, never on complexity that delivers."
+echo "The quality clause carries equal force: none of this shortens or flattens. Long subordinate sentences are welcome when they unfold in reading order; richness is the right fact, complete, with its reason attached. The ban is on compression that withholds, never on complexity that delivers."
 echo ""
 if [ -f scripts/queries/countermeasure.sh ]; then
   bash scripts/queries/countermeasure.sh --quiet || true

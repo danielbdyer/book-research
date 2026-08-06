@@ -33,7 +33,7 @@ What a session writes to the author is held to the same register as what it writ
 
 ## The register countermeasure
 
-Rule 7 above is the fifth line of the register countermeasure — the five-line form of all of this, stamped at the author's direction at every surface a session loads and verified at each session start by `scripts/queries/countermeasure.sh`. The canonical copy, with the quality clause that carries equal force, is the final section of `ops/methodology/prose register.md`; where any copy disagrees with that one, that one wins.
+Rule 7 above is the fifth line of the register countermeasure, whose canonical copy is the final section of `ops/methodology/prose register.md`; where this compact copy disagrees with that one, that one wins. The five lines, compactly: every statement is a complete sentence with a named subject and a finite verb, and the last sentence of each paragraph is checked first; a vault-internal term — chair, seat, load, privated, and every other pipeline coinage — is unfolded where it appears or replaced with plain words; a reference is a receipt, never the content, and travels with one clause stating what it points to; a figure of speech appears only inside quotation marks, where the quoted phrasing is itself the finding; and every reply to the author is reread as him before it is sent, in full. The quality clause binds at equal force: the ban is on compression that withholds, never on complexity that delivers. `scripts/queries/countermeasure.sh` verifies these six signatures at every stamped surface on every session start and every turn, and sentences the author flags are logged in `ops/register violations.md`.
 
 ## What this does not change
 
