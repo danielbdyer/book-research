@@ -59,6 +59,10 @@ The claim that the knower is inside what they know is the condition this map's l
 - [[martin buber]] — the chair for the ontology beneath this map's vocabulary, currently seated at the roster's lightest position.
 - [[the participation law has no opponent and its oldest objection is that participation is contamination]] — the hole the second search found: the objection is institutionalized in blinding and randomization, and no one in the company puts it.
 
+## The clinical bearer the between has never cited, added 2026-08-05
+
+- [[salvador minuchin]] — the book's Enmeshment formula is his construct under his own word, and the larger find is the second thing he holds: fifty years of technique for altering a relational field deliberately, which the book's relational claim currently asserts without mechanizing. Whether he is a `precedent` for one formula or an `independent-arrival` at the participation law is what the reading decides.
+
 ## What remains
 
 The space-around survey proposes the strongest evidence and the strongest objections for this map, none yet researched: Tronick's still-face experiment (evidence), Levinas's asymmetry (an objection to the mutuality framing), Merleau-Ponty's intercorporeality, the Ubuntu tradition, Collins's interaction ritual chains, and the warning that witnessing can shade into consumption. All are on the pending-evaluation list in `ops/queue/candidates.md`, which is deliberately long; the consumption warning is this map's nearest counterweight, since [[a witness kept as proof forecloses what it proves]] already states its shadow from the author's own record.

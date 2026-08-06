@@ -77,6 +77,25 @@ The nine are not a random nine. Sort them by what the prose has to supply and on
 
 Every one is a **relation** — between atoms, between an atom and time, between the compound and something outside it. The notation records **composition**: an unordered collection of terms, with one subtraction. That is the whole finding, and it explains every earlier result the vault reached piecemeal.
 
+## Where the formulas came from, added 2026-08-05
+
+The author asked a second question of the same catalogue: more than one of these formulas is pointed at by a tradition the book already seats, Landmark being the obvious one — do the formulas have their own provenance? They do, for roughly half of them, and the sort cuts across every other sort in this file.
+
+| Formula | The construct it names, and whose | Where the corpus stands |
+|---|---|---|
+| The Racket = Complaint + Payoff, both fixed | Landmark/est's fixed complaint with fixed payoff | **Donated, and said so**: "Landmark donates a molecule to the periodic table" (`arc-gloss: ch6`). Two further ancestors named elsewhere and never connected to it: Bateson's double bind, "the Racket's deep ancestor and its exculpation" (`space-around: around the engine`), and Kegan's immunity to change, "almost line for line, the Racket with a worksheet," with the crossover "never drawn, by us or, as far as I know, by anyone" (`space-around: around "insight that doesn't move anything"`) |
+| Grief — catalyst: witness | McLaren's grief teaching | **Attributed**: `arc-gloss: ch6` |
+| Burnout = Obligation − Sanctuary | Han's burnout society, at civilizational scale | **Cross-referenced**: `atlas §IX.8f` |
+| The Privation Principle itself | Aristotle's *steresis*; the scholastics' *privatio boni* | **Named as uncited**: "an ancient patent-holder we've never cited" (`space-around: around the chemistry`) |
+| Sanctuary = Contain + Maintain + Release | Attachment theory's secure base | **Named as uncited**: "Bowlby and Ainsworth are, strangely, nowhere in the project," with "internal working models are molecules by another name" (`space-around: around the chemistry`) |
+| Foreclosure = Commitment − Defer | Marcia's identity status: commitment without exploration (1966) | **Nowhere, and the word is his** |
+| Enmeshment = Connection − Sever-capacity | Minuchin's enmeshment and boundary-making (1974) | **Nowhere, and the word is his** |
+| Obligation, Possibility, Paralysis, Trust, Stagnation, Lifecycle, Threshold, Surrender | no construct found | — |
+
+**Seven of the fifteen named molecules compress something that already existed.** Three are credited somewhere in the corpus, two are flagged by its own survey as debts, and two are taken along with the discipline's technical term and attributed to nobody. The claims are [[the molecule catalogue divides by whether the construct existed before the formula]] and, for what the seven share, [[the privation move is an independent arrival across five fields rather than a book coinage]].
+
+Two consequences for how the rest of this file is read. First, the finger-and-moon question splits: where a formula translates an existing construct, the state is established elsewhere and the notation's failures cost less; where it does not, the notation's failures are the whole support. Second, the notation's limits are more forgivable in exactly the cases where they matter least — Foreclosure and Enmeshment are both prose-carried *and* borrowed, so what the notation drops, the source literature still holds.
+
 ## The one operator that works, and why
 
 The notation has exactly one operator that says something about a relation rather than about membership: the minus sign, which marks a term as *absent* rather than merely not listed. And the vault measured, independently and before this audit, that the minus sign is the only thing in the notation that predicts anything — a formula with a minus yields an instruction, a formula with plus signs alone yields a description, with no exception across the executed catalogue ([[the minus sign is what makes a molecule formula prescriptive]]).

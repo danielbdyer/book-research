@@ -1,5 +1,5 @@
 ---
-description: "Seven of the named molecules compress constructs that already exist in other literatures under their own names, three of them flagged by the corpus as uncited and two attributed nowhere at all, while the rest have no traceable lineage."
+description: "Seven of the named molecules compress constructs that already exist elsewhere under their own names, three flagged by the corpus as uncited and two attributed nowhere, while the rest have no traceable lineage."
 category: claim
 sources: ["arc-gloss: ch6", "arc-gloss: overlay four", "atlas §IV", "atlas §IX.8f", "abridged ch6", "abridged ch8", "space-around: around the chemistry", "space-around: around \"insight that doesn't move anything\"", "space-around: around the engine"]
 topics: ["[[contraction-not-corruption]]", "[[interlocutors]]"]

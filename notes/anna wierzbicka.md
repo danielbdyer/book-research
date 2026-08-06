@@ -1,5 +1,5 @@
 ---
-description: "The linguist whose Natural Semantic Metalanguage isolated roughly sixty-five semantic primes by cross-linguistic testing, which is the empirical standard the corpus itself names for any claim that the book's alphabet is found rather than chosen."
+description: "The linguist whose Natural Semantic Metalanguage isolated some sixty-five semantic primes by cross-linguistic testing — the standard the corpus itself names for any claim that the book's alphabet is found."
 category: interlocutor
 seat: candidate
 load: adversary

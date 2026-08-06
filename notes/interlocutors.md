@@ -86,6 +86,19 @@ Four propositions the sort finds carrying weight with no adversary seated agains
 - [[utpaladeva]] — source-tradition. He founded the recognition school; the corpus names him as the far side of the Heidegger convergence.
 - [[martin heidegger]] — speech-acts, and the central verb's source. His chair holds four derived refusals and the associations named at the door, with Celan, Arendt, and Adorno as the escorts already seated.
 
+### The apparatus region's chairs, evaluated 2026-08-05
+
+Until this date the region of the graph holding the triad, the alphabet, the chemistry and the record of the making contained **no interlocutor at all** — the only such region, measured at `ops/convergence points.md`. The author directed the evaluation of the four candidates the corpus itself names for it, and the pass turned up two more that no source names. All six are written from secondary knowledge with the primary reading undone, and each says so in its own body.
+
+- [[anna wierzbicka]] — recommended recommended-reading, load `adversary`: the corpus names her the standard the alphabet's closure claim must meet or gracefully decline, and her sixty-five primes came from a method that could have failed.
+- [[kenneth burke]] — recommended reference-lineage, load `adversary`: terministic screens, the objection that survives whether or not the set is complete, and therefore the one the book has to answer in prose rather than in research.
+- [[alfred north whitehead]] — recommended reference-lineage, load `precedent`: the completed metaphysics behind the verbs-only commitment, to be cited in a sentence rather than imported, since the machinery would reinstate a scheme as architecture.
+- [[aristotle on privation]] — recommended reference-lineage, load `precedent`: the signature move's twenty-four-century ancestry, which the corpus records as never cited, and the affliction objection that travels with it.
+- [[james marcia]] — recommended reference-lineage, load `precedent`: `Foreclosure = Commitment − Defer` is his 1966 identity status under his own word, cited nowhere in the corpus.
+- [[salvador minuchin]] — recommended reference-lineage, load `precedent`: `Enmeshment = Connection − Sever-capacity` is his construct and its prescription is his intervention, cited nowhere in the corpus.
+
+The last two are the finding rather than illustrations of it: the catalogue's constructs have their own provenance, and two of them are taken along with the discipline's technical term ([[the molecule catalogue divides by whether the construct existed before the formula]]). What the seven borrowings share is recorded at [[the privation move is an independent arrival across five fields rather than a book coinage]].
+
 ### Evaluated, awaiting the author's decision
 
 The survey's top four, each read against the primary work 2026-08-02. Recommendations are recorded in the notes; the seat field stays `candidate`.

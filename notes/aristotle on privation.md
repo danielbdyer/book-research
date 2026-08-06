@@ -1,5 +1,5 @@
 ---
-description: "Aristotle made privation one of the three principles of all change, which gives the book's signature diagnostic move a twenty-four-century ancestry the corpus flags as never cited, along with the objection that comes with it."
+description: "Aristotle made privation one of the three principles of all change, giving the book's signature move a twenty-four-century ancestry the corpus flags as never cited, plus the objection that comes with it."
 category: interlocutor
 seat: candidate
 load: precedent

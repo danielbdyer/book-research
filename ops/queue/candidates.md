@@ -36,7 +36,7 @@ The author's question: who else is around the aletheia–pratyabhijñā crossove
 - [ ] Louis Sass — hyperreflexivity: self-monitoring as the pathology itself.
 - [ ] Daniel Wegner — ironic process theory: monitoring produces the monitored thought.
 - [ ] John Vervaeke — four kinds of knowing; the survey calls him the book's most conspicuous living interlocutor.
-- [ ] Robert Kegan — subject-object theory; immunity to change as the Racket with a worksheet.
+- [ ] Robert Kegan — subject-object theory; immunity to change as the Racket with a worksheet. **Raised 2026-08-05**: the formula-provenance sort makes him one of three lineages behind a single donated molecule, and the survey says the Landmark–Kegan crossover has never been drawn by anyone.
 
 ## Around "folded, not broken"
 
@@ -71,15 +71,15 @@ The author's question: who else is around the aletheia–pratyabhijñā crossove
 
 ## Around the alphabet
 
-- [ ] Alfred North Whitehead — the completed metaphysics behind verbs-only.
-- [ ] Anna Wierzbicka — semantic primes; the empirical standard for any claim that the alphabet is found.
-- [ ] Kenneth Burke — terministic screens, counterweight: every vocabulary deflects what it does not select.
+- [e] Alfred North Whitehead — evaluated 2026-08-05 from secondary knowledge. Recommended reference-lineage, load `precedent`: cite in one sentence, decline the machinery, since importing *Process and Reality* would reinstate a scheme as architecture where the 2026-08-04 demotion was aimed. His "fallacy of misplaced concreteness" may move him to adversary. `notes/alfred north whitehead.md`.
+- [e] Anna Wierzbicka — evaluated 2026-08-05 from secondary knowledge. Recommended recommended-reading, load `adversary`: the corpus names her the standard the closure claim must meet or decline, her set came back at sixty-five by a method that could fail, and she would refuse the verbs-only restriction outright. Read before any pass touching the alphabet. `notes/anna wierzbicka.md`.
+- [e] Kenneth Burke — evaluated 2026-08-05 from secondary knowledge. Recommended reference-lineage, load `adversary`: his objection survives the alphabet being complete, so it must be answered in prose rather than in research — and the answer is writable, since conceding what the vocabulary deflects is stronger than any completeness claim. His *trained incapacity* may also bear on the felt-shift region. `notes/kenneth burke.md`.
 
 ## Around the chemistry
 
 - [ ] **The nineteenth-century move from molecular to structural formulas** — raised 2026-08-05 by the formula audit, and unlike everything else in this queue it would settle a finding the vault has already recorded rather than open a new one. The claim at `notes/the isomer teaching names the phenomenon that made composition-only notation obsolete.md` states the history from general knowledge and carries a privation saying so. What the reading has to establish: that isomerism was the anomaly composition-only notation could not absorb (Berzelius's naming, c. 1830, out of the fulminate/cyanate work); that structural formulas were the response (Couper and Kekulé, 1858; Butlerov's "chemical structure," 1861); and that spatial arrangement came later still because connectivity was insufficient (van 't Hoff and Le Bel, 1874). A history of chemistry is the source, not a primary paper. It is also the only entry here that would supply a *shape for a fix* rather than an objection.
-- [ ] Aristotle, steresis — privation's classical ancestry, and the privation-versus-affliction objection.
-- [ ] Attachment theory (Bowlby, Ainsworth) — the secure base as Sanctuary with longitudinal data; earned security as evidence that folds open.
+- [e] Aristotle, steresis — evaluated 2026-08-05 from secondary knowledge. Recommended reference-lineage, load `precedent`: the corpus already records the debt as never cited, and the objection travelling with it (privation versus affliction) is worth more than the credential because both its bearers are already seated and unconnected to it. `notes/aristotle on privation.md`.
+- [ ] Attachment theory (Bowlby, Ainsworth) — the secure base as Sanctuary with longitudinal data; earned security as evidence that folds open. **Raised 2026-08-05**: the provenance sort makes this an attribution debt as well as an evidence opportunity, and the survey's "internal working models are molecules by another name" is a claim about the whole catalogue rather than one formula.
 - [ ] Lisa Feldman Barrett — emotional granularity (support) and constructionism (counterweight to the messenger model). Raised in priority 2026-08-02: she is now the named standing counterweight in `notes/karla mclaren.md`, and McLaren holds a seat that a completed evaluation would put under pressure.
 - [ ] Activation energy, nucleation, catalytic surfaces — three uncollected loans from real chemistry.
 
@@ -199,3 +199,10 @@ From `standing wave`:
 - [ ] The apophatic lineage — Pseudo-Dionysius, the Cloud of Unknowing, Nicholas of Cusa's learned ignorance and coincidence of opposites. Disciplined non-resolution with a procedure and a terminus. Eckhart is already in the corpus's reference lineage and is the bridge.
 - [ ] Graham Priest — paraconsistent logic, and the distinction between reasoning within contradiction and holding contradictions true. The formal warrant for the vault's tension practice, and the weaker claim is the one that is defensible.
 - [ ] Interpersonal entrainment — Kelso on coupled oscillators, the pianist hyperscanning work, Wiltermuth and Heath on synchrony and cooperation. What makes resonance literal rather than figurative; bears on `notes/hartmut rosa.md`.
+
+## Around the chemistry, added 2026-08-05 by the formula-provenance sort
+
+Two constructs the book states under their own technical names and attributes to nobody. Both are attribution debts before they are research opportunities, and both are cheap to close.
+
+- [e] James Marcia — identity statuses, 1966; foreclosure is commitment without exploration, which is `Foreclosure = Commitment − Defer` under his own word. Evaluated 2026-08-05 from secondary knowledge; recommended reference-lineage, load `precedent`. His construct is two-dimensional and the formula is one-dimensional, which is why three of the book's states keep collapsing into each other in this vault's analysis. `notes/james marcia.md`.
+- [e] Salvador Minuchin — structural family therapy, 1974; enmeshment is a system whose internal boundaries have gone diffuse, and the treatment is boundary-making, which is `Enmeshment = Connection − Sever-capacity` and its prescription almost verbatim. Evaluated 2026-08-05 from secondary knowledge; recommended reference-lineage, load `precedent`, with a live question about whether he is an independent arrival at the participation law instead. Bowen may be the better citation for what the formula actually addresses. `notes/salvador minuchin.md`.

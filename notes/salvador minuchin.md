@@ -1,5 +1,5 @@
 ---
-description: "The founder of structural family therapy, whose enmeshment names a system whose internal boundaries have gone diffuse and whose treatment is boundary-making, which is the construct the book's Enmeshment formula states and never credits."
+description: "The founder of structural family therapy, whose enmeshment names a system with diffuse internal boundaries and whose treatment is boundary-making — the construct the book's formula states and never credits."
 category: interlocutor
 seat: candidate
 load: precedent

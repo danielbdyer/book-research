@@ -84,6 +84,15 @@ Neither is urgent for the manuscript, because the author has already demoted the
 
 The sort's own discipline-level finding belongs here too, because it is about this map rather than about any thinker. Three provenance families are near-empty across every load — analytic philosophy, systems and design, practitioner pedagogy — and the strongest missing arrivals live in exactly those three. That is a description of where the reading has gone so far, not of where the thinkers are.
 
+## The apparatus region's readings, evaluated 2026-08-05
+
+The author directed the evaluation of the four candidates the corpus names for the region of the graph that held no interlocutor at all. All four are now chairs with recommendations and undone readings.
+
+- [[anna wierzbicka]] — the closure claim's named standard, and the first of these to read, because the alphabet cannot be called found until her method is met or declined.
+- [[kenneth burke]] — the objection that does not go away if her test is passed, and the only one here answerable in prose.
+- [[alfred north whitehead]] — the finished philosophy behind verbs-only, to cite rather than import.
+- [[aristotle on privation]] — the signature move's ancestry, plus the affliction objection the corpus asks the book to inherit with it.
+
 ## What remains
 
 This map's own live question is the priority five's last open member — sourcing the instrument's counterweights in the processing-fluency and interoception literature — and after it the seating decisions on the four evaluated candidates and the eleven from the crossover cluster, which are the author's. One research task of a different kind sits beside them: the scholarly-database pass that would confirm or close the unclaimed Henry–vimarśa pairing. Beyond those, the pending-evaluation list in `ops/queue/candidates.md` holds roughly sixty entries in the book's own order, so that frontier work tracks manuscript work; the list is deliberately long, and it is the field rather than the task.

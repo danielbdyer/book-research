@@ -23,6 +23,10 @@ The formulas below are the book's canonical examples. Each is a separate claim b
 - [[the compositional notation does not license the operations its syntax implies]] — the limit on all of the formulas above: the discriminations they are credited with are made by the prose beside them
 - [[the chemistry's teachings are structural and its notation is only compositional]] — the general finding beneath every formula note in this section, from a complete audit of all twenty-one
 - [[the isomer teaching names the phenomenon that made composition-only notation obsolete]] — where the borrowed term comes from, and what the discipline did when it faced the same problem
+- [[the molecule catalogue divides by whether the construct existed before the formula]] — which of the formulas above name constructs that already existed elsewhere, and which are attributed to nobody
+- [[the privation move is an independent arrival across five fields rather than a book coinage]] — the convergence beneath this whole map's signature move, assembled 2026-08-05
+- [[aristotle on privation]] — the oldest of the arrivals, with the affliction objection it brings
+- [[james marcia]] — the unnamed bearer of the foreclosure formula
 - [[the diagnostic discipline survives the apparatus that carries it]] — what the doctrine keeps once that limit is granted, and where each survivor's standing comes from
 - [[intimacy is a tether rather than a binding]] — the healthy state that stands opposite the enmeshment privation
 - [[forgiveness is sever then release]] — the ordering rule, which carries the book's critique of premature peace

@@ -1,5 +1,5 @@
 ---
-description: "Classical metaphysics, Trika, attachment research, family therapy and identity development each analyze a difficult state by naming what is absent rather than what is defective, which makes the book's signature move a convergence it files as notation."
+description: "Classical metaphysics, Trika, attachment research, family therapy and identity development each analyze a difficulty by naming what is absent rather than what is defective — a convergence the corpus files as notation."
 category: isomorph
 sources: ["atlas §IV", "atlas §II", "space-around: around the chemistry", "abridged ch6", "abridged ch8"]
 topics: ["[[contraction-not-corruption]]", "[[interlocutors]]"]
