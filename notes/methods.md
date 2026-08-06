@@ -48,7 +48,7 @@ The provenance rounds established facts about how the corpus was made. Four of t
 - [[flourishing flow and facilitation converged on one stance in the author's own record]] — the count-once rule extended from documents to domains, since three of the author's chosen fields converging shows the coherence of his attention rather than a law of the fields.
 - [[the making of the book enacts the law the book states]] — the limit case of the scope rule, and the one the vault sits inside: a law appearing in its own production history shows consistency of the maker, not truth of the law.
 
-### What the lineage sort and the two syntheses added to the rules, 2026-08-05
+### What the lineage sort and the two syntheses added to the rules
 
 Six findings from that day are about how the vault works rather than about what the book claims, and each puts pressure on a house rule above.
 
