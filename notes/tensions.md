@@ -44,7 +44,7 @@ The corpus preserves, rather than adjudicates, the disagreements among its conte
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the sharpest of the forks, whose treatment is the body seated as referee and doctrine recusing itself
 - [[the middle voice is only earned against the voluntarist pole at full strength]] — the condition on that treatment: a resolution is worth what the position it overcomes was worth, and the will pole is the roster's easiest name to condescend to
 
-## The tension inside the vocabulary the author is questioning (2026-08-05)
+## The tension inside the vocabulary the author is questioning
 
 - [[the executed draft cannot decide whether the primitives are elementary operations or useful tools]] — treated. One page of the prose edition calls the six base operations "not metaphors… the elementary operations that constitute almost everything you do" and, four sentences later, "useful, not as facts but as tools." The two license different books, and the reader is given no signal about which they are in. Treatment: the author's decision of 2026-08-04 demoting the schemes from architecture to instrument, under which the prologue's scaffolding sentence stands and chapter five's first sentence does not. What is left is a revision note rather than an open question.
 
