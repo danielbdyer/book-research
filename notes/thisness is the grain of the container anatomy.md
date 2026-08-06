@@ -17,6 +17,7 @@ The point for the book is that containers serve particulars — this person, thi
 - Walked II carries the prose form. The tuning-fork identification is recorded at [[the book is a tuning fork and the reader is the striking surface]].
 - The portability of the ontology across media, and the provenance flag on that argument, are kept at [[the triad is the anatomy of every container]] and not repeated here.
 - A roster note: Scotus, Hopkins, and Deleuze appear in the ontic core (atlas §II.4), not in the guild roster of §IX, so the interlocutors map's roster does not list them. This claim is currently their only anchor in the vault.
+- The lineage's three outside constructs are asserted here on atlas §II.4's authority alone: no work of Scotus, Hopkins, or Deleuze is named by the corpus or read in this vault, and the one quotation that sounds like Deleuze — "the thisness not of an object but of a moment" — is the walked document's phrasing, not a located citation. The three-step lineage stands at the corpus's word until any of the three is read.
 
 ---
 
