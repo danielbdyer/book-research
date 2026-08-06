@@ -31,7 +31,7 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 - [[the sixteenth poem returns the book's language to the life it came from]] — the blade lived at the size of a text: the trembling as the sentence leaves the architecture
 - [[the gap between two states is where the concealed shows itself]] — the teaching that the silence between a spoken word and its answer is a crossing, not a failure
 
-## Who the word is answerable to, added 2026-08-05
+## Who the word is answerable to
 
 Three findings from the same day bear on this map from the speaker's side rather than the reader's: who the first audience is, what the instrument the writing is done with can and cannot be answerable for, and what a word carries once it is spoken to someone at a threshold.
 
