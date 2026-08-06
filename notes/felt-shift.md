@@ -48,6 +48,7 @@ The founding paper is read — Gendlin 1964, complete, with the record at `archi
 
 - [[the felt shift certifies carrying forward rather than correspondence]] — the reading's central finding. Gendlin defines a symbolization's correctness as its experienced effect on the process and denies in his own footnote that it means the symbols match the referent. His certificate is movement; the book's use of it is truth. The narrowing shrinks the introspective demand the standard makes — noticing change against no-change, not describing inner contents — and it costs the book the power to underwrite doctrine with a shift.
 - [[gendlin names four kinds of inward attention that are not focusing]] — his own counterfeit-detection, from a 1964 footnote: sheer emotion, the circumstantial orbit, the explanatory orbit, and self-engineering, each marked by the absence of referent movement. The self-engineering entry carries the first mechanism the vault holds for the surrender-and-will fork: willpower works only where experiencing already implicitly functions.
+- [[the second chair is the verification standard's own requirement]] — the same reading's relational consequence: solo focusing is "always unsteady and difficult" in Gendlin's words, and the listener's responses are what produce movement, so the corpus's Second Chair device is required by the standard itself rather than only by the relational doctrine.
 
 ## The defence and the objections (2026-08-05)
 

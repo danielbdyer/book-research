@@ -67,6 +67,10 @@ The claim that the knower is inside what they know is the condition this map's l
 
 - [[kurt lewin]] — *field* entered social psychology through him, with behavior as a function of person and environment taken together rather than as two separable causes. The book's between and its "the field is real" doctrine run on that vocabulary; so, at one remove, does set and setting. He also invented the group whose subject is itself, which is the head of the lineage the corpus traces only through Austin's speech acts.
 
+## What the Gendlin reading added, 2026-08-06
+
+- [[the second chair is the verification standard's own requirement]] — the book's own test for whether anything landed barely operates alone, on the authority of the man the test is borrowed from: working solo a person circles without movement, and "even just saying to the other person a little" produces it. The wound at [[a codex is a one-chair technology making a two-chair argument]] now binds the verification standard as well as the relational doctrine, and the Second Chair treatment gains a mechanism to go with its lineage.
+
 ## What remains
 
 The space-around survey proposes the strongest evidence and the strongest objections for this map, none yet researched: Tronick's still-face experiment (evidence), Levinas's asymmetry (an objection to the mutuality framing), Merleau-Ponty's intercorporeality, the Ubuntu tradition, Collins's interaction ritual chains, and the warning that witnessing can shade into consumption. All are on the pending-evaluation list in `ops/queue/candidates.md`, which is deliberately long; the consumption warning is this map's nearest counterweight, since [[a witness kept as proof forecloses what it proves]] already states its shadow from the author's own record.
