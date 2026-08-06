@@ -41,9 +41,9 @@ The formulas below are the book's canonical examples. Each is a separate claim b
 - [[the messenger makes suffering unopened correspondence]] — the image that gives the formulas their questions
 - [[the racket is the attractor state with a salary]] — the image of the suffering the privation formulas cannot reach
 
-## What the doctrine met on 2026-08-05
+## What the doctrine met from outside
 
-The lineage sort and the two research syntheses reached this map from three directions at once: an arrival at its central concept from outside the tradition, a bloc of rivals to the apparatus that houses it, and three questions about what the doctrine can and cannot represent.
+The lineage sort and the two research syntheses (2026-08-05) reached this map from three directions at once: an arrival at its central concept from outside the tradition, a bloc of rivals to the apparatus that houses it, and three questions about what the doctrine can and cannot represent.
 
 - [[what was never metabolized lives on as absence and hubl reached it through inherited trauma]] — privation reached through collective and ancestral trauma work with no Trika underneath it, which is the first outside arrival this map's central concept has had.
 - [[thomas hubl]] — that arrival's chair, broken out of the eleven-teacher bloc where the corpus had filed him.
