@@ -197,6 +197,10 @@ Maintenance is condition-based. The session hook counts and reports the first si
 | A methodology correction ("always X") | `ops/methodology/`, via /remember |
 | A dated to-do | `ops/reminders.md` |
 | Material read and set aside | `ops/queue/declines.md`, with the reason |
+| A reading to do, with a question that can fail | `ops/reading queue.md`, in the sharp-questions form |
+| A completed primary reading | `archive/`, as a reading record; findings to `notes/` via the pipeline |
+| A brainstormed proposition with its substantiation route | `ops/queue/claim candidates.md` |
+| A formula-by-formula or construct-by-construct check of the apparatus | `ops/formula audit.md`, `ops/inherited constructs.md` |
 | Per-chapter comparison across the sources | `ops/chapter concordance.md` |
 | Territory the corpus named and never developed | `ops/open corpus.md` |
 
