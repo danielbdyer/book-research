@@ -196,6 +196,14 @@ fi
 if ! command -v qmd >/dev/null 2>&1; then
   echo "CONDITION: qmd is not installed in this container. Run scripts/bootstrap.sh to restore semantic search."
   FIRED=1
+elif [ -f .qmd/index.sqlite ]; then
+  # The index serves stale results silently; CLAUDE.md's own rule is to
+  # reindex after bulk note changes, and nothing enforced it until now.
+  STALE_NOTE=$(find notes -name '*.md' -newer .qmd/index.sqlite -print -quit 2>/dev/null)
+  if [ -n "$STALE_NOTE" ]; then
+    echo "CONDITION: notes have changed since the semantic index was built. Run qmd update && qmd embed."
+    FIRED=1
+  fi
 fi
 if [ "$INBOX_COUNT" -ge 3 ]; then
   echo "CONDITION: $INBOX_COUNT items in inbox. Consider /reduce or /pipeline."
