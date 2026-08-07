@@ -51,6 +51,8 @@ This concern borders [[relational-field]], because answerability requires someon
 
 - [[the experiential learning cycle]] — Dewey established that experience is not automatically educative and that some experience is miseducative, and Kolb formalized the stations an experience has to pass through to become learning. That is the book's answer to why the peak does not hold, held by a tradition that has been testing it for a century and that appears in no source. Donald Schön, already chaired here, is a direct descendant, so part of the lineage is seated without its head.
 
+- [[the alliance holds its size when the exchange is mediated and written]] — the first measured evidence bearing on whether an asynchronous written exchange can carry a working relationship, which is what a letter is
+
 ## What remains
 
 This vault exists in service of this map: research that ripens toward the pilot chapter. The space-around survey proposes two additions bearing on this map, neither yet researched: Stanley Cavell's distinction between knowing and acknowledging (with the warning that a request for acknowledgment can be declined) and Kabir's corpus, which lived in breath and memory before it touched paper. Both are on the pending-evaluation list in `ops/queue/candidates.md`.

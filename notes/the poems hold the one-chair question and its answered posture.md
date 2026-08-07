@@ -1,5 +1,5 @@
 ---
-description: "The book's structural wound — the deepest claim needs two people and reading is solitary — stands in the poems as a lived question, with the treatment's target posture standing there as a lived answer."
+description: "The book's deepest claim is about what happens between two people while a book is read by one, and poem #13 asks that difficulty in plain words while poem #7 states the solitude the book aims its reader at."
 category: claim
 sources: ["poems #13", "poems #7"]
 topics: ["[[relational-field]]"]
@@ -7,22 +7,22 @@ topics: ["[[relational-field]]"]
 
 # the poems hold the one-chair question and its answered posture
 
-The tension the corpus calls the book's structural wound pre-exists the book in the primary layer, as a question asked in plain words: "it's not easy, is it? being intimate by yourself– / letting go of the stigma of knowing there are other / things in the world with which you might otherwise / occupy your time" (poems #13). And the posture every treatment of that wound is trying to build — solitude that does not collapse into isolation — stands answered in an earlier poem: "but when I am alone, / I am together by myself / in all my glory and inconsistency" (poems #7).
+The book's deepest claim concerns what happens between two people, and a printed book is read by one person alone. The vault records that mismatch as a tension in the book's design, and the corpus states it in its own terms as well. The mismatch pre-exists the book in the poems, where it is asked as a question in plain words: "it's not easy, is it? being intimate by yourself– / letting go of the stigma of knowing there are other / things in the world with which you might otherwise / occupy your time" (poems #13). The posture that every proposed treatment of the mismatch is trying to build — being alone without that solitude collapsing into isolation — stands answered in an earlier poem: "but when I am alone, / I am together by myself / in all my glory and inconsistency" (poems #7).
 
-Under the direction rule, both statements originate in the poems: the corpus did not teach the author this problem, and the treatment's target posture is not an aspiration the book invented but a state the record shows already reached, at least once, on the page. The wound and its answer are both his, first.
+For the fifteen poems that predate the book, a phrase shared with the corpus originates in the poem rather than in the book, so both statements above originate in the poems. Two things follow. The corpus did not teach the author this problem; he had already stated it. And the posture the book's treatments aim at is not an aspiration the book invented, but a state the record shows him having already reached, at least once, on the page. Both the difficulty and the state that answers it are the author's own, and both were his before the book existed.
 
 ## Substantiation
 
-- Poems #13 and #7, quoted above, verified in the extracted text.
-- The direction rule — for poems #1 through #15, a shared phrase originates in the poem — is held at [[the corpus quotes the author's poems rather than the poems quoting the corpus]].
-- The corpus-side statements of the same territory: the wound at [[a codex is a one-chair technology making a two-chair argument]] (atlas §XI.1d), and the target posture at [[the reader's working posture is solitude held inside relationship]] (walked VIII).
+- Poems #13 and #7, quoted above, were verified in the extracted text.
+- The rule of direction — that for poems #1 through #15 a phrase shared between a poem and the corpus originates in the poem — is held at [[the corpus quotes the author's poems rather than the poems quoting the corpus]], which records the youngness line as poem five's and notes that several doctrines stand in the poems in the author's unassisted voice.
+- The corpus states the same two things in its own places. [[a codex is a one-chair technology making a two-chair argument]] records that the book's deepest claim concerns what happens between two people while a printed book is read by one, and that the treatment under trial designs the book as one half of a pair (atlas §XI.1d). [[the reader's working posture is solitude held inside relationship]] records the corpus's specification of the posture the book asks of its reader, the capacity to be alone in the presence of another (walked VIII).
 
 ---
 
 Relevant Notes:
-- [[a codex is a one-chair technology making a two-chair argument]] — the corpus's statement of the question the poem asked first
-- [[the reader's working posture is solitude held inside relationship]] — the corpus's specification of the posture the poem had already reached
-- [[all six doctrine concerns appear in the first fifteen poems]] — the systematic crosswalk this claim extends into the tension layer
+- [[a codex is a one-chair technology making a two-chair argument]] — the corpus's statement that the book's deepest claim is about what passes between two people while the book is read by one, which poem #13 had already asked as a question
+- [[the reader's working posture is solitude held inside relationship]] — the corpus's specification of the reader's posture as the capacity to be alone in the presence of another, a state poem #7 reports having already reached
+- [[all six doctrine concerns appear in the first fifteen poems]] — the finding that all six of the book's doctrines are already stated in the poems that predate it, which this claim extends from doctrines to one of the book's unresolved tensions
 
 Topics:
 - [[relational-field]]

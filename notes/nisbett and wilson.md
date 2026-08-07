@@ -5,8 +5,8 @@ seat: candidate
 load: adversary
 discipline: empirical-science
 clause: "People report on their mental processes with confidence and are frequently wrong, because the reports are generated from plausible theories about what should have influenced them rather than from access to what did."
-recommendation: "Read the 1977 paper against the verification standard, first of the sort's ten. Establish precisely what it does and does not reach: it is an attack on knowing why, and the felt shift is a report about a present bodily state, so the objection may land beside the claim rather than on it — which is a finding either way."
-sources: ["mesh grid: against C4", "mesh grid: the search map"]
+recommendation: "The 1977 paper was read complete on 2026-08-07, and the answer came back split: their own carve-out names current sensations as knowable with near certainty, and a section they devote to change-detection reports people failing to notice that their own evaluations had moved. They are therefore an adversary of the narrowed standard rather than of the whole premise, and the objection they carry is specific enough to be answered rather than only conceded. The seating decision is the author's."
+sources: ["Nisbett and Wilson 1977, pp. 231, 233, 235–237, 251, 254, 255 (read 2026-08-07; the reading record is archive/reading — nisbett and wilson, telling more than we can know (1977).md)", "mesh grid: against C4", "mesh grid: the search map"]
 works: ["Telling More Than We Can Know: Verbal Reports on Mental Processes (Psychological Review, 1977)"]
 topics: ["[[interlocutors]]", "[[felt-shift]]"]
 ---
@@ -25,7 +25,7 @@ The Gendlin reading of 2026-08-05 narrowed what their paper has to hit, and thei
 
 ## What they would refuse
 
-Derived rather than sourced; the paper has not been read in this vault.
+Sourced from the paper, read complete on 2026-08-07.
 
 Nisbett and Wilson would refuse being read as a general skepticism about inner life, and this is the distinction that decides whether their objection lands. Their target is causal self-report — why you chose, what influenced you — and they are explicit that people do have access to the *contents* of awareness: what they are currently thinking about, feeling, or attending to. A book claiming that a reader can tell what happened in them may be outside the paper's range; a book claiming a reader can tell *why* something landed is squarely inside it.
 
@@ -35,11 +35,15 @@ They would also refuse the inference that unreliable reports mean unreliable pro
 
 The paper itself, and one question decides how much work it does here. If the felt shift is a report about a present bodily state, the paper's own carve-out may protect it — in which case the vault has learned that the standard survives its most famous objection, which is worth as much as learning that it does not. If the felt shift is treated anywhere in the corpus as telling a reader *why* something landed, or as adjudicating between two accounts of a difficulty, the paper reaches it directly. The corpus does place that second load on the instrument: it seats the body as referee between the five theories of where suffering lives ([[surrender and will are adjudicated from the body rather than from doctrine]]), which is a causal adjudication rather than a present-state report.
 
-That is the specific reading this chair exists to do, and it should be done before Schwitzgebel, whose objection is broader and lands whichever way this one falls.
+That reading was done on 2026-08-07, and both halves of the question came back answered. The carve-out is real and the authors state it themselves: a person "knows what his current sensations are," and that knowledge sits among the private facts they say can be held "with near certainty" (1977, p. 255), while their finding aims at reports about "higher order, inference-based responses" (p. 233). So the objection does land beside the front half of the standard rather than on it ([[the confabulation finding exempts current sensations and targets reports of causes]]).
+
+The reading also found what no summary of the paper had mentioned. Pages 235 to 237 carry a section titled "Awareness of the Existence of a Change Process," and its two studies report people whose evaluations had moved sharply and who reported no experience of having moved ([[a large change in evaluation can happen without being experienced as change]]). Noticing change is exactly what the Gendlin narrowing reduces the standard to, so this pairing reaches the narrowed certificate after all. Two further findings came out of the same reading: the paper's account of when self-report degrades puts separation in time first, which collides with the vault's across-days defense against the fluent counterfeit ([[the counterfeit defense and the change-blindness finding ask for opposite timings]]), and the paper reaches Katz's constructivist premise from laboratory evidence a year before his essay ([[the trained-vocabulary objection arrives independently from experimental social psychology]]).
+
+Schwitzgebel remains the broader objection and remains unread. What this reading changes for him is the target: the carve-out found here is the thing he is understood to deny, so his reading now has one sentence to test rather than a general position to characterize.
 
 ## Recommendation
 
-Recorded in the field above; the seating decision is the author's.
+The recommendation is recorded in the field above, and the seating decision is the author's.
 
 ---
 

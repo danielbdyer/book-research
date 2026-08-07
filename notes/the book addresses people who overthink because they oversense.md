@@ -7,21 +7,21 @@ topics: ["[[relational-field]]", "[[book-structure]]"]
 
 # the book addresses people who overthink because they oversense
 
-The corpus defines its reader in one sentence: "It's written for people who overthink because they oversense. People who need rigor and the sacred in the same sentence, because they don't fully trust either one alone" (first-telling: the problem). The definition's causal order is its content — the overthinking is downstream of sensitivity, not a defect of it — which is the contraction doctrine applied to the reader's own cognition before the reader has met the doctrine.
+The corpus defines its reader in one sentence: "It's written for people who overthink because they oversense. People who need rigor and the sacred in the same sentence, because they don't fully trust either one alone" (first-telling: the problem). The causal order in that sentence is its content, because the overthinking follows from the sensitivity rather than being a defect in it. That order is the book's own doctrine that suffering is a contraction rather than a corruption, applied to the reader's own thinking before the reader has met the doctrine.
 
-The author's later definition (2026-08-04) names a different person: someone whose big experience did not hold, in two types. The two definitions are not in conflict — the oversensing overthinker is a plausible description of who has the big experience and then narrates it — but they are not the same sentence, and recording the corpus's version keeps the difference a visible fact rather than a silent drift. Which definition governs is the author's, like everything about the reader.
+The author's later definition, made on 2026-08-04, names a different person: someone whose big experience did not hold, described in two types. The two definitions do not contradict each other, since a person who oversenses and therefore overthinks is a plausible description of who has the big experience and then narrates it away. They are still not the same sentence, and recording the corpus's version keeps that difference a visible fact rather than a drift nobody notices. Which definition governs is the author's decision to make, as everything about the reader is.
 
 ## Substantiation
 
 - First-telling, "The problem," carries the definition, quoted whole above.
-- The earliest draft's six intended-reader groups ("Sensitive overthinkers in search of sacred grounding…", mythic-os: book overview) are the wider prior form; they await extraction and are not yet claims.
-- The author's current definition is recorded at `ops/methodology/the book's current shape.md`, tier one: the reader whose big experience did not hold, the second type fluent in integration vocabulary — and the fluent type is this claim's overthinker with the vocabulary finally acquired.
+- The earliest draft names six intended-reader groups, the first of them "Sensitive overthinkers in search of sacred grounding…" (mythic-os: book overview). Those six are the wider and earlier form of the same definition; they have not yet been extracted and are not yet claims.
+- The author's current definition of his reader is recorded in `ops/methodology/the book's current shape.md`, the file holding what he has most recently said the book is. It names the reader whose big experience did not hold and gives two types of that reader, the second of them fluent in the vocabulary of integration. That fluent type is this claim's overthinker with the vocabulary finally acquired.
 
 ---
 
 Relevant Notes:
-- [[the book opens from a surplus of insight rather than a lack of it]] — the problem statement this reader lives inside
-- [[attending to the body is not the same as reading it accurately]] — the empirical spine of the oversensing half: sensibility without accuracy
+- [[the book opens from a surplus of insight rather than a lack of it]] — the book's problem statement, which holds that its reader is not short on self-knowledge but has self-knowledge that moves nothing, and this reader is the person living inside that problem
+- [[attending to the body is not the same as reading it accurately]] — the interoception research showing that constant attention to the body and accurate reading of it come apart, which is the measured form of oversensing
 
 Topics:
 - [[relational-field]]

@@ -21,7 +21,7 @@ This repository is a research vault for *Firing on All Cylinders / Aletheia*, a 
 | `ops/` | Orientation, goals, decisions, configuration, work queues, and the standing author policies. |
 | `provenance/` | Reconstructions of the corpus's making, held as works consulted by author decision. |
 | `scripts/` | Graph queries and `bootstrap.sh`, which restores tools (tree, qmd) in a fresh container. |
-| `.claude/` | The sixteen pipeline skills and three hooks, versioned with the vault. |
+| `.claude/` | The sixteen generated pipeline skills, the vault-native `/recompose` register pass, and six wired hooks, versioned with the vault. |
 
 ## Current state
 

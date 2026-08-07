@@ -1,5 +1,5 @@
 ---
-description: "Across four poems the author's native ending names the next act and does not perform it — the goodbye never said, the dash that stops mid-address — the answerable ending as a lifelong signature."
+description: "Four poems end by naming an act and leaving it unperformed — the goodbye never said, the address broken off at a dash — so the ending the book designs to be answerable was already the author's own habit."
 category: claim
 sources: ["poems #6", "poems #11", "poems #14", "poems #16"]
 topics: ["[[answerability]]", "[[book-structure]]"]
@@ -7,22 +7,22 @@ topics: ["[[answerability]]", "[[book-structure]]"]
 
 # the poems end by naming the next act and leaving it undone
 
-The book's last line is designed to be answerable — written so that it can be answered, completion deferred to the reader. The poems show that ending as the author's native signature long before the design. Poem #6 declines its own resolution in the text: "i do not have a resolution yet (to this poem or to life either for that matter)." Poem #11 embeds the composition ethic as a parenthesis: "(only write from the now / right about now lest / you leave behind a part of / yourself in a place you cannot see)." Poem #14 ends at "i just need to say goodbye" — and the goodbye is never performed. Poem #16 ends twice this way: "and it will tremble and then — / it won't," and the final, unfinished "listen—."
+The book's last line is designed so that a reader can answer it, which leaves the book's completion to the reader. The poems show the author ending that way long before he designed it. Poem #6 declines its own resolution in the text: "i do not have a resolution yet (to this poem or to life either for that matter)." Poem #11 embeds the composition ethic as a parenthesis: "(only write from the now / right about now lest / you leave behind a part of / yourself in a place you cannot see)." Poem #14 ends at "i just need to say goodbye" — and the goodbye is never performed. Poem #16 ends twice this way: "and it will tremble and then — / it won't," and the final, unfinished "listen—."
 
-The pattern is answerability as form: the poem's close hands the next act to whoever is there — the goodbye to be said, the listening to be done — rather than performing it. The book's designed ending is this signature scaled to a manuscript, and the ripeness rule the corpus states for finished work is a poet's rule the record shows him keeping since before the book.
+In all four, the close names the next act and hands it to whoever is reading rather than performing it: the goodbye is left to be said, the listening is left to be done. The book's designed last line does at the scale of a whole manuscript what these endings do at the scale of a poem. The corpus also states a rule about finished work — that keeping work intact does not mature it, so a readiness that never issues in a release has become storage — and the record shows the author already keeping that rule as a poet, releasing a poem at the point where the next act is named and not performed, years before the book stated the rule.
 
 ## Substantiation
 
-- All four endings verified at their poems in the extracted text; the claim rests on the four-poem pattern, each instance checkable.
-- The design-side counterpart: the answerable last line ([[the book's native genre is the letter from a friend read alone]] carries the front-matter design; the executed close's mechanics are at [[the close repeats the opening's exit with one sentence inserted]]).
-- The write-from-now parenthesis in poem #11 is the composition ethic's primary-layer statement, standing beside the voice-distillation record in `provenance/`.
+- All four endings were verified at their poems in the extracted text; the claim rests on the pattern across the four, and each instance is checkable on its own.
+- On the design side, two notes carry the answerable ending. [[the book's native genre is the letter from a friend read alone]] records that the one documented occurrence of the book's promised event happened while reading a decade-old letter from a beloved friend, alone, and that the book's plainest telling already exists as letters to one friend. [[the close repeats the opening's exit with one sentence inserted]] records the mechanics of the executed draft's ending, where the epilogue repeats the prologue's exit with a single sentence added and the one future-tense passage keeps its promise small.
+- The parenthesis in poem #11, instructing the poet to write only from the present moment, states that composition ethic in the poems themselves. It stands beside the reconstruction held in `provenance/` recording that the seed's one written chapter was authored through a voice distilled from the author's own first fifteen poems.
 
 ---
 
 Relevant Notes:
-- [[a word at madhyama can be perfected forever a word at vaikhari can be answered]] — the doctrine the unfinished ending performs: the close that waits for an answer
-- [[the close repeats the opening's exit with one sentence inserted]] — the executed draft's ending mechanics beside the native signature
-- [[ripeness is not refrigeration]] — the finished-work rule this signature predates
+- [[a word at madhyama can be perfected forever a word at vaikhari can be answered]] — the corpus's distinction that an unspoken sentence stays revisable and is therefore not yet real while a spoken sentence cannot be revised and can therefore be answered, which is what an ending that stops at the unperformed act enacts
+- [[the close repeats the opening's exit with one sentence inserted]] — the executed draft's ending mechanics, where the epilogue repeats the prologue's exit with one sentence inserted, standing beside this lifelong habit of ending
+- [[ripeness is not refrigeration]] — the corpus's rule that preserving finished work intact never ripens it, so readiness that is never released has become storage, a rule these endings show the author keeping before the book stated it
 
 Topics:
 - [[answerability]]
