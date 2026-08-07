@@ -54,4 +54,4 @@ Nothing from them is in this repository, and nothing from them entered the graph
 
 ## Reversals
 
-None recorded.
+One reversal stands, and it is the only one so far. On 2026-08-07 the author asked for the candidate list to be cut, a session cut it from ninety-six unevaluated names to twenty and wrote a reason against each of the other sixty-one, and on reading the result the author reversed the cut in full the same day. Every name went back onto `ops/queue/candidates.md`, no decline record from that pass survives in this file, and the arguments the pass wrote are kept on the candidate entries themselves as notes that decide nothing. His reason for the reversal is recorded as a settled question in `ops/decisions.md`: the list is a high-level survey he wants to keep whole, because he expects to commingle claims from thinkers on it.
