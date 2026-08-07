@@ -1,12 +1,71 @@
 # Pending candidate evaluations
 
-**This file is the shelf, and a shelf entry is not work** — the distinction is `ops/methodology/sharp questions.md`, and the sharpened backlog is `ops/reading queue.md`. An entry is promoted off this shelf by being given the five properties: a question that can fail, a named stake, a page-level address, its inheritance, and an evidence grade. The list stays deliberately long because it is the field, not the task.
+**This file is the shelf, and a shelf entry is not work** — the distinction is `ops/methodology/sharp questions.md`, which requires a real queue entry to carry a question that can fail, and the sharpened backlog itself is `ops/reading queue.md`, which holds the readings the vault has committed to. An entry is promoted off this shelf by being given the five properties: a question that can fail, a named stake, a page-level address, its inheritance, and an evidence grade.
 
-Transcribed from the space-around survey (see `archive/source — the space around.md`). Entries marked `[e]` have been evaluated against primary works with recommendations recorded; unmarked entries have not been researched beyond what the survey itself says. Evaluating one means: read the primary work, complete or create the candidate note in `notes/` (case for, case against, admission standard applied, recommendation), and leave the seating decision to the author. The admission standard: the addition must actually change how the project thinks.
+The author directed a pruning of this list on 2026-08-07. Ninety-six names sat here unevaluated, the list had not moved in days, and it grew at no cost while shrinking at roughly a day of reading per name. Twenty names remain below, each with the one reason it was kept and the question already live in the vault that it bears on. Nine more had already been given a failable question and now live in `ops/reading queue.md`; they are listed once here as pointers so that a session hunting them on this list finds an address rather than nothing. Sixty-one entries were declined, each with its reason, under the dated heading for 2026-08-07 in `ops/queue/declines.md`. A decline removes a name from the research queue and not from the book, it makes no seating decision, and the author reverses it whenever he wants it back.
 
-Format: `- [ ] name — what the survey says it bears on`. When an evaluation is complete, fill the candidate note's `recommendation:` field and change the entry here to `- [e] name — evaluated, recommendation recorded, awaiting the author's decision`. Mark `[x]` only with the author's outcome (seated as X / declined because Y).
+The mark `[e]` on an entry means that the candidate has been evaluated, either against primary works or from secondary knowledge, and that the note carries a recommendation awaiting the author's seating decision; the pruning left every one of those entries untouched. An unmarked entry has not been researched beyond what the sentence beside it says. Evaluating one means reading the primary work, writing or completing the candidate note in `notes/` with the case for, the case against, the admission standard applied and a recommendation, and leaving the seating decision to the author. The admission standard is the survey's own: the addition must actually change how the project thinks.
 
-The section headings below reproduce the survey's own organization, which follows the book's argument. Key for headings whose terms the vault does not otherwise define: *the fold* is the book's term for protective structure that persists after its cause (treated in `notes/contraction-not-corruption.md`); *the instrument* is the somatic verification test (`notes/felt-shift.md`); *the anatomy* is Wall, Door, and Floor (`notes/container-anatomy.md`); *the alphabet* is the twelve verb-primitives; *the chemistry* is the molecule formulas; *the engine* is the three loops; *the between* is the relational field (`notes/relational-field.md`); *the Racket* is the book's diagnostic for a self-sustaining complaint-and-payoff structure.
+Format: `- [ ] name — what the candidate is and what it bears on`. When an evaluation is complete, fill the candidate note's `recommendation:` field and change the entry here to `- [e] name — evaluated, recommendation recorded, awaiting the author's decision`. Mark `[x]` only with the author's outcome (seated as X / declined because Y).
+
+## The twenty kept names
+
+Each entry states who the candidate is, the single reason the pruning kept it, and the question already live in the vault that it bears on. None has been evaluated. What the pruning added is the warrant, so a session picking one up starts from a question rather than from a name.
+
+### Where a tension the vault holds live names the gap
+
+- [ ] The instrument's counterweights, and the muted signal in particular — the somatic test the whole book verifies by is the felt shift, the author judges it underdefended, and this is the last piece of its counterweight sourcing that no round has delivered. The fluency and interoception grounding arrived on the branch merged 2026-08-06 and sits assembled at `ops/reach-list — the instrument.md`; what remains unsourced is the titration guidance for a reader whose bodily signal is muted, which the corpus states in one clause and cites to nobody. The failable question: does the interoception literature give a procedure to a reader who feels nothing when instructed to consult the body, or does it only describe the deficit? It bears on [[felt shift versus felt confirmation]], which holds live the difference between a genuine shift and fluent agreement, and on [[surrender and will are adjudicated from the body rather than from doctrine]], which puts the whole surrender-and-will fork on that same body.
+- [ ] The depersonalization and derealization literature — the clinical account of an observing self standing at a slight remove from experience, which is also the book's central posture described from outside. The tension at [[the basic posture is describable as dissociation and the harm literature is unread]] names this literature by name in its treatment field as one of two bodies nobody here has read. The failable question: does that literature describe the position the book teaches, or a different one that distress and involuntariness distinguish from it?
+- [ ] Robert Kegan — subject-object theory, and immunity to change as the book's self-sustaining complaint-and-payoff structure with a worksheet attached. His scheme is the most widely handed-to-practitioners developmental stage model there is, so his own record is the evidence for two live tensions at once: [[a developmental scheme handed to practitioners becomes a ranking of persons]] and [[the map that protects the destabilized reader is the tool that becomes a ranking]]. The formula-provenance sort of 2026-08-05 adds a second reason: he is one of three lineages standing behind a single donated molecule formula, and the survey records that nobody has ever drawn the crossover between Landmark and Kegan.
+- [ ] Wu wei, by way of Edward Slingerland — the paradox of trying to be effortless, which is the surrender-and-will fork stated as a problem about action. The survey's account of the debate is already quoted inside [[unrelated traditions converge on presence without agenda while remaining available to act]], so this reading tests a claim the vault already asserts rather than opening a new one, and it bears on the live tension [[surrender and will are adjudicated from the body rather than from doctrine]].
+- [ ] Otto Rank and Roberto Assagioli — *Will Therapy* (1936) and *The Act of Will* (1973), the two scholarly statements of the will's primacy. The blind repeat pass of 2026-08-06 found that the will side of [[surrender and will are adjudicated from the body rather than from doctrine]] is occupied by Tony Robbins alone, that everything the vault holds about him is a summary written by an opponent, and that a serious reader takes more damage from either of these two than from him. The failable question: does either state the will's primacy in a form the book's middle voice has to answer rather than dismiss?
+- [ ] Stanislav Grof — spiritual emergency, the clinical vocabulary that treats crisis and emergence as one event. The live tension [[the book cannot tell dissolution from regression and neither can its reader]] is the one hole the orientation says the book currently cannot answer at all, and this is the literature addressed to it. The failable question: does the spiritual-emergency literature supply a distinguishing sign a reader alone could apply, or only one a clinician could?
+- [ ] Teresa of Avila and John of the Cross — the interior mansions and the dark night of the spirit, the Christian map of the same sequence the book's arc walks. Two reasons hold this one. The corpus seats Eckhart and Julian of Norwich and nobody from this pair, so an arrival at the arc from a tradition with no chair is the convergence centerpiece rather than decoration. And John of the Cross states signs for telling the dark night from melancholy, which is the dissolution-versus-regression question four centuries early, so this entry and the Grof entry answer the same live tension from opposite ends.
+- [ ] Arie Kruglanski and Donna Webster — the need for cognitive closure, its seizing and freezing tendencies, and the biases both produce. The claim [[the drive to closure has measurable costs]] carries a privation naming their 1996 paper as unread, and that paper is the entire measured warrant for a claim the vault already states. It also bears on the live tension [[forward hunger defeats the pause]], where the reader's momentum defeats the instruction to stop.
+- [ ] Søren Kierkegaard — one evaluation serving two functions the shelf listed separately. His aesthetic stage, a life of appreciation that never chooses, is named inside the live tension [[beauty recruits the wrong posture]] as unresearched genealogy for the failure the book's own prose produces. His *The Point of View of My Work as an Author* (1848/1859) forecloses direct communication, granting the sovereign-reader goal the book wants and attacking the friendly-address means it uses.
+- [ ] Anthony Storr — *Solitude: A Return to the Self* (1988), which argues that the second person is dispensable because solitary work transforms, and argues it from the book's own Winnicott premise read the other way. He attacks [[the reader's working posture is solitude held inside relationship]] and the necessity of the second reader designed into the book's form, which is the live tension [[a codex is a one-chair technology making a two-chair argument]].
+- [ ] Donald Winnicott — the false self behind the book's distinction between a representative sent into a room and a person arriving in it, which the survey prices at one sentence of lineage. The larger reason is Storr: his attack runs on Winnicott's own "The Capacity to be Alone," so one reading decides between the book's premise and its named attacker. The failable question: does Winnicott's capacity to be alone require the other person's continued presence, or only their internalization?
+
+### Where an open question the vault holds names the candidate
+
+- [ ] Jorge Ferrer — participatory pluralism, which grants that two traditions converge in the construction of a word and denies that they arrive at the same destination. `notes/open-questions.md` names him inside a standing question the vault holds open: where exactly do aletheia and pratyabhijñā part company. He is the only pressure the vault has on the two-traditions-one-conclusion claim that its whole foundation rests on, because the evaluation of Steven Katz found that he breaks only the evidentiary version of the book, which the author already declined to write.
+- [ ] Peter Sloterdijk — the philosopher whose two late projects, practice and containment, are the book's two subjects. `notes/open-questions.md` holds his status open in the survey's own words, and the sharp fact under it is that the book's printed epigraph is the title of his major late work, *You Must Change Your Life*. The failable question: does that epigraph carry a debt the book has not stated?
+- [ ] Lisa Feldman Barrett — constructionism, which holds that emotions are made rather than found. She is the standing counterweight already named inside [[karla mclaren]], whose messenger model says the opposite and who holds a recommendation awaiting the author; and the disagreement between them is a standing open question that `notes/research-frontier.md` calls the nearest of them to ready.
+
+### Where the candidate argues against a claim that has nobody arguing against it
+
+- [ ] Karl Popper — unfalsifiability, aimed at a doctrine that absorbs every objection as further evidence for itself. The live tension [[the participation law has no opponent and its oldest objection is that participation is contamination]] says in its own title what is missing. Ernest Gellner holds a recommendation and a queued reading for the same family of charge, but his question is whether his diagnosis targets institutions rather than doctrines; Popper's version targets doctrines as such, which is the branch Gellner may not reach.
+- [ ] T. S. Eliot — "Tradition and the Individual Talent" (1919), whose doctrine is that the transforming work escapes the personal and the author is a catalyst absent from the product. He attacks the finding that the book's native genre is a letter from a friend, and the executed draft already carries two Eliot epigraphs, which makes the evaluation cheap and the stakes visible. He entered from the counterpoint round of 2026-08-06, verified at web depth, with the trace at `archive/research — counterpoint round background.md`.
+- [ ] Edward Deci and Richard Ryan — the undermining effect, which measures what happens to an activity when it is done for the sake of something else. The book asks a reader to practise in order to change, which is the instrumental framing their data indicts, and no measured objection to the practice curriculum is currently held anywhere in the vault. The lineage sort names them among the thinkers who would fill its third empty cell, and they are the last of that group without a note.
+
+### Where the candidate bears on the reader the book is for, which is the lived-practice centerpiece
+
+- [ ] John Welwood — the coiner of spiritual bypassing, in "Principles of Inner Work" (*Journal of Transpersonal Psychology* 16(1), 1984). His own late formulation is "a widespread tendency to use spiritual ideas and practices to sidestep or avoid facing unresolved emotional issues, psychological wounds, and unfinished developmental tasks" (Tricycle, 2011). The book's second reader type uses a fluent integration vocabulary to avoid feeling, which is that diagnosis under its own name, and the author's statement of the book's current shape makes that reader one of two the book is written for. The failable question: does the 1984 paper's own wording define bypassing as the book's second reader type is defined, and does Welwood's late correction bound the diagnosis? The 1984 paper's internal wording is still unverified here.
+- [ ] The reader's shelf — a mapping pass rather than a person: what the book's likely reader has already read, beginning with van der Kolk, Pollan, Chödrön and the Internal Family Systems workbooks, so that a drafting session knows which of its words arrive pre-armored. It serves the second reader type, whose armor is made of vocabulary, and it costs a survey rather than a reading. A drafting session would reach for the result the day it exists, which is the writing test met directly.
+- [ ] The biological voice — suffering with a medical cause, which the space-around survey marks a safety priority for the book's referral material. The book routes a reader in difficulty to named people, and the case where inner work is the wrong answer entirely has no route. The failable question: does the referral material name the medical differential that presents as the states the book treats as psychological?
+
+## Already sharpened into the reading queue
+
+Nine entries left this list before the pruning rather than by it. Each already carries a question that can fail, with its stake, a page-level address, what it inherits and a grade for the current evidence, in `ops/reading queue.md`. They stay here as one-line pointers so that a session looking for the name finds the address.
+
+- **Byung-Chul Han** — *The Burnout Society*, the tired self-optimizing subject, and the question of whether the book's practice curriculum escapes his diagnosis or instantiates it. The queue holds him under its proposed additions of 2026-08-06, with bibliographic anchors verified at web depth.
+- **Claire Petitmengin** — micro-phenomenology, and the 2013 paper answering Nisbett and Wilson from inside the introspective-training lineage ("A gap in Nisbett and Wilson's findings?", *Consciousness and Cognition* 22, 2013). The queue names her reading as the next one to do, because Schwitzgebel set an evidential condition for trained introspection in 2008 and this is the strongest candidate published since.
+- **Attachment theory, Bowlby and Ainsworth** — the secure base, and whether the literature defines it as a provision whose absence injures. The queue holds it as the fourth entry of its privation-convergence tier, with the earned-security evidence attached.
+- **The nineteenth-century move from molecular to structural formulas** — the only queued reading that would settle a finding the vault has already recorded rather than open a new one, because [[the isomer teaching names the phenomenon that made composition-only notation obsolete]] states the history from general knowledge and carries a privation saying so.
+- **Keiji Nishitani, on his own rather than inside the Kyoto School note** — the highest-variance name in the lineage sort, whose fork is stated at [[nihility may be a station the contraction scheme cannot represent]]. The queue's proposed additions carry the promotion.
+- **Miller and C'de Baca** — *Quantum Change* (Guilford, 2001) with its ten-year follow-up (2004), a documented research program on sudden permanent transformation in ordinary lives. The queued question is whether the durability finding survives its own method, because the self-selection and retrospective report may account for it.
+- **The demand-withdraw literature** — Christensen and Heavey (1990) and the Schrodt meta-analysis (2014), which document pursuit as a mechanism of withdrawal and so bound the book's doctrine of staying. The queue carries it inside the Bowen question about whether the abridged chapter's staying is differentiation or its opposite.
+- **The history of the DSM and the RDoC turn** — the documented case of a category scheme that became real by being used. The queue holds it sharpened as a question about Hyman's reification mechanism, with the addresses Hyman 2010 and Insel's 2013 statement.
+- **Otto Scharmer** — presencing, which sits in the corpus's convergence table for the basic posture while no base tier of the mesh grid records it. The queued one-day check is a function-count across the corpus's routing surfaces, starting with him, testing whether a third name alone carries a claim while filed among the company.
+
+## Two entries removed as duplicates rather than declined
+
+- **Ubuntu** — the unmarked entry duplicated the evaluated one. Ubuntu personhood was evaluated on 2026-08-05 at the author's request and holds a note with a recommendation at `notes/ubuntu personhood.md`, with the Menkiti and Gyekye reading still to do.
+- **Aristotle's anagnorisis** — recognition as staged, from the *Poetics*. Aristotle already holds a note here for privation (`notes/aristotle on privation.md`), so a second question about the same thinker is a question for that note rather than a name on this list, and it stays available there.
+
+## The evaluated entries
+
+The sections that follow hold the entries already evaluated, under the headings of the rounds that produced them. Each carries a recommendation and awaits the author's seating decision, and the pruning of 2026-08-07 left all of them exactly as they were.
 
 ## Priority (the survey's own ranking)
 
@@ -14,7 +73,6 @@ The section headings below reproduce the survey's own organization, which follow
 - [e] Ignatius of Loyola, the Spiritual Exercises — evaluated 2026-08-02, recommendation recorded, awaiting the author's decision. Recommended reference-lineage with the craft findings routed to the book-as-artifact material: the precedent holds and reads as a specification, because Annotation 15 forbids the companion to persuade and Annotation 20 prefers seclusion, with Annotation 19 pricing the ordinary-life version at about nine months. `notes/ignatius of loyola.md`.
 - [e] Internal Family Systems (Richard Schwartz) — evaluated 2026-08-02, recommendation recorded, awaiting the author's decision. Recommended reference-lineage, but the seat is the smaller half: the executed draft already uses Schwartz's vocabulary for the identity loop and credits both primary texts, so the open work is a positioning passage in the text. The counterweight is evidential — a 2025 scoping review found two randomized trials among twenty-seven studies. `notes/internal family systems.md`.
 - [e] Hartmut Rosa — evaluated 2026-08-02, recommendation recorded, awaiting the author's decision. Recommended reference-lineage, seated twice: the uncontrollability clause completes the tuning fork's theory ("resonance thus implies semicontrollability"), and his structural diagnosis is a name for the material voice, which the roster currently carries anonymously. `notes/hartmut rosa.md`.
-- [ ] The instrument counterweights (felt shift versus felt confirmation; the muted signal and titration) — the tension itself is already admitted at `notes/felt shift versus felt confirmation.md`. What remains is the sourcing: grounding both counterweights in the processing-fluency and interoception literature rather than in the survey's summary. This is now the only unevaluated member of the priority five, and the load placed on the somatic instrument at `notes/surrender and will are adjudicated from the body rather than from doctrine.md` raises its priority.
 
 ## The crossover's field (added 2026-08-03, from the core-thesis research at `notes/the crossover has footsteps and the book already seats some of the walkers.md`)
 
@@ -33,63 +91,17 @@ The author's question: who else is around the aletheia–pratyabhijñā crossove
 - [e] Andrea Jain — evaluated 2026-08-03, recommendation recorded, awaiting the author's decision. Gestural subversion; sincerity is not a defense. `notes/andrea jain.md`.
 - [e] Plato's anamnesis and Augustine's memoria — evaluated 2026-08-03 as ancestry rather than a seat; recorded as a claim: `notes/reading as remembering has a twenty-four-century ancestry in the west.md`.
 
-## Around "insight that doesn't move anything"
-
-- [ ] Louis Sass — hyperreflexivity: self-monitoring as the pathology itself.
-- [ ] Daniel Wegner — ironic process theory: monitoring produces the monitored thought.
-- [ ] John Vervaeke — four kinds of knowing; the survey calls him the book's most conspicuous living interlocutor.
-- [ ] Robert Kegan — subject-object theory; immunity to change as the Racket with a worksheet. **Raised 2026-08-05**: the formula-provenance sort makes him one of three lineages behind a single donated molecule, and the survey says the Landmark–Kegan crossover has never been drawn by anyone.
-
-## Around "folded, not broken"
-
-- [ ] Hysteresis (materials physics) — why folds persist after their cause.
-- [ ] Attractor landscapes (dynamical systems) — folds as carved valleys; practices reshape the landscape.
-- [ ] Aristotle, anagnorisis — recognition as staged, from the Poetics.
-- [ ] Axel Honneth — recognition at social scale; misrecognition as an imposed fold.
-- [ ] Jorge Ferrer — participatory pluralism, counterweight to two-traditions-one-conclusion.
-
-## Around the word psychedelic
-
-- [ ] Ido Hartogsohn — set and setting generalized; the survey proposes the container anatomy is a general theory of it.
-- [ ] The REBUS/annealing model — heat then slow cooling as the case for the descent chapters.
-- [ ] The integration-gap literature — the book as integration technology for the phase the clinical field neglects.
-- [ ] Chögyam Trungpa — spiritual materialism, counterweight: practice as acquisition.
-
 ## Around the promise — "it didn't hold" (added 2026-08-04, generative pass)
 
 The author's restated promise — the reader already had the big experience and it did not hold — makes the literature of non-persistence a direct concern rather than background.
 
-- [ ] John Welwood — coined spiritual bypassing in "Principles of Inner Work" (Journal of Transpersonal Psychology 16(1), 1984); his own late formulation: "a widespread tendency to use spiritual ideas and practices to sidestep or avoid facing unresolved emotional issues, psychological wounds, and unfinished developmental tasks" (Tricycle, 2011). One of the named ways it didn't hold; the 1984 paper's internal wording still unverified.
 - [e] Jack Kornfield — evaluated 2026-08-04, recommendation recorded, awaiting the author's decision. The shifted promise's evidentiary book, from testimony; his refusal is kept: nobody did the laundry alone. `notes/jack kornfield.md`.
-- [ ] The reader's shelf — a mapping pass, not a person: what the book's likely reader has already read (van der Kolk, Pollan, Chödrön, the IFS workbooks), to learn which words arrive pre-armored. Serves the second reader type, whose armor is made of vocabulary.
-
-## The letter-writers' bench (added 2026-08-04, generative pass)
-
-Genre research feeding the open genre question without landing it: what letters do that treatises do not.
-
-- [ ] Seneca — the Letters to Lucilius as directed practice in epistolary form.
-- [ ] Keats — negative capability, formulated inside a letter rather than an essay.
-- [ ] Paul Celan — the poem as message in a bottle, underway toward an addressable you (Bremen speech).
-
-## Around the occasion (added 2026-08-04; bounded by author decision to introduction and conclusion)
-
-- [ ] Byung-Chul Han — The Burnout Society; the tired, self-optimizing subject is the first reader type diagnosed in two pages. One-page companion for the occasion only; the technology argument is not a chapter engine.
 
 ## Around the instrument
 
 - [e] Michael Polanyi — evaluated 2026-08-05 from the mesh grid, recommendation recorded, awaiting the author's decision. The chair holds two functions by the author's direction of 2026-08-05: this one, tacit knowing as the felt sense's second voice, which matters more than it looks because the verification standard currently rests on Gendlin alone; and the larger one, the participation law's only non-continental witness. `notes/michael polanyi.md`.
 - [e] William James — evaluated 2026-08-04, recommendation recorded, awaiting the author's decision. The stance's ancestor; fruits-not-roots kept as the counterweight to the felt shift. `notes/william james.md`.
 - [e] Gendlin's Thinking at the Edge — recorded 2026-08-04 on the chair at `notes/eugene gendlin.md`: the writer's-side method matching the verification standard. Full primary read (The Folio 19(1)) still open.
-- [ ] Claire Petitmengin — micro-phenomenology; the strongest answer to the unfalsifiability objection.
-
-## Around the anatomy
-
-- [ ] Wilfred Bion — container/contained; the survey's nominee if the container-makers take one more chair.
-- [ ] Autopoiesis (Maturana and Varela) — the cell as the first container; the survey suggests it may be stronger evidence than the twenty-nine builders.
-- [ ] Ma (Japanese aesthetics) — the pregnant interval; the same discovery as the tradition's junction concept.
-- [ ] Temenos — the precinct cut for the sacred; the Wall's oldest credential.
-- [ ] Elinor Ostrom — commons design principles as the anatomy at institutional scale.
-- [ ] Erving Goffman — total institutions, counterweight: the anatomy describes prisons as accurately as sanctuaries.
 
 ## Around the alphabet
 
@@ -99,68 +111,13 @@ Genre research feeding the open genre question without landing it: what letters 
 
 ## Around the chemistry
 
-- [ ] **The nineteenth-century move from molecular to structural formulas** — raised 2026-08-05 by the formula audit, and unlike everything else in this queue it would settle a finding the vault has already recorded rather than open a new one. The claim at `notes/the isomer teaching names the phenomenon that made composition-only notation obsolete.md` states the history from general knowledge and carries a privation saying so. What the reading has to establish: that isomerism was the anomaly composition-only notation could not absorb (Berzelius's naming, c. 1830, out of the fulminate/cyanate work); that structural formulas were the response (Couper and Kekulé, 1858; Butlerov's "chemical structure," 1861); and that spatial arrangement came later still because connectivity was insufficient (van 't Hoff and Le Bel, 1874). A history of chemistry is the source, not a primary paper. It is also the only entry here that would supply a *shape for a fix* rather than an objection.
 - [e] Aristotle, steresis — evaluated 2026-08-05 from secondary knowledge. Recommended reference-lineage, load `precedent`: the corpus already records the debt as never cited, and the objection travelling with it (privation versus affliction) is worth more than the credential because both its bearers are already seated and unconnected to it. `notes/aristotle on privation.md`.
-- [ ] Attachment theory (Bowlby, Ainsworth) — the secure base as Sanctuary with longitudinal data; earned security as evidence that folds open. **Raised 2026-08-05**: the provenance sort makes this an attribution debt as well as an evidence opportunity, and the survey's "internal working models are molecules by another name" is a claim about the whole catalogue rather than one formula.
-- [ ] Lisa Feldman Barrett — emotional granularity (support) and constructionism (counterweight to the messenger model). Raised in priority 2026-08-02: she is now the named standing counterweight in `notes/karla mclaren.md`, and McLaren holds a seat that a completed evaluation would put under pressure.
-- [ ] Activation energy, nucleation, catalytic surfaces — three uncollected loans from real chemistry.
-
-## Around the engine
-
-- [ ] Chronobiology — the body loop's empirical literature.
-- [ ] Dan McAdams — narrative identity; the continuity loop's psychology, including misfire by bad emplotment.
-- [ ] The biological voice — suffering with medical causes; the survey marks this a safety priority for the referral material.
-- [ ] Fire ecology — counterweight to gentle endings: some renewals require burn.
-
-## Around the between
-
-- [ ] Emmanuel Levinas — asymmetry, counterweight to mutual recognition.
-- [ ] Ed Tronick — the still-face experiment; and the repair-rate finding.
-- [ ] Maurice Merleau-Ponty — intercorporeality; the between's phenomenology.
-- [ ] Ubuntu — personhood as relationally constituted; widens the map beyond the current company.
-- [ ] Randall Collins — interaction ritual chains; why practice must recur.
-- [ ] The witnessing shadow — being seen shading into being consumed; consent as the between's ethics.
-
-## Around the practice
-
-- [ ] Winnicott's false self — the theory behind the representative-versus-arriving distinction; the survey notes the tie costs one sentence.
-- [ ] Wu wei (via Edward Slingerland) — the paradox of trying to be effortless. Raised in priority 2026-08-02: the survey's account of the debate is now cited inside `notes/unrelated traditions converge on presence without agenda while remaining available to act.md`, so what remains is reading Slingerland rather than deciding whether to.
-- [ ] Shu-ha-ri — keep the form, break the form, leave the form; protection against forms kept past ripeness. Narrowed 2026-08-02: the executed draft already states that the forms are for outgrowing ("the Kata become invisible"), so only the roughly-when is open. See `notes/the practice forms specify when to begin and not how to tell one is finished.md`.
-- [ ] Matthew Lieberman — affect labeling under the scanner.
-- [ ] Mary's Room / knowledge by acquaintance — the book's epistemology in analytic philosophy's vocabulary.
-
-## Around how it's built
-
-- [ ] Lectio divina — the monastic ancestry of read-slowly.
-- [ ] Ergodic literature (including Pale Fire) — where margin apparatus has succeeded and where it has smothered.
-- [ ] Peter Sloterdijk — practice and containment as his two projects; status undecided in the survey.
-
-## Around the honesty
-
-- [ ] Søren Kierkegaard — the aesthetic stage; the spectator's philosopher.
-- [ ] Susan Sontag — against interpretation; the friendly face of the anti-connoisseur defenses.
-- [ ] Stanley Cavell — acknowledgment, including the ending's warning: the request can be declined.
-
-## From the abridged edition's lineage list (added 2026-08-01)
-
-The abridged edition opens with a lineage list of about sixty names and cites a further set in its note on sources. The names below appear there and do not appear in the roster in `notes/interlocutors.md` or elsewhere in this queue. They arrive with less warrant than the entries above, which the space-around survey ranked and argued for: an appearance in a draft's lineage list is a record that the book has invoked a thinker, not a case that the project needs them. Each still has to clear the admission standard, and several are likely to be declined with the reason recorded.
-
-- [ ] Stephen Porges, Peter Levine, Pat Ogden, Bessel van der Kolk — the somatic and polyvagal spine the edition uses to build the temporal loop (`abridged ch7`). The four are cited as one body of work; evaluate whether the project needs them individually or as a single seat.
-- [ ] Marc Wittmann — time perception in depression and altered states; the edition uses him twice, at `abridged ch7` and `abridged ch11`, for the claim that felt duration uncouples from clock time.
-- [ ] Shaun Gallagher and Dan Zahavi — the minimal-self and narrative-self distinction, which the edition makes load-bearing for the identity loop.
-- [ ] Esther Perel — erotic charge requires otherness; the edition's authority for polarity as the relational field's condition (`abridged ch9`).
-- [ ] M. Scott Peck — the definition of love the edition takes through bell hooks: the will to extend oneself for another's growth.
-- [ ] Stephen Jenkinson and Martín Prechtel — grief work and praise-singing, cited at `abridged ch7` as the traditions that repair the continuity loop. Bears directly on [[grief cannot complete alone]].
-- [ ] Robin Carhart-Harris, Roland Griffiths, and Gül Dölen — the REBUS model, the Mystical Experience Questionnaire, and the reopened critical period. The corpus already leans on all three at atlas §V; the queued engine extraction should establish whether separate notes are warranted.
-- [ ] Stanislav Grof, Daniel Ingram, Willoughby Britton — the adverse-effects and cartography literature, which the edition names and does not use. Britton in particular is a counterweight the project does not currently hold.
-- [ ] James Hillman — soul-making, cited once at `abridged ch7`.
-- [ ] Joanna Macy — named in the lineage list without a use in the text. The other lineage names in that position (Priya Parker, Parker Palmer, Stewart Brand, James Carse, Jeong Kwan, Neri Oxman, Andy Matuschak, Maggie Appleton, Gordon Brander) are already seated among the container-makers in `notes/interlocutors.md` and need no entry here.
 
 ## The lineage sort's names and holes (added 2026-08-05, from `provenance/the mesh grid.pdf`)
 
 The mesh grid sorts the whole company by what each thinker carries and reports the cells that are empty. Two kinds of entry follow. The first is ten names given interlocutor notes the same day, marked `[e]` — but the evaluation behind them is thinner than the mark usually implies, and the notes say so in their own bodies: each was written from the grid's characterization, with no primary work read. They are proposals with recommendations attached, awaiting both the author's seating decision and a real reading. The second kind is the ranked holes, which are reading questions rather than names; the ranking is at `ops/lineage sort.md` and the numbers below are its order.
 
-Evaluated from the grid alone; primary reading still required for every one:
+The ten names below were evaluated from the grid alone, and every one of them still requires a primary reading.
 
 - [e] Eugene Gendlin — the verification standard's author, filed among twenty-nine builders and holding the whole burden alone. `notes/eugene gendlin.md`. **Read first of these ten**; the standard is the book's single test and the reading is overdue rather than optional.
 - [e] Ken Wilber — four unrelated jobs uncredited, plus the only documented case history of an attempt like this one. `notes/ken wilber.md`.
@@ -171,56 +128,22 @@ Evaluated from the grid alone; primary reading still required for every one:
 - [e] Thomas Hübl — independent arrival at privation through collective trauma work. `notes/thomas hubl.md`.
 - [e] Tony Robbins — the voluntarist pole at full strength, which the middle voice has to overcome. `notes/tony robbins.md`. Everything the vault holds about him is a summary written by an opponent.
 - [e] Ernest Gellner — the immunization diagnosis, aimed at the participation law. `notes/ernest gellner.md`.
-- [e] Willoughby Britton — the contemplative harm data. `notes/willoughby britton.md`. Already listed above from the abridged edition's lineage list; that entry and this one are the same person, promoted.
+- [e] Willoughby Britton — the contemplative harm data. `notes/willoughby britton.md`. A second entry for her stood under the abridged edition's lineage list until the pruning of 2026-08-07 retired that section; the two entries named the same person, and this one is the promotion.
 
-Named by the sort and not yet given notes, grouped by the hole each would fill:
+The names below came from the sort rather than from the corpus, and each was given a note on 2026-08-05; the bold number on each entry is the rank, in `ops/lineage sort.md`, of the empty cell that the name would fill.
 
 - [e] Richard Nisbett and Timothy Wilson — evaluated 2026-08-05 from the grid; primary reading still required. **Hole 1**, and the first paper to read of all of these. `notes/nisbett and wilson.md`.
 - [e] Eric Schwitzgebel — evaluated 2026-08-05 from the grid; primary reading still required. **Hole 1**, read second, because he closes the carve-out Nisbett and Wilson leave open. `notes/eric schwitzgebel.md`.
-- [ ] Karl Popper — unfalsifiability, against the participation law. **Hole 2.**
-- [ ] The replication-reform literature — the institutional form of the contamination objection. **Hole 2.**
-- [ ] The depersonalization and derealization literature — the observing self as symptom. **Hole 4.**
 - [e] Heinz von Foerster — evaluated 2026-08-05 from the grid; primary reading still required. **Hole 3.** `notes/heinz von foerster.md`.
 - [e] Harold Garfinkel — evaluated 2026-08-05 from the grid; primary reading still required. **Hole 3**, plus a second finding the grid does not name: the breaching experiments demonstrate the invisibility of the always-there rather than asserting it. `notes/harold garfinkel.md`.
 - [e] Donald Schön — evaluated 2026-08-05 from the grid; primary reading still required. **Hole 3.** `notes/donald schon.md`.
-- [ ] Edward Deci and Richard Ryan — the undermining effect; anti-instrumentality with data. **Hole 3.**
 - [e] Keith Johnstone — evaluated 2026-08-05 from the grid; primary reading still required. **Hole 3**, in the author's own first discipline; the status material has no equivalent anywhere in the book. `notes/keith johnstone.md`.
 - [e] Al-Qushayrī — evaluated 2026-08-05 from the grid; primary reading still required, and the wording must be verified against a printed translation before manuscript use. **Holes 5 and 6.** `notes/al-qushayri.md`.
 - [e] Hasidic worship through corporeality, with Brother Lawrence beside it — evaluated 2026-08-05 from the grid; primary reading still required. **Hole 5**, and the strongest candidate for it, because the tradition never required renunciation rather than adapting a practice that did. Layman Pang remains unqueued. `notes/hasidic worship through corporeality.md`.
 - [e] Ubuntu personhood — evaluated 2026-08-05 at the author's request; primary reading still required. **Hole 6**, the sort's only chairless hole and its only wholly empty discipline. Read Menkiti's 1984 essay and Gyekye's 1987 reply together, because the internal disagreement maps onto the book's own fork; Metz supplies the analytic reconstruction and fills a second empty cell; Matolino and Kwindingwi, and Praeg, supply the capture critique, which is the same charge Wasserstrom makes against Eranos. `notes/ubuntu personhood.md`.
-- [ ] Stanislav Grof — the spiritual-emergency literature, for the dissolution-versus-regression guardrail. **Hole 7.** Already listed above from the abridged edition's lineage list.
 - [e] Paul Meehl — evaluated 2026-08-05 from the grid; primary reading still required. The formal version of the charge Richard Biernacki makes historically. `notes/paul meehl.md`.
-- [ ] Richard Biernacki — the sociologist of method, on building the instrument that finds the thing everywhere. Distinct from Loriliai Biernacki, who is seated in the crossover cluster; the collision of surnames has already caused one misreading.
-- [ ] The DSM's history and the RDoC turn — the documented case of a category scheme that became real by being used.
 - [e] Steven Wasserstrom — evaluated 2026-08-05 from the grid; primary reading still required, and his own critics have to be held with him. `notes/steven wasserstrom.md`.
-- [ ] Keiji Nishitani, on his own rather than inside the Kyoto School note — the highest-variance name in the sort. `notes/nihility may be a station the contraction scheme cannot represent.md` states the fork.
-- [e] Douglas Hofstadter, Gurdjieff and Ouspensky, Mihály Csíkszentmihályi — evaluated 2026-08-05 from the grid as three separate notes; what each needs is a reception history rather than a primary reading, which is the right size for a precedent. `notes/douglas hofstadter.md`, `notes/gurdjieff and ouspensky.md`, `notes/mihaly csikszentmihalyi.md`. John Vervaeke is queued above and belongs with them.
-- [ ] Byron Katie, the Conscious Leadership Group and Jerry Colonna, Otto Scharmer — ground for machinery already running; all four are already in the roster and need notes only when a claim reaches for them.
-- [ ] John Wineland and David Deida — the one coaching position that locates suffering in a withheld gift rather than a misperception, which the grid says "deserves one honest look before demotion."
-
-## The two syntheses of 2026-08-05 (`high-energy states`, `standing wave`)
-
-Two commissioned research documents arrived on the book's subject and on the method. Two chairs were built from them — `notes/daniel ingram.md` and `notes/de jaegher and di paolo.md` — and Britton's existing chair gained real content. The rest are queued here rather than written, which is the metering the author asked for: each entry names what the synthesis supplies, so a later pass starts from something rather than from a name.
-
-From `high-energy states`:
-
-- [ ] Stanislav Grof — spiritual emergency as crisis and emergence together; the clinical vocabulary for the territory Ingram maps from inside. **Hole 7.** Already listed above from the abridged edition's lineage list; this is the same entry with content attached.
-- [ ] Robin Carhart-Harris, with Karl Friston — the entropic brain and REBUS: rigid states show abnormally low brain entropy, psychedelics deweight overconfident priors so ascending prediction errors find freer register. Already queued above; the synthesis supplies the mechanism in enough detail to evaluate.
-- [ ] Marc Wittmann — subjective time and bodily self-awareness processed in the same region, and duration experienced as "tortuous" in depression. Already queued; now with the specific finding.
-- [ ] Raphaël Millière — that psychedelic ego dissolution reaches the minimal self and not only the narrative self, which bears on how far the book's dissolution passages actually go.
-- [ ] Gül Dölen — critical-period reopening with durations, and the context-dependence qualification that is the load-bearing part. Already queued; the finding is now a claim at `notes/the plasticity window reorganizes only what attention is on.md`.
-- [ ] Teresa of Avila and John of the Cross — the interior mansions and the dark night of spirit, as the Christian map of the same sequence. Neither is in the vault; the corpus seats Eckhart and Julian of Norwich but no one from this pair.
-- [ ] Roland Griffiths and the Mystical Experience Questionnaire — that completeness of mystical experience predicts outcome, which is a measured version of a claim the book makes qualitatively. Already queued.
-
-From `standing wave`:
-
-- [ ] Hubert Dreyfus — absorbed coping as non-conceptual rather than merely unspoken, which goes further than Polanyi. **Note before evaluating:** he is a Heidegger interpreter, so he fails the independence test exactly as Nishitani, Corbin and Henry do. He extends the tacit-knowing material and does not add a witness.
-- [ ] John Keats, negative capability — "capable of being in uncertainties, Mysteries, doubts, without any irritable reaching after fact and reason," with Bate's point that the operative word is *irritable*. Would fill `poets-and-artists`, currently empty in every load.
-- [ ] Arie Kruglanski and Donna Webster — the need for cognitive closure, seizing and freezing, and the documented biases. The empirical half of `notes/the drive to closure has measurable costs.md`.
-- [ ] Wilfred Bion — "resisting the tendency to fill with knowing the empty space created by ignorance"; negative capability as a container for the anxiety of not-knowing, which is the container anatomy arriving from psychoanalysis.
-- [ ] The apophatic lineage — Pseudo-Dionysius, the Cloud of Unknowing, Nicholas of Cusa's learned ignorance and coincidence of opposites. Disciplined non-resolution with a procedure and a terminus. Eckhart is already in the corpus's reference lineage and is the bridge.
-- [ ] Graham Priest — paraconsistent logic, and the distinction between reasoning within contradiction and holding contradictions true. The formal warrant for the vault's tension practice, and the weaker claim is the one that is defensible.
-- [ ] Interpersonal entrainment — Kelso on coupled oscillators, the pianist hyperscanning work, Wiltermuth and Heath on synchrony and cooperation. What makes resonance literal rather than figurative; bears on `notes/hartmut rosa.md`.
+- [e] Douglas Hofstadter, Gurdjieff and Ouspensky, Mihály Csíkszentmihályi — evaluated 2026-08-05 from the grid as three separate notes; what each needs is a reception history rather than a primary reading, which is the right size for a precedent. `notes/douglas hofstadter.md`, `notes/gurdjieff and ouspensky.md`, `notes/mihaly csikszentmihalyi.md`. John Vervaeke belonged with these three and was declined on 2026-08-07, with the reason recorded in `ops/queue/declines.md`.
 
 ## Around the chemistry, added 2026-08-05 by the formula-provenance sort
 
@@ -249,25 +172,6 @@ Found by the second provenance sweep, one layer above the formulas. The register
 - [e] Joe Hudson — evaluated 2026-08-05 from the corpus rather than from his work, none of which has been read or heard here. Recommended **coaches** with the **`thesis-bearing`** load, which is the vault contradicting the mesh grid's Tier 5 filing on the grid's own evidence. He holds the resisted-feeling theory alone, and the book's referral network sends a reader in somatic difficulty to him by name. `notes/joe hudson.md`; the case is `notes/the referral network sends readers to a name the sort filed as company.md`.
 - [e] Tony Robbins — chair extended 2026-08-05 rather than re-evaluated. The provenance sweep found that his method's genealogy is absent from the corpus in every spelling: NLP with Grinder, modelling Milton Erickson, Satir and Perls. That puts the book's voluntarist pole downstream of the same settlement its apparatus descends from, gives the fork a literature to be resolved against, and simultaneously supplies a ready criticism of him. The primary reading remains the requirement. `notes/tony robbins.md`.
 
-### Replacing them in the queue, from the same sweep
+## What remains
 
-- [ ] Otto Scharmer — presencing sits in the corpus's convergence table for the basic posture, which no base tier records. The grid's addendum moved him from its base to Tier 4, so the vault's earlier flag slightly overstated the grid's error; the substance stands, and the function-count proposed in `ops/reading queue.md` starts with him. The Hudson problem again, still unchecked.
-- [ ] Fritz Perls and Virginia Satir in their own right — both absent, both from the same settlement, and plausibly behind more of the practice register than the Robbins row accounts for. A suspicion rather than a find.
-
-## Against the address — three candidate opponents, added 2026-08-06
-
-The drafting-readiness dry run for the address concern found that nobody had yet been evaluated to argue against it. Three candidate attackers entered from the counterpoint round, verified at web depth (`archive/research — counterpoint round background.md`); each awaits the author's evaluation, and the flank each attacks is named.
-
-- [ ] Anthony Storr — *Solitude: A Return to the Self* (1988). He argues the second person is dispensable: solitary work transforms, from the book's own Winnicott premise read the other way. Attacks [[the reader's working posture is solitude held inside relationship]] and the Second Chair's necessity.
-- [ ] T. S. Eliot — "Tradition and the Individual Talent" (1919). His doctrine is that the transforming work escapes the personal: the author is a catalyst, absent from the product. He attacks the letter thesis; the executed draft already carries two Eliot epigraphs, which makes the evaluation cheap and the stakes visible.
-- [ ] Søren Kierkegaard, as attacker — *The Point of View of My Work as an Author* (1848/1859). He forecloses the direct: indirect communication is the only transfer of capability. He grants the sovereign-reader goal and attacks the friendly-address means; already on this shelf in a different function (the aesthetic stage), so one evaluation would serve both.
-- [ ] Miller and C'de Baca — *Quantum Change* (Guilford, 2001), with the ten-year follow-up (2004). This one is a documented research program rather than a position piece, so it is a candidate for evaluation rather than only a counterweight: sudden permanent transformation in ordinary lives, unbidden — company for the epiphany refusal, counterpoint to the householder pricing.
-- [ ] The demand-withdraw literature — Christensen and Heavey (1990); Schrodt et al. meta-analysis (2014). This literature bounds the staying doctrine: pursuit is a documented mechanism of withdrawal. It belongs beside Levinas in the between's counterweights.
-
-## From the blind repeat pass, 2026-08-06
-
-Three names the pass surfaced while attacking the grid's recommendations; each is a candidate awaiting the author, with the finding that produced it in round three of `archive/research — counterpoint round background.md`.
-
-- [ ] Otto Rank and Roberto Assagioli — *Will Therapy* (1936); *The Act of Will* (1973). The pass found the voluntarist pole under-armed: the grid holds it with Robbins alone and worries he reads as a punchline, while Rank's creative will and Assagioli's psychology of will occupy the same pole at scholarly strength, inside lineages the book already draws on. A serious reader takes more damage from either than from the pole's current occupant.
-- [ ] Ferdinand Ebner and Franz Rosenzweig — *Das Wort und die geistigen Realitäten* (1921); *The Star of Redemption* (1921). The dialogical circle's earlier arrivals, verified against the Stanford Encyclopedia's Buber entry: Buber's formulation followed his reading of Rosenzweig, and Ebner holds general priority. They belong wherever the Buber cell's honesty is stated.
-- [ ] Claire Petitmengin and colleagues — "A gap in Nisbett and Wilson's findings?" (*Consciousness and Cognition* 22, 2013). The published answer to the queued canonical strike, from inside the introspective-training lineage: the unawareness finding replicates, and elicitation-guided subjects then detect the manipulation in 80 percent of cases. Belongs beside the queued Nisbett-and-Wilson reading so the strike and its answer are read together.
+Twenty names on this list have a warrant and no evaluation, and working one means reading the primary text and writing the candidate note with a recommendation the author can act on. Fifty-seven evaluated entries above carry recommendations and wait on the author's seating decisions, which no session makes. The pruning of 2026-08-07 changed the standing rule for this file: a name enters only with the vault question it would answer stated beside it, because a name with no question costs a reading day and returns an opinion.
