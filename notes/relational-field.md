@@ -72,6 +72,8 @@ The claim that the knower is inside what they know is the condition this map's l
 
 - [[the second chair is the verification standard's own requirement]] — from the Gendlin 1964 reading (2026-08-06): the book's own test for whether anything landed barely operates alone, on the authority of the man the test is borrowed from — working solo a person circles without movement, and "even just saying to the other person a little" produces it. The solitary-reader problem at [[a codex is a one-chair technology making a two-chair argument]] now binds the verification standard as well as the relational doctrine, and the Second Chair treatment gains a mechanism to go with its lineage.
 
+- [[both attacks on the standard blame the absence of correction by another person]] — the Second Chair argued for by the verification standard's two sharpest opponents, who both explain introspective overconfidence by the fact that nothing ever corrects a person's reading of themselves
+
 ## What remains
 
 The space-around survey proposes the strongest evidence and the strongest objections for this map: Tronick's still-face experiment (evidence), Levinas's asymmetry (an objection to the mutuality framing), Merleau-Ponty's intercorporeality, Collins's interaction ritual chains, and the warning that witnessing can shade into consumption — all still unresearched on the pending-evaluation list in `ops/queue/candidates.md`, which is deliberately long. The Ubuntu tradition has left that list: its evaluation stands at [[ubuntu personhood]] in this map's mechanism section, with the primary reading undone. The consumption warning is this map's nearest counterweight, since [[a witness kept as proof forecloses what it proves]] already states its shadow from the author's own record.
