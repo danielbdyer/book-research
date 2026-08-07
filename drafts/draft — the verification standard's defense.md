@@ -3,7 +3,7 @@
 <!--
 What this is, and what it is not.
 
-This is the first manuscript-facing prose the vault has produced, written 2026-08-07 at the author's direction as the forcing function for the output problem. Its source is `drafts/brief — the verification standard's defense.md`, which assembles everything the vault holds on this concern in the order the argument has to be made.
+PROVISIONAL, AND ITS SOURCE IS WITHDRAWN. This is the first manuscript-facing prose the vault has produced, written 2026-08-07 at the author's direction. Its source brief surveyed one topic map rather than the vault, and the author identified the consequence immediately: the book's own foundation, that truth is un-concealment and liberation is recognition, is missing from an argument about how a reader knows something has happened. That is not a gap to patch at the end. If deep change is disclosure of what was already present, then the reader is not being asked whether their introspection is reliable; they are being asked whether something never absent has become visible, which is a different question and probably reframes this section from its first paragraph. A full survey across the eight source documents and the whole vault is running, and this draft is rewritten from it rather than amended.
 
 The voice here is a placeholder and is not an attempt at the author's. The register directive forbids impersonating the corpus, and nothing below tries to sound like the book. What is being tested is whether the argument is complete, whether it is in the right order, and whether the vault handed a writer what a writer needed. The words are meant to be cut.
 

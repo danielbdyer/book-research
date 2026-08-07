@@ -1,6 +1,16 @@
 # Working brief — the defense of the verification standard
 
-<!-- What this is: everything the vault can hand a session drafting the argument for why a reader should trust the felt shift, assembled in the order the argument has to be made rather than by category. Made 2026-08-07, at the author's direction, as the input to the first real drafting pass the vault has ever run. This is not a note and it is not pipeline intake; it belongs to `drafts/`, a folder created for it on the same day. The prose draft written from this brief is `drafts/draft — the verification standard's defense.md`. -->
+<!-- WITHDRAWN AS WRITTEN, 2026-08-07, and kept only so the failure is legible.
+
+This file claimed to assemble everything the vault holds on its concern. It did not. Its whole survey was the claim list of one topic map, `notes/felt-shift.md`, plus the descriptions of twelve notes selected from that list. Nothing else was searched. The author caught the consequence in one reading: the book's own foundation — that truth is un-concealment and liberation is recognition, reached by Heidegger and the Pratyabhijñā school with no historical contact — is absent from a brief on how a reader knows something has happened. That foundation is filed on `notes/recognition.md`, so a one-map survey could not reach it, and the map boundary is not the reason this happened; the reason is that one map was surveyed and the result was described as complete.
+
+Three instruments the vault provides for exactly this were not used. The extracted source documents in `.corpus/` were never searched, and they were not even extracted in this session until afterwards. The prior drafting-readiness dry run for this same concern, `ops/reach-list — the instrument.md`, was read four lines deep. The three research records in `archive/` that hold the measured evidence about counterfeit felt truth were never opened.
+
+A full survey was commissioned on 2026-08-07 across the eight source documents and across all twelve topic maps, the reading records, the research records, the open-corpus inventory and the provenance material. The replacement brief will be written from it. Everything below stands only where the replacement confirms it.
+
+Original header follows.
+
+What this was meant to be: everything the vault can hand a session drafting the argument for why a reader should trust the felt shift, assembled in the order the argument has to be made rather than by category. Made 2026-08-07, at the author's direction, as the input to the first real drafting pass the vault has ever run. This is not a note and it is not pipeline intake; it belongs to `drafts/`, a folder created for it on the same day. The prose draft written from this brief is `drafts/draft — the verification standard's defense.md`. -->
 
 The concern is the one the author named as his main job. The first drafting-readiness dry run, run on this same concern, reached this verdict: the vault would have served "statement, origin, and limits well, practice partially, and the defense not at all." That was true until 2026-08-07, when four primary readings landed on exactly this argument. This brief is what changed.
 
