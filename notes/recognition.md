@@ -84,6 +84,8 @@ This concern borders [[contraction-not-corruption]], because the move from heali
 - [[the stance's refusals-intact rule was the company's practice before it was the book's]] — six members limiting their own central findings in print
 - [[the beauty tension restates the tradition's own boundary between rasa and recognition]] — the millennium-old line between relish that stays in the theater and recognition that is once-for-all
 
+- [[erhard and the book take different verbs from the same heideggerian object]] — the book's un-forgetting and Erhard's context-creation work on the same inherited structure, and his own name for mastery, "a context that uses you," is already middle-voiced
+
 ## What remains
 
 The central-process regions are now extracted: each of atlas §I's three names for the process has its claims here, and the Kashmir Śaiva material of atlas §IX.6 was worked on 2026-08-03. Two pieces of that material are deliberately queued with other passes in `ops/queue/extractions.md`: the four upāyas belong with the practice curriculum, and so'yam belongs with the Courtyard overlay. The space-around survey raises Jorge Ferrer's participatory pluralism as a direct challenge to the two-traditions-one-conclusion framing. Ferrer has not been researched for this project; he is on the pending-evaluation list in `ops/queue/candidates.md`.

@@ -233,6 +233,8 @@ This map is fed by [[research-frontier]], which holds the evaluation queue. It b
 
 - [[the trained-vocabulary objection arrives independently from experimental social psychology]] — an unlooked-for convergence found while reading for something else: a philosopher of religion and two experimental social psychologists hold one premise about trained perception, neither citing the other
 
+- [[erhard and the book take different verbs from the same heideggerian object]] — from the primary reading of 2026-08-07: Erhard cites Being and Time by page and takes the clearing from it, so the corpus's fault line between his making and Heidegger's letting separates two operations on one structure rather than two positions about speech
+
 ## What remains
 
 The nearest work is the author's: the evaluations carry recommendations and await his seating decisions, which the vault cannot make — thirty-eight when `scripts/queries/candidate-seats.sh` last counted, plus the generative-pass round's two (James and Kornfield), rejoined in the merge of 2026-08-06. The instrument's counterweights are no longer the open member they were: the sourcing landed 2026-08-04 (the fluency catalogue, the interoception dissociation, and the defense found in Gendlin's own philosophy), and what remains of that thread is the reading program — Nisbett and Wilson first in `ops/reading queue.md`, A Process Model still unread. Beyond those, roughly eighty candidates are enumerated in `ops/queue/candidates.md`, which is deliberately long — the field, not the task. The roster above names about a hundred seated thinkers and works; they get notes when a claim needs them, because creating them all at once would add volume without use.
