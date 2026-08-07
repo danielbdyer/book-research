@@ -74,6 +74,10 @@ The claim that the knower is inside what they know is the condition this map's l
 
 - [[both attacks on the standard blame the absence of correction by another person]] — the Second Chair argued for by the verification standard's two sharpest opponents, who both explain introspective overconfidence by the fact that nothing ever corrects a person's reading of themselves
 
+- [[the participation law has measured support at a scale nothing else in the book approaches]] — from the primary reading of 2026-08-07: the alliance-outcome relation across 295 studies and over 30,000 patients at r = .278, holding across treatment approach and rater and country, and surviving the test for whether early improvement explains it
+- [[the alliance holds its size when the exchange is mediated and written]] — the same meta-analysis on internet-delivered therapy: r = .275 across 23 samples, against the standing expectation that a written and mediated exchange would weaken the relation
+- [[the practitioner rather than the person being helped carries the alliance effect]] — variability between therapists exceeds variability within a therapist's caseload, so the measured capacity belongs to the person holding the container
+
 ## What remains
 
 The space-around survey proposes the strongest evidence and the strongest objections for this map: Tronick's still-face experiment (evidence), Levinas's asymmetry (an objection to the mutuality framing), Merleau-Ponty's intercorporeality, Collins's interaction ritual chains, and the warning that witnessing can shade into consumption — all still unresearched on the pending-evaluation list in `ops/queue/candidates.md`, which is deliberately long. The Ubuntu tradition has left that list: its evaluation stands at [[ubuntu personhood]] in this map's mechanism section, with the primary reading undone. The consumption warning is this map's nearest counterweight, since [[a witness kept as proof forecloses what it proves]] already states its shadow from the author's own record.
