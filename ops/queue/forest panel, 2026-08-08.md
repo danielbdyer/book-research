@@ -126,6 +126,10 @@ The five panels ran in parallel from one briefing and could not read each other'
 
 **Two audits volunteered themselves and cost nothing.** The selection-artifact audit has never been run on the privation convergence (the connector, from the note's own admission), and the middle voice's most famous exhibit has a falsified provenance to check before any drafting session reaches for it (the convergence scout's Yamada citation). Both are in the spirit the vault already runs on: the trunk grows with its auditor attached.
 
+## The pick this file received
+
+The author read the visions and picked the correspondence on 2026-08-08, with the scope set to the full program plus a pilot letter; the decision rows, the program, and the pilot deliverables are at `ops/decisions.md`, `ops/correspondence program.md`, and `drafts/`. The other three visions stay recorded here as the roads not taken, each with its assumptions marked, so the pick can be revisited with its alternatives intact.
+
 ## What this file waits on
 
 Nothing here enters the graph without the author. The routes are stated per entry; the natural next motions, each his to approve: the connector's eight relations are /reflect-shaped work runnable from held material; the convergence scout's ten proposals are reading-queue candidates needing his sense of which seats matter; the craft offerings and the visions are his lane entirely; the wild associate's resonances wait for the writing to reach for them. The one entry with a standing claim on the research program is the connector's eighth, because it bears on the question the author has called the live one, from material already read.
