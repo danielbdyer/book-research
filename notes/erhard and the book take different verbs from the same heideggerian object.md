@@ -18,7 +18,7 @@ One further sentence complicates the split in the book's favour and was not avai
 - All quotations are from the paper read complete on 2026-08-07; the record is `archive/reading — erhard and jensen, creating leaders (2010, rev. 2020).md`. The corpus side is atlas §IX.3, which states the danger of "declaration-as-vestment — the declared self worn as costume; countered by the disclosive pole and resolved only in the middle voice."
 - The corpus's fault line is not wrong, and the correction is to its depth rather than its direction. Erhard does perform a making operation, and the book does not. What the corpus states as two positions about language is better stated as two operations on one inherited structure.
 - The paper is a leadership course rather than a transcript of the Landmark Forum, so nothing here establishes what the Forum teaches. The claim is about Erhard's stated model.
-- Whether the middle-voiced sentence is load-bearing in his own system or an aside is not settled by one paper, and the scholarly study of the Erhard–Heidegger relation, Hyde and Kopp's *Speaking Being* (Wiley, 2019), is unread.
+- Whether Erhard's own system depends on the middle-voiced sentence or holds it as an aside is not settled by one paper, and the scholarly study of the Erhard–Heidegger relation, Hyde and Kopp's *Speaking Being* (Wiley, 2019), is unread.
 
 ---
 
