@@ -24,6 +24,7 @@ The obvious way to dismiss the whole literature was tested in this paper and did
 ---
 
 Relevant Notes:
+- [[the verification standard rests on one name and cannot be defended by company]] — the note that now carries the narrowing this one helps make: the solitary somatic check has a single bearer, and the check joined to a second person has convergent company from four unrelated routes, of which this is one
 - [[transformation is enacted participation inside a held container]] — the law this measures, which the corpus reports every practice lineage stating
 - [[nothing transforms from the audience]] — the same law in its negative form, applied by the corpus to the book itself
 - [[the alliance holds its size when the exchange is mediated and written]] — the part of the same meta-analysis that bears on whether a book can carry any of this
