@@ -53,7 +53,7 @@ Each of these has a direction and no landing. A session records movement and sto
 
 **What makes a reader turn the page.** "The old engine was the intellectual pleasure of a system that explains things cleanly. If the schemes demote, that pleasure goes with them, and I don't yet know what replaces it." The vault holds one candidate from its own record rather than from outside: the single confirmed sighting of the book's promised event was recognition arriving at 4am over a decade-old letter from a friend, read alone ([[the book's native genre is the letter from a friend read alone]]) — and a letter's engine is that it is addressed to one person and expects an answer. Offered as a candidate, not an answer.
 
-**Whether the book says *I* or *you*.** Undecided, and separable from the epistemic grounding recorded in tier one. The corpus's drafts disagree about grammatical person, and the disagreement is held rather than resolved.
+**Whether the book says *I* or *you* was undecided when this statement was issued, and it is separable from the epistemic grounding recorded in tier one.** The corpus's drafts disagree about grammatical person, and the disagreement was held rather than resolved. The author closed the question on 2026-08-08, to I-addressing-you, for the correspondence execution, by an informed pick: the question he answered stated that choosing the correspondence settles the person, and he chose it (`ops/decisions.md`, the person row of 2026-08-08). The closure travels with that form, so if the correspondence is later abandoned this question reopens as written.
 
 **Whether bodily verification can bear the weight placed on it.** The author calls this "the live question," with reading to do before he can answer it honestly.
 

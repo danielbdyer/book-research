@@ -1,7 +1,7 @@
 ---
 description: "Recognition, contraction, the felt shift, the container, the field, and answerability are each stated in the poems that predate the book — the direction-of-flow finding extended from quoted lines to doctrine."
 category: claim
-sources: ["poems #2", "poems #4", "poems #5", "poems #7", "poems #8", "poems #10", "poems #12", "poems #13", "poems #15"]
+sources: ["poems #2", "poems #4", "poems #5", "poems #7", "poems #8", "poems #10", "poems #12", "poems #15"]
 topics: ["[[recognition]]", "[[felt-shift]]"]
 state: full
 ---
@@ -24,7 +24,7 @@ The sixteenth poem is excluded by the standing direction rule: it is the author'
 
 **The relational field.** Poem #8 states the field's two directions in one page: the inward form — "we first must learn how to treat the otherness within ourselves right" — and the mirrored encounter — "it is the godself inside of us (that lives and loves) like another we encounter again and again throughout our lives, in different forms; and we mirror that happening" (page 9). Poem #12 gives the field its smallest working example, noticing shared as love: "of 'look at that bird on the windowsill,' … and yet we saw it because / you saw it and you shared it to me / because you care what i think" (pages 12–13). Poem #8 also holds the tether against the fear that release means loss: "i had been scared that a letting-go necessarily meant a forgetting" (page 9).
 
-**Answerability.** Poem #13 is the small-hours address the book's genre question keeps circling: "i don't care that it's 3am / and i'm writing love poetry to nobody / in particular… it wasn't meant to mean something / to everybody i've ever loved" (page 13) — written to everyone and himself at once, which is the seed's founding address. Poem #7 holds the unclosed ending as a way of remaining answerable: "good endings aren't really endings" (page 8), and the surrender-and-will fork appears in the same poem as a single held breath: "complete surrender / and trying one's very hardest" (page 7).
+**Answerability.** Poem #12 closes in the small-hours address the book's genre question keeps circling: "i don't care that it's 3am / and i'm writing love poetry to nobody / in particular… and yet i'd be amiss if i said / it wasn't meant to mean something / to everybody i've ever loved" (page 13, before the poem-13 marker — the same poem as the kettle and the windowsill bird) — written to everyone and himself at once, which is the seed's founding address. (Corrected 2026-08-08, independently by both working branches: this passage was previously attributed to poem #13, whose text begins after it on the next page — the page number was right and the poem number was not — and the earlier ellipsis dropped the "i'd be amiss if i said" clause, which inverted the quoted sense.) Poem #7 holds the unclosed ending as a way of remaining answerable: "good endings aren't really endings" (page 8), and the surrender-and-will fork appears in the same poem as a single held breath: "complete surrender / and trying one's very hardest" (page 7).
 
 One caution the note carries about itself: a map like this is retrieval with a target, and resemblance found on purpose is cheaper than resemblance that announces itself. The quotes above were held to lines that state the concern rather than lines that merely rhyme with it, and the two nearest misses were left out deliberately (poem #3's "captured in invisible recognition" reads as texture, not doctrine; poem #11's advice-voice is adjacent to several concerns and squarely inside none).
 
@@ -36,7 +36,7 @@ Relevant Notes:
 - [[the sixteenth poem returns the book's language to the life it came from]] — the flagged exception, excluded here by the direction rule
 - [[the earliest chapter was written through a voice distilled from the author's first fifteen poems]] — the making-side use of the same fifteen poems this note reads doctrine from
 - [[felt shift versus felt confirmation]] — the instrument whose lived form poem #8 records before any vocabulary arrived
-- [[the book's native genre is the letter from a friend read alone]] — the genre question poem #13's small-hours address bears on
+- [[the book's native genre is the letter from a friend read alone]] — the genre question poem #12's small-hours address bears on
 
 Topics:
 - [[recognition]]

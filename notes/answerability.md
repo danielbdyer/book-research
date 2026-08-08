@@ -18,6 +18,9 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 - [[the book is a tuning fork and the reader is the striking surface]] — the image the book installs on page one to govern its ending and its publication
 - [[the book's native genre is the letter from a friend read alone]] — the genre whose every sentence expects an answer, and the medium of the event's one confirmed sighting
 - [[ripeness is not refrigeration]] — the corpus's rule against indefinite preservation of finished work
+- [[naming aloud is part of what is happening rather than a report about it]] — the speech doctrine at session scale: the spoken name is part of the event it names
+- [[the poems end by naming the next act and leaving it undone]] — the answerable ending as the author's native signature across four poems
+- [[the close repeats the opening's exit with one sentence inserted]] — the executed ending's mechanics: the whole difference between opening and close carried by one inserted sentence, the promise kept small
 - [[the book's doctrine of time restates a sentence the author's father told him]] — the inheritance beneath the temporal doctrines, and beneath the manuscript's unhurried condition
 - [[seventeen chapters rest at madhyama]] — the meta-tension: the manuscript's current state, and the pilot-chapter move
 - [[the book is written to the relational field and enacted upon the author first]] — the author's statement of the book's address, which moves what the unsent manuscript means without dissolving the tension: the enactment is already under way on its writer, and a word written to the field is still not a word spoken
@@ -47,6 +50,8 @@ This concern borders [[relational-field]], because answerability requires someon
 ## The pedagogy under the integration argument
 
 - [[the experiential learning cycle]] — Dewey established that experience is not automatically educative and that some experience is miseducative, and Kolb formalized the stations an experience has to pass through to become learning. That is the book's answer to why the peak does not hold, held by a tradition that has been testing it for a century and that appears in no source. Donald Schön, already chaired here, is a direct descendant, so part of the lineage is seated without its head.
+
+- [[the alliance holds its size when the exchange is mediated and written]] — the first measured evidence bearing on whether an asynchronous written exchange can carry a working relationship, which is what a letter is
 
 ## What remains
 

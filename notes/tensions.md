@@ -14,7 +14,7 @@ Scope note: this map holds tensions in the book's content. Tensions in the vault
 
 The atlas records these five at §XI.1 and heads them as the book's own diagnostics turned on itself.
 
-- [[beauty recruits the wrong posture]] — atlas §XI.1a records that the book's prose recruits an appreciating posture, so the reader collects sentences while the practices go undone. Treatment: stretches of deliberately plain prose (the corpus's name for the pass is Plain Water).
+- [[beauty recruits the wrong posture]] — atlas §XI.1a records that the book's prose recruits an appreciating posture, so the reader collects sentences while the practices go undone. Treatment: stretches of deliberately plain prose (the corpus's name for the pass is Plain Water). The source tradition's own line between staged relish and once-for-all recognition now stands beneath the tension ([[the beauty tension restates the tradition's own boundary between rasa and recognition]]).
 - [[forward hunger defeats the pause]] — the book's narrative momentum works against the stopping its practices require. Treatment: thresholds that require action before the text continues (gate practices).
 - [[the reader's resistance has nowhere to land]] — the book asserts that refusal is sacred but never stages one. Treatment: a dramatized refusal and a margin voice that argues back and sometimes wins.
 - [[a codex is a one-chair technology making a two-chair argument]] — the deepest claim concerns two people; reading involves one. Treatment: the book designed as one half of a pair (the Second Chair, with the Talmudic study-partner tradition as lineage).
@@ -83,7 +83,21 @@ Five names were brought in against the four undefended claims and the fork above
 - [[a synthesis organized by the schemes offers to promote them back to architecture]] — treated. A neurobiology synthesis organized throughout by the three-loop scheme, supplying each loop with neural correlates, is the most plausible route by which the demotion of 2026-08-04 gets reversed without anyone deciding to reverse it. Treatment: take the findings, decline the organizing principle, state every derived claim in plain terms.
 - [[the author is the book's first audience member and that is where the promise starts]] — treated, and the treatment is the author's own. Asked how a book that refuses instrumentality can promise transformation, he refused both available answers and started instead from what is intrinsically useful to him during his own therapy and integration, offering enough of the shape to be held up to the light rather than the whole passage. He states that the resolution is not clear to him, so this stays a trial.
 
+## The tension the second primary reading opened
+
+This tension was added 2026-08-07, from reading Nisbett and Wilson 1977 complete, and it is a disagreement between two defenses the vault already held rather than a disagreement between thinkers.
+
+- [[the counterfeit defense and the change-blindness finding ask for opposite timings]] — the vault answers the fluent counterfeit by telling a reader to check the shift across days, and the 1977 paper's account of when self-report degrades puts separation in time first among the causes, with two studies in which people compared a present state against a remembered earlier one and failed completely. Checking immediately exposes the reader to the counterfeit; checking later exposes the reader to reconstructing the earlier state from the present one. Treatment: candidate — split what each check certifies, so the immediate comparison certifies that something is moving now and the later check asks what can be said or done now that could not be before, which is an outward difference rather than a remembered feeling; derived from held material and untested.
+
+## The tensions the company's own record exposed
+
+Two arrived 2026-08-06 from reading the company's sixty-four candidate evaluations as one corpus; each is a fork between thinkers' accounts rather than a strain inside any one of them.
+
+- [[the required second person splits into a judge and a mirror]] — the solitary reader's many refusals specify two incompatible missing persons: a watcher with authority to overrule the reader's self-report, and a presence forbidden to direct. The sovereignty doctrine can supply only the mirror, and the recorded safety failures — telling dissolution from regression, judging a state from inside it — are what the judge exists for. Treatment: unassigned; the candidate is a division of labor — the mirror for verification, a pre-committed outside contact at the crisis points.
+- [[the map that protects the destabilized reader is the tool that becomes a ranking]] — the protective-framework finding and the status-ladder record prescribe opposite designs for the same deliverable. Treatment: candidate — split the deliverable into a sequence of expected difficulty, which can be handed over, and a hierarchy of attainment, which cannot; derived from the thinkers' own cases and untested.
+
 ## The method this map does not supply
+
 
 - [[a kept tension can be mapped rather than only held]] — nascent. Every treatment recorded above is an authorial move made in the writing; none is a move the reader can make. The gesture naming a reader-facing procedure is an open territory, inventoried in `ops/open corpus.md`.
 

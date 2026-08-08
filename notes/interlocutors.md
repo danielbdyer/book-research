@@ -41,6 +41,16 @@ The seats are functional. The corpus's narrative names for them are recorded in 
 
 ### The convergences
 
+- [[the company is joined by the reader rather than consulted]] — the corpus's design law for how the whole company is held toward the reader
+- [[the refusal of the engineered epiphany is a convergence in its own right]] — the shared refusal now held as a convergence in its own right: at least seven vocabularies, several arriving unsought
+- [[the arrivals that pass the independence test arrive only at the weak reading of the participation law]] — the trade-off the six independent witnesses jointly reveal
+- [[the householder road is priced long by every witness who grants it]] — the witnesses' convergence on the road's price
+- [[thinkers who agree on nothing else agree that a formulation can be the resistance]] — the convergence among mutual adversaries, aimed at the formula catalogue
+- [[katz and burke aim the same trained-vocabulary premise at two different claims]] — two adversaries, one premise, one shared answer to test
+- [[the stance's refusals-intact rule was the company's practice before it was the book's]] — the company's own documented self-limiting practice
+- [[the company's refusals converge unsought where its agreements were assembled]] — the two provenance classes of convergence, and which caveat reaches which
+- [[the executed draft introduces each thinker by the duration of their labor]] — the prose formula that seats the company in the execution
+
 - [[transformation is enacted participation inside a held container]] — the one law six lineages state in six vocabularies, each quoted.
 - [[unrelated traditions converge on presence without agenda while remaining available to act]] — the same evidence shape at the practice pole: a dozen vocabularies orbiting one posture.
 - [[the transformation field divides into five theories of where suffering lives]] — the eleven contemporary teachers as a living argument, each camp's axiom quoted.
@@ -221,9 +231,13 @@ Notes are created for these thinkers when existing or new claims need them; unti
 
 This map is fed by [[research-frontier]], which holds the evaluation queue. It borders [[tensions]], because the coaches' five theories of suffering are kept in deliberate disagreement — "the fork left honestly unresolved with the body seated as referee" (atlas §IX.5).
 
+- [[the trained-vocabulary objection arrives independently from experimental social psychology]] — an unlooked-for convergence found while reading for something else: a philosopher of religion and two experimental social psychologists hold one premise about trained perception, neither citing the other
+
+- [[erhard and the book take different verbs from the same heideggerian object]] — from the primary reading of 2026-08-07: Erhard cites Being and Time by page and takes the clearing from it, so the corpus's fault line between his making and Heidegger's letting separates two operations on one structure rather than two positions about speech
+
 ## What remains
 
-The nearest work is the author's: the evaluations carry recommendations and await his seating decisions, which the vault cannot make — thirty-eight when `scripts/queries/candidate-seats.sh` last counted, plus the generative-pass round's two (James and Kornfield), rejoined in the merge of 2026-08-06. The instrument's counterweights are no longer the open member they were: the sourcing landed 2026-08-04 (the fluency catalogue, the interoception dissociation, and the defense found in Gendlin's own philosophy), and what remains of that thread is the reading program — Nisbett and Wilson first in `ops/reading queue.md`, A Process Model still unread. Beyond those, roughly eighty candidates are enumerated in `ops/queue/candidates.md`, which is deliberately long — the field, not the task. The roster above names about a hundred seated thinkers and works; they get notes when a claim needs them, because creating them all at once would add volume without use.
+The nearest work is the author's: the evaluations carry recommendations and await his seating decisions, which the vault cannot make — thirty-eight when `scripts/queries/candidate-seats.sh` last counted, plus the generative-pass round's two (James and Kornfield), rejoined in the merge of 2026-08-06. The instrument's counterweights are no longer the open member they were: the sourcing landed 2026-08-04 (the fluency catalogue, the interoception dissociation, and the defense found in Gendlin's own philosophy), and the reading program has since delivered the first two entries of its standard's-defense tier, Nisbett and Wilson 1977 and Schwitzgebel 2008, both read whole on 2026-08-07 with their records in `archive/`; *A Process Model* is still unread. Beyond those, roughly ninety-six unevaluated candidates are enumerated in `ops/queue/candidates.md`, which is deliberately long — the field, not the task. The author reaffirmed that length on 2026-08-07 by reversing a cut he had asked for the same day, wanting the list kept whole as a high-level survey he can commingle claims from; fifty-six of its entries now carry a note recording what that day's pass found about them, and those notes decide nothing. The roster above names about a hundred seated thinkers and works; they get notes when a claim needs them, because creating them all at once would add volume without use.
 
 Two seats the evaluations found rather than filled. The material voice is the only position in the whole roster carried anonymously, and [[hartmut rosa]] is a working sociologist whose central object is exactly the grid it names. Lisa Feldman Barrett is the standing counterweight to [[karla mclaren]]'s messenger model and is on the pending list; the question her research puts to the roster — are the messengers found or made — is recorded in [[open-questions]].
 

@@ -82,6 +82,10 @@ vocabulary:
   cmd_reweave: "/reweave"
   cmd_verify: "/verify"
   cmd_rethink: "/rethink"
+  # Vault-native, not generated: the register repair pass. A skill that has just
+  # written prose chains here when the register is in doubt; the directive it
+  # enforces is ops/methodology/prose register.md.
+  cmd_recompose: "/recompose"
 
   # Level 7: extraction categories. what_to_find is written for a reader with no
   # prior context, per the prose register (ops/methodology/prose register.md).
@@ -152,11 +156,12 @@ personality:
 ---
 
 # ── register countermeasure (stamped 2026-08-05; the canonical copy is the final section of ops/methodology/prose register.md) ──
-# Every skill that reads this manifest writes under the six lines below, and where this copy disagrees with the canonical one, the canonical one wins.
-# 1. Every statement is a complete sentence with a named subject and a finite verb, and the last sentence of each paragraph is checked first, because fragments concentrate at the closes.
+# Every skill that reads this manifest writes under the seven lines below, and where this copy disagrees with the canonical one, the canonical one wins.
+# 1. Every statement is a complete sentence with a named subject and a finite verb, and the last sentence of each paragraph is checked first, because fragments concentrate at the closes — and in list-shaped prose the bullet's opening words before a colon are checked at the same priority, because there a headline substitutes for a claim.
 # 2. A vault-internal term — chair, seat, load, privated, and every other pipeline coinage — is unfolded where it appears or replaced with plain words.
 # 3. A reference is a receipt, never the content, and travels with one clause stating what it points to.
 # 4. A figure of speech appears only inside quotation marks, where the quoted phrasing is itself the finding.
 # 5. An abstract noun that stands for something specific is expanded where it stands: the sentence names the thing, not its category, with consequence-sentences checked first.
-# 6. Every reply to the author is reread as him before it is sent, in full.
+# 6. Every reply to the author is reread as him before it is sent, in full, and every prose file the session writes is reread the same way before it is saved, as the reader it will actually meet. There is no internal register.
+# 7. A subagent's report is raw material, never copy: its findings are recomposed under these lines before they are filed, and every research prompt a session sends states the register's demands.
 # The quality clause binds at equal force: the ban is on compression that withholds, never on complexity that delivers.

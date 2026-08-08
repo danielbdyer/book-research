@@ -1,10 +1,10 @@
 #!/bin/bash
-# Verifies the register countermeasure — the six lines and the quality clause
+# Verifies the register countermeasure — the seven lines and the quality clause
 # — is stamped, whole, at every surface a session loads, and that the wiring
 # which delivers it is intact. A label check is not enough: within a day of
 # installation one copy had already drifted ("a subject and a verb" where the
 # canonical line says "a named subject and a finite verb"), so this check
-# verifies seven signature phrases from the countermeasure's content at every
+# verifies ten signature phrases from the countermeasure's content at every
 # document surface. A partial amendment therefore fails loudly until every
 # copy and this script's signature list move together in one commit — that is
 # the amendment protocol working, not a bug.
@@ -22,9 +22,11 @@ cd "$(dirname "$0")/../.." || exit 1
 MODE="$1"
 FAIL=0
 
-# The seven signatures, one per line of the countermeasure plus the quality
-# clause. The seventh was added 2026-08-06 with line 5 (name the thing, not
-# its category), the amendment protocol's first real exercise. Each must appear verbatim, on one line, at every document surface.
+# The ten signatures: one per canonical line, the quality clause, and the
+# three added 2026-08-06 by the author's seventh correction — the file-scope
+# rewrite of line 6 (SIG8), the new line 7 on subagent reports (SIG9), and
+# the list-site extension of line 1 (SIG10). Each must appear verbatim, on
+# one line, at every document surface.
 SIG1='complete sentence with a named subject and a finite verb'
 SIG2='every other pipeline coinage'
 SIG3='a receipt, never the content'
@@ -32,6 +34,9 @@ SIG4='only inside quotation marks'
 SIG5='reread as him before it is sent'
 SIG6='never on complexity that delivers'
 SIG7='names the thing, not its category'
+SIG8='no internal register'
+SIG9='raw material, never copy'
+SIG10='headline substitutes for a claim'
 
 DOC_SURFACES='CLAUDE.md
 ops/orientation.md
@@ -49,7 +54,7 @@ check_doc () {
     return
   fi
   n=1
-  for sig in "$SIG1" "$SIG2" "$SIG3" "$SIG4" "$SIG5" "$SIG6" "$SIG7"; do
+  for sig in "$SIG1" "$SIG2" "$SIG3" "$SIG4" "$SIG5" "$SIG6" "$SIG7" "$SIG8" "$SIG9" "$SIG10"; do
     if ! grep -qF "$sig" "$f"; then
       MISSING="$MISSING $n"
     fi
@@ -95,6 +100,20 @@ if ! grep -qF 'session-orient.sh' '.claude/settings.json'; then
   echo "  WIRING BROKEN: .claude/settings.json does not register the session-start hook"
   FAIL=1
 fi
+for gate in .claude/hooks/pre-write-register.sh .claude/hooks/post-bash-register.sh scripts/queries/register-tripwires.py; do
+  if [ ! -f "$gate" ]; then
+    echo "  WIRING BROKEN: $gate is missing — the write-time gate installed after the seventh correction is gone"
+    FAIL=1
+  fi
+done
+if ! grep -qF 'pre-write-register.sh' '.claude/settings.json'; then
+  echo "  WIRING BROKEN: .claude/settings.json does not register the pre-write gate"
+  FAIL=1
+fi
+if ! grep -qF 'post-bash-register.sh' '.claude/settings.json'; then
+  echo "  WIRING BROKEN: .claude/settings.json does not register the shell-channel gate"
+  FAIL=1
+fi
 if [ ! -f 'ops/register violations.md' ]; then
   echo "  MISSING: ops/register violations.md — the violations log is gone"
   FAIL=1
@@ -110,12 +129,15 @@ fi
 STALE1="fiv""e lines"
 STALE2="six signature"" phrases"
 STALE3="six content"" signatures"
+STALE4="six"" lines"
+STALE5="seven signature"" phrases"
+STALE6="seven content"" signatures"
 TRIP_SURFACES="$DOC_SURFACES
 .claude/hooks/register-reminder.sh
 scripts/queries/countermeasure.sh"
 while IFS= read -r f; do
   [ -f "$f" ] || continue
-  for stale in "$STALE1" "$STALE2" "$STALE3"; do
+  for stale in "$STALE1" "$STALE2" "$STALE3" "$STALE4" "$STALE5" "$STALE6"; do
     if grep -qF "$stale" "$f"; then
       echo "  STALE COUNT: $f still says \"$stale\" — a leftover from before the last amendment; update it and this ban list in the same commit"
       FAIL=1
@@ -133,6 +155,6 @@ fi
 if [ "$MODE" = "--quiet" ]; then
   echo "STAMP CHECK: the register countermeasure is whole at every surface, and the wiring that delivers it is intact."
 elif [ -z "$MODE" ]; then
-  echo "The register countermeasure is whole at every surface — seven signatures at six document surfaces, both hooks wired, the violations log present, and no superseded count phrase anywhere."
+  echo "The register countermeasure is whole at every surface — ten signatures at six document surfaces, all four hooks wired, the violations log present, and no superseded count phrase anywhere."
 fi
 exit 0

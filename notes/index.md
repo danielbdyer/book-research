@@ -36,11 +36,11 @@ The atlas's closing section (§XII) resolves the book's entire field into six ma
 
 ## Getting started
 
-1. Read `ops/orientation.md` — the center, the reading order, and the torch. The session hook injects it first.
+1. Read `ops/orientation.md` — the center, the reading order, and the torch. The session hook injects it first. For the shape of the whole body of material rather than the state of the work, read `ops/outline.md`, which states in one sequence what the notes currently assert and carries a census of the graph regenerated from the notes themselves.
 2. Read `ops/goals.md` for the active threads, and [[methods]] for the working rules and the source registry — eight documents: four descriptive, three manuscript drafts, and the poems as the primary source beneath them all.
 3. Put new material in `inbox/`; run /reduce to extract claims from it.
 4. Before treating anything that looks inconsistent as work, check `ops/decisions.md` — the settled questions are indexed there, and several deliberate choices look like defects at first sight.
-5. The backlog splits into a work tier and a shelf. The work tier is `ops/reading queue.md` — nineteen readings, each with a question that can fail, its stake, and a page-level address. The pending lists in `ops/queue/` are the deliberately long shelf behind it: the field, not the task. The conditions a piece of writing needs before drafting are stated at `ops/manuscript readiness.md`. The user manual is at `manual/manual.md`.
+5. The backlog splits into a work tier and a shelf. The work tier is `ops/reading queue.md` — nineteen readings, each with a question that can fail, its stake, and a page-level address. The pending lists in `ops/queue/` are the deliberately long shelf behind it: the field, not the task. The author reaffirmed that length on 2026-08-07, reversing a cut he had asked for the same day, because he wants the candidate list kept whole as a high-level survey he can commingle claims from. The conditions a piece of writing needs before drafting are stated at `ops/manuscript readiness.md`. The user manual is at `manual/manual.md`.
 
 ---
 
