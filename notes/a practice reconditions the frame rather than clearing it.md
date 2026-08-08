@@ -1,5 +1,5 @@
 ---
-description: "Katz argues from the contemplative literature that yoga and its relatives substitute one conditioned consciousness for another instead of clearing the practitioner's frame, which puts the book's practices inside the vocabulary the book installs."
+description: "Katz argues that yoga and its relatives substitute one conditioned consciousness for another instead of clearing the practitioner's frame, which puts the book's practices inside the vocabulary it installs."
 category: claim
 sources: ["Katz 1978, pp. 57, 59 (archive/reading — katz, language, epistemology, and mysticism (1978).md)"]
 topics: ["[[felt-shift]]", "[[recognition]]"]

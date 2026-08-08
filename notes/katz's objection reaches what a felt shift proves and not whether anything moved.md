@@ -1,5 +1,5 @@
 ---
-description: "Katz's constructivism denies that a mystical experience can serve as evidence for any claim, and says in his own words that it does not deny the experience happened, which leaves the book's question of whether a reader can notice a change untouched."
+description: "Katz's constructivism withdraws evidential force from mystical experience while stating that it does not deny the experience happened, so it never reaches the question of whether a reader can notice a change."
 category: claim
 sources: ["Katz 1978, pp. 22, 60 (archive/reading — katz, language, epistemology, and mysticism (1978).md)"]
 topics: ["[[felt-shift]]", "[[interlocutors]]"]

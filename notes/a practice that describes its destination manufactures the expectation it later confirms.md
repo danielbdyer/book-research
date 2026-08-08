@@ -1,5 +1,5 @@
 ---
-description: "Katz observes that meditation, fasting and their relatives create expectations about what future states of consciousness will be like and calls the arrangement self-fulfilling, which is the sharpest thing said against a book that tells its reader in advance what a felt shift feels like."
+description: "Katz calls it self-fulfilling that practices create expectations about future states of consciousness, which prices a book that tells its reader in advance what a felt shift feels like."
 category: claim
 sources: ["Katz 1978, p. 59 (archive/reading — katz, language, epistemology, and mysticism (1978).md)"]
 topics: ["[[felt-shift]]", "[[book-structure]]"]
