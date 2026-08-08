@@ -2,7 +2,7 @@
 description: "The thinkers who refuse the solitary reader specify two incompatible persons, a judge who can overrule the reader's self-report and a mirror forbidden to direct, and the book can ship only the mirror."
 category: tension
 status: live
-treatment: "unassigned — the candidate resolution is a division of labor: the mirror for verification (the Second Chair as designed), the judge replaced by pre-committed outside architecture at the crisis points, per the safety-partner move awaiting the author's pick"
+treatment: "unassigned — the candidate resolution is a division of labor: the mirror for verification (the Second Chair as designed), the judge replaced by pre-committed outside architecture at the crisis points, per the safety-partner move awaiting the author's pick; the honesty check merged in from the candidates queue on 2026-08-08 is the Gurdjieff record, a teacher present who still produced casualties, which bounds what even the judge's presence buys"
 sources: ["Gendlin 1964, fn. 11 and fn. 13", "the notes for al-qushayri, gurdjieff and ouspensky, willoughby britton, zen's makyo instruction, ignatius of loyola, and carl rogers (quoted in body)", "Spiritual Exercises, the director's rule, via the evaluation"]
 topics: ["[[relational-field]]", "[[tensions]]"]
 ---
