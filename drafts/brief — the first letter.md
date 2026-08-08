@@ -17,7 +17,7 @@ The opening letter does the promise directly, in the first sentence: the address
 ## The craft trials this draft runs
 
 - **Plant the standard before naming it.** Mid-letter, one staged pause with a plain instruction and no doctrine attached. No definition of the felt shift appears anywhere in the letter; a later letter points back at this page. The precedent for a plant completed late is [[the unfolding of the center is planted half-erased and finished at a mirror]].
-- **Hooks at the opening, rest at the close.** The letter's one forward device — the promise that the writer will say what he thinks happened, and that he is not going to say it yet — sits in the opening third. The close is restful and asks for the answer.
+- **The hooks sit at the opening and the rest sits at the close.** The letter's one forward device — the promise that the writer will say what he thinks happened, and that he is not going to say it yet — sits in the opening third. The close is restful and asks for the answer.
 - **The answering instruction with its verification condition.** The closing instruction uses the derived-and-untested treatment from [[the counterfeit defense and the change-blindness finding ask for opposite timings]]: not "did you feel something," which invites the counterfeit, and not "did you feel different back then," which asks the memory that fails — but "what can you say now, in your own words, that you could not have said an hour ago." Marked as a trial: this wording is the vault's inference, tested nowhere.
 
 ## The shelf, selected for this letter
