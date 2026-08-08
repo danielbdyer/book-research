@@ -39,6 +39,13 @@ The symptom that exposed it, dated: **as of 2026-08-05, when this was found, Gen
 ---
 
 Relevant Notes:
+- [[the second chair is the verification standard's own requirement]] — the first of the four routes: Gendlin's own footnote makes the listener part of the instrument, so the paired form is the source's form
+- [[zen's makyo instruction refuses the self-certifying experience]] — the second route: a thousand-year institution that sends the practitioner to another person rather than letting the experience certify itself
+- [[both attacks on the standard blame the absence of correction by another person]] — the third route, and the one that arrives against the gatherer's interest, since the standard's two published attackers agree on the mechanism of its failure
+- [[the participation law has measured support at a scale nothing else in the book approaches]] — the fourth route: the alliance findings, which nobody has yet joined formally to the other three
+- [[the required second person splits into a judge and a mirror]] — the qualification that decides what a book may ship, since an instrument can offer a mirror and cannot offer a judge without becoming an authority
+- [[the reader's working posture is solitude held inside relationship]] — the qualification that names the relational reading's waiting opponent, Storr, still unread
+- [[the alliance holds its size when the exchange is mediated and written]] — the qualification that bounds the measured evidence, since every measured case has a live person answering
 - [[nothing enters the lattice the body has not countersigned]] — the standard itself, stated as the book holds it
 - [[felt shift versus felt confirmation]] — the two limits the corpus already records on the same standard
 - [[introspective access is the felt shift's undefended premise]] — the objection that has never been put to it, and the sort's first-ranked hole
