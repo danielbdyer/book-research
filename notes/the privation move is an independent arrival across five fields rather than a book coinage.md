@@ -14,7 +14,7 @@ Aristotle makes *steresis* one of the three principles of any change at all, and
 
 Five fields with nothing in common reach for the same analytic form: classical metaphysics, an eleventh-century Śaiva school, post-war developmental science, 1970s family systems, and identity psychology. That is the evidence class the author has named the book's centerpiece, which is independent arrivals at one finding from traditions with no contact.
 
-None of the five has been read against a primary work in this vault, and each of the five chairs says so. What is established is that the corpus itself supplies two of them and that the other three were found by looking; what is not established is that any of the five defines its construct by absence in its own words, which is the sentence the whole claim turns on.
+None of the five has been read against a primary work in this vault, and each of the five chairs says so. What the selection audit of 2026-08-08 established is stated in full beneath: four of the five were gathered by a search for the absence-form, and the fifth is corpus-internal and unchecked against its own tradition's text. What is still not established is that any of the five defines its construct by absence in its own words, which is the sentence the whole claim turns on.
 
 ## Substantiation
 
