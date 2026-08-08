@@ -8,7 +8,7 @@ The prose draft written from this brief is `drafts/draft — the verification st
 
 ## The finding that reorganises this section
 
-The vault holds a claim that has shaped how this concern was understood: the verification standard "rests on one name and cannot be defended by company." Every other load-bearing claim in the book is held up by independent arrivals, and this one is Gendlin's alone. The counterpoint round of 2026-08-06 added that nobody ever looked for company — "No item anywhere on its search map requests an independent arrival at the felt-shift standard, so the claim the book's argument most depends on is left a lineage position by the grid's own definition."
+The vault holds a claim that has shaped how this concern was understood: the verification standard "rests on one name and cannot be defended by company." Every other claim the book's argument depends on is held up by independent arrivals, and this one is Gendlin's alone. The counterpoint round of 2026-08-06 added that nobody ever looked for company — "No item anywhere on its search map requests an independent arrival at the felt-shift standard, so the claim the book's argument most depends on is left a lineage position by the grid's own definition."
 
 The sweep found company. It is filed on other maps, it was never counted, and — this is the part that reorganises the section — **it agrees with the standard's critics rather than with the standard's current form.**
 
