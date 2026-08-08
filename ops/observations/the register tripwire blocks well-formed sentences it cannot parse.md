@@ -1,5 +1,5 @@
 ---
-description: The pre-write register gate has now blocked twelve complete, well-formed sentences against four true catches, because its second rule fires on any noun phrase followed by a past participle unless a verb from a hand-written list of about sixty appears first.
+description: The register gate's second rule has now caught fourteen complete, well-formed sentences against four true catches, because it fires on any noun phrase followed by a past participle unless a verb from a hand-written list of about sixty appears first.
 date: 2026-08-06
 severity: friction
 status: open
