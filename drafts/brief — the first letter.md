@@ -12,7 +12,7 @@ The opening letter does the promise directly, in the first sentence: the address
 2. **No efficacy.** The letter promises company and a way of looking, never an outcome. The stance's rule — the vault postulates no efficacy, and neither does the writer — is a sentence the letter itself can almost say aloud.
 3. **The person.** I addressing you, by the author's pick of 2026-08-08, scoped to this form (`ops/decisions.md`, the person row).
 4. **Images as candidates.** No house, no rooms, no gatekeeper. Plain terms only; the letter's only figure is the letter itself.
-5. **The fluent reader.** The second reader type wears integration vocabulary as armor, and the author's own articulacy is the hazard (`ops/methodology/the book's current shape.md`, tier one). The letter's defense is form rather than argument: it never defines the check it stages, and it asks for something fluency cannot produce — an answer in the reader's own words about their own week.
+5. **The fluent reader.** The second reader type is the one the author says "will take my vocabulary and wear it as armor while believing they're doing the work," and the author's own articulacy is the hazard (`ops/methodology/the book's current shape.md`, tier one). The letter's defense is form rather than argument: it never defines the check it stages, and it asks for something fluency cannot produce — an answer in the reader's own words about their own week.
 
 ## The craft trials this draft runs
 
