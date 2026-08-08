@@ -43,4 +43,4 @@ How the fourteen steps distribute across letters is recorded as the vision state
 
 ## What ends the program's first cycle
 
-The author's cut of the pilot letter, and his decision about the two real readers — both his lane, both outside any session's reach. The program's later cycles repeat phases one through four per letter, and the roll-up's register keeps the missing-thesis account current as letters consume it.
+The author's cut of the pilot letter, and his decision about the two real readers — both his lane, both outside any session's reach. The program's later cycles repeat phases one through four per letter, and the register of missing theses — the anti-census half of `ops/outline.md`, listing what the sources state that no claim yet carries — keeps that account current as letters consume it.
