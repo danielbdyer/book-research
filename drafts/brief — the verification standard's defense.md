@@ -65,7 +65,7 @@ The negative half, which is the usable instruction: "It is just this referent mo
 
 **Attention to the body is not accuracy about it.** Interoceptive accuracy, sensibility and awareness "were distinct and dissociable," and confidence tracked performance only in the most accurate participants (Garfinkel et al. 2015). The fluent reader is high sensibility with unknown accuracy — which is the book's own second reader type. *Measurement honesty:* the heartbeat-counting instruments behind accuracy scores are contested; the three-dimension model stands, the instruments are unsettled.
 
-**And the one judgment the check cannot make.** "The book's whole method hands the judgment to the reader's own body… and this is the one judgment the body is worst placed to make, because both conditions present as the interface failing. A standard that works by asking the reader what they feel cannot arbitrate a question about whether what they feel is trustworthy." That is the dissolution-versus-regression hole, still `unassigned`.
+**And the one judgment the check cannot make.** "The book's whole method hands the judgment to the reader's own body… and this is the one judgment the body is worst placed to make, because both conditions present as the interface failing. A standard that works by asking the reader what they feel cannot arbitrate a question about whether what they feel is trustworthy." That is the missing dissolution-versus-regression diagnostic, and its tension note's treatment field still reads `unassigned`.
 
 ## 4. The counterfeit, measured
 
