@@ -1,5 +1,5 @@
 ---
-description: "Winnicott's object-usage paper requires the destruction to originate with the subject and names the protected object's outcome as enjoyment without change, which disqualifies every staged refusal the book writes for itself."
+description: "Winnicott requires the destruction to originate with the subject and names the protected object's outcome as enjoyment without change, which disqualifies every refusal the book stages for itself."
 category: claim
 sources: ["Winnicott 1969, pp. 358–360 (archive/reading — winnicott, the use of an object and relating through identifications (1969).md)", "atlas §XI.1c"]
 topics: ["[[relational-field]]", "[[book-structure]]"]

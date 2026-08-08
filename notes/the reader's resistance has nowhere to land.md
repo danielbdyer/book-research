@@ -26,6 +26,8 @@ Two treatments are under trial. The Refusal Pass dramatizes a real no inside the
 ---
 
 Relevant Notes:
+- [[a refusal the book writes for itself fails the warrant the design cites]] — the reading of 2026-08-08 that disqualifies both treatments above in their author-written form, because Winnicott requires the destruction to originate with the subject
+- [[a book survives destruction by construction and cannot receive the reader's communication]] — the second half of the same reading, which says a codex meets the non-retaliation condition for free and cannot be there to hear that it was attacked
 - [[the kashmir shaiva tradition would decline four of the book's deepest moves]] — the four author-tested refusals that would supply the Doubting Hand its script, since each comes from one of the book's own foundations and is specific enough to argue with
 - [[the field between two people does work]] — the relational theory that supplies the object-usage warrant
 - [[a codex is a one-chair technology making a two-chair argument]] — the adjacent structural tension about what a book can host

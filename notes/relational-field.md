@@ -35,6 +35,8 @@ The atlas records the structural problem under its own heading at §VIII — "th
 - [[the required second person splits into a judge and a mirror]] — the tension: the company's refusals specify two incompatible missing persons, and the sovereignty doctrine can ship only one
 - [[the arrivals that pass the independence test arrive only at the weak reading of the participation law]] — the trade-off across the law's six independent witnesses: independence or strength, not both
 - [[zen's makyo instruction refuses the self-certifying experience]] — a thousand-year precedent for the field as second check: the teacher, not the experience, verifies
+- [[a refusal the book writes for itself fails the warrant the design cites]] — Winnicott read at his own paper: the destruction has to originate with the subject, so a refusal the book stages for itself is the object protecting itself
+- [[a book survives destruction by construction and cannot receive the reader's communication]] — the two conditions of object usage split for a codex: non-retaliation comes free, and being there to hear it does not
 
 ### Nascent stubs
 

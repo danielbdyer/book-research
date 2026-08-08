@@ -52,6 +52,7 @@ This concern borders [[relational-field]], because answerability requires someon
 - [[the experiential learning cycle]] — Dewey established that experience is not automatically educative and that some experience is miseducative, and Kolb formalized the stations an experience has to pass through to become learning. That is the book's answer to why the peak does not hold, held by a tradition that has been testing it for a century and that appears in no source. Donald Schön, already chaired here, is a direct descendant, so part of the lineage is seated without its head.
 
 - [[the alliance holds its size when the exchange is mediated and written]] — the first measured evidence bearing on whether an asynchronous written exchange can carry a working relationship, which is what a letter is
+- [[a book survives destruction by construction and cannot receive the reader's communication]] — the receiving position Winnicott's sequence requires, which a codex cannot occupy: it meets the non-retaliation condition for free and cannot be there to hear that it was attacked
 
 ## What remains
 

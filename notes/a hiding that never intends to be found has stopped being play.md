@@ -22,6 +22,7 @@ The rule does diagnostic work in the book: it distinguishes protective concealme
 ---
 
 Relevant Notes:
+- [[a refusal the book writes for itself fails the warrant the design cites]] — the other Winnicott finding the vault now holds from his own text, completing the boundary rule on the destruction side
 - [[the field between two people does work]] — the relational claim this rule supports
 - [[grief cannot complete alone]] — the sharpest case of a completion that requires being found
 

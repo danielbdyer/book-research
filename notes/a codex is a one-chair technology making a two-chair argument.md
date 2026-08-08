@@ -24,6 +24,7 @@ The author has since stated the book's address in terms that reframe the problem
 ---
 
 Relevant Notes:
+- [[a book survives destruction by construction and cannot receive the reader's communication]] — a second mechanism for the same missing person, found in the resistance material rather than in the verification material
 - [[the field between two people does work]] — the claim that creates the tension
 - [[grief cannot complete alone]] — the case that makes the missing chair concrete
 - [[ignatius of loyola]] — the four-century precedent for building the second chair into the form
