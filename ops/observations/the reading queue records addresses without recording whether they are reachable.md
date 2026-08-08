@@ -1,7 +1,7 @@
 ---
 description: "Four readings were attempted on 2026-08-08 and two were blocked at access after the session had already spent effort finding that out, because the queue records a page-level address for every entry and records nothing about whether the text can be got."
-category: observation
-created: 2026-08-08
+date: 2026-08-08
+severity: friction
 status: open
 ---
 
