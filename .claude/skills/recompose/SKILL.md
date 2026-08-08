@@ -121,6 +121,12 @@ Each fault below has a definition, a way to find it, a repair, and one real spec
 | the census | the count across the book's thinkers |
 | reach-list | drafting-readiness dry run |
 | hole, flank, cell | name the specific absence or the specific side |
+| the weave | the reconciliation of the sibling generative round's merge (pull request 12, 2026-08-08) — give the referent and date at first use in a file |
+| the anti-census | the outline's register of theses the sources state that no claim yet carries (`ops/outline.md`) |
+| the sparsest seam | the pair of graph regions sharing the fewest stated relations — name the two regions |
+| the bench (reading-queue sense: "the panel bench") | the readings the forest panel proposed, adopted as tier 6 |
+| stocked (of a letter or concern) | the material is assembled; say what is assembled |
+| wound (as in "the one-chair wound") | the solitary-reader problem: the book's deepest claim concerns two people while a book is read by one |
 
 Two vocabularies are **not** coinages and must survive untouched: the book's own words (the Second Chair, the Stance, the Third Entity, the Gatekeeper, the Gatekeeper's bow, molecule, primitive, the arc, madhyamā, aletheia), and source anchors (`abridged ch6`, `atlas §IV`, `poems #5`, `first-telling: the problem`, `Gendlin 1964, fn. 13`). Replacing either is a content edit and breaks the one law.
 
