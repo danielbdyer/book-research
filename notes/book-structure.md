@@ -143,6 +143,7 @@ The provenance record of 2026-08-02 and after — the accounts of the corpus's m
 - [[the poems' animals are present company while the corpus's animals are similes]] — the image system's missing creature register, already drafted in the poems
 - [[the map that protects the destabilized reader is the tool that becomes a ranking]] — the tension between the two safety findings, with the sequence-or-hierarchy split as its candidate treatment
 - [[the confessions is address to a thou that the reader overhears]] — a third position for the open person question, found inside the author's own named model
+- [[a practice that describes its destination manufactures the expectation it later confirms]] — the ordering constraint on any unit that explains the verification standard, since a destination named in advance becomes an expectation the reader's later report answers
 
 ## The open territory
 
