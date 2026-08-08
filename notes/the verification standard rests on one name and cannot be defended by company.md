@@ -1,5 +1,5 @@
 ---
-description: "The felt shift is the book's single test for whether anything is true and it is Gendlin's alone, so the convergence that supports every other claim is unavailable here and the defense must be built against objections."
+description: "The felt shift taken as a solitary in-the-moment check is Gendlin's alone and has no company, and the same check joined to a second person has convergent company from four unrelated routes, so the standard's defensible form needs a person a book cannot supply."
 category: structure
 sources: ["mesh grid: tier 1", "atlas §IX.4", "author statement, 2026-08-04", "author statement, 2026-08-05"]
 topics: ["[[interlocutors]]", "[[felt-shift]]", "[[methods]]"]
