@@ -36,7 +36,7 @@ The five notes that carry the current synthesis:
 - [[the making of the book enacts the law the book states]]
 - [[the perfectible conversation is the manuscript's most comfortable room]] — the kept counterface of the fourth, and a description of the vault itself
 
-The directives that govern how material is held, most current first: `ops/methodology/the book's current shape.md`, `the primary material.md`, `sharp questions.md` (a question can fail, its stake is named, its address is page-level, it states what it inherits, its evidence is graded), `both halves of a correspondence.md`, `authorial stance.md` (observation, not argument; no efficacy postulated), `naming and epistemic humility.md`, `personal provenance.md`, `center of gravity.md`, and `writing test.md`. The full index with one-line contents is `ops/methodology/methodology.md`.
+The directives that govern how material is held, most current first: `ops/methodology/the chain of understanding.md` (the research's main goal is development and mapping of ideas that builds the chain of belief needed for sensible thinking about the book's overarching opportunities — the deliverable is the chain, not coverage), `the book's current shape.md`, `the primary material.md`, `sharp questions.md` (a question can fail, its stake is named, its address is page-level, it states what it inherits, its evidence is graded), `both halves of a correspondence.md`, `authorial stance.md` (observation, not argument; no efficacy postulated), `naming and epistemic humility.md`, `personal provenance.md`, `center of gravity.md`, and `writing test.md`. The full index with one-line contents is `ops/methodology/methodology.md`.
 
 ## The torch
 
