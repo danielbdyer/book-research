@@ -15,7 +15,7 @@ The research has two working modes, and the directive names them both as the goa
 
 ## The test a proposed piece of research passes before it runs
 
-A proposed reading, extraction, or evaluation names its chain position: which belief upstream of it the work tests or supports, and which understanding downstream of it the work unblocks. The sharp-questions standard (`ops/methodology/sharp questions.md`) already requires every reading to carry a stake; this directive says what kind of thing a stake is — a link in the chain, not a topic touched. Work that cannot name its link is shelf material, however interesting, and the shelf (`ops/queue/candidates.md`) is where it waits without shame.
+A proposed reading, extraction, or evaluation names its chain position: which belief upstream of it the work tests or supports, and which understanding downstream of it the work unblocks. The sharp-questions standard (`ops/methodology/sharp questions.md`) already requires every reading to carry a stake; this directive says what kind of thing a stake is — a link in the chain, not a topic touched. Work that cannot name its link waits, however interesting, on the pending-candidates list (`ops/queue/candidates.md`), and it waits there without shame.
 
 ## What the directive guards against
 
