@@ -112,7 +112,7 @@ The anti-census carries the same obligation in the opposite direction, and no sc
 
 ## What the vault holds
 
-The graph carries **246 notes beneath the maps** — claims, thinkers, tensions and the rest — gathered by 12 topic maps under `notes/index.md`, and joined to each other by 1404 wiki links. By category: 87 claim, 64 interlocutor, 34 structure, 23 tension, 12 isomorph, 12 image, 8 craft, 3 practice, 3 open-question.
+The graph carries **246 notes beneath the maps** — claims, thinkers, tensions and the rest — gathered by 12 topic maps under `notes/index.md`, and joined to each other by 1404 wiki links. By category: 87 claim, 64 interlocutor, 34 structure, 23 tension, 12 image, 12 isomorph, 8 craft, 3 practice, 3 open-question.
 
 By development state: 68 full, 23 privated, 12 nascent; the remaining 143 carry no state field. Tensions stand at 17 live and 6 treated, and resolving one is the author's act rather than a session's.
 
