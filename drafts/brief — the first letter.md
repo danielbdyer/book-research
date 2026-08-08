@@ -20,7 +20,7 @@ The opening letter does the promise directly, in the first sentence: the address
 - **The hooks sit at the opening and the rest sits at the close.** The letter's one forward device — the promise that the writer will say what he thinks happened, and that he is not going to say it yet — sits in the opening third. The close is restful and asks for the answer.
 - **The answering instruction with its verification condition.** The closing instruction uses the derived-and-untested treatment from [[the counterfeit defense and the change-blindness finding ask for opposite timings]]: not "did you feel something," which invites the counterfeit, and not "did you feel different back then," which asks the memory that fails — but "what can you say now, in your own words, that you could not have said an hour ago." Marked as a trial: this wording is the vault's inference, tested nowhere.
 
-## The shelf, selected for this letter
+## The material, selected for this letter
 
 - The premise and its mechanism, for the writer's own honesty even where the letter does not argue: [[an enormous experience is interpreted by the structure it did not change]]; [[what the big experience leaves behind depends on what follows it]]; the peak-as-opening extraction still pending (candidates entry 17).
 - The reader, in both definitions: [[the book addresses people who overthink because they oversense]] ("people who need rigor and the sacred in the same sentence, because they don't fully trust either one alone"); the author's two types at tier one; the surplus mechanism at [[the book opens from a surplus of insight rather than a lack of it]] ("understanding has become easy to acquire, and easy to hide in").
