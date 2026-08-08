@@ -32,6 +32,10 @@ Relevant Notes:
 - [[recognition is the soul's reminder rather than the ego's reward]] — the other half of the same material: what the reminder is, as against what it is not
 - [[the reader's resistance has nowhere to land]] — the tension this bears on, since a reader told the cost is a reader given something to refuse
 - [[nothing transforms from the audience]] — the law that makes the reader's consent structural rather than courteous
+- [[an enormous experience is interpreted by the structure it did not change]] — the reader-premise this promise collides with, since the book's addressee has already watched something enormous fail to hold
+- [[the state that arrives and the station that is earned were distinguished a millennium before the lattice that names them]] — the distinction that dissolves that collision, by separating what passes from what is built
+- [[zen's makyo instruction refuses the self-certifying experience]] — one half of the limiting clause: a genuine awakening kept as a possession becomes delusion
+- [[a witness kept as proof forecloses what it proves]] — the other half, reached with no contact between the routes: what is held onto as evidence stops doing what it was evidence of
 
 Topics:
 - [[recognition]]
