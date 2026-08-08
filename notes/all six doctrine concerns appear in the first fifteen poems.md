@@ -36,7 +36,7 @@ Relevant Notes:
 - [[the sixteenth poem returns the book's language to the life it came from]] — the flagged exception, excluded here by the direction rule
 - [[the earliest chapter was written through a voice distilled from the author's first fifteen poems]] — the making-side use of the same fifteen poems this note reads doctrine from
 - [[felt shift versus felt confirmation]] — the instrument whose lived form poem #8 records before any vocabulary arrived
-- [[the book's native genre is the letter from a friend read alone]] — the genre question poem #13's small-hours address bears on
+- [[the book's native genre is the letter from a friend read alone]] — the genre question poem #12's small-hours address bears on
 
 Topics:
 - [[recognition]]
