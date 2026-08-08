@@ -60,7 +60,10 @@ for p in sorted(pathlib.Path("notes").glob("*.md")):
         return g.group(1).strip().strip("\"'") if g else None
 
     def array(name):
-        g = re.search(rf"^{name}:\s*\[(.*?)\]", fm, re.M | re.S)
+        # Greedy to the last bracket on the line, not the first: a topics array
+        # holds wiki links, so a non-greedy match ends inside "[[recognition]]"
+        # and every topic silently parses as empty.
+        g = re.search(rf"^{name}:\s*\[(.*)\]\s*$", fm, re.M)
         return [x for x in re.findall(r"['\"]([^'\"]+)['\"]", g.group(1))] if g else []
 
     notes[p.stem] = {
