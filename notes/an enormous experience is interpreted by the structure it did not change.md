@@ -28,6 +28,7 @@ The grid's claim that nothing else answers the question with a mechanism did not
 ---
 
 Relevant Notes:
+- [[what is recognized cannot be un-recognized]] — the promise this reader-premise collides with, since the book tells a reader whose big experience faded that what is recognized cannot be lost; the collision is stated on that note and dissolved by the state-and-station distinction
 - [[the state that arrives and the station that is earned were distinguished a millennium before the lattice that names them]] — the same structure, reached independently, and already declared by the book as its bypass guard
 - [[the book cannot tell dissolution from regression and neither can its reader]] — the other gap the same thinker names, and the reason he moves out of the reference lineage
 - [[the plasticity window reorganizes only what attention is on]] — the other mechanism for the same question, arriving from neurobiology and held beside this one rather than merged with it

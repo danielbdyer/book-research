@@ -26,6 +26,7 @@ Two witnesses to one structure is materially different from one. The book curren
 ---
 
 Relevant Notes:
+- [[what is recognized cannot be un-recognized]] — the collision this distinction dissolves: the reader's big experience was a state that passed, and the irreversibility promise is about a station, so neither claim falsifies the other
 - [[an enormous experience is interpreted by the structure it did not change]] — the modern statement of the same structure, and the mechanism the book needs it for
 - [[the convergence's independence fails where three of its names share one teacher]] — the general problem this arrival is an exception to
 - [[the householder claim has no witness outside the indic world]] — the neighbouring hole the same tradition partly fills
