@@ -34,6 +34,9 @@ One consequence for this vault is recorded in [[methods]]: the vault verifies st
 - [[the executed draft scripts the reader's recognition in the reader's own first person]] — the craft that models what an arrived shift sounds like from inside
 - [[the entry chapter's instant test for a listening page fails against the fluency evidence]] — the entry figure's verification claim, bounded by the fluency evidence and repaired by the friction test
 - [[katz and burke aim the same trained-vocabulary premise at two different claims]] — two adversaries sharing one premise, met by one answer: the felt sense's refusal event
+- [[katz's objection reaches what a felt shift proves and not whether anything moved]] — the 1978 essay read at its own pages: Katz withdraws evidential force and declines the accuracy question, so the constructivist attack lands elsewhere than the vault expected
+- [[a practice reconditions the frame rather than clearing it]] — the finding from the same essay that does cost the book: contemplative training substitutes one conditioned consciousness for another instead of clearing the practitioner's frame
+- [[a practice that describes its destination manufactures the expectation it later confirms]] — the hazard one step earlier than the fluency tension, where the text supplies the criterion the reader's body will later be asked to meet
 - [[thinkers who agree on nothing else agree that a formulation can be the resistance]] — mutual adversaries converging on the charge the formula catalogue must answer
 - [[all six doctrine concerns appear in the first fifteen poems]] — the instrument in the primary layer: poem #4 names trusting experience as clear, and poem #8 records a felt shift happening on the page years before the vocabulary arrived
 - [[a genuine felt shift changes what can be said next]] — the defense, from the standard's own source: the genuine shift is a step that rearranges the sayable, and the counterfeit produces no step
