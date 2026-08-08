@@ -30,7 +30,7 @@ The atlas records the structural problem under its own heading at §VIII — "th
 - [[the circle is the form in which the naked sentence gets met]] — the image of the practice form witnessing requires
 - [[the reader's working posture is solitude held inside relationship]] — the corpus's positive specification of what every solitary-reader treatment aims at
 - [[the third entity's failure mode is withdrawal and its core skill is staying]] — the executed chapter's doctrine: the field survives conflict and dies of prolonged withdrawal
-- [[the poems hold the one-chair question and its answered posture]] — the wound and its target posture, both in the primary layer first
+- [[the poems hold the one-chair question and its answered posture]] — the solitary-reader problem and the posture that answers it, both in the primary layer first
 - [[the book addresses people who overthink because they oversense]] — the corpus's reader definition, kept beside the author's later one so the difference stays visible
 - [[the required second person splits into a judge and a mirror]] — the tension: the company's refusals specify two incompatible missing persons, and the sovereignty doctrine can ship only one
 - [[the arrivals that pass the independence test arrive only at the weak reading of the participation law]] — the trade-off across the law's six independent witnesses: independence or strength, not both
