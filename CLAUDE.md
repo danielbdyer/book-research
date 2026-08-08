@@ -191,6 +191,7 @@ Maintenance is condition-based. The session hook counts and reports the first si
 | A source document | `sources/`, plus an archive note |
 | Active threads | `ops/goals.md` |
 | The current center, reading order, and torch | `ops/orientation.md` |
+| What the whole body of material currently asserts, in one sequence | `ops/outline.md`, whose census half is regenerated rather than written |
 | A finished piece of work, dated | `ops/completed.md`, with paths to what it produced |
 | A question that has been closed | `ops/decisions.md`, one row, pointing at the reasoning |
 | Friction with the vault's process | `ops/observations/` |
