@@ -124,7 +124,7 @@ The five panels ran in parallel from one briefing and could not read each other'
 
 **The staged refusal assembled itself from three panels.** The connector found the script (the four refusals, already written, already author-tested); the craft advisor found the surface (the verso column modeling dissent in the reader's own hand, with the check that Winnicott's warrant requires the destruction to originate with the subject); the visionary's two-voice book is the same device grown to a whole form. Together they answer the design debt the resistance tension records, in three sizes, and the choosing among sizes is the author's.
 
-**Two audits volunteered themselves and cost nothing.** The selection-artifact audit has never been run on the privation convergence (the connector, from the note's own admission), and the middle voice's most famous exhibit has a falsified provenance to check before any drafting session reaches for it (the convergence scout's Yamada citation). Both are in the spirit the vault already runs on: the trunk grows with its auditor attached.
+**Two audits volunteered themselves and cost nothing.** The selection-artifact audit has never been run on the privation convergence (the connector, from the note's own admission), and the middle voice's most famous exhibit has a falsified provenance to check before any drafting session reaches for it (the convergence scout's Yamada citation). Both are in the spirit the vault already runs on: new material enters with its audit attached.
 
 ## The pick this file received
 
