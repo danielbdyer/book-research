@@ -149,7 +149,7 @@ The crossover cluster, evaluated 2026-08-03 at the author's direction as backgro
 - [[david peter lawrence]] — the treatise-as-practice precedent, and the proof-road the author declined.
 - [[loriliai biernacki]] — the crossover's living developer, whose theoretical destination leaves the practice lane open.
 - [[michel henry]] — the phenomenology nearest vimarśa; the pairing itself possibly open territory.
-- [[steven katz]] — the constructivist opponent, who breaks only the book already declined.
+- [[steven katz]] — the constructivist opponent, who breaks only the book already declined; read 2026-08-08, and his essay declines the accuracy question the vault recruited him for while costing the book on its practice pole instead.
 - [[thomas sheehan]] — the deflationary guard, anchored in Heidegger's own 1964 retraction.
 - [[andrea jain]] — gestural subversion: the stewardship test that sincerity cannot pass alone.
 
