@@ -19,7 +19,7 @@ A proposed reading, extraction, or evaluation names its chain position: which be
 
 ## What the directive guards against
 
-Coverage as a proxy for progress. The vault has measured this failure mode twice in its own record: the corpus's page-count overweights the system vocabulary, which is why volume is not centrality (`ops/methodology/center of gravity.md`); and the thinker roster grew to sixty-four chairs while one of the book's two centerpieces, the lived practice, was carried by three notes — breadth added mass without adding links, and the chain had a missing movement nobody counted. Research that would add another chair, another audit, or another swept territory justifies itself under this directive by the link it adds, or it waits.
+Coverage as a proxy for progress. The vault has measured this failure mode twice in its own record: the corpus's page-count overweights the system vocabulary, which is why volume is not centrality (`ops/methodology/center of gravity.md`); and the thinker roster grew to sixty-four thinkers while one of the book's two centerpieces, the lived practice, was carried by three notes — breadth added mass without adding links, and the chain had a missing movement nobody counted. Research that would add another thinker, another audit, or another swept territory justifies itself under this directive by the link it adds, or it waits.
 
 ## What "overarching opportunities" means operationally
 
