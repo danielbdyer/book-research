@@ -6,7 +6,7 @@ load: adversary
 discipline: analytic-philosophy
 clause: "We are unreliable reporters of our own ongoing conscious experience, and the confidence we feel about it is not evidence that we are getting it right."
 recommendation: "Read Perplexities of Consciousness second, after Nisbett and Wilson, because his objection reaches the present-state report their carve-out protects. Note that he is not hostile: his project is that introspection is hard and badly done, which leaves a repair open that a flat skepticism would not."
-sources: ["mesh grid: against C4", "mesh grid: the search map"]
+sources: ["Schwitzgebel 2008, pp. 246, 249, 250–252, 259 (read 2026-08-07; the reading record is archive/reading — schwitzgebel, the unreliability of naive introspection (2008).md)", "mesh grid: against C4", "mesh grid: the search map"]
 works: ["Perplexities of Consciousness (2011)", "The Unreliability of Naive Introspection (Philosophical Review, 2008)"]
 topics: ["[[interlocutors]]", "[[felt-shift]]"]
 ---
@@ -38,6 +38,8 @@ He would also refuse the move that converts unreliability into significance. A r
 ## Recommendation
 
 Recorded in the field above; the seating decision is the author's.
+
+**The 2008 paper was read complete on 2026-08-07, and this evaluation held.** Everything above was written from the mesh grid's characterization before anyone here had read him, and the primary text confirms it, including the part that mattered most — that his project leaves a repair open rather than closing the question. Three specifics can now replace the characterization. His case is built on emotion and the body rather than on vision and imagery, and he names viscerality, bodily arousal and location inside the head and body as the features that "largely elude us" (2008, p. 249). He rejects the present-tense exemption by name, calling "We may concede the past to the skeptic, but not the present" a claim that is "blatantly unrealistic" (pp. 250–251). And he states his own position as holding introspection to be "possible, important, necessary for a full life" and "highly untrustworthy" at once (p. 246), which makes him an opponent of the standard's reliability rather than of the book's premise. The findings are at [[the case against introspective reliability is strongest exactly where the book's standard stands]], [[trained introspection is the repair the standard's sharpest opponent named and left open]], and [[both attacks on the standard blame the absence of correction by another person]]. *Perplexities of Consciousness* (2011) is still unread, and its chapter on whether a person continuously experiences their feet in their shoes bears on the book's practices more directly than anything in the paper read.
 
 ---
 

@@ -82,14 +82,15 @@ fi
 # direction (2026-08-05), deliberately redundant with CLAUDE.md, the
 # orientation, and the register itself. The canonical copy is the final section
 # of ops/methodology/prose register.md; where copies disagree, that one wins.
-echo "## The register countermeasure (applies to every sentence this session writes; six lines)"
+echo "## The register countermeasure (applies to every sentence this session writes, files equally with replies; seven lines)"
 echo ""
-echo "1. Every statement is a complete sentence with a named subject and a finite verb. No fragment stands as a sentence; check the last sentence of each paragraph first, because fragments concentrate at the closes."
+echo "1. Every statement is a complete sentence with a named subject and a finite verb. No fragment stands as a sentence; check the last sentence of each paragraph first, because fragments concentrate at the closes — and in list-shaped prose check the bullet's opening words before a colon at the same priority, because there a headline substitutes for a claim."
 echo "2. A vault-internal term (chair, seat, load, privated, the sort, the torch, and every other pipeline coinage) is unfolded in the sentence where it appears, or replaced with plain words. In replies to the author this is absolute: he authored the book the terms describe, not the terms."
 echo "3. A reference is a receipt, never the content. Every link or file path travels with one clause stating what it points to; a paragraph must still assert everything it asserted with its links struck out."
 echo "4. A figure of speech appears only inside quotation marks, where the quoted phrasing is itself the finding. Mirrored pairs, load-bearing metaphors, quotable endings, and self-narration are statements withheld, not style."
 echo "5. An abstract noun that stands for something specific is expanded where it stands: the sentence names the thing, not its category. Check consequence-sentences first, because abstraction concentrates where a finding's meaning is stated."
-echo "6. Every reply to the author is reread as him before it is sent, in full, applying lines 1 through 5."
+echo "6. Every reply to the author is reread as him before it is sent, in full, applying lines 1 through 5. Every prose file the session writes is reread the same way before it is saved, as the reader it will actually meet: the author, or a later session with none of this one's context. There is no internal register."
+echo "7. A subagent's report is raw material, never copy: its findings are recomposed under these lines before they are filed, and every research prompt states the register's demands."
 echo ""
 echo "The quality clause carries equal force: none of this shortens or flattens. Long subordinate sentences are welcome when they unfold in reading order; richness is the right fact, complete, with its reason attached. The ban is on compression that withholds, never on complexity that delivers."
 echo ""

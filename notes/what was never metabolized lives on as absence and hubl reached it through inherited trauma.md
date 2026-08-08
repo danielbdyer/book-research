@@ -4,7 +4,7 @@ category: isomorph
 sources: ["mesh grid: the coaches", "atlas §IX.5"]
 topics: ["[[contraction-not-corruption]]", "[[interlocutors]]"]
 state: privated
-privation: "the mesh grid's characterization stands in for a primary reading not yet done"
+privation: "the mesh grid's characterization stands in for a primary reading not yet done, and its independence certification failed at round three — Hübl's documented formation includes Wilber — so the reading must also test what the arrival owes its teachers (archive/research — counterpoint round background.md)"
 ---
 
 # what was never metabolized lives on as absence and hubl reached it through inherited trauma
@@ -23,6 +23,8 @@ Hübl currently sits in the vault inside a group of eleven contemporary teachers
 - This is an independent arrival in the strict sense the sort finds the company mostly lacking ([[the convergence's independence fails where three of its names share one teacher]]), and it arrives from a discipline — clinical trauma work — that the crossing shows thinly populated at this position.
 - The refusal to establish when the primary reading is done: trauma work of this kind carries commitments about what repair requires — duration, witness, and often collective process — which sit uneasily beside a book a reader takes up alone. If Hübl holds that the absence can only be metabolized in company, that is a constraint on the book's solitary-reader form rather than a decoration on its concept, and it is exactly the sort of thing an admiring citation would drop.
 - One thing this note does not claim: that the correspondence supports the book's concept. Under `ops/methodology/authorial stance.md` a convergence is company rather than corroboration, and two people reaching the same shape is recorded as a noticing.
+
+**The grid's independence certification failed at the blind repeat pass (2026-08-06, round three), and the strict-sense bullet above is the sentence this narrows.** Hübl's documented formation includes the teachers the certification excludes: the biographical record fetched at the pass has him introduced as a student to the works of Ken Wilber — "a pretty strong influence," whose books were "like an archive of knowledge" — beside Ramana Maharshi and Aurobindo. The grid's own test for an arrival of this kind, whether the person could have gotten there without reading anyone in its top tier, now fails inside the grid's own pages, because its addendum seats Wilber's lattice at that tier. The absence-formulation also has a prior occupant on the roster: Winnicott's "Fear of Breakdown" (*International Review of Psycho-Analysis* 1, 1974) already holds that the pathology can be "not of trauma but of nothing happening when something might profitably have happened." What survives: the road — collective and ancestral trauma work — is genuinely his, and the shape genuinely matches. What falls: "no shared teacher," and the grid's ranking of this correspondence as the strongest thing its thread contributes. Verified at web depth; the trace is `archive/research — counterpoint round background.md`, round three.
 
 ---
 

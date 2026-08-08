@@ -1,5 +1,5 @@
 #!/bin/bash
-# The register countermeasure, per-turn form. Prints the compact six lines
+# The register countermeasure, per-turn form. Prints the compact seven lines
 # before every reply is composed, so the countermeasure sits at zero distance
 # from the moment every recorded failure happened — and so it re-arms after
 # context compaction, which pushed the session-start copy out of the window at
@@ -15,7 +15,7 @@ cd "${CLAUDE_PROJECT_DIR:-$GUARD_DIR/../..}" || exit 0
 
 INPUT=$(cat)
 
-echo "REGISTER (reread the reply as the author before sending): every statement is a complete sentence with a named subject and a finite verb, and paragraph closes are checked first; every pipeline coinage is unfolded or replaced with plain words; every reference is a receipt carrying one clause of its content; figures of speech appear only inside quotation marks; every abstract noun standing for something specific is expanded where it stands, so the sentence names the thing, not its category, checked first at consequence-sentences. The ban is on compression that withholds, never on complexity that delivers."
+echo "REGISTER (reread every reply as the author, and every prose file as the reader it will actually meet, before it leaves — there is no internal register): every statement is a complete sentence with a named subject and a finite verb, and paragraph closes are checked first, with a bullet's opening words before a colon at the same priority; every pipeline coinage is unfolded or replaced with plain words; every reference is a receipt carrying one clause of its content; figures of speech appear only inside quotation marks; every abstract noun standing for something specific is expanded where it stands, so the sentence names the thing, not its category, checked first at consequence-sentences; and a subagent's report is raw material, never copy — recomposed before it is filed. The ban is on compression that withholds, never on complexity that delivers."
 
 if [ -f scripts/queries/countermeasure.sh ]; then
   bash scripts/queries/countermeasure.sh --turn || true

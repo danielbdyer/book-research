@@ -41,7 +41,7 @@ Derived rather than sourced; no primary work has been read in this vault. Wilber
 
 ## What the evaluation still requires
 
-Whether the lattice can be taken without the stage model it is drawn on, which is the constraint the schemes' demotion imposes; whether the pre/trans distinction survives detachment from the developmental hierarchy that motivates it; and the documented record of the 2006 episode and the colour identification, which is currently held on the grid's characterization alone.
+Whether the lattice can be taken without the stage model it is drawn on, which is the constraint the schemes' demotion imposes; whether the pre/trans distinction survives detachment from the developmental hierarchy that motivates it; and the documented record of the 2006 episode and the colour identification — the episode itself (the June 2006 pseudonymous blog post and the after-episode claim that taking offense demonstrated failed second-tier consciousness) verifies at web depth against the Integral World archive (2026-08-06), so what remains for the reception-history reading is the edition-level record, not the event's existence.
 
 ## Recommendation
 

@@ -97,9 +97,11 @@ The author directed the evaluation of the four candidates the corpus names for t
 - [[alfred north whitehead]] — the finished philosophy behind verbs-only, to cite rather than import.
 - [[aristotle on privation]] — the signature move's ancestry, plus the affliction objection the corpus asks the book to inherit with it.
 
+- [[trained introspection is the repair the standard's sharpest opponent named and left open]] — the research question the Schwitzgebel reading produced: he set an evidential condition in 2008 for whether practice can make introspection reliable, and anything published since is evidence he had not seen
+
 ## What remains
 
-This map's reading program now lives at `ops/reading queue.md`, and working it in tier order is the frontier's first activity. This map's own live question is the priority five's last open member — sourcing the instrument's counterweights in the processing-fluency and interoception literature — and after it the seating decisions, which are the author's: thirty-eight evaluations carry recommendations and await him, reported by `scripts/queries/candidate-seats.sh`. One research task of a different kind sits beside them: the scholarly-database pass that would confirm or close the unclaimed Henry–vimarśa pairing. Beyond those, the pending-evaluation list in `ops/queue/candidates.md` holds roughly eighty entries in the book's own order, so that frontier work tracks manuscript work; the list is deliberately long, and it is the field rather than the task.
+This map's reading program now lives at `ops/reading queue.md`, and working it in tier order is the frontier's first activity. This map's own live question is the priority five's last open member — sourcing the instrument's counterweights in the processing-fluency and interoception literature — and after it the seating decisions, which are the author's: thirty-eight evaluations carry recommendations and await him, reported by `scripts/queries/candidate-seats.sh`. One research task of a different kind sits beside them: the scholarly-database pass that would confirm or close the unclaimed Henry–vimarśa pairing. Beyond those, the pending-evaluation list in `ops/queue/candidates.md` holds ninety-six unevaluated entries in the book's own order, so that frontier work tracks manuscript work; the list is deliberately long, and it is the field rather than the task. The author reaffirmed that on 2026-08-07 by reversing a cut he had asked for the same day, because he wants the list kept whole as a high-level survey he can commingle claims from.
 
 ---
 

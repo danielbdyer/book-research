@@ -30,6 +30,8 @@ Inside the table, the one entry the book does credit came from a commercial semi
 
 **So the finding is not that the book borrows.** It is that eight of the nine constructs above come from the settlement whose characteristic error the book names in order to distance itself from it, and that eight of the nine are uncredited. The ninth, the Racket, is both from that settlement and credited, which is the exception that shows the crediting was possible.
 
+**This finding and the privation convergence were flagged as contradicting each other over three names, and the author collapsed the tension the same day (2026-08-06).** [[the privation move is an independent arrival across five fields rather than a book coinage]] counts Bowlby, Minuchin, and Marcia as three of five independent arrivals; this note files the same three inside one formation. The generative round raised the arity question; the author's ruling — "Let's treat them as independent arrivals for now" — settles the standing: shared formation describes where the three worked, not where their absence-forms came from, until a reading shows otherwise. The row is in `ops/decisions.md`, and both notes carry the ruling.
+
 A reader who knows this literature meets the parentage before they meet the argument.
 
 ## Substantiation

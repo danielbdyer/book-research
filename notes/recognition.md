@@ -78,6 +78,13 @@ This concern borders [[contraction-not-corruption]], because the move from heali
 ## The identity vocabulary's origin
 
 - [[erik erikson]] — *identity crisis* is his coinage and the psychosocial moratorium is his construct, which makes him the frame behind Marcia's statuses and behind the book's identity loop. His refusal is the useful part: identity on his account has to be recognized by a community to hold, which is half of what a reader working alone from a formula can do.
+- [[the poems narrate the not yet lived as already known]] — the reading-is-remembering doctrine performed as a tense in the primary layer
+- [[the refusal of the engineered epiphany is a convergence in its own right]] — at least seven unconnected vocabularies refusing the manufactured breakthrough
+- [[the householder road is priced long by every witness who grants it]] — the granting witnesses converge on months to decades, which lands on the one-reading vehicle
+- [[the stance's refusals-intact rule was the company's practice before it was the book's]] — six members limiting their own central findings in print
+- [[the beauty tension restates the tradition's own boundary between rasa and recognition]] — the millennium-old line between relish that stays in the theater and recognition that is once-for-all
+
+- [[erhard and the book take different verbs from the same heideggerian object]] — the book's un-forgetting and Erhard's context-creation work on the same inherited structure, and his own name for mastery, "a context that uses you," is already middle-voiced
 
 ## What remains
 

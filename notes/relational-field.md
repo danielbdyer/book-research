@@ -28,6 +28,12 @@ The atlas records the structural problem under its own heading at §VIII — "th
 - [[a codex is a one-chair technology making a two-chair argument]] — the structural problem stated as a tension
 - [[the ink that listens is the relational field at the scale of a page]] — the image that puts this map's claim on the book's own surface
 - [[the circle is the form in which the naked sentence gets met]] — the image of the practice form witnessing requires
+- [[the reader's working posture is solitude held inside relationship]] — the corpus's positive specification of what every solitary-reader treatment aims at
+- [[the third entity's failure mode is withdrawal and its core skill is staying]] — the executed chapter's doctrine: the field survives conflict and dies of prolonged withdrawal
+- [[the poems hold the one-chair question and its answered posture]] — the wound and its target posture, both in the primary layer first
+- [[the book addresses people who overthink because they oversense]] — the corpus's reader definition, kept beside the author's later one so the difference stays visible
+- [[the required second person splits into a judge and a mirror]] — the tension: the company's refusals specify two incompatible missing persons, and the sovereignty doctrine can ship only one
+- [[the arrivals that pass the independence test arrive only at the weak reading of the participation law]] — the trade-off across the law's six independent witnesses: independence or strength, not both
 - [[zen's makyo instruction refuses the self-certifying experience]] — a thousand-year precedent for the field as second check: the teacher, not the experience, verifies
 
 ### Nascent stubs
@@ -66,9 +72,15 @@ The claim that the knower is inside what they know is the condition this map's l
 
 - [[the second chair is the verification standard's own requirement]] — from the Gendlin 1964 reading (2026-08-06): the book's own test for whether anything landed barely operates alone, on the authority of the man the test is borrowed from — working solo a person circles without movement, and "even just saying to the other person a little" produces it. The solitary-reader problem at [[a codex is a one-chair technology making a two-chair argument]] now binds the verification standard as well as the relational doctrine, and the Second Chair treatment gains a mechanism to go with its lineage.
 
+- [[both attacks on the standard blame the absence of correction by another person]] — the Second Chair argued for by the verification standard's two sharpest opponents, who both explain introspective overconfidence by the fact that nothing ever corrects a person's reading of themselves
+
+- [[the participation law has measured support at a scale nothing else in the book approaches]] — from the primary reading of 2026-08-07: the alliance-outcome relation across 295 studies and over 30,000 patients at r = .278, holding across treatment approach and rater and country, and surviving the test for whether early improvement explains it
+- [[the alliance holds its size when the exchange is mediated and written]] — the same meta-analysis on internet-delivered therapy: r = .275 across 23 samples, against the standing expectation that a written and mediated exchange would weaken the relation
+- [[the practitioner rather than the person being helped carries the alliance effect]] — variability between therapists exceeds variability within a therapist's caseload, so the measured capacity belongs to the person holding the container
+
 ## What remains
 
-The space-around survey proposes the strongest evidence and the strongest objections for this map: Tronick's still-face experiment (evidence), Levinas's asymmetry (an objection to the mutuality framing), Merleau-Ponty's intercorporeality, Collins's interaction ritual chains, and the warning that witnessing can shade into consumption — all still unresearched on the pending-evaluation list in `ops/queue/candidates.md`, which is deliberately long. The Ubuntu tradition has left that list: its evaluation stands at [[ubuntu personhood]] in this map's mechanism section, with the primary reading undone. The consumption warning is this map's nearest counterweight, since [[a witness kept as proof forecloses what it proves]] already states its shadow from the author's own record.
+The space-around survey proposes the strongest evidence and the strongest objections for this map: Tronick's still-face experiment (evidence), Levinas's asymmetry (an objection to the mutuality framing), Merleau-Ponty's intercorporeality, Collins's interaction ritual chains, and the warning that witnessing can shade into consumption — all still unresearched on the pending-evaluation list in `ops/queue/candidates.md`, which is deliberately long. One thing has changed about the first of them without removing it. The alliance meta-analysis of Flückiger, Del Re, Wampold and Horvath, read whole on 2026-08-07 across 295 studies and more than thirty thousand patients, is now the largest measured support this map's central claim has ([[the participation law has measured support at a scale nothing else in the book approaches]]), so Tronick would add a second and smaller measurement rather than the map's first. The Ubuntu tradition has left that list: its evaluation stands at [[ubuntu personhood]] in this map's mechanism section, with the primary reading undone. The consumption warning is this map's nearest counterweight, since [[a witness kept as proof forecloses what it proves]] already states its shadow from the author's own record. The consumption warning is this map's nearest counterweight, since [[a witness kept as proof forecloses what it proves]] already states its shadow from the author's own record.
 
 ---
 
