@@ -12,7 +12,9 @@ The sequence below is also this session's reading of the material and is revisab
 
 ## The argument the material currently states
 
-Ten steps. Each names the claim that carries it, and the claim is where the substantiation and the source anchors live.
+Fourteen steps in three movements. Each step names the claim that carries it, and the claim is where the substantiation and the source anchors live. The first version of this sequence (2026-08-08, morning) had ten steps; the review the author asked for the same day found that those ten stated the book's epistemology and its self-relation while omitting its reader, its practice, its account of agency, and its hazards — the corpus's own name for the missing stratum is "what the hands do" (atlas §VII) — and the four steps of the second movement repair that. The review's method and full findings are in `ops/completed.md` under 2026-08-08.
+
+### First movement — what is found, and how anything gets to count as true
 
 1. **The book reports one finding, and the finding is that deep change is disclosure of something already present rather than acquisition of something new.** It reclaims *psychedelic* for that movement — the concealed becoming visible, a movement rather than a molecule ([[psychedelic names a movement not a substance]]) — and states the same thing about its own reading at its smallest scale, in the front matter's promise that reading is remembering ([[reading is remembering]]).
 
