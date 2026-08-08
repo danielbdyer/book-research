@@ -64,7 +64,7 @@ These inherit the lineage sort's ranking and remain the cheapest large correctio
 
 19. **The isomer history.** Q: did isomerism break composition-only notation the way the vault's claim states — Berzelius naming it circa 1830, structural formulas answering it in 1858–61, stereochemistry completing it in 1874? Stake: this is the only queued reading that would settle a finding the vault has already recorded rather than open a question; the claim carries a privation naming exactly this gap. Address: a standard history of chemistry's structural-theory chapters; Rocke's *Chemical Atomism* covers the sequence. Standing: stated from general knowledge with the privation declared.
 
-## Tier 6 — the panel bench, adopted 2026-08-08
+## Tier 6 — the forest panel's readings, adopted 2026-08-08
 
 The forest panel of 2026-08-08 proposed these readings, the weave against the sibling round sharpened their questions, and the author adopted the set on 2026-08-08 with the instruction to plan the full backlog of what the panels returned. Every entry names the chain link it develops, per `ops/methodology/the chain of understanding.md`, and the order is the correspondence program's: the first four gate design decisions the letters need, and the rest deepen steps in the order the letters reach them. Every standing below is the panel's characterization from general knowledge, unread here, unless it says otherwise.
 
