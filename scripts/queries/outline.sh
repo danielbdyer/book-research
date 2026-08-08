@@ -133,8 +133,9 @@ edges = sum(indegree.values())
 
 w("## What the vault holds")
 w()
-w(f"The graph carries **{len(claims)} claims** in {len(maps)} topic maps, joined by {edges} "
-  f"claim-to-claim links. By category: " +
+w(f"The graph carries **{len(claims)} notes beneath the maps** — claims, thinkers, tensions and "
+  f"the rest — gathered by {len(maps) - 1} topic maps under `notes/index.md`, and joined to each "
+  f"other by {edges} wiki links. By category: " +
   ", ".join(f"{v} {k}" for k, v in cat_counts.most_common() if k) + ".")
 w()
 w(f"By development state: " + ", ".join(f"{v} {k}" for k, v in state_counts.most_common()) +
