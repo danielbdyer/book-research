@@ -4,7 +4,7 @@ category: interlocutor
 seat: candidate
 load: adversary
 discipline: social-theory
-recommendation: "Reference-lineage as counterweight: convergence as company stands where convergence as proof falls, so the stance survives the 1978 essay's challenge to the crossover. The 2026-08-06 reseating aims him at the verification standard instead, and that question is unread. Grade: the survival verdict rests on the essay's thesis at survey depth, not on a full reading."
+recommendation: "Reference-lineage as counterweight: convergence as company stands where convergence as proof falls, so the stance survives the 1978 essay's challenge to the crossover. The 2026-08-06 reseating aimed him at the verification standard, and the reading of 2026-08-08 answered that question against the expectation — his essay declines the accuracy question and costs the book on its practice pole instead. Grade: the essay's epistemological argument read at its own pages; its comparative body sampled rather than read."
 works: ["Language, Epistemology, and Mysticism (in Mysticism and Philosophical Analysis, 1978)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
 topics: ["[[interlocutors]]", "[[research-frontier]]"]
