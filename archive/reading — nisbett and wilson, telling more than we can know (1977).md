@@ -10,7 +10,7 @@ created: 2026-08-07
 
 **How it is cited.** By the journal's own page numbers, which are stable across every reprint: "Nisbett and Wilson 1977, p. 236." The scan's page headers carry those numbers and were used to check the mapping at both ends. Quotations were taken verbatim from the extracted text; the extraction inserts stray spaces inside words and breaks hyphenated line ends ("intro­spective," "refe rent"), and those artifacts are repaired in quotation. Nothing else is altered.
 
-**Why this paper second.** It is the first entry in tier 1 of `ops/reading queue.md`, which is the tier the author's own statements make load-bearing, and its question inherits directly from the first primary reading: Gendlin's 1964 paper certifies that a process moved rather than that a content is true, which narrows what introspection must deliver from describing an inner state to noticing change against no-change. The queued question was whether the confabulation finding reaches a standard that only asks a person to notice change.
+**Why this paper second.** It is the first entry in tier 1 of `ops/reading queue.md`, which is the tier holding the readings the book's argument depends on by the author's own statements, and its question inherits directly from the first primary reading: Gendlin's 1964 paper certifies that a process moved rather than that a content is true, which narrows what introspection must deliver from describing an inner state to noticing change against no-change. The queued question was whether the confabulation finding reaches a standard that only asks a person to notice change.
 
 ## What the reading settled
 
