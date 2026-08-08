@@ -4,7 +4,7 @@
 
 ## Panel one — "yes, and, here's x over here which says the same thing"
 
-Ten proposed arrivals, each checked against the seated company and the shelf before proposing, each carrying its refusal and a page-level address, all graded "characterized from general knowledge, unread here." All ten survived curation.
+Ten arrivals stand below. The panel ran each one against the seated company and the pending-candidates list before proposing it; each carries its refusal and a page-level address, and all are graded "characterized from general knowledge, unread here." All ten survived curation.
 
 1. **Vygotsky's internalization law is the missing warrant for facilitation scaled to one.** His general genetic law holds that every higher psychological function appears twice — first between people, then inside one person — so a solitary capacity is a formerly social relationship carried inward, which is the facilitation-scaled-to-one thesis stated as developmental psychology, and it sits exactly on the sparsest seam the traversal found (what the participation law demands of a solitary reader). His refusal is double: the between-people plane must actually have occurred, so a book cannot substitute for a facilitator the reader never had; and internalization is acquisition through the social, the direct contrary of the disclosure doctrine in step 1. Sharp question: does *Mind in Society* (1978) ch. 4 state the law for self-regulating functions of the presence-and-return kind, or only for tool-mediated cognition, where the transfer would be analogy rather than arrival?
 
