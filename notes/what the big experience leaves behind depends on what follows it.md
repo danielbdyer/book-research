@@ -17,6 +17,7 @@ The claim's limits are kept in it. These are studies of substance-occasioned exp
 ---
 
 Relevant Notes:
+- [[the peak is the opening and the book is built for what follows it]] — the corpus's doctrinal statement of what this finding measures, with the plasticity window priced as neutral in both directions
 - [[jack kornfield]] — the same finding from testimony rather than instruments: they don't last, and the laundry is where maturation happens
 - [[william james]] — transiency as a defining mark, with recurrence cumulative
 - [[psychedelic names a movement not a substance]] — the reclamation that bounds how far this literature can be pressed

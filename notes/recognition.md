@@ -42,6 +42,7 @@ The corpus also stations a warning at this concern and credits it to Lacan: reco
 - [[all six doctrine concerns appear in the first fifteen poems]] — the recognition doctrine in the primary layer: the answer already had, the inside already occupied, stated in the poems before the book existed
 - [[the recognition school installs wonder at the definition of consciousness]] — camatkāra tied to vimarśa by the founder himself, bridged to art by Abhinavagupta, with the theater-not-world difference kept
 - [[what the big experience leaves behind depends on what follows it]] — the clinical grounding of the shifted promise: the peak fades on a decay curve, and persistence tracks completeness and practice
+- [[the peak is the opening and the book is built for what follows it]] — the corpus's own statement of why an arrival does not persist by itself, with the after-window priced as morally neutral plasticity
 
 ### Nascent stubs
 

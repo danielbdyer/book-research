@@ -1,5 +1,5 @@
 ---
-description: "The executed draft states that the peak experience is the opening rather than the work, prices the after-window as morally neutral plasticity, and the survey names integration as the clinical field's own unfilled bottleneck."
+description: "The executed draft states that the peak is the opening rather than the work and prices the after-window as morally neutral plasticity, and the survey names integration as the clinical field's unfilled bottleneck."
 category: claim
 sources: ["abridged ch11 p. 35", "abridged ch12 pp. 38–39", "space-around p. 4"]
 topics: ["[[recognition]]", "[[felt-shift]]"]
