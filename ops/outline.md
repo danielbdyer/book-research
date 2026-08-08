@@ -62,7 +62,7 @@ Three things, each because including them would misrepresent the state of the wo
 
 **Everything the sequence compresses.** Fourteen steps stand over 310 notes. The twenty live tensions are the clearest case, since a tension is held open on purpose and a spine that carries eight of them still understates how much of this material is deliberately unsettled; the registry is [[tensions]]. The census below carries the counts so the compression is visible rather than silent.
 
-**The company itself.** Sixty-four thinkers hold chairs, forty evaluations await the author's seating decisions, and the map that gathers them is [[interlocutors]], the vault's centerpiece map by the author's own decision. They are absent from the steps because a step names a proposition and a chair names a person, not because they sit outside the argument.
+**The company itself.** Sixty-four thinkers hold notes in the company, forty evaluations await the author's seating decisions, and the map that gathers them is [[interlocutors]], the vault's centerpiece map by the author's own decision. They are absent from the steps because a step names a proposition and a thinker's note names a person, not because they sit outside the argument.
 
 ## What the sources state that no claim yet carries
 
