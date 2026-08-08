@@ -22,7 +22,7 @@ Fourteen steps in three movements. Each step names the claim that carries it, an
 
 3. **Others walked the same crossing, and the independence of their arrivals is audited rather than asserted.** The vault holds the footsteps and the company already seated ([[the crossover has footsteps and the book already seats some of the walkers]]), and it holds the finding that the independence fails in one place, where three of the names share a single teacher ([[the convergence's independence fails where three of its names share one teacher]]). Convergence is therefore company and never corroboration — with one stated exception class the weave established: the record holds two kinds of convergence, agreements the lineages were selected for and refusals that arrived against the gatherer's interest, and the selection caveat reaches only the first ([[the company's refusals converge unsought where its agreements were assembled]]). The refusal of the engineered epiphany is such a convergence in its own right, at seven or more unconnected vocabularies ([[the refusal of the engineered epiphany is a convergence in its own right]]).
 
-4. **Nothing counts as true in this book until the body countersigns it — and the standard's two strongest attackers have now been read whole, with results in both directions.** The felt shift is the single verification standard and everything else runs downstream of it ([[nothing enters the lattice the body has not countersigned]]); bodily assent can respond to fluent prose rather than to the claim ([[felt shift versus felt confirmation]]); and one defense comes from the standard's own author — the felt sense rejects wrong formulations, a cost fluency never pays ([[the felt sense rejects formulations and that friction is what separates it from fluency]]). The readings of 2026-08-07 replaced characterization with page-level fact. In the standard's favor: the confabulation finding exempts reports that a sensation is present now and targets reports of causes ([[the confabulation finding exempts current sensations and targets reports of causes]]). Against it, twice: the same paper documents large attitude change that was not experienced as change, which attacks the narrowed certificate — noticing change — at its own ground ([[a large change in evaluation can happen without being experienced as change]]); and Schwitzgebel builds his case on emotional and bodily experience specifically, rejecting the present-tense exemption by name ([[the case against introspective reliability is strongest exactly where the book's standard stands]]). The opponent also named the open repair — trained introspection, with his verdict dated to 2008's evidence ([[trained introspection is the repair the standard's sharpest opponent named and left open]]) — and the two defenses now ask for opposite timings, which is a new live tension ([[the counterfeit defense and the change-blindness finding ask for opposite timings]]).
+4. **Nothing counts as true in this book until the body countersigns it — and the standard's two strongest attackers have now been read whole, with results in both directions.** The felt shift is the single verification standard and everything else runs downstream of it ([[nothing enters the lattice the body has not countersigned]]); bodily assent can respond to fluent prose rather than to the claim ([[felt shift versus felt confirmation]]); and one defense comes from the standard's own author — the felt sense rejects wrong formulations, a cost fluency never pays ([[the felt sense rejects formulations and that friction is what separates it from fluency]]). The readings of 2026-08-07 replaced characterization with page-level fact. In the standard's favor: the confabulation finding exempts reports that a sensation is present now and targets reports of causes ([[the confabulation finding exempts current sensations and targets reports of causes]]). Against it, twice: the same paper documents large attitude change that was not experienced as change, which attacks the narrowed certificate — noticing change — at its own ground ([[a large change in evaluation can happen without being experienced as change]]); and Schwitzgebel builds his case on emotional and bodily experience specifically, rejecting the present-tense exemption by name ([[the case against introspective reliability is strongest exactly where the book's standard stands]]). The opponent also named the open repair — trained introspection, with his verdict dated to 2008's evidence ([[trained introspection is the repair the standard's sharpest opponent named and left open]]) — and the two defenses now ask for opposite timings, which is a new live tension ([[the counterfeit defense and the change-blindness finding ask for opposite timings]]). The constructivist attack, read whole on 2026-08-08, turns out to land elsewhere than the vault expected: Katz withdraws evidential force from mystical experience and says on his second page that he is not denying it happened, so his objection reaches what a felt shift proves and not whether anything moved ([[katz's objection reaches what a felt shift proves and not whether anything moved]]). His essay costs the book on a different pole instead — practice reconditions the frame rather than clearing it ([[a practice reconditions the frame rather than clearing it]]) — and one clause of it prices this step's own design, since a practice that describes its destination manufactures the expectation it later confirms ([[a practice that describes its destination manufactures the expectation it later confirms]]).
 
 5. **Suffering on this account is fullness contracted rather than a self damaged, and the analysis of an absence points at its own remedy.** The doctrine is stated at [[suffering is contraction never corruption]], and the field it sits in divides into five theories of where suffering lives ([[the transformation field divides into five theories of where suffering lives]]). The operative content is the book's signature move: a suffering-state analyzed as a compound with a missing ingredient names what to supply ([[the diagnosis contains the cure]]). The privation reading that underwrites it is an independent arrival across five unrelated fields ([[the privation move is an independent arrival across five fields rather than a book coinage]]), which by the vault's own criteria makes it centerpiece material presented as system material. And the tradition's answer to why fullness contracts at all is play — a hiding whose whole point is the finding, with Winnicott arriving at the same boundary rule independently: it is a joy to be hidden and a disaster not to be found ([[a hiding that never intends to be found has stopped being play]]). The occasion this doctrine answers is now stated in claims of its own: the reader is not short on self-knowledge but drowning in it ([[the book opens from a surplus of insight rather than a lack of it]]), and the available vocabularies force a choice between precision that presumes malfunction and dignity that goes vague — the diagnostic language the doctrine attempts is the third option ([[the offered menu is precision that costs dignity or dignity that costs precision]]).
 
@@ -34,7 +34,7 @@ Fourteen steps in three movements. Each step names the claim that carries it, an
 
 The first version of this sequence had none of the following four steps, and the omission had a measurable shape: the lived practice is one of the author's two named centerpieces and the graph carried it in three practice-category notes out of 246 when the review ran — after the weave the count is three out of 310, so the diagnosis has strengthened rather than aged. These steps are carried by claims that already exist; where the claims are thin, the step says so.
 
-8. **The book's addressee already had the big experience, and it did not hold — and the mechanism for why is one sentence.** The author defined the reader by that biographical fact and shifted the promise accordingly: "you already did, it didn't hold, here's why, and here's what to do about that" (`ops/methodology/the book's current shape.md`, his statement of 2026-08-04, which this step restates). The mechanism: a state is interpreted by the structure that receives it, and nothing about having the experience changes the interpreting structure ([[an enormous experience is interpreted by the structure it did not change]] — the most-linked claim in the graph that the first version did not cite). The clinical literature grounds the same premise: the afterglow decays on a measured curve, and what persists tracks the completeness of the experience and the practice that follows it rather than the peak ([[what the big experience leaves behind depends on what follows it]]). The corpus's own reader definition now stands beside the author's, recorded as different sentences rather than run together: the book is written for people who overthink because they oversense, needing rigor and the sacred in one sentence ([[the book addresses people who overthink because they oversense]]), and the surplus-of-insight problem statement supplies the second type's mechanism — the insight held between oneself and the experience ([[the book opens from a surplus of insight rather than a lack of it]]). The road's length is now priced by its own witnesses: every witness who grants the householder road prices it in months to decades, with the sudden-change literature kept beside them as the honest counterpoint ([[the householder road is priced long by every witness who grants it]]).
+8. **The book's addressee already had the big experience, and it did not hold — and the mechanism for why is one sentence.** The author defined the reader by that biographical fact and shifted the promise accordingly: "you already did, it didn't hold, here's why, and here's what to do about that" (`ops/methodology/the book's current shape.md`, his statement of 2026-08-04, which this step restates). The mechanism: a state is interpreted by the structure that receives it, and nothing about having the experience changes the interpreting structure ([[an enormous experience is interpreted by the structure it did not change]] — the most-linked claim in the graph that the first version did not cite). The clinical literature grounds the same premise: the afterglow decays on a measured curve, and what persists tracks the completeness of the experience and the practice that follows it rather than the peak ([[what the big experience leaves behind depends on what follows it]]). The corpus's own reader definition now stands beside the author's, recorded as different sentences rather than run together: the book is written for people who overthink because they oversense, needing rigor and the sacred in one sentence ([[the book addresses people who overthink because they oversense]]), and the surplus-of-insight problem statement supplies the second type's mechanism — the insight held between oneself and the experience ([[the book opens from a surplus of insight rather than a lack of it]]). The road's length is now priced by its own witnesses: every witness who grants the householder road prices it in months to decades, with the sudden-change literature kept beside them as the honest counterpoint ([[the householder road is priced long by every witness who grants it]]). The corpus's own statement of the premise landed on 2026-08-08: the peak is the opening rather than the work, and the after-window is plastic without being directional, so a reader who returns to a corrosive setting consolidates the corrosion ([[the peak is the opening and the book is built for what follows it]]).
 
 9. **The practice is one posture, defined so that failing at it is doing it.** The posture is presence without agenda while remaining available to act, and it is a point of return rather than a state — falling out and returning is the practice, not a failure of it ([[the basic practice posture is a point of return rather than a state]]). A dozen unrelated vocabularies orbit the same posture, which is the practice pole's counterpart to the thinkers' convergence ([[unrelated traditions converge on presence without agenda while remaining available to act]]). The practice refuses instrumentality on its own authority: it is the expression of realization rather than a means to it, which sits unresolved against the book's own promise of transformation ([[the practice is the expression of realization rather than a means to it]]). The honest gap is recorded beside the doctrine: the practice forms specify when to begin and never how to tell one is finished ([[the practice forms specify when to begin and not how to tell one is finished]]). The curriculum's own organizing thesis landed in the weave: the practices are facilitation moves scaled to one reader, who is trained to become their own room, and the two directions of presence are one skill ([[the book's practices are facilitation moves scaled to one reader]]) — with its first measured support on the practitioner side, since the alliance effect is carried by the practitioner rather than the person helped, and its untested bet stated plainly: nothing measures the skill transferring to a reader holding a container for themselves ([[the practitioner rather than the person being helped carries the alliance effect]]).
 
@@ -44,13 +44,13 @@ The first version of this sequence had none of the following four steps, and the
 
 ### Third movement — what the book is, and where it came from
 
-12. **The participation law decides what the book can be to its reader, and the answer is an instrument rather than an authority — an authority the reader must be able to attack.** The book can only be auxiliary to a sovereign reader, serving a life that remains the reader's own ([[the book can only be auxiliary to a sovereign reader]]), and it installs that relation on page one by presenting itself as a tuning fork whose sound depends on the reader striking it ([[the book is a tuning fork and the reader is the striking surface]]). The everyday case the doctrine has to survive is that the ordinary Tuesday is the site, not the retreat ([[the tuesday is the temple]]). The design debt is recorded with the doctrine: the book asserts that a genuine refusal is sacred and never stages one, so the resisting reader has no modeled place to put the resistance ([[the reader's resistance has nowhere to land]]). The weave gave the sovereignty doctrine a job it was not known to have: it selects which second person the book may ship, because an instrument can offer the reader a mirror and cannot offer a judge without becoming an authority ([[the required second person splits into a judge and a mirror]]); and the company is to be held as something the reader joins rather than consults, which means a canon whose questions are all settled leaves the reader no argument to enter ([[the company is joined by the reader rather than consulted]]).
+12. **The participation law decides what the book can be to its reader, and the answer is an instrument rather than an authority — an authority the reader must be able to attack.** The book can only be auxiliary to a sovereign reader, serving a life that remains the reader's own ([[the book can only be auxiliary to a sovereign reader]]), and it installs that relation on page one by presenting itself as a tuning fork whose sound depends on the reader striking it ([[the book is a tuning fork and the reader is the striking surface]]). The everyday case the doctrine has to survive is that the ordinary Tuesday is the site, not the retreat ([[the tuesday is the temple]]). The design debt is recorded with the doctrine: the book asserts that a genuine refusal is sacred and never stages one, so the resisting reader has no modeled place to put the resistance ([[the reader's resistance has nowhere to land]]). Winnicott's object-usage paper, read whole on 2026-08-08, decides how that debt may be paid: the destruction has to originate with the reader, so a refusal the book stages for itself is the object protecting itself and produces the reader who enjoys the book and does not change ([[a refusal the book writes for itself fails the warrant the design cites]]). The weave gave the sovereignty doctrine a job it was not known to have: it selects which second person the book may ship, because an instrument can offer the reader a mirror and cannot offer a judge without becoming an authority ([[the required second person splits into a judge and a mirror]]); and the company is to be held as something the reader joins rather than consults, which means a canon whose questions are all settled leaves the reader no argument to enter ([[the company is joined by the reader rather than consulted]]).
 
 13. **The same law decides what the book's own completion requires, which is being answered.** A word held at the inner level can be perfected indefinitely and a word spoken aloud can be answered ([[a word at madhyama can be perfected forever a word at vaikhari can be answered]]); the manuscript's own unsent state is the live tension this produces ([[seventeen chapters rest at madhyama]]); and the book's native genre is the letter, because the one confirmed sighting of the recognition it promises happened at 4am reading a decade-old letter from a friend, alone ([[the book's native genre is the letter from a friend read alone]]). The counterface is kept: the held container is also the room where a word can be perfected forever ([[the perfectible conversation is the manuscript's most comfortable room]]). The weave stated the reading posture positively — the capacity to be alone in the presence of another is the exact posture the book wants from its reader, solitude held inside relationship, with Storr waiting as its named opponent from inside its own lineage ([[the reader's working posture is solitude held inside relationship]]) — and gave the genre claim its first measured evidence: the working alliance holds its size when the exchange is written, mediated, and asynchronous, with the limit kept attached that every measured case has a person on the other end who answers ([[the alliance holds its size when the exchange is mediated and written]]). Release and readership are the author's lane by his own decision.
 
 14. **The record of the making supports a smaller and stronger origin story than the corpus tells, and the audit of the system says what survives its demotion.** The author noticed things first, in his own words about his own life, and the scholarship arrived afterward and dressed them ([[the book's honest origin story is noticing first and finding company after]]); the poems are the headwaters and the corpus quotes them rather than the reverse ([[the corpus quotes the author's poems rather than the poems quoting the corpus]]); the making itself ran the law the book states, container-built at every documented scale ([[the making of the book enacts the law the book states]]). The author's decision demoting the system vocabulary from centerpiece to support is [[the system is scaffolding rather than the centerpiece]]; the complete formula audit found the notation records composition while every teaching is about a relation ([[the chemistry's teachings are structural and its notation is only compositional]]); and two things stand once the apparatus is set aside — a discipline of specificity ([[the diagnostic discipline survives the apparatus that carries it]]), and the kindness of structural diagnosis, which turns distress from a verdict about character into a question about machinery ([[distress is a question about machinery not a verdict about character]]). The origin story now carries its one recorded exception — at the book's own foundation the company came first, through the 2017 course ([[the book's heideggerian foundation has never been given the independence test the vault applies to others]]) — and the primary layer's support deepened under the correspondence license: the authorial first person frames while the poems carry the lived testimony ([[the authorial first person frames while the poems carry the lived testimony]]), and four molecule names stand in the poems as poem words with their contents ([[four molecule names stand in the poems as poem words with their contents]]).
 
-One reorganization now runs under four of these steps at once, and the weave is what made it visible whole. Four routes with no contact arrive at one structure — the body reports and the relation verifies: the standard's own author, whose footnote says solitary focusing circles without movement while a little said to another person produces it ([[the second chair is the verification standard's own requirement]]); a thousand-year institution inside the practice lineages, the Zen interview room ([[zen's makyo instruction refuses the self-certifying experience]]); the standard's two published attackers, who agree with each other that the failure's mechanism is the absence of correction by another person ([[both attacks on the standard blame the absence of correction by another person]]); and the largest measured evidence base the vault holds, the alliance findings of step 6, which nobody has yet formally joined to the other three. Stated with its qualifications — neither attacker prescribes the remedy, the second person splits into a judge the book cannot ship and a mirror it can, the relational form has Storr as its waiting opponent, and every measured case has a live responder — the position is this: the solitary in-the-moment somatic check has one bearer and no company, the check joined to a second person and to aftermath has convergent company from four directions including its own opponents, and the book's structural problem is not that its standard is indefensible but that the standard's defensible form requires a person the codex cannot supply. Steps 4, 6, 12, and 13 share that sentence, and the first drafting pass has already written the defense from it (`drafts/brief — the verification standard's defense.md` and the draft beside it, both provisional and the author's to cut).
+One reorganization now runs under four of these steps at once, and the weave is what made it visible whole. Four routes with no contact arrive at one structure — the body reports and the relation verifies: the standard's own author, whose footnote says solitary focusing circles without movement while a little said to another person produces it ([[the second chair is the verification standard's own requirement]]); a thousand-year institution inside the practice lineages, the Zen interview room ([[zen's makyo instruction refuses the self-certifying experience]]); the standard's two published attackers, who agree with each other that the failure's mechanism is the absence of correction by another person ([[both attacks on the standard blame the absence of correction by another person]]); and the largest measured evidence base the vault holds, the alliance findings of step 6, which nobody has yet formally joined to the other three. Stated with its qualifications — neither attacker prescribes the remedy, the second person splits into a judge the book cannot ship and a mirror it can, the relational form has Storr as its waiting opponent, and every measured case has a live responder — the position is this: the solitary in-the-moment somatic check has one bearer and no company, the check joined to a second person and to aftermath has convergent company from four directions including its own opponents, and the book's structural problem is not that its standard is indefensible but that the standard's defensible form requires a person the codex cannot supply. Steps 4, 6, 12, and 13 share that sentence, and the first drafting pass has already written the defense from it (`drafts/brief — the verification standard's defense.md` and the draft beside it, both provisional and the author's to cut). **Two primary readings on 2026-08-08 added a fifth and sixth route and changed the position's character.** Winnicott's object-usage paper supplies the object-relations route: a person places another outside their own omnipotent control by attacking them and finding them still there, and the sequence needs an object that is present to receive the message that it was destroyed, which a codex cannot be ([[a book survives destruction by construction and cannot receive the reader's communication]]). Vygotsky's internalization chapter supplies the developmental route, and it is the heaviest of the six, because it says the inner version of a self-regulating function is built out of an outer version that an actual other person answered, over a long time ([[the internalization law reaches self-mastery and demands a relation that answers]]). The four earlier routes made the second person an epistemic requirement — without one, the reader cannot certify what they report. These two make it a developmental and relational requirement — without one, on these accounts, the capacity does not form at all. The book's structural problem is therefore larger than the outline stated this morning, and its shape is unchanged: everything the book most wants to do asks for a person the book cannot be, and the correspondence's whole wager is that being genuinely written to is close enough.
 
 The law that binds all fourteen to each other and to the prose is the book's one statement about itself: it performs what it describes ([[the book performs what it describes]]) — now with its one recorded boundary: the peak is the unit the performing law can honor only by withdrawing, since a peak that performed itself would be an engineered epiphany ([[the peak is the one unit the performing law can honor only by withdrawing]]).
 
@@ -81,7 +81,7 @@ This register is the anti-census: the census below counts what exists, this sect
 
 **One claim away, no reading required** (each has a full route in `ops/queue/claim candidates.md`):
 
-- **The peak is not the work; the peak is the opening, and the book is structurally an integration technology** (abridged ch11–12; space-around p. 4). The strongest corpus statement of step 8's premise, unextracted.
+- *Retired 2026-08-08 by extraction:* the peak-as-opening thesis landed as [[the peak is the opening and the book is built for what follows it]], with the executed draft's plasticity pricing attached — the window is neutral in direction, and a bad setting consolidates harm. Step 8 now cites it.
 - **Ripening is permission rather than effort, and the metabolic question replaces force with alignment** (abridged ch10 — "the orchard does not strain to bear"; abridged ch15; atlas §V.3–V.4; first-telling, "the practice" — "ripeness is real, and the body senses it before the mind can justify it"). No step above is about time, and the vault holds the doctrine only in fragments: the inheritance filed as provenance ([[the book's doctrine of time restates a sentence the author's father told him]] — every temporal doctrine varies "you're right on schedule"), the vault-facing [[ripeness is not refrigeration]], and two image notes.
 - *Retired 2026-08-08 by the weave, in two claims:* the abundance occasion landed as [[the book opens from a surplus of insight rather than a lack of it]] and the vocabulary menu as [[the offered menu is precision that costs dignity or dignity that costs precision]], which also carries the aim sentence answering the third limb. One residue is recorded rather than dropped: no claim carries "what is missing is an alphabet" as the occasion's own clause, and if the author wants it, it is a narrowed new entry.
 - **The cure for a structure is structural** — "you do not meditate your way out of a broken on-call rotation" (walked VII; atlas §XI.2b). The corpus's own guard against its genre's blind spot, uncarried.
@@ -106,26 +106,26 @@ The anti-census carries the same obligation in the opposite direction, and no sc
 
 ## What the vault holds
 
-The graph carries **296 notes beneath the maps** — claims, thinkers, tensions and the rest — gathered by 12 topic maps under `notes/index.md`, and joined to each other by 1612 wiki links. By category: 118 claim, 64 interlocutor, 34 structure, 26 tension, 18 craft, 17 isomorph, 12 image, 4 open-question, 3 practice.
+The graph carries **304 notes beneath the maps** — claims, thinkers, tensions and the rest — gathered by 12 topic maps under `notes/index.md`, and joined to each other by 1703 wiki links. By category: 126 claim, 64 interlocutor, 34 structure, 26 tension, 18 craft, 17 isomorph, 12 image, 4 open-question, 3 practice.
 
-By development state: 68 full, 23 privated, 12 nascent; the remaining 193 carry no state field. Tensions stand at 20 live and 6 treated, and resolving one is the author's act rather than a session's.
+By development state: 76 full, 23 privated, 12 nascent; the remaining 193 carry no state field. Tensions stand at 19 live and 7 treated, and resolving one is the author's act rather than a session's.
 
 ## The propositions the graph leans on hardest
 
 These are the twelve claims that the largest number of other claims link to, across the whole graph and irrespective of concern. A proposition arrives here because sessions kept needing it to state something else, which is evidence about the material rather than a judgment about the book.
 
-- [[felt shift versus felt confirmation]] — 34 claims link to it
+- [[felt shift versus felt confirmation]] — 36 claims link to it
 - [[nothing enters the lattice the body has not countersigned]] — 28 claims link to it
 - [[transformation is enacted participation inside a held container]] — 27 claims link to it
-- [[aletheia and pratyabhijna converge on truth as un-forgetting]] — 25 claims link to it
+- [[aletheia and pratyabhijna converge on truth as un-forgetting]] — 26 claims link to it
+- [[the tuesday is the temple]] — 26 claims link to it
 - [[the convergence's independence fails where three of its names share one teacher]] — 25 claims link to it
-- [[the tuesday is the temple]] — 23 claims link to it
+- [[the book's native genre is the letter from a friend read alone]] — 22 claims link to it
+- [[an enormous experience is interpreted by the structure it did not change]] — 21 claims link to it
 - [[introspective access is the felt shift's undefended premise]] — 21 claims link to it
 - [[the field between two people does work]] — 21 claims link to it
 - [[suffering is contraction never corruption]] — 20 claims link to it
-- [[the book's native genre is the letter from a friend read alone]] — 20 claims link to it
-- [[the system is scaffolding rather than the centerpiece]] — 19 claims link to it
-- [[the transformation field divides into five theories of where suffering lives]] — 19 claims link to it
+- [[the transformation field divides into five theories of where suffering lives]] — 20 claims link to it
 
 ## The material by concern
 
@@ -133,31 +133,31 @@ One section per topic map, which is the vault's own division of the book's conce
 
 ### Doctrine — the six masses the atlas's closing section resolves the field into, listed by centrality rather than in the atlas's order
 
-**[[recognition]]** — 47 claims
+**[[recognition]]** — 50 claims
 
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]]  (isomorph)
 - [[the tuesday is the temple]]
 - [[an enormous experience is interpreted by the structure it did not change]]  (privated)
-- [[reading is remembering]]
-- [[both poles of the convergence refuse the engineered epiphany]]  (isomorph)
 - [[the kashmir shaiva tradition would decline four of the book's deepest moves]]
+- [[both poles of the convergence refuse the engineered epiphany]]  (isomorph)
+- [[reading is remembering]]
 - [[martin heidegger]]  (chair, thesis-bearing)
 - [[the crossover has footsteps and the book already seats some of the walkers]]
-- *and 39 more, listed in full at [[recognition]]*
+- *and 42 more, listed in full at [[recognition]]*
 
-**[[felt-shift]]** — 57 claims
+**[[felt-shift]]** — 62 claims
 
 - [[felt shift versus felt confirmation]]  (tension, live)
 - [[nothing enters the lattice the body has not countersigned]]
-- [[introspective access is the felt shift's undefended premise]]  (tension, privated, live)
 - [[an enormous experience is interpreted by the structure it did not change]]  (privated)
+- [[introspective access is the felt shift's undefended premise]]  (tension, privated, live)
 - [[the basic practice posture is a point of return rather than a state]]  (practice)
+- [[the verification standard rests on one name and cannot be defended by company]]  (structure)
 - [[both poles of the convergence refuse the engineered epiphany]]  (isomorph)
-- [[eugene gendlin]]  (chair, thesis-bearing)
 - [[the felt sense rejects formulations and that friction is what separates it from fluency]]
-- *and 49 more, listed in full at [[felt-shift]]*
+- *and 54 more, listed in full at [[felt-shift]]*
 
-**[[relational-field]]** — 43 claims
+**[[relational-field]]** — 46 claims
 
 - [[transformation is enacted participation inside a held container]]  (isomorph)
 - [[the field between two people does work]]
@@ -167,9 +167,9 @@ One section per topic map, which is the vault's own division of the book's conce
 - [[grief cannot complete alone]]
 - [[grief is sever plus love plus persist]]
 - [[the participation law has a witness who came to it through crystallography]]  (isomorph, privated)
-- *and 35 more, listed in full at [[relational-field]]*
+- *and 38 more, listed in full at [[relational-field]]*
 
-**[[answerability]]** — 27 claims
+**[[answerability]]** — 28 claims
 
 - [[the book's native genre is the letter from a friend read alone]]
 - [[seventeen chapters rest at madhyama]]  (tension, live)
@@ -179,7 +179,7 @@ One section per topic map, which is the vault's own division of the book's conce
 - [[the sixteenth poem returns the book's language to the life it came from]]  (structure)
 - [[a framework for what is happening is itself a protective factor]]  (privated)
 - [[the book is a tuning fork and the reader is the striking surface]]  (image)
-- *and 19 more, listed in full at [[answerability]]*
+- *and 20 more, listed in full at [[answerability]]*
 
 **[[contraction-not-corruption]]** — 41 claims
 
@@ -190,7 +190,7 @@ One section per topic map, which is the vault's own division of the book's conce
 - [[the compound diagnoses may relocate a structural condition inside a person]]  (tension, treated)
 - [[grief is sever plus love plus persist]]
 - [[the apparatus descends from the settlement the book positions itself against]]
-- [[the chemistry's teachings are structural and its notation is only compositional]]
+- [[the diagnostic discipline survives the apparatus that carries it]]
 - *and 33 more, listed in full at [[contraction-not-corruption]]*
 
 **[[container-anatomy]]** — 22 claims
@@ -207,29 +207,29 @@ One section per topic map, which is the vault's own division of the book's conce
 
 ### Structural — the maps that gather the work about the book rather than the book's own propositions
 
-**[[interlocutors]]** — 113 claims
+**[[interlocutors]]** — 115 claims
 
 - [[transformation is enacted participation inside a held container]]  (isomorph)
 - [[the convergence's independence fails where three of its names share one teacher]]
-- [[the system is scaffolding rather than the centerpiece]]  (structure)
 - [[the transformation field divides into five theories of where suffering lives]]
+- [[the system is scaffolding rather than the centerpiece]]  (structure)
 - [[the unanimity claim is an artifact of how the lineages were selected]]  (structure)
-- [[eugene gendlin]]  (chair, thesis-bearing)
 - [[the kashmir shaiva tradition would decline four of the book's deepest moves]]
-- [[unrelated traditions converge on presence without agenda while remaining available to act]]  (isomorph)
-- *and 105 more, listed in full at [[interlocutors]]*
+- [[the verification standard rests on one name and cannot be defended by company]]  (structure)
+- [[eugene gendlin]]  (chair, thesis-bearing)
+- *and 107 more, listed in full at [[interlocutors]]*
 
-**[[book-structure]]** — 87 claims
+**[[book-structure]]** — 89 claims
 
 - [[the book's native genre is the letter from a friend read alone]]
-- [[the system is scaffolding rather than the centerpiece]]  (structure)
 - [[the book performs what it describes]]
+- [[the system is scaffolding rather than the centerpiece]]  (structure)
 - [[reading is remembering]]
 - [[the book cannot tell dissolution from regression and neither can its reader]]  (tension, privated, live)
 - [[the atlas was compiled from the arc and gloss treatment]]  (structure)
 - [[the nearest prior attempts are case histories rather than interlocutors]]  (structure, privated)
-- [[beauty recruits the wrong posture]]  (tension, live)
-- *and 79 more, listed in full at [[book-structure]]*
+- [[a developmental scheme handed to practitioners becomes a ranking of persons]]  (tension, privated, live)
+- *and 81 more, listed in full at [[book-structure]]*
 
 **[[tensions]]** — 38 claims
 
@@ -237,18 +237,18 @@ One section per topic map, which is the vault's own division of the book's conce
 - [[introspective access is the felt shift's undefended premise]]  (tension, privated, live)
 - [[seventeen chapters rest at madhyama]]  (tension, live)
 - [[a codex is a one-chair technology making a two-chair argument]]  (tension, live)
-- [[the book cannot tell dissolution from regression and neither can its reader]]  (tension, privated, live)
 - [[the felt sense rejects formulations and that friction is what separates it from fluency]]
+- [[the book cannot tell dissolution from regression and neither can its reader]]  (tension, privated, live)
+- [[the felt shift certifies carrying forward rather than correspondence]]
 - [[the tradition the book owes most has no chair in its company]]  (tension, live)
-- [[surrender and will are adjudicated from the body rather than from doctrine]]  (tension, live)
 - *and 30 more, listed in full at [[tensions]]*
 
 **[[research-frontier]]** — 43 claims
 
 - [[hartmut rosa]]  (chair)
 - [[a genuine felt shift changes what can be said next]]
-- [[andrea jain]]  (chair)
 - [[steven katz]]  (chair, adversary)
+- [[andrea jain]]  (chair)
 - [[the corpus names the standard its found-not-invented axiom has not met]]
 - [[ignatius of loyola]]  (chair, independent-arrival)
 - [[the householder claim has no witness outside the indic world]]  (open question, privated)
@@ -261,10 +261,10 @@ One section per topic map, which is the vault's own division of the book's conce
 - [[the convergence's independence fails where three of its names share one teacher]]
 - [[the book performs what it describes]]
 - [[the unanimity claim is an artifact of how the lineages were selected]]  (structure)
+- [[the verification standard rests on one name and cannot be defended by company]]  (structure)
 - [[ripeness is not refrigeration]]
 - [[the atlas was compiled from the arc and gloss treatment]]  (structure)
 - [[the author curated and vetoed while the collaborator wrote the correspondences]]  (structure)
-- [[the verification standard rests on one name and cannot be defended by company]]  (structure)
 - *and 17 more, listed in full at [[methods]]*
 
 **[[open-questions]]** — 6 claims
@@ -280,71 +280,75 @@ One section per topic map, which is the vault's own division of the book's conce
 
 The groupings below are computed rather than declared: claims are nodes, wiki links between them are edges, and the regions come from modularity maximization over that graph. A region found this way cannot be a table of contents in disguise, which is why the author asked for this measurement rather than a chapter-keyed one (`ops/convergence points.md`, which interprets the same instrument at length). Modularity is a heuristic and boundaries move between runs; **no region here is a unit of the book.**
 
-**Region 1 — 87 notes**, of which 5 are thinkers and 9 are tensions (8 live); 3 claims in it are privated, meaning complete but incomplete in a named way, usually a reading not yet done.
+**Region 1 — 93 notes**, of which 29 are thinkers and 7 are tensions (5 live); 13 claims in it are privated, meaning complete but incomplete in a named way, usually a reading not yet done.
 
-- [[the field between two people does work]]
+- [[transformation is enacted participation inside a held container]]  (isomorph)
+- [[the convergence's independence fails where three of its names share one teacher]]
+- [[an enormous experience is interpreted by the structure it did not change]]  (privated)
+- [[suffering is contraction never corruption]]
+- [[the transformation field divides into five theories of where suffering lives]]
+- [[the system is scaffolding rather than the centerpiece]]  (structure)
+- [[the unanimity claim is an artifact of how the lineages were selected]]  (structure)
+- [[the diagnosis contains the cure]]
+
+**Region 2 — 84 notes**, of which 12 are thinkers and 8 are tensions (6 live); 4 claims in it are privated, meaning complete but incomplete in a named way, usually a reading not yet done.
+
+- [[the tuesday is the temple]]
 - [[the book's native genre is the letter from a friend read alone]]
+- [[the field between two people does work]]
 - [[the book performs what it describes]]
 - [[the book can only be auxiliary to a sovereign reader]]
 - [[nothing transforms from the audience]]
 - [[seventeen chapters rest at madhyama]]  (tension, live)
-- [[a codex is a one-chair technology making a two-chair argument]]  (tension, live)
-- [[a word at madhyama can be perfected forever a word at vaikhari can be answered]]
-
-**Region 2 — 63 notes**, of which 16 are thinkers and 4 are tensions (2 live); 6 claims in it are privated, meaning complete but incomplete in a named way, usually a reading not yet done.
-
-- [[suffering is contraction never corruption]]
-- [[the system is scaffolding rather than the centerpiece]]  (structure)
-- [[an enormous experience is interpreted by the structure it did not change]]  (privated)
-- [[the diagnosis contains the cure]]
-- [[distress is a question about machinery not a verdict about character]]
-- [[the triad is the anatomy of every container]]
-- [[the author curated and vetoed while the collaborator wrote the correspondences]]  (structure)
-- [[ordinary names keep the deepest structures visible]]
-
-**Region 3 — 56 notes**, of which 24 are thinkers and 2 are tensions (2 live); 5 claims in it are privated, meaning complete but incomplete in a named way, usually a reading not yet done.
-
-- [[transformation is enacted participation inside a held container]]  (isomorph)
-- [[aletheia and pratyabhijna converge on truth as un-forgetting]]  (isomorph)
-- [[the convergence's independence fails where three of its names share one teacher]]
-- [[the transformation field divides into five theories of where suffering lives]]
-- [[the unanimity claim is an artifact of how the lineages were selected]]  (structure)
 - [[the kashmir shaiva tradition would decline four of the book's deepest moves]]
-- [[the tradition the book owes most has no chair in its company]]  (tension, live)
-- [[the atlas was compiled from the arc and gloss treatment]]  (structure)
 
-**Region 4 — 50 notes**, of which 9 are thinkers and 7 are tensions (5 live); 2 claims in it are privated, meaning complete but incomplete in a named way, usually a reading not yet done.
+**Region 3 — 49 notes**, of which 8 are thinkers and 7 are tensions (6 live); 1 claims in it are privated, meaning complete but incomplete in a named way, usually a reading not yet done.
 
 - [[felt shift versus felt confirmation]]  (tension, live)
 - [[nothing enters the lattice the body has not countersigned]]
 - [[introspective access is the felt shift's undefended premise]]  (tension, privated, live)
-- [[the felt sense rejects formulations and that friction is what separates it from fluency]]
-- [[unrelated traditions converge on presence without agenda while remaining available to act]]  (isomorph)
-- [[surrender and will are adjudicated from the body rather than from doctrine]]  (tension, live)
-- [[the felt shift certifies carrying forward rather than correspondence]]
 - [[the verification standard rests on one name and cannot be defended by company]]  (structure)
+- [[the felt sense rejects formulations and that friction is what separates it from fluency]]
+- [[the felt shift certifies carrying forward rather than correspondence]]
+- [[surrender and will are adjudicated from the body rather than from doctrine]]  (tension, live)
+- [[beauty recruits the wrong posture]]  (tension, live)
 
-**Region 5 — 29 notes**, of which 8 are thinkers and 4 are tensions (3 live); 6 claims in it are privated, meaning complete but incomplete in a named way, usually a reading not yet done.
+**Region 4 — 39 notes**, of which 8 are thinkers and 1 are tensions (1 live); 0 claims in it are privated, meaning complete but incomplete in a named way, usually a reading not yet done.
+
+- [[aletheia and pratyabhijna converge on truth as un-forgetting]]  (isomorph)
+- [[reading is remembering]]
+- [[the tradition the book owes most has no chair in its company]]  (tension, live)
+- [[the book's honest origin story is noticing first and finding company after]]
+- [[the corpus quotes the author's poems rather than the poems quoting the corpus]]  (structure)
+- [[all six doctrine concerns appear in the first fifteen poems]]
+- [[the figures precede the system by a year and the two were welded together later]]  (structure)
+- [[reading as remembering has a twenty-four-century ancestry in the west]]
+
+**Region 5 — 24 notes**, of which 4 are thinkers and 3 are tensions (1 live); 4 claims in it are privated, meaning complete but incomplete in a named way, usually a reading not yet done.
 
 - [[the basic practice posture is a point of return rather than a state]]  (practice)
-- [[the book cannot tell dissolution from regression and neither can its reader]]  (tension, privated, live)
-- [[the nearest prior attempts are case histories rather than interlocutors]]  (structure, privated)
-- [[a framework for what is happening is itself a protective factor]]  (privated)
+- [[unrelated traditions converge on presence without agenda while remaining available to act]]  (isomorph)
 - [[psychedelic names a movement not a substance]]
 - [[the practice is the expression of realization rather than a means to it]]
+- [[a framework for what is happening is itself a protective factor]]  (privated)
 - [[the basic posture is describable as dissociation and the harm literature is unread]]  (tension, privated, live)
 - [[a synthesis organized by the schemes offers to promote them back to architecture]]  (tension, treated)
+- [[flourishing flow and facilitation converged on one stance in the author's own record]]  (structure)
 
-**Region 6 — 11 notes**, of which 2 are thinkers and 0 are tensions (0 live); 1 claims in it are privated, meaning complete but incomplete in a named way, usually a reading not yet done.
+**Region 6 — 7 notes**, of which 1 are thinkers and 0 are tensions (0 live); 1 claims in it are privated, meaning complete but incomplete in a named way, usually a reading not yet done.
 
-- [[the tuesday is the temple]]
-- [[the householder claim has no witness outside the indic world]]  (open question, privated)
-- [[four named units of the arc appear as pages inside the earliest edition's single chapter]]  (structure)
-- [[the house with no ceiling is transcendence with plumbing]]  (image)
-- [[seasonal and weekly form can be templated]]  (nascent)
-- [[the earlier contents distribute transcendence where the arc concentrates a peak]]  (structure)
-- [[the mythic operating system contents hold four territories the arc drops]]  (structure)
-- [[the morning is where a day acquires its coherence]]  (nascent)
+- [[the making of the book enacts the law the book states]]  (structure)
+- [[structure-preserving transformation is a method-bearing claim rather than a directional one]]  (privated)
+- [[a person lives inside symbolic infrastructures they have built]]  (nascent)
+- [[an externalized system can be built to hold a self rather than only its information]]
+- [[the per-chapter dial is a spanda ratio]]  (structure)
+- [[thisness is the grain of the container anatomy]]
+
+**Region 7 — 5 notes**, of which 2 are thinkers and 0 are tensions (0 live); 0 claims in it are privated, meaning complete but incomplete in a named way, usually a reading not yet done.
+
+- [[what the big experience leaves behind depends on what follows it]]
+- [[the peak is the opening and the book is built for what follows it]]
+- [[the householder road is priced long by every witness who grants it]]
 
 ## What the corpus's named units already have claims about
 
@@ -356,19 +360,19 @@ This panel is a provenance lookup and nothing more: for each named unit of the f
 | The Ink That Listens | 6 | [[the drafts disagree about which person the book speaks in]]; [[the ink that listens is the relational field at the scale of a page]] |
 | The Geometry of Becoming | 2 | [[four named units of the arc appear as pages inside the earliest edition's single chapter]]; [[the executed draft stages a concept by cataloguing the reader's own remembered scenes]] |
 | The Generative Triad | 6 | [[the prose drafts use the vetoed triad names]]; [[the triad predates the author's contact with the tradition named the triad]] |
-| The Alphabet of the Soul | 9 | [[the apparatus descends from the settlement the book positions itself against]]; [[the chemistry's teachings are structural and its notation is only compositional]] |
-| The Molecules of Experience | 16 | [[the apparatus descends from the settlement the book positions itself against]]; [[the chemistry's teachings are structural and its notation is only compositional]] |
+| The Alphabet of the Soul | 9 | [[the apparatus descends from the settlement the book positions itself against]]; [[the diagnostic discipline survives the apparatus that carries it]] |
+| The Molecules of Experience | 16 | [[the apparatus descends from the settlement the book positions itself against]]; [[the diagnostic discipline survives the apparatus that carries it]] |
 | The Three Loops | 12 | [[the transformation field divides into five theories of where suffering lives]]; [[surrender and will are adjudicated from the body rather than from doctrine]] |
 | The Third Entity | 11 | [[the apparatus descends from the settlement the book positions itself against]]; [[the chemistry's teachings are structural and its notation is only compositional]] |
 | Erotic-Spiritual Intelligence | 3 | [[wilhelm reich]]; [[the treatment records four authorship conditions in its undercurrents]] |
 | The Way of Ripening | 3 | [[four named units of the arc appear as pages inside the earliest edition's single chapter]]; [[the executed draft announces a register change before performing it]] |
-| The Psychedelic Moment | 7 | [[the gatekeeper is met with a bow never a fight]]; [[abraham maslow]] |
-| The Afterglow | 12 | [[the apparatus descends from the settlement the book positions itself against]]; [[four named units of the arc appear as pages inside the earliest edition's single chapter]] |
+| The Psychedelic Moment | 8 | [[the gatekeeper is met with a bow never a fight]]; [[abraham maslow]] |
+| The Afterglow | 13 | [[the apparatus descends from the settlement the book positions itself against]]; [[four named units of the arc appear as pages inside the earliest edition's single chapter]] |
 | The Stance | 10 | [[the system is scaffolding rather than the centerpiece]]; [[the book can only be auxiliary to a sovereign reader]] |
 | The Kata | 6 | [[the gatekeeper is met with a bow never a fight]]; [[the practice forms specify when to begin and not how to tell one is finished]] |
 | The Engineer's Eye | 4 | [[surrender and will are adjudicated from the body rather than from doctrine]]; [[the racket is the attractor state with a salary]] |
 
-Across the whole graph 77 of 296 claims carry an anchor precise enough to land in one of these rows. The other 219 — the thinkers, the tensions, the record of the making, and the outward research — were not extracted from a chapter and have no row to fall in, which is why this panel sits beneath the concern and region panels rather than above them.
+Across the whole graph 78 of 304 claims carry an anchor precise enough to land in one of these rows. The other 226 — the thinkers, the tensions, the record of the making, and the outward research — were not extracted from a chapter and have no row to fall in, which is why this panel sits beneath the concern and region panels rather than above them.
 
 ## What is thin, and what is unfinished
 
@@ -386,8 +390,8 @@ Across the whole graph 77 of 296 claims carry an anchor precise enough to land i
 
 **23 privated** — complete claims incomplete in a named way, almost all of them waiting on a primary work being read. This is the count that condition 2 of `ops/manuscript readiness.md` turns on, and the queue that closes it is `ops/reading queue.md`.
 
-- [[introspective access is the felt shift's undefended premise]]
 - [[an enormous experience is interpreted by the structure it did not change]]
+- [[introspective access is the felt shift's undefended premise]]
 - [[the book cannot tell dissolution from regression and neither can its reader]]
 - [[the nearest prior attempts are case histories rather than interlocutors]]
 - [[a developmental scheme handed to practitioners becomes a ranking of persons]]
@@ -396,7 +400,7 @@ Across the whole graph 77 of 296 claims carry an anchor precise enough to land i
 - [[the third thing has a mechanism in participatory sense-making]]
 - *and 15 more*
 
-**20 live tensions** — held open on purpose; the registry with each treatment under trial is [[tensions]].
+**19 live tensions** — held open on purpose; the registry with each treatment under trial is [[tensions]].
 
 - [[felt shift versus felt confirmation]]
 - [[introspective access is the felt shift's undefended premise]]
@@ -405,7 +409,7 @@ Across the whole graph 77 of 296 claims carry an anchor precise enough to land i
 - [[the book cannot tell dissolution from regression and neither can its reader]]
 - [[the tradition the book owes most has no chair in its company]]
 - [[surrender and will are adjudicated from the body rather than from doctrine]]
-- [[beauty recruits the wrong posture]]
-- *and 12 more*
+- [[a developmental scheme handed to practitioners becomes a ranking of persons]]
+- *and 11 more*
 
 <!-- END CENSUS -->
