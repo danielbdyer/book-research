@@ -10,7 +10,6 @@ The working checklist the /tasks, /next, and /ralph commands read; their stock r
 - [ ] Run the devices-by-audience sort over atlas §X.6: one question per device — does it do its whole work in the workshop if the reader never sees it — feeding the pilot's construction and guarding the regression the demotion removed (`ops/queue/forest panel, 2026-08-08.md`, panel three, offering 6).
 - [ ] Extract the first letter's one missing claim: the peak as opening and the book as integration technology, candidates entry 17, one session against abridged ch11–12 and the survey's bottleneck passage.
 - [ ] Seat or decline the evaluated candidates whose recommendations are recorded. The seating decisions are the author's; the vault's part is done, and `scripts/queries/candidate-seats.sh` reports the current set.
-- [ ] Seat or decline the evaluated candidates whose recommendations are recorded. The seating decisions are the author's; the vault's part is done, and `scripts/queries/candidate-seats.sh` reports the current set.
 - [ ] Source the instrument's counterweights in the processing-fluency and interoception literature (`candidates.md`, priority section, the last open member of the priority five).
 - [ ] After the next substantial batch of notes, refresh the qmd index (`qmd update && qmd embed`) — recurring; never checked off. The session hook fires a condition when notes outdate the index.
 
