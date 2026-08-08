@@ -209,6 +209,17 @@ if [ "$INBOX_COUNT" -ge 3 ]; then
   echo "CONDITION: $INBOX_COUNT items in inbox. Consider /reduce or /pipeline."
   FIRED=1
 fi
+# The roll-up at ops/outline.md carries a census generated from the notes. It is
+# committed rather than generated on demand, so that its git history is the
+# record of what emerged; the cost of that choice is that it goes stale silently
+# unless something says so. Added 2026-08-08 with the file.
+if [ -f ops/outline.md ]; then
+  STALE_OUTLINE=$(find notes -name '*.md' -newer ops/outline.md -print -quit 2>/dev/null)
+  if [ -n "$STALE_OUTLINE" ]; then
+    echo "CONDITION: notes have changed since the outline census was generated. Run scripts/queries/outline.sh."
+    FIRED=1
+  fi
+fi
 
 # Methodology staleness check (Rule Zero)
 if [ -d ops/methodology ] && [ -f ops/config.yaml ]; then
