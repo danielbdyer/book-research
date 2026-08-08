@@ -85,6 +85,7 @@ This concern borders [[contraction-not-corruption]], because the move from heali
 - [[the beauty tension restates the tradition's own boundary between rasa and recognition]] — the millennium-old line between relish that stays in the theater and recognition that is once-for-all
 
 - [[erhard and the book take different verbs from the same heideggerian object]] — the book's un-forgetting and Erhard's context-creation work on the same inherited structure, and his own name for mastery, "a context that uses you," is already middle-voiced
+- [[a practice reconditions the frame rather than clearing it]] — Katz's finding that contemplative training substitutes one conditioned consciousness for another, which describes acquisition at the place the disclosure doctrine claims disclosure
 
 ## What remains
 
