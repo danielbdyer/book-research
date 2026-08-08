@@ -24,6 +24,7 @@ The claim's positive form is what the record shows resolving it: the recognition
 ---
 
 Relevant Notes:
+- [[what is recognized cannot be un-recognized]] — the promise this finding limits, jointly with Zen's makyō instruction: what is recognized is irreversible as recognition and revocable as possession
 - [[grief cannot complete alone]] — the doctrine this shadows: witness as completion's requirement
 - [[nothing transforms from the audience]] — the adjacent law, which this claim extends to the witness's own exit: a witness kept becomes an audience of one's proof
 - [[the racket is the attractor state with a salary]] — the corpus's nearest existing structure: a fixed arrangement whose payoff is the reason it persists

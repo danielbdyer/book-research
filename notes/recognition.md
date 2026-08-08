@@ -42,6 +42,7 @@ The corpus also stations a warning at this concern and credits it to Lacan: reco
 - [[all six doctrine concerns appear in the first fifteen poems]] — the recognition doctrine in the primary layer: the answer already had, the inside already occupied, stated in the poems before the book existed
 - [[the recognition school installs wonder at the definition of consciousness]] — camatkāra tied to vimarśa by the founder himself, bridged to art by Abhinavagupta, with the theater-not-world difference kept
 - [[what the big experience leaves behind depends on what follows it]] — the clinical grounding of the shifted promise: the peak fades on a decay curve, and persistence tracks completeness and practice
+- [[the peak is the opening and the book is built for what follows it]] — the corpus's own statement of why an arrival does not persist by itself, with the after-window priced as morally neutral plasticity
 
 ### Nascent stubs
 
@@ -85,6 +86,8 @@ This concern borders [[contraction-not-corruption]], because the move from heali
 - [[the beauty tension restates the tradition's own boundary between rasa and recognition]] — the millennium-old line between relish that stays in the theater and recognition that is once-for-all
 
 - [[erhard and the book take different verbs from the same heideggerian object]] — the book's un-forgetting and Erhard's context-creation work on the same inherited structure, and his own name for mastery, "a context that uses you," is already middle-voiced
+- [[a practice reconditions the frame rather than clearing it]] — Katz's finding that contemplative training substitutes one conditioned consciousness for another, which describes acquisition at the place the disclosure doctrine claims disclosure
+- [[vygotsky's higher functions are acquired from outside rather than disclosed from within]] — the developmental contrary of the book's central finding, held whole rather than softened
 
 ## What remains
 

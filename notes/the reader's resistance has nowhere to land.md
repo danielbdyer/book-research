@@ -11,6 +11,8 @@ topics: ["[[tensions]]", "[[relational-field]]"]
 
 The book asserts that a genuine refusal is sacred, and in a book this confident, reader resistance will arrive. The assessment finds that the text never stages a refusal, so the resistance has no modeled place to sit — no example of the book being told no and surviving it.
 
+**The script for the second treatment already exists, written and author-tested, and the tension did not know it (added 2026-08-08).** The Doubting Hand asks for a margin voice that argues back and sometimes wins, and the vault holds four such arguments already: the Kashmir Śaiva tradition's refusals of four of the book's deepest moves, each derived from the tradition's own texts with locators, and each put to the author on 2026-08-03 ([[the kashmir shaiva tradition would decline four of the book's deepest moves]]). Their form is what makes them usable rather than their mere availability. A refusal that comes from one of the book's own two foundations is a refusal the book can lose to on purpose without condescending to the objector, because the objector is the source the book already honours — and the four are specific enough to argue: the tradition would decline recognition with the recognized removed, the sovereign reader as final cause, the book alone as vehicle, and the gesture where the text argues. The failable check this pairing needs is whether the margin voice as the atlas specifies it at §XI.1c can carry an objection of that weight, or whether a refusal from a foundation is too heavy for a margin and belongs in the running text.
+
 Two treatments are under trial. The Refusal Pass dramatizes a real no inside the text. The Doubting Hand adds a margin voice that argues against the book, including an argument the atlas specifies the book "loses on purpose, so it can be trusted when it wins" (atlas §XI.1c). The vault records that as the treatment's stated rationale, not as a demonstrated result. The theoretical warrant is Winnicott's account of object usage: an other becomes real only by surviving destruction without retaliating. The design intention is that the reader be able to attack the book and find it still standing.
 
 ## Substantiation
@@ -24,6 +26,9 @@ Two treatments are under trial. The Refusal Pass dramatizes a real no inside the
 ---
 
 Relevant Notes:
+- [[a refusal the book writes for itself fails the warrant the design cites]] — the reading of 2026-08-08 that disqualifies both treatments above in their author-written form, because Winnicott requires the destruction to originate with the subject
+- [[a book survives destruction by construction and cannot receive the reader's communication]] — the second half of the same reading, which says a codex meets the non-retaliation condition for free and cannot be there to hear that it was attacked
+- [[the kashmir shaiva tradition would decline four of the book's deepest moves]] — the four author-tested refusals that would supply the Doubting Hand its script, since each comes from one of the book's own foundations and is specific enough to argue with
 - [[the field between two people does work]] — the relational theory that supplies the object-usage warrant
 - [[a codex is a one-chair technology making a two-chair argument]] — the adjacent structural tension about what a book can host
 - [[the voice names the move it has just made]] — the treatment the earliest draft already executes, at sentence scale rather than apparatus scale

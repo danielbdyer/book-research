@@ -40,3 +40,5 @@ The honest transfer question is left open by the reading and is sharper for it. 
 - **What the alliance is.** The authors name the problem themselves: "Given the diversity in what researchers call the 'alliance,' we probably have collected and summarized different kinds of idiographic and nomothetic understandings," and they call the paper "a birds-eye view."
 - **The therapist-effects result at its own source.** Baldwin, Wampold and Imel 2007 and Del Re et al. 2012 are cited here rather than read, so finding 5 above stands on this paper's summary of them.
 - **Wampold's own theoretical argument.** *The Great Psychotherapy Debate* (Wampold and Imel 2015) is the contextual model this meta-analysis sits inside, and it is unread.
+
+**The text is kept.** The file this reading was made from is `readings/fluckiger et al 2018 — the alliance in adult psychotherapy.pdf`, saved into the repository on 2026-08-08 at the author's request so that a quotation here can be re-checked without re-fetching the paper; `readings/readings.md` records its retrieval address and date.

@@ -25,6 +25,7 @@ So the second chair is not a clever answer to a genre problem. **The book's own 
 ---
 
 Relevant Notes:
+- [[the verification standard rests on one name and cannot be defended by company]] — the note that now carries the narrowing this one helps make: the solitary somatic check has a single bearer, and the check joined to a second person has convergent company from four unrelated routes, of which this is one
 - [[a codex is a one-chair technology making a two-chair argument]] — the tension this deepens and whose treatment this grounds
 - [[the felt shift certifies carrying forward rather than correspondence]] — the same reading's central finding, of which this is the relational consequence
 - [[the book's native genre is the letter from a friend read alone]] — the five refusals of the solitary reading, which this joins from inside the book's own epistemology

@@ -39,3 +39,5 @@ The vault has held one position on this paper since the blind repeat pass of 202
 ## The disagreement this reading opened
 
 The vault holds two defenses of the felt shift against its fluent counterfeit, and this reading shows that they ask for opposite timings. Against a fluent page producing a bodily yes, the vault's repair is to make the discrimination slower and check it across days ([[a genuine felt shift changes what can be said next]]). Against the change-blindness finding, the paper's own reasoning says the later check is the weaker one, because a person comparing a present state against a remembered earlier state is doing the thing Goethals and Reckman's subjects failed at. The disagreement between the two defenses is recorded as its own tension and is not resolved here.
+
+**The text is kept.** The file this reading was made from is `readings/nisbett and wilson 1977 — telling more than we can know.pdf`, saved into the repository on 2026-08-08 at the author's request so that a quotation here can be re-checked without re-fetching the paper; `readings/readings.md` records its retrieval address and date.

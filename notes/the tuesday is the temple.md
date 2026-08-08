@@ -13,6 +13,8 @@ The corpus cites a fourteenth-century precedent: Meister Eckhart's Sermon 86 ran
 
 Two further refusals of the axiom have since been recorded, and both are worth more to the book than agreement would be. The early Heidegger reads everydayness as the domain of the They, where what discloses authentically is anxiety and being-toward-death rather than the kettle; his own later work, which philosophizes with a jug, a bridge, and a farmhouse, is the counterweight from inside the same body ([[martin heidegger]]). Michel Henry, the phenomenologist standing nearest the tradition's term for awareness touching itself, runs his whole polemic against the world's appearing and would decline the householder's daylight with it ([[michel henry]]).
 
+**The axiom carries a dependency on the participation law, and until 2026-08-08 no note stated it.** The book's law about what transforms anybody is that participation inside a held container does it, and its negative form says nothing transforms from the audience ([[nothing transforms from the audience]]). Composed with the axiom above, that law makes a demand of the Tuesday: an ordinary week has to be able to supply a container and a witness, or the axiom is naming a site the law has already declared insufficient. The demand is not rhetorical, because the vault holds a boundary case where the Tuesday demonstrably cannot do it alone — grief is the one emotion that structurally will not complete without a witness, so the griever alone in an ordinary week is precisely the person the axiom promises and the law refuses ([[grief cannot complete alone]]). What closes the gap in principle is the corpus's own thesis that the book's practices are facilitation moves scaled to one reader, trained until the reader becomes their own room ([[the book's practices are facilitation moves scaled to one reader]]) — and that thesis carries its own untested bet, since nothing measured shows the skill transferring to a reader holding a container for themselves. The axiom therefore stands on a bridge that exists and has not been load-tested.
+
 The axiom also governs how the book names things. Walked II records that retiring the mythic corner-names in favor of Wall, Door, and Floor "enacts the Householder Axiom at the level of vocabulary," which makes plain naming this doctrine applied to words ([[ordinary names keep the deepest structures visible]]).
 
 ## Substantiation
@@ -26,6 +28,9 @@ The axiom also governs how the book names things. Walked II records that retirin
 ---
 
 Relevant Notes:
+- [[nothing transforms from the audience]] — the law this axiom depends on and must satisfy, since an ordinary week has to supply the container and witness the law requires
+- [[grief cannot complete alone]] — the boundary case where the Tuesday demonstrably cannot supply them, and the axiom's sharpest test
+- [[the book's practices are facilitation moves scaled to one reader]] — the corpus's own bridge across the dependency, carrying its own untested bet that the room-holding skill transfers to a reader alone
 - [[weil is seated as the opponent the plumbing deserves]] — the tension that keeps this axiom honest
 - [[psychedelic names a movement not a substance]] — the movement the axiom locates in ordinary life
 - [[ordinary names keep the deepest structures visible]] — the axiom applied to vocabulary, which is where the rename enacts it

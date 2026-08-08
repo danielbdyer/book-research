@@ -24,6 +24,7 @@ Two things follow for the book. First, the felt-shift standard now has an oppone
 ---
 
 Relevant Notes:
+- [[the verification standard rests on one name and cannot be defended by company]] — the note that now carries the narrowing this one helps make: the solitary somatic check has a single bearer, and the check joined to a second person has convergent company from four unrelated routes, of which this is one
 - [[felt shift versus felt confirmation]] — the tension this refusal sharpens from inside: the counterfeit problem is not news to the traditions
 - [[both poles of the convergence refuse the engineered epiphany]] — the sibling refusal: neither foundation lets the shift be manufactured, and Zen adds that even the unmanufactured one does not certify itself
 - [[transformation is enacted participation inside a held container]] — the law whose witness-and-container structure dokusan instantiates as verification

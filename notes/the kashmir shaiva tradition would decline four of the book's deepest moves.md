@@ -32,6 +32,7 @@ The counterweight belongs in the same note, because the refusals and the welcome
 ---
 
 Relevant Notes:
+- [[the reader's resistance has nowhere to land]] — the tension whose second treatment these four refusals could staff, since a margin voice that argues back and sometimes wins needs arguments the book can honourably lose to
 - [[the tradition the book owes most has no chair in its company]] — the tension this note supplies the missing element of
 - [[the book can only be auxiliary to a sovereign reader]] — the doctrine the second refusal presses on hardest
 - [[a codex is a one-chair technology making a two-chair argument]] — the book's own arrival at the third refusal
