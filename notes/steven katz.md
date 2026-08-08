@@ -23,6 +23,9 @@ His adversary load survives the reading on different ground than the one it was 
 ---
 
 Relevant Notes:
+- [[katz's objection reaches what a felt shift proves and not whether anything moved]] — the reading of 2026-08-08, which answers the reseated question against the expectation: his constructivism reaches a description of an experience far more strongly than a discrimination of change against no-change
+- [[a practice reconditions the frame rather than clearing it]] — the finding from the same essay that does cost the book, since Katz holds contemplative training substitutes one conditioned consciousness for another
+- [[a practice that describes its destination manufactures the expectation it later confirms]] — his undeveloped clause about the expectations practices create, with the book-facing consequence drawn by the vault rather than by him
 - [[introspective access is the felt shift's undefended premise]] — where the sort of 2026-08-05 places him specifically: the constructivist objection aimed at the verification standard, that a trained body countersigns the training rather than the truth, instead of at the convergence in general
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the isomorph his hypothesis tests, which survives at its recorded strength
 - [[the unanimity claim is an artifact of how the lineages were selected]] — the vault's own form of his caution
