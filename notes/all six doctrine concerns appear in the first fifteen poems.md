@@ -1,7 +1,7 @@
 ---
 description: "Recognition, contraction, the felt shift, the container, the field, and answerability are each stated in the poems that predate the book — the direction-of-flow finding extended from quoted lines to doctrine."
 category: claim
-sources: ["poems #2", "poems #4", "poems #5", "poems #7", "poems #8", "poems #10", "poems #12", "poems #13", "poems #15"]
+sources: ["poems #2", "poems #4", "poems #5", "poems #7", "poems #8", "poems #10", "poems #12", "poems #15"]
 topics: ["[[recognition]]", "[[felt-shift]]"]
 state: full
 ---
