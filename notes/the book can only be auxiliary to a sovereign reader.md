@@ -28,6 +28,7 @@ What this enlivens in the writing: the invitations should be written as auxiliar
 ---
 
 Relevant Notes:
+- [[both poles of the convergence refuse the engineered epiphany]] — the foundations' endorsement of this claim's humility half, which they sign and its attribution half they do not
 - [[the book is a tuning fork and the reader is the striking surface]] — the image this claim gives a relational grammar
 - [[nothing transforms from the audience]] — the reader's side of the same account: whatever transforms, the reader did it
 - [[the reader's resistance has nowhere to land]] — the tension this eases: a sovereign's refusal is not the book's failure

@@ -1,5 +1,5 @@
 ---
-description: "The felt shift taken as a solitary in-the-moment check is Gendlin's alone and has no company, and the same check joined to a second person has convergent company from four unrelated routes, so the standard's defensible form needs a person a book cannot supply."
+description: "The felt shift checked alone in the moment is Gendlin's alone, the same check joined to a second person has company from four unrelated routes, and the standard's defensible form needs a person a book cannot supply."
 category: structure
 sources: ["mesh grid: tier 1", "atlas §IX.4", "author statement, 2026-08-04", "author statement, 2026-08-05"]
 topics: ["[[interlocutors]]", "[[felt-shift]]", "[[methods]]"]

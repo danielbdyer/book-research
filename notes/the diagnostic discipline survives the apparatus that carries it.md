@@ -25,6 +25,7 @@ The second is the privation reading — distress analyzed as a state missing an 
 ---
 
 Relevant Notes:
+- [[a developmental scheme handed to practitioners becomes a ranking of persons]] — the tension this discipline is ranking-proof against, since grading acts gives no person a rung to stand on; it is the second of three rival candidate design features
 - [[the compositional notation does not license the operations its syntax implies]] — the failure this note answers, and the reason the answer is not nothing
 - [[the diagnosis contains the cure]] — the privation reading in the corpus's own terms
 - [[the triads privations map the three malas corner for corner]] — the privation reading's second independent ground, inside the tradition the book owes most

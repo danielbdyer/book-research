@@ -21,6 +21,7 @@ The candidate resolution comes from reading these thinkers' cases against each o
 ---
 
 Relevant Notes:
+- [[a developmental scheme handed to practitioners becomes a ranking of persons]] — the tension this note's split-the-deliverable candidate answers, where it now stands beside two rival design features gathered 2026-08-08
 - [[a developmental scheme handed to practitioners becomes a ranking of persons]] — the finding that every documented case of a staged developmental map given to practitioners turned into a status hierarchy among its adopters, with no precedent producing a design feature that prevents it, which was previously treated as the whole problem rather than one side of it
 - [[a framework for what is happening is itself a protective factor]] — the measured finding that having no framework for a difficult altered-state experience predicts a worse one, so an accurate account reduces harm, which is the other side
 - [[the book cannot tell dissolution from regression and neither can its reader]] — the recorded gap that pre-rational and trans-rational states look alike from outside and the book names no diagnostic for telling them apart, which describes the reader the map exists to protect
