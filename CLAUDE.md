@@ -66,6 +66,7 @@ Seven standing directives, stated below, govern all prose and naming. Each is re
 | `inbox/` | Capture. Anything can land here; everything is later processed out. |
 | `sources/` | Original source documents. Immutable. |
 | `archive/` | Provenance records: source notes for processed documents in `sources/`, reading records for completed primary readings, research records for verified outside sweeps. |
+| `readings/` | The outside texts the primary readings were made from, kept so a quotation can be re-checked without re-fetching. Research copies in a private repository, never sources; the index and the two gaps are `readings/readings.md`. |
 | `templates/` | Note templates with `_schema` blocks — the authoritative schema. |
 | `manual/` | User documentation. |
 | `ops/` | Operational state: the orientation surface, goals, the outline roll-up, the completed log, the decisions register, config, queue, sessions, observations, tensions, methodology, the reading queue, the chapter concordance, the formula audit, the inherited-constructs register, the graph's convergence points, the manuscript-readiness conditions, the open-corpus inventory, the register-violations log, and the rethink log. |
@@ -201,6 +202,7 @@ Maintenance is condition-based. The session hook counts and reports the first se
 | Material read and set aside | `ops/queue/declines.md`, with the reason |
 | A reading to do, with a question that can fail | `ops/reading queue.md`, in the sharp-questions form |
 | A completed primary reading | `archive/`, as a reading record; findings to `notes/` via the pipeline |
+| The text a completed reading was made from | `readings/`, with a row in `readings/readings.md` naming the retrieval address and date |
 | A brainstormed proposition with its substantiation route | `ops/queue/claim candidates.md` |
 | A formula-by-formula or construct-by-construct check of the apparatus | `ops/formula audit.md`, `ops/inherited constructs.md` |
 | Per-chapter comparison across the sources | `ops/chapter concordance.md` |

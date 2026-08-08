@@ -33,3 +33,5 @@ created: 2026-08-05
 ## The one disagreement the reading opened
 
 The corpus seats McLaren beside Gendlin as the alphabet's affective wing, her teaching being that every emotion is a messenger carrying a question. Gendlin's footnote 13 says emotions are "sheer," internally all one quality, and that they "often keep him from sensing that in himself which is the complex ground of the emotion" — his instruction is to move past the emotion to the felt sense beneath it. One co-patron says open the emotion's mail; the other says the emotion is not the mail. This is recorded on the chair and not resolved.
+
+**The text is kept.** The file this reading was made from is `readings/gendlin 1964 — a theory of personality change.pdf`, saved into the repository on 2026-08-08 at the author's request so that a quotation here can be re-checked without re-fetching the paper; `readings/readings.md` records its retrieval address and date.
