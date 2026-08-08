@@ -86,6 +86,7 @@ This concern borders [[contraction-not-corruption]], because the move from heali
 
 - [[erhard and the book take different verbs from the same heideggerian object]] — the book's un-forgetting and Erhard's context-creation work on the same inherited structure, and his own name for mastery, "a context that uses you," is already middle-voiced
 - [[a practice reconditions the frame rather than clearing it]] — Katz's finding that contemplative training substitutes one conditioned consciousness for another, which describes acquisition at the place the disclosure doctrine claims disclosure
+- [[vygotsky's higher functions are acquired from outside rather than disclosed from within]] — the developmental contrary of the book's central finding, held whole rather than softened
 
 ## What remains
 

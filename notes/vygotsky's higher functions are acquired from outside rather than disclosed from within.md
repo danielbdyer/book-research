@@ -1,5 +1,5 @@
 ---
-description: "Vygotsky holds that the higher functions are built from social activity turned inward and that the earlier processes cease to exist, which contradicts the book's finding that deep change discloses what was already present."
+description: "Vygotsky holds the higher functions are built from social activity turned inward and that earlier processes cease to exist, contradicting the book's finding that deep change discloses what was present."
 category: claim
 sources: ["Vygotsky 1978, ch. 4, the internalization section (archive/reading — vygotsky, mind in society chapter 4 (1978).md)"]
 topics: ["[[recognition]]", "[[interlocutors]]"]

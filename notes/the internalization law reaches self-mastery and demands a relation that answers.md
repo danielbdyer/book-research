@@ -1,5 +1,5 @@
 ---
-description: "Vygotsky's twice-appearing law names voluntary attention among its instances and classes signs as means of mastering oneself, so it covers the book's kind of practice, and it requires an actual responding other over long time."
+description: "Vygotsky names voluntary attention among the twice-appearing functions and classes signs as means of mastering oneself, so his law covers the book's practice, and it requires an actual responding other."
 category: claim
 sources: ["Vygotsky 1978, ch. 4, items (b) and (c) and the tool-and-sign discussion (archive/reading — vygotsky, mind in society chapter 4 (1978).md)"]
 topics: ["[[relational-field]]", "[[felt-shift]]"]
