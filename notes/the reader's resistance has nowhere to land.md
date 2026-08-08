@@ -26,6 +26,7 @@ Two treatments are under trial. The Refusal Pass dramatizes a real no inside the
 ---
 
 Relevant Notes:
+- [[the kashmir shaiva tradition would decline four of the book's deepest moves]] — the four author-tested refusals that would supply the Doubting Hand its script, since each comes from one of the book's own foundations and is specific enough to argue with
 - [[the field between two people does work]] — the relational theory that supplies the object-usage warrant
 - [[a codex is a one-chair technology making a two-chair argument]] — the adjacent structural tension about what a book can host
 - [[the voice names the move it has just made]] — the treatment the earliest draft already executes, at sentence scale rather than apparatus scale
