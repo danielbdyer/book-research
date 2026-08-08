@@ -28,6 +28,9 @@ The axiom also governs how the book names things. Walked II records that retirin
 ---
 
 Relevant Notes:
+- [[nothing transforms from the audience]] — the law this axiom depends on and must satisfy, since an ordinary week has to supply the container and witness the law requires
+- [[grief cannot complete alone]] — the boundary case where the Tuesday demonstrably cannot supply them, and the axiom's sharpest test
+- [[the book's practices are facilitation moves scaled to one reader]] — the corpus's own bridge across the dependency, carrying its own untested bet that the room-holding skill transfers to a reader alone
 - [[weil is seated as the opponent the plumbing deserves]] — the tension that keeps this axiom honest
 - [[psychedelic names a movement not a substance]] — the movement the axiom locates in ordinary life
 - [[ordinary names keep the deepest structures visible]] — the axiom applied to vocabulary, which is where the rename enacts it

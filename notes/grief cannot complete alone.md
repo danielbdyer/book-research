@@ -21,6 +21,7 @@ This claim appears in all four source documents and serves a distinct function i
 ---
 
 Relevant Notes:
+- [[the tuesday is the temple]] — the axiom this case bounds, since a griever alone in an ordinary week is the person the axiom promises and the participation law refuses
 - [[grief is sever plus love plus persist]] — the formula that carries this law as its catalyst
 - [[the field between two people does work]] — the general claim this law is the sharpest case of
 - [[nothing transforms from the audience]] — the adjacent law, which states the condition a witness must satisfy: only a participant completes anything

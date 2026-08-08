@@ -20,6 +20,7 @@ The law binds the book itself, and the corpus applies it reflexively: a book is 
 ---
 
 Relevant Notes:
+- [[the tuesday is the temple]] — the householder axiom that silently depends on this law being satisfiable inside an ordinary week, with grief as the boundary case where it is not
 - [[the field between two people does work]] — the positive claim about what participation makes possible
 - [[the book performs what it describes]] — the design law that turns this rule into structure
 - [[transformation is enacted participation inside a held container]] — the same law in its positive form, and reached by five further lineages beyond the one recorded here

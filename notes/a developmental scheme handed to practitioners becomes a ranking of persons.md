@@ -28,7 +28,15 @@ The grid's ranking of the question is not rhetorical: "No one on this bench solv
 
 ---
 
+**Three candidate design features are now on the table, they come from three different rounds, and none of them is the vault's resolution (gathered 2026-08-08).** The grid's demand is for something in the design that actively prevents the ranking, and the vault had answers scattered in three places without ever setting them beside each other. The first is a split by deliverable: a sequence of expected difficulty, which tells a reader where they are on a hard road, can be handed over, while a hierarchy of attainment, which tells a reader how high they stand, cannot ([[the map that protects the destabilized reader is the tool that becomes a ranking]] carries it, derived from the thinkers' own cases and untested). The second is a split by layer, proposed 2026-08-08: of the two things that survive the system's demotion, the discipline of specificity grades acts rather than persons and no one can stand on it ([[the diagnostic discipline survives the apparatus that carries it]]), while person-level privation vocabulary is exactly what a ranking runs on — so the reader-facing layer could carry the operations vocabulary while person-level diagnosis stays in the book's own voice. The third is already in the graph as the book's own defense, and it works by reframing rather than by withholding: distress read as a question about machinery is not a verdict about character, and a vocabulary that cannot deliver verdicts is harder to rank people with ([[distress is a question about machinery not a verdict about character]]).
+
+The three are rivals rather than a set, because they cut in different places: one splits what is published, one splits who speaks, and one splits what the vocabulary can say. Each has a failable check available without new reading, and the second's is the sharpest — does any sentence of the executed draft's operations material let a reader rank a person rather than an act? The treatment field above stays unassigned, because choosing among these is the author's act and not a session's.
+
+---
+
 Relevant Notes:
+- [[the map that protects the destabilized reader is the tool that becomes a ranking]] — the first candidate design feature, splitting the deliverable into a sequence of difficulty that can be handed over and a hierarchy of attainment that cannot
+- [[the diagnostic discipline survives the apparatus that carries it]] — the second candidate's ranking-proof half, since a discipline that grades acts gives no one a place to stand
 - [[the nearest prior attempts are case histories rather than interlocutors]] — the bench this pattern is drawn from, and the standing they hold
 - [[distress is a question about machinery not a verdict about character]] — the book's own strongest structural defense against the failure mode
 - [[an enormous experience is interpreted by the structure it did not change]] — the mechanism whose stage axis carries this risk into the book if imported whole
