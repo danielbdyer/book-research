@@ -168,7 +168,6 @@ Maintenance is condition-based. The session hook counts and reports the first si
 | 10 or more open observations in `ops/observations/` | /rethink |
 | 5 or more operational tensions in `ops/tensions/` | /rethink |
 | qmd missing, or notes newer than the semantic index | `scripts/bootstrap.sh`, or `qmd update && qmd embed` |
-| notes newer than the outline census | `scripts/queries/outline.sh` |
 | methodology notes 30 or more days behind config changes | /rethink drift |
 | claims with no topic map | /reflect |
 | nascent stubs outnumber the claims filled from them | fill or decline, per `scripts/queries/nascent-stubs.sh` |
