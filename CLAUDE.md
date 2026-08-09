@@ -104,7 +104,7 @@ A claim is one proposition, stated in its title as a complete sentence in lowerc
 
 Body shape: the statement layer expounds the claim in plain sentences; a Substantiation section beneath carries quotes (marked, anchored), per-source locations, and notation. Compression is required — the register and its reasons are in Posture above.
 
-A claim that asserts a correspondence — the book's construct is somebody else's, or two traditions arrived at one structure — shows both halves (`ops/methodology/both halves of a correspondence.md`, author-corrected 2026-08-05): it quotes both sides, or names the side it cannot show with a page-level address, and it never quotes from memory. Which of six relations the case is — restatement, the originator's own correction, headless lineage, self-flagged debt, mis-addressed credit, or half-traced genealogy — decides what the book owes it; the register holding those methods is `ops/inherited constructs.md`.
+A claim that asserts a correspondence — the book's construct is somebody else's, or two traditions arrived at one structure — shows both halves (`ops/methodology/both halves of a correspondence.md`, author-corrected 2026-08-05): it quotes both sides, or names the side it cannot show with a page-level address, and it never quotes from memory. Which of six relations the case is — restatement, the originator's own correction, headless lineage, self-flagged debt, mis-addressed credit, or half-traced genealogy — decides what the book owes it; the note holding those six relations and the nine descent rows is [[the apparatus descends from the settlement the book positions itself against]].
 
 Footer, always:
 
