@@ -31,7 +31,7 @@ Each of these is the durable residue of a completed round; the dated record of e
 
 ## Read before working
 
-`ops/outline.md` states in one sequence what the whole body of material currently asserts, each step naming the claim that carries it, over a census of the graph regenerated from the notes themselves — the propositions the rest of the graph leans on hardest, the material by concern and by found region, and what is thin. It was added 2026-08-08 for the case this section otherwise handles badly: a session that needs the shape of the argument before it needs the five synthesis notes below. Its written half is a session's reading of the material and is revisable; nothing in it assigns material to a chapter.
+A session that needs the shape of the argument before the five synthesis notes below runs `scripts/queries/outline.sh --print`, which prints a census from the notes themselves: the propositions the rest of the graph leans on hardest, the material by concern, and what is thin. The committed roll-up that used to hold this, `ops/outline.md`, was retired 2026-08-09 with the other standing self-measurement instruments; the census is now read on demand rather than kept as a file.
 
 The five notes that carry the current synthesis:
 
