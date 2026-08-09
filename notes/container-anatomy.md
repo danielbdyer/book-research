@@ -18,6 +18,7 @@ Three further levels are built on this anatomy — twelve verb-primitives as its
 - [[the triads privations map the three malas corner for corner]] — the correspondence between the anatomy's failure modes and Trika's three contractions
 - [[the scheme's upper layers are one construction built on the container's three structures]] — the operations level and its grammatical design commitment; the image carrying the anatomy's engine level
 - [[distress is a question about machinery not a verdict about character]] — the engine level's diagnostic move, which routes distress to the loop that is misfiring
+- [[the diagnostic method reads each structural layer with its own question]] — that diagnostic move made into a practice: one read per layer of the anatomy, replacing moralization with structure
 - [[the prose drafts use the vetoed triad names]] — the reading instruction for the two prose drafts, which name the same three structures Knife, Thread, and Vessel throughout
 - [[the open center is made possible by the three structures and identical with none of them]] — what the three structures are for: the open middle they hold
 - [[thisness is the grain of the container anatomy]] — containers serve particulars, and Scotus, Hopkins, and Deleuze are the named lineage for that idea
