@@ -12,7 +12,7 @@ Full title: "The Whole Field, Walked — The Gravitational Atlas of Firing on Al
 
 ## Extraction state
 
-The starter pass (2026-08-01) used this document as the primary statement-layer source for most extracted claims; anchors cite it by section numeral (walked I–XII). The central-process pass (2026-08-03) finished sections I and II and the valley passage of section IX, again using this document for statement layers and the atlas for network position. Its unextracted regions match the atlas's, listed in `ops/queue/extractions.md`. Where the two documents differ in emphasis, neither has been treated as authoritative over the other; a claim notes the difference when one exists.
+The starter pass (2026-08-01) used this document as the primary statement-layer source for most extracted claims; anchors cite it by section numeral (walked I–XII). The central-process pass (2026-08-03) finished sections I and II and the valley passage of section IX, again using this document for statement layers and the atlas for network position. The praxis-completion pass (2026-08-09) used section VII (The Hands) as the statement-layer source for four practice claims — the four-move diagnostic and its crisis reduction, channeling, and Focusing — with the atlas §VII for network position. Its remaining unextracted regions match the atlas's, listed in `ops/queue/extractions.md`. Where the two documents differ in emphasis, neither has been treated as authoritative over the other; a claim notes the difference when one exists — as the four-move diagnostic note does, recording that the atlas frames the engineer's eye as five reads and lenses rather than four moves.
 
 ---
 
