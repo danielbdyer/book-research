@@ -4,9 +4,16 @@
 # from the moment every recorded failure happened — and so it re-arms after
 # context compaction, which pushed the session-start copy out of the window at
 # least once on the day the countermeasure was installed. Registered as a
-# UserPromptSubmit hook in .claude/settings.json; runs the stamp check
-# silently and speaks only if a surface has drifted or a wire is cut.
+# UserPromptSubmit hook in .claude/settings.json; it prints the seven lines
+# and does nothing else.
 # The canonical copy is the final section of ops/methodology/prose register.md.
+#
+# It stopped running the stamp check on every turn from 2026-08-09, by author
+# decision. That check confirms six files still contain ten phrases, and it
+# spends 115 separate grep invocations to do it, so a fifty-turn session spent
+# 5,865 of them on files that change about weekly. The check still runs at
+# every session start, from .claude/hooks/session-orient.sh, which is the
+# frequency the drift it guards against actually moves at.
 GUARD_DIR="$(cd "$(dirname "$0")" && pwd)"
 # Work from the repository root regardless of the invoking directory, so the
 # stamp check below finds its surfaces.
