@@ -38,7 +38,7 @@ Two documents identified in the same set were never part of the decline and carr
 
 ## The verification conditions (added 2026-08-04, generative pass)
 
-- [ ] Per-practice verification conditions — a pass over every practice the corpus carries (the twelve forms, the posture's facets, Focusing, channeling, the diagnostic moves as they arrive) asking one question of each: what does the corpus say would tell a practitioner it worked? The rows wire the lived-practice centerpiece to the felt-shift standard and give the standard's defense a case file; where the corpus specifies no verification condition for a practice, that absence is the finding and is recorded as such. Sources: `abridged ch13`–`ch15`, atlas §VII, walked VII.
+- [ ] Per-practice verification conditions — a pass over every practice the corpus carries asking one question of each: what does the corpus say would tell a practitioner it worked? **The four practices extracted 2026-08-09 — the diagnostic, the crisis triage, channeling, and Focusing — each carry their verification condition in-note, all resolving to the praxis stratum's standing rule "verifiable by felt-shift, or it doesn't count" (atlas §VII), and one absence was recorded (the crisis triage names no test for when acute distress has passed).** What remains: the twelve forms individually and the posture's facets, asked the same question. The rows wire the lived-practice centerpiece to the felt-shift standard and give the standard's defense a case file. Sources: `abridged ch13`–`ch15`, atlas §VII, walked VII.
 
 ## The three drafts (added 2026-08-01)
 
