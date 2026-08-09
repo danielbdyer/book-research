@@ -206,7 +206,7 @@ The abridged edition opens with a lineage list of about sixty names and cites a 
 
 ## The lineage sort's names and holes (added 2026-08-05, from `provenance/the mesh grid.pdf`)
 
-The mesh grid sorts the whole company by what each thinker carries and reports the cells that are empty. Two kinds of entry follow. The first is ten names given interlocutor notes the same day, marked `[e]` — but the evaluation behind them is thinner than the mark usually implies, and the notes say so in their own bodies: each was written from the grid's characterization, with no primary work read. They are proposals with recommendations attached, awaiting both the author's seating decision and a real reading. The second kind is the ranked holes, which are reading questions rather than names; the ranking is at `ops/lineage sort.md` and the numbers below are its order.
+The mesh grid sorts the whole company by what each thinker carries and reports the cells that are empty. Two kinds of entry follow. The first is ten names given interlocutor notes the same day, marked `[e]` — but the evaluation behind them is thinner than the mark usually implies, and the notes say so in their own bodies: each was written from the grid's characterization, with no primary work read. They are proposals with recommendations attached, awaiting both the author's seating decision and a real reading. The second kind is the ranked holes, which are reading questions rather than names; the numbers below record their order.
 
 Evaluated from the grid alone; primary reading still required for every one:
 
