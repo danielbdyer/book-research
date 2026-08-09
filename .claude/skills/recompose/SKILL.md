@@ -109,7 +109,7 @@ Each fault below has a definition, a way to find it, a repair, and one real spec
 | seat, seating (as verbs) | keep "seated" only where the sentence has already said it means placed in the book's company |
 | the bench | the evaluated thinkers |
 | shelf, shelves, an empty shelf, stocked | name the material itself: "the material a drafting session would have", "nobody has been evaluated to argue against it" |
-| the sort | the sorting of the book's thinkers recorded at `ops/lineage sort.md` |
+| the sort | the sorting of the book's thinkers, computed by `scripts/queries/lineage-sort.sh` |
 | load, the load axis | what a thinker carries — whether the book's argument depends on them, or they are company |
 | load-bearing | the book's argument depends on it, and say which argument |
 | privated | complete but incomplete in a stated way, and name the way |
@@ -119,10 +119,8 @@ Each fault below has a definition, a way to find it, a repair, and one real spec
 | concordance row | a row in the per-chapter comparison at `ops/chapter concordance.md` |
 | the torch | the live question |
 | the census | the count across the book's thinkers |
-| reach-list | drafting-readiness dry run |
 | hole, flank, cell | name the specific absence or the specific side |
 | the weave | the reconciliation of the sibling generative round's merge (pull request 12, 2026-08-08) — give the referent and date at first use in a file |
-| the anti-census | the outline's register of theses the sources state that no claim yet carries (`ops/outline.md`) |
 | the sparsest seam | the pair of graph regions sharing the fewest stated relations — name the two regions |
 | the bench (reading-queue sense: "the panel bench") | the readings the forest panel proposed, adopted as tier 6 |
 | stocked (of a letter or concern) | the material is assembled; say what is assembled |

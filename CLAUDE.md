@@ -160,7 +160,7 @@ Manuscript structure is provisional, and placements emerge from the author's dec
 
 ## Maintenance
 
-Maintenance is condition-based. The session hook counts and reports the first six conditions below at session start, prints any unchecked entries in `ops/reminders.md`, and says explicitly when nothing fires. The last three conditions are manual, with their tools: `scripts/queries/unconnected-claims.sh`, `scripts/queries/nascent-stubs.sh`, and /verify.
+Maintenance is condition-based. The session hook counts and reports the first five conditions below at session start, prints any unchecked entries in `ops/reminders.md`, and says explicitly when nothing fires. The last three conditions are manual, with their tools: `scripts/queries/unconnected-claims.sh`, `scripts/queries/nascent-stubs.sh`, and /verify.
 
 | Condition | Action |
 |-----------|--------|
@@ -187,7 +187,6 @@ Maintenance is condition-based. The session hook counts and reports the first si
 | A source document | `sources/`, plus an archive note |
 | Active threads | `ops/goals.md` |
 | The current center, reading order, and torch | `ops/orientation.md` |
-| What the whole body of material currently asserts, in one sequence | `ops/outline.md`, whose census half is regenerated rather than written |
 | A finished piece of work, dated | `ops/completed.md`, with paths to what it produced |
 | A question that has been closed | `ops/decisions.md`, one row, pointing at the reasoning |
 | Friction with the vault's process | `ops/observations/` |
@@ -198,7 +197,7 @@ Maintenance is condition-based. The session hook counts and reports the first si
 | A reading to do, with a question that can fail | `ops/reading queue.md`, in the sharp-questions form |
 | A completed primary reading | `archive/`, as a reading record; findings to `notes/` via the pipeline |
 | A brainstormed proposition with its substantiation route | `ops/queue/claim candidates.md` |
-| A formula-by-formula or construct-by-construct check of the apparatus | `ops/formula audit.md`, `ops/inherited constructs.md` |
+| A finding about the notation or about what a construct is owed | The two consolidated scheme notes in `notes/` (`ops/methodology/center of gravity.md` names them) |
 | Per-chapter comparison across the sources | `ops/chapter concordance.md` |
 | Territory the corpus named and never developed | `ops/open corpus.md` |
 
