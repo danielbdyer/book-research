@@ -142,3 +142,67 @@ Two things make it cheaper than it looks. The extraction pass for the practice c
 5. Whether the practice extraction in stage five is scheduled now or held, since it is additive work competing with the reading queue he has already made central.
 
 One thing is deliberately absent from this plan. No stage proposes a new script, a new check, or a new standing surface to prevent the regrowth it removes. The exchange rule in the ethos above is a rule and not an instrument, and the evidence that a rule can hold without machinery is already in the record: the reach-list that stopped itself did so because a session read its own output and judged it, with nothing enforcing anything.
+
+---
+
+# Appendix — every file each stage touches, and what changes inside it
+
+This appendix exists because the plan above states its stages as counts and percentages, and a count cannot be approved. Everything below names the file.
+
+## Where the 524,663 words of this repository actually sit
+
+| Location | Words | What it holds |
+|---|---:|---|
+| `notes/` | 244,954 | The knowledge graph, 310 files |
+| `ops/` | 151,496 | The operational layer, 69 files |
+| `.claude/` | 51,095 | Seventeen skill files and eight hook scripts |
+| `provenance/` | 35,193 | Ten reconstructions of how the book came to be written |
+| `archive/` | 20,553 | Sixteen source, reading and research records |
+| `drafts/` | 9,654 | Two briefs and two pieces of manuscript prose |
+| Everything else | 11,718 | `CLAUDE.md`, the templates, the manual, the inbox |
+
+## Stage one, file by file
+
+**The sixteen generated skill files.** Each holds one paragraph written for this vault and then several hundred lines written for a different one. In `.claude/skills/reduce/SKILL.md`, which runs 1,121 lines, the vault's paragraph is line 11 and instructs a session to "extract only material that passes the writing test." Line 46 opens a section headed "THE MISSION (READ THIS OR YOU WILL FAIL)" whose third sentence reads "that judgment must err toward extraction, not rejection," and line 60 opens "The Comprehensive Extraction Principle." The line counts of the other fifteen run: reflect 748, rethink 659, reweave 658, ralph 604, graph 569, verify 536, remember 536, refactor 449, next 409, tasks 404, stats 373, pipeline 316, validate 312, seed 305, learn 257. The seventeenth file, `.claude/skills/recompose/SKILL.md` at 303 lines, was written for this vault by hand and has no upstream text; it is untouched. The proposal keeps each vault paragraph and each skill's real procedure and deletes the rest, which is about 42,000 words.
+
+**The stock text also names files that do not exist here.** Nine skills reference `ops/queue/queue.json` twenty-nine times, four reference `ops/queue/queue.yaml` nine times, five reference a `self/` directory eleven times, and four reference an `/architect` command eleven times. No such path or command exists in this repository.
+
+**The two hook changes.** `.claude/hooks/pre-write-register.sh` refuses a file write when the detector at `scripts/queries/register-tripwires.py` fires; the proposal keeps the detector and removes the refusal, because `.claude/hooks/post-bash-register.sh` already runs the same detector and only reports. `scripts/queries/countermeasure.sh` currently runs at session start and again on every turn; the proposal runs it at session start alone.
+
+**The nine session files.** Every file in `ops/sessions/` holds three fields and nothing else. The whole content of `ops/sessions/20260808-004658.json` is an identifier reading `test`, a timestamp, and the status `active`. Two files, `20260806-182455.json` and `20260805-002212.json`, carry the same identifier as each other, and `20260808-060545.json` repeats the identifier in `20260808-003704.json`. Eight of the nine still say `active`. The session hook counts these files and recommends mining them for methodology corrections whenever five or more exist, so that recommendation fires at every session start against files with no prose in them.
+
+## Stage two — the five pairs, named
+
+Each row holds a thinker's evaluation and a separate claim note asserting that this thinker independently reached a concept the book depends on. The claim note's proposition is the evaluation note's own subject.
+
+| Thinker's evaluation | The claim note beside it |
+|---|---|
+| `notes/michael polanyi.md` | `notes/the participation law has a witness who came to it through crystallography.md` |
+| `notes/thomas hubl.md` | `notes/what was never metabolized lives on as absence and hubl reached it through inherited trauma.md` |
+| `notes/de jaegher and di paolo.md` | `notes/the third thing has a mechanism in participatory sense-making.md` |
+| `notes/christopher alexander.md` | `notes/structure-preserving transformation is a method-bearing claim rather than a directional one.md` |
+| `notes/ludwig wittgenstein.md` | `notes/the always-there hides by being always there and wittgenstein said so without heidegger.md` |
+
+The Hübl row is the one that has already broken. His claim note records that the blind repeat check of 2026-08-06 withdrew his independence certification, because his documented formation includes teachers the certification excluded. His evaluation note still reads that he reached the concept "through trauma work with no Kashmir Śaiva metaphysics under him," and its footer still calls the independence test one "his arrival passes."
+
+## Stage three — the twenty-one files, named
+
+**The twelve unfilled stubs, with their word counts.** Each exists so that a row in the inventory of undeveloped territory would be reachable by following a link. A kept tension can be mapped rather than only held, 249. A habit becomes a ritual when it is designed rather than accumulated, 189. Metaphor is a faculty that weaves a self rather than a device that decorates one, 179. A partnership can be deliberately entered and deliberately left, 169. A schedule can be aligned to the nervous system rather than to the clock, 152. Nostalgia carries continuity across a threshold, 152. A person lives inside symbolic infrastructures they have built, 150. The morning is where a day acquires its coherence, 148. The sacred in the ordinary is produced by sensory design, 145. Curating beauty is a practice rather than only a hazard, 144. A ritual can be designed to hold a self in place, 142. Seasonal and weekly form can be templated, 125.
+
+The last of those twelve runs 125 words and its whole body is two sentences: "The gesture proposes reusable forms for seasons, weeks, and endings. The corpus holds the seasonal doctrine — the metabolic arc, whose five phases are this vault's own state vocabulary — and supplies no form a reader could put on a calendar; the template is the missing artefact between the doctrine and a practice." Its title already says that. The same finding is a row in `ops/open corpus.md`.
+
+**The four notes an instrument wrote about itself.** They are `notes/sorting a lineage by load turns it toward argument.md`, `notes/the company was sorted by what each thinker brings and never by what the book cannot lose.md`, `notes/the referral network sends readers to a name the sort filed as company.md`, and `notes/a recorded reason drifts toward doctrine with distance from the decision.md`.
+
+**Three further files whose subject is the vault.** They are `notes/a synthesis organized by the schemes offers to promote them back to architecture.md`, whose treatment is already written into `ops/methodology/center of gravity.md`; `notes/the drive to closure has measurable costs.md`, which says in its own body that what it changes "is a justification rather than a practice"; and `notes/figure glossary.md`, whose rows map the corpus's figures to pipeline phases.
+
+**One file merges rather than moves.** `notes/the research instrument is a violin rather than an oracle.md` carries one finding the book can use, which is that analytic philosophy of mind reached the same conclusion about a different instrument with no contact with the letter's grammar; the rest describes the vault's working practices.
+
+**Two topic maps move and need a decision first.** `notes/methods.md` spends 2,243 of its 3,150 words on prose about house rules and the source registry, and `notes/research-frontier.md` spends 2,067 of its 2,768 words describing the outward research program while listing only 24 of the 43 notes that declare it. Both duplicate files that already exist in `ops/`, and moving either requires a change to `CLAUDE.md` plus somewhere for their member notes to gather.
+
+## Stage four — what compression actually removes, measured on one note
+
+The eight roster entries hold 5,952 words between them: Kurt Lewin 962, the experiential learning cycle 931, Gurdjieff and Ouspensky 876, Douglas Hofstadter 807, Mihály Csíkszentmihályi 785, Erik Erikson 776, Isabelle Ratié 429, Loriliai Biernacki 386.
+
+The Lewin note shows the shape exactly. About 450 of its 962 words are three background sections headed "Action research," "The T-group," and "Field theory," each explaining what Lewin invented. The rest holds what only this vault knows: that the corpus traces est's genealogy through Austin's performatives alone, that Lewin heads the second and untraced lineage which is the one carrying the participation law, the refusal that action research needs a group and an intervention a solitary reader does not have, and the note's own admission that "this chair is the least evidenced of the group and should be read before it is used for anything."
+
+**The honest size of this stage.** Compression recovers roughly 150 to 400 words per note, so the eight roster entries yield about 2,000 words and all fifty-one unread notes yield somewhere near 10,000. That is smaller than stage one by a factor of four. Its value is not the word count. Its value is that a note stops presenting a proposed seat, a proposed load and a full evidence apparatus around a finding nobody has checked against the thinker's own pages, which is the state of fifty-one of the sixty-four.
