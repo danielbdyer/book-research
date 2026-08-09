@@ -162,6 +162,16 @@ if [ "$INBOX_COUNT" -ge 3 ]; then
   echo "CONDITION: $INBOX_COUNT items in inbox. Consider /reduce or /pipeline."
   FIRED=1
 fi
+# Wiki-link integrity: the "links that no longer resolve" maintenance rule,
+# which until 2026-08-09 was the one rule in CLAUDE.md's table with no tool
+# behind it. link-check.sh --count prints the number of unresolved plus
+# ambiguous links in the content graph (0 is the healthy state).
+LINK_DEFECTS=$(scripts/queries/link-check.sh --count 2>/dev/null || echo 0)
+case "$LINK_DEFECTS" in *[!0-9]*) LINK_DEFECTS=0;; esac
+if [ "$LINK_DEFECTS" -ge 1 ]; then
+  echo "CONDITION: $LINK_DEFECTS wiki-link integrity defect(s) — unresolved or ambiguous. Run scripts/queries/link-check.sh and fix on sight."
+  FIRED=1
+fi
 # The committed outline roll-up (ops/outline.md) was retired 2026-08-09 with the
 # other standing self-measurement instruments, so there is no outline-staleness
 # condition. A session that wants the census on demand runs

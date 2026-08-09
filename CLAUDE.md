@@ -153,14 +153,14 @@ Manuscript structure is provisional, and placements emerge from the author's dec
 
 ## Search
 
-- **Structural queries**: `rg` over YAML (for example `rg '^category: tension' notes/`), plus `scripts/queries/` — `unconnected-claims.sh`, `nascent-stubs.sh`, `coverage.sh` (citations per source, notes per category), `tensions-status.sh`, `candidate-seats.sh`, `placements.sh`, `clusters.sh` (the graph's regions, printed to standard output), `lineage-sort.sh` (the discipline-by-load grid, printed to standard output), `frontmatter-parse.sh` (notes, archive records, and observations checked against the templates' enums and cross-field rules), `strike-links.sh` (paragraphs thinnest after their links are struck, as cold-read candidates), and `outline.sh` (a census of the propositions the graph leans on hardest, the material by concern, and what is thin, printed to standard output with `--print`).
+- **Structural queries**: `rg` over YAML (for example `rg '^category: tension' notes/`), plus `scripts/queries/` — `unconnected-claims.sh`, `nascent-stubs.sh`, `coverage.sh` (citations per source, notes per category), `tensions-status.sh`, `candidate-seats.sh`, `placements.sh`, `clusters.sh` (the graph's regions, printed to standard output), `lineage-sort.sh` (the discipline-by-load grid, printed to standard output), `frontmatter-parse.sh` (notes, archive records, and observations checked against the templates' enums and cross-field rules), `strike-links.sh` (paragraphs thinnest after their links are struck, as cold-read candidates), `link-check.sh` (every wiki link in the content graph resolves to exactly one file; `--count` prints the defect total for the session hook), and `outline.sh` (a census of the propositions the graph leans on hardest, the material by concern, and what is thin, printed to standard output with `--print`).
 - **The corpus itself**: `scripts/bootstrap.sh` extracts every PDF in `sources/` to `.corpus/*.md`, preserving `===PAGE n===` markers so a hit can be traced to a citable location. `.corpus/` is gitignored and regenerated, so it cannot drift. Search it with `rg -w 'pattern' .corpus/`. **Use word boundaries**: unbounded matching reports "habit" across the corpus by matching *inhabit* and "ritual" by matching *spiritual*, which has already produced one wrong conclusion.
 - **Semantic search**: qmd, with a project-local index in `.qmd/` (gitignored) over two collections, the vault's notes and the extracted corpus. `qmd query "..."` for hybrid search, `qmd search "..."` for keyword-only, `qmd vsearch "..."` for vectors alone; add `--no-rerank` when a query hangs. After bulk note changes run `qmd update && qmd embed`.
 - **In a fresh container, run `scripts/bootstrap.sh` first** (if `.corpus/` is missing or empty, the container is fresh). Each step reports independently and none is fatal to the others.
 
 ## Maintenance
 
-Maintenance is condition-based. The session hook counts and reports the first five conditions below at session start, prints any unchecked entries in `ops/reminders.md`, and says explicitly when nothing fires. The last three conditions are manual, with their tools: `scripts/queries/unconnected-claims.sh`, `scripts/queries/nascent-stubs.sh`, and /verify.
+Maintenance is condition-based. The session hook counts and reports the first six conditions below at session start, prints any unchecked entries in `ops/reminders.md`, and says explicitly when nothing fires. The last two conditions are manual, with their tools: `scripts/queries/unconnected-claims.sh` and `scripts/queries/nascent-stubs.sh`; /verify runs the full schema-and-links pass on demand.
 
 | Condition | Action |
 |-----------|--------|
@@ -169,9 +169,9 @@ Maintenance is condition-based. The session hook counts and reports the first fi
 | 5 or more operational tensions in `ops/tensions/` | /rethink |
 | qmd missing, or notes newer than the semantic index | `scripts/bootstrap.sh`, or `qmd update && qmd embed` |
 | methodology notes 30 or more days behind config changes | /rethink drift |
+| unresolved or ambiguous wiki links | fix on sight, per `scripts/queries/link-check.sh` |
 | claims with no topic map | /reflect |
 | nascent stubs outnumber the claims filled from them | fill or decline, per `scripts/queries/nascent-stubs.sh` |
-| wiki links that no longer resolve | fix on sight |
 
 `ops/tensions/` holds operational tensions (the vault contradicting its own methodology); empty means zero, which is the healthy state. Doctrinal tensions — content of the book — are claims in `notes/` listed at `notes/tensions.md`. The two are never mixed. An apparent inconsistency anywhere checks `ops/decisions.md` before it becomes work.
 
