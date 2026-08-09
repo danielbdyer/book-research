@@ -35,7 +35,8 @@ Relevant Notes:
 - [[a witness kept as proof forecloses what it proves]] — the failure mode the auxiliary relation exits
 - [[the book is written to the relational field and enacted upon the author first]] — the author's own warrant for this maximum, reached from the writer's side: usefulness to a reader is a consequence rather than the aim, so there is no stake to press
 - [[reading as remembering has a twenty-four-century ancestry in the west]] — the oldest staging of this relation: the Meno's guide inserts nothing and questions the knower toward what he already holds
-- [[the research instrument is a violin rather than an oracle]] — an arrival at the same conclusion about a different instrument, and the only support here that is not one of the author's own sources
+- [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the test that keeps the fourth line from being self-flattering, since a rejection is a cost fluency never pays
+- [[the third thing has a mechanism in participatory sense-making]] — the mechanism a person-and-instrument loop would run on, if it runs on one; the paper's own open frontier is whether such a loop makes sense jointly when only one party dwells
 - [[a framework for what is happening is itself a protective factor]] — what an auxiliary can honestly supply at the threshold: equipment rather than direction
 - [[the author is the book's first audience member and that is where the promise starts]] — the narrowed promise that fits inside this maximum where the older one did not
 
