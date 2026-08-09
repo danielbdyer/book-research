@@ -87,11 +87,13 @@ else
     echo "  WIRING BROKEN: register-reminder.sh has lost its stamp"
     FAIL=1
   fi
-  if ! grep -qF 'countermeasure.sh' '.claude/hooks/register-reminder.sh'; then
-    echo "  WIRING BROKEN: register-reminder.sh no longer runs this check each turn"
-    FAIL=1
-  fi
 fi
+# The per-turn run of this check was removed on 2026-08-09 by author decision,
+# so its absence from register-reminder.sh is the expected state and is not
+# checked here. The check runs once at session start, from session-orient.sh,
+# which the wiring test above still enforces. What it verifies — that six
+# files each still hold ten phrases — changes about weekly, and running it on
+# every turn cost 115 grep invocations per turn to confirm nothing had moved.
 if ! grep -qF 'register-reminder.sh' '.claude/settings.json'; then
   echo "  WIRING BROKEN: .claude/settings.json does not register the per-turn reminder hook"
   FAIL=1
