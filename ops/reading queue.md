@@ -56,7 +56,7 @@ Every entry inherits the descent finding: eight of the book's nine traced constr
 
 ## Tier 5 — the adversary holes still unread
 
-These inherit the lineage sort's ranking and remain the cheapest large corrections available.
+These remain the cheapest large corrections available.
 
 17. **Britton.** Q: which documented adverse-effect categories correspond to states the book induces rather than to intensive-retreat conditions, who is at risk, and is any diagnostic usable by a person alone? Stake: the grid calls this the book's most defensible criticism and the cheapest to answer; the third question is also the dissolution-versus-regression hole, which the book currently cannot answer at all. Address: Lindahl, Fisher, Cooper, Rosen and Britton, "The varieties of contemplative experience," *PLOS ONE* 12(5), 2017. Standing: chair carries her taxonomy from the synthesis; primary unread.
 
