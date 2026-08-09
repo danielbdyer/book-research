@@ -18,6 +18,8 @@ Six loads: `thesis-bearing` (remove them and the thesis changes shape), `adversa
 
 Three rules govern the axis and are not optional. It allocates reading and never ranks evidence, so `ops/methodology/authorial stance.md` governs prose unchanged and a load never appears in a claim as a reason the claim is true ([[sorting a lineage by load turns it toward argument]]). A load is a proposal until the author makes it, the instrument being cosigned at 65–75%. And `company` is not a lesser standing — it is the sense that the work belongs to a living conversation, and its only failure mode is being mistaken for the argument.
 
+The author reaffirmed the axis on 2026-08-09 against the alternative of dismantling it, and set the terms of the reaffirmation: the fields stay and every surface carrying them states what they order. What a load orders is which unopened text would change the most if it were opened next. What it never orders is the strength of a convergence, because the whole company points at the same finding and the pointing is not stronger for coming from a thinker the book would miss more.
+
 ## Seat taxonomy
 
 The seats are functional. The corpus's narrative names for them are recorded in [[figure glossary]].
