@@ -9,7 +9,7 @@ privation: "the primary work behind the standing wave paper has not been read"
 
 # the drive to closure has measurable costs
 
-The vault holds eleven or more doctrinal tensions live and does not resolve them, on the rule that resolving is the author's act. That has been a policy without a warrant — a way of not overstepping rather than a claim that leaving things open is better.
+The appetite for a settled answer is a measured disposition with measured costs: premature closure degrades judgment where the evidence is still arriving. That gives a warrant to what had been only a policy — the vault holds eleven or more doctrinal tensions live and does not resolve them, on the rule that resolving is the author's act, which until now was a way of not overstepping rather than a claim that leaving things open is better.
 
 The paper received 2026-08-05 reports a literature that supplies the warrant. The construct is the need for cognitive closure, defined as "the desire for a firm answer to a question, any firm answer as compared to confusion and/or ambiguity," and its two documented tendencies are an urgency to *seize* on early information that affords closure and a permanence tendency to *freeze* on it afterward. High need for closure — whether dispositional or induced situationally by time pressure, noise or fatigue — reliably produces heightened primacy effects, greater reliance on stereotypes, over-attribution, resistance to persuasion, and rejection of those who disagree.
 
