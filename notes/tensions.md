@@ -99,7 +99,7 @@ Two arrived 2026-08-06 from reading the company's sixty-four candidate evaluatio
 ## The method this map does not supply
 
 
-- [[a kept tension can be mapped rather than only held]] — nascent. Every treatment recorded above is an authorial move made in the writing; none is a move the reader can make. The gesture naming a reader-facing procedure is an open territory, inventoried in `ops/open corpus.md`.
+- Every treatment recorded above is an authorial move made in the writing, and none of them is a move a reader could make. The corpus's only reader-facing material on holding two opposed things is a disposition rather than a procedure, stated as "polarity is not a problem to be solved. It is a tension to be inhabited. It is, in fact, home" (abridged ch9). A stub naming the missing procedure stood here until 2026-08-09 and was then declined, because reading the corpus at its locators found the disposition and no method; the reason is at `ops/queue/declines.md` under that date, and the warrant that would make such a method teachable rather than temperamental is [[the drive to closure has measurable costs]], which records that premature closure degrades judgment where evidence is still arriving.
 
 ## The warrant for keeping them
 
