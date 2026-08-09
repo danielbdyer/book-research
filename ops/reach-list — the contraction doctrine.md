@@ -10,7 +10,7 @@ The simulated brief: a drafting session sits down to write the book's theory of 
 - [[the diagnosis contains the cure]] — the signature move: "the minus sign points directly at what to supply" (first-telling: the offering).
 - [[the triads privations map the three malas corner for corner]] — the technical form, with the honest note that the Trika half has been checked against no outside text.
 - The four canonical formulas each arrive with their marked quote: [[burnout is obligation minus sanctuary]], [[grief is sever plus love plus persist]], [[trust and paralysis are isomers]], [[forgiveness is sever then release]].
-- [[every discrimination the molecule formulas are credited with is made by the prose beside them]] — with [[the medicine sentence negates the familiar advice before naming the restoration]] — the notation says what to supply, and the executed draft has a repeated prose template for saying it to a reader.; the result of the interiority audit, with its one-question treatment and the consequence for the prose.
+- [[every discrimination the molecule formulas are credited with is made by the prose beside them]] — with the medicine sentence negates the familiar advice before naming the restoration — the notation says what to supply, and the executed draft has a repeated prose template for saying it to a reader.; the result of the interiority audit, with its one-question treatment and the consequence for the prose.
 
 ## The origin — where the doctrine came from in this life
 
