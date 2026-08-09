@@ -1,5 +1,5 @@
 ---
-description: The formulas record which of the book's twelve operations are present and which one is missing, so attachment, order, agency, modality, temporal extent and provenance are each carried by the sentence written beside the formula rather than by the formula.
+description: The formulas record which of the book's twelve operations are present and which is missing, so attachment, order, agency and temporal extent are each carried by the sentence written beside the formula.
 category: claim
 state: privated
 privation: "the history of structural theory is stated here from general knowledge; no primary or secondary work on it has been read in this vault"
