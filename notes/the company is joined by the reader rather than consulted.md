@@ -14,13 +14,11 @@ For a session drafting any thinker's introduction, this settles how that introdu
 ## Substantiation
 
 - The four locations are first-telling, "The offering"; walked IX; atlas §X.3; and arc-gloss, "The lineage". The first telling counts as one independent statement of the law and the three compiled documents count together as a second, because the atlas and the walked document both name the arc and gloss treatment among the threads they were assembled from, which is recorded at [[the atlas was compiled from the arc and gloss treatment]].
-- The law is executed at sentence level by the way the finished prose introduces a thinker, which is recorded at [[the executed draft introduces each thinker by the duration of their labor]]: the draft states how long the person worked, then compresses the finding into one sentence, then keeps the person's own refusal inside the introduction where one exists.
 - The company holds several disagreements open, and those unresolved disagreements are what the treatment calls the "living argument" the reader joins. They include the five competing theories of where suffering lives and the disagreement between the surrender pole and the will pole, and they are listed at [[tensions]], the map that gathers the book's unresolved doctrinal disagreements.
 
 ---
 
 Relevant Notes:
-- [[the executed draft introduces each thinker by the duration of their labor]] — the prose formula the finished draft actually uses, which runs from the length of a career to the finding in one sentence to the person's own refusal, and which performs this law at sentence level
 - [[the book's company of thinkers is grouped by contribution rather than by doctrine]] — the finding that each of the five groups in the company is admitted for a different contribution rather than for what it believes, which describes how the company is organized where this claim describes how it is held toward the reader
 - [[the transformation field divides into five theories of where suffering lives]] — the finding that the corpus's eleven contemporary teachers hold exactly five incompatible theories of where suffering lives and that the corpus declines to adjudicate among them, which is the unsettled argument the reader is being asked to join
 

@@ -26,8 +26,6 @@ The simulated brief: a drafting session sits down to write the material where th
 
 - [[the basic practice posture is a point of return rather than a state]] and [[the basic practice posture is specified as simultaneous conditions rather than as a sequence]] — the posture with its recognition test.
 - [[the practice forms specify when to begin and not how to tell one is finished]] — the finding that the forms are specified at the trigger and unmarked at the exits, which is exactly where verification conditions belong.
-- [[the closing prompt changes genre where the book turns to praxis]] — how the executed draft actually asks the reader to check the body.
-- [[the voice follows every reach with a release]] — the prose rhythm that makes room for the check.
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the load the corpus puts on the instrument: referee of the field's deepest dispute.
 
 ## The reader — who the test must work for

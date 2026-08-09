@@ -22,7 +22,6 @@ The corpus's staging already answers the contradiction, without stating the rule
 Relevant Notes:
 - [[the book performs what it describes]] — the book's governing design law, that every structural device makes the reading enact what the text explains, which meets its own limit at the peak
 - [[both poles of the convergence refuse the engineered epiphany]] — the shared refusal that sets that limit, since Heidegger's enframing and the valley's doctrine of grace both hold that unconcealment cannot be manufactured
-- [[the peak uncouples the syntax and the descent re-couples it]] — the executed prose already performing the withdrawal, with the peak's sentences coming apart and the descent's opening putting them back together as short declaratives
 
 Topics:
 - [[book-structure]]

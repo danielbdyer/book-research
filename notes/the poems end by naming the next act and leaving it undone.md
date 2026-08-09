@@ -21,7 +21,6 @@ In all four, the close names the next act and hands it to whoever is reading rat
 
 Relevant Notes:
 - [[a word at madhyama can be perfected forever a word at vaikhari can be answered]] — the corpus's distinction that an unspoken sentence stays revisable and is therefore not yet real while a spoken sentence cannot be revised and can therefore be answered, which is what an ending that stops at the unperformed act enacts
-- [[the close repeats the opening's exit with one sentence inserted]] — the executed draft's ending mechanics, where the epilogue repeats the prologue's exit with one sentence inserted, standing beside this lifelong habit of ending
 - [[ripeness is not refrigeration]] — the corpus's rule that preserving finished work intact never ripens it, so readiness that is never released has become storage, a rule these endings show the author keeping before the book stated it
 
 Topics:

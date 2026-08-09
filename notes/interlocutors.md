@@ -51,7 +51,6 @@ The seats are functional. The corpus's narrative names for them are recorded in 
 - [[katz and burke aim the same trained-vocabulary premise at two different claims]] — two adversaries, one premise, one shared answer to test
 - [[the stance's refusals-intact rule was the company's practice before it was the book's]] — the company's own documented self-limiting practice
 - [[the company's refusals converge unsought where its agreements were assembled]] — the two provenance classes of convergence, and which caveat reaches which
-- [[the executed draft introduces each thinker by the duration of their labor]] — the prose formula that seats the company in the execution
 
 - [[transformation is enacted participation inside a held container]] — the one law six lineages state in six vocabularies, each quoted.
 - [[unrelated traditions converge on presence without agenda while remaining available to act]] — the same evidence shape at the practice pole: a dozen vocabularies orbiting one posture.

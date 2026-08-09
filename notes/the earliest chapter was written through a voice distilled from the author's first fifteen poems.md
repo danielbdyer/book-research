@@ -26,7 +26,6 @@ Relevant Notes:
 - [[the corpus quotes the author's poems rather than the poems quoting the corpus]] — the stratum the distillation drew from
 - [[the figures precede the system by a year and the two were welded together later]] — the dating this method sits beneath: the voice's rooting, under the figures, under the system
 - [[the author curated and vetoed while the collaborator wrote the correspondences]] — the division of hands, which this claim gives its earliest and clearest architecture
-- [[the voice follows every reach with a release]] — one of the craft notes on the high-water voice this method produced
 
 Topics:
 - [[book-structure]]

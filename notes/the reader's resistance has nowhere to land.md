@@ -26,7 +26,6 @@ Two treatments are under trial. The Refusal Pass dramatizes a real no inside the
 Relevant Notes:
 - [[the field between two people does work]] — the relational theory that supplies the object-usage warrant
 - [[a codex is a one-chair technology making a two-chair argument]] — the adjacent structural tension about what a book can host
-- [[the voice names the move it has just made]] — the treatment the earliest draft already executes, at sentence scale rather than apparatus scale
 - [[a hiding that never intends to be found has stopped being play]] — the other half of the Winnicott warrant, and the condition a staged refusal has to meet
 
 Topics:

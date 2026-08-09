@@ -26,12 +26,10 @@ One consequence for this vault is recorded in [[methods]]: the vault verifies st
 - [[felt shift versus felt confirmation]] — the tension: the click can be produced by the prose rather than the truth
 - [[both poles of the convergence refuse the engineered epiphany]] — the isomorph that keeps the standard honest: neither of the book's foundations allows the shift to be manufactured
 - [[the abridged edition compresses the opening poem rather than reproducing it]] — the one place in the sources where the treatment for that tension has been carried out on a specific text
-- [[the closing prompt changes genre where the book turns to praxis]] — the instruction genre by which the executed draft asks the reader to check the body, and its limits
+- [[the book asks only for attention until it has given the reader something to act with]] — the instruction genre by which the executed draft asks the reader to check the body, and its limits
 - [[the cusp is the back door to the stance]] — the image of the demand that outruns preparation
-- [[the voice follows every reach with a release]] — the prose rhythm that makes room for the somatic check
 - [[the book's practices are facilitation moves scaled to one reader]] — the curriculum's design law: the author's room-holding craft scaled to a room of one
 - [[the book opens from a surplus of insight rather than a lack of it]] — the problem statement that makes a somatic standard necessary: understanding that moves nothing
-- [[the executed draft scripts the reader's recognition in the reader's own first person]] — the craft that models what an arrived shift sounds like from inside
 - [[the entry chapter's instant test for a listening page fails against the fluency evidence]] — the entry figure's verification claim, bounded by the fluency evidence and repaired by the friction test
 - [[katz and burke aim the same trained-vocabulary premise at two different claims]] — two adversaries sharing one premise, met by one answer: the felt sense's refusal event
 - [[thinkers who agree on nothing else agree that a formulation can be the resistance]] — mutual adversaries converging on the charge the formula catalogue must answer
