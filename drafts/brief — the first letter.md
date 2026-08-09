@@ -1,6 +1,6 @@
 # Working brief — the first letter of the correspondence
 
-<!-- Built 2026-08-08 under the correspondence program (`ops/correspondence program.md`), after the author picked the correspondence vision and set the scope to plan plus pilot. The pilot is the opening letter — the address itself — and this brief assembles what the vault hands its drafting, sorted by job. The prose draft written from this brief is `drafts/draft — the first letter.md`; both are provisional and the author's to cut. The general assembly of material for the address concern is `ops/reach-list — the address.md`, the drafting-readiness dry run built by the sibling round on 2026-08-06; this brief selects from it for one letter and adds what the weave landed since. -->
+<!-- Built 2026-08-08 under the correspondence program (`ops/correspondence program.md`), after the author picked the correspondence vision and set the scope to plan plus pilot. The pilot is the opening letter — the address itself — and this brief assembles what the vault hands its drafting, sorted by job. The prose draft written from this brief is `drafts/draft — the first letter.md`; both are provisional and the author's to cut. The material for the address concern was assembled by the sibling round's drafting-readiness dry run on 2026-08-06; this brief selects from it for one letter and adds what the weave landed since. -->
 
 ## What this letter is
 
