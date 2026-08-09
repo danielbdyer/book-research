@@ -327,8 +327,7 @@ census = "\n".join(L)
 
 # The committed roll-up ops/outline.md was retired 2026-08-09 with the other
 # standing self-measurement instruments, so this script prints the census to
-# standard output and writes nothing. It runs in print mode regardless of the
-# flag passed.
+# standard output and writes nothing.
 print(census)
 sys.exit(0)
 PY
