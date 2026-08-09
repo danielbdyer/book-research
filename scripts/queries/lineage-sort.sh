@@ -3,9 +3,10 @@
 # what each thinker carries (load) against where they got their epistemics
 # (discipline). The point of the crossing is the empty cells — an empty cell is
 # a reading question, not a verdict. The directive is
-# ops/methodology/thesis-bearing and company.md; the maintained narrative
-# surface is ops/lineage sort.md, and where the two disagree this script is
-# right. Run from anywhere; it operates on the repository root.
+# ops/methodology/thesis-bearing and company.md; the narrative roll-up that
+# once mirrored this output was retired 2026-08-09, so this script is now the
+# sole surface for the crossing. Run from anywhere; it operates on the
+# repository root.
 cd "$(dirname "$0")/../.." || exit 1
 
 LOADS="thesis-bearing adversary independent-arrival names-existing-practice company precedent"
