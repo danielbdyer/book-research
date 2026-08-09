@@ -18,7 +18,7 @@ Regions of the eight source documents — the seven corpus documents and the poe
 - [ ] The space-around survey's crossover proposals — the specific connections it proposes between existing project pieces (for example: the survey's claim that the container anatomy is a general theory of set and setting), each a candidate claim.
 
 
-**Five entries closed 2026-08-09 by author decision.** The scheme's whole holding in `notes/` is now the two consolidated notes named in `ops/methodology/center of gravity.md`, and no new note takes a scheme as its subject; a formula-by-formula finding goes to `ops/formula audit.md` and a construct-by-construct one to `ops/inherited constructs.md`. The five closed entries between them invited about twenty new scheme notes, which is the regrowth the decision removes.
+**Five entries closed 2026-08-09 by author decision.** The scheme's whole holding in `notes/` is now the two consolidated notes named in `ops/methodology/center of gravity.md`, and no new note takes a scheme as its subject; a notation finding goes into [[every discrimination the molecule formulas are credited with is made by the prose beside them]] and a construct-descent finding into [[the apparatus descends from the settlement the book positions itself against]]. The five closed entries between them invited about twenty new scheme notes, which is the regrowth the decision removes.
 
 ## Where the open work is enumerated
 
