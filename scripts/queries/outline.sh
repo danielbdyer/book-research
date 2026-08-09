@@ -324,8 +324,6 @@ if isolated:
       ", ".join(f"[[{n}]]" for n in isolated) + ".")
     w()
 
-w(END)
-
 census = "\n".join(L)
 
 # The committed roll-up ops/outline.md was retired 2026-08-09 with the other
