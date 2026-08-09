@@ -40,7 +40,7 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 Three findings from the same day bear on this map from the speaker's side rather than the reader's: who the first audience is, what the instrument the writing is done with can and cannot be answerable for, and what a word carries once it is spoken to someone at a threshold.
 
 - [[the author is the book's first audience member and that is where the promise starts]] — the author's own answer to how a book that refuses instrumentality can promise anything, which starts from what is intrinsically useful to him rather than from either available position, and which he states is not clear to him yet.
-- [[the research instrument is a violin rather than an oracle]] — the instrument this vault is built with, which can surface rejected formulations and hold a space open but cannot dwell in one, so the answering stays the person's.
+- [[the book can only be auxiliary to a sovereign reader]] — the book's honest maximum, which the paper on the vault's own instrument reaches independently: a language model can surface rejected formulations and hold a space open but cannot dwell in one, so the answering stays the person's.
 - [[a framework for what is happening is itself a protective factor]] — the weight a spoken account carries: an accurate framework reduces harm, which means an inaccurate one is not merely unhelpful to a reader at the threshold.
 
 ## Adjacent maps
