@@ -222,7 +222,7 @@ A rename is the only structural change this pass is allowed to make, it is warra
 
 Above roughly a dozen files, run the repair through subagents. Below that, do it inline; briefing costs more than the work.
 
-1. **Write one shared brief to the scratchpad** and give every agent the same path. The brief carries the seven lines, the quality clause, the glossary, the exemptions, and the before-and-after specimens from Step 2. Agents that receive prose instructions written fresh each time enforce different standards from each other, and the vault then has to reconcile them.
+1. **Write one shared brief to the scratchpad** and give every agent the same path. The brief carries the prose register's rules, the quality clause, the glossary, the exemptions, and the before-and-after specimens from Step 2. Agents that receive prose instructions written fresh each time enforce different standards from each other, and the vault then has to reconcile them.
 2. **Give each agent a disjoint list of files** and tell it to touch nothing else. Two agents in one file produce lost edits, and the auto-commit hook will happily commit the loss.
 3. **Group the files by subject** — the draft's craft, the poems, the company of thinkers, the corpus's doctrine — so each agent holds coherent context and its glosses agree with each other.
 4. **Name the faults you already found in that agent's specific files.** A brief that says "apply the register" produces a lighter pass than one that says "this note calls a thinker a chair four times and closes two paragraphs on mirrored pairs."
