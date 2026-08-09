@@ -37,6 +37,14 @@ A third kind of document was considered for a standing of its own on 2026-08-02 
 
 4. **Recency is not authority, and neither is completeness.** The abridged edition is the most finished object in `sources/`, and one of its central terms was subsequently vetoed by the author (see [[the prose drafts use the vetoed triad names]]). The mythic operating system edition is the least finished and carries a chapter the author names a high-water mark of voice. A draft's stage tells the vault where the document sits in the sequence, not how much of it survives.
 
+## A reading rule for documents at different distances from the events they report (added 2026-08-09)
+
+The eight documents sit at different distances from the decisions they describe, and a measured case establishes which way a stated reason drifts across that distance. The reason for retiring the container's first corner names was recorded three times over three weeks, and it changed shape each time: minutes after the decision it was three practical problems, five days later it was a philosophical principle about tools implying a wielder, and three weeks later it was a line of the book's own doctrine. The last version reads best and is furthest from what happened, and the sentence it credits — "nothing hides like the always-there" — is the author's own from three nights *before* the veto, about a different subject. The finding with its full evidence is [[a recorded reason drifts toward doctrine with distance from the decision]].
+
+The rule that follows binds every session reading a source for *why* something was done. Where two documents disagree about a reason, the one written nearer the event is the one closer to what happened, and the later one is read as a retelling rather than as a correction. The arc-and-gloss treatment was written inside the drafting thread; the atlas and the walked survey were assembled three weeks later from those same threads ([[the atlas was compiled from the arc and gloss treatment]]). The corpus preserves no marker distinguishing a reason given at the time from one composed afterward, so the distance has to be supplied by the reader.
+
+This does not make a later reason false, and it does not touch the rule that reason produced. It establishes that the later reason is later, that a different hand wrote it, and that a session quoting it says so.
+
 ## Relationship to the admission standard
 
 The admission standard in `notes/methods.md` is unchanged and applies to draft material without relaxation: a passage becomes a claim only if it would actually change how the project thinks. The drafts are long and their prose is designed to carry a reader forward, which makes the fluency risk named at [[felt shift versus felt confirmation]] sharper here than in any of the founding documents. The test to apply to a draft passage is whether it states something the vault did not already hold, not whether reading it was persuasive.
