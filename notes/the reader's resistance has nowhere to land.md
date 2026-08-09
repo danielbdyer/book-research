@@ -18,7 +18,6 @@ Two treatments are under trial. The Refusal Pass dramatizes a real no inside the
 - Atlas §XI.1c records the tension, both treatments, and the Winnicott warrant.
 - First-telling, "The honesty," discloses the lost argument to the reader as a trust mechanism.
 - Walked XI carries the fuller account, including the placement of the Doubting Hand within the margin apparatus.
-- A third treatment is already executed in the corpus and neither the assessment nor this note had counted it. The earliest draft answers the resistance at the scale of the sentence rather than the apparatus: it performs a risky move and then names it immediately, in the reader's own likely words, so the objection is voiced by the book before the reader can raise it ([[the voice names the move it has just made]]). That is a smaller device than a staged refusal and it has the advantage of already existing in prose, which neither treatment under trial does.
 - The Winnicott warrant has a second clause the vault holds separately, and it bears on why a staged refusal has to be survivable rather than merely dramatized: hiddenness is joyful only inside an intention to be found, so a book that invites destruction and then retaliates has broken the same rule ([[a hiding that never intends to be found has stopped being play]]).
 
 ---
