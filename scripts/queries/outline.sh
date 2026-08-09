@@ -197,8 +197,7 @@ w()
 w("The groupings below are computed rather than declared: claims are nodes, wiki links between "
   "them are edges, and the regions come from modularity maximization over that graph. A region "
   "found this way cannot be a table of contents in disguise, which is why the author asked for "
-  "this measurement rather than a chapter-keyed one (`ops/convergence points.md`, which "
-  "interprets the same instrument at length). Modularity is a heuristic and boundaries move "
+  "this measurement rather than a chapter-keyed one. Modularity is a heuristic and boundaries move "
   "between runs; **no region here is a unit of the book.**")
 w()
 try:
