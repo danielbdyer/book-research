@@ -22,6 +22,10 @@ One consequence for this vault is recorded in [[methods]]: the vault verifies st
 - [[flourishing flow and facilitation converged on one stance in the author's own record]] — the same arrival traced through the author's three working domains rather than through traditions
 - [[the basic practice posture is specified as simultaneous conditions rather than as a sequence]] — the six components the executed draft gives the posture, and the recognition test it supplies in place of a completion test
 - [[the practice forms specify when to begin and not how to tell one is finished]] — the twelve forms, specified at their trigger and unmarked at both exits
+- [[the solo practice reaches the felt shift and the primitives then surface by themselves]] — Focusing as the curriculum's foundational solo practice, whose endpoint is this map's own instrument
+- [[the affective practice completes a feeling's descent with consent between repression and venting]] — the emotional practice beneath the twelve forms, verified by the feeling's completed descent felt in the body
+- [[the diagnostic method reads each structural layer with its own question]] — the curriculum's closing diagnostic, one read per structural layer, each read gated by the felt shift
+- [[the crisis triage collapses the diagnostic to body holding and contact]] — the same diagnostic reduced for acute distress to three body-answerable questions
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the dispute the corpus asks this map's instrument to settle, case by case
 - [[felt shift versus felt confirmation]] — the tension: the click can be produced by the prose rather than the truth
 - [[both poles of the convergence refuse the engineered epiphany]] — the isomorph that keeps the standard honest: neither of the book's foundations allows the shift to be manufactured
