@@ -1,6 +1,6 @@
 # Lineage sort
 
-<!-- The company crossed on two axes: what each thinker carries (`load:`) against where they got their epistemics (`discipline:`). The directive is `ops/methodology/thesis-bearing and company.md`; the source is the mesh grid, received and partially cosigned 2026-08-05, held at `provenance/the mesh grid.pdf`. This file is the working surface: the sort as it currently stands, and the holes it exposes. It is a reading allocator, not a ranking of evidence — `ops/methodology/authorial stance.md` governs prose unchanged. -->
+<!-- The company crossed on two axes: what each thinker carries (`load:`) against where they got their epistemics (`discipline:`). The directive is `ops/methodology/thesis-bearing and company.md`; the source is the mesh grid, received and partially cosigned 2026-08-05, held at `provenance/the mesh grid.pdf`. This file is the working surface: the sort as it currently stands, and the holes it exposes. It is a reading allocator, not a ranking of evidence — `ops/methodology/authorial stance.md` governs prose unchanged. The author reaffirmed that scope on 2026-08-09, keeping the two fields and this crossing rather than dismantling them, and directing that every surface carrying them say what they order: a cell in the grid below says which text to open next, and it never says that one thinker's finding weighs more than another's. -->
 
 ## What this file is for
 
