@@ -53,25 +53,15 @@ if [ -f ops/orientation.md ]; then
   echo ""
 fi
 
-# The register countermeasure: printed at every session start, at the author's
-# direction (2026-08-05), deliberately redundant with CLAUDE.md, the
-# orientation, and the register itself. The canonical copy is the final section
-# of ops/methodology/prose register.md; where copies disagree, that one wins.
-echo "## The register countermeasure (applies to every sentence this session writes, files equally with replies; seven lines)"
+# Research diction: one line pointing at the standing directive, printed at
+# session start. The seven-line countermeasure block, its per-turn hook, its
+# write gates and its verifier script were retired on 2026-08-09, because the
+# apparatus discussed how the vault writes more than it improved the writing.
+# The insight it carried survives as the "Write with research diction" directive
+# in CLAUDE.md and in ops/methodology/prose register.md.
+echo "## Research diction"
 echo ""
-echo "1. Every statement is a complete sentence with a named subject and a finite verb. No fragment stands as a sentence; check the last sentence of each paragraph first, because fragments concentrate at the closes — and in list-shaped prose check the bullet's opening words before a colon at the same priority, because there a headline substitutes for a claim."
-echo "2. A vault-internal term (chair, seat, load, privated, the sort, the torch, and every other pipeline coinage) is unfolded in the sentence where it appears, or replaced with plain words. In replies to the author this is absolute: he authored the book the terms describe, not the terms."
-echo "3. A reference is a receipt, never the content. Every link or file path travels with one clause stating what it points to; a paragraph must still assert everything it asserted with its links struck out."
-echo "4. A figure of speech appears only inside quotation marks, where the quoted phrasing is itself the finding. Mirrored pairs, load-bearing metaphors, quotable endings, and self-narration are statements withheld, not style."
-echo "5. An abstract noun that stands for something specific is expanded where it stands: the sentence names the thing, not its category. Check consequence-sentences first, because abstraction concentrates where a finding's meaning is stated."
-echo "6. Every reply to the author is reread as him before it is sent, in full, applying lines 1 through 5. Every prose file the session writes is reread the same way before it is saved, as the reader it will actually meet: the author, or a later session with none of this one's context. There is no internal register."
-echo "7. A subagent's report is raw material, never copy: its findings are recomposed under these lines before they are filed, and every research prompt states the register's demands."
-echo ""
-echo "The quality clause carries equal force: none of this shortens or flattens. Long subordinate sentences are welcome when they unfold in reading order; richness is the right fact, complete, with its reason attached. The ban is on compression that withholds, never on complexity that delivers."
-echo ""
-if [ -f scripts/queries/countermeasure.sh ]; then
-  bash scripts/queries/countermeasure.sh --quiet || true
-fi
+echo "Write like a careful graduate researcher, plainly, so the information is never lost in the prose. The standing directive is 'Write with research diction' in CLAUDE.md: named subjects and finite verbs, references that carry their content, abstract nouns expanded into the thing itself, figures of speech only in quotation marks, pipeline coinages unfolded, and every file reread as the reader it will meet. Complexity that delivers is welcome; compression that withholds is not. Repair drifted prose with /recompose."
 echo ""
 echo "---"
 echo ""
