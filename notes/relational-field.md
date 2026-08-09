@@ -21,6 +21,7 @@ The atlas records the structural problem under its own heading at §VIII — "th
 - [[the field between two people does work]] — the Third Entity claim as that unit makes it
 - [[intimacy is a tether rather than a binding]] — the positive name for a connection that holds without enclosing, which the catalogue otherwise identifies only by its failure
 - [[grief cannot complete alone]] — the strongest case, carried by all four source documents
+- [[the crisis triage collapses the diagnostic to body holding and contact]] — the crisis reduction whose "do not isolate" makes contact a survival floor, the field at its most load-bearing
 - [[nothing transforms from the audience]] — the law the book's practice lineages agree on unanimously
 - [[grief is sever plus love plus persist]] — the formula whose witness-as-catalyst prefigures this map's claim
 - [[a hiding that never intends to be found has stopped being play]] — Winnicott's hide-and-seek finding, which the corpus pairs with the play doctrine
