@@ -32,7 +32,7 @@ To know the corpus by character: `atlas` maps the whole field in symbols; `walke
 
 ## Posture
 
-Seven standing directives, stated below, govern all prose and naming. Each is recorded in full in `ops/methodology/`; the whole standing set is larger and still growing — the primary-material rule in The center above and the correspondence rule in Writing a claim below are directives of the same rank — and every directive is indexed with one line of contents at `ops/methodology/methodology.md`.
+Six standing directives, stated below, govern all prose and naming. Each is recorded in full in `ops/methodology/`; the whole standing set is larger and still growing — the primary-material rule in The center above and the correspondence rule in Writing a claim below are directives of the same rank — and every directive is indexed with one line of contents at `ops/methodology/methodology.md`.
 
 **Keep the reference surface denotative** (`vocabulary policy.md`). Filenames, YAML fields, enum values, folder names, and headings name their concern in plain terms. The book's narrative vocabulary is graph content — it lives in `notes/figure glossary.md` and in image-category claims, never as metadata bound to a note.
 
