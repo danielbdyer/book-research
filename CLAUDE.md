@@ -169,7 +169,6 @@ Maintenance is condition-based. The session hook counts and reports the first si
 | inbox holds 3 or more items | /reduce or /pipeline |
 | 10 or more open observations in `ops/observations/` | /rethink |
 | 5 or more operational tensions in `ops/tensions/` | /rethink |
-| 5 or more unprocessed session records | /remember --mine-sessions |
 | qmd missing, or notes newer than the semantic index | `scripts/bootstrap.sh`, or `qmd update && qmd embed` |
 | notes newer than the outline census | `scripts/queries/outline.sh` |
 | methodology notes 30 or more days behind config changes | /rethink drift |
