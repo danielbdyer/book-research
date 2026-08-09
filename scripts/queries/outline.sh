@@ -109,9 +109,7 @@ def w(s=""):
     L.append(s)
 
 today = datetime.date.today().isoformat()
-w(BEGIN)
-w()
-w(f"*Census regenerated {today} by `scripts/queries/outline.sh`. Every entry below is a note title, "
+w(f"*Census computed {today} by `scripts/queries/outline.sh`. Every entry below is a note title, "
   f"and a note title in this vault is a complete proposition, so each list reads as a list of "
   f"assertions the vault currently holds. Within each grouping the order is how many other claims "
   f"link to the note, so the propositions the rest of the graph leans on come first; each grouping "
