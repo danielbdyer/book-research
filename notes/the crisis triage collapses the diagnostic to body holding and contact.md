@@ -1,5 +1,5 @@
 ---
-description: "In acute distress the book defers its four-move diagnostic and reduces it to three yes-or-no questions — am I in my body, am I held, am I in contact with someone — which name the minimum a person needs before anything else."
+description: "In acute distress the book defers its four-move diagnostic and reduces it to three questions — am I in my body, am I held, am I in contact — which name the minimum a person needs before anything else."
 category: practice
 sources: ["abridged ch15", "walked VII"]
 topics: ["[[felt-shift]]", "[[relational-field]]"]
