@@ -21,7 +21,7 @@ He appears twice in the book: once as a source, and once as a hand writing in th
 - Atlas §IX.6d: "Pratyabhijñāhṛdayam (Kṣemarāja) — the Heart of Recognition, twenty sūtras."
 - Atlas §IX.6c records the formula and both of its sites in the book. Atlas §IX.7 records the margin seat.
 
-Evidence standing (added 2026-08-06). The corpus's account carries this note; the tradition's own words sit one link away, where the Pratyabhijñāhṛdayam's first sūtra is quoted in Sanskrit at [[the kashmir shaiva tradition would decline four of the book's deepest moves]]. No continuous reading of the Pratyabhijñāhṛdayam or the Spanda Nirṇaya exists in this vault. The thesis-bearing designation is the lineage sort's assignment (2026-08-05, `ops/lineage sort.md`) — the book takes its planted center-formula from him — and it awaits the author's seating and a reading alike.
+Evidence standing (added 2026-08-06). The corpus's account carries this note; the tradition's own words sit one link away, where the Pratyabhijñāhṛdayam's first sūtra is quoted in Sanskrit at [[the kashmir shaiva tradition would decline four of the book's deepest moves]]. No continuous reading of the Pratyabhijñāhṛdayam or the Spanda Nirṇaya exists in this vault. The thesis-bearing designation is the lineage sort's assignment (2026-08-05, `scripts/queries/lineage-sort.sh`) — the book takes its planted center-formula from him — and it awaits the author's seating and a reading alike.
 
 ---
 

@@ -16,7 +16,7 @@ Thomas Sheehan's *Making Sense of Heidegger* (2015) argues the deflationary read
 
 The refusal kept cuts kindly: on Sheehan's account the deflationary reading is not hostile to the book's use. A clearing in which the concealed becomes visible is still the structure — what his reading strips is the word's claim to name a mystical event. That disciplines the slogan without touching the practice, which is precisely the discipline the stance already wants: the book gestures at the movement and postulates no efficacy, and Sheehan is the scholar who keeps the gesture honest on the Heidegger side.
 
-The load designation on this note — adversary — is the lineage sort's assignment (2026-08-05, recorded in the crossing at `ops/lineage sort.md`); *Making Sense of Heidegger* is unread here, and the deflationary reading this note carries was verified at web depth rather than at his pages. The recommendation rests on the crossover research's survey depth (2026-08-03), not on a reading.
+The load designation on this note — adversary — is the lineage sort's assignment (2026-08-05, recorded in the crossing at `scripts/queries/lineage-sort.sh`); *Making Sense of Heidegger* is unread here, and the deflationary reading this note carries was verified at web depth rather than at his pages. The recommendation rests on the crossover research's survey depth (2026-08-03), not on a reading.
 
 ---
 

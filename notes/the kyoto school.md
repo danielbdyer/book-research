@@ -16,7 +16,7 @@ The Kyoto School is the most sustained professional walking of the East–West c
 
 The refusal kept belongs to Ueda Shizuteru, Nishitani's student and the tradition's Eckhart specialist. After the closest Eckhart–Zen comparison in the literature, Ueda concluded that Eckhart's nothingness, like negative theology's generally, still points to an inexpressibly higher being — and so is not Zen's absolute nothingness. The most sustained comparison in the whole field ends by recording a difference, declared by the comparativist with the most standing to declare identity. That is the pattern the book's refusals-intact rule predicts, arrived at independently, which makes the school both company for the crossover and evidence for the method.
 
-The load designation on this note — adversary — is the lineage sort's assignment (2026-08-05, recorded in the crossing at `ops/lineage sort.md`); the school's works are unread here, so the refusal this note expects is the grid's projection until a text is opened. The recommendation rests on the crossover research's web-verified survey depth (2026-08-03), not on a reading.
+The load designation on this note — adversary — is the lineage sort's assignment (2026-08-05, recorded in the crossing at `scripts/queries/lineage-sort.sh`); the school's works are unread here, so the refusal this note expects is the grid's projection until a text is opened. The recommendation rests on the crossover research's web-verified survey depth (2026-08-03), not on a reading.
 
 ---
 
