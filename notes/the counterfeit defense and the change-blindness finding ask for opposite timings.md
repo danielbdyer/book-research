@@ -9,7 +9,7 @@ topics: ["[[tensions]]", "[[felt-shift]]"]
 
 # the counterfeit defense and the change-blindness finding ask for opposite timings
 
-The vault holds two defenses of the felt shift, and the second primary reading showed that they instruct a reader to do opposite things.
+Two defenses of the felt shift instruct a reader to do opposite things, which the second primary reading brought to the surface.
 
 The first defense answers the fluent counterfeit. A well-written page can produce a bodily yes that responds to the prose rather than to the claim, so the vault's repair is to stop trusting the moment and check across time instead: a genuine shift changes what can be said next, and that is visible over days rather than in the instant ([[a genuine felt shift changes what can be said next]]). The instruction to a reader is to wait and check later.
 
