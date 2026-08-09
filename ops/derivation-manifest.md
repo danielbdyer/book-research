@@ -155,13 +155,10 @@ personality:
     quality: withholding-banned      # the ban is on compression that withholds, never on complexity that delivers
 ---
 
-# ── register countermeasure (stamped 2026-08-05; the canonical copy is the final section of ops/methodology/prose register.md) ──
-# Every skill that reads this manifest writes under the seven lines below, and where this copy disagrees with the canonical one, the canonical one wins.
-# 1. Every statement is a complete sentence with a named subject and a finite verb, and the last sentence of each paragraph is checked first, because fragments concentrate at the closes — and in list-shaped prose the bullet's opening words before a colon are checked at the same priority, because there a headline substitutes for a claim.
-# 2. A vault-internal term — chair, seat, load, privated, and every other pipeline coinage — is unfolded where it appears or replaced with plain words.
-# 3. A reference is a receipt, never the content, and travels with one clause stating what it points to.
-# 4. A figure of speech appears only inside quotation marks, where the quoted phrasing is itself the finding.
-# 5. An abstract noun that stands for something specific is expanded where it stands: the sentence names the thing, not its category, with consequence-sentences checked first.
-# 6. Every reply to the author is reread as him before it is sent, in full, and every prose file the session writes is reread the same way before it is saved, as the reader it will actually meet. There is no internal register.
-# 7. A subagent's report is raw material, never copy: its findings are recomposed under these lines before they are filed, and every research prompt a session sends states the register's demands.
-# The quality clause binds at equal force: the ban is on compression that withholds, never on complexity that delivers.
+# ── research diction ──
+# Every skill that reads this manifest writes under the "Write with research diction" directive
+# in CLAUDE.md and ops/methodology/prose register.md: named subjects and finite verbs; references
+# that carry their content; abstract nouns expanded into the thing itself; figures of speech only
+# in quotation marks; pipeline coinages unfolded; every file reread as the reader it will meet.
+# Complexity that delivers is welcome; compression that withholds is not. The enforcement apparatus
+# that once stamped these lines at every surface and verified them with a script was retired 2026-08-09.
