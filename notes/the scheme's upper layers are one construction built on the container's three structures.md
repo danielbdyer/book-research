@@ -1,5 +1,5 @@
 ---
-description: The twelve verb-primitives, the molecule formulas and the three loops are each defined out of the layer beneath them and out of the container's Wall, Door and Floor, so a judgment about the scheme's standing lands on all of them together rather than layer by layer.
+description: The twelve verb-primitives, the molecule formulas and the three loops are each defined out of the layer beneath them, so a judgment about the scheme's standing lands on all of them at once rather than layer by layer.
 category: claim
 state: full
 sources: ["atlas §III", "atlas §X.5e", "walked III", "walked V", "abridged ch7", "first-telling: the offering", "arc-gloss: the image system", "arc-gloss: front matter"]
