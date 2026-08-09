@@ -57,7 +57,7 @@ Six findings from that day are about how the vault works rather than about what 
 - [[sorting a lineage by load turns it toward argument]] — the tension the new axis creates against the stance that governs prose, treated by scope rather than resolved.
 - [[the convergence's independence fails where three of its names share one teacher]] — rule 7's count-once principle extended from documents to thinkers, since shared teaching makes agreement a family resemblance rather than an arrival.
 - [[the drive to closure has measurable costs]] — the warrant beneath rule 4, and the criterion that separates a disciplined open tension from a romantic one: naming what would close it.
-- [[the research instrument is a violin rather than an oracle]] — an account of how this vault's two parties transact, which reaches the book's own claim about instruments from analytic philosophy of mind and with no contact with it.
+- [[the book can only be auxiliary to a sovereign reader]] — the book's claim about instruments, which a paper on how this vault's two parties transact reaches independently from analytic philosophy of mind, with no contact with the letter's grammar the book's version rests on.
 
 ## Nascent stubs
 
