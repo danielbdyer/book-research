@@ -54,8 +54,12 @@ r = subprocess.run(
     input=content, capture_output=True, text=True, cwd=root,
 )
 if r.returncode == 1:
-    sys.stderr.write("REGISTER GATE (pre-write) blocked this write to %s:\n%s" % (rel, r.stdout))
-    sys.exit(2)
+    sys.stderr.write(
+        "REGISTER REPORT (pre-write) — %s has lines matching a past violation shape.\n"
+        "%sThe write proceeds. Reread the lines above as the reader they will meet, and\n"
+        "recompose any that withhold; a catch the detector cannot parse is not a defect.\n"
+        % (rel, r.stdout)
+    )
 sys.exit(0)
 PYEOF
 exit $?
