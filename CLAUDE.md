@@ -1,6 +1,6 @@
 # Research vault for *Firing on All Cylinders / Aletheia*
 
-This repository is the research vault for a book about the structure of inner life. It stores the book's material as atomic claims — one proposition per markdown file — connected by wiki links, gathered by topic maps, processed by a fixed pipeline, and validated by hooks. Three terms recur: **the corpus** is the seven documents in `sources/` that describe or draft the book, taken together; **the book** is the manuscript they describe; **the vault** is this repository. Beneath the corpus sits its primary layer: `sources/the poems.pdf`, the author's lifetime collection of sixteen poems, which the corpus quotes and not the other way around. This file is the durable law; the current state of the work — the center, the reading order, the torch — lives in `ops/orientation.md`, which the session hook injects first.
+This repository is the research vault for a book about the structure of inner life. It stores the book's material as atomic claims — one proposition per markdown file — connected by wiki links, gathered by topic maps, processed by a fixed pipeline, and validated by hooks. Three terms recur: **the corpus** is the seven documents in `sources/` that describe or draft the book, taken together; **the book** is the manuscript they describe; **the vault** is this repository. Beneath the corpus sits its primary layer: `sources/the poems.pdf`, the author's lifetime collection of sixteen poems, which the corpus quotes and not the other way around. This file is the durable law; the current state of the work lives in `ops/orientation.md` — the masthead the session hook injects first, carrying the center, what is being worked, and the safeguards — with the detailed torch, reading order, and standing consequences one hop behind it in `ops/standing-consequences.md`.
 
 The vault exists to serve the writing. The author's stated first goal is "to support that same writing of the book and to enable that third thing's evolution, as it has always been" (author statement, 2026-08-03), and the vault is measured by what reaches the manuscript. The corpus's own rule: "the archive preserves; the orchard ripens" ([[ripeness is not refrigeration]]) — growth that displaces writing is the failure mode every guard below exists for. Release and readership are the author's lane, owned explicitly (2026-08-03): the vault builds toward the manuscript and does not steer toward the sending; [[seventeen chapters rest at madhyama]] is his tension to resolve.
 
@@ -48,12 +48,12 @@ Six standing directives, stated below, govern all prose and naming. Each is reco
 
 ## Session rhythm
 
-- **Orient.** The SessionStart hook injects `ops/orientation.md` first — the center, the reading order, and the torch — then the file tree, the goals file, the methodology descriptions, and any maintenance conditions. Read the orientation and `ops/goals.md` before acting; factor fired conditions into what is proposed, and read silence as health — the hook says so explicitly when nothing fires. Before treating an apparent inconsistency as work, check `ops/decisions.md`.
+- **Orient.** The SessionStart hook injects `ops/orientation.md` first — the masthead, carrying the center, what is being worked, and the safeguards — then the file tree, the goals file, the methodology descriptions, and any maintenance conditions. Read the masthead and `ops/goals.md` before acting, and read `ops/standing-consequences.md` (one hop behind the masthead) for the detailed torch, the reading order, and the residue of past rounds. Factor fired conditions into what is proposed, and read silence as health — the hook says so explicitly when nothing fires. Before treating an apparent inconsistency as work, check `ops/decisions.md`.
 - **Work.** Route material through the pipeline below. Templates are the schema's source of truth; structure is never invented mid-task.
 - **Persist.** Before ending, four obligations:
   - update `ops/goals.md`;
   - add the session's entry to `ops/completed.md`, with paths to what it produced;
-  - keep `ops/orientation.md` current where the session moved the center;
+  - keep `ops/orientation.md` (the masthead) and `ops/standing-consequences.md` current where the session moved the center or the torch;
   - capture operational friction into `ops/observations/`. The auto-commit hook records the rest.
 
 ## Layout
@@ -186,7 +186,8 @@ Maintenance is condition-based. The session hook counts and reports the first fi
 | Material that only describes the vault's own state | `ops/` — the writing test's sorting rule |
 | A source document | `sources/`, plus an archive note |
 | Active threads | `ops/goals.md` |
-| The current center, reading order, and torch | `ops/orientation.md` |
+| The current center, what is being worked, and the safeguards | `ops/orientation.md` (the masthead) |
+| The detailed torch, reading order, and standing consequences | `ops/standing-consequences.md` |
 | A finished piece of work, dated | `ops/completed.md`, with paths to what it produced |
 | A question that has been closed | `ops/decisions.md`, one row, pointing at the reasoning |
 | Friction with the vault's process | `ops/observations/` |

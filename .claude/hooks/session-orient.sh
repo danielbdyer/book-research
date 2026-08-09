@@ -53,18 +53,10 @@ if [ -f ops/orientation.md ]; then
   echo ""
 fi
 
-# Research diction: one line pointing at the standing directive, printed at
-# session start. The seven-line countermeasure block, its per-turn hook, its
-# write gates and its verifier script were retired on 2026-08-09, because the
-# apparatus discussed how the vault writes more than it improved the writing.
-# The insight it carried survives as the "Write with research diction" directive
-# in CLAUDE.md and in ops/methodology/prose register.md.
-echo "## Research diction"
-echo ""
-echo "Write like a careful graduate researcher, plainly, so the information is never lost in the prose. The standing directive is 'Write with research diction' in CLAUDE.md: named subjects and finite verbs, references that carry their content, abstract nouns expanded into the thing itself, figures of speech only in quotation marks, pipeline coinages unfolded, and every file reread as the reader it will meet. Complexity that delivers is welcome; compression that withholds is not. Repair drifted prose with /recompose."
-echo ""
-echo "---"
-echo ""
+# The research-diction directive is carried by the masthead (ops/orientation.md,
+# injected above) as one of its safeguards, so it is not printed separately here.
+# The enforcement apparatus that once stamped it at fourteen surfaces was retired
+# on 2026-08-09; the insight lives in CLAUDE.md and ops/methodology/prose register.md.
 
 echo "## Workspace Structure"
 echo ""
