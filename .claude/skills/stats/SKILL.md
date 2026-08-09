@@ -10,7 +10,7 @@ allowed-tools: Read, Grep, Glob, Bash
 argument-hint: "[--share] — optional flag for compact shareable output"
 ---
 
-**THIS VAULT'S STATE SURFACES (overrides the generic counts below).** The queue is `ops/queue/tasks.md`, a markdown checklist counted by `- [ ]` entries. Observations carry `status: open|resolved|archived`; count open ones. Session records are `ops/sessions/*.json` (current.json excluded from counts). No queue.yaml, queue.json, or markdown session files exist. Apply the personality block and the register countermeasure stamped at the end of `ops/derivation-manifest.md` to every sentence written.
+**THIS VAULT'S STATE SURFACES (overrides the generic counts below).** The queue is `ops/queue/tasks.md`, a markdown checklist counted by `- [ ]` entries. Observations carry `status: open|resolved|archived`; count open ones. There are no session records and no `ops/sessions/` directory, so report no session count: the hook block that wrote one file per session was removed on 2026-08-09, because each file held an identifier, a timestamp and the word "active" and nothing a later session could read. No queue.yaml and no queue.json exist either. Apply the personality block and the register countermeasure stamped at the end of `ops/derivation-manifest.md` to every sentence written.
 
 ## Runtime Configuration (Step 0 — before any processing)
 
