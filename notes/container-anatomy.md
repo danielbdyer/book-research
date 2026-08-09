@@ -30,10 +30,7 @@ The book stacks three further levels on this anatomy: twelve verb-primitives as 
 
 Open territory bearing on this anatomy that no document develops; each records what the corpus supplies and what would close it.
 
-- [[nostalgia carries continuity across a threshold]] — nascent; an affective account of the persistence corner
 - [[an externalized system can be built to hold a self rather than only its information]] — the anatomy's hardest untried medium, filled 2026-08-03 from the author's own sister project
-- [[a ritual can be designed to hold a self in place]] — nascent; whether an anchor is a container like any other
-- [[seasonal and weekly form can be templated]] — nascent; the form the metabolic arc does not supply
 
 ## What reached the anatomy from outside
 

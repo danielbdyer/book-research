@@ -26,7 +26,6 @@ Relevant Notes:
 - [[the field between two people does work]] — the relational claim this formula proves at molecule scale
 - [[the chemistry's teachings are structural and its notation is only compositional]] — why the catalyst has to sit outside the formula, and the eight other teachings in the same position
 
-- [[a partnership can be deliberately entered and deliberately left]] — nascent; a chosen ending, which this formula does not cover
 
 Topics:
 - [[contraction-not-corruption]]

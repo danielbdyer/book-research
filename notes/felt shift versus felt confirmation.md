@@ -36,7 +36,6 @@ Relevant Notes:
 - [[the basic posture is describable as dissociation and the harm literature is unread]] — the cost of the second limit read from the other side: a muted signal may be an outcome rather than a starting condition
 - [[the author is the book's first audience member and that is where the promise starts]] — where the counterfeit hazard lands hardest, since the writer checking his own body is the one reader the standard is currently run by
 
-- [[curating beauty is a practice rather than only a hazard]] — nascent; the practice this counterfeiting mechanism argues against
 - [[a genuine felt shift changes what can be said next]] — the defense, from the standard's own source: the shift is a step, and the counterfeit produces no step
 - [[the felt sense of truth has a documented counterfeit catalogue]] — the first limit's measured literature, with the teachability finding
 - [[attending to the body is not the same as reading it accurately]] — the second limit's measured literature, with the dissociation invisible from inside

@@ -37,9 +37,6 @@ Relevant Notes:
 - [[hasidic worship through corporeality]] — the strongest candidate to fill that hole, because it adapts nothing
 - [[the fullness of the first person is the road to selflessness rather than its obstacle]] — the claim the corpus ties to this axiom, and which the Weil objection contests along with it
 
-- [[the morning is where a day acquires its coherence]] — nascent; the scale of the day, which this doctrine commits to and never treats
-- [[the sacred in the ordinary is produced by sensory design]] — nascent; whether the ordinary is noticed or arranged
-- [[seasonal and weekly form can be templated]] — nascent; the reusable form this doctrine would need to be practised
 
 - [[the sixteenth poem returns the book's language to the life it came from]] — the doctrine compressed to two words in the author's own poem: "current is tuesday" (poems #16)
 - [[a witness kept as proof forecloses what it proves]] — the doctrine's oldest emblem and its cost: jam on toast as "existential certitude in self-care… deep contentedness and fundamental worthiness" in a mundane act needing no audience, deferred for years while the proof stayed kept — "the man underneath gets his Tuesdays back" (provenance addendum four §I.3)

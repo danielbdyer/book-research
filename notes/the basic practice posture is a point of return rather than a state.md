@@ -30,8 +30,6 @@ Relevant Notes:
 - [[the practice is the expression of realization rather than a means to it]] — the clause beneath the definition: returning is not a means to steadiness, the returning is the practice
 - [[the basic posture is describable as dissociation and the harm literature is unread]] — the adversary the posture had never met, and the only one that describes it from outside its own vocabulary
 
-- [[a ritual can be designed to hold a self in place]] — nascent; the competing account, in which steadiness is built rather than returned to
-- [[a habit becomes a ritual when it is designed rather than accumulated]] — nascent; whether a practice that has become automatic still counts
 
 Topics:
 - [[felt-shift]]

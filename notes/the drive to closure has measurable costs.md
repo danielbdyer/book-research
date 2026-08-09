@@ -31,7 +31,6 @@ Relevant Notes:
 - [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the criterion that keeps this finding from being self-serving
 - [[tensions]] — the practice this supplies a warrant for
 - [[gregory bateson]] — the double bind as a method for naming a bind rather than resolving it
-- [[a kept tension can be mapped rather than only held]] — the open question about what a reader can do with a tension, which this bears on
 - [[the perfectible conversation is the manuscript's most comfortable room]] — the counterface: a warrant for not closing is also a warrant for not finishing
 
 Topics:

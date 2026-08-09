@@ -22,7 +22,6 @@ What this gives the beauty problem is a doctrine rather than a matter of taste. 
 Relevant Notes:
 - [[beauty recruits the wrong posture]] — the tension this claim substantiates, which records that the book's prose recruits an appreciating posture so the reader collects sentences while the practices go undone
 - [[the recognition school installs wonder at the definition of consciousness]] — the claim that Utpaladeva ties wonder to reflective awareness itself and that Abhinavagupta carries it into aesthetic rapture, which is where the rasa boundary quoted here is anchored
-- [[curating beauty is a practice rather than only a hazard]] — the nascent note holding the gesture that curating beauty is a practice in its own right, which this claim supplies a doctrine for
 
 Topics:
 - [[tensions]]

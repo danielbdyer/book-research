@@ -23,7 +23,6 @@ Relevant Notes:
 - [[the drafts execute one of the seven designed apparatus devices]] — the device list this instrument belongs to
 - [[the engine is a triadic theology in mechanic's clothing]] — the same habit at the scale of the title
 - [[ordinary names keep the deepest structures visible]] — the naming rule behind the habit
-- [[a person lives inside symbolic infrastructures they have built]] — nascent; holds the playlist case of the same pulse read outside the book
 
 Topics:
 - [[book-structure]]

@@ -40,7 +40,6 @@ The atlas records the structural problem under its own heading at §VIII — "th
 
 Open territory bearing on the field that no document develops.
 
-- [[a partnership can be deliberately entered and deliberately left]] — nascent; a chosen ending, which the corpus treats only as grief
 
 ## Adjacent maps
 
