@@ -335,33 +335,10 @@ w(END)
 
 census = "\n".join(L)
 
-if MODE == "--print":
-    print(census)
-    sys.exit(0)
-
-# ── Splice into ops/outline.md, preserving the written half ───────────────
-if not OUT.exists():
-    print(f"  {OUT} does not exist. Create it with the two markers in place:")
-    print(f"    {BEGIN}\n    {END}")
-    sys.exit(1)
-
-doc = OUT.read_text()
-if BEGIN not in doc or END not in doc:
-    print(f"  {OUT} is missing a census marker; nothing was written. Restore both:")
-    print(f"    {BEGIN}\n    {END}")
-    sys.exit(1)
-
-head, rest = doc.split(BEGIN, 1)
-_, tail = rest.split(END, 1)
-OUT.write_text(head + census + tail)
-
-print(f"  Census rewritten into {OUT}: {len(claims)} claims, {edges} links, "
-      f"{len(nascent)} nascent, {len(privated)} privated, {len(live)} live tensions.")
-try:
-    diff = subprocess.run(["git", "diff", "--stat", "--", str(OUT)],
-                          capture_output=True, text=True, timeout=10).stdout.strip()
-    print(f"  Change since the last committed run: {diff.splitlines()[-1].strip() if diff else 'none'}")
-    print(f"  The history of what emerged is `git log -p -- '{OUT}'`.")
-except Exception:
-    pass
+# The committed roll-up ops/outline.md was retired 2026-08-09 with the other
+# standing self-measurement instruments, so this script prints the census to
+# standard output and writes nothing. It runs in print mode regardless of the
+# flag passed.
+print(census)
+sys.exit(0)
 PY
