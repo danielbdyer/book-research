@@ -7,7 +7,7 @@ topics: ["[[methods]]", "[[open-questions]]"]
 
 # the book's heideggerian foundation has never been given the independence test the vault applies to others
 
-The vault runs an independence test on its own material and has already let it bite. When the crossover research assembled four thinkers around the book's founding convergence, three of them turned out to have studied with, translated, or built against Heidegger, and the vault recorded the consequence rather than arguing with it: agreement among people who studied one teacher is evidence about that teacher's reach rather than about the world.
+The book's founding convergence has never faced the independence test the vault applies to every other lineage, and that test has already bitten once where it was run. When the crossover research assembled four thinkers around the founding convergence, three of them turned out to have studied with, translated, or built against Heidegger, and the consequence was recorded rather than argued with: agreement among people who studied one teacher is evidence about that teacher's reach rather than about the world.
 
 The same test has never been pointed at the book's own foundation, and the record now supplies the reason it should be. The author did not meet Heidegger in a philosophy department. He met him in the Landmark Forum in 2017, along with est, as one fused unit he then carried for seven years before any scholarly genealogy was written. Erhard's own academic statement of that room's model, read on 2026-08-07, cites *Being and Time* by page and takes from it the clearing — the structure prior to a person's circumstances that decides how those circumstances can show up at all.
 
