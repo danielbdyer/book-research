@@ -1,3 +1,4 @@
+---
 description: "The book's foundational solo practice is Gendlin's Focusing, handed to the reader as a paragraph-long protocol that ends in the felt shift, after which the book claims the twelve primitives name themselves off one's own experience."
 category: practice
 sources: ["atlas §VII", "walked VII"]
