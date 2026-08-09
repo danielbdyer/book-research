@@ -291,7 +291,7 @@ Two constructs the book states under their own technical names and attributes to
 
 ## The apparatus's uncredited ancestors, added 2026-08-05
 
-Found by the second provenance sweep, one layer above the formulas. The register with the search method and its bounds is `ops/inherited constructs.md`; the pattern is `notes/the apparatus descends from the settlement the book positions itself against.md`. All four evaluated from secondary knowledge with the primary readings undone.
+Found by the second provenance sweep, one layer above the formulas. The register with the search method and its bounds, and the pattern it found, is now the note [[the apparatus descends from the settlement the book positions itself against]]. All four evaluated from secondary knowledge with the primary readings undone.
 
 - [e] Abraham Maslow — *peak experience* is his coinage, used nine times as a technical term in the executed draft with no citation; the plateau correction of his last years is the book's own central argument. Recommended reference-lineage, load `precedent`. Read the 1970 preface and *The Farther Reaches* first. `notes/abraham maslow.md`.
 - [e] Carl Rogers — Gendlin's felt shift was produced in Rogers's Chicago program and the Wisconsin project, on Rogers's question; the 1957 necessary-and-sufficient conditions are a specified version of the book's container; non-directivity is the auxiliary-reader claim. Absent from the corpus in every spelling. Recommended reference-lineage, load `precedent`, with a live question about whether he is an adversary to the diagnostic apparatus instead. The most load-bearing of the four. `notes/carl rogers.md`.
