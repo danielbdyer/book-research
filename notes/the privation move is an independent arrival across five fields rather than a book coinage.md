@@ -14,7 +14,7 @@ Aristotle makes *steresis* one of the three principles of any change at all, and
 
 Five fields with nothing in common reach for the same analytic form: classical metaphysics, an eleventh-century Śaiva school, post-war developmental science, 1970s family systems, and identity psychology. That is the evidence class the author has named the book's centerpiece, which is independent arrivals at one finding from traditions with no contact.
 
-None of the five has been read against a primary work in this vault, and each of the five chairs says so. What is established is that the corpus itself supplies two of them and that the other three were found by looking; what is not established is that any of the five defines its construct by absence in its own words, which is the sentence the whole claim turns on.
+One of the five has now been read against its own text and four have not. Aristotle, read at *Physics* I.7–9 and *Metaphysics* V.22 (`archive/reading — aristotle, physics I and metaphysics V on privation.md`), defines privation in his own words as a lack of what a thing *naturally has* — a directional absence rather than a bare one — which confirms the absence-form for the oldest arrival and bounds it: he warrants the move's structure and not its therapeutic step (see the Substantiation). For the other four, what is not established is that each defines its construct by absence in its own words, which is the sentence the whole claim turns on; the corpus itself supplies two of those four and the other two were found by looking.
 
 ## Substantiation
 
