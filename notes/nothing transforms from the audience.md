@@ -7,7 +7,7 @@ topics: ["[[relational-field]]"]
 
 # nothing transforms from the audience
 
-The corpus reports one point of unanimous agreement across the book's otherwise-disputing practice lineages, from Werner Erhard's declarative tradition to Heidegger's disclosive one: nothing transforms from the audience. The first-telling states the consequence in one line: "You can't watch your way into a changed life" (first-telling: the between). The corpus locates the difference between spectator and participant in the structure of the event itself, so an attentive and sincere spectator is still a spectator.
+Nothing transforms from the audience, and the corpus reports this as the one point of unanimous agreement across the book's otherwise-disputing practice lineages, from Werner Erhard's declarative tradition to Heidegger's disclosive one. The first-telling states the consequence in one line: "You can't watch your way into a changed life" (first-telling: the between). The corpus locates the difference between spectator and participant in the structure of the event itself, so an attentive and sincere spectator is still a spectator.
 
 The law binds the book itself, and the corpus applies it reflexively: a book is read by an audience, so the book builds participation into its form — practices the text requires the reader to complete before continuing, rather than admire and pass. The first-telling states the application directly: "nothing transforms from the audience. Including this book's."
 
