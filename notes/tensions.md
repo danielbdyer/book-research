@@ -46,7 +46,7 @@ The corpus preserves, rather than adjudicates, the disagreements among its conte
 
 ## The tension inside the vocabulary the author is questioning
 
-- [[the executed draft cannot decide whether the primitives are elementary operations or useful tools]] — treated. One page of the prose edition calls the six base operations "not metaphors… the elementary operations that constitute almost everything you do" and, four sentences later, "useful, not as facts but as tools." The two license different books, and the reader is given no signal about which they are in. Treatment: the author's decision of 2026-08-04 demoting the schemes from architecture to instrument, under which the prologue's scaffolding sentence stands and chapter five's first sentence does not. What is left is a revision note rather than an open question.
+- [[the executed draft cannot decide if the primitives are operations or tools]] — treated. One page of the prose edition calls the six base operations "not metaphors… the elementary operations that constitute almost everything you do" and, four sentences later, "useful, not as facts but as tools." The two license different books, and the reader is given no signal about which they are in. Treatment: the author's decision of 2026-08-04 demoting the schemes from architecture to instrument, under which the prologue's scaffolding sentence stands and chapter five's first sentence does not. What is left is a revision note rather than an open question.
 
 ## The tension the making exposes
 

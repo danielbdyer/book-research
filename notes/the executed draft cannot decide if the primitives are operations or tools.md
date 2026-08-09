@@ -8,7 +8,7 @@ topics: ["[[tensions]]", "[[book-structure]]"]
 state: full
 ---
 
-# the executed draft cannot decide whether the primitives are elementary operations or useful tools
+# the executed draft cannot decide if the primitives are operations or tools
 
 The prose edition asserts both possible statuses for the basic vocabulary within a single page, and the two are not compatible. First the strong one: "These are not metaphors. They are the elementary operations that constitute almost everything you do, almost every moment of every day" (abridged ch5). Then, four sentences later, the weak one: "The reason these six are useful, not as facts but as tools, is that they let you see your own behavior with a precision the usual moral vocabulary does not provide" (abridged ch5). The first says the primitives are what a person is made of. The second says they are a lens that happens to sharpen description, explicitly setting aside the question of whether they are facts.
 

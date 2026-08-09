@@ -9,7 +9,7 @@ privation: "the primary work behind the standing wave paper has not been read"
 
 # the third thing has a mechanism in participatory sense-making
 
-The book asserts that something happens between two people that neither supplied — a field that does work, a third thing present in the room ([[the field between two people does work]]). The vault has held that claim with a clinical bearer and, since 2026-08-05, a proposed ontological one ([[the relational vocabulary has an ontology and it is buber's rather than benjamin's]]). What it has not had is a mechanism.
+The book asserts that something happens between two people that neither supplied — a field that does work, a third thing present in the room ([[the field between two people does work]]). The vault has held that claim with a clinical bearer and, since 2026-08-05, a proposed ontological one ([[the relational vocabulary's ontology is buber's rather than benjamin's]]). What it has not had is a mechanism.
 
 The paper received 2026-08-05 names one. In the enactivist account of participatory sense-making, the interaction process between two people can "take on a form of autonomy," becoming a level of organization "not reducible, in general, to individual behaviours." Meaning is generated in the coordinated rhythm of the exchange rather than transmitted between two already-formed minds, and the account runs on a spectrum from mere orientation of individual sense-making up to joint acts "that can only be completed socially," such as handing someone an object. The paper's own summary is the sentence the vault wants: "This is a defensible mechanism for 'the third thing': shared meaning that is neither speaker's nor hearer's but the couple's."
 
@@ -28,7 +28,7 @@ Beside it sits the measured version. Interpersonal coordination in joint action 
 Relevant Notes:
 - [[the field between two people does work]] — the claim this supplies a mechanism for
 - [[de jaegher and di paolo]] — the chair holding this arrival, with the 2007 paper still to be read
-- [[the relational vocabulary has an ontology and it is buber's rather than benjamin's]] — the ontological bearer, where this is the empirical one
+- [[the relational vocabulary's ontology is buber's rather than benjamin's]] — the ontological bearer, where this is the empirical one
 - [[hartmut rosa]] — the resonance theory this makes literal
 - [[the convergence's independence fails where three of its names share one teacher]] — the test this arrival passes
 - [[the book's native genre is the letter from a friend read alone]] — the form the coupling requirement objects to, for the fifth time and most precisely

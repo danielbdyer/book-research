@@ -2,7 +2,7 @@
 description: This note is the provenance record for the author's lifetime collection of sixteen poems — the primary layer beneath the whole corpus, which quotes the poems and not the other way around.
 source_file: "sources/the poems.pdf"
 status: partially-extracted
-extracted: ["[[the corpus quotes the author's poems rather than the poems quoting the corpus]]", "[[the earliest chapter was written through a voice distilled from the author's first fifteen poems]]", "[[the sixteenth poem returns the book's language to the life it came from]]"]
+extracted: ["[[the corpus quotes the author's poems rather than the poems quoting the corpus]]", "[[the earliest chapter was written in a voice distilled from the first fifteen poems]]", "[[the sixteenth poem returns the book's language to the life it came from]]"]
 topics: []
 ---
 

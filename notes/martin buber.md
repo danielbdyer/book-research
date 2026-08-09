@@ -19,7 +19,7 @@ Two features of the account bear directly on this book. The relation happens *be
 
 ## Why the placement matters
 
-He is currently a chapter patron — the epigraph position, the lightest seat the roster carries — and appears in `ops/chapter concordance.md` as one line under a chapter opening. The mesh grid's reading is that the book's relational vocabulary has been running on his ontology while crediting a clinical account: "Benjamin is the clinic, Buber is the ontology" ([[the relational vocabulary has an ontology and it is buber's rather than benjamin's]]).
+He is currently a chapter patron — the epigraph position, the lightest seat the roster carries — and appears in `ops/chapter concordance.md` as one line under a chapter opening. The mesh grid's reading is that the book's relational vocabulary has been running on his ontology while crediting a clinical account: "Benjamin is the clinic, Buber is the ontology" ([[the relational vocabulary's ontology is buber's rather than benjamin's]]).
 
 The `load:` assignment here is the grid's, cosigned at 65–75% and untested against a primary reading, and the note says so rather than presenting it as settled. What can be checked from the vault's side is that the concern has no philosophical bearer at present, and that the claims the book makes about the between are of the kind that need one.
 
@@ -44,7 +44,7 @@ Recorded in the field above; the seating decision is the author's.
 ---
 
 Relevant Notes:
-- [[the relational vocabulary has an ontology and it is buber's rather than benjamin's]] — the finding this chair carries
+- [[the relational vocabulary's ontology is buber's rather than benjamin's]] — the finding this chair carries
 - [[the field between two people does work]] — the claim his account would ground
 - [[the book's native genre is the letter from a friend read alone]] — the form that might survive his objection to the solitary reader
 - [[the convergence's independence fails where three of its names share one teacher]] — the test he passes, having argued against the teacher

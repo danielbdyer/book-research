@@ -45,7 +45,7 @@ The seats are functional. The corpus's narrative names for them are recorded in 
 
 - [[the company is joined by the reader rather than consulted]] — the corpus's design law for how the whole company is held toward the reader
 - [[the refusal of the engineered epiphany is a convergence in its own right]] — the shared refusal now held as a convergence in its own right: at least seven vocabularies, several arriving unsought
-- [[the arrivals that pass the independence test arrive only at the weak reading of the participation law]] — the trade-off the six independent witnesses jointly reveal
+- [[independent arrivals reach only the weak reading of the participation law]] — the trade-off the six independent witnesses jointly reveal
 - [[the householder road is priced long by every witness who grants it]] — the witnesses' convergence on the road's price
 - [[thinkers who agree on nothing else agree that a formulation can be the resistance]] — the convergence among mutual adversaries, aimed at the formula catalogue
 - [[katz and burke aim the same trained-vocabulary premise at two different claims]] — two adversaries, one premise, one shared answer to test
@@ -82,11 +82,11 @@ Four propositions the sort finds carrying weight with no adversary seated agains
 
 - [[the participation law has a witness who came to it through crystallography]] — Polanyi, the one witness with no debt to either founding pole.
 - [[the always-there hides by being always there and wittgenstein said so without heidegger]] — the cleanest correspondence the sort found, with the refusal that halves it.
-- [[the state that arrives and the station that is earned were distinguished a millennium before the lattice that names them]] — the Sufi distinction the book already uses as its bypass guard.
+- [[state and station were distinguished a millennium before the lattice named them]] — the Sufi distinction the book already uses as its bypass guard.
 - [[what was never metabolized lives on as absence and hubl reached it through inherited trauma]] — the book's own concept of privation, reached through trauma work.
 - [[the householder claim has no witness outside the indic world]] — the load-bearing claim with no arrival at all, and three candidates.
 - [[the third thing has a mechanism in participatory sense-making]] — the enactivist arrival at the relational field, and the first mechanism that concern has ever had.
-- [[the relational vocabulary has an ontology and it is buber's rather than benjamin's]] — the attribution the sort corrected: the philosophical bearer of the between, where the clinical account had been standing in for it.
+- [[the relational vocabulary's ontology is buber's rather than benjamin's]] — the attribution the sort corrected: the philosophical bearer of the between, where the clinical account had been standing in for it.
 
 ### Seated
 
@@ -232,7 +232,7 @@ Notes are created for these thinkers when existing or new claims need them; unti
 
 This map is fed by [[research-frontier]], which holds the evaluation queue. It borders [[tensions]], because the coaches' five theories of suffering are kept in deliberate disagreement — "the fork left honestly unresolved with the body seated as referee" (atlas §IX.5).
 
-- [[the trained-vocabulary objection arrives independently from experimental social psychology]] — an unlooked-for convergence found while reading for something else: a philosopher of religion and two experimental social psychologists hold one premise about trained perception, neither citing the other
+- [[the trained-vocabulary objection arrives independently from social psychology]] — an unlooked-for convergence found while reading for something else: a philosopher of religion and two experimental social psychologists hold one premise about trained perception, neither citing the other
 
 - [[erhard and the book take different verbs from the same heideggerian object]] — from the primary reading of 2026-08-07: Erhard cites Being and Time by page and takes the clearing from it, so the corpus's fault line between his making and Heidegger's letting separates two operations on one structure rather than two positions about speech
 

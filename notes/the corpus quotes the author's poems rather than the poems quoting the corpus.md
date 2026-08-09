@@ -28,7 +28,7 @@ Relevant Notes:
 - [[the basic practice posture is a point of return rather than a state]] — the definition poem twelve states as a litany, years before the curriculum
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the fork poem seven holds in one breath without needing a referee
 - [[the founding inversion restates the author's own sufficiency inheritance]] — the already-there doctrine, which poem fifteen states in a love poem
-- [[the earliest chapter was written through a voice distilled from the author's first fifteen poems]] — how this stratum reached the book's voice
+- [[the earliest chapter was written in a voice distilled from the first fifteen poems]] — how this stratum reached the book's voice
 
 Topics:
 - [[book-structure]]

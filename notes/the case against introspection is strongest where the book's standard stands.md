@@ -5,7 +5,7 @@ sources: ["Schwitzgebel 2008, pp. 246, 249, 250–252, 259 (read 2026-08-07; the
 topics: ["[[felt-shift]]", "[[interlocutors]]"]
 ---
 
-# the case against introspective reliability is strongest exactly where the book's standard stands
+# the case against introspection is strongest where the book's standard stands
 
 The book asks a reader to tell, from the inside, that something has moved in the body. The philosopher whose whole subject is whether people can tell such things builds his case on that exact material. Schwitzgebel's first extended argument is about emotion, and the features he says elude us are the bodily ones: whether joy "is sometimes in the head, sometimes more visceral, sometimes a thrill, sometimes an expansiveness — or, instead, does joy have a single, consistent core"; whether "emotional consciousness is simply the experience of one's bodily arousal"; whether "emotional experience is consistently located in space (for example, particular places in the interior of one's head and body)" (2008, p. 249). His verdict on that material is blunt: "Even the grossest features of emotional experience largely elude us. Reflection doesn't remove our ignorance, or it delivers haphazard results" (p. 249).
 

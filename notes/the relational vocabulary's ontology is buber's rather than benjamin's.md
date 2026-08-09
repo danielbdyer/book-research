@@ -7,7 +7,7 @@ state: privated
 privation: "the primary reading of Ich und Du is not yet done; the chronology half of the grid's characterization was web-verified at round two, and the origin half failed at round three — Ebner and Rosenzweig precede — so the reading also weighs what I and Thou owes the circle (archive/research — counterpoint round background.md)"
 ---
 
-# the relational vocabulary has an ontology and it is buber's rather than benjamin's
+# the relational vocabulary's ontology is buber's rather than benjamin's
 
 The book runs an entire vocabulary of relational presence: the field between two people that does its own work, the meeting that is neither one party's doing, the address that constitutes rather than describes. The vault's philosophical bearer for that territory has been Jessica Benjamin, whose thirdness is cited for the same concern.
 

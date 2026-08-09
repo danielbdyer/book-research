@@ -46,7 +46,7 @@ Recorded in the field above; the seating decision is the author's.
 Relevant Notes:
 - [[the third thing has a mechanism in participatory sense-making]] — the finding this chair carries
 - [[the field between two people does work]] — the claim they supply a mechanism for
-- [[the relational vocabulary has an ontology and it is buber's rather than benjamin's]] — the ontological bearer, where these are the empirical one
+- [[the relational vocabulary's ontology is buber's rather than benjamin's]] — the ontological bearer, where these are the empirical one
 - [[the convergence's independence fails where three of its names share one teacher]] — the test they mostly pass
 - [[the book's native genre is the letter from a friend read alone]] — the form their coupling requirement specifies an objection to
 - [[hartmut rosa]] — the resonance theory this literature makes literal

@@ -44,7 +44,7 @@ All vault prose is expository and evidential: complete sentences with named subj
 The provenance rounds established facts about how the corpus was made. Four of them are methodological rather than biographical: each changes how a source is read, how agreement is counted, or what the vault may claim on its own behalf.
 
 - [[the corpus quotes the author's poems rather than the poems quoting the corpus]] — the operative rule for the primary source, stated in the registry below as the direction of quotation: for poems 1–15 a shared phrase belongs to the poem, so a corpus phrase may be a citation rather than a coinage.
-- [[the earliest chapter was written through a voice distilled from the author's first fifteen poems]] — what the craft rule is actually reading when it reads the high-water voice: a specification the author wrote from his own poems and then wrote through, rather than a style that emerged.
+- [[the earliest chapter was written in a voice distilled from the first fifteen poems]] — what the craft rule is actually reading when it reads the high-water voice: a specification the author wrote from his own poems and then wrote through, rather than a style that emerged.
 - [[flourishing flow and facilitation converged on one stance in the author's own record]] — the count-once rule extended from documents to domains, since three of the author's chosen fields converging shows the coherence of his attention rather than a law of the fields.
 - [[the making of the book enacts the law the book states]] — the limit case of the scope rule, and the one the vault sits inside: a law appearing in its own production history shows consistency of the maker, not truth of the law.
 
@@ -114,7 +114,7 @@ Two more arrived 2026-08-05 and differ in kind again: they are commissioned rese
 
 A fifth is cited widely enough to state here and differs in kind from the four: the **mesh grid**, received 2026-08-05, an analysis of the book's lineage rather than of the corpus's making. It sorts the company by the load each thinker carries, crosses that against where each got their epistemics, and reports the holes the crossing exposes. It is held in `provenance/` under the same standing and cited by its own sections — `mesh grid: tier 1`, `mesh grid: the search map`, `mesh grid: addendum, Wilber properly seated`. Two rules govern how it is read, both from the author's decision of 2026-08-05. Its judgments are cosigned "gently… about 65–75%," so a tier assignment is the grid's proposal rather than his seating; and its sort allocates reading rather than ranking evidence, so the rules on convergence in `ops/methodology/authorial stance.md` continue to govern vault prose unchanged. The directive is `ops/methodology/thesis-bearing and company.md`.
 
-- [[the book's heideggerian foundation has never been given the independence test the vault applies to others]] — the vault downgraded a convergence when three thinkers shared Heidegger as a teacher, and the author met Heidegger through a Landmark room in 2017, so the same check has never been pointed at the book's own ground
+- [[the book's heideggerian foundation was never given the independence test]] — the vault downgraded a convergence when three thinkers shared Heidegger as a teacher, and the author met Heidegger through a Landmark room in 2017, so the same check has never been pointed at the book's own ground
 
 ## What remains
 

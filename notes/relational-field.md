@@ -34,7 +34,7 @@ The atlas records the structural problem under its own heading at §VIII — "th
 - [[the poems hold the one-chair question and its answered posture]] — the solitary-reader problem and the posture that answers it, both in the primary layer first
 - [[the book addresses people who overthink because they oversense]] — the corpus's reader definition, kept beside the author's later one so the difference stays visible
 - [[the required second person splits into a judge and a mirror]] — the tension: the company's refusals specify two incompatible missing persons, and the sovereignty doctrine can ship only one
-- [[the arrivals that pass the independence test arrive only at the weak reading of the participation law]] — the trade-off across the law's six independent witnesses: independence or strength, not both
+- [[independent arrivals reach only the weak reading of the participation law]] — the trade-off across the law's six independent witnesses: independence or strength, not both
 - [[zen's makyo instruction refuses the self-certifying experience]] — a thousand-year precedent for the field as second check: the teacher, not the experience, verifies
 
 ### Nascent stubs
@@ -49,7 +49,7 @@ This concern borders [[answerability]], because a word becomes answerable only b
 ## The mechanism
 
 - [[the third thing has a mechanism in participatory sense-making]] — enactivist work holding that an interaction can take on autonomy and generate meaning irreducible to either party, with entrainment research as the measured half. The first mechanism this concern has had.
-- [[the relational vocabulary has an ontology and it is buber's rather than benjamin's]] — the proposal that the vocabulary's real bearer is Buber's I-Thou relation, not Benjamin's thirdness, which decides whom the book owes the citation.
+- [[the relational vocabulary's ontology is buber's rather than benjamin's]] — the proposal that the vocabulary's real bearer is Buber's I-Thou relation, not Benjamin's thirdness, which decides whom the book owes the citation.
 - [[ubuntu personhood]] — a constitutive account of relation, where the person is made in it rather than meeting another across it.
 - [[de jaegher and di paolo]] — their evaluation note, holding the mechanism, with the refusal that participatory sense-making is a process rather than a presence.
 

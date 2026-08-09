@@ -31,7 +31,7 @@ Relevant Notes:
 - [[kshemaraja]] — whose commentary makes wonder vimarśana's other name
 - [[rainer maria rilke]] — the Western end of the doorway: the torso poem is camatkāra arriving from a made thing, and the change-your-life command is what the tradition would call recognition's demand
 - [[recognition is the soul's reminder rather than the ego's reward]] — the guard this claim's doorway needs: wonder recruited for self-congratulation is the counterfeit
-- [[the state that arrives and the station that is earned were distinguished a millennium before the lattice that names them]] — the same boundary this claim keeps, drawn in another tradition: rasa arrives and passes like a state, and recognition is earned standing
+- [[state and station were distinguished a millennium before the lattice named them]] — the same boundary this claim keeps, drawn in another tradition: rasa arrives and passes like a state, and recognition is earned standing
 
 Topics:
 - [[recognition]]

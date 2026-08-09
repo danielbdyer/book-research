@@ -5,7 +5,7 @@ sources: ["the interlocutor notes for michael polanyi, heinz von foerster, harol
 topics: ["[[relational-field]]", "[[interlocutors]]"]
 ---
 
-# the arrivals that pass the independence test arrive only at the weak reading of the participation law
+# independent arrivals reach only the weak reading of the participation law
 
 The participation law's independence problem has a second face, and the six evaluations that solve the first face reveal it together. Every thinker who reached the law owing nothing to either of the book's two founding traditions refuses the same two upgrades of it. Michael Polanyi holds that "Indwelling is asymmetric: the knower is changed by dwelling in the particulars, and the crystal is not changed by being known." Heinz von Foerster "would refuse the ontological upgrade" because his claim is "epistemological and formal… not that reality is participatory." Harold Garfinkel "would refuse the transposition to the interior," being "pointedly uninterested in mental states." Donald Schön's practitioner converses "with a material… outside the practitioner." Ludwig Wittgenstein "would refuse the ontological reading flatly" and treats participation as a feature of grammar that dissolves a false problem rather than as a truth being disclosed. And De Jaegher and Di Paolo "would refuse the third thing as an entity" and make a claim about something happening rather than about something that is there.
 

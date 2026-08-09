@@ -7,7 +7,7 @@ state: privated
 privation: "the mesh grid's characterization stands in for a primary reading not yet done"
 ---
 
-# the state that arrives and the station that is earned were distinguished a millennium before the lattice that names them
+# state and station were distinguished a millennium before the lattice named them
 
 The book already declares one distinction as its protection against spiritual bypass: *ahwal* against *maqamat*, states against stations. In the Sufi formulation associated with al-Qushayrī, a state descends as a gift and cannot be produced by wanting it, while a station is earned — the phrase the tradition uses is by the sweat of the brow. A person may be visited by any state at any time, and be visited by it without having built anything that holds it.
 

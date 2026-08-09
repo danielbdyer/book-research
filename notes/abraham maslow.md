@@ -40,7 +40,7 @@ The vault's reading, stated as the vault's rather than as a finding: this is a g
 Relevant Notes:
 - [[an enormous experience is interpreted by the structure it did not change]] — the book's mechanism for why the peak does not hold, which is the question Maslow answers by relocating the value
 - [[the apparatus descends from the settlement the book positions itself against]] — the finding this is the sharpest instance of
-- [[the state that arrives and the station that is earned were distinguished a millennium before the lattice that names them]] — the credited version of the same distinction, from Sufism
+- [[state and station were distinguished a millennium before the lattice named them]] — the credited version of the same distinction, from Sufism
 - [[psychedelic names a movement not a substance]] — the reclamation his term sits inside
 - [[wilhelm reich]] — the other unquoted correspondence from the same day, and a different relation: descendants cited, head absent
 

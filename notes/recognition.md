@@ -55,7 +55,7 @@ The founding convergence is between two traditions, and the lineage sort asked w
 
 - [[the always-there hides by being always there and wittgenstein said so without heidegger]] — Investigations §129 gives this map's own reason why the never-absent goes unnoticed, with no Heidegger underneath it.
 - [[ludwig wittgenstein]] — that arrival's evaluation note, whose refusal halves the correspondence and is kept for that reason.
-- [[the state that arrives and the station that is earned were distinguished a millennium before the lattice that names them]] — the Sufi distinction the book already uses as its bypass guard, reached from outside both poles.
+- [[state and station were distinguished a millennium before the lattice named them]] — the Sufi distinction the book already uses as its bypass guard, reached from outside both poles.
 - [[al-qushayri]] — the eleventh-century systematizer who drew it.
 
 ## Why an arrival does not persist

@@ -25,7 +25,7 @@ So the book's Second Chair gains an argument from its two sharpest opponents rat
 Relevant Notes:
 - [[the second chair is the verification standard's own requirement]] — Gendlin's finding that the listener is part of the instrument, which this agreement supports from the opposite side of the argument
 - [[a codex is a one-chair technology making a two-chair argument]] — the structural problem the Second Chair treats: the book seats one reader while its deepest claim requires two people
-- [[the case against introspective reliability is strongest exactly where the book's standard stands]] — Schwitzgebel's attack, of which this diagnosis is a part
+- [[the case against introspection is strongest where the book's standard stands]] — Schwitzgebel's attack, of which this diagnosis is a part
 - [[the confabulation finding exempts current sensations and targets reports of causes]] — the Nisbett and Wilson finding, whose feedback section carries the other half of this agreement
 
 Topics:

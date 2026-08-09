@@ -6,7 +6,7 @@ topics: ["[[book-structure]]", "[[methods]]"]
 state: full
 ---
 
-# the earliest chapter was written through a voice distilled from the author's first fifteen poems
+# the earliest chapter was written in a voice distilled from the first fifteen poems
 
 The author supplies the method behind the seed's one written chapter: "that solo Chapter 1 draft emerged from this system prompt I created which analyzed the first 15 of the poems and captured my poetic voice — then that fed into how the book was authored — was from that same rooting" (author statement, 2026-08-03). The prompt itself is held verbatim at `provenance/poetic voice system prompt.md`: twenty numbered characteristics, a thematic focus, style guidelines, an emotional tone, and a twelve-step creative approach, distilled from the poems and then written through.
 

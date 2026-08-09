@@ -44,7 +44,7 @@ Relevant Notes:
 - [[the kyoto school]] — three generations of comparativists who ended by recording differences, which is this isomorph's careful form practised
 - [[the convergence's independence fails where three of its names share one teacher]] — the second failure of independence, about shared descent rather than about the book's dating
 - [[the always-there hides by being always there and wittgenstein said so without heidegger]] — the arrival that owes nothing to either pole, and the first from analytic philosophy
-- [[the state that arrives and the station that is earned were distinguished a millennium before the lattice that names them]] — the same recognition doctrine met by a tradition that also insists an arrival is not a station
+- [[state and station were distinguished a millennium before the lattice named them]] — the same recognition doctrine met by a tradition that also insists an arrival is not a station
 
 Topics:
 - [[recognition]]

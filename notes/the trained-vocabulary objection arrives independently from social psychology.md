@@ -5,7 +5,7 @@ sources: ["Nisbett and Wilson 1977, pp. 251, 254 (read 2026-08-07; the reading r
 topics: ["[[felt-shift]]", "[[interlocutors]]"]
 ---
 
-# the trained-vocabulary objection arrives independently from experimental social psychology
+# the trained-vocabulary objection arrives independently from social psychology
 
 The objection the vault treats as the deepest form of the fluency problem turns out to have two unconnected bearers. Steven Katz's constructivism holds that a mystical report is shaped by the tradition that produced the reporter, so a body trained in the book's vocabulary would countersign the training rather than anything beyond it. Nisbett and Wilson reach the same premise from laboratory studies of ordinary self-report, and they state it as a rule about when reports come out accurate: "we may say that people will be accurate in reports about the causes of their behavior and evaluations wherever the culture, or a subculture, specifies clearly what stimuli should produce which responses, and especially where there is continuing feedback from the culture or subculture concerning the extent to which the individual is following the prescribed rules" (1977, p. 254). Their next sentences refuse to count that accuracy as knowledge of oneself: "such accuracy cannot be regarded as evidence of direct access to processes of evaluation. It is evidence for nothing more than the ability to describe the formal rules of evaluation" (p. 254).
 

@@ -90,7 +90,7 @@ The provenance record of 2026-08-02 and after — the accounts of the corpus's m
 - [[the book was written across the author's move to seattle to live in earnest]] — the life-arc the whole composition spans, from Houston training to Seattle rebuild.
 - [[the book's doctrine of time restates a sentence the author's father told him]] — the inheritance the temporal doctrines vary, entered by testimony.
 - [[the corpus quotes the author's poems rather than the poems quoting the corpus]] — the primary layer: for the fifteen poems predating the book, shared phrases originate in the poem.
-- [[the earliest chapter was written through a voice distilled from the author's first fifteen poems]] — the documented method behind the seed's high-water voice.
+- [[the earliest chapter was written in a voice distilled from the first fifteen poems]] — the documented method behind the seed's high-water voice.
 - [[the sixteenth poem returns the book's language to the life it came from]] — the flagged exception: the one book-era poem, carrying the vocabulary home.
 - [[the gold thread is the rainbow thread re-owned]] — the continuity figure's genealogy, one layer beneath the seed: a shared image, re-dyed.
 - [[a recorded reason drifts toward doctrine with distance from the decision]] — why a reason recorded in the later documents may not be the reason given at the time.
@@ -117,7 +117,7 @@ The provenance record of 2026-08-02 and after — the accounts of the corpus's m
 - [[the unfolding of the center is planted half-erased and finished at a mirror]] — the clearest case of the planting device: a formula planted as a fragment and finished late
 - [[every discrimination the molecule formulas are credited with is made by the prose beside them]] — the notation that sorts the catalogue into descriptions and instructions; what happens when the executed draft's own formulas are checked against each other; the general finding from the complete formula audit: the notation records membership and every teaching is about relation; the asserted test that made the set an alphabet, and its missing instance
 - [[the corpus names the standard its found-not-invented axiom has not met]] — two descriptive sources disagreeing about whether the vocabulary is a discovery
-- [[the executed draft cannot decide whether the primitives are elementary operations or useful tools]] — the same page asserting both statuses, treated by the author's demotion
+- [[the executed draft cannot decide if the primitives are operations or tools]] — the same page asserting both statuses, treated by the author's demotion
 - [[the diagnostic discipline survives the apparatus that carries it]] — what stands if the notation is set aside, and on what grounds
 - [[the book asks only for attention until it has given the reader something to act with]] — the unstated rule governing what an instruction may ask for, and when
 - [[the peak is the one unit the performing law can honor only by withdrawing]] — the two laws' one collision, resolved by the staging's withdrawal

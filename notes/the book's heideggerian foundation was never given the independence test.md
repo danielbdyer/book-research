@@ -5,7 +5,7 @@ sources: ["provenance addendum §3 (consulted, held outside sources/)", "Erhard 
 topics: ["[[methods]]", "[[open-questions]]"]
 ---
 
-# the book's heideggerian foundation has never been given the independence test the vault applies to others
+# the book's heideggerian foundation was never given the independence test
 
 The book's founding convergence has never faced the independence test the vault applies to every other lineage, and that test has already bitten once where it was run. When the crossover research assembled four thinkers around the founding convergence, three of them turned out to have studied with, translated, or built against Heidegger, and the consequence was recorded rather than argued with: agreement among people who studied one teacher is evidence about that teacher's reach rather than about the world.
 
