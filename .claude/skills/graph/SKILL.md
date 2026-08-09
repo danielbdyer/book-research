@@ -10,7 +10,7 @@ allowed-tools: Read, Grep, Glob, Bash
 argument-hint: "[operation] [target] — operations: health, triangles, bridges, clusters, hubs, siblings, forward, backward, query"
 ---
 
-**THIS VAULT'S FIELD NAMES (overrides the stock query vocabulary below).** Notes carry `category:` (not `type:`, except maps' `type: moc`), a `sources:` flow array of anchors (not `source:`), and `status: live|treated|resolved` on tensions only. There is no `ops/scripts/graph/`; the inline fallbacks below are the implementation, and `scripts/queries/clusters.sh` is the standing regions query. Apply the personality block and the register countermeasure stamped at the end of `ops/derivation-manifest.md` to every sentence written.
+**THIS VAULT'S FIELD NAMES (overrides the stock query vocabulary below).** Notes carry `category:` (not `type:`, except maps' `type: moc`), a `sources:` flow array of anchors (not `source:`), and `status: live|treated|resolved` on tensions only. There is no `ops/scripts/graph/`; the inline fallbacks below are the implementation, and `scripts/queries/clusters.sh` is the standing regions query. Apply the personality block in `ops/derivation-manifest.md` and the research-diction register (`CLAUDE.md`, Research diction; `ops/methodology/prose register.md`) to every sentence written.
 
 ## Runtime Configuration (Step 0 — before any processing)
 

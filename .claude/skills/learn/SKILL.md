@@ -6,7 +6,7 @@ allowed-tools: Read, Write, Edit, Grep, Glob, Bash, mcp__exa__web_search_exa, mc
 context: fork
 ---
 
-**THIS VAULT'S CENTER OF GRAVITY.** The book's centerpieces are the convergence of thinkers and the lived practice (`ops/methodology/center of gravity.md`), which makes outward thinker research this vault's primary /learn use. A thinker finding's deliverable is the pointing — the one finding a drafting session would quote — and the refusal worth keeping; never a translation into the system's vocabulary. Apply the personality block and the register countermeasure stamped at the end of `ops/derivation-manifest.md` to every sentence written.
+**THIS VAULT'S CENTER OF GRAVITY.** The book's centerpieces are the convergence of thinkers and the lived practice (`ops/methodology/center of gravity.md`), which makes outward thinker research this vault's primary /learn use. A thinker finding's deliverable is the pointing — the one finding a drafting session would quote — and the refusal worth keeping; never a translation into the system's vocabulary. Apply the personality block in `ops/derivation-manifest.md` and the research-diction register (`CLAUDE.md`, Research diction; `ops/methodology/prose register.md`) to every sentence written.
 
 **THIS VAULT'S ADMISSION BAR.** Findings pass the writing test (`ops/methodology/writing test.md`): a result becomes a note only if a drafting session would reach for it. Research summaries about the project's own process route to `ops/`; an absence discovered is one seed, not an essay.
 

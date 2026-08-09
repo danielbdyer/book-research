@@ -7,7 +7,7 @@ context: fork
 model: sonnet
 ---
 
-**THIS VAULT'S CONVENTIONS (overrides the stock description rules below).** A description is a complete sentence ending with a period, up to 220 characters, per `templates/claim-note.md`; `scripts/queries/frontmatter-parse.sh` is the enforcing instrument and its enums are the templates'. The queue is `ops/queue/tasks.md`; no queue.yaml or queue.json exists. Apply the personality block and the register countermeasure stamped at the end of `ops/derivation-manifest.md` to every sentence written.
+**THIS VAULT'S CONVENTIONS (overrides the stock description rules below).** A description is a complete sentence ending with a period, up to 220 characters, per `templates/claim-note.md`; `scripts/queries/frontmatter-parse.sh` is the enforcing instrument and its enums are the templates'. The queue is `ops/queue/tasks.md`; no queue.yaml or queue.json exists. Apply the personality block in `ops/derivation-manifest.md` and the research-diction register (`CLAUDE.md`, Research diction; `ops/methodology/prose register.md`) to every sentence written.
 
 ## Runtime Configuration (Step 0 — before any processing)
 
