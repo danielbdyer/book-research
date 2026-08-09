@@ -24,43 +24,18 @@ fi
 
 READ_CONFIG="$GUARD_DIR/read_config.sh"
 
-if [ -n "$SESSION_ID" ] && [ "$(bash "$READ_CONFIG" "session_capture" "true")" = "true" ]; then
-  TIMESTAMP=$(date -u +"%Y%m%d-%H%M%S")
-  mkdir -p ops/sessions
-
-  # Promote previous session if it's a different ID
-  if [ -f ops/sessions/current.json ]; then
-    if command -v jq &>/dev/null; then
-      PREV_ID=$(jq -r '.id // empty' ops/sessions/current.json)
-      PREV_STARTED=$(jq -r '.started // empty' ops/sessions/current.json)
-    else
-      PREV_ID=$(grep -o '"id":"[^"]*"' ops/sessions/current.json | head -1 | sed 's/"id":"//;s/"//')
-      PREV_STARTED=$(grep -o '"started":"[^"]*"' ops/sessions/current.json | head -1 | sed 's/"started":"//;s/"//')
-    fi
-
-    if [ -n "$PREV_ID" ] && [ "$PREV_ID" != "$SESSION_ID" ]; then
-      # Different session — promote previous to timestamped archive
-      ARCHIVE_TS="${PREV_STARTED:-$TIMESTAMP}"
-      mv ops/sessions/current.json "ops/sessions/${ARCHIVE_TS}.json"
-    fi
-  fi
-
-  # Write current session
-  cat > ops/sessions/current.json << EOF
-{
-  "id": "$SESSION_ID",
-  "started": "$TIMESTAMP",
-  "status": "active"
-}
-EOF
-
-  # The session record is deliberately not committed here. Committing it on
-  # every resume produced one no-content commit per session, and because this
-  # hook ran with --no-verify those commits carried no signature and the
-  # platform reported them unverified. The auto-commit hook stages everything
-  # with `git add -A`, so ops/sessions/ rides along with the next real change.
-  # See ops/observations/session-start hook commits an unsigned record on every resume.md
-fi
+# Session capture was removed on 2026-08-09 by author decision, and the
+# directory it wrote to is gone. Each record it produced held a session
+# identifier, a timestamp and the word "active" and no other content, so the
+# nine that had accumulated were nine files with nothing in them to read. The
+# maintenance condition below counted those files and recommended mining them
+# for methodology corrections at five or more, which meant the recommendation
+# fired at every session start against files that could not answer it. What
+# the recommendation was actually for — corrections the author makes in
+# conversation — is captured by /remember from the transcript, which is where
+# it always lived; the records never held it. The earlier finding that this
+# block also produced one unsigned commit per resume is at
+# ops/observations/session-start hook commits an unsigned record on every resume.md.
 
 # Export session ID for later hooks
 if [ -n "$CLAUDE_ENV_FILE" ] && [ -n "$SESSION_ID" ]; then
