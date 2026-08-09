@@ -1,5 +1,5 @@
 ---
-description: "The book's emotional practice is a third way between walling a feeling off and detonating it — the feeling felt fully and allowed to complete its movement with the whole person's consent — which the corpus files as the middle voice applied to affect."
+description: "The book's emotional practice is a third way between walling a feeling off and detonating it: the feeling felt fully and allowed to complete its movement with consent, filed as the middle voice for affect."
 category: practice
 sources: ["atlas §VII", "walked VII", "atlas §VI.6"]
 topics: ["[[felt-shift]]", "[[answerability]]"]
