@@ -10,7 +10,7 @@ state: full
 
 # a synthesis organized by the schemes offers to promote them back to architecture
 
-On 2026-08-04 the author demoted the book's conceptual schemes from architecture to instrument: "I'm not throwing them out. I'm demoting them from architecture to instrument. Useful for seeing with; not the thing the book is wrapped around." The model he named was a text offering a hundred and twelve practices that claims neither completeness nor non-overlap, so that gaps and overlaps in the scheme set are not defects and are never work.
+A research synthesis organized throughout by the book's conceptual schemes, and supplying each with a neural correlate, offers to promote those schemes back to the architecture the author demoted them from. He made that demotion on 2026-08-04: "I'm not throwing them out. I'm demoting them from architecture to instrument. Useful for seeing with; not the thing the book is wrapped around." The model he named was a text offering a hundred and twelve practices that claims neither completeness nor non-overlap, so that gaps and overlaps in the scheme set are not defects and are never work.
 
 The research synthesis received 2026-08-05 is organized by one of those schemes from its first paragraph to its last. It opens by stating the three loops as the structure of selfhood, gives each a section with neural correlates — the insular cortex for the temporal and somatic loop, medial prefrontal cortex and temporal-parietal junction for identity and expression, the Default Mode Network for continuity and meaning — and then reads every substance, every tradition and every clinical finding through what it does to the three. Its closing sentence returns the whole territory to the book's title.
 
