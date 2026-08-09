@@ -2,7 +2,7 @@
 description: This note is the provenance record for the abridged edition, a complete prose draft of the fifteen-chapter arc; it is the only document in sources/ that executes the arc rather than describing or planning it.
 source_file: "sources/firing on all cylinders - abridged edition.pdf"
 status: partially-extracted
-extracted: ["[[the whole arc has already been drafted once in prose]]", "[[trust paralysis and foreclosure differ only on the commit-defer axis]]", "[[the prose drafts use the vetoed triad names]]", "[[the abridged edition compresses the opening poem rather than reproducing it]]", "[[the drafts disagree about which person the book speaks in]]", "[[the basic practice posture is specified as simultaneous conditions rather than as a sequence]]", "[[the practice forms specify when to begin and not how to tell one is finished]]", "[[internal family systems]]"]
+extracted: ["[[the whole arc has already been drafted once in prose]]", "[[trust paralysis and foreclosure differ only on the commit-defer axis]]", "[[the prose drafts use the vetoed triad names]]", "[[the abridged edition compresses the opening poem rather than reproducing it]]", "[[the drafts disagree about which person the book speaks in]]", "[[the basic practice posture is specified as simultaneous conditions rather than as a sequence]]", "[[the practice forms specify when to begin and not how to tell one is finished]]", "[[internal family systems]]", "[[the diagnostic method reads each structural layer with its own question]]", "[[the crisis triage collapses the diagnostic to body holding and contact]]"]
 topics: []
 ---
 
