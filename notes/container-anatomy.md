@@ -22,7 +22,6 @@ Three further levels are built on this anatomy — twelve verb-primitives as its
 - [[the open center is made possible by the three structures and identical with none of them]] — what the three structures are for: the open middle they hold
 - [[thisness is the grain of the container anatomy]] — containers serve particulars, and Scotus, Hopkins, and Deleuze are the named lineage for that idea
 - [[ordinary names keep the deepest structures visible]] — the naming rule from the rename: plain names keep the teaching in the reader's room
-- [[the primary layer states its own limit on atomization]] — the poems' prior ruling on how far decomposition may go: elements keep their matter
 - [[the traditions' refusal of extraction restates the book's own container law]] — five traditions refusing extraction, on the book's own theorem that the container is constitutive
 
 ### Nascent stubs
@@ -55,7 +54,9 @@ This concern borders [[contraction-not-corruption]], because the anatomy's failu
 
 ## What remains
 
-The twelve primitives exist in this vault only as a single claim about their grammatical design. The individual primitives, their three make/unmake pairs, and the closure test (no thirteenth primitive found) have not been extracted from atlas §III into their own notes, and neither have the engine's three loops or the four-axis movement grid from atlas §V. All of these are listed in `ops/queue/extractions.md`, where the center-of-gravity decision keeps them demoted to as-needed: this map's backlog is deliberately unhurried, and clearing it is not a priority a session should infer.
+Nothing about the upper layers remains for this map, and that is a decision rather than a backlog. The individual primitives, their three make-and-unmake pairs, the closure test, the engine's three loops and the four-axis movement grid were all standing extraction tasks until 2026-08-09, when the author demoted the upper layers fully and directed that the material be preserved in a few robust notes rather than reified in an apparatus, in his words because "there's still validity in the ideas here but we do not reify them as so deserving of an apparatus going forward." Those extraction entries are closed and no new note takes a scheme as its subject; the rule and its two destinations are in `ops/methodology/center of gravity.md`.
+
+What remains for this map is the container doctrine itself, and the open work in it is a reading rather than an extraction: the Scotus-to-Hopkins-to-Deleuze lineage that the corpus names for thisness has never been checked at any of the three texts.
 
 ---
 

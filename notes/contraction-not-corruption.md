@@ -60,6 +60,7 @@ This concern borders [[container-anatomy]], because the privations are that anat
 ## What the interiority audit found
 
 - [[the compound diagnoses may relocate a structural condition inside a person]] — the tension it answers, now treated rather than live.
+- [[the primary layer states its own limit on atomization]] — the poems' prior ruling on how far decomposition may go: elements keep their matter, and an equation may work out without a solution
 
 ## What remains
 

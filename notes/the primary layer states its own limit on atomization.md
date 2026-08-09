@@ -2,7 +2,7 @@
 description: "Poem #7 rules that elements may not be split beyond their matter and poem #11 lets an equation work out without a solution, both written before the book's twelve primitives and its formulas existed."
 category: claim
 sources: ["poems #7", "poems #11"]
-topics: ["[[container-anatomy]]"]
+topics: ["[[contraction-not-corruption]]"]
 ---
 
 # the primary layer states its own limit on atomization
@@ -25,4 +25,4 @@ Relevant Notes:
 - [[all six doctrine concerns appear in the first fifteen poems]] — the finding that all six of the book's doctrines are already stated in the poems that predate it, which this claim carries past the doctrines and into the limits of the system
 
 Topics:
-- [[container-anatomy]]
+- [[contraction-not-corruption]]
