@@ -1,7 +1,7 @@
 ---
 description: "Classical metaphysics, Trika, attachment research, family therapy and identity development each analyze a difficulty by naming what is absent rather than what is defective — a convergence the corpus files as notation."
 category: isomorph
-sources: ["atlas §IV", "atlas §II", "space-around: around the chemistry", "abridged ch6", "abridged ch8"]
+sources: ["atlas §IV", "atlas §II", "space-around: around the chemistry", "abridged ch6", "abridged ch8", "Aristotle, Physics I.7–9", "Aristotle, Metaphysics V.22"]
 topics: ["[[contraction-not-corruption]]", "[[interlocutors]]"]
 state: full
 ---
