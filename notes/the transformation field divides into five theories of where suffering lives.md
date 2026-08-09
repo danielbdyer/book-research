@@ -8,7 +8,7 @@ state: full
 
 # the transformation field divides into five theories of where suffering lives
 
-The corpus reports a survey finding about the contemporary transformation industry: "beneath their marketing, exactly five theories of where suffering lives, each with its prescription" (walked IX). The five are stated as a location plus an instruction, and each camp supplies a line that states its whole position.
+The contemporary transformation industry holds, beneath its marketing, exactly five theories of where suffering lives, each with its own prescription — the corpus's survey finding, stated at walked IX. The five are stated as a location plus an instruction, and each camp supplies a line that states its whole position.
 
 1. **A believed thought — see through it.** Peter Crone, whose diagnosis the treatment quotes as "you are living inside a sentence you didn't choose"; Byron Katie, whose axiom is "suffering is arguing with what is" and whose method is "four questions and a turnaround"; Michael Singer, "the untethered witness, surrender as method" (arc-gloss: ch7; walked IX).
 2. **A resisted feeling — allow it.** Joe Hudson, whose axiom is "every feeling, fully welcomed, completes itself" (arc-gloss: ch7), described in the walked document as "welcoming the feeling all the way through until it completes."
