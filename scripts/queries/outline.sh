@@ -1,11 +1,13 @@
 #!/bin/bash
-# Regenerates the census half of `ops/outline.md`: one surface showing what
+# Prints a census of the vault to standard output: one surface showing what
 # propositions the vault currently holds, ranked, so that "what is emerging?"
-# costs one file rather than thirteen topic maps and a directory listing.
+# costs one command rather than thirteen topic maps and a directory listing.
 #
 # Added 2026-08-08 on the author's observation that the vault holds many notes
-# and few roll-ups — that defining the overarching outline of the material
-# would mean parsing everything by hand.
+# and few roll-ups — that seeing the overarching shape of the material would
+# otherwise mean parsing everything by hand. The committed roll-up this once
+# wrote, ops/outline.md, was retired 2026-08-09 with the other standing
+# self-measurement instruments; the script now only prints.
 #
 # What it ranks by, and why. Every claim's TITLE is a complete proposition, so
 # a list of titles is already a list of assertions; the only question is which
