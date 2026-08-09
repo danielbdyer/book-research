@@ -45,7 +45,45 @@ A third option survives both recommendations. The vault changes what those notes
 
 # The working ethos
 
-Six commitments, each derived from a decision the author has already made, and each stated so it can decide a case rather than only be agreed with.
+## The backbone, in one sentence
+
+**The deepest change available to a person is the ending of a concealment rather than the acquisition of anything, and the only place that ending can be confirmed is a body.**
+
+That sentence carries three load-bearing members, and they are one structure rather than three topics.
+
+**The claim.** Deep change is disclosure of what is already present. Heidegger's *aletheia* and the Pratyabhijñā school's recognition reached it with no historical contact, and the book's front matter states it as doctrine: you already know everything in this book, you have forgotten, reading is remembering.
+
+**The check.** The claim verifies in a body rather than in an argument, and this is the only epistemology the claim permits. A change that consists of something becoming visible cannot be certified by evidence outside the person to whom it became visible. Gendlin's felt shift is that check, and it is the whole of it.
+
+**The stance.** The author points and does not prove, and the reader does the work. His own words are "I don't have any evidentiary remarks." Nothing transforms from the audience, so whatever transforms, the reader did it, and the book can only be auxiliary to a reader who stays sovereign.
+
+The three lock together. Because the change is disclosure, nobody can teach it and a book can only occasion it, which forces the check inward and puts the author in the chair of a companion rather than an authority. Remove any one member and the other two collapse.
+
+## What sits on the backbone
+
+Six kinds of work answer to one of the three members and earn their place by it. The readings that stress the check come first, because the check is the member most exposed to attack and everything the book promises runs through a reader's body being right about itself. The convergence earns its place in its stance-form alone, as company rather than corroboration; the moment a convergence is counted, ranked or scored it has changed jobs from pointing to proving. Each thinker's refusal earns its place because a refusal is what makes the pointing honest rather than recruiting. The genre and the address earn theirs because the claim forces the form, and the letter to a sovereign reader is what the claim leaves available. The practice earns its place because it is what the check certifies, and without it the check certifies nothing. The ancestry register earns its place for a reason its filing hides: if the book claims an independent arrival at a construct it inherited uncredited, what breaks is the stance rather than the argument, because the stance's whole integrity is honest pointing. The finding that the unanimity is an artifact of how the lineages were selected does the same job.
+
+## What sits off it
+
+**The taxonomy runs the opposite verb from the backbone.** A book whose claim is that the reader already has it cannot hand that reader an inventory of operations to acquire. The prologue says so itself, calling the forms wooden and removable once the curve holds. One distinction inside this matters and the vault has already established it: the privation principle survives, because "nothing in you is broken, something in you is folded" is a disclosure statement standing on the first member, while the notation built on it does not survive, because the formula audit found that the notation records composition and every teaching it delivers is about a relation.
+
+**The roster's ranking apparatus contradicts the stance it was built under.** The stance holds that convergences are never ranked by evidential weight, and the seats, the loads, the sorting grid and the referral network together are a machine for ranking convergences by evidential weight. The thinkers are not the problem. The case assembled on top of them is the problem, because the author declined to make a case.
+
+**The machinery that watches machinery touches no member at all.** Audits of instruments, observations about instruments, and a script that verifies the countermeasure is still stamped answer to none of the three.
+
+**The draft-to-draft concordance is real work waiting on a decision the author has not made** about what shape the book takes, so it is editorial comparison rather than backbone.
+
+## The pattern underneath the whole measurement
+
+The book's central diagnosis is that people pursue by acquisition what is only available by disclosure. In eight days this research base produced 524,663 words, of which 9,654 are manuscript. It gathered sixty-four thinkers and read four of them. It built instruments that check its instruments. The book's own diagnosis has been running inside the research about the book, which is the natural gravity of the material rather than a failure of anyone's discipline, and it means the correction is not administrative. The corpus's own sentence for the state is that the archive preserves and the orchard ripens; the vault has been preserving.
+
+## The rule that decides future cases
+
+Three questions, one per member. Does this help a reader recognize something they already carry? Does this test or supply what the body is being asked to confirm? Does this let the author point more honestly, or does it help him win? Work answering none of the three sits off the backbone however good it is, and the third question keeps a sharp edge: anything that makes the case stronger is suspect under this stance, because the author did not set out to make a case.
+
+## The six commitments that follow
+
+Six operational commitments follow from the backbone, each also derived from a decision the author has already made, and each stated so it can decide a case rather than only be agreed with.
 
 **The unit of value is a link in the chain, not an entry in a collection.** This restates the directive of 2026-08-08, that the research builds the chain of belief needed for sensible thinking about the book's largest choices. A note justifies itself by naming the belief above it that it supports and the decision below it that it unblocks. Material that names neither waits, and waits without shame.
 
