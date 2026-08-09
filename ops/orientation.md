@@ -16,7 +16,7 @@ The book has a chosen form — a correspondence of dated letters that end by bei
 
 ## The safeguards
 
-- **Check `ops/decisions.md` before treating an apparent inconsistency as work.** The vault renders openness loudly and closure quietly, so several deliberate choices look like defects at first sight; grep the register for the topic before acting.
+- **Check `ops/decisions.md` before treating an apparent inconsistency as work.** The vault renders openness loudly and closure quietly, so several deliberate choices look like defects at first sight; query the register for the topic before acting (`scripts/queries/decided.sh <topic>`).
 - **Silence is health.** Quiet maintenance conditions at session start are the healthy state, and the hook says so when nothing fires; the pending lists in `ops/queue/` are deliberately long and are not a fired condition.
 - **The primary material governs the corpus**, convergence is held as observation and never as proof (`ops/methodology/authorial stance.md`; no efficacy is postulated), and every correspondence shows both halves — both sides quoted, or the missing side named with a page-level address, never from memory (`ops/methodology/both halves of a correspondence.md`).
 - **Write with research diction, plainly**, so the information is never lost in the prose (CLAUDE.md; `ops/methodology/prose register.md`): named subjects and finite verbs, references that carry their content, abstract nouns expanded into the thing itself, figures of speech only inside quotation marks, and every file reread as the reader it will meet. Complexity that delivers is welcome; compression that withholds is not. Drifted prose is repaired with `/recompose`.
