@@ -1,6 +1,6 @@
 # Formula audit
 
-<!-- Every formula the corpus writes, gathered from all four sources that carry any, with each one checked against the alphabet it is supposed to be built from. Built 2026-08-05 on the author's instruction to take the composition finding to its natural completion. This is a comparison surface across sources, so it lives here rather than in `notes/` — the same routing as `ops/chapter concordance.md`. The findings it supports are claims: [[the chemistry's teachings are structural and its notation is only compositional]] and [[the isomer teaching names the phenomenon that made composition-only notation obsolete]]. Nothing here is a judgment about whether the chemistry is worth keeping; that is the author's, and `notes/the diagnostic discipline survives the apparatus that carries it.md` records what survives either way. -->
+<!-- Every formula the corpus writes, gathered from all four sources that carry any, with each one checked against the alphabet it is supposed to be built from. Built 2026-08-05 on the author's instruction to take the composition finding to its natural completion. This is a comparison surface across sources, so it lives here rather than in `notes/` — the same routing as `ops/chapter concordance.md`. The findings it supports are claims: [[every discrimination the molecule formulas are credited with is made by the prose beside them]] and [[every discrimination the molecule formulas are credited with is made by the prose beside them]]. Nothing here is a judgment about whether the chemistry is worth keeping; that is the author's, and `notes/the diagnostic discipline survives the apparatus that carries it.md` records what survives either way. -->
 
 ## What was checked, and how
 
@@ -98,7 +98,7 @@ Two consequences for how the rest of this file is read. First, the finger-and-mo
 
 ## The one operator that works, and why
 
-The notation has exactly one operator that says something about a relation rather than about membership: the minus sign, which marks a term as *absent* rather than merely not listed. And the vault measured, independently and before this audit, that the minus sign is the only thing in the notation that predicts anything — a formula with a minus yields an instruction, a formula with plus signs alone yields a description, with no exception across the executed catalogue ([[the minus sign is what makes a molecule formula prescriptive]]).
+The notation has exactly one operator that says something about a relation rather than about membership: the minus sign, which marks a term as *absent* rather than merely not listed. And the vault measured, independently and before this audit, that the minus sign is the only thing in the notation that predicts anything — a formula with a minus yields an instruction, a formula with plus signs alone yields a description, with no exception across the executed catalogue ([[every discrimination the molecule formulas are credited with is made by the prose beside them]]).
 
 The two findings are one finding seen twice. The notation's single relational operator is its single working operator. The book has already discovered, without naming it, that relation is what does the work.
 

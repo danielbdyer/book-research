@@ -20,7 +20,7 @@ The grid's own assessment of where this sits: "This is a live seam and it is whe
 
 It required no outside reading and the result is not what the charge predicted. The formulas split cleanly. Where the missing element is external or relational — sanctuary in burnout, witness as grief's catalyst, all three components of trust — the notation relocates nothing and the corpus's prescription is a claim about the world. Where the missing element is an act the person performs — commit in paralysis, transform in stagnation, defer in foreclosure — it does relocate, because the notation cannot distinguish an element withheld from one never available.
 
-So the book does not inherit the field's blind spot. What it has is a narrower and more fixable defect in the notation's expressive range, stated at [[the minus sign cannot say whether the missing element was withheld or never on offer]], with a candidate treatment that is one question rather than a scheme extension.
+So the book does not inherit the field's blind spot. What it has is a narrower and more fixable defect in the notation's expressive range, stated at [[every discrimination the molecule formulas are credited with is made by the prose beside them]], with a candidate treatment that is one question rather than a scheme extension.
 
 ## Substantiation
 

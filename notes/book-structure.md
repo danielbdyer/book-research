@@ -42,7 +42,7 @@ The corpus equips the book with paired figures, each equating an image, a concer
 - [[the orchard's koan is that composting is not death]] — the figure for the metabolic arc's last station, where superseded material feeds what follows
 - [[the gold thread ties the continuity loop to the book's own genre]] — the continuity figure, whose reach into the letter genre is the book's own address question
 - [[the ink that listens is the relational field at the scale of a page]] — the between, installed on the book's own surface
-- [[the engine is a triadic theology in mechanic's clothing]] — the three loops carrying the triad in working dress
+- [[the scheme's upper layers are one construction built on the container's three structures]] — the three loops carrying the triad in working dress
 - [[the fruit that falls is the word become deed]] — completion as expression leaving the tree that made it
 - [[the gatekeeper is met with a bow never a fight]] — the threshold figure and the posture it teaches at every gate
 - [[the book is a tuning fork and the reader is the striking surface]] — the resonance theory of reading, installed on page one to govern the ending
@@ -115,10 +115,7 @@ The provenance record of 2026-08-02 and after — the accounts of the corpus's m
 - [[the drafts execute one of the seven designed apparatus devices]] — the apparatus bound, and what "fully treated" therefore costs
 - [[the per-chapter dial is a spanda ratio]] — the chapter dial carries the tradition's word for the pulse
 - [[the unfolding of the center is planted half-erased and finished at a mirror]] — the clearest case of the planting device: a formula planted as a fragment and finished late
-- [[the minus sign is what makes a molecule formula prescriptive]] — the notation that sorts the catalogue into descriptions and instructions
-- [[the compositional notation does not license the operations its syntax implies]] — what happens when the executed draft's own formulas are checked against each other
-- [[the chemistry's teachings are structural and its notation is only compositional]] — the general finding from the complete formula audit: the notation records membership and every teaching is about relation
-- [[the alphabet's closure rests on a drill no record shows being run]] — the asserted test that made the set an alphabet, and its missing instance
+- [[every discrimination the molecule formulas are credited with is made by the prose beside them]] — the notation that sorts the catalogue into descriptions and instructions; what happens when the executed draft's own formulas are checked against each other; the general finding from the complete formula audit: the notation records membership and every teaching is about relation; the asserted test that made the set an alphabet, and its missing instance
 - [[the corpus names the standard its found-not-invented axiom has not met]] — two descriptive sources disagreeing about whether the vocabulary is a discovery
 - [[the executed draft cannot decide whether the primitives are elementary operations or useful tools]] — the same page asserting both statuses, treated by the author's demotion
 - [[the diagnostic discipline survives the apparatus that carries it]] — what stands if the notation is set aside, and on what grounds

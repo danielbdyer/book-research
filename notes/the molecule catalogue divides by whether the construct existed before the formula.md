@@ -37,7 +37,7 @@ Both correspondences are quoted on the book's side and paraphrased on the thinke
 
 Relevant Notes:
 - [[the privation move is an independent arrival across five fields rather than a book coinage]] — what the sort shows once the shared analytic form is read rather than the individual states
-- [[the chemistry's teachings are structural and its notation is only compositional]] — the other half of the apparatus finding: what the notation cannot say, where this says what it is carrying
+- [[every discrimination the molecule formulas are credited with is made by the prose beside them]] — the other half of the apparatus finding: what the notation cannot say, where this says what it is carrying
 - [[the diagnostic discipline survives the apparatus that carries it]] — the salvage this sharpens, by naming which parts have grounds outside the book
 - [[james marcia]] — the unnamed bearer of Foreclosure
 - [[salvador minuchin]] — the unnamed bearer of Enmeshment

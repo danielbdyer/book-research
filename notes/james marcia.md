@@ -36,7 +36,7 @@ Relevant Notes:
 - [[trust paralysis and foreclosure differ only on the commit-defer axis]] — the vault's own reconstruction of his two axes, made before it knew they were his
 - [[the privation move is an independent arrival across five fields rather than a book coinage]] — the convergence his construct belongs to, if the reading confirms the definition by absence
 - [[salvador minuchin]] — the other unattributed clinical bearer, found in the same pass
-- [[the compositional notation does not license the operations its syntax implies]] — why a two-dimensional construct written as a one-dimensional subtraction loses information
+- [[every discrimination the molecule formulas are credited with is made by the prose beside them]] — why a two-dimensional construct written as a one-dimensional subtraction loses information
 
 Topics:
 - [[interlocutors]]

@@ -21,7 +21,7 @@ The tension does real work in two directions. It qualifies the book's authority 
 ---
 
 Relevant Notes:
-- [[the twelve primitives are verbs because a self in verbs is mid-sentence]] — the alphabet from which the wagered primitive comes
+- [[the scheme's upper layers are one construction built on the container's three structures]] — the alphabet from which the wagered primitive comes
 - [[seventeen chapters rest at madhyama]] — the release condition the wager terminates in
 
 Topics:

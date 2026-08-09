@@ -19,15 +19,14 @@ The wobble is not confined to that page. The same edition's prologue takes the w
 - The two claims license different books. On the strong reading the alphabet is a finding about inner life, it can be right or wrong, and the closure claim matters enormously; on the weak reading it is an instrument, its value is what it lets a reader notice, and completeness is beside the point. The reader is given no signal about which book they are in.
 - The tension is treated, and the treatment is the author's rather than the vault's. His decision of 2026-08-04 moves the schemes from architecture to instrument on the Vijñāna Bhairava's model, where a hundred and twelve practices claim neither completeness nor non-overlap, which makes gaps and overlaps in the scheme set explicitly not work (`ops/methodology/the book's current shape.md`). Under that decision the prologue's sentence stands and chapter five's first sentence does not.
 - What remains after the treatment is a craft problem rather than a doctrinal one: the executed prose still contains the strong sentence, and the strong sentence is the one a reader meets at the moment the vocabulary is introduced. That is a revision note, not an open question.
-- The weak reading is also the one the on-the-page evidence supports. The compositional apparatus does not behave as a physics of experience would behave ([[the compositional notation does not license the operations its syntax implies]]), and the closure that would make the set a finding rather than a selection is asserted without an instance ([[the alphabet's closure rests on a drill no record shows being run]]).
+- The weak reading is also the one the on-the-page evidence supports. The compositional apparatus does not behave as a physics of experience would behave ([[every discrimination the molecule formulas are credited with is made by the prose beside them]]), and the closure that would make the set a finding rather than a selection is asserted without an instance ([[every discrimination the molecule formulas are credited with is made by the prose beside them]]).
 - Filed as a tension rather than as a concordance row because it meets the standing test: it is a disagreement about what the book is claiming, not a difference between two states of one element (the rule is in `CLAUDE.md`, Relations, author decision 2026-08-05).
 
 ---
 
 Relevant Notes:
 - [[the system is scaffolding rather than the centerpiece]] — the author decision this tension resolves against, and the prologue sentence it rests on
-- [[the compositional notation does not license the operations its syntax implies]] — the mechanical evidence that the weak reading is the honest one
-- [[the alphabet's closure rests on a drill no record shows being run]] — the missing test the strong reading would need
+- [[every discrimination the molecule formulas are credited with is made by the prose beside them]] — the mechanical evidence that the weak reading is the honest one; the missing test the strong reading would need
 - [[the corpus names the standard its found-not-invented axiom has not met]] — the same disagreement between two descriptive sources rather than inside one draft
 - [[the diagnostic discipline survives the apparatus that carries it]] — what the weak reading keeps
 

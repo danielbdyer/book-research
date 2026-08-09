@@ -21,7 +21,7 @@ The fact is small, but it shows a habit: the book puts its deepest words to hous
 
 Relevant Notes:
 - [[the drafts execute one of the seven designed apparatus devices]] — the device list this instrument belongs to
-- [[the engine is a triadic theology in mechanic's clothing]] — the same habit at the scale of the title
+- [[the scheme's upper layers are one construction built on the container's three structures]] — the same habit at the scale of the title
 - [[ordinary names keep the deepest structures visible]] — the naming rule behind the habit
 
 Topics:

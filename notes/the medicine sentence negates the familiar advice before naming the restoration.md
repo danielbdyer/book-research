@@ -15,14 +15,13 @@ The negation is what keeps each prescription from being read as one more piece o
 
 - The exact phrase "The medicine is not" occurs four times in the extracted draft, with a fifth prescriptive instance in variant phrasing; the ch6 and ch15 specimens are quoted above.
 - Anyone can check this by searching the draft for "The medicine is not": each hit names a familiar counsel before it names the structural prescription, and a prescription delivered without the negation is the exception to look for.
-- In the book's notation, a molecule formula containing a minus sign names a suffering-state and the term after the minus is what must be supplied, while a formula built from plus signs alone only describes a condition ([[the minus sign is what makes a molecule formula prescriptive]]). This template is how that missing term reaches a reader as an ordinary sentence.
+- In the book's notation, a molecule formula containing a minus sign names a suffering-state and the term after the minus is what must be supplied, while a formula built from plus signs alone only describes a condition ([[every discrimination the molecule formulas are credited with is made by the prose beside them]]). This template is how that missing term reaches a reader as an ordinary sentence.
 
 ---
 
 Relevant Notes:
-- [[the minus sign is what makes a molecule formula prescriptive]] — in the executed catalogue every formula written with a minus sign names a suffering-state and the term after the minus is the instruction, which is this same prescription delivered in notation rather than in a sentence
+- [[every discrimination the molecule formulas are credited with is made by the prose beside them]] — in the executed catalogue every formula written with a minus sign names a suffering-state and the term after the minus is the instruction, which is this same prescription delivered in notation rather than in a sentence; the notation marks that an element is absent but cannot record whether it was withheld from the person or never available to them, and no medicine sentence in the draft has been written for that case
 - [[the diagnosis contains the cure]] — the book diagnoses a suffering-state by the ingredient it lacks rather than by an ingredient that is wrong, so the analysis itself names what to supply, and that is the doctrine each medicine sentence delivers to a reader
-- [[the minus sign cannot say whether the missing element was withheld or never on offer]] — the notation marks that an element is absent but cannot record whether it was withheld from the person or never available to them, and no medicine sentence in the draft has been written for that case
 
 Topics:
 - [[contraction-not-corruption]]

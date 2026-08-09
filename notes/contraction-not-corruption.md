@@ -22,10 +22,7 @@ The formulas below are the book's canonical examples. Each is a separate claim b
 - [[grief is sever plus love plus persist]] — the formula that reclassifies grief as love under conditions of loss
 - [[trust and paralysis are isomers]] — the formula pair showing identical components with one differently attached bond
 - [[trust paralysis and foreclosure differ only on the commit-defer axis]] — the third arrangement, supplied by the abridged edition, which turns that pair into a group of three
-- [[the minus sign is what makes a molecule formula prescriptive]] — the notation rule that sorts the catalogue into conditions described and suffering-states with an instruction attached
-- [[the compositional notation does not license the operations its syntax implies]] — the limit on all of the formulas above: the discriminations they are credited with are made by the prose beside them
-- [[the chemistry's teachings are structural and its notation is only compositional]] — the general finding beneath every formula note in this section, from a complete audit of all twenty-one
-- [[the isomer teaching names the phenomenon that made composition-only notation obsolete]] — where the borrowed term comes from, and what the discipline did when it faced the same problem
+- [[every discrimination the molecule formulas are credited with is made by the prose beside them]] — the notation rule that sorts the catalogue into conditions described and suffering-states with an instruction attached; the limit on all of the formulas above: the discriminations they are credited with are made by the prose beside them; the general finding beneath every formula note in this section, from a complete audit of all twenty-one; where the borrowed term comes from, and what the discipline did when it faced the same problem; the audit's result (run 2026-08-05): the notation relocates a cause inward only where the missing element is an act the person performs, and it cannot mark an element that was never available. Withheld and unavailable share a formula.
 - [[the molecule catalogue divides by whether the construct existed before the formula]] — which of the formulas above name constructs that already existed elsewhere, and which are attributed to nobody
 - [[the privation move is an independent arrival across five fields rather than a book coinage]] — the convergence beneath this whole map's signature move, assembled 2026-08-05
 - [[aristotle on privation]] — the oldest of the arrivals, with the affliction objection it brings
@@ -62,7 +59,6 @@ This concern borders [[container-anatomy]], because the privations are that anat
 
 ## What the interiority audit found
 
-- [[the minus sign cannot say whether the missing element was withheld or never on offer]] — the audit's result (run 2026-08-05): the notation relocates a cause inward only where the missing element is an act the person performs, and it cannot mark an element that was never available. Withheld and unavailable share a formula.
 - [[the compound diagnoses may relocate a structural condition inside a person]] — the tension it answers, now treated rather than live.
 
 ## What remains

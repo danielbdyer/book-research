@@ -38,7 +38,7 @@ The founding isomorph, the traditions on either side of it, the householder clai
 
 ### 4 · The apparatus, and the record of its making — 34 notes
 
-Hubs: [[the triad is the anatomy of every container]], [[the compositional notation does not license the operations its syntax implies]], [[the diagnostic discipline survives the apparatus that carries it]], [[the alphabet's closure rests on a drill no record shows being run]], [[the figures precede the system by a year and the two were welded together later]]. **Zero chairs.** One tension, treated.
+Hubs: [[the triad is the anatomy of every container]], [[every discrimination the molecule formulas are credited with is made by the prose beside them]], [[the diagnostic discipline survives the apparatus that carries it]], [[every discrimination the molecule formulas are credited with is made by the prose beside them]], [[the figures precede the system by a year and the two were welded together later]]. **Zero chairs.** One tension, treated.
 
 The graph puts two things in one region that the vault files separately: the triad, the primitives, the molecules — and the provenance record of where all of it came from, including the poems, the gold thread's genealogy, the seed's season, and the division of hands. That grouping is not arbitrary. Both halves are about the apparatus's origin and standing rather than about the book's content, which is also why neither half had anyone outside to ask.
 

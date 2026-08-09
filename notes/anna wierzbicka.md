@@ -21,7 +21,7 @@ That is the same wager the book makes at its second layer, reached by a differen
 
 **What she gives.** The comparison the survey calls "a genuinely original piece of work": lay the two sets side by side, note where they align (DO, WANT, FEEL shadowing Commit, Attend, Express), where they do not, and what each method sees that the other is blind to. That is a real contribution and it belongs to whoever does it. Her second gift is the shape of an honest retreat — a book may say *this vocabulary is useful and I chose it* without saying *this vocabulary is the alphabet*, and the difference is exactly the wobble the executed draft has never resolved ([[the executed draft cannot decide whether the primitives are elementary operations or useful tools]]).
 
-**The load, and what happens without her.** With `adversary`: she is the only named test the closure claim can be put to, and the corpus named her, not the vault. Without her the claim that the set is closed stands on a drill nobody can find ([[the alphabet's closure rests on a drill no record shows being run]]) and the assertion that the vocabulary is found rather than invented stands on portability across three artifacts the author built himself ([[the corpus names the standard its found-not-invented axiom has not met]]). The assignment is the vault's, made 2026-08-05 from the corpus's own framing, and it has not been tested against her primary work.
+**The load, and what happens without her.** With `adversary`: she is the only named test the closure claim can be put to, and the corpus named her, not the vault. Without her the claim that the set is closed stands on a drill nobody can find ([[every discrimination the molecule formulas are credited with is made by the prose beside them]]) and the assertion that the vocabulary is found rather than invented stands on portability across three artifacts the author built himself ([[the corpus names the standard its found-not-invented axiom has not met]]). The assignment is the vault's, made 2026-08-05 from the corpus's own framing, and it has not been tested against her primary work.
 
 **One half of this correspondence is quoted and the other is not.** The survey's sentence naming her as the standard is quoted above. Her method and her result are stated here from secondary knowledge in the vault's own words, and nothing of hers has been read in this vault. The address is *Semantics: Primes and Universals*, where the prime list and the reduction procedure are both set out.
 
@@ -37,8 +37,8 @@ Three questions, in the order that decides the most.
 
 Relevant Notes:
 - [[the corpus names the standard its found-not-invented axiom has not met]] — the disagreement between two of the book's own documents that puts her here
-- [[the alphabet's closure rests on a drill no record shows being run]] — the claim her method is the test for
-- [[the twelve primitives are verbs because a self in verbs is mid-sentence]] — the design commitment she would refuse, and the reason the corpus gives for it
+- [[every discrimination the molecule formulas are credited with is made by the prose beside them]] — the claim her method is the test for
+- [[the scheme's upper layers are one construction built on the container's three structures]] — the design commitment she would refuse, and the reason the corpus gives for it
 - [[kenneth burke]] — the other candidate seated against the alphabet, arguing the opposite way: not that the set is wrong but that any set deflects
 - [[alfred north whitehead]] — the third, who supplies the metaphysics the verb-only choice implies
 
