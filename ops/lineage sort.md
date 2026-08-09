@@ -131,9 +131,11 @@ Roughly thirty names who agree on how things get made and have something worth h
 
 One caveat the grid attaches and the vault keeps: Wineland and Deida hold the only one of the five theories of suffering that locates it in a withheld gift rather than a misperception, "the closest thing in the coaching field to the book's generosity register, and it deserves one honest look before demotion" (`mesh grid: other names recovered`).
 
-## The holes, ranked
+## The holes, in reading order
 
-**The sharpened form of this queue now lives at `ops/reading queue.md`** — each hole restated as a question that can fail, with its stake, a page-level address, what it inherits from completed readings, and the grade of the current evidence. The ranking below — the grid's search map in its order, with its two addendum entries appended — stands as the record of what the sort found; the queue is where the work is.
+The heading was "The holes, ranked" until 2026-08-09, and it was renamed because the two things it could mean are the whole question this file has to keep separate. What is ordered below is the reading: which unopened text would change the most if it were opened next. What is not ordered is the thinkers, or the strength of the convergences they stand in — `ops/methodology/authorial stance.md`, the directive setting the author's posture as pointing rather than proving, forbids that ranking outright, and a numbered list under a heading with the word *ranked* in it invites the wrong reading of every entry beneath.
+
+**The sharpened form of this queue now lives at `ops/reading queue.md`** — each hole restated as a question that can fail, with its stake, a page-level address, what it inherits from completed readings, and the grade of the current evidence. The ordering below — the grid's search map in its order, with its two addendum entries appended — stands as the record of what the sort found; the queue is where the work is.
 
 **What changed on 2026-08-05, and what did not.** Every hole below now has at least one chair in `notes/` — the sixth gained its chair, [[ubuntu personhood]], later the same day — each written from the grid alone with no primary work read. That converts the queue from *find the names* to *do the readings*, which is progress of a specific and limited kind: a chair records what the vault expects a thinker to say and what it expects them to refuse, and both expectations are the grid's until a primary text is opened. Nothing below is closed. A hole closes when a reading has been done and the note says what the text actually holds.
 
