@@ -28,7 +28,7 @@ echo "  ${UNSET:-none — every interlocutor carries a load}"
 
 echo ""
 echo "== The crossing: load x discipline =="
-echo "  A zero is a reading question. Compare against 'The holes, ranked' in ops/lineage sort.md."
+echo "  A zero is a reading question. The ones already turned into reading questions are in ops/queue/candidates.md."
 echo "  Two rows read differently and are not backlogs. The company row is empty by"
 echo "  design — those ~30 names get notes only when a claim needs one, and the grid's"
 echo "  own instruction is not to sort them. The names-existing-practice row is thin"
