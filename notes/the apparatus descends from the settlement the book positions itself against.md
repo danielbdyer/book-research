@@ -34,6 +34,19 @@ Inside the table, the one entry the book does credit came from a commercial semi
 
 A reader who knows this literature meets the parentage before they meet the argument.
 
+## The six relations, and what each owes
+
+What the book owes a borrowed construct depends on which of six relations the borrowing is, and naming the relation turns the single word *debt* into a set of distinctions that can disagree with each other. The six, each with its clearest instance:
+
+1. **Restatement.** The construct came first, the book states it operationally, and the discipline's technical word travels with it. *Marcia's foreclosure; Minuchin's enmeshment.* This is the form that creates a plain attribution debt, because the word itself is borrowed.
+2. **The originator's own correction.** The book inherits a term, inherits the problem the term created, and solves it the way the person who coined it solved it. *Maslow's peak, corrected to the plateau in 1970.* The debt here is smaller than the finding: the book's central argument has a sixty-year-old precedent inside the vocabulary it is already using.
+3. **Headless lineage.** The descendants are cited and the origin is not. *Reich: Levine, Porges and Ogden named in the acknowledgements; Reich and Lowen absent.* Hardest of the six to notice, because the page looks well-sourced.
+4. **Self-flagged debt.** The corpus's own survey identifies the debt and the book never pays it. *Aristotle on privation, "an ancient patent-holder we've never cited"; Bowlby and Ainsworth, "strangely, nowhere in the project."* These need no research to find, only a reader who follows up the survey's own sentences.
+5. **Mis-addressed credit.** The corpus draws the correspondence, cites a name, and it is the wrong name — usually the current scholar rather than the originator. *Set and setting: Hartogsohn cited once as "the scholarly spine," Leary and Zinberg absent.*
+6. **Half-traced genealogy.** One branch of a lineage is followed and another is not. *est traced through "Austin's performatives ⟿ Erhard" and never through Lewin's T-groups; Robbins's method traced nowhere at all.*
+
+The relation decides the remedy: a restatement wants a citation, a self-flagged debt wants the survey's own sentence followed up, and an originator's own correction wants the precedent named rather than apologized for.
+
 ## Substantiation
 
 - The nine rows were established across two passes on 2026-08-05. The molecule layer was audited formula by formula first ([[the molecule catalogue divides by whether the construct existed before the formula]]; `ops/formula audit.md`), and the apparatus layer was swept the same way afterwards; the register of both is `ops/inherited constructs.md`, which records the search method and the names that came back clean.
