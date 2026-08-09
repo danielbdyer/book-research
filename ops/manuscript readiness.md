@@ -42,7 +42,7 @@ The six conditions above are sound and unit-agnostic — they describe what any 
 
 ## What was needed before readiness could be measured, and what the pass found
 
-The prerequisite pass — **find the convergence points** — ran on 2026-08-05 at the author's instruction. Its instrument is `scripts/queries/clusters.sh` and its interpretation is `ops/convergence points.md`. The method was chosen so that the result could not be a table of contents in disguise: notes are nodes, wiki links between claims are edges, and the groupings come from modularity maximization over that graph, computed from link glosses sessions wrote for other reasons.
+The prerequisite pass — **find the convergence points** — ran on 2026-08-05 at the author's instruction. Its instrument is `scripts/queries/clusters.sh`, which prints the regions and their composition directly. The method was chosen so that the result could not be a table of contents in disguise: notes are nodes, wiki links between claims are edges, and the groupings come from modularity maximization over that graph, computed from link glosses sessions wrote for other reasons.
 
 The graph organizes into three regions of content, one region holding the apparatus together with the record of its making, and one seven-note island that turned out to be a linking defect rather than a thesis. No region is a topic map restated — the largest draws members from nine and eleven maps respectively — which is the property the concordance's fifteen units could not have, since each of those was a chapter name with material fitted to it.
 
