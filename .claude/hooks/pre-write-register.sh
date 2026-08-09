@@ -1,14 +1,25 @@
 #!/bin/bash
-# The register's pre-write gate. Runs before every Write or Edit lands, and
-# blocks the write (exit 2) when the proposed content trips the mechanical
+# The register's pre-write reporter. Runs before every Write or Edit lands
+# and reports (exit 0) when the proposed content trips the mechanical
 # residue of past register violations — the three shapes in
 # scripts/queries/register-tripwires.py. The seventh correction's specimen
 # was written into an archive file mid-turn, where every guard aimed at
-# replies; this gate stands at the file layer so a known failure shape can
-# no longer land on disk at all. It catches shapes, not the stance: line 6
+# replies; this hook stands at the file layer so a known failure shape is
+# named before it lands on disk. It catches shapes, not the stance: line 6
 # of the countermeasure (every file reread as the reader it will meet)
-# remains the guarantee's substance, and a block message always instructs
+# remains the guarantee's substance, and a report always instructs
 # recomposition, never suppression.
+#
+# It reported rather than blocked from 2026-08-09, by author decision, on
+# the vault's own count of the blocking form's record: seventeen false
+# catches against four true ones, the last three incurred by the very file
+# that proposed this change. The detector is unchanged and every true catch
+# still surfaces; what changed is that a sentence the regular expression
+# cannot parse no longer stops the write. The reasoning is the observation
+# at ops/observations/the register tripwire blocks well-formed sentences it
+# cannot parse.md, which counts the catches and names the mechanism, and
+# the standing warning it records: a forced rewrite puts "a second author
+# in the room with a vote and no stake in the meaning."
 GUARD_DIR="$(cd "$(dirname "$0")" && pwd)"
 cd "${CLAUDE_PROJECT_DIR:-$GUARD_DIR/../..}" || exit 0
 [ -f scripts/queries/register-tripwires.py ] || exit 0
