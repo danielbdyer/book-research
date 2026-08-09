@@ -164,10 +164,6 @@ if [ "$TENS_COUNT" -ge 5 ]; then
   echo "CONDITION: $TENS_COUNT unresolved tensions. Consider /rethink."
   FIRED=1
 fi
-if [ "$SESS_COUNT" -ge 5 ]; then
-  echo "CONDITION: $SESS_COUNT unprocessed sessions. Consider /remember --mine-sessions."
-  FIRED=1
-fi
 if ! command -v qmd >/dev/null 2>&1; then
   echo "CONDITION: qmd is not installed in this container. Run scripts/bootstrap.sh to restore semantic search."
   FIRED=1
