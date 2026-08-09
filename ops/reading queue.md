@@ -34,7 +34,7 @@ The claim at [[the privation move is an independent arrival across five fields r
 
 ## Tier 3 — the alphabet's arbiters
 
-Both entries inherit the composition findings: the notation records membership while every teaching is relational (`ops/formula audit.md`), and the closure drill has no recorded instance.
+Both entries inherit the composition findings: the notation records membership while every teaching is relational ([[every discrimination the molecule formulas are credited with is made by the prose beside them]]), and the closure drill has no recorded instance.
 
 10. **Wierzbicka.** Q: could her cross-linguistic reduction method even be applied to a set of *operations* rather than *meanings*, and does her sixty-five-prime result contain anything the twelve would have to absorb? Stake: if the method transfers, the closure claim has a real test it could run or gracefully decline, which is what the corpus itself demands; if it cannot transfer, the honest sentence is that the alphabet is chosen rather than found, and the executed draft's weaker reading becomes the only reading. Address: *Semantics: Primes and Universals* (1996), the prime inventory and the reduction procedure. Standing: the survey's framing plus general knowledge, unread.
 
