@@ -1,5 +1,5 @@
 ---
-description: "The book's self-diagnosis decomposes into four reads, one per structural layer the book builds — the loops, the molecules, the relational field, and the metabolic arc — so that a complaint is located before it is moralized."
+description: "The book's self-diagnosis decomposes into four reads, one per structural layer — the loops, the molecules, the relational field, and the arc — so a complaint is located before it is moralized."
 category: practice
 sources: ["abridged ch15", "atlas §VII", "walked VII"]
 topics: ["[[felt-shift]]", "[[container-anatomy]]"]
