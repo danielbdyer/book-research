@@ -31,7 +31,7 @@ Relevant Notes:
 - [[the making of the book enacts the law the book states]] — the kept counterface: one structure, both faces
 - [[the sixteenth poem returns the book's language to the life it came from]] — the poem that locates the courage below the manuscript's scale
 - [[ripeness is not refrigeration]] — the house rule this tension is the manuscript-scale case of
-- [[the research instrument is a violin rather than an oracle]] — the room's other occupant describing itself, and the account most likely to flatter the arrangement this tension names
+- [[the book can only be auxiliary to a sovereign reader]] — the room's other occupant describing itself, in the paper that calls a language model a violin rather than an oracle, which is the account most likely to flatter the arrangement this tension names
 - [[the drive to closure has measurable costs]] — the counterweight on the other side: the appetite for a settled answer is itself a measured disposition, so deferring is not automatically the error
 - [[the fruit that falls is the word become deed]] — the image the exit is written in: the word spent as deed rather than kept ripe
 
