@@ -15,7 +15,7 @@ What this gives the beauty problem is a doctrine rather than a matter of taste. 
 
 - The tension is recorded at [[beauty recruits the wrong posture]], which carries atlas §XI.1a's sentence about the reader becoming a connoisseur. The tradition's side is recorded at [[the recognition school installs wonder at the definition of consciousness]], which carries the rasa boundary with its Sanskrit anchors.
 - Neither of those two notes previously linked the other. Joining them serves the beauty tension in particular; the wonder claim on its own serves the separate question of whether the Kashmir Śaiva tradition is credited as a guest among the book's thinkers rather than only used as ground.
-- The note this supplies a doctrine for is [[curating beauty is a practice rather than only a hazard]], which is still nascent: it records the gesture that curating beauty is itself a practice, against a vault that otherwise holds beauty only as a hazard.
+- The territory this supplies a doctrine for is the corpus's undeveloped gesture that curating beauty is itself a practice, against a vault that otherwise holds beauty only as a hazard. That gesture was read at its own locators on 2026-08-09 and declined, because the corpus holds a theory of beauty's danger and none of its use; the reason is at `ops/queue/declines.md` under that date, and the connection recorded here is the part of it worth keeping, since the hazard runs through the verification standard rather than beside it.
 
 ---
 
