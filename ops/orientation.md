@@ -24,5 +24,5 @@ The book has a chosen form — a correspondence of dated letters that end by bei
 ## Where to look
 
 - `ops/standing-consequences.md` — read this next: the durable residue of completed rounds, the center in fuller detail, the read-before-working list (the five synthesis notes and the directives), and the detailed torch.
-- `ops/goals.md` active threads · `ops/completed.md` the dated log · `ops/decisions.md` settled questions · `ops/methodology/methodology.md` the directives index · `ops/reading queue.md` the reading backlog · `ops/queue/` pending work (`candidates.md` the long shelf, `claim candidates.md` the routed propositions) · `notes/index.md` the graph.
+- `ops/goals.md` active threads · `ops/completed.md` the dated log · `ops/decisions.md` settled questions · `ops/methodology/methodology.md` the directives index · `ops/reading queue.md` the reading backlog · `ops/clearing.md` what the center cannot yet see · `ops/queue/` pending work (`candidates.md` the long shelf, `claim candidates.md` the routed propositions) · `notes/index.md` the graph.
 - For the shape of the argument on demand: `scripts/queries/outline.sh --print`.

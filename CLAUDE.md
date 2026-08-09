@@ -66,7 +66,7 @@ Six standing directives, stated below, govern all prose and naming. Each is reco
 | `archive/` | Provenance records: source notes for processed documents in `sources/`, reading records for completed primary readings, research records for verified outside sweeps. |
 | `templates/` | Note templates with `_schema` blocks — the authoritative schema. |
 | `manual/` | User documentation. |
-| `ops/` | Operational state: the orientation surface, goals, the completed log, the decisions register, config, queue, sessions, observations, tensions, methodology, the reading queue, the chapter concordance, the manuscript-readiness conditions, the open-corpus inventory, the register-violations log, and the rethink log. The standing self-measurement instruments (the outline roll-up, the formula audit, the inherited-constructs register, the graph's convergence points, the lineage sort, and the three reach-lists) were retired 2026-08-09; their book-facing findings live as claims in `notes/`. |
+| `ops/` | Operational state: the orientation surface, goals, the completed log, the decisions register, config, queue, sessions, observations, tensions, methodology, the reading queue, the clearing register, the chapter concordance, the manuscript-readiness conditions, the open-corpus inventory, the register-violations log, and the rethink log. The standing self-measurement instruments (the outline roll-up, the formula audit, the inherited-constructs register, the graph's convergence points, the lineage sort, and the three reach-lists) were retired 2026-08-09; their book-facing findings live as claims in `notes/`. |
 | `provenance/` | Reconstructions of the corpus's making, held as consulted works by author decision. Not sources; the policy is `ops/methodology/personal provenance.md`. |
 | `scripts/queries/` | Ripgrep-based graph queries. `scripts/bootstrap.sh` restores tools and extracts the corpus to `.corpus/` in a fresh container. |
 | `.claude/` | Skills and hooks, versioned with the vault. |
@@ -201,6 +201,7 @@ Maintenance is condition-based. The session hook counts and reports the first si
 | A finding about the notation or about what a construct is owed | The two consolidated scheme notes in `notes/` (`ops/methodology/center of gravity.md` names them) |
 | Per-chapter comparison across the sources | `ops/chapter concordance.md` |
 | Territory the corpus named and never developed | `ops/open corpus.md` |
+| Something the book's center structurally cannot see | `ops/clearing.md` — the inverted-admission register (`ops/methodology/the clearing.md`) |
 
 ## Known risks
 
