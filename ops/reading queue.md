@@ -20,7 +20,7 @@ The felt shift is the book's single test for whether anything is true, the autho
 
 ## Tier 2 — the privation convergence
 
-The claim at [[the privation move is an independent arrival across five fields rather than a book coinage]] turns on one sentence: that each field defines its construct *by absence, in its own words*. None of the five has been read. Each entry here inherits that dependence, and the convergence downgrades from centerpiece-grade to resemblance if the readings return present-pattern definitions.
+The claim at [[the privation move is an independent arrival across five fields rather than a book coinage]] turns on one sentence: that each field defines its construct *by absence, in its own words*. One of the five (Aristotle) is now read; the other four remain. Each entry here inherits that dependence, and the convergence downgrades from centerpiece-grade to resemblance if the readings return present-pattern definitions.
 
 5. **Aristotle.** Q: does *Physics* I.7–9 support the therapeutic direction of fit — naming the absence points to the remedy — or only the analytic one, that change is intelligible because privation is a principle of it? Stake: the book's signature move either has a twenty-four-century warrant for what it *does*, or only for what it *sees*; the survey's "worth one sentence of lineage" is safe either way, and the stronger use is not. Address: *Physics* I.7–9; *Metaphysics* V.22 for the senses of *steresis*. Standing: stated from the survey and general knowledge, unread.
 
