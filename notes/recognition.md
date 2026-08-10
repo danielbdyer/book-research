@@ -43,6 +43,7 @@ The corpus also stations a warning at this concern and credits it to Lacan: reco
 - [[reading as remembering has a twenty-four-century ancestry in the west]] — Meno to Confessions X to the Parmenides lectures, sharing the gesture and disputing the destination
 - [[the fullness of the first person is the road to selflessness rather than its obstacle]] — the direction of the whole movement: the self is the route out of itself rather than the obstruction, stated by the ladder's crown and enacted by the last page
 - [[all six doctrine concerns appear in the first fifteen poems]] — the recognition doctrine in the primary layer: the answer already had, the inside already occupied, stated in the poems before the book existed
+- [[the book is a reference point for a reader already on their way]] — the book's function for the reader who is already noticing, widened past the post-peak case to depth and words for what they half-know
 - [[the recognition school installs wonder at the definition of consciousness]] — camatkāra tied to vimarśa by the founder himself, bridged to art by Abhinavagupta, with the theater-not-world difference kept
 - [[what the big experience leaves behind depends on what follows it]] — the clinical grounding of the shifted promise: the peak fades on a decay curve, and persistence tracks completeness and practice
 
