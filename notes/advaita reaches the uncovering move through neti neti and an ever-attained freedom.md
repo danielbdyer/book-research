@@ -1,5 +1,5 @@
 ---
-description: Advaita Vedanta holds that liberation is never produced but only uncovered, veiled by ignorance and reached by negation, which is an absolute statement of the book's uncovering move that also negates the first person the book restores.
+description: Advaita holds that liberation is never produced but only uncovered, veiled by ignorance and reached by negation — an absolute statement of the book's uncovering move that also negates the first person it restores.
 category: isomorph
 sources: ["atlas §I"]
 topics: ["[[recognition]]"]
