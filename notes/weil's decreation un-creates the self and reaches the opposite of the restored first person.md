@@ -1,10 +1,9 @@
 ---
 description: Weil's decreation un-creates the self so God can occupy the place it vacated — the same withdrawal move as kenosis, but reaching the opposite of the book's restored first person and arming the seated adversary.
 category: claim
-sources: ["atlas §XI"]
+sources: ["atlas §XI", "Weil, Gravity and Grace, \"Decreation\"", "Weil, Gravity and Grace, \"Renunciation\""]
 topics: ["[[recognition]]"]
-state: privated
-privation: "Weil is unread here; Gravity and Grace (the Decreation section) and Waiting for God (The Love of God and Affliction) are named by address awaiting the reading."
+state: full
 ---
 
 # weil's decreation un-creates the self and reaches the opposite of the restored first person
