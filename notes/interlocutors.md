@@ -53,6 +53,7 @@ The seats are functional. The corpus's narrative names for them are recorded in 
 - [[the company's refusals converge unsought where its agreements were assembled]] — the two provenance classes of convergence, and which caveat reaches which
 - [[the participation law has measured support at a scale nothing else in the book approaches]] — the participation-law convergence in measured form: the alliance-outcome literature over 295 studies holds across every school of therapy, which is that convergence's own content as a number
 - [[the traditions' refusal of extraction restates the book's own container law]] — a convergence of refusals, where five unrelated traditions decline to have their practices lifted out of context, each on the reason that is the book's own container law turned back on it
+- [[the withdrawal-makes-room move is an independent arrival that splits on the book's householder fork]] — the withdrawal-form twin of the privation convergence, minted 2026-08-10 from the completed readings: four traditions independently reach a generative self-withdrawal, and the family divides on the book's householder-versus-renunciation fork
 
 - [[transformation is enacted participation inside a held container]] — the one law six lineages state in six vocabularies, each quoted.
 - [[unrelated traditions converge on presence without agenda while remaining available to act]] — the same evidence shape at the practice pole: a dozen vocabularies orbiting one posture.
