@@ -80,6 +80,13 @@ The claim that the knower is inside what they know is the condition this map's l
 - [[the alliance holds its size when the exchange is mediated and written]] — the same meta-analysis on internet-delivered therapy: r = .275 across 23 samples, against the standing expectation that a written and mediated exchange would weaken the relation
 - [[the practitioner rather than the person being helped carries the alliance effect]] — variability between therapists exceeds variability within a therapist's caseload, so the measured capacity belongs to the person holding the container
 
+## The non-human field, still to read
+
+The clearing's blind spot for the non-human — the more-than-human that takes part in the inner life, which the human-only field has no chair for — found a chain-link and an independent arrival on 2026-08-10, admitted privated and gated on their readings (`ops/reading queue.md`).
+
+- [[buber's tree extends the i-thou relation past the human]] — the unmined half of the seated thinker whose I-Thou already carries the field's ontology
+- [[abram's more-than-human makes the animate world a participant in the inner life]] — the independent arrival, the animate world as participant, a name the corpus already carries
+
 ## What remains
 
 The space-around survey proposes the strongest evidence and the strongest objections for this map: Tronick's still-face experiment (evidence), Levinas's asymmetry (an objection to the mutuality framing), Merleau-Ponty's intercorporeality, Collins's interaction ritual chains, and the warning that witnessing can shade into consumption — all still unresearched on the pending-evaluation list in `ops/queue/candidates.md`, which is deliberately long. One thing has changed about the first of them without removing it. The alliance meta-analysis of Flückiger, Del Re, Wampold and Horvath, read whole on 2026-08-07 across 295 studies and more than thirty thousand patients, is now the largest measured support this map's central claim has ([[the participation law has measured support at a scale nothing else in the book approaches]]), so Tronick would add a second and smaller measurement rather than the map's first. The Ubuntu tradition has left that list: its evaluation stands at [[ubuntu personhood]] in this map's mechanism section, with the primary reading undone. The consumption warning is this map's nearest counterweight, since [[a witness kept as proof forecloses what it proves]] already states its shadow from the author's own record.
