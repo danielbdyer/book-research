@@ -51,6 +51,8 @@ The seats are functional. The corpus's narrative names for them are recorded in 
 - [[katz and burke aim the same trained-vocabulary premise at two different claims]] — two adversaries, one premise, one shared answer to test
 - [[the stance's refusals-intact rule was the company's practice before it was the book's]] — the company's own documented self-limiting practice
 - [[the company's refusals converge unsought where its agreements were assembled]] — the two provenance classes of convergence, and which caveat reaches which
+- [[the participation law has measured support at a scale nothing else in the book approaches]] — the participation-law convergence in measured form: the alliance-outcome literature over 295 studies holds across every school of therapy, which is that convergence's own content as a number
+- [[the traditions' refusal of extraction restates the book's own container law]] — a convergence of refusals, where five unrelated traditions decline to have their practices lifted out of context, each on the reason that is the book's own container law turned back on it
 
 - [[transformation is enacted participation inside a held container]] — the one law six lineages state in six vocabularies, each quoted.
 - [[unrelated traditions converge on presence without agenda while remaining available to act]] — the same evidence shape at the practice pole: a dozen vocabularies orbiting one posture.
