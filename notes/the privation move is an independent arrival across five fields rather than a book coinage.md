@@ -30,6 +30,7 @@ One of the five has now been read against its own text and four have not. Aristo
 ---
 
 Relevant Notes:
+- [[the book reads deep change as uncovering rather than addition]] — the same absence-form generalized to the book's three deepest doctrines, carrying its own negative-way company
 - [[the molecule catalogue divides by whether the construct existed before the formula]] — the sort this reads, one level up
 - [[the diagnosis contains the cure]] — the move itself, in the corpus's own terms
 - [[suffering is contraction never corruption]] — the doctrine the move operationalizes, which this supplies outside company for
