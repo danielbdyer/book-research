@@ -27,6 +27,7 @@ Relevant Notes:
 - [[aristotle distinguishes activity complete in itself from movement toward an outside end]] — the philosophical arrival, third of the three traditions
 - [[zen's makyo instruction refuses the self-certifying experience]] — the same tradition sharpening the refusal from inside
 - [[the felt shift bears more load than any single test can carry]] — the adjacent overload finding on the same map
+- [[dogen]] — the interlocutor chair now seating this note's thinker, reference-lineage with a thesis-bearing load
 
 Topics:
 - [[felt-shift]]
