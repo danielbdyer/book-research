@@ -1,5 +1,5 @@
 ---
-description: Christian apophatic theology ascends by negation into a divine darkness, a knowing that exceeds understanding by un-knowing, reaching the book's open center and its uncovering grammar from an unrelated Neoplatonic lineage.
+description: Christian apophatic theology ascends by negation into a divine darkness, a knowing by un-knowing, reaching the book's open center and its uncovering grammar from an unrelated Neoplatonic lineage.
 category: isomorph
 sources: ["atlas §II"]
 topics: ["[[container-anatomy]]"]
