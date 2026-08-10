@@ -28,6 +28,9 @@ Against it stands a contradiction inside the book rather than outside it. The bo
 ---
 
 Relevant Notes:
+- [[dogen holds that the practice is the realization enacted rather than its means]] — the clause's source read at his own text, the bearer this note names, now carrying his own note
+- [[deci and ryan measured that instrumentalizing an intrinsic activity corrupts it]] — the empirical arrival at the clause, the undermining effect measured
+- [[aristotle distinguishes activity complete in itself from movement toward an outside end]] — the Western philosophical arrival, *energeia* complete in itself against *kinēsis* toward an end, making the convergence three traditions wide
 - [[the fullness of the first person is the road to selflessness rather than its obstacle]] — the other proposition the grid found load-bearing and unwritten
 - [[the practice forms specify when to begin and not how to tell one is finished]] — the same clause visible in how the exercises are actually written
 - [[the basic practice posture is a point of return rather than a state]] — the nearest existing statement, which this one had been standing behind
