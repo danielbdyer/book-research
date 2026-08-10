@@ -61,6 +61,7 @@ All four were read at their primary texts on 2026-08-10 and moved from privated 
 - [[pseudo-dionysius reaches the open center by stripping predicates away]] — the open center entered by negation, confirmed at *Mystical Theology* 1 and 5 (ascent "by unknowing" into the "Divine Darkness"), from an unrelated Neoplatonic lineage
 - [[christian kenosis makes room by self-emptying rather than by addition]] — room made by self-emptying, confirmed at the Philippians hymn (ἑαυτὸν ἐκένωσεν, 2:7), offered as a pattern to imitate but running downward, on the renunciation side of the fork
 - [[tzimtzum is a withdrawal that makes room and is company for the container law only]] — the withdrawal-makes-room cousin confirmed at *Etz Chaim* Gate 1 (the Lurianic sense, not Cordovero's), held to the container law only with its inverted valence and machine-pairing flag intact
+- [[the withdrawal-makes-room move is an independent arrival that splits on the book's householder fork]] — the capstone that gathers the withdrawal cousins into one forked convergence: four traditions reach a generative self-withdrawal, and the family divides on whether the withdrawal is completed by a return to ordinary life or is itself the destination
 
 ## What remains
 
