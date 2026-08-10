@@ -30,6 +30,7 @@ Relevant Notes:
 - [[felt shift versus felt confirmation]] — the standard's documented limits, kept attached rather than hidden
 - [[both poles of the convergence refuse the engineered epiphany]] — the refusal that keeps this a standard for admitting claims rather than a standard for producing shifts
 - [[the verification standard rests on one name and cannot be defended by company]] — the structural fact about this rule: one bearer, so no convergence defends it
+- [[the felt shift bears more load than any single test can carry]] — the overload tension this standard is the first and heaviest load of
 - [[introspective access is the felt shift's undefended premise]] — the objection to the premise itself, which this standard has never been put to
 - [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the standard's own counterfeit check, from the same author
 - [[eugene gendlin]] — the chair the standard's author now holds, and the first primary reading the vault owes
