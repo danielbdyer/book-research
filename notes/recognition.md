@@ -87,6 +87,15 @@ This concern borders [[contraction-not-corruption]], because the move from heali
 
 - [[erhard and the book take different verbs from the same heideggerian object]] — the book's un-forgetting and Erhard's context-creation work on the same inherited structure, and his own name for mastery, "a context that uses you," is already middle-voiced
 
+## The negative way and the withdrawal fork, still to read
+
+Arrivals privated on 2026-08-10 at the author's direction: named at page-level, unread, gated on their readings (`ops/reading queue.md`), and each keeping the refusal that halves it.
+
+- [[advaita reaches the uncovering move through neti neti and an ever-attained freedom]] — the uncovering move stated at its most absolute, near-family that argues back and negates the first person the book restores
+- [[the kashmir shaiva anupaya turns the negative way on method itself]] — the source tradition's own apophatic apex, the no-means, deepening reading-is-remembering from inside
+- [[the sufi arc completes annihilation by return rather than by staying dissolved]] — baqa's return as the proof of the peak, an independent arrival at the householder axiom
+- [[weil's decreation un-creates the self and reaches the opposite of the restored first person]] — the far side of the withdrawal fork, arming the seated adversary with her precise concept
+
 ## What remains
 
 The central-process regions are now extracted: each of atlas §I's three names for the process has its claims here, and the Kashmir Śaiva material of atlas §IX.6 was worked on 2026-08-03. Two pieces of that material are deliberately queued with other passes in `ops/queue/extractions.md`: the four upāyas belong with the practice curriculum, and so'yam belongs with the Courtyard overlay. The space-around survey raises Jorge Ferrer's participatory pluralism as a direct challenge to the two-traditions-one-conclusion framing. Ferrer has not been researched for this project; he is on the pending-evaluation list in `ops/queue/candidates.md`.
