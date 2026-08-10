@@ -30,6 +30,7 @@ Relevant Notes:
 - [[the triads privations map the three malas corner for corner]] — the structural correspondence beneath the doctrine
 - [[felt shift versus felt confirmation]] — the guard that applies here: a reframe this consoling must still pass the somatic test rather than being accepted for its comfort
 - [[nihility may be a station the contraction scheme cannot represent]] — the open question about whether a condition exists that this doctrine has no shape for
+- [[tzimtzum is a withdrawal that makes room and is company for the container law only]] — a shared word ruled out: tzimtzum's contraction is the generative gift, not the problem, so it is not an arrival at this doctrine
 - [[what was never metabolized lives on as absence and hubl reached it through inherited trauma]] — a fold whose maker is not the person carrying it
 - [[structure-preserving transformation is a method-bearing claim rather than a directional one]] — how a fold opens, stated as a procedure rather than as a direction
 - [[the gatekeeper has a lived referent in the author's own protective structure]] — the doctrine's ethic traced to the protective structure the author knows from the inside
