@@ -46,6 +46,7 @@ The corpus also stations a warning at this concern and credits it to Lacan: reco
 - [[all six doctrine concerns appear in the first fifteen poems]] — the recognition doctrine in the primary layer: the answer already had, the inside already occupied, stated in the poems before the book existed
 - [[the book is a reference point for a reader already on their way]] — the book's function for the reader who is already noticing, widened past the post-peak case to depth and words for what they half-know
 - [[the recognition school installs wonder at the definition of consciousness]] — camatkāra tied to vimarśa by the founder himself, bridged to art by Abhinavagupta, with the theater-not-world difference kept
+- [[rainer maria rilke]] — the one artwork in the vault's record that performs this map's event, the Archaic Torso commanding "you must change your life" from an eyeless made thing, recognition arriving as demand and produced by trained looking rather than by visitation
 - [[what the big experience leaves behind depends on what follows it]] — the clinical grounding of the shifted promise: the peak fades on a decay curve, and persistence tracks completeness and practice
 
 ### Nascent stubs
