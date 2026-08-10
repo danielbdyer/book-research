@@ -36,6 +36,7 @@ All vault prose is expository and evidential: complete sentences with named subj
 - [[the book performs what it describes]] — the law the vault inherits as a design obligation
 - [[ripeness is not refrigeration]] — the source of the output rule
 - [[felt shift versus felt confirmation]] — the source of the verification rule's humility
+- [[gendlin's focusing protocol already guards against the counterfeit shift]] — the source side of that same humility, since the protocol the somatic test is borrowed from carries its own guards against the counterfeit, which the book can transmit rather than invent
 - [[the topology only exists where it is being performed]] — the source of the scope rule
 - [[the atlas was compiled from the arc and gloss treatment]] — the source of the standing rule, and the reason agreement among three of the seven documents counts once
 
