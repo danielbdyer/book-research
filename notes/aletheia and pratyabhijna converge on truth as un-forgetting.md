@@ -31,6 +31,7 @@ A field has since been recorded around this convergence. Each pole now has a cha
 ---
 
 Relevant Notes:
+- [[the book reads deep change as uncovering rather than addition]] — the book-wide privative move this convergence is the recognition instance of, where the corpus's own word for the deepest change is a privative
 - [[reading is remembering]] — the same doctrine printed as the book's front-matter promise
 - [[suffering is contraction never corruption]] — the diagnostic consequence of choosing un-forgetting over repair
 - [[the crossover has footsteps and the book already seats some of the walkers]] — the field around this convergence: who walked it before, who develops it, who argues against it
