@@ -22,6 +22,7 @@ Relevant Notes:
 - [[the open center is made possible by the three structures and identical with none of them]] — the book's half, which this arrival is company for
 - [[the book reads deep change as uncovering rather than addition]] — the privative grammar whose affirmative face this arrival supplies
 - [[ordinary names keep the deepest structures visible]] — the book's own naming rule, which the uncarved block's refusal of carving independently echoes
+- [[pseudo-dionysius reaches the open center by stripping predicates away]] — the same open center reached by negation, from an unrelated Neoplatonic lineage
 
 Topics:
 - [[container-anatomy]]
