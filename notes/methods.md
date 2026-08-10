@@ -48,6 +48,7 @@ The provenance rounds established facts about how the corpus was made. Four of t
 - [[the earliest chapter was written in a voice distilled from the first fifteen poems]] — what the craft rule is actually reading when it reads the high-water voice: a specification the author wrote from his own poems and then wrote through, rather than a style that emerged.
 - [[flourishing flow and facilitation converged on one stance in the author's own record]] — the count-once rule extended from documents to domains, since three of the author's chosen fields converging shows the coherence of his attention rather than a law of the fields.
 - [[the making of the book enacts the law the book states]] — the limit case of the scope rule, and the one the vault sits inside: a law appearing in its own production history shows consistency of the maker, not truth of the law.
+- [[the company's refusals converge unsought where its agreements were assembled]] — the refinement of the selection caveat the making established, since the artifact-of-gathering rule reaches the company's assembled agreements and never its refusals, which arrived against the gatherer's own interest.
 
 ### What the lineage sort and the two syntheses added to the rules
 
