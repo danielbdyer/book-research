@@ -53,14 +53,14 @@ This concern borders [[contraction-not-corruption]], because the anatomy's failu
 - [[set and setting]] — the corpus's own survey states that Wall, Door and Floor are what *setting* is made of and the Stance is what *set* is made of, calls the crossover unstated, and names neither Leary who coined the pair nor Zinberg who made it a framework. The identification cuts both ways: it makes set-and-setting research evidence about the anatomy, including Zinberg's finding that the operative variable is the group's rituals rather than the individual.
 - [[carl rogers]] — his 1957 conditions are a specified, falsifiable version of what the book's container describes, with the claim attached that they are necessary and sufficient, so technique and diagnosis are not doing the work.
 
-## The open center and the container-that-withdraws, still to read
+## The open center and the container-that-withdraws
 
-These arrivals are privated: named at page-level, unread, admitted 2026-08-10 at the author's direction, and gated on their primary readings (`ops/reading queue.md`).
+All four were read at their primary texts on 2026-08-10 and moved from privated to full, each with a reading record in `archive/`. The first two reach the open center by subtraction, from traditions with no contact with either founding pole; the last two are withdrawal-makes-room cousins of the container, both leaning to the renunciation side of the book's householder fork.
 
-- [[the daodejing reaches the open center through the emptiness a structure holds]] — the cleanest independent arrival at the open center, reaching it through walls and cut apertures from a tradition with no contact with either pole
-- [[pseudo-dionysius reaches the open center by stripping predicates away]] — the open center entered by negation, from an unrelated Neoplatonic lineage, with Eckhart's own via negativa beside it
-- [[tzimtzum is a withdrawal that makes room and is company for the container law only]] — a withdrawal-makes-room cousin of the container, held to the container law only and flagged for its inverted valence and its machine-pairing provenance
-- [[christian kenosis makes room by self-emptying rather than by addition]] — room made by self-emptying, on the renunciation side of the book's householder fork
+- [[the daodejing reaches the open center through the emptiness a structure holds]] — the cleanest independent arrival at the open center, confirmed at chapters 11 and 28 (the hub's hollow turns the wheel; the uncarved block refuses cutting a whole into instruments)
+- [[pseudo-dionysius reaches the open center by stripping predicates away]] — the open center entered by negation, confirmed at *Mystical Theology* 1 and 5 (ascent "by unknowing" into the "Divine Darkness"), from an unrelated Neoplatonic lineage
+- [[christian kenosis makes room by self-emptying rather than by addition]] — room made by self-emptying, confirmed at the Philippians hymn (ἑαυτὸν ἐκένωσεν, 2:7), offered as a pattern to imitate but running downward, on the renunciation side of the fork
+- [[tzimtzum is a withdrawal that makes room and is company for the container law only]] — the withdrawal-makes-room cousin confirmed at *Etz Chaim* Gate 1 (the Lurianic sense, not Cordovero's), held to the container law only with its inverted valence and machine-pairing flag intact
 
 ## What remains
 
