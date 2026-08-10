@@ -1,5 +1,5 @@
 ---
-description: The book routes its verification, its surrender-versus-will fork, and its dissolution-versus-regression judgment through one instrument whose reliability it never argues, so the felt shift bears more than any single test can carry.
+description: The book routes its verification, its surrender-versus-will fork, and its dissolution-versus-regression judgment through the felt shift alone, whose reliability it never argues for.
 category: tension
 status: live
 treatment: "the division of labour across instruments — the felt shift certifies movement, and the judgments it cannot make route to a second person or stay unmet"
