@@ -23,6 +23,8 @@ Relevant Notes:
 - [[the practice is the expression of realization rather than a means to it]] — the anti-instrumentality clause the no-means states at its apex
 - [[both poles of the convergence refuse the engineered epiphany]] — the refusal this states from inside the book's own pole
 - [[the kashmir shaiva tradition would decline four of the book's deepest moves]] — where the anupaya's own refusal extends the tradition's declines
+- [[advaita reaches the uncovering move through neti neti and an ever-attained freedom]] — the rival non-dualism the Kashmir Śaiva tradition defined itself against, negating predicates where the no-means negates method
+- [[the book reads deep change as uncovering rather than addition]] — the privative grammar the no-means is company for, negation carried all the way to method
 
 Topics:
 - [[recognition]]
