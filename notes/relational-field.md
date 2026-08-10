@@ -35,6 +35,7 @@ The atlas records the structural problem under its own heading at §VIII — "th
 - [[the book addresses people who overthink because they oversense]] — the corpus's reader definition, kept beside the author's later one so the difference stays visible
 - [[the book is a reference point for a reader already on their way]] — the author's widened reader definition and the book's function for that reader, a companion that gives words to what the reader already half-senses
 - [[the required second person splits into a judge and a mirror]] — the tension: the company's refusals specify two incompatible missing persons, and the sovereignty doctrine can ship only one
+- [[reader sovereignty has an unstated exception at destabilization]] — where that split lands on the sovereignty doctrine, which the book states without condition even though the crisis is where an outside authority is both needed and forbidden
 - [[independent arrivals reach only the weak reading of the participation law]] — the trade-off across the law's six independent witnesses: independence or strength, not both
 - [[zen's makyo instruction refuses the self-certifying experience]] — a thousand-year precedent for the field as second check: the teacher, not the experience, verifies
 
