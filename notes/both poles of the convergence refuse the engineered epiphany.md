@@ -24,6 +24,7 @@ Relevant Notes:
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the founding convergence this refusal extends by one step
 - [[martin heidegger]] — the near pole's chair, where this refusal is one of four
 - [[the kashmir shaiva tradition would decline four of the book's deepest moves]] — the far pole's chair, likewise
+- [[the kashmir shaiva anupaya turns the negative way on method itself]] — the far pole's sharpest form, this refusal stated from inside the tradition as the no-means
 - [[the book is a tuning fork and the reader is the striking surface]] — the image that already carries the no-guarantee clause
 - [[hartmut rosa]] — the contemporary theory of the same boundary
 - [[nothing enters the lattice the body has not countersigned]] — the book's verification standard, which this refusal protects from becoming a production standard
