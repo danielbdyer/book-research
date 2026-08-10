@@ -53,6 +53,15 @@ This concern borders [[contraction-not-corruption]], because the anatomy's failu
 - [[set and setting]] — the corpus's own survey states that Wall, Door and Floor are what *setting* is made of and the Stance is what *set* is made of, calls the crossover unstated, and names neither Leary who coined the pair nor Zinberg who made it a framework. The identification cuts both ways: it makes set-and-setting research evidence about the anatomy, including Zinberg's finding that the operative variable is the group's rituals rather than the individual.
 - [[carl rogers]] — his 1957 conditions are a specified, falsifiable version of what the book's container describes, with the claim attached that they are necessary and sufficient, so technique and diagnosis are not doing the work.
 
+## The open center and the container-that-withdraws, still to read
+
+These arrivals are privated: named at page-level, unread, admitted 2026-08-10 at the author's direction, and gated on their primary readings (`ops/reading queue.md`).
+
+- [[the daodejing reaches the open center through the emptiness a structure holds]] — the cleanest independent arrival at the open center, reaching it through walls and cut apertures from a tradition with no contact with either pole
+- [[pseudo-dionysius reaches the open center by stripping predicates away]] — the open center entered by negation, from an unrelated Neoplatonic lineage, with Eckhart's own via negativa beside it
+- [[tzimtzum is a withdrawal that makes room and is company for the container law only]] — a withdrawal-makes-room cousin of the container, held to the container law only and flagged for its inverted valence and its machine-pairing provenance
+- [[christian kenosis makes room by self-emptying rather than by addition]] — room made by self-emptying, on the renunciation side of the book's householder fork
+
 ## What remains
 
 Nothing about the upper layers remains for this map, and that is a decision rather than a backlog. The individual primitives, their three make-and-unmake pairs, the closure test, the engine's three loops and the four-axis movement grid were all standing extraction tasks until 2026-08-09, when the author demoted the upper layers fully and directed that the material be preserved in a few robust notes rather than reified in an apparatus, in his words because "there's still validity in the ideas here but we do not reify them as so deserving of an apparatus going forward." Those extraction entries are closed and no new note takes a scheme as its subject; the rule and its two destinations are in `ops/methodology/center of gravity.md`.
