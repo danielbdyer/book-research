@@ -30,6 +30,8 @@ The formulas below are the book's canonical examples. Each is a separate claim b
 - [[the apparatus descends from the settlement the book positions itself against]] — the wider sweep: nine of the book's operational constructs trace to one uncredited formation
 - [[wilhelm reich]] — the fold's uncited ancestor, whose descendants the book cites throughout
 - [[the diagnostic discipline survives the apparatus that carries it]] — what the doctrine keeps once that limit is granted, and where each survivor's standing comes from
+- [[thinkers who agree on nothing else agree that a formulation can be the resistance]] — the charge the molecule catalogue must answer, from five thinkers who agree on nothing else, that a formulation of what is wrong can become the defense of the wrongness, so handing a reader a formula risks equipping the resistance the diagnosis exists to interrupt
+- [[gendlin names four kinds of inward attention that are not focusing]] — the standard's own author on why an emotion felt as "sheer" keeps a person from sensing its complex ground, and why a correct explanation of a suffering-state can move nothing, both bearing on how this map's diagnosis is reached
 - [[intimacy is a tether rather than a binding]] — the healthy state that stands opposite the enmeshment privation
 - [[forgiveness is sever then release]] — the ordering rule, which carries the book's critique of premature peace
 - [[the triads privations map the three malas corner for corner]] — the correspondence between the anatomy's failures and Trika's contractions
