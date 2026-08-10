@@ -80,12 +80,12 @@ The claim that the knower is inside what they know is the condition this map's l
 - [[the alliance holds its size when the exchange is mediated and written]] — the same meta-analysis on internet-delivered therapy: r = .275 across 23 samples, against the standing expectation that a written and mediated exchange would weaken the relation
 - [[the practitioner rather than the person being helped carries the alliance effect]] — variability between therapists exceeds variability within a therapist's caseload, so the measured capacity belongs to the person holding the container
 
-## The non-human field, still to read
+## The non-human field
 
-The clearing's blind spot for the non-human — the more-than-human that takes part in the inner life, which the human-only field has no chair for — found a chain-link and an independent arrival on 2026-08-10, admitted privated and gated on their readings (`ops/reading queue.md`).
+The clearing's blind spot for the non-human — the more-than-human that takes part in the inner life, which the human-only field has no chair for — found a chain-link and an independent arrival on 2026-08-10, both read at their sources and moved from privated to full the same day, with reading records in `archive/`.
 
-- [[buber's tree extends the i-thou relation past the human]] — the unmined half of the seated thinker whose I-Thou already carries the field's ontology
-- [[abram's more-than-human makes the animate world a participant in the inner life]] — the independent arrival, the animate world as participant, a name the corpus already carries
+- [[buber's tree extends the i-thou relation past the human]] — the unmined half of the seated thinker whose I-Thou already carries the field's ontology, the hedge now verbatim (a Thou without a mind: "neither the soul of a tree nor a dryad, but the tree itself")
+- [[abram's more-than-human makes the animate world a participant in the inner life]] — the independent arrival confirmed in Abram's and Kimmerer's own words ("we are human only in contact… with what is not human"; "these beings are not 'it,' they are our relatives"), a name the corpus already carries
 
 ## What remains
 
