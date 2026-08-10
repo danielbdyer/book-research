@@ -1,5 +1,5 @@
 ---
-description: The book's own Indic tradition holds at its apex that there is no means, because any technique would posit a gap that is not there, which states the engineered-epiphany refusal from inside and deepens reading-is-remembering.
+description: The book's own Indic tradition holds at its apex that there is no means, since any technique would posit a gap that is not there — the engineered-epiphany refusal stated from inside, deepening reading-is-remembering.
 category: claim
 sources: ["atlas §I"]
 topics: ["[[recognition]]"]
