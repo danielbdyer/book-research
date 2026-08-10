@@ -35,6 +35,7 @@ The three manuscript drafts admitted 2026-08-01 carry strains that the four desc
 
 - [[felt shift versus felt confirmation]] — the somatic test can be fooled by fluent prose, and the signal is weakest where the protective folding is deepest. This tension also binds the vault's own verification practice; see [[methods]].
 - [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the first candidate treatment the vault holds, and it comes from the standard's own author: the implicit order is precise enough to refuse a wrong word, which is a cost fluency never pays.
+- [[the felt shift bears more load than any single test can carry]] — the tension one level up from the two above, that the instrument they qualify is also carrying the verification, the surrender-and-will fork, and the dissolution-and-regression judgment at once. Treatment: the division of labour, the felt shift certifying movement and the judgments it cannot make routed to a second person.
 
 ## The disagreements kept live among the contemporary teachers
 
