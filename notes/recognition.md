@@ -38,6 +38,7 @@ The corpus also stations a warning at this concern and credits it to Lacan: reco
 - [[the book owes the western reader anchor points into the kashmir shaiva tradition]] — what the book owes the reader for the tradition beneath this whole map, stated as the reader's road in rather than as the tradition's missing chair
 - [[martin heidegger]] — the central verb's source, with his own four refusals and the associations named at the door
 - [[both poles of the convergence refuse the engineered epiphany]] — the foundations agree one step further: the apparatus can prepare and cannot cause
+- [[the peak is the one unit the performing law can honor only by withdrawing]] — where this map's refusal of the manufactured breakthrough meets the performing law, since a peak that performed itself would claim the power both traditions deny, so the staging withdraws the apparatus exactly there
 - [[both poles of the convergence supply their own front doors]] — the accessible entries each tradition wrote for itself
 - [[the crossover has footsteps and the book already seats some of the walkers]] — the field around the core-thesis candidate, verified 2026-08-03: the spine held, and every careful walker recorded a difference
 - [[reading as remembering has a twenty-four-century ancestry in the west]] — Meno to Confessions X to the Parmenides lectures, sharing the gesture and disputing the destination
