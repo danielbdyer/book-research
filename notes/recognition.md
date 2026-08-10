@@ -20,6 +20,7 @@ The corpus also stations a warning at this concern and credits it to Lacan: reco
 - [[psychedelic names a movement not a substance]] — the reclaimed word that names the project's central process
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the founding convergence, recorded as an isomorph
 - [[reading is remembering]] — the front-matter promise, which the book's structure is built to keep mechanically
+- [[the book reads deep change as uncovering rather than addition]] — the one move beneath this map's central concern, since recognition un-forgets, suffering unfolds, and the reclaimed psychedelic un-conceals, so the book adds nothing and only uncovers
 - [[the solo practice reaches the felt shift and the primitives then surface by themselves]] — the practice form of remembering: after the felt shift the book claims the primitives are found already in experience, not applied to it
 - [[the tuesday is the temple]] — the book's commitment to ordinary life as the site of the work
 - [[a hiding that never intends to be found has stopped being play]] — the play doctrine that answers why fullness contracts at all
