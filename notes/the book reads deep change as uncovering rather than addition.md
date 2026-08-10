@@ -1,5 +1,5 @@
 ---
-description: The book's deepest doctrines are one move stated three ways — recognition un-forgets, suffering unfolds, the reclaimed psychedelic un-conceals — so deep change is always the removal of a concealment rather than the acquisition of a new thing, and the corpus never unifies the three.
+description: Recognition un-forgets, suffering unfolds, and the reclaimed psychedelic un-conceals, so the book's three deepest doctrines are one privative move it states piecemeal and never unifies.
 category: structure
 sources: ["atlas §I", "atlas §IV", "first-telling: the reframe", "first-telling: the offering", "first-telling: the word it reclaims", "author statement, 2026-08-10"]
 topics: ["[[recognition]]", "[[contraction-not-corruption]]"]
