@@ -1,23 +1,22 @@
 ---
 description: Advaita holds that liberation is never produced but only uncovered, veiled by ignorance and reached by negation — an absolute statement of the book's uncovering move that also negates the first person it restores.
 category: isomorph
-sources: ["atlas §I"]
+sources: ["atlas §I", "Bṛhadāraṇyaka Upaniṣad 2.3.6", "Śaṅkara, bhāṣya on BU 2.3.6"]
 topics: ["[[recognition]]"]
-state: privated
-privation: "Advaita is unread here; the Brhadaranyaka Upanisad 2.3.6 and Sankara's Brahmasutrabhasya are named by address awaiting the reading."
+state: full
 ---
 
 # advaita reaches the uncovering move through neti neti and an ever-attained freedom
 
-The book holds that deep change adds nothing and only uncovers what was already there ([[the book reads deep change as uncovering rather than addition]]). Advaita Vedanta states that finding at its most absolute: liberation is never produced, it is the self's already-accomplished nature veiled only by ignorance, and knowledge removes the veil rather than adding anything, reached by the method of negation — *neti neti*, "not this, not this." It is arguably a stronger statement of "nothing is added, only uncovered" than the Platonic recollection the vault already logs as the Western ancestry of reading-as-remembering ([[reading as remembering has a twenty-four-century ancestry in the west]]).
+The book holds that deep change adds nothing and only uncovers what was already there ([[the book reads deep change as uncovering rather than addition]]). Advaita Vedanta states that finding at its most absolute: liberation is never produced, it is the self's already-accomplished nature veiled only by ignorance, and knowledge removes the veil rather than adding anything, reached by the method of negation — *neti neti*, "not this, not this." A reading of Bṛhadāraṇyaka Upaniṣad 2.3.6 and Śaṅkara's commentary confirms it at the text. It is arguably a stronger statement of "nothing is added, only uncovered" than the Platonic recollection the vault already logs as the Western ancestry of reading-as-remembering ([[reading as remembering has a twenty-four-century ancestry in the west]]).
 
-The arrival is near-family rather than distant company, because Advaita is the non-dualism the book's own Kashmir Śaiva tradition defined itself against — which is its value, a company that argues back. The reading is not done, so the claim is privated.
+The arrival is near-family rather than distant company, because Advaita is the non-dualism the book's own Kashmir Śaiva tradition defined itself against — which is its value, a company that argues back.
 
 ## Substantiation
 
 - The book's half is on record: recognition adds no knowledge and removes the concealment under which knowing already operated (atlas §I; [[aletheia and pratyabhijna converge on truth as un-forgetting]]).
-- Advaita's half is named, not shown: *neti neti* is at Brhadaranyaka Upanisad 2.3.6, and the doctrine that liberation is ever-attained and removes ignorance rather than being produced by action is Sankara's, in the *Brahmasutrabhasya*. Both are to verify at the text; neither is quoted from memory.
-- The refusal is kept, and it is the sharp one already on the book's fault line. The self Advaita uncovers is impersonal, attributeless Brahman, and the empirical first person and the world are provisional, sublated at liberation — so *neti neti* negates the very *aham* the book restores on its last page and the ordinary Tuesday it sanctifies. Advaita is company for the uncovering grammar and joins the adversaries of [[the fullness of the first person is the road to selflessness rather than its obstacle]].
+- Advaita's half is now shown, from Swami Madhavananda's translation (the reading record is `archive/reading — brihadaranyaka upanishad 2.3.6 and shankara on neti neti.md`). BU 2.3.6: "Now therefore the description (of Brahman): 'Not this, not this.' Because there is no other and more appropriate description than this 'Not this.'" Śaṅkara's commentary holds that *neti neti*'s function "is to remove the obstructions produced by ignorance," and that Brahman "has no distinguishing mark such as name, or form, or action… or qualities." Knowledge removes the veil rather than producing the real. Read in translation, not the Sanskrit; the *Brahmasūtrabhāṣya*'s fuller ever-established doctrine was not separately read.
+- The refusal is the sharp one, and it is already the fault line the book lives on. The self Advaita uncovers is impersonal, attributeless Brahman — no name, form, action, or qualities — so *neti neti* negates the very *aham* the book restores on its last page and the ordinary Tuesday it sanctifies. Advaita is company for the uncovering grammar and joins the adversaries of [[the fullness of the first person is the road to selflessness rather than its obstacle]].
 
 ---
 
