@@ -1,5 +1,5 @@
 ---
-description: The book's anti-instrumentality clause currently rests on Dogen alone, in his voice and unread, which is the situation the verification standard was in with Gendlin, so the move is to seat him and read him at his own text.
+description: The book's anti-instrumentality clause rests on Dogen alone, in his voice and unread — the situation the verification standard was in with Gendlin, so the move is to seat him and read him at his own text.
 category: claim
 sources: ["walked IX", "atlas §IX.8d"]
 topics: ["[[felt-shift]]"]
