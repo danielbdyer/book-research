@@ -39,6 +39,7 @@ Relevant Notes:
 - [[the racket is the attractor state with a salary]] — the counter-case, kept
 - [[the system is scaffolding rather than the centerpiece]] — the standing this claim complicates for one part of the apparatus without disturbing it for the rest
 - [[the diagnostic discipline survives the apparatus that carries it]] — where the privation reading was first named as one of the two survivors
+- [[the withdrawal-makes-room move is an independent arrival that splits on the book's householder fork]] — the withdrawal-form twin of this convergence, the same evidence class run on a self-withdrawal that makes room
 
 Topics:
 - [[contraction-not-corruption]]
