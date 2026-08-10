@@ -22,6 +22,7 @@ Relevant Notes:
 - [[nothing enters the lattice the body has not countersigned]] — the verification standard whose instrument-body this refuses
 - [[the felt shift bears more load than any single test can carry]] — the overload finding this deepens from the side of what the body is
 - [[attending to the body is not the same as reading it accurately]] — the vault's existing limit on the body-as-instrument, which this extends into a refusal of the framing
+- [[abram's more-than-human makes the animate world a participant in the inner life]] — the ecological extension of the flesh, which draws the body-subject's world outward into the animate more-than-human
 
 Topics:
 - [[felt-shift]]
