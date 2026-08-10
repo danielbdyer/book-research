@@ -1,5 +1,5 @@
 ---
-description: Weil's decreation un-creates the self so God can occupy the place it vacated — the same withdrawal move as kenosis, reaching the opposite of the book's restored first person and giving the seated adversary her precise concept.
+description: Weil's decreation un-creates the self so God can occupy the place it vacated — the same withdrawal move as kenosis, but reaching the opposite of the book's restored first person and arming the seated adversary.
 category: claim
 sources: ["atlas §XI"]
 topics: ["[[recognition]]"]
