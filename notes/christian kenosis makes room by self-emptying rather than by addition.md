@@ -8,7 +8,7 @@ state: full
 
 # christian kenosis makes room by self-emptying rather than by addition
 
-The book's container makes room by withdrawing, and its privative grammar reads the deepest moves as subtractions rather than additions ([[the book reads deep change as uncovering rather than addition]]). Christian *kenosis*, the divine self-emptying, reaches the make-room-by-withdrawal shape from a first-century source: the divine empties itself out (*heauton ekenosen*), and self-emptying is the shape of love and incarnation, so what is reached is reached by pouring out rather than by adding. It is the Christian member of the dissolution family the book already names in one breath — *anatta*, *fana*, and *kenosis* as one territory in three vocabularies — and it belongs to the withdrawal family that splits along the book's householder-versus-renunciation fork. The reading is not done, so the claim is privated.
+The book's container makes room by withdrawing, and its privative grammar reads the deepest moves as subtractions rather than additions ([[the book reads deep change as uncovering rather than addition]]). Christian *kenosis*, the divine self-emptying, reaches the make-room-by-withdrawal shape from a first-century source: the divine empties itself out (*heauton ekenosen*), and self-emptying is the shape of love and incarnation, so what is reached is reached by pouring out rather than by adding. It is the Christian member of the dissolution family the book already names in one breath — *anatta*, *fana*, and *kenosis* as one territory in three vocabularies — and it belongs to the withdrawal family that splits along the book's householder-versus-renunciation fork. A reading of the hymn confirms it at the text.
 
 ## Substantiation
 
