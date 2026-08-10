@@ -26,6 +26,13 @@ This map tracks questions the corpus keeps open on purpose. They are not gaps aw
 
 - [[the book's heideggerian foundation was never given the independence test]] — whether the book's reading of aletheia is Heidegger's or the applied Heideggerianism the author encountered in 2017, which no reading has yet compared
 
+## The finite, now with arrivals to read
+
+The clearing's blind spot for the finite — what actually left and stays gone, which the recognition doctrine has no organ for — found both a chain-link and an independent arrival on 2026-08-10, admitted here privated and gated on their readings (`ops/reading queue.md`). Whether the book wants the finite back or leaves it unanswered stays the author's.
+
+- [[heidegger's being-toward-death is the finite the recognition doctrine leaves behind]] — the unmined and already-refused half of the book's own foundation
+- [[buddhist impermanence faces loss as real rather than as veiled presence]] — the independent second arrival, pairing with Heidegger as the finite's other pole
+
 ## What remains
 
 Each standing question graduates to a claim when work begins on it. The Barrett-McLaren question is nearest to ready, since it bears directly on the Alphabet of the Soul and the Molecules of Experience.
