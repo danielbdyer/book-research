@@ -26,6 +26,7 @@ Relevant Notes:
 - [[both poles of the convergence refuse the engineered epiphany]] — the finding that Heidegger's enframing and the valley's doctrine of grace reach the same refusal with no historical contact, which is the founding pair this larger convergence grows out of
 - [[the practice is the expression of realization rather than a means to it]] — the corpus's writing of Dogen's identity of practice and realization into every exercise it prescribes, which is the doctrine that keeps the book on the right side of its own company's refusal
 - [[the poems' animals are present company while the corpus's animals are similes]] — the finding that the poems' creatures are actual company rather than figures of speech, among them the moth that knows by colliding, which states this refusal as an image instead of as an argument
+- [[the kashmir shaiva anupaya turns the negative way on method itself]] — the Trika pole stated at its apophatic summit, refusing method itself rather than only asserting grace's independence from merit
 
 Topics:
 - [[recognition]]
