@@ -33,6 +33,7 @@ Relevant Notes:
 - [[the verification standard rests on one name and cannot be defended by company]] — the structural fact about this rule: one bearer, so no convergence defends it
 - [[the felt shift bears more load than any single test can carry]] — the overload tension this standard is the first and heaviest load of
 - [[introspective access is the felt shift's undefended premise]] — the objection to the premise itself, which this standard has never been put to
+- [[merleau-ponty holds the body as the perceiving subject rather than an instrument that certifies]] — a standing refusal of this standard's framing: the body as perceiving subject, not the instrument that certifies a change
 - [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the standard's own counterfeit check, from the same author
 - [[eugene gendlin]] — the chair the standard's author now holds, and the first primary reading the vault owes
 - [[the practice is the expression of realization rather than a means to it]] — the clause that puts the hardest load on this standard: a practice measured in nothing still needs a countersignature
