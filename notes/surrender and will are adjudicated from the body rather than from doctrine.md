@@ -33,6 +33,7 @@ Relevant Notes:
 - [[the corpus quotes the author's poems rather than the poems quoting the corpus]] — the fork held in one breath, years earlier and without a referee: "complete surrender / and trying one's very hardest" (poems #7)
 - [[felt shift versus felt confirmation]] — the two documented limits on the instrument this treatment seats as referee
 - [[nothing enters the lattice the body has not countersigned]] — the standard being borrowed, stated in the register where it was introduced
+- [[the felt shift bears more load than any single test can carry]] — the overload tension this fork is the second load of, the body asked to referee case by case what technique cannot settle
 - [[the middle voice settles declaration against disclosure]] — the corpus's other unresolved fork between two of its lineages, which it treats by grammar rather than by referee
 - [[distress is a question about machinery not a verdict about character]] — the diagnostic that routes a misfire to one of the disputing camps
 - [[tony robbins]] — the will pole's single holder, whose chair is the condition on whether this fork is a real fork
