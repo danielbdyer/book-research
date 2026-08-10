@@ -23,6 +23,7 @@ Relevant Notes:
 - [[the fullness of the first person is the road to selflessness rather than its obstacle]] — the thesis decreation reaches the opposite of
 - [[christian kenosis makes room by self-emptying rather than by addition]] — the withdrawal-family cousin decreation leans toward
 - [[the sufi arc completes annihilation by return rather than by staying dissolved]] — the book's-side pole of the same fork, return rather than permanent un-creation
+- [[the withdrawal-makes-room move is an independent arrival that splits on the book's householder fork]] — the gathering claim this is the sharpest far-pole statement of
 
 Topics:
 - [[recognition]]
