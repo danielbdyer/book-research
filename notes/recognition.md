@@ -89,14 +89,14 @@ This concern borders [[contraction-not-corruption]], because the move from heali
 
 - [[erhard and the book take different verbs from the same heideggerian object]] — the book's un-forgetting and Erhard's context-creation work on the same inherited structure, and his own name for mastery, "a context that uses you," is already middle-voiced
 
-## The negative way and the withdrawal fork, still to read
+## The negative way and the withdrawal fork
 
-Arrivals privated on 2026-08-10 at the author's direction: named at page-level, unread, gated on their readings (`ops/reading queue.md`), and each keeping the refusal that halves it.
+All four were read at their primary texts on 2026-08-10 and moved from privated to full, each with a reading record in `archive/` and each keeping the refusal that halves it. The first two are negative-way arrivals at the uncovering move; the last two are the two poles of the withdrawal fork, the book's-side return against the renunciation-side un-creation.
 
-- [[advaita reaches the uncovering move through neti neti and an ever-attained freedom]] — the uncovering move stated at its most absolute, near-family that argues back and negates the first person the book restores
-- [[the kashmir shaiva anupaya turns the negative way on method itself]] — the source tradition's own apophatic apex, the no-means, deepening reading-is-remembering from inside
-- [[the sufi arc completes annihilation by return rather than by staying dissolved]] — baqa's return as the proof of the peak, an independent arrival at the householder axiom
-- [[weil's decreation un-creates the self and reaches the opposite of the restored first person]] — the far side of the withdrawal fork, arming the seated adversary with her precise concept
+- [[advaita reaches the uncovering move through neti neti and an ever-attained freedom]] — the uncovering move at its most absolute, confirmed at BU 2.3.6 and Śaṅkara's commentary (ignorance removed, not knowledge produced), near-family that argues back and negates the first person the book restores
+- [[the kashmir shaiva anupaya turns the negative way on method itself]] — the source tradition's own apophatic apex, the no-means confirmed as "the means where there is nothing to be done," reserved for the most graced rather than a democratic doorway
+- [[the sufi arc completes annihilation by return rather than by staying dissolved]] — baqā's return as the completion of fanā, confirmed in al-Junayd's sobriety doctrine, an independent arrival at the householder axiom on the book's side of the fork
+- [[weil's decreation un-creates the self and reaches the opposite of the restored first person]] — the far side of the fork, confirmed at *Gravity and Grace* ("to make something created pass into the uncreated"), arming the seated adversary with her precise concept
 
 ## What remains
 
