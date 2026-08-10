@@ -24,6 +24,7 @@ Relevant Notes:
 - [[the householder road is priced long by every witness who grants it]] — the granting witnesses this adds one to
 - [[weil's decreation un-creates the self and reaches the opposite of the restored first person]] — the renunciation-side pole of the withdrawal fork this return stands opposite
 - [[christian kenosis makes room by self-emptying rather than by addition]] — the Christian member of the same dissolution family the book names in one breath (anattā, fanā, kenosis), leaning to the renunciation pole
+- [[the withdrawal-makes-room move is an independent arrival that splits on the book's householder fork]] — the gathering claim this is a member of, on the book's householder side of its fork
 
 Topics:
 - [[recognition]]
