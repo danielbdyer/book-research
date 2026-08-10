@@ -1,10 +1,9 @@
 ---
 description: The Pauline kenosis, the divine emptying-out, makes love and room by subtraction rather than addition, company for the book's container-that-withdraws law though it leans toward the renunciation pole of the book's fork.
 category: isomorph
-sources: ["atlas §II"]
+sources: ["atlas §II", "Philippians 2:5–8", "Philippians 2:7 (ekenōsen)"]
 topics: ["[[container-anatomy]]"]
-state: privated
-privation: "the kenosis material is unread here; Philippians 2:5-8 (the verb ekenosen) is named by address awaiting the reading."
+state: full
 ---
 
 # christian kenosis makes room by self-emptying rather than by addition
