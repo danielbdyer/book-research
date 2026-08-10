@@ -214,6 +214,9 @@ Three more, 2026-08-05, from the author's request and from two research synthese
 - [[both poles of the convergence supply their own front doors]] — the accessible entries each tradition wrote for itself, with the faults named at each door.
 - [[the crossover has footsteps and the book already seats some of the walkers]] — the field around the author's core-thesis candidate: footsteps, developers, opponents, and the guests already seated.
 - [[thisness is the grain of the container anatomy]] — three thinkers named in the ontic core but absent from the guild roster: Scotus, Hopkins, and Deleuze.
+- [[the confabulation finding exempts current sensations and targets reports of causes]] — what the seated adversary Nisbett and Wilson holds once read whole: the attack aims at reports of causes and exempts the report of a present sensation, which bounds the objection the chair carries.
+- [[a large change in evaluation can happen without being experienced as change]] — the other half of that same reading, which does reach the narrowed standard, since evaluations that had moved sharply were reported as never having moved.
+- [[the case against introspection is strongest where the book's standard stands]] — what the seated adversary Schwitzgebel holds once read whole: he builds the case on bodily and emotional experience and refuses the present-tense exemption, landing the attack where the standard stands.
 
 ## Roster recorded in the corpus
 
