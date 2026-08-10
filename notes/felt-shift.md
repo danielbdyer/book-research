@@ -24,6 +24,7 @@ One consequence for this vault is recorded in [[methods]]: the vault verifies st
 - [[the practice forms specify when to begin and not how to tell one is finished]] — the twelve forms, specified at their trigger and unmarked at both exits
 - [[the solo practice reaches the felt shift and the primitives then surface by themselves]] — Focusing as the curriculum's foundational solo practice, whose endpoint is this map's own instrument
 - [[the affective practice completes a feeling's descent with consent between repression and venting]] — the emotional practice beneath the twelve forms, verified by the feeling's completed descent felt in the body
+- [[naming aloud is part of what is happening rather than a report about it]] — naming a present feeling as itself a bodily event rather than a report on one, the room-scale speech doctrine with Lieberman's affect-labeling result behind it
 - [[the diagnostic method reads each structural layer with its own question]] — the curriculum's closing diagnostic, one read per structural layer, each read gated by the felt shift
 - [[the crisis triage collapses the diagnostic to body holding and contact]] — the same diagnostic reduced for acute distress to three body-answerable questions
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the dispute the corpus asks this map's instrument to settle, case by case
