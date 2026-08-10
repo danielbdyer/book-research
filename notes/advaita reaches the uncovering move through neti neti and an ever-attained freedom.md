@@ -25,6 +25,7 @@ Relevant Notes:
 - [[reading is remembering]] — the front-matter promise Advaita's "removal of ignorance" independently echoes
 - [[the fullness of the first person is the road to selflessness rather than its obstacle]] — the thesis Advaita's negated self is an adversary to
 - [[the kashmir shaiva tradition would decline four of the book's deepest moves]] — the book's own tradition, which defined itself against this rival non-dualism
+- [[the kashmir shaiva anupaya turns the negative way on method itself]] — the book's own tradition's apophatic apex and rival non-dualism, negating method where Advaita negates predicates
 
 Topics:
 - [[recognition]]
