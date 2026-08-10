@@ -35,7 +35,7 @@ Two questions, in the order that decides the most.
 ---
 
 Relevant Notes:
-- [[the twelve primitives are verbs because a self in verbs is mid-sentence]] — the design commitment he is the finished philosophy for
+- [[the scheme's upper layers are one construction built on the container's three structures]] — the design commitment he is the finished philosophy for
 - [[the system is scaffolding rather than the centerpiece]] — the demotion his machinery would reverse if imported rather than cited
 - [[a synthesis organized by the schemes offers to promote them back to architecture]] — the same danger, met once already, with the treatment that applies here
 - [[anna wierzbicka]] — the empirical counterpart: he supplies the metaphysics of verbs, she supplies the test of whether the set is right

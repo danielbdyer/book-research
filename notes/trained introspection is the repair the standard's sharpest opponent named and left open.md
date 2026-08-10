@@ -23,7 +23,7 @@ He also says where he had looked. His footnote names classical introspective tra
 ---
 
 Relevant Notes:
-- [[the case against introspective reliability is strongest exactly where the book's standard stands]] — the attack in the same paper, which this repair is the stated answer to
+- [[the case against introspection is strongest where the book's standard stands]] — the attack in the same paper, which this repair is the stated answer to
 - [[introspective access is the felt shift's undefended premise]] — the tension whose defense this converts from an argument into a reading with an address
 - [[eric schwitzgebel]] — the evaluation, which had already predicted that his project leaves a repair open rather than closing the question
 - [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the book's other answer, which claims a trained body can reject the trainer's own sentence

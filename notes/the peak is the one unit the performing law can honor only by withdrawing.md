@@ -14,7 +14,7 @@ The corpus's staging already answers the contradiction, without stating the rule
 ## Substantiation
 
 - The first law and its pacing clause are recorded at [[the book performs what it describes]], which holds that every structural device exists to make the reading enact the process the text explains. The refusal is recorded at [[both poles of the convergence refuse the engineered epiphany]], where Heidegger's enframing and the valley's doctrine of grace reach the same boundary with no contact between them, and the wider company that also refuses it is gathered at [[the refusal of the engineered epiphany is a convergence in its own right]].
-- The staging is walked X, quoted above; the vault's record of it sits in [[book-structure]], the topic map gathering the claims about the book's architecture. The same withdrawal at the scale of single sentences is recorded at [[the peak uncouples the syntax and the descent re-couples it]], where the peak chapter's sentences uncouple and the descent's re-couple them into short declaratives.
+- The staging is walked X, quoted above; the vault's record of it sits in [[book-structure]], the topic map gathering the claims about the book's architecture.
 - Those three notes supply all the evidence this conjunction needs. The rule stated in this note's title appears in no source document.
 
 ---
@@ -22,7 +22,6 @@ The corpus's staging already answers the contradiction, without stating the rule
 Relevant Notes:
 - [[the book performs what it describes]] — the book's governing design law, that every structural device makes the reading enact what the text explains, which meets its own limit at the peak
 - [[both poles of the convergence refuse the engineered epiphany]] — the shared refusal that sets that limit, since Heidegger's enframing and the valley's doctrine of grace both hold that unconcealment cannot be manufactured
-- [[the peak uncouples the syntax and the descent re-couples it]] — the executed prose already performing the withdrawal, with the peak's sentences coming apart and the descent's opening putting them back together as short declaratives
 
 Topics:
 - [[book-structure]]

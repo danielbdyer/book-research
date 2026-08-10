@@ -1,6 +1,6 @@
 # Working brief — the first letter of the correspondence
 
-<!-- Built 2026-08-08 under the correspondence program (`ops/correspondence program.md`), after the author picked the correspondence vision and set the scope to plan plus pilot. The pilot is the opening letter — the address itself — and this brief assembles what the vault hands its drafting, sorted by job. The prose draft written from this brief is `drafts/draft — the first letter.md`; both are provisional and the author's to cut. The general assembly of material for the address concern is `ops/reach-list — the address.md`, the drafting-readiness dry run built by the sibling round on 2026-08-06; this brief selects from it for one letter and adds what the weave landed since. -->
+<!-- Built 2026-08-08 under the correspondence program (`ops/correspondence program.md`), after the author picked the correspondence vision and set the scope to plan plus pilot. The pilot is the opening letter — the address itself — and this brief assembles what the vault hands its drafting, sorted by job. The prose draft written from this brief is `drafts/draft — the first letter.md`; both are provisional and the author's to cut. The material for the address concern was assembled by the sibling round's drafting-readiness dry run on 2026-08-06; this brief selects from it for one letter and adds what the weave landed since. -->
 
 ## What this letter is
 
@@ -26,7 +26,7 @@ The opening letter does the promise directly, in the first sentence: the address
 - The reader, in both definitions: [[the book addresses people who overthink because they oversense]] ("people who need rigor and the sacred in the same sentence, because they don't fully trust either one alone"); the author's two types at tier one; the surplus mechanism at [[the book opens from a surplus of insight rather than a lack of it]] ("understanding has become easy to acquire, and easy to hide in").
 - The menu the reader has already been offered, which the letter can name plainly: "precision that costs you your dignity, or dignity that costs you precision" ([[the offered menu is precision that costs dignity or dignity that costs precision]], quoting first-telling pp. 1–2).
 - The address doctrine the letter enacts without stating: [[the book's native genre is the letter from a friend read alone]]; [[the reader's working posture is solitude held inside relationship]]; the sovereignty rule at [[the book can only be auxiliary to a sovereign reader]] — the letter's one standing promise is that the writer will never claim to know the reader's life better than the reader does.
-- The wager's evidence and its limit, for the program rather than the page: the relational-standard convergence in `ops/outline.md`, and the limit that every measured written exchange has a live responder. The letter faces the limit honestly by asking for the answer rather than assuming it.
+- The wager's evidence and its limit, for the program rather than the page: the relational-standard convergence between the movements and the closing law, and the limit that every measured written exchange has a live responder. The letter faces the limit honestly by asking for the answer rather than assuming it.
 
 ## What the two real readers are asked
 

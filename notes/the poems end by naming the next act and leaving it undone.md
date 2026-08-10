@@ -14,14 +14,13 @@ In all four, the close names the next act and hands it to whoever is reading rat
 ## Substantiation
 
 - All four endings were verified at their poems in the extracted text; the claim rests on the pattern across the four, and each instance is checkable on its own.
-- On the design side, two notes carry the answerable ending. [[the book's native genre is the letter from a friend read alone]] records that the one documented occurrence of the book's promised event happened while reading a decade-old letter from a beloved friend, alone, and that the book's plainest telling already exists as letters to one friend. [[the close repeats the opening's exit with one sentence inserted]] records the mechanics of the executed draft's ending, where the epilogue repeats the prologue's exit with a single sentence added and the one future-tense passage keeps its promise small.
+- On the design side, [[the book's native genre is the letter from a friend read alone]] records that the one documented occurrence of the book's promised event happened while reading a decade-old letter from a beloved friend, alone, and that the book's plainest telling already exists as letters to one friend — the answerable ending as the book's native form.
 - The parenthesis in poem #11, instructing the poet to write only from the present moment, states that composition ethic in the poems themselves. It stands beside the reconstruction held in `provenance/` recording that the seed's one written chapter was authored through a voice distilled from the author's own first fifteen poems.
 
 ---
 
 Relevant Notes:
 - [[a word at madhyama can be perfected forever a word at vaikhari can be answered]] — the corpus's distinction that an unspoken sentence stays revisable and is therefore not yet real while a spoken sentence cannot be revised and can therefore be answered, which is what an ending that stops at the unperformed act enacts
-- [[the close repeats the opening's exit with one sentence inserted]] — the executed draft's ending mechanics, where the epilogue repeats the prologue's exit with one sentence inserted, standing beside this lifelong habit of ending
 - [[ripeness is not refrigeration]] — the corpus's rule that preserving finished work intact never ripens it, so readiness that is never released has become storage, a rule these endings show the author keeping before the book stated it
 
 Topics:

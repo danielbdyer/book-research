@@ -42,7 +42,7 @@ The corpus equips the book with paired figures, each equating an image, a concer
 - [[the orchard's koan is that composting is not death]] — the figure for the metabolic arc's last station, where superseded material feeds what follows
 - [[the gold thread ties the continuity loop to the book's own genre]] — the continuity figure, whose reach into the letter genre is the book's own address question
 - [[the ink that listens is the relational field at the scale of a page]] — the between, installed on the book's own surface
-- [[the engine is a triadic theology in mechanic's clothing]] — the three loops carrying the triad in working dress
+- [[the scheme's upper layers are one construction built on the container's three structures]] — the three loops carrying the triad in working dress
 - [[the fruit that falls is the word become deed]] — completion as expression leaving the tree that made it
 - [[the gatekeeper is met with a bow never a fight]] — the threshold figure and the posture it teaches at every gate
 - [[the book is a tuning fork and the reader is the striking surface]] — the resonance theory of reading, installed on page one to govern the ending
@@ -90,7 +90,7 @@ The provenance record of 2026-08-02 and after — the accounts of the corpus's m
 - [[the book was written across the author's move to seattle to live in earnest]] — the life-arc the whole composition spans, from Houston training to Seattle rebuild.
 - [[the book's doctrine of time restates a sentence the author's father told him]] — the inheritance the temporal doctrines vary, entered by testimony.
 - [[the corpus quotes the author's poems rather than the poems quoting the corpus]] — the primary layer: for the fifteen poems predating the book, shared phrases originate in the poem.
-- [[the earliest chapter was written through a voice distilled from the author's first fifteen poems]] — the documented method behind the seed's high-water voice.
+- [[the earliest chapter was written in a voice distilled from the first fifteen poems]] — the documented method behind the seed's high-water voice.
 - [[the sixteenth poem returns the book's language to the life it came from]] — the flagged exception: the one book-era poem, carrying the vocabulary home.
 - [[the gold thread is the rainbow thread re-owned]] — the continuity figure's genealogy, one layer beneath the seed: a shared image, re-dyed.
 - [[a recorded reason drifts toward doctrine with distance from the decision]] — why a reason recorded in the later documents may not be the reason given at the time.
@@ -115,28 +115,11 @@ The provenance record of 2026-08-02 and after — the accounts of the corpus's m
 - [[the drafts execute one of the seven designed apparatus devices]] — the apparatus bound, and what "fully treated" therefore costs
 - [[the per-chapter dial is a spanda ratio]] — the chapter dial carries the tradition's word for the pulse
 - [[the unfolding of the center is planted half-erased and finished at a mirror]] — the clearest case of the planting device: a formula planted as a fragment and finished late
-- [[the minus sign is what makes a molecule formula prescriptive]] — the notation that sorts the catalogue into descriptions and instructions
-- [[the compositional notation does not license the operations its syntax implies]] — what happens when the executed draft's own formulas are checked against each other
-- [[the chemistry's teachings are structural and its notation is only compositional]] — the general finding from the complete formula audit: the notation records membership and every teaching is about relation
-- [[the alphabet's closure rests on a drill no record shows being run]] — the asserted test that made the set an alphabet, and its missing instance
+- [[every discrimination the molecule formulas are credited with is made by the prose beside them]] — the notation that sorts the catalogue into descriptions and instructions; what happens when the executed draft's own formulas are checked against each other; the general finding from the complete formula audit: the notation records membership and every teaching is about relation; the asserted test that made the set an alphabet, and its missing instance
 - [[the corpus names the standard its found-not-invented axiom has not met]] — two descriptive sources disagreeing about whether the vocabulary is a discovery
-- [[the executed draft cannot decide whether the primitives are elementary operations or useful tools]] — the same page asserting both statuses, treated by the author's demotion
+- [[the executed draft cannot decide if the primitives are operations or tools]] — the same page asserting both statuses, treated by the author's demotion
 - [[the diagnostic discipline survives the apparatus that carries it]] — what stands if the notation is set aside, and on what grounds
-- [[the closing prompt changes genre where the book turns to praxis]] — the unstated rule governing what an instruction may ask for, and when
-- [[the treatment records four authorship conditions in its undercurrents]] — the author's recorded observations about writing the book, quoted
-- [[the units the treatment flags as unfinished are the shortest in the executed draft]] — the measurement that confirms two of those conditions
-- [[the voice follows every reach with a release]] — the composure rhythm of the voice at its high-water mark
-- [[the voice names the move it has just made]] — how the earliest draft discharges the analytical reader's suspicion
-- [[the voice keeps the reader located in a walkable space]] — the house conceit working as navigation, page by page
-- [[a chapter opens by restating what is built before adding to it]] — the execution's location device: inventory openings at twelve of fifteen units, cold opens at the three phenomenological entries
-- [[the executed draft announces a register change before performing it]] — disorientation converted to confirmation by pre-naming each shift
-- [[the peak uncouples the syntax and the descent re-couples it]] — the arc's deepest transition performed in sentence structure
-- [[the earliest draft addresses its figures and the executed draft explains them]] — the voice difference at its widest as one grammatical operation: apostrophe became exposition
-- [[the authorial first person frames while the poems carry the lived testimony]] — the execution's division of labor: framing in prose, testimony in verse, two exceptions enumerated
-- [[the close repeats the opening's exit with one sentence inserted]] — the ending built from the beginning by one insertion, with the tautological epilogue keeping the promise small
-- [[the executed draft stages a concept by cataloguing the reader's own remembered scenes]] — the staging instrument behind reading-as-remembering
-- [[the executed draft introduces each thinker by the duration of their labor]] — the seating formula for the convergence centerpiece
-- [[the medicine sentence negates the familiar advice before naming the restoration]] — the prescriptions' prose template
+- [[the book asks only for attention until it has given the reader something to act with]] — the unstated rule governing what an instruction may ask for, and when
 - [[the peak is the one unit the performing law can honor only by withdrawing]] — the two laws' one collision, resolved by the staging's withdrawal
 - [[the offered menu is precision that costs dignity or dignity that costs precision]] — the book's positioning against both available vocabularies
 - [[the small hours are the poems' native hour before they were the book's founding scene]] — the founding scene's hour, traced to the primary layer

@@ -36,7 +36,7 @@ Two questions, in the order that decides the most.
 
 Relevant Notes:
 - [[anna wierzbicka]] — the other alphabet adversary, arguing that the set is unearned rather than that any set deflects
-- [[the twelve primitives are verbs because a self in verbs is mid-sentence]] — the vocabulary his objection is aimed at, with the corpus's own statement of what it hides
+- [[the scheme's upper layers are one construction built on the container's three structures]] — the vocabulary his objection is aimed at, with the corpus's own statement of what it hides
 - [[the diagnostic discipline survives the apparatus that carries it]] — the specificity gain his objection prices: precision in one register bought with blindness in another
 - [[felt shift versus felt confirmation]] — where trained incapacity would land if the reading confirms the connection: fluency in the vocabulary as the failure mode the standard cannot catch
 - [[ordinary names keep the deepest structures visible]] — the book's naming rule, which is a partial answer: plain terms deflect less than mythic ones

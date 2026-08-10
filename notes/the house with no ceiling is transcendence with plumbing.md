@@ -19,7 +19,6 @@ The book's first image is a house whose roof opens to the sky while the floor, t
 Relevant Notes:
 - [[the tuesday is the temple]] — the doctrine the householder axiom pre-loads
 - [[the open center is made possible by the three structures and identical with none of them]] — the claim this picture draws: the three structures and the open middle they hold
-- [[the voice keeps the reader located in a walkable space]] — the house working as navigation rather than decoration: the earliest draft states the reader's position on every page
 
 Topics:
 - [[recognition]]

@@ -10,7 +10,7 @@ state: full
 
 # sorting a lineage by load turns it toward argument
 
-On 2026-08-02 the author declined a drift the vault had developed on its own: "ranking convergences by evidential weight, describing what the book 'can safely lean on', reading a thinker's refusal as a counterweight that strengthens a position. That is the presupposed righteousness the author is declining" (`ops/methodology/authorial stance.md`). The convergence is company rather than proof, and the vault postulates no efficacy.
+An instrument that sorts thinkers by how much weight each carries produces exactly the ranking-by-evidential-weight the book's authorial stance declines. The author named that drift on 2026-08-02 and turned it back: "ranking convergences by evidential weight, describing what the book 'can safely lean on', reading a thinker's refusal as a counterweight that strengthens a position. That is the presupposed righteousness the author is declining" (`ops/methodology/authorial stance.md`). The convergence is company rather than proof, and the book postulates no efficacy.
 
 The instrument received on 2026-08-05 is built out of exactly that. It prices adversaries by damage — "Value is proportional to damage; a comfortable adversary is decoration" — calls independent arrival "evidence rather than support," says the adversary tier "decides whether the book is an argument or an aesthetic," and holds that "a thesis with no adversaries is a mood." Those are not incidental phrasings; they are the instrument's operating logic, and without them the sort has no criterion.
 

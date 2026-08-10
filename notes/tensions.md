@@ -46,7 +46,7 @@ The corpus preserves, rather than adjudicates, the disagreements among its conte
 
 ## The tension inside the vocabulary the author is questioning
 
-- [[the executed draft cannot decide whether the primitives are elementary operations or useful tools]] — treated. One page of the prose edition calls the six base operations "not metaphors… the elementary operations that constitute almost everything you do" and, four sentences later, "useful, not as facts but as tools." The two license different books, and the reader is given no signal about which they are in. Treatment: the author's decision of 2026-08-04 demoting the schemes from architecture to instrument, under which the prologue's scaffolding sentence stands and chapter five's first sentence does not. What is left is a revision note rather than an open question.
+- [[the executed draft cannot decide if the primitives are operations or tools]] — treated. One page of the prose edition calls the six base operations "not metaphors… the elementary operations that constitute almost everything you do" and, four sentences later, "useful, not as facts but as tools." The two license different books, and the reader is given no signal about which they are in. Treatment: the author's decision of 2026-08-04 demoting the schemes from architecture to instrument, under which the prologue's scaffolding sentence stands and chapter five's first sentence does not. What is left is a revision note rather than an open question.
 
 ## The tension the making exposes
 
@@ -66,7 +66,7 @@ Five arrived together with the mesh grid on 2026-08-05. Four are the same shape 
 - [[the book cannot tell dissolution from regression and neither can its reader]] — the book induces destabilization and names no diagnostic for what it induced; the standard that decides everything else is the one worst placed to decide this. Treatment: unassigned; the guardrail is named but not built.
 - [[a developmental scheme handed to practitioners becomes a ranking of persons]] — every documented precedent turned into a status hierarchy among its readers, and none produced a design feature that prevents it. Treatment: unassigned, and the demotion of the schemes is only a partial answer.
 
-Two more arrived with them and sit differently. [[the compound diagnoses may relocate a structural condition inside a person]] asked whether the book inherits the blind spot it names in the field it diagnoses; the audit was run on 2026-08-05 and the answer is no — the formulas split by whether their missing element is external or an act the person performs, and the defect is narrower than the charge ([[the minus sign cannot say whether the missing element was withheld or never on offer]]). It now carries a treatment: ask of each privated formula whether the missing element is withheld or unavailable. And [[sorting a lineage by load turns it toward argument]] is the only one of the seven that is already treated: the instrument that found the other six operates in a register the authorial stance declines, and the author resolved the collision by scope rather than by choosing a side.
+Two more arrived with them and sit differently. [[the compound diagnoses may relocate a structural condition inside a person]] asked whether the book inherits the blind spot it names in the field it diagnoses; the audit was run on 2026-08-05 and the answer is no — the formulas split by whether their missing element is external or an act the person performs, and the defect is narrower than the charge ([[every discrimination the molecule formulas are credited with is made by the prose beside them]]). It now carries a treatment: ask of each privated formula whether the missing element is withheld or unavailable. And [[sorting a lineage by load turns it toward argument]] is the only one of the seven that is already treated: the instrument that found the other six operates in a register the authorial stance declines, and the author resolved the collision by scope rather than by choosing a side.
 
 ### The chairs seated against them
 
@@ -99,7 +99,7 @@ Two arrived 2026-08-06 from reading the company's sixty-four candidate evaluatio
 ## The method this map does not supply
 
 
-- [[a kept tension can be mapped rather than only held]] — nascent. Every treatment recorded above is an authorial move made in the writing; none is a move the reader can make. The gesture naming a reader-facing procedure is an open territory, inventoried in `ops/open corpus.md`.
+- Every treatment recorded above is an authorial move made in the writing, and none of them is a move a reader could make. The corpus's only reader-facing material on holding two opposed things is a disposition rather than a procedure, stated as "polarity is not a problem to be solved. It is a tension to be inhabited. It is, in fact, home" (abridged ch9). A stub naming the missing procedure stood here until 2026-08-09 and was then declined, because reading the corpus at its locators found the disposition and no method; the reason is at `ops/queue/declines.md` under that date, and the warrant that would make such a method teachable rather than temperamental is [[the drive to closure has measurable costs]], which records that premature closure degrades judgment where evidence is still arriving.
 
 ## The warrant for keeping them
 

@@ -43,8 +43,6 @@ Figures that are book content rather than vault vocabulary — the image system'
 Relevant Notes:
 - [[the topology only exists where it is being performed]] — the corpus's own statement of why its figures are part of its territory
 
-- [[metaphor is a faculty that weaves a self rather than a device that decorates one]] — nascent; the other subject metaphor could name, which this crosswalk does not cover
-- [[a person lives inside symbolic infrastructures they have built]] — nascent; the same crosswalk operation applied to a reader's own systems
 
 Topics:
 - [[methods]]

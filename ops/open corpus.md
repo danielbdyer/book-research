@@ -6,7 +6,11 @@ This file treats the corpus's two outlines — the atlas's section structure and
 
 **What it is for.** The vault's outward frontier is [[research-frontier]], which holds thinkers and concepts from outside the project awaiting evaluation. This file holds the inward frontier: material the project itself has already gestured at and not developed. The two are different kinds of open work, and the second was invisible until the outlines were read as a coverage map rather than as a plan. Entries feed /reduce and the extraction queue. They never feed placement, which remains the author's.
 
-**Every open gesture now has a stub.** A table row is not reachable by /reflect and is not traversable from the graph, which made this file a leaf that nothing would consume. Each of the thirteen open gestures therefore has a nascent claim note in `notes/`, listed in [[research-frontier]] and linked from the rows below. The stub carries the analysis; this file carries the inventory and the exploration state.
+**The stubs are gone, and this file carries their analysis (2026-08-09).** From 2026-08-01 each of the thirteen open gestures had a nascent claim note in `notes/`, created on the reasoning that a table row is not reachable by /reflect and is not traversable from the graph, which made this file a leaf nothing would consume. Graph reachability is a maintenance reason rather than a writing reason, and the admission standard's rule for an absence — one seed, not an essay — is satisfied by an inventory row with its reason attached.
+
+Twelve of the thirteen were read against the extracted corpus at their own locators on 2026-08-09 and declined. Each one's proposition, its strongest corpus fact, its nearest held material and its argued contrast are preserved in the reasons at `ops/queue/declines.md` under that date, and every entry names the locators that would reopen it. The reading found one pattern with no exceptions: each territory is a chapter title in the earliest edition's table of contents with no chapter written behind it.
+
+The thirteenth is the exception that shows the rule was worth testing. The gesture on externalized systems turned out to have real corpus material behind it, was substantiated from six sources, and now stands as a full claim at [[an externalized system can be built to hold a self rather than only its information]]. That is what a stub becomes when the territory is genuinely there, and it is why the twelve were read individually rather than declined as a group.
 
 ---
 
@@ -20,12 +24,12 @@ The atlas organizes the whole field into thirteen sections. Read as scaffolding,
 | §I | The deepest well: the master process | Three claims on recognition, the reclaimed word, and the play doctrine | The central process's other two names; the Clearing's own treatment; the thisness lineage (Scotus, Hopkins, Deleuze, and the sister ontology project) |
 | §II | The ontic core: the Generative Triad | The anatomy, the privation mapping, the vetoed names | The diagram's centre-word and its formula for the whole path |
 | §III | The alphabet: the twelve primitives | One claim, on why they are verbs | Each of the twelve individually; the three make/unmake pairs; the closure test that found no thirteenth |
-| §IV | The chemistry: molecules of experience | All twenty-one operator-written formulas audited at `ops/formula audit.md`, with the foreclosure extension and the minus-sign mechanism | Eight families and roughly fifty compounds; the eight cluster heads |
+| §IV | The chemistry: molecules of experience | All twenty-one operator-written formulas audited, distilled in [[every discrimination the molecule formulas are credited with is made by the prose beside them]], with the foreclosure extension and the minus-sign mechanism | Eight families and roughly fifty compounds; the eight cluster heads |
 | §V | The engine: three loops, one arc, four dimensions | One claim, on structural diagnosis | Each loop with its misfire signature and medicine; the four-axis movement grid; the treatment of high-energy states |
 | §VI | The epistemic ladder: the word descending | Two claims, on madhyamā against vaikharī and on the middle voice | Each of the four levels; the reading test; the answerability ethics (Bakhtin, Rosenstock-Huessy, Arendt, Celan) |
 | §VII | The praxis stratum: what the hands do | Two claims, on the Stance and on somatic countersigning | The twelve kata; channeling; the Focusing protocol; the group protocols; the four doors of practice; the systems-craft toolkit; the six revision passes as practices |
 | §VIII | The relational field | Four claims | The field's own three-loop structure; the relational molecule set |
-| §IX | The guild: every lineage seated | The roster and seat taxonomy; sixty-one thinker evaluations sorted on two axes, crossed at `ops/lineage sort.md` | Roughly a hundred named thinkers without notes; the valley's four subsections; the margin faculty; the porch's six groups; the chapter patrons; the satellites |
+| §IX | The guild: every lineage seated | The roster and seat taxonomy; sixty-one thinker evaluations sorted on two axes, crossed by `scripts/queries/lineage-sort.sh` | Roughly a hundred named thinkers without notes; the valley's four subsections; the margin faculty; the porch's six groups; the chapter patrons; the satellites |
 | §X | The book as artifact | Book-structure, the poem compression, the apparatus gap, and the image system entire — twelve image claims | Six of seven apparatus devices; the four overlays individually |
 | §XI | The fault-line country | Twenty-three tension claims, every one carrying status and treatment fields | Nine guild fault lines (§XI.2a–2i), of which one has a note; the koan under the map |
 | §XII | The gravitational summary | The six doctrine maps derive from it | — |
@@ -45,8 +49,8 @@ The state column distinguishes three conditions. **Written** means prose exists.
 | Gesture | State | Note |
 |---|---|---|
 | The Braid, the Thread, and the Loom: identity as living mythos | written | The whole solo chapter; four of its pages later become units of the arc |
-| Symbolic Resonance: metaphor, memory, and self-weaving <br>→ [[metaphor is a faculty that weaves a self rather than a device that decorates one]] | open | The only place the project treats metaphor as a faculty rather than as an image system |
-| Sacred Nostalgia and the House with No Walls: continuity in liminality <br>→ [[nostalgia carries continuity across a threshold]] | open | The house image appears here under a different name; nostalgia as a continuity mechanism appears nowhere else |
+| Symbolic Resonance: metaphor, memory, and self-weaving <br>→ declined 2026-08-09; the reason and the locators are in `ops/queue/declines.md` | open | The only place the project treats metaphor as a faculty rather than as an image system |
+| Sacred Nostalgia and the House with No Walls: continuity in liminality <br>→ declined 2026-08-09; the reason and the locators are in `ops/queue/declines.md` | open | The house image appears here under a different name; nostalgia as a continuity mechanism appears nowhere else |
 | Designing the Inner System: soul-aligned second brains <br>→ [[an externalized system can be built to hold a self rather than only its information]] | open | The project's only gesture at an externalized personal system |
 
 ### Fractal integrity
@@ -54,10 +58,10 @@ The state column distinguishes three conditions. **Written** means prose exists.
 | Gesture | State | Note |
 |---|---|---|
 | Radical Self-Attunement: micro-truths and alignment | carried | Adjacent to the felt-shift standard |
-| Habit as Ritual: micro-practices for sacred daily design <br>→ [[a habit becomes a ritual when it is designed rather than accumulated]] | open | Habit as a unit of design appears nowhere in the arc |
+| Habit as Ritual: micro-practices for sacred daily design <br>→ declined 2026-08-09; the reason and the locators are in `ops/queue/declines.md` | open | Habit as a unit of design appears nowhere in the arc |
 | Ontologies of Authenticity: from performance to coherence | carried | Adjacent to the identity loop |
 | Firing on All Cylinders: mapping the ecosystem of self | carried | Becomes the Three Loops |
-| Paradox Mapping: embracing tension without collapse <br>→ [[a kept tension can be mapped rather than only held]] | open | The corpus keeps tensions; it has no method for mapping them, and this names one |
+| Paradox Mapping: embracing tension without collapse <br>→ declined 2026-08-09; the reason and the locators are in `ops/queue/declines.md` | open | The corpus keeps tensions; it has no method for mapping them, and this names one |
 
 ### The alchemical relational field
 
@@ -67,16 +71,16 @@ The state column distinguishes three conditions. **Written** means prose exists.
 | Witnessing as Lifeblood: relational presence as sacred practice | carried | Becomes the Third Entity |
 | Erotic-Spiritual Intelligence: sacred sexuality and embodied communion | carried | Keeps its name; the subtitle's explicit register does not survive |
 | Communication as Ritual: language, subtlety, timing | carried | Adjacent to the speech ladder |
-| Conscious Coupling and Decoupling: evolutionary partnerships <br>→ [[a partnership can be deliberately entered and deliberately left]] | open | Relation as something deliberately entered and left; the arc treats the field as a standing condition |
+| Conscious Coupling and Decoupling: evolutionary partnerships <br>→ declined 2026-08-09; the reason and the locators are in `ops/queue/declines.md` | open | Relation as something deliberately entered and left; the arc treats the field as a standing condition |
 
 ### The architecture of a sacred day
 
 | Gesture | State | Note |
 |---|---|---|
-| Temporal Coherence: morning as mythic entry <br>→ [[the morning is where a day acquires its coherence]] | open | A whole part on the design of lived time, absent from the arc entirely |
-| Designing Rhythmic Flow: nervous-system-aligned scheduling <br>→ [[a schedule can be aligned to the nervous system rather than to the clock]] | open | The only gesture joining the temporal loop to a calendar |
-| Micro-Rituals and Sensory UX: sacred in the ordinary <br>→ [[the sacred in the ordinary is produced by sensory design]] | open | Adjacent to [[the tuesday is the temple]], which states the doctrine without the practice |
-| Sovereignty Anchors: ritual design for inner holding <br>→ [[a ritual can be designed to hold a self in place]] | open | Ritual as a container-making technology, unexplored |
+| Temporal Coherence: morning as mythic entry <br>→ declined 2026-08-09; the reason and the locators are in `ops/queue/declines.md` | open | A whole part on the design of lived time, absent from the arc entirely |
+| Designing Rhythmic Flow: nervous-system-aligned scheduling <br>→ declined 2026-08-09; the reason and the locators are in `ops/queue/declines.md` | open | The only gesture joining the temporal loop to a calendar |
+| Micro-Rituals and Sensory UX: sacred in the ordinary <br>→ declined 2026-08-09; the reason and the locators are in `ops/queue/declines.md` | open | Adjacent to [[the tuesday is the temple]], which states the doctrine without the practice |
+| Sovereignty Anchors: ritual design for inner holding <br>→ declined 2026-08-09; the reason and the locators are in `ops/queue/declines.md` | open | Ritual as a container-making technology, unexplored |
 
 ### Transcendence without bypass
 
@@ -85,7 +89,7 @@ The state column distinguishes three conditions. **Written** means prose exists.
 | Mysticism in the Mundane: practicing awe | carried | Adjacent to [[the tuesday is the temple]] |
 | When Systems Break: sacred collapse and the rebirth of meaning | carried | Adjacent to the crisis material |
 | Divine Indwelling: living from immanence | carried | Adjacent to the recognition doctrine |
-| Symbolic Infrastructures: dreams, playlists, sacred code <br>→ [[a person lives inside symbolic infrastructures they have built]] | open | The project's only gesture at symbolic systems a person builds and lives inside |
+| Symbolic Infrastructures: dreams, playlists, sacred code <br>→ declined 2026-08-09; the reason and the locators are in `ops/queue/declines.md` | open | The project's only gesture at symbolic systems a person builds and lives inside |
 | Philosophy as Praxis: embodied wisdom traditions | carried | Adjacent to the reference lineage |
 
 ### The praxis companion
@@ -94,8 +98,8 @@ The state column distinguishes three conditions. **Written** means prose exists.
 |---|---|---|
 | The Self-Coaching System: fractal reflection templates | carried | Adjacent to the Engineer's Eye |
 | Relational Discernment: frameworks for integrity in love | carried | Adjacent to the relational field |
-| Ritual Templates: seasons, sabbaths, sacred bookends <br>→ [[seasonal and weekly form can be templated]] | open | Seasonal and weekly form, unexplored |
-| Aesthetic Intelligence: curating beauty as spiritual practice <br>→ [[curating beauty is a practice rather than only a hazard]] | open | Beauty as a practice; the arc holds beauty only as a risk, at [[beauty recruits the wrong posture]] |
+| Ritual Templates: seasons, sabbaths, sacred bookends <br>→ declined 2026-08-09; the reason and the locators are in `ops/queue/declines.md` | open | Seasonal and weekly form, unexplored |
+| Aesthetic Intelligence: curating beauty as spiritual practice <br>→ declined 2026-08-09; the reason and the locators are in `ops/queue/declines.md` | open | Beauty as a practice; the arc holds beauty only as a risk, at [[beauty recruits the wrong posture]] |
 | Inner/Outer Systems Audit: aligning being with becoming | carried | Becomes the Engineer's Eye |
 
 ---

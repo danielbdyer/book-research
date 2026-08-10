@@ -41,4 +41,4 @@ Reviewed at /rethink on 2026-08-05 and taken to the author, who implemented opti
 - [[a developmental scheme handed to practitioners becomes a ranking of persons]] — the doctrinal twin, aimed at the book's own arc
 - [[the nearest prior attempts are case histories rather than interlocutors]] — the precedent bench the question came from
 - `ops/methodology/vocabulary policy.md` — the directive the corpus-borrowed stage names sit awkwardly against
-- `ops/lineage sort.md` — where this sits as the ninth ranked hole, in its book-facing form
+- `ops/queue/candidates.md` — where the reading behind this tension sits among the ranked holes, in its book-facing form

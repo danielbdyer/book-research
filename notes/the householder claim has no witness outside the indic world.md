@@ -19,7 +19,7 @@ Three candidates are named, all contemplative and none Indic. *Avodah be-gashmiy
 
 - Recorded as an open question rather than as a claim, per the writing test's rule that an analysis of an absence is worth one seed rather than an essay. None of the three has been read here.
 - The one partial exception is already evaluated: Ignatius was read against the *Spiritual Exercises* on 2026-08-02, and the finding most relevant here is Annotation 19, which prices an ordinary-life version of the full retreat at roughly nine months ([[ignatius of loyola]]). That is an ordinary-life adaptation of a withdrawal practice rather than a tradition that never required withdrawal, which is a weaker form of the witness than the Hasidic case would be — and the difference is exactly what the reading needs to establish.
-- A fourth arrival is named elsewhere in the same document and belongs here: the Sufi distinction between states and stations, which is non-Indic and carries part of the same weight ([[the state that arrives and the station that is earned were distinguished a millennium before the lattice that names them]]). Layman Pang is named in the sort's ranked list as a fifth.
+- A fourth arrival is named elsewhere in the same document and belongs here: the Sufi distinction between states and stations, which is non-Indic and carries part of the same weight ([[state and station were distinguished a millennium before the lattice named them]]). Layman Pang is named in the sort's ranked list as a fifth.
 - What makes this worth filling rather than noting: the book's reader is defined by having already had the big experience in a set-apart setting and found it did not hold. A claim that the ordinary life is where the thing actually lives is therefore not one proposition among several — it is the structural reason the book is not another retreat.
 - The corresponding adversary position is already occupied, which sharpens the asymmetry. Simone Weil is seated as the opponent this claim deserves ([[weil is seated as the opponent the plumbing deserves]]). The book has an objector to the householder claim and no independent witness for it.
 
@@ -29,7 +29,7 @@ Relevant Notes:
 - [[the tuesday is the temple]] — the claim itself, in the book's own terms
 - [[the house with no ceiling is transcendence with plumbing]] — the same commitment stated architecturally
 - [[weil is seated as the opponent the plumbing deserves]] — the adversary the claim already has, against no independent witness
-- [[the state that arrives and the station that is earned were distinguished a millennium before the lattice that names them]] — a fourth non-Indic candidate, from the same tradition family
+- [[state and station were distinguished a millennium before the lattice named them]] — a fourth non-Indic candidate, from the same tradition family
 - [[ignatius of loyola]] — the half-present case, and why it is a weaker witness than it looks
 - [[the convergence's independence fails where three of its names share one teacher]] — the general form of the problem this is one instance of
 

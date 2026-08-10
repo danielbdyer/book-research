@@ -24,7 +24,7 @@ This map tracks questions the corpus keeps open on purpose. They are not gaps aw
 - Is the Second Chair — the book's structural answer to the solitary reader, a second reader designed into the form — sufficient treatment for the one-chair problem? The tension itself has a note, [[a codex is a one-chair technology making a two-chair argument]]; whether the treatment works is an open empirical question about readers.
 - Does Sloterdijk belong in the reference lineage? The book's printed epigraph is the title of his major late work, *You Must Change Your Life*, and his two main projects (practice, containment) are the book's two main subjects. The survey leaves his status undecided.
 
-- [[the book's heideggerian foundation has never been given the independence test the vault applies to others]] — whether the book's reading of aletheia is Heidegger's or the applied Heideggerianism the author encountered in 2017, which no reading has yet compared
+- [[the book's heideggerian foundation was never given the independence test]] — whether the book's reading of aletheia is Heidegger's or the applied Heideggerianism the author encountered in 2017, which no reading has yet compared
 
 ## What remains
 

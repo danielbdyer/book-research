@@ -16,16 +16,12 @@ The formulas below are the book's canonical examples. Each is a separate claim b
 - [[the transformation field divides into five theories of where suffering lives]] — the contemporary field's five answers to the question this map's doctrine answers, kept in disagreement
 - [[the diagnosis contains the cure]] — the Privation Principle, which the book calls its signature move
 - [[four molecule names stand in the poems as poem words with their contents]] — the catalogue's vocabulary as the poet's first, with the common-word caution attached
-- [[the medicine sentence negates the familiar advice before naming the restoration]] — the prescriptions' prose template in the executed draft
 - [[the offered menu is precision that costs dignity or dignity that costs precision]] — the two failed vocabularies whose menu the doctrine's precision refuses
 - [[burnout is obligation minus sanctuary]] — the formula that reverses the standard prescription for burnout
 - [[grief is sever plus love plus persist]] — the formula that reclassifies grief as love under conditions of loss
 - [[trust and paralysis are isomers]] — the formula pair showing identical components with one differently attached bond
 - [[trust paralysis and foreclosure differ only on the commit-defer axis]] — the third arrangement, supplied by the abridged edition, which turns that pair into a group of three
-- [[the minus sign is what makes a molecule formula prescriptive]] — the notation rule that sorts the catalogue into conditions described and suffering-states with an instruction attached
-- [[the compositional notation does not license the operations its syntax implies]] — the limit on all of the formulas above: the discriminations they are credited with are made by the prose beside them
-- [[the chemistry's teachings are structural and its notation is only compositional]] — the general finding beneath every formula note in this section, from a complete audit of all twenty-one
-- [[the isomer teaching names the phenomenon that made composition-only notation obsolete]] — where the borrowed term comes from, and what the discipline did when it faced the same problem
+- [[every discrimination the molecule formulas are credited with is made by the prose beside them]] — the notation rule that sorts the catalogue into conditions described and suffering-states with an instruction attached; the limit on all of the formulas above: the discriminations they are credited with are made by the prose beside them; the general finding beneath every formula note in this section, from a complete audit of all twenty-one; where the borrowed term comes from, and what the discipline did when it faced the same problem; the audit's result (run 2026-08-05): the notation relocates a cause inward only where the missing element is an act the person performs, and it cannot mark an element that was never available. Withheld and unavailable share a formula.
 - [[the molecule catalogue divides by whether the construct existed before the formula]] — which of the formulas above name constructs that already existed elsewhere, and which are attributed to nobody
 - [[the privation move is an independent arrival across five fields rather than a book coinage]] — the convergence beneath this whole map's signature move, assembled 2026-08-05
 - [[aristotle on privation]] — the oldest of the arrivals, with the affliction objection it brings
@@ -62,8 +58,8 @@ This concern borders [[container-anatomy]], because the privations are that anat
 
 ## What the interiority audit found
 
-- [[the minus sign cannot say whether the missing element was withheld or never on offer]] — the audit's result (run 2026-08-05): the notation relocates a cause inward only where the missing element is an act the person performs, and it cannot mark an element that was never available. Withheld and unavailable share a formula.
 - [[the compound diagnoses may relocate a structural condition inside a person]] — the tension it answers, now treated rather than live.
+- [[the primary layer states its own limit on atomization]] — the poems' prior ruling on how far decomposition may go: elements keep their matter, and an equation may work out without a solution
 
 ## What remains
 

@@ -2,7 +2,7 @@
 description: This note is the provenance record for the abridged edition, a complete prose draft of the fifteen-chapter arc; it is the only document in sources/ that executes the arc rather than describing or planning it.
 source_file: "sources/firing on all cylinders - abridged edition.pdf"
 status: partially-extracted
-extracted: ["[[the whole arc has already been drafted once in prose]]", "[[trust paralysis and foreclosure differ only on the commit-defer axis]]", "[[the prose drafts use the vetoed triad names]]", "[[the abridged edition compresses the opening poem rather than reproducing it]]", "[[the drafts disagree about which person the book speaks in]]", "[[the basic practice posture is specified as simultaneous conditions rather than as a sequence]]", "[[the practice forms specify when to begin and not how to tell one is finished]]", "[[internal family systems]]"]
+extracted: ["[[the whole arc has already been drafted once in prose]]", "[[trust paralysis and foreclosure differ only on the commit-defer axis]]", "[[the prose drafts use the vetoed triad names]]", "[[the abridged edition compresses the opening poem rather than reproducing it]]", "[[the drafts disagree about which person the book speaks in]]", "[[the basic practice posture is specified as simultaneous conditions rather than as a sequence]]", "[[the practice forms specify when to begin and not how to tell one is finished]]", "[[internal family systems]]", "[[the diagnostic method reads each structural layer with its own question]]", "[[the crisis triage collapses the diagnostic to body holding and contact]]"]
 topics: []
 ---
 
@@ -26,7 +26,9 @@ The first pass (2026-08-01) took the completeness fact, the third member of the 
 
 The practice pass (2026-08-02) took the Stance's six facets from `abridged ch13` and the twelve kata from `abridged ch14`, in both cases recording what the edition specifies and what it leaves unspecified. The same pass established a fact that bears on a candidate evaluation: this edition engages Internal Family Systems substantially — the identity loop's vocabulary and its medicine at `abridged ch7`, the gatekeeper's panic at `abridged ch12`, and both of Schwartz's primary texts credited at `abridged: a note on sources` — while the four descriptive sources name the model nowhere. The survey's premise that the project has not addressed IFS is therefore true of the founding sources and false of the executed draft.
 
-Substantial material remains and is enumerated in `ops/queue/extractions.md`: the molecule catalogue as this edition states it (Sanctuary, Obligation, Possibility, Foreclosure, Stagnation, and the relational molecules of `abridged ch8`), the three loops with their research citations, the engineer's eye with its four diagnostic moves and three case studies, and the lineage list, which names some two dozen thinkers absent from the vault's roster.
+The praxis-completion pass (2026-08-09) took the engineer's eye's four diagnostic moves and the three worked case studies from `abridged ch15` at [[the diagnostic method reads each structural layer with its own question]], and the crisis triage — the diagnostic reduced to three body-answerable questions — at [[the crisis triage collapses the diagnostic to body holding and contact]]. Both record the verification condition the edition attaches and, for the triage, the one it leaves unstated.
+
+Substantial material remains and is enumerated in `ops/queue/extractions.md`: the molecule catalogue as this edition states it (Sanctuary, Obligation, Possibility, Foreclosure, Stagnation, and the relational molecules of `abridged ch8`), the three loops with their research citations, and the lineage list, which names some two dozen thinkers absent from the vault's roster.
 
 ---
 

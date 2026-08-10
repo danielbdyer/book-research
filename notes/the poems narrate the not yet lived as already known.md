@@ -14,7 +14,7 @@ The book's doctrine is that its reader already knows its contents and recovers t
 ## Substantiation
 
 - Poems #4 and #15, quoted above, were verified in the extracted text. The claim rests on the tense structure and on the closing reveal, both of which are checkable on the page rather than stated in any line of the poems.
-- The doctrine the poem performs is held at [[reading is remembering]], which records the front-matter promise that the reader already knows the book's contents and that its structure keeps that promise mechanically; the craft by which the executed draft stages it is at [[the executed draft stages a concept by cataloguing the reader's own remembered scenes]], where the prose runs a catalogue of second-person perfect-tense scenes the reader has already lived before naming any structure.
+- The doctrine the poem performs is held at [[reading is remembering]], which records the front-matter promise that the reader already knows the book's contents and that its structure keeps that promise mechanically.
 - The law this instantiates at the primary layer is held at [[the book performs what it describes]], the book's single governing design law that every structural device makes the reading enact the process the text explains. The making of the book instantiated the same law at other scales, recorded at [[the making of the book enacts the law the book states]], which finds that at every documented scale the work ran inside a container the author built and held.
 
 ---

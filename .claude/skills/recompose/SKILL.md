@@ -22,7 +22,7 @@ The counterweight binds at equal force, and it is the register's own quality cla
 
 - The author flags a sentence, a file, or a branch as unreadable. This is the first-class case and the reason the skill exists.
 - A generative or research round has just filed a batch of notes, and no register pass has run over them. `/reduce`, `/reflect`, `/reweave`, and `/learn` all write prose under time pressure and all have produced recorded violations.
-- A subagent's report was filed rather than recomposed. Line 7 of the countermeasure forbids this, and it is the single most reliable source of drifted prose, because a subagent writes in whatever register its own context produced.
+- A subagent's report was filed rather than recomposed. The prose register forbids this — a subagent's report is raw material, never copy — and it is the single most reliable source of drifted prose, because a subagent writes in whatever register its own context produced.
 - A pull request is about to be opened, or a branch is about to merge. Prose is cheapest to repair before it is built upon.
 
 Do not run it as routine maintenance over the whole vault. The pass rewrites human-written sentences, and rewriting a sentence that was already clear costs something and gains nothing.
@@ -46,9 +46,9 @@ Then work Steps 0 through 7 in order. Do not begin editing before Step 0 is comp
 
 ## Step 0 — read the standard, and never work from memory of it
 
-Read these five files at the start of every run. They change — the countermeasure has taken seven author corrections, the last two on 2026-08-06 — and a pass run from memory enforces last week's rules.
+Read these five files at the start of every run. They change — the prose register has taken several author corrections — and a pass run from memory enforces last week's rules.
 
-1. **`ops/methodology/prose register.md`** — canonical. Rules 11 and 12, then the seven-line countermeasure block and its quality clause. Everything in Step 2 is a restatement of these.
+1. **`ops/methodology/prose register.md`** — canonical. Rules 1 through 12 and the quality clause. Everything in Step 2 is a restatement of these; the compact form is the "Write with research diction" directive in `CLAUDE.md`.
 2. **`ops/methodology/vocabulary policy.md`** — the reference surface stays denotative: filenames, YAML fields, enum values, folder names, and headings name their concern in plain terms.
 3. **`ops/methodology/naming and epistemic humility.md`** — the corpus's figures are candidate labels for concerns rather than the concerns, and one of them never carries a sentence alone. Note its four exemptions: quotations keep their words, source anchors are coordinates, image-category claims and `notes/figure glossary.md` take the figure as their subject, and a named unit used as a stable handle is not a concept label.
 4. **`ops/methodology/reporting to the author.md`** — governs the report this pass ends with.
@@ -77,11 +77,11 @@ Write the scope down as a list before starting. Every file on it gets reported o
 
 Each fault below has a definition, a way to find it, a repair, and one real specimen from the run of 2026-08-06. Work them in order on each file: the mechanical ones first, because fixing a fragment sometimes dissolves a figure, and the judgment-heavy ones last.
 
-### Fault 1 — the fragment (countermeasure line 1)
+### Fault 1 — the fragment (prose register rule 1)
 
 **What it is.** A statement with no named subject or no finite verb, standing where a sentence belongs.
 
-**How to find it.** Read the last sentence of every paragraph first, because the vault counted its own violations and found that fragments concentrate at paragraph closes. Then read the opening words of every bullet before its first colon, at the same priority, because a headline there substitutes for a claim. Then run `python3 scripts/queries/register-tripwires.py --files <paths>`, which catches three specific shapes at high precision and is a backstop rather than the check.
+**How to find it.** Read the last sentence of every paragraph first, because the vault counted its own violations and found that fragments concentrate at paragraph closes. Then read the opening words of every bullet before its first colon, at the same priority, because a headline there substitutes for a claim.
 
 **How to repair it.** Give the statement its subject and its verb, and keep everything the fragment carried. A fragment usually dropped a reason; put the reason back.
 
@@ -89,11 +89,11 @@ Each fault below has a definition, a way to find it, a repair, and one real spec
 >
 > **After:** The agreements were assembled, because the author gathered the lineages and chose them for the very property their agreement later displayed, which is exactly what the selection caveat covers. The refusals were not assembled, because each of them arrived against the interest of the person doing the gathering, and a set of lineages curated to show participation cannot have been curated to produce objections to the book.
 
-### Fault 2 — the coinage (countermeasure line 2)
+### Fault 2 — the coinage (prose register rule 10)
 
 **What it is.** A word the pipeline invented, used as though the reader already holds it. The author wrote the book these terms describe; he did not write the terms.
 
-**How to find it.** Apply the test the countermeasure states in place: **a word that is neither the book's own vocabulary nor plain English is the pipeline's.** The glossary below holds the ones found so far, and it is not a closed list — the fault generates new coinages faster than any list catches them.
+**How to find it.** Apply the test the prose register states in place: **a word that is neither the book's own vocabulary nor plain English is the pipeline's.** The glossary below holds the ones found so far, and it is not a closed list — the fault generates new coinages faster than any list catches them.
 
 **How to repair it.** Unfold the word in the sentence where it stands, or replace it with plain words. In a reply to the author, replacement is absolute.
 
@@ -109,7 +109,7 @@ Each fault below has a definition, a way to find it, a repair, and one real spec
 | seat, seating (as verbs) | keep "seated" only where the sentence has already said it means placed in the book's company |
 | the bench | the evaluated thinkers |
 | shelf, shelves, an empty shelf, stocked | name the material itself: "the material a drafting session would have", "nobody has been evaluated to argue against it" |
-| the sort | the sorting of the book's thinkers recorded at `ops/lineage sort.md` |
+| the sort | the sorting of the book's thinkers, computed by `scripts/queries/lineage-sort.sh` |
 | load, the load axis | what a thinker carries — whether the book's argument depends on them, or they are company |
 | load-bearing | the book's argument depends on it, and say which argument |
 | privated | complete but incomplete in a stated way, and name the way |
@@ -119,10 +119,8 @@ Each fault below has a definition, a way to find it, a repair, and one real spec
 | concordance row | a row in the per-chapter comparison at `ops/chapter concordance.md` |
 | the torch | the live question |
 | the census | the count across the book's thinkers |
-| reach-list | drafting-readiness dry run |
 | hole, flank, cell | name the specific absence or the specific side |
 | the weave | the reconciliation of the sibling generative round's merge (pull request 12, 2026-08-08) — give the referent and date at first use in a file |
-| the anti-census | the outline's register of theses the sources state that no claim yet carries (`ops/outline.md`) |
 | the sparsest seam | the pair of graph regions sharing the fewest stated relations — name the two regions |
 | the bench (reading-queue sense: "the panel bench") | the readings the forest panel proposed, adopted as tier 6 |
 | stocked (of a letter or concern) | the material is assembled; say what is assembled |
@@ -132,7 +130,7 @@ Two vocabularies are **not** coinages and must survive untouched: the book's own
 
 When the pass finds a coinage the glossary does not hold, repair it in place and **add the row to this table in the same commit.** The table is the skill's memory, and a coinage repaired without being recorded returns in the next round.
 
-### Fault 3 — the bare reference (countermeasure line 3)
+### Fault 3 — the bare reference (prose register rule 7)
 
 **What it is.** A wiki link or file path standing where content belongs, so the sentence points instead of saying. Its commonest form is a link gloss that names the target's category rather than its content.
 
@@ -144,7 +142,7 @@ When the pass finds a coinage the glossary does not hold, repair it in place and
 >
 > **After:** — the 1964 footnote listing sheer emotion, the circumstantial orbit, the explanatory orbit, and self-engineering as inward attention that is not focusing, which is the part of this convergence read in Gendlin's own paper
 
-### Fault 4 — the figure (countermeasure line 4)
+### Fault 4 — the figure (prose register rule 9)
 
 **What it is.** A figure of speech standing outside quotation marks and carrying a claim. It has four recorded forms: the load-bearing metaphor, the mirrored pair that makes a reader hold one sentence and map a second onto it, the ending compressed to be quotable rather than clear, and self-narration, which is prose announcing its own moves before making them.
 
@@ -156,7 +154,7 @@ When the pass finds a coinage the glossary does not hold, repair it in place and
 >
 > **After:** In the mythic operating system edition the voice states on every page where the reader is physically standing — outside, at the porch, barely inside, in the depth — so that a reader who cannot yet say what the book is doing still knows their position in it. The executed draft drops the house and tells the reader instead where they stand in the argument: what has been established so far, and what this unit adds to it.
 
-### Fault 5 — the unexpanded abstract noun (countermeasure line 5)
+### Fault 5 — the unexpanded abstract noun (prose register rule 8)
 
 **What it is.** An abstract noun standing for something specific — the finding, the move, the pattern, the mechanism, the pressure, the trade, the bridge, the standing — where the sentence should name the thing rather than its category.
 
@@ -222,28 +220,21 @@ A rename is the only structural change this pass is allowed to make, it is warra
 
 Above roughly a dozen files, run the repair through subagents. Below that, do it inline; briefing costs more than the work.
 
-1. **Write one shared brief to the scratchpad** and give every agent the same path. The brief carries the seven lines, the quality clause, the glossary, the exemptions, and the before-and-after specimens from Step 2. Agents that receive prose instructions written fresh each time enforce different standards from each other, and the vault then has to reconcile them.
+1. **Write one shared brief to the scratchpad** and give every agent the same path. The brief carries the prose register's rules, the quality clause, the glossary, the exemptions, and the before-and-after specimens from Step 2. Agents that receive prose instructions written fresh each time enforce different standards from each other, and the vault then has to reconcile them.
 2. **Give each agent a disjoint list of files** and tell it to touch nothing else. Two agents in one file produce lost edits, and the auto-commit hook will happily commit the loss.
 3. **Group the files by subject** — the draft's craft, the poems, the company of thinkers, the corpus's doctrine — so each agent holds coherent context and its glosses agree with each other.
 4. **Name the faults you already found in that agent's specific files.** A brief that says "apply the register" produces a lighter pass than one that says "this note calls a thinker a chair four times and closes two paragraphs on mirrored pairs."
 5. **Require the agent to report** which files it changed, its three or four most important repairs, and anything it believed it should not fix on its own authority. That last question is where the content problems in Step 6 come from.
-6. **Recompose every report before filing any of it.** Line 7 of the countermeasure: a subagent's report is raw material and never copy. This applies to the report this skill's own fan-out produces, and forgetting it here would be the skill re-committing the fault it exists to repair.
+6. **Recompose every report before filing any of it.** The prose register holds that a subagent's report is raw material and never copy. This applies to the report this skill's own fan-out produces, and forgetting it here would be the skill re-committing the fault it exists to repair.
 
 ## Step 5 — verification, six gates
 
 All six run at the end of every pass. Report each one's result, including the ones that pass.
 
 ```bash
-# 1. the added lines carry no known failure shape (the diff, not the file —
-#    a whole-file scan reports pre-existing lines this pass did not touch)
-python3 scripts/queries/register-tripwires.py --diff origin/main
-
-# 2. every note, archive record and observation parses, with the cross-field
-#    rules and the 220-character description limit holding
+# every note, archive record and observation parses, with the cross-field
+# rules and the 220-character description limit holding
 bash scripts/queries/frontmatter-parse.sh
-
-# 3. the countermeasure is still stamped whole at all six surfaces
-bash scripts/queries/countermeasure.sh
 ```
 
 4. **Zero unresolved wiki links.** Index `notes/`, `ops/`, `archive/` and `provenance/` together — a link target may legitimately be an archive record or a methodology file rather than a claim, and a checker that indexes only `notes/` reports two dozen false failures.
@@ -263,7 +254,7 @@ The run of 2026-08-06 surfaced five in one pass over thirty-eight notes, which i
 - **`ops/completed.md`** — one dated entry, newest day first, naming what changed and pointing at the files by path. The convention the file states: a finished thing the record cannot point at is invisible to the next session.
 - **`ops/goals.md`** — the content questions from Step 6.
 - **`ops/observations/`** — any friction the pass hit, with `severity` and `status: open`. The first run logged the pre-write gate blocking three well-formed sentences.
-- **`ops/register violations.md`** — when the author flagged a specific sentence, record it in the same turn: the sentence quoted, the date, and which of the seven lines it broke. The log exists because the countermeasure's one measured pattern, that fragments concentrate at paragraph closes, was found only by counting past violations.
+- **`ops/register violations.md`** — when the author flagged a specific sentence, record it in the same turn: the sentence quoted, the date, and which rule it broke. The log exists so the next correction has an address in the author's own words.
 - **`ops/orientation.md`** — only if the pass moved the center, which it usually has not.
 
 ## The report to the author
@@ -290,13 +281,12 @@ Before reporting a recompose pass complete, all of the following must be true. A
 3. **The strike-the-links test was actually run** on the link-heavy paragraphs, by striking them and reading what remains. Reading a gloss and judging it "fine" is not the test.
 4. **All six verification gates ran**, and gate 6 — substance preserved — ran on every changed file rather than a sample.
 5. **Every content problem found was recorded and none was fixed.**
-6. **Every file the pass wrote was reread whole, as the reader it will actually meet** — the author, or a later session holding none of this one's context — before it was saved. This is line 6 of the countermeasure, and it is the only gate that catches what the other five and every script miss. There is no internal register: an archive record and a reply to him are held to the same standard, and the flagged sentence that produced line 7 was written into an archive file while every guard aimed at replies.
+6. **Every file the pass wrote was reread whole, as the reader it will actually meet** — the author, or a later session holding none of this one's context — before it was saved. This is the prose register's reread rule, and it is the only gate that catches what the other faults and every script miss. There is no internal register: an archive record and a reply to him are held to the same standard, and the flagged sentence that produced line 7 was written into an archive file while every guard aimed at replies.
 
-Do not report a pass as complete after checking the mechanical faults. The mechanical faults are the ones a script already catches; the faults the author actually flagged are the figure, the bare reference, and the unexpanded abstract noun, and no query finds those.
+Do not report a pass as complete after checking the easy faults. The faults the author actually flagged are the figure, the bare reference, and the unexpanded abstract noun, and no query finds those; they are caught only by rereading each sentence as the reader it will meet.
 
 ## Recorded failure modes
 
-- **The pre-write gate blocks well-formed sentences.** `.claude/hooks/pre-write-register.sh` refuses a write when `register-tripwires.py` fires, and its second rule fires on any noun phrase followed by a past participle unless a verb from a hand-written list appears first. That list omits "cannot," "be," and "wrote," and the participle list contains "kept," which the vault uses adjectivally in "kept paragraph." Three blocks in one session were false. The script's own instruction is to restructure anyway, and it is worth following, and the cost is recorded at `ops/observations/the register tripwire blocks well-formed sentences it cannot parse.md`.
 - **Rewriting a whole file when only its added lines were in scope.** This buries the repair in a diff nobody can review and re-authors prose the author never complained about. Step 1 exists because of it.
 - **Repairing a coinage by substituting a synonym for it.** The record has one specimen: a session replaced the classification phrase "the pattern this belongs to" mechanically and produced "the finding this belongs to, as its case of X," which is the same gesture in a new string. The repair is to state the content, not to swap the word.
 - **Filing a subagent's report as written.** The reports read fluently and are written in the subagent's register rather than the vault's, which is exactly how drifted prose enters a file that a pass has just cleaned.

@@ -19,7 +19,7 @@ Two literatures populate the gap and neither is in the vault: the clinical work 
 
 ## Substantiation
 
-- Stated on the grid's authority and `privated`: the pre/trans literature and Grof's clinical work are unread here. The reading is seventh in the ranked holes at `ops/lineage sort.md`, with the grid's note that it rises "with every peak-state passage."
+- Stated on the grid's authority and `privated`: the pre/trans literature and Grof's clinical work are unread here. The reading is seventh in the ranked holes at `scripts/queries/lineage-sort.sh`, with the grid's note that it rises "with every peak-state passage."
 - The absence is checkable rather than asserted, and it was checked: no note in `notes/` treats the distinction, and a search for the concern across the extracted corpus returns the gatekeeper material and the destabilization instructions with no diagnostic attached to either.
 - What the book does hold nearby is a posture toward the threshold rather than a test at it: the gatekeeper is met with a bow and never a fight ([[the gatekeeper is met with a bow never a fight]]). That is guidance about how to approach the boundary, not about how to read what happens after it gives way.
 - The book's stated reader makes the gap sharper rather than more theoretical. The reader is someone who has already had the big experience and found it did not hold (`ops/methodology/the book's current shape.md`, tier one) — which means the reader arrives having already been through the state the book cannot classify, and possibly having classified it wrong.

@@ -10,30 +10,26 @@ This map gathers the book's structural theory, which the author holds as scaffol
 
 The names are deliberately ordinary. Atlas §II and walked II record that the structures were originally called Knife, Thread, and Vessel, and that the author vetoed those names with the sentence "nothing hides like the always-there." The recorded reasoning is that mythic names let a reader file the structures under mythology rather than recognize them in the room being sat in (walked II).
 
-The book stacks three further levels on this anatomy: twelve verb-primitives as its operations, molecule-formulas as their combinations, and three self-sustaining loops (bodily, identity, continuity) as the running engine that gives the book its title.
+Three further levels are built on this anatomy — twelve verb-primitives as its operations, molecule-formulas as their combinations, and three self-sustaining loops as the running engine that gives the book its title — and this map does not gather them. They were consolidated on 2026-08-09 into two notes that hold the construction and its limits together, [[the scheme's upper layers are one construction built on the container's three structures]] and [[every discrimination the molecule formulas are credited with is made by the prose beside them]], because the author's decision of that date demoted the upper layers fully while keeping the container doctrine below them. The distinction the decision draws is the one this map now observes: a container is where a disclosure happens, and the participation law that rests on it carries the largest measured support in the project, while an inventory of operations a reader must acquire runs the opposite verb from a book whose claim is that the reader already has it.
 
 ## Claims in this map
 
 - [[the triad is the anatomy of every container]] — the full claim, including its evidence from twenty-nine builders and its portability across media
 - [[the triads privations map the three malas corner for corner]] — the correspondence between the anatomy's failure modes and Trika's three contractions
-- [[the twelve primitives are verbs because a self in verbs is mid-sentence]] — the operations level and its grammatical design commitment
+- [[the scheme's upper layers are one construction built on the container's three structures]] — the operations level and its grammatical design commitment; the image carrying the anatomy's engine level
 - [[distress is a question about machinery not a verdict about character]] — the engine level's diagnostic move, which routes distress to the loop that is misfiring
+- [[the diagnostic method reads each structural layer with its own question]] — that diagnostic move made into a practice: one read per layer of the anatomy, replacing moralization with structure
 - [[the prose drafts use the vetoed triad names]] — the reading instruction for the two prose drafts, which name the same three structures Knife, Thread, and Vessel throughout
-- [[the engine is a triadic theology in mechanic's clothing]] — the image carrying the anatomy's engine level
 - [[the open center is made possible by the three structures and identical with none of them]] — what the three structures are for: the open middle they hold
 - [[thisness is the grain of the container anatomy]] — containers serve particulars, and Scotus, Hopkins, and Deleuze are the named lineage for that idea
 - [[ordinary names keep the deepest structures visible]] — the naming rule from the rename: plain names keep the teaching in the reader's room
-- [[the primary layer states its own limit on atomization]] — the poems' prior ruling on how far decomposition may go: elements keep their matter
 - [[the traditions' refusal of extraction restates the book's own container law]] — five traditions refusing extraction, on the book's own theorem that the container is constitutive
 
 ### Nascent stubs
 
 Open territory bearing on this anatomy that no document develops; each records what the corpus supplies and what would close it.
 
-- [[nostalgia carries continuity across a threshold]] — nascent; an affective account of the persistence corner
 - [[an externalized system can be built to hold a self rather than only its information]] — the anatomy's hardest untried medium, filled 2026-08-03 from the author's own sister project
-- [[a ritual can be designed to hold a self in place]] — nascent; whether an anchor is a container like any other
-- [[seasonal and weekly form can be templated]] — nascent; the form the metabolic arc does not supply
 
 ## What reached the anatomy from outside
 
@@ -59,7 +55,9 @@ This concern borders [[contraction-not-corruption]], because the anatomy's failu
 
 ## What remains
 
-The twelve primitives exist in this vault only as a single claim about their grammatical design. The individual primitives, their three make/unmake pairs, and the closure test (no thirteenth primitive found) have not been extracted from atlas §III into their own notes, and neither have the engine's three loops or the four-axis movement grid from atlas §V. All of these are listed in `ops/queue/extractions.md`, where the center-of-gravity decision keeps them demoted to as-needed: this map's backlog is deliberately unhurried, and clearing it is not a priority a session should infer.
+Nothing about the upper layers remains for this map, and that is a decision rather than a backlog. The individual primitives, their three make-and-unmake pairs, the closure test, the engine's three loops and the four-axis movement grid were all standing extraction tasks until 2026-08-09, when the author demoted the upper layers fully and directed that the material be preserved in a few robust notes rather than reified in an apparatus, in his words because "there's still validity in the ideas here but we do not reify them as so deserving of an apparatus going forward." Those extraction entries are closed and no new note takes a scheme as its subject; the rule and its two destinations are in `ops/methodology/center of gravity.md`.
+
+What remains for this map is the container doctrine itself, and the open work in it is a reading rather than an extraction: the Scotus-to-Hopkins-to-Deleuze lineage that the corpus names for thisness has never been checked at any of the three texts.
 
 ---
 

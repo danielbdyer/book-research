@@ -31,7 +31,7 @@ Relevant Notes:
 - [[the figures precede the system by a year and the two were welded together later]] — the layer each hand contributed, in the order the record dates them
 - [[a recorded reason drifts toward doctrine with distance from the decision]] — what happens to the author's reasons once the collaborator retells them
 - [[the triad is the anatomy of every container]] — the claim whose found-not-invented status the record shows to be an escalation rather than a finding
-- [[the research instrument is a violin rather than an oracle]] — the collaborator's own account of what its half of this division amounts to, held lightly and against its own interest
+- [[the book can only be auxiliary to a sovereign reader]] — the collaborator's own account of what its half of this division amounts to, in the paper calling a language model indispensable to the music but not itself a knower, held lightly and against its own interest
 - [[interlocutors]] — the map holding the attribution rule this bears on
 
 Topics:

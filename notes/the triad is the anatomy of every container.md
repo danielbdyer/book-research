@@ -30,8 +30,6 @@ Relevant Notes:
 - [[ordinary names keep the deepest structures visible]] — the naming doctrine the corner-name veto became
 
 - [[an externalized system can be built to hold a self rather than only its information]] — the hardest untried medium for this claim, filled 2026-08-03
-- [[a ritual can be designed to hold a self in place]] — nascent; an object this anatomy would classify if one were built
-- [[nostalgia carries continuity across a threshold]] — nascent; the affective account the persisting structure has nowhere else in the corpus
 
 Topics:
 - [[container-anatomy]]

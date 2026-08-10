@@ -1,7 +1,7 @@
 ---
 description: "The record holds two kinds of convergence, agreement the lineages were selected for and refusals that arrived unlooked-for against the gatherer's interest, and the selection caveat reaches only the first."
 category: claim
-sources: ["notes/the unanimity claim is an artifact of how the lineages were selected.md", "notes/the book's native genre is the letter from a friend read alone.md, the objection recorded there on 2026-08-05", "ops/lineage sort.md, the four-tradition finding"]
+sources: ["notes/the unanimity claim is an artifact of how the lineages were selected.md", "notes/the book's native genre is the letter from a friend read alone.md, the objection recorded there on 2026-08-05", "notes/the required second person splits into a judge and a mirror.md, the four-tradition finding generalized"]
 topics: ["[[interlocutors]]", "[[methods]]"]
 ---
 
@@ -13,7 +13,7 @@ So the record now holds two kinds of convergence, and they differ in how each ca
 
 ## Substantiation
 
-- The selection finding is [[the unanimity claim is an artifact of how the lineages were selected]], which records that the author gathered the lineages on one day and chose them for their participatory character. The two unsought arrivals are the objection recorded inside [[the book's native genre is the letter from a friend read alone]], where the strongest objection to that claim arrived unlooked-for on 2026-08-05, and the four-tradition finding at the foot of `ops/lineage sort.md`, where four traditions with nothing else in common were found to refuse the same thing about the book's form. That second finding has since been generalized across the whole count of the book's thinkers at [[the required second person splits into a judge and a mirror]], which finds that the thinkers refusing the solitary reader specify two incompatible second persons rather than one.
+- The selection finding is [[the unanimity claim is an artifact of how the lineages were selected]], which records that the author gathered the lineages on one day and chose them for their participatory character. The two unsought arrivals are the objection recorded inside [[the book's native genre is the letter from a friend read alone]], where the strongest objection to that claim arrived unlooked-for on 2026-08-05, and the four-tradition finding, where four traditions with nothing else in common were found to refuse the same thing about the book's form on the same day, without the pattern being looked for. That second finding has since been generalized across the whole count of the book's thinkers at [[the required second person splits into a judge and a mirror]], which finds that the thinkers refusing the solitary reader specify two incompatible second persons rather than one.
 - The rule this claim keeps intact is the stance's ban on ranking convergences by how much they prove, recorded at `ops/methodology/authorial stance.md`. The two kinds named here describe how each convergence came to be written down, and not how much weight either carries.
 
 ---

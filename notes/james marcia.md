@@ -17,7 +17,7 @@ Marcia took Erikson's identity-versus-role-confusion stage, which Erikson had le
 
 The book's formula says the same thing in its own notation. `Foreclosure = Commitment − Defer` (abridged ch6), glossed as "You have committed but you have closed all other possibility. You cannot hear, even hypothetically, the voices that would suggest other paths." Defer, in the book's alphabet, is holding potential open without enacting it, which is exploration under another name. So the formula is Marcia's construct written as a subtraction, under Marcia's word, with no citation in any of the eight documents.
 
-**The relation here is a restatement.** The construct came first, the book states it operationally, and the technical term travels with it. Minuchin's enmeshment is the same relation. Maslow's case is different — the book makes his own late correction without knowing whose it is — and Reich's is different again, his descendants cited while he is not. All six relation-kinds this provenance work produced are distinguished at `ops/inherited constructs.md`.
+**The relation here is a restatement.** The construct came first, the book states it operationally, and the technical term travels with it. Minuchin's enmeshment is the same relation. Maslow's case is different — the book makes his own late correction without knowing whose it is — and Reich's is different again, his descendants cited while he is not. All six relation-kinds this provenance work produced are distinguished at [[the apparatus descends from the settlement the book positions itself against]].
 
 **One half of this correspondence is quoted and the other is not.** The book's side is above, anchored. Marcia's four statuses are stated here from secondary knowledge in the vault's own words, and no work of his has been read in this vault. The address is the 1966 *Journal of Personality and Social Psychology* paper, where the statuses are defined and the interview is described. The match is proposed rather than established.
 
@@ -36,7 +36,7 @@ Relevant Notes:
 - [[trust paralysis and foreclosure differ only on the commit-defer axis]] — the vault's own reconstruction of his two axes, made before it knew they were his
 - [[the privation move is an independent arrival across five fields rather than a book coinage]] — the convergence his construct belongs to, if the reading confirms the definition by absence
 - [[salvador minuchin]] — the other unattributed clinical bearer, found in the same pass
-- [[the compositional notation does not license the operations its syntax implies]] — why a two-dimensional construct written as a one-dimensional subtraction loses information
+- [[every discrimination the molecule formulas are credited with is made by the prose beside them]] — why a two-dimensional construct written as a one-dimensional subtraction loses information
 
 Topics:
 - [[interlocutors]]

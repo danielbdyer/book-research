@@ -6,7 +6,7 @@ generated_from: "arscontexta-0.8.0"
 
 # Getting started
 
-A session begins with orientation: the SessionStart hook injects `ops/orientation.md` first — the center, the reading order, and the live work — then the register countermeasure's six lines, the file tree, the goals file (`ops/goals.md`), the methodology descriptions, and any maintenance conditions that have fired. Read the orientation and the goals before doing anything; they are the memory that survives between sessions.
+A session begins with orientation: the SessionStart hook injects `ops/orientation.md` first — the center, the reading order, and the live work — then the file tree, the goals file (`ops/goals.md`), the methodology descriptions, and any maintenance conditions that have fired. Read the orientation and the goals before doing anything; they are the memory that survives between sessions.
 
 To read the graph, start at `notes/index.md`, which lists the six doctrine maps and the structural maps. Each map states its concern in a paragraph, lists its claims with one-clause explanations, and ends with a "What remains" section naming its open work. Claims are single propositions: the filename states the claim, the body expounds it, and a substantiation section anchors it to source locations.
 

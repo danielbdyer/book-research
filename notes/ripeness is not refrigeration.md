@@ -25,7 +25,6 @@ Relevant Notes:
 - [[the perfectible conversation is the manuscript's most comfortable room]] — this rule at manuscript scale, with the room the word is currently kept in named
 - [[the whole volume is wagered on express]] — the tension over the primitive this rule keeps pressing on
 
-- [[seasonal and weekly form can be templated]] — nascent; the form a season would take, constrained by this rule
 
 - [[the sixteenth poem returns the book's language to the life it came from]] — the distinction run on love itself: "love will sit in a drawer and wait for you… but current — current is tuesday" (poems #16); the rule's own referent, "the author's own archive of poems and drafts" (atlas §V.3), is now held at `sources/the poems.pdf`
 

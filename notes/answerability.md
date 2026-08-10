@@ -14,13 +14,13 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 
 - [[a word at madhyama can be perfected forever a word at vaikhari can be answered]] — madhyamā is the inner articulate level where a formulation can be revised without end, vaikharī the uttered level where it can finally be answered; the manuscript's unreleased state lives on the revisable side of that line
 - [[the middle voice settles declaration against disclosure]] — the book's resolution of the speech-makes-reality versus speech-lets-reality-show dispute
+- [[the affective practice completes a feeling's descent with consent between repression and venting]] — the middle voice applied to affect: the emotional practice that is the speech doctrine's other scale
 - [[werner erhard]] — the declarative pole of that dispute, seated for the mechanism and carrying its own standing danger
 - [[the book is a tuning fork and the reader is the striking surface]] — the image the book installs on page one to govern its ending and its publication
 - [[the book's native genre is the letter from a friend read alone]] — the genre whose every sentence expects an answer, and the medium of the event's one confirmed sighting
 - [[ripeness is not refrigeration]] — the corpus's rule against indefinite preservation of finished work
 - [[naming aloud is part of what is happening rather than a report about it]] — the speech doctrine at session scale: the spoken name is part of the event it names
 - [[the poems end by naming the next act and leaving it undone]] — the answerable ending as the author's native signature across four poems
-- [[the close repeats the opening's exit with one sentence inserted]] — the executed ending's mechanics: the whole difference between opening and close carried by one inserted sentence, the promise kept small
 - [[the book's doctrine of time restates a sentence the author's father told him]] — the inheritance beneath the temporal doctrines, and beneath the manuscript's unhurried condition
 - [[seventeen chapters rest at madhyama]] — the meta-tension: the manuscript's current state, and the pilot-chapter move
 - [[the book is written to the relational field and enacted upon the author first]] — the author's statement of the book's address, which moves what the unsent manuscript means without dissolving the tension: the enactment is already under way on its writer, and a word written to the field is still not a word spoken
@@ -28,7 +28,6 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 - [[the whole arc has already been drafted once in prose]] — the fact that narrows that tension to its actual term, since a complete draft still rests at madhyamā
 - [[the drafts disagree about which person the book speaks in]] — the unsettled question of who the answerable speaker is
 - [[the drafts execute one of the seven designed apparatus devices]] — what a fully treated pilot chapter would actually have to build
-- [[the treatment records four authorship conditions in its undercurrents]] — the author's recorded conditions bearing on which unit can be finished next
 - [[what is recognized cannot be un-recognized]] — the one place the corpus states the reading contract as two-sided, with a cost the reader is invited to accept
 - [[the fruit that falls is the word become deed]] — the release doctrine in the orchard's vocabulary
 - [[the sixteenth poem returns the book's language to the life it came from]] — the blade lived at the size of a text: the trembling as the sentence leaves the architecture
@@ -40,7 +39,7 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 Three findings from the same day bear on this map from the speaker's side rather than the reader's: who the first audience is, what the instrument the writing is done with can and cannot be answerable for, and what a word carries once it is spoken to someone at a threshold.
 
 - [[the author is the book's first audience member and that is where the promise starts]] — the author's own answer to how a book that refuses instrumentality can promise anything, which starts from what is intrinsically useful to him rather than from either available position, and which he states is not clear to him yet.
-- [[the research instrument is a violin rather than an oracle]] — the instrument this vault is built with, which can surface rejected formulations and hold a space open but cannot dwell in one, so the answering stays the person's.
+- [[the book can only be auxiliary to a sovereign reader]] — the book's honest maximum, which the paper on the vault's own instrument reaches independently: a language model can surface rejected formulations and hold a space open but cannot dwell in one, so the answering stays the person's.
 - [[a framework for what is happening is itself a protective factor]] — the weight a spoken account carries: an accurate framework reduces harm, which means an inaccurate one is not merely unhelpful to a reader at the threshold.
 
 ## Adjacent maps
@@ -52,6 +51,7 @@ This concern borders [[relational-field]], because answerability requires someon
 - [[the experiential learning cycle]] — Dewey established that experience is not automatically educative and that some experience is miseducative, and Kolb formalized the stations an experience has to pass through to become learning. That is the book's answer to why the peak does not hold, held by a tradition that has been testing it for a century and that appears in no source. Donald Schön, already chaired here, is a direct descendant, so part of the lineage is seated without its head.
 
 - [[the alliance holds its size when the exchange is mediated and written]] — the first measured evidence bearing on whether an asynchronous written exchange can carry a working relationship, which is what a letter is
+- [[the book asks only for attention until it has given the reader something to act with]] — the book's rule of practice pedagogy: it asks only for attention until the reader has a form to act with, then assigns a task at the two praxis units
 
 ## What remains
 

@@ -7,7 +7,7 @@ topics: ["[[contraction-not-corruption]]"]
 
 # trust paralysis and foreclosure differ only on the commit-defer axis
 
-The vault has held trust and paralysis as an isomer pair: the same components bonded differently, with the whole difference lying in where the deferral attaches. The abridged edition's molecule chapter supplies a third state built from the same region of the chemistry. Foreclosure is a commitment with the deferral removed — a course held so firmly that no alternative can be entertained — and its medicine is to restore the holding-open alongside the commitment rather than to loosen the commitment.
+Trust, paralysis, and foreclosure are built from one region of the chemistry and separate only on whether a deferral is present and where it attaches. Trust and paralysis are the isomer pair, the same components bonded differently, and the abridged edition's molecule chapter supplies the third state. Foreclosure is a commitment with the deferral removed — a course held so firmly that no alternative can be entertained — and its medicine is to restore the holding-open alongside the commitment rather than to loosen the commitment.
 
 With the third state in hand the group divides on one axis. Trust has both the commitment and the holding-open. Paralysis has the holding-open without the commitment. Foreclosure has the commitment without the holding-open. The diagnostic question the vault already recorded for the pair — where is the deferral attached — extends into a question with three answers, and the two failure states turn out to be opposite deficiencies rather than variants of one.
 

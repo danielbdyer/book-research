@@ -26,7 +26,6 @@ The specification carries the book's ontology rather than resembling it. Its onl
 
 Relevant Notes:
 - [[the triad is the anatomy of every container]] — the general claim this tests in the medium the corpus names and never enters
-- [[a person lives inside symbolic infrastructures they have built]] — nascent; the same operation turned on a reader's own systems rather than the author's
 - [[ripeness is not refrigeration]] — the archive's failure mode, which the system answers with a metabolizing pulse rather than storage
 - [[the figures precede the system by a year and the two were welded together later]] — the dating that puts this project's ontology beside the book's rather than downstream of it
 

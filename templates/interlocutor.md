@@ -61,7 +61,7 @@ _schema:
     load:
       format: "What this thinker carries — the axis added 2026-08-05 by `ops/methodology/thesis-bearing and company.md`. Orthogonal to seat: a thinker has one of each and neither implies the other. Optional; unset means the question is unanswered, never that the answer is 'company'. The body states where the assignment came from and whether the vault has tested it."
     discipline:
-      format: "Where this thinker got their epistemics. Crossed against load in `ops/lineage sort.md` to expose empty cells; an empty cell is a reading question, not a verdict."
+      format: "Where this thinker got their epistemics. Crossed against load by `scripts/queries/lineage-sort.sh` to expose empty cells; an empty cell is a reading question, not a verdict."
 
 # Template fields
 description: ""

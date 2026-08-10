@@ -18,14 +18,14 @@ The second is the privation reading — distress analyzed as a state missing an 
 
 - The two survivors have different kinds of standing, and the difference matters for how each may be used. The specificity discipline is a craft finding — it is visible in the prose, it can be tested by a reader on a Tuesday, and it needs no outside authority. The privation reading is a doctrinal position with independent arrivals behind it, which is the evidence class the book's centerpiece is made of (`ops/methodology/center of gravity.md`).
 - Neither survivor needs the closure claim. Wierzbicka's semantic primes are the standard the corpus itself names for a *found* alphabet ([[the corpus names the standard its found-not-invented axiom has not met]]); nothing in either survivor turns on meeting it, because neither asserts that the vocabulary is complete.
-- Neither survivor needs the compositional notation either. What fails when the formulas are read as arithmetic is set out at [[the compositional notation does not license the operations its syntax implies]]; every discrimination that failure exposes is one the prose was already making, and the specificity discipline is that prose.
+- Neither survivor needs the compositional notation either. What fails when the formulas are read as arithmetic is set out at [[every discrimination the molecule formulas are credited with is made by the prose beside them]]; every discrimination that failure exposes is one the prose was already making, and the specificity discipline is that prose.
 - The third structure, the container anatomy, sits differently and is not treated here. It has its own evidence — the convergence of builders in unrelated media, and the datable fact that the corners were axiomatized before the author's contact with the tradition they rhyme with ([[the triad predates the author's contact with the tradition named the triad]]) — and it is not a compositional claim at all.
 - The salvage is stated for the author's judgment rather than as a recommendation about the manuscript. What to keep, drop, or rebuild is his; what the vault can say is which parts would still be standing if the apparatus were removed tomorrow.
 
 ---
 
 Relevant Notes:
-- [[the compositional notation does not license the operations its syntax implies]] — the failure this note answers, and the reason the answer is not nothing
+- [[every discrimination the molecule formulas are credited with is made by the prose beside them]] — the failure this note answers, and the reason the answer is not nothing
 - [[the diagnosis contains the cure]] — the privation reading in the corpus's own terms
 - [[the triads privations map the three malas corner for corner]] — the privation reading's second independent ground, inside the tradition the book owes most
 - [[the system is scaffolding rather than the centerpiece]] — the decision that already anticipated this sort, one level up

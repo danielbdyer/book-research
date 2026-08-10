@@ -23,7 +23,7 @@ That makes the claim below wrong in its strong form. What survives is narrower a
 
 The error is the one `ops/methodology/propositions carry names and images.md` exists to prevent, running in reverse: rather than a proposition with no bearer, this was a proposition whose bearer the corpus already supplied, and a session attached an outside name to it without checking. The directive's rule should be read both ways — find the bearer before proposing one.
 
-Two further things this bears on. The three cylinders are **not** the Generative Triad, and the vault should not let the two run together: the Triad is Wall / Door / Floor = Differentiation / Relation / Persistence (atlas §II), while the cylinders are will / knowledge / action. Different triples, different work, both called three-part schemes in places ([[the engine is a triadic theology in mechanic's clothing]] holds the second). And an earlier Presence / Process / Potential triad appears in the record with its derivation to the current one unestablished (`ops/goals.md`, thread 8).
+Two further things this bears on. The three cylinders are **not** the Generative Triad, and the vault should not let the two run together: the Triad is Wall / Door / Floor = Differentiation / Relation / Persistence (atlas §II), while the cylinders are will / knowledge / action. Different triples, different work, both called three-part schemes in places ([[the scheme's upper layers are one construction built on the container's three structures]] holds the second). And an earlier Presence / Process / Potential triad appears in the record with its derivation to the current one unestablished (`ops/goals.md`, thread 8).
 
 ## Substantiation
 

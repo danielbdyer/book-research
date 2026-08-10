@@ -44,7 +44,7 @@ All vault prose is expository and evidential: complete sentences with named subj
 The provenance rounds established facts about how the corpus was made. Four of them are methodological rather than biographical: each changes how a source is read, how agreement is counted, or what the vault may claim on its own behalf.
 
 - [[the corpus quotes the author's poems rather than the poems quoting the corpus]] — the operative rule for the primary source, stated in the registry below as the direction of quotation: for poems 1–15 a shared phrase belongs to the poem, so a corpus phrase may be a citation rather than a coinage.
-- [[the earliest chapter was written through a voice distilled from the author's first fifteen poems]] — what the craft rule is actually reading when it reads the high-water voice: a specification the author wrote from his own poems and then wrote through, rather than a style that emerged.
+- [[the earliest chapter was written in a voice distilled from the first fifteen poems]] — what the craft rule is actually reading when it reads the high-water voice: a specification the author wrote from his own poems and then wrote through, rather than a style that emerged.
 - [[flourishing flow and facilitation converged on one stance in the author's own record]] — the count-once rule extended from documents to domains, since three of the author's chosen fields converging shows the coherence of his attention rather than a law of the fields.
 - [[the making of the book enacts the law the book states]] — the limit case of the scope rule, and the one the vault sits inside: a law appearing in its own production history shows consistency of the maker, not truth of the law.
 
@@ -57,11 +57,15 @@ Six findings from that day are about how the vault works rather than about what 
 - [[sorting a lineage by load turns it toward argument]] — the tension the new axis creates against the stance that governs prose, treated by scope rather than resolved.
 - [[the convergence's independence fails where three of its names share one teacher]] — rule 7's count-once principle extended from documents to thinkers, since shared teaching makes agreement a family resemblance rather than an arrival.
 - [[the drive to closure has measurable costs]] — the warrant beneath rule 4, and the criterion that separates a disciplined open tension from a romantic one: naming what would close it.
-- [[the research instrument is a violin rather than an oracle]] — an account of how this vault's two parties transact, which reaches the book's own claim about instruments from analytic philosophy of mind and with no contact with it.
+- [[the book can only be auxiliary to a sovereign reader]] — the book's claim about instruments, which a paper on how this vault's two parties transact reaches independently from analytic philosophy of mind, with no contact with the letter's grammar the book's version rests on.
 
 ## Nascent stubs
 
-A claim may be recorded before it is substantiated, carrying `state: nascent`, when the corpus names a territory it never develops. The stub is a seed, not an analysis: it states the proposition the source's gesture asserts, the strongest fact the corpus supplies, and the nearest held material, and the state field carries the signal that the vault does not yet hold the proposition. Thirteen such stubs exist, one per open gesture in `ops/open corpus.md`, and they are listed in [[research-frontier]]. They are admitted under the writing test's own rule for absences — one seed, not an essay — because a territory recorded only in an operational table is not reachable from the graph and will not be found again.
+A claim may be recorded before it is substantiated, carrying `state: nascent`, when the corpus names a territory it never develops. The stub is a seed, not an analysis: it states the proposition the source's gesture asserts, the strongest fact the corpus supplies, and the nearest held material, and the state field carries the signal that the vault does not yet hold the proposition.
+
+**The device was tried at scale and retired on 2026-08-09, and the vault now holds no nascent stub.** Thirteen were created on 2026-08-01, one per open gesture in the inventory of undeveloped territory at `ops/open corpus.md`, on the reasoning that a territory recorded only in an operational table is not reachable from the graph and will not be found again. Over the following eight days and 279 further notes, one of the thirteen was substantiated and twelve stayed empty, and no claim was ever built on any of the twelve. Reading all twelve against the extracted corpus at their own locators found that each names a chapter title in the earliest edition's table of contents with no chapter behind it, so all twelve were declined with their propositions, their locators and their argued contrasts preserved in `ops/queue/declines.md` under that date.
+
+What the trial establishes is narrower than the device and worth keeping: graph reachability is a maintenance reason rather than a writing reason, and an inventory row carrying its own reason satisfies the writing test's rule for an absence — one seed, not an essay — without a file in `notes/`. A future stub is written when a session judges the corpus likely to substantiate the territory, which is what happened with the one that filled, rather than to make a table traversable.
 
 ## The transfer surface
 
@@ -110,7 +114,7 @@ Two more arrived 2026-08-05 and differ in kind again: they are commissioned rese
 
 A fifth is cited widely enough to state here and differs in kind from the four: the **mesh grid**, received 2026-08-05, an analysis of the book's lineage rather than of the corpus's making. It sorts the company by the load each thinker carries, crosses that against where each got their epistemics, and reports the holes the crossing exposes. It is held in `provenance/` under the same standing and cited by its own sections — `mesh grid: tier 1`, `mesh grid: the search map`, `mesh grid: addendum, Wilber properly seated`. Two rules govern how it is read, both from the author's decision of 2026-08-05. Its judgments are cosigned "gently… about 65–75%," so a tier assignment is the grid's proposal rather than his seating; and its sort allocates reading rather than ranking evidence, so the rules on convergence in `ops/methodology/authorial stance.md` continue to govern vault prose unchanged. The directive is `ops/methodology/thesis-bearing and company.md`.
 
-- [[the book's heideggerian foundation has never been given the independence test the vault applies to others]] — the vault downgraded a convergence when three thinkers shared Heidegger as a teacher, and the author met Heidegger through a Landmark room in 2017, so the same check has never been pointed at the book's own ground
+- [[the book's heideggerian foundation was never given the independence test]] — the vault downgraded a convergence when three thinkers shared Heidegger as a teacher, and the author met Heidegger through a Landmark room in 2017, so the same check has never been pointed at the book's own ground
 
 ## What remains
 

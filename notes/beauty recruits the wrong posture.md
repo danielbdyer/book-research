@@ -27,7 +27,6 @@ Relevant Notes:
 - [[the abridged edition compresses the opening poem rather than reproducing it]] — the one worked instance of this note's treatment in the sources, applied to the book's most ornamented single element
 - [[introspective access is the felt shift's undefended premise]] — the deeper version of this hazard: not that beautiful prose recruits the wrong posture, but that the posture may not read anything reliably in the first place
 
-- [[curating beauty is a practice rather than only a hazard]] — nascent; the positive register this tension currently excludes
 
 Topics:
 - [[tensions]]

@@ -41,23 +41,13 @@ Each entry below is enumerated as an evaluation task in `ops/queue/candidates.md
 
 This map's queue is outward-facing: it holds thinkers and concepts from outside the project. There is a second kind of open work, and it is not in this queue. The corpus's own outlines — the atlas's thirteen sections and the mythic operating system edition's twenty-eight named units — enumerate territory the project has already gestured at and never developed. Thirteen of the twenty-eight units are open in the sense of having a name and nothing else, and the atlas holds the head of nearly every section with the body of almost none. That inventory is `ops/open corpus.md`, which reads both outlines as a coverage map rather than as proposed structure. Its entries become work the same way these do, through `ops/queue/extractions.md` and /reduce, under the same admission standard.
 
-## The inward frontier's stubs
+## The inward frontier, and why it holds one note rather than thirteen
 
-Each open gesture from `ops/open corpus.md` has a nascent stub here, so the territory is reachable from the graph. A stub is a seed, not an analysis: the proposition the gesture asserts, the strongest corpus fact, and the nearest held material. The state is `nascent` throughout: these are not claims the vault holds.
+Thirteen unfilled stubs stood here from 2026-08-01 until 2026-08-09, one per open gesture in `ops/open corpus.md`, the inventory of territory the corpus named and never developed. They existed so that an inventory row would be reachable by following a link rather than only by opening a table, which is a maintenance reason rather than a writing reason. Twelve were read against the extracted corpus at their own locators on 2026-08-09 and declined, with each one's proposition, its strongest corpus fact and its nearest held material carried into the reasons at `ops/queue/declines.md` under that date. Nothing they held was lost and every one names the locators that would reopen it.
 
-- [[metaphor is a faculty that weaves a self rather than a device that decorates one]] — metaphor as the reader's faculty, where the corpus treats only the book's own figures
-- [[nostalgia carries continuity across a threshold]] — an affective face for the persistence corner, which currently has none
-- [[an externalized system can be built to hold a self rather than only its information]] — the container anatomy's hardest untried medium
-- [[a habit becomes a ritual when it is designed rather than accumulated]] — repetition itself, absent from all four descriptive sources
-- [[a kept tension can be mapped rather than only held]] — the reader-facing move corresponding to what the author does with a kept tension
-- [[a partnership can be deliberately entered and deliberately left]] — a chosen ending, which the chemistry has components for and no molecule
-- [[the morning is where a day acquires its coherence]] — the scale of the day, missing between the moment and the season
-- [[a schedule can be aligned to the nervous system rather than to the clock]] — the step from diagnosing a loop to arranging a week
-- [[the sacred in the ordinary is produced by sensory design]] — arrangement as the cause of noticing rather than its object
-- [[a ritual can be designed to hold a self in place]] — steadiness built, against the basic posture's steadiness returned to
-- [[a person lives inside symbolic infrastructures they have built]] — the best-evidenced of the thirteen; the corpus has already read one
-- [[seasonal and weekly form can be templated]] — the artefact missing between the metabolic arc and a calendar
-- [[curating beauty is a practice rather than only a hazard]] — the positive register the vault's account of beauty lacks
+The reading found one pattern with no exceptions: each of the twelve territories is a chapter title in the earliest edition's table of contents with no chapter behind it. The word *ritual* appears fourteen times across the eight documents, five of them in that contents list and the rest as figures of speech in the invocation prose; the word *morning* appears once in all eight documents, in the contents entry itself.
+
+- [[an externalized system can be built to hold a self rather than only its information]] — the thirteenth gesture, and the one that filled: it now carries `state: full` on six sources, which is what a stub becomes when the corpus turns out to hold the territory after all.
 
 ## Adjacent maps
 
@@ -69,7 +59,7 @@ Evaluating a candidate means: obtain and read the thinker's relevant primary wor
 
 ## The reading queue the lineage sort produced
 
-A second kind of frontier arrived with the mesh grid on 2026-08-05, and it is organized by absence rather than by name. Crossing what a thinker carries against where they got their epistemics produces cells that are visibly empty, and an empty cell is a reading question. The sharpened form of that queue is now one instrument, `ops/reading queue.md` — nineteen readings in five tiers, each entry a question that can fail, with its stake, a page-level address, what it inherits from completed readings, and the grade of its current evidence — headed by the adversaries of the verification standard, which is also the author's own stated reading job. The sort's ranked holes stand as the record of what produced the queue (`ops/lineage sort.md`); the shelf of names not yet worth a sharpened question stays at `ops/queue/candidates.md`.
+A second kind of frontier arrived with the mesh grid on 2026-08-05, and it is organized by absence rather than by name. Crossing what a thinker carries against where they got their epistemics produces cells that are visibly empty, and an empty cell is a reading question. The sharpened form of that queue is now one instrument, `ops/reading queue.md` — nineteen readings in five tiers, each entry a question that can fail, with its stake, a page-level address, what it inherits from completed readings, and the grade of its current evidence — headed by the adversaries of the verification standard, which is also the author's own stated reading job. The sort's ranked holes stand as the record of what produced the queue (`scripts/queries/lineage-sort.sh`); the shelf of names not yet worth a sharpened question stays at `ops/queue/candidates.md`.
 
 Two open questions from the sort are held here as claims rather than as queue rows, because each has a fork worth stating before the reading rather than after:
 
@@ -81,8 +71,7 @@ Two open questions from the sort are held here as claims rather than as queue ro
 One entry in the queue was promoted out of the list on 2026-08-05, because the corpus does not merely suggest it — it names it as the standard a live claim must meet.
 
 - [[the corpus names the standard its found-not-invented axiom has not met]] — Wierzbicka's semantic primes, named by the outward survey as "the standard of evidence to meet or gracefully decline" for any claim that the alphabet is found rather than invented, while the atlas files that claim as an axiom's supporting evidence. Burke's terministic screens sit beside it as the counterweight, and both are unread.
-- [[the alphabet's closure rests on a drill no record shows being run]] — the claim on the other side of that bar: three statements of a completed falsifiability test, no candidate named, no reduction shown, and nothing in the reconstructions of the making that records the test occurring.
-- [[the isomer teaching names the phenomenon that made composition-only notation obsolete]] — a reading the vault owes because it has already used the history: the nineteenth-century move from molecular to structural formulas is stated in that note from general knowledge and has not been read here, which is why the note carries a privation. It is the one entry in this section whose reading would settle a finding the vault has already recorded rather than open a new question.
+- [[every discrimination the molecule formulas are credited with is made by the prose beside them]] — the claim on the other side of that bar: three statements of a completed falsifiability test, no candidate named, no reduction shown, and nothing in the reconstructions of the making that records the test occurring.; a reading the vault owes because it has already used the history: the nineteenth-century move from molecular to structural formulas is stated in that note from general knowledge and has not been read here, which is why the note carries a privation. It is the one entry in this section whose reading would settle a finding the vault has already recorded rather than open a new question.
 
 Neither is urgent for the manuscript, because the author has already demoted the vocabulary from architecture to instrument. Both are here because they were asked for directly: whether the triad and the molecules hold merit outside the conversations that produced them (author question, 2026-08-05).
 

@@ -23,10 +23,9 @@ The comparison the survey proposes is the useful part, because it is a real inst
 ---
 
 Relevant Notes:
-- [[the alphabet's closure rests on a drill no record shows being run]] — the closure claim this bar would test
+- [[every discrimination the molecule formulas are credited with is made by the prose beside them]] — the closure claim this bar would test; the on-the-page evidence available without any outside reading
 - [[the triad is the anatomy of every container]] — the axiom itself, with the portability argument and its recorded weakness
 - [[the author curated and vetoed while the collaborator wrote the correspondences]] — where "found, not invented" came from, and on what date
-- [[the compositional notation does not license the operations its syntax implies]] — the on-the-page evidence available without any outside reading
 - [[the system is scaffolding rather than the centerpiece]] — the decision that keeps this from being urgent for the manuscript
 
 Topics:

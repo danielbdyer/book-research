@@ -20,6 +20,7 @@ The corpus also stations a warning at this concern and credits it to Lacan: reco
 - [[psychedelic names a movement not a substance]] — the reclaimed word that names the project's central process
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the founding convergence, recorded as an isomorph
 - [[reading is remembering]] — the front-matter promise, which the book's structure is built to keep mechanically
+- [[the solo practice reaches the felt shift and the primitives then surface by themselves]] — the practice form of remembering: after the felt shift the book claims the primitives are found already in experience, not applied to it
 - [[the tuesday is the temple]] — the book's commitment to ordinary life as the site of the work
 - [[a hiding that never intends to be found has stopped being play]] — the play doctrine that answers why fullness contracts at all
 - [[the topology only exists where it is being performed]] — the corpus's own limit on maps, this vault included
@@ -47,9 +48,6 @@ The corpus also stations a warning at this concern and credits it to Lacan: reco
 
 Open territory the corpus named and never developed, recorded so it is reachable from the graph; the inventory is `ops/open corpus.md`.
 
-- [[metaphor is a faculty that weaves a self rather than a device that decorates one]] — nascent; whether the reader has a figurative faculty of their own
-- [[the sacred in the ordinary is produced by sensory design]] — nascent; whether the ordinary is noticed or arranged
-- [[a person lives inside symbolic infrastructures they have built]] — nascent; the corpus has read one such system already
 
 ## Arrivals from outside both traditions
 
@@ -57,7 +55,7 @@ The founding convergence is between two traditions, and the lineage sort asked w
 
 - [[the always-there hides by being always there and wittgenstein said so without heidegger]] — Investigations §129 gives this map's own reason why the never-absent goes unnoticed, with no Heidegger underneath it.
 - [[ludwig wittgenstein]] — that arrival's evaluation note, whose refusal halves the correspondence and is kept for that reason.
-- [[the state that arrives and the station that is earned were distinguished a millennium before the lattice that names them]] — the Sufi distinction the book already uses as its bypass guard, reached from outside both poles.
+- [[state and station were distinguished a millennium before the lattice named them]] — the Sufi distinction the book already uses as its bypass guard, reached from outside both poles.
 - [[al-qushayri]] — the eleventh-century systematizer who drew it.
 
 ## Why an arrival does not persist

@@ -35,7 +35,7 @@ The precedent's two governing rules both cut against the book as currently desig
 
 The survey reads the Exercises as reassurance — proof that the genre has a safety record. The text reads more usefully as a specification, and it names the two conditions under which the safety record was earned: a neutral companion, and either seclusion or nine months. The book has neither. That is a design finding rather than an objection, and it bears directly on the pilot-chapter decision, because a chapter sent to two real readers is the smallest available version of the second chair.
 
-The load designation on this note — independent-arrival — is the lineage sort's assignment (2026-08-05, recorded in the crossing at `ops/lineage sort.md`), layered onto an evaluation made against the primary rules on 2026-08-02; like every load, it is the grid's proposal until the author seats it.
+The load designation on this note — independent-arrival — is the lineage sort's assignment (2026-08-05, recorded in the crossing at `scripts/queries/lineage-sort.sh`), layered onto an evaluation made against the primary rules on 2026-08-02; like every load, it is the grid's proposal until the author seats it.
 
 ---
 

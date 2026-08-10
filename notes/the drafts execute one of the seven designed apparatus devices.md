@@ -9,7 +9,7 @@ topics: ["[[book-structure]]", "[[answerability]]"]
 
 The corpus specifies an apparatus that does much of the work the book's design depends on: inhabited margins forming a second book with its own plot, a verso column where readers countersign practices, a planting ledger tracking each planted image to its payoff, an escrow of promises made early and kept visibly, a per-chapter dial recording the ratio of evocative to informative prose, interludes placed at the part-junctions, and an eight-question checklist every chapter must pass. Seven devices, recorded at atlas §X.6.
 
-The executed draft implements one. Two poem interludes fall at the junctions, after the Three Loops at the close of the second part and after the Afterglow at the close of the fourth. The other six leave no trace: the words *margin*, *verso*, *countersign*, *ledger*, *escrow*, and *checklist* do not appear anywhere in the edition's forty-nine pages. The draft also carries a device the design does not name — a second-person instruction closing every chapter but one, whose genre is treated at [[the closing prompt changes genre where the book turns to praxis]].
+The executed draft implements one. Two poem interludes fall at the junctions, after the Three Loops at the close of the second part and after the Afterglow at the close of the fourth. The other six leave no trace: the words *margin*, *verso*, *countersign*, *ledger*, *escrow*, and *checklist* do not appear anywhere in the edition's forty-nine pages. The draft also carries a device the design does not name — a second-person instruction closing every chapter but one, whose pedagogy is treated at [[the book asks only for attention until it has given the reader something to act with]].
 
 The consequence falls on the pilot-chapter decision rather than on the doctrine. The corpus's recommended first move is one chapter "fully treated" and sent to two readers. Six of the seven devices that constitute full treatment have never been built once, at any scale, in any document the vault holds. Choosing a pilot chapter is therefore not a revision task applied to existing prose; it is the first construction of most of the apparatus, on one chapter, from a specification that has never been tested against a page.
 
@@ -27,7 +27,6 @@ The consequence falls on the pilot-chapter decision rather than on the doctrine.
 Relevant Notes:
 - [[the whole arc has already been drafted once in prose]] — the completeness this note qualifies: the prose is finished and the apparatus is not begun
 - [[seventeen chapters rest at madhyama]] — the move this changes the cost of, since "fully treated" means building six devices for the first time
-- [[the closing prompt changes genre where the book turns to praxis]] — the one device the drafts add that the design does not name
 - [[the reader's resistance has nowhere to land]] — a tension whose treatment is a margin voice that argues back, and therefore depends on the unbuilt margin apparatus
 - [[the per-chapter dial is a spanda ratio]] — the one device that is a production instrument rather than a printed feature, and what the corpus identifies it with
 - [[the gap between two states is where the concealed shows itself]] — the teaching behind the one device the drafts do execute: interludes placed at the junctions

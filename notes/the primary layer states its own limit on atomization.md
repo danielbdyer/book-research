@@ -2,7 +2,7 @@
 description: "Poem #7 rules that elements may not be split beyond their matter and poem #11 lets an equation work out without a solution, both written before the book's twelve primitives and its formulas existed."
 category: claim
 sources: ["poems #7", "poems #11"]
-topics: ["[[container-anatomy]]"]
+topics: ["[[contraction-not-corruption]]"]
 ---
 
 # the primary layer states its own limit on atomization
@@ -15,14 +15,14 @@ Read under the rule that a phrase shared between one of the first fifteen poems 
 
 - Poems #7 and #11, quoted above, were verified in the extracted text, and the absence of the word "particles" from the corpus was checked by word-bounded search.
 - The rule of direction for poems #1 through #15, that a phrase shared with the corpus originates in the poem, is held at [[the corpus quotes the author's poems rather than the poems quoting the corpus]], which records the youngness line as poem five's and finds several doctrines standing in the poems in the author's unassisted voice.
-- Two notes state the system side this claim bounds. [[the twelve primitives are verbs because a self in verbs is mid-sentence]] records that all twelve basic operations are verbs by design, because a grammar of verbs keeps a self unfinishable. [[the system is scaffolding rather than the centerpiece]] records the author's decision that the centerpieces are the convergence of thinkers and the lived practice while the triad, the primitives, the molecules, and the loops are scaffolding, and this claim gives that decision a root in the primary layer.
+- Two notes state the system side this claim bounds. [[the scheme's upper layers are one construction built on the container's three structures]] records that all twelve basic operations are verbs by design, because a grammar of verbs keeps a self unfinishable. [[the system is scaffolding rather than the centerpiece]] records the author's decision that the centerpieces are the convergence of thinkers and the lived practice while the triad, the primitives, the molecules, and the loops are scaffolding, and this claim gives that decision a root in the primary layer.
 
 ---
 
 Relevant Notes:
 - [[the system is scaffolding rather than the centerpiece]] — the author's decision that the convergence of thinkers and the lived practice are the book's centerpieces while the triad, primitives, molecules, and loops are scaffolding, for which these two poems supply an earlier precedent in his own writing
-- [[the chemistry's teachings are structural and its notation is only compositional]] — the finding that every teaching the molecule formulas deliver concerns a relation while the notation records only which terms are present, so the formulas' value does not lie in their decomposition, which is the limit poem #7 states
+- [[every discrimination the molecule formulas are credited with is made by the prose beside them]] — the finding that every teaching the molecule formulas deliver concerns a relation while the notation records only which terms are present, so the formulas' value does not lie in their decomposition, which is the limit poem #7 states
 - [[all six doctrine concerns appear in the first fifteen poems]] — the finding that all six of the book's doctrines are already stated in the poems that predate it, which this claim carries past the doctrines and into the limits of the system
 
 Topics:
-- [[container-anatomy]]
+- [[contraction-not-corruption]]

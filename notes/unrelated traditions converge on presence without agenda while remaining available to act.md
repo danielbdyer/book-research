@@ -22,7 +22,7 @@ The convergence carries a difficulty the corpus names rather than hides — "the
 - Atlas §VII.1 places the posture at the head of the practice curriculum and records its structural echo at relational scale, Benjamin's rupture-and-repair, which is a convergence of a different kind: the same law at a different scale rather than the same posture in another vocabulary.
 - **An adversary was seated against the posture on 2026-08-05, and the charge is descriptive rather than philosophical.** Presence without agenda is describable from outside as detachment, and the contemplative adverse-effects literature documents deadening and flattened affect as outcomes of practice rather than as failures of technique ([[the basic posture is describable as dissociation and the harm literature is unread]], with [[willoughby britton]] holding the chair). The grid's judgment is that this absence is currently the book's most defensible criticism and also the cheapest to answer, which makes it a different sort of hole from the others: what it needs is a reading rather than a defence.
 - One finding from the same literature runs toward the book instead of against it, and it belongs here because it is about what a convergence table is for: an accurate framework for what is happening is itself among the protective factors ([[a framework for what is happening is itself a protective factor]]). A table that leaves twelve vocabularies in their own terms is a description of the territory rather than an instruction in it, which is the form that finding credits.
-- The relational vocabulary in the list has an owner the corpus does not name, and naming him changes what "being-with" is claiming: Circling's being-with and the I–Thou relation are the same posture, and Buber's version is ontological rather than technical ([[the relational vocabulary has an ontology and it is buber's rather than benjamin's]]).
+- The relational vocabulary in the list has an owner the corpus does not name, and naming him changes what "being-with" is claiming: Circling's being-with and the I–Thou relation are the same posture, and Buber's version is ontological rather than technical ([[the relational vocabulary's ontology is buber's rather than benjamin's]]).
 
 ---
 
@@ -33,7 +33,7 @@ Relevant Notes:
 - [[the cusp is the back door to the stance]] — the entrance the treatment adds for the case where cultivating the posture stalls
 - [[steven katz]] — the scholarly objection any multi-tradition convergence meets: if no experience is unmediated, a dozen vocabularies agreeing is a fact about the descriptions
 - [[the basic posture is describable as dissociation and the harm literature is unread]] — the adversary the posture had never met, and the criticism the grid ranks as the book's most defensible
-- [[the relational vocabulary has an ontology and it is buber's rather than benjamin's]] — who the being-with vocabulary in this list actually belongs to
+- [[the relational vocabulary's ontology is buber's rather than benjamin's]] — who the being-with vocabulary in this list actually belongs to
 
 Topics:
 - [[felt-shift]]

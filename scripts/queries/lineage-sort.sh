@@ -3,9 +3,10 @@
 # what each thinker carries (load) against where they got their epistemics
 # (discipline). The point of the crossing is the empty cells — an empty cell is
 # a reading question, not a verdict. The directive is
-# ops/methodology/thesis-bearing and company.md; the maintained narrative
-# surface is ops/lineage sort.md, and where the two disagree this script is
-# right. Run from anywhere; it operates on the repository root.
+# ops/methodology/thesis-bearing and company.md; the narrative roll-up that
+# once mirrored this output was retired 2026-08-09, so this script is now the
+# sole surface for the crossing. Run from anywhere; it operates on the
+# repository root.
 cd "$(dirname "$0")/../.." || exit 1
 
 LOADS="thesis-bearing adversary independent-arrival names-existing-practice company precedent"
@@ -27,7 +28,7 @@ echo "  ${UNSET:-none — every interlocutor carries a load}"
 
 echo ""
 echo "== The crossing: load x discipline =="
-echo "  A zero is a reading question. Compare against 'The holes, ranked' in ops/lineage sort.md."
+echo "  A zero is a reading question. The ones already turned into reading questions are in ops/queue/candidates.md."
 echo "  Two rows read differently and are not backlogs. The company row is empty by"
 echo "  design — those ~30 names get notes only when a claim needs one, and the grid's"
 echo "  own instruction is not to sort them. The names-existing-practice row is thin"
