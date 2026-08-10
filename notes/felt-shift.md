@@ -97,6 +97,8 @@ A synthesis received 2026-08-05 reports the literature on intense states, and th
 - [[the case against introspection is strongest where the book's standard stands]] — from the primary reading of 2026-08-07: Schwitzgebel builds his case on emotional and bodily experience, refuses the present-tense exemption by name, and holds introspection to be necessary as well as untrustworthy
 - [[trained introspection is the repair the standard's sharpest opponent named and left open]] — the same paper's other half: he says practice might shield introspection from error and that he saw no robust support for it in 2008, which turns the defense into evidence the book must find
 
+- [[both attacks on the standard blame the absence of correction by another person]] — the two adversary readings converging on one diagnosis, that solitary introspection goes uncorrected, which turns the standard's two sharpest opponents into an argument for the Second Chair
+
 - [[the practitioner rather than the person being helped carries the alliance effect]] — the container-holder's own skill shows up as between-practitioner variance in outcomes, which is the nearest measured form of the claim that holding a room is a real capacity
 
 ## The anti-instrumentality convergence and the body, still to read
