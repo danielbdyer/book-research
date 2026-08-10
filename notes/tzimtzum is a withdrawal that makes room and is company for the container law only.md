@@ -25,6 +25,8 @@ Relevant Notes:
 - [[suffering is contraction never corruption]] — the doctrine this is explicitly NOT an arrival at, because the valence is inverted
 - [[the traditions' refusal of extraction restates the book's own container law]] — the extraction charge a decontextualized lift of a messianic-halakhic system would incur
 - [[hasidic worship through corporeality]] — the tikkun half of the myth, raising the sparks by ordinary use, which is already in the vault as the householder arrival
+- [[christian kenosis makes room by self-emptying rather than by addition]] — the Christian withdrawal-makes-room cousin on the same container-anatomy map, self-emptying as the shape of love
+- [[weil's decreation un-creates the self and reaches the opposite of the restored first person]] — the renunciation-side concept that draws tzimtzum, kenosis and fanā together as one make-room-by-withdrawal move
 
 Topics:
 - [[container-anatomy]]
