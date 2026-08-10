@@ -1,5 +1,5 @@
 ---
-description: The undermining effect is the strongest independent arrival at the book's anti-instrumentality clause and gives it an empirical arm, since doing an intrinsic activity for an external reward measurably degrades the motivation.
+description: The undermining effect is the strongest independent arrival at the book's anti-instrumentality clause and gives it an empirical arm — doing an intrinsic activity for a reward measurably degrades the motivation.
 category: isomorph
 sources: ["walked IX"]
 topics: ["[[felt-shift]]"]
