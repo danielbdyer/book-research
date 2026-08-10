@@ -102,14 +102,14 @@ A synthesis received 2026-08-05 reports the literature on intense states, and th
 
 - [[the practitioner rather than the person being helped carries the alliance effect]] — the container-holder's own skill shows up as between-practitioner variance in outcomes, which is the nearest measured form of the claim that holding a room is a real capacity
 
-## The anti-instrumentality convergence and the body, still to read
+## The anti-instrumentality convergence and the body
 
-Arrivals privated on 2026-08-10 at the author's direction: named at page-level, unread, gated on their readings (`ops/reading queue.md`).
+All four were read at their primary texts on 2026-08-10 and moved from privated to full, each with a reading record in `archive/`. The first three confirm the anti-instrumentality clause — a practice expresses realization rather than being a means to it — as a three-tradition convergence across Zen, experimental psychology, and Greek philosophy; the fourth stands against the verification standard from the side of what the body is.
 
-- [[dogen holds that the practice is the realization enacted rather than its means]] — the anti-instrumentality clause's sole current bearer, in his voice and unread, the Gendlin situation repeated
-- [[deci and ryan measured that instrumentalizing an intrinsic activity corrupts it]] — the empirical arrival at the clause, anti-instrumentality with data
-- [[aristotle distinguishes activity complete in itself from movement toward an outside end]] — the Western philosophical arrival, energeia against kinesis, which with the two above makes three traditions
-- [[merleau-ponty holds the body as the perceiving subject rather than an instrument that certifies]] — the body that certifies nothing, filling the embodied blind spot by refusing the felt-shift-as-test framing
+- [[dogen holds that the practice is the realization enacted rather than its means]] — the clause's source, grounded at *Bendōwa*'s eighth answer (practice and realization "are one and the same"), the refusal now bounded to goallessness rather than a blanket quietism
+- [[deci and ryan measured that instrumentalizing an intrinsic activity corrupts it]] — the empirical arrival, the undermining effect confirmed with effect sizes (contingent tangible rewards degrade free-choice intrinsic motivation, d = −0.28 to −0.40; positive feedback enhances it, d = 0.33)
+- [[aristotle distinguishes activity complete in itself from movement toward an outside end]] — the Western philosophical arrival, *energeia* against *kinēsis* confirmed at *Metaphysics* IX.6, which with the two above completes the three-tradition convergence
+- [[merleau-ponty holds the body as the perceiving subject rather than an instrument that certifies]] — the body-subject that certifies nothing, filling the embodied blind spot by refusing the felt-shift-as-test framing, confirmed at the primary's page citations
 
 ## What remains
 
