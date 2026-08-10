@@ -35,6 +35,7 @@ The counterweight belongs in the same note, because the refusals and the welcome
 Relevant Notes:
 - [[the tradition the book owes most has no chair in its company]] — the tension this note supplies the missing element of
 - [[the book can only be auxiliary to a sovereign reader]] — the doctrine the second refusal presses on hardest
+- [[the kashmir shaiva anupaya turns the negative way on method itself]] — the reading that extends the second refusal, the no-means reserved for the most graced rather than offered to every reader as a doorway
 - [[a codex is a one-chair technology making a two-chair argument]] — the book's own arrival at the third refusal
 - [[nothing transforms from the audience]] — the participation law the tradition would re-attribute rather than deny
 - [[the tuesday is the temple]] — the householder axiom the tradition's own texts already contain
