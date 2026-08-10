@@ -35,6 +35,7 @@ The corpus also stations a warning at this concern and credits it to Lacan: reco
 - [[kshemaraja]] — he wrote the twenty-sūtra summary on the book's reading list, and the formula the book plants
 - [[utpaladeva]] — he founded the recognition school; the corpus names him as the far side of the founding convergence
 - [[the kashmir shaiva tradition would decline four of the book's deepest moves]] — the tradition's refusals, tested by the author and now carrying exact citations
+- [[the book owes the western reader anchor points into the kashmir shaiva tradition]] — what the book owes the reader for the tradition beneath this whole map, stated as the reader's road in rather than as the tradition's missing chair
 - [[martin heidegger]] — the central verb's source, with his own four refusals and the associations named at the door
 - [[both poles of the convergence refuse the engineered epiphany]] — the foundations agree one step further: the apparatus can prepare and cannot cause
 - [[both poles of the convergence supply their own front doors]] — the accessible entries each tradition wrote for itself
