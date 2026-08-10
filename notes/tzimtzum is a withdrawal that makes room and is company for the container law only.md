@@ -1,10 +1,9 @@
 ---
 description: Lurianic tzimtzum, a self-contraction that makes room, is company for the book's container-that-withdraws law but not for suffering-as-contraction, and the corpus's only tzimtzum is a flagged AI pairing.
 category: isomorph
-sources: ["atlas §II", "provenance of the corpus §7 (consulted, held in provenance/)"]
+sources: ["atlas §II", "Vital, Etz Chaim, Gate 1, ch. 2 (Sefer Etz Chaim 1:2)", "provenance of the corpus §7 (consulted, held in provenance/)"]
 topics: ["[[container-anatomy]]"]
-state: privated
-privation: "the Lurianic material is unread here; Etz Chaim Part One, Gate One (Hayyim Vital's redaction of Isaac Luria) is named by address awaiting the reading."
+state: full
 ---
 
 # tzimtzum is a withdrawal that makes room and is company for the container law only
