@@ -34,6 +34,7 @@ Relevant Notes:
 - [[the basic posture is describable as dissociation and the harm literature is unread]] — the paired hole, filled by the same reading
 - [[the gatekeeper is met with a bow never a fight]] — the posture the book does supply at the threshold, which is not a diagnostic
 - [[nothing enters the lattice the body has not countersigned]] — the standard that cannot arbitrate this particular question
+- [[the felt shift bears more load than any single test can carry]] — the overload tension this judgment is the third and hardest load of, the call the body is worst placed to make
 - [[an enormous experience is interpreted by the structure it did not change]] — the mechanism from the same source, which explains why a state alone settles nothing
 - [[ken wilber]] — the name for the confusion, and the reason he moves out of the reference lineage
 - [[the system is scaffolding rather than the centerpiece]] — the constraint on any fix: a guardrail may not smuggle a stage model back in as architecture
