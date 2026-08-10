@@ -31,6 +31,10 @@ Relevant Notes:
 - [[suffering is contraction never corruption]] — the doctrine whose folded-not-broken reading makes the suffering case an uncovering rather than an addition
 - [[the racket is the attractor state with a salary]] — the kept counter-case, a suffering diagnosed by a presence the privative grammar cannot reach
 - [[reading is remembering]] — the front-matter promise that states the grammar in plain language for the recognition case
+- [[the daodejing reaches the open center through the emptiness a structure holds]] — the negative way's affirmative face, which gives absence a positive job: usefulness lives in the emptiness a structure holds
+- [[advaita reaches the uncovering move through neti neti and an ever-attained freedom]] — the uncovering move at its most absolute, liberation uncovered by negation rather than produced
+- [[pseudo-dionysius reaches the open center by stripping predicates away]] — the Christian apophatic arrival, union approached by subtraction into a divine darkness
+- [[the kashmir shaiva anupaya turns the negative way on method itself]] — the negative way turned on method itself, from the book's own tradition
 
 Topics:
 - [[recognition]]
