@@ -120,6 +120,7 @@ The provenance record of 2026-08-02 and after — the accounts of the corpus's m
 - [[the executed draft cannot decide if the primitives are operations or tools]] — the same page asserting both statuses, treated by the author's demotion
 - [[the diagnostic discipline survives the apparatus that carries it]] — what stands if the notation is set aside, and on what grounds
 - [[the book asks only for attention until it has given the reader something to act with]] — the unstated rule governing what an instruction may ask for, and when
+- [[the book owes the western reader anchor points into the kashmir shaiva tradition]] — a reader-orientation duty the object carries, since the tradition beneath the whole book is unfamiliar and the book owes the reader a road in
 - [[the peak is the one unit the performing law can honor only by withdrawing]] — the two laws' one collision, resolved by the staging's withdrawal
 - [[the offered menu is precision that costs dignity or dignity that costs precision]] — the book's positioning against both available vocabularies
 - [[the small hours are the poems' native hour before they were the book's founding scene]] — the founding scene's hour, traced to the primary layer
