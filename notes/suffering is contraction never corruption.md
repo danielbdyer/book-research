@@ -24,6 +24,7 @@ The technical form comes from the Trika tradition's three malas — fullness con
 ---
 
 Relevant Notes:
+- [[the book reads deep change as uncovering rather than addition]] — the book-wide privative move this doctrine is the suffering instance of, the fold read as uncovering fullness already present
 - [[the diagnosis contains the cure]] — the doctrine's practical form: privation analysis
 - [[the triads privations map the three malas corner for corner]] — the structural correspondence beneath the doctrine
 - [[felt shift versus felt confirmation]] — the guard that applies here: a reframe this consoling must still pass the somatic test rather than being accepted for its comfort
