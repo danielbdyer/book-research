@@ -23,6 +23,7 @@ Relevant Notes:
 - [[the open center is made possible by the three structures and identical with none of them]] — the book's half, entered here by negation
 - [[the book reads deep change as uncovering rather than addition]] — the privative grammar this ascent by subtraction is company for
 - [[john caputo]] — the seated route to Eckhart's *Gelassenheit*, beside which this note holds his unmined via negativa
+- [[the daodejing reaches the open center through the emptiness a structure holds]] — the same open center reached through the emptiness a structure encloses, from an unrelated Taoist lineage
 
 Topics:
 - [[container-anatomy]]
