@@ -1,23 +1,20 @@
 ---
 description: The Daodejing reaches the book's open center from outside both founding poles, holding that usefulness lives in the emptiness a structure encloses — the hub's hollow turns the wheel, the vessel's void holds.
 category: isomorph
-sources: ["atlas §II"]
+sources: ["atlas §II", "Daodejing ch. 11", "Daodejing ch. 28"]
 topics: ["[[container-anatomy]]"]
-state: privated
-privation: "the Daodejing is unread here; ch. 11 (the hub, vessel and room) and ch. 28 (the uncarved block) are named by address awaiting the reading."
+state: full
 ---
 
 # the daodejing reaches the open center through the emptiness a structure holds
 
-The book's container doctrine holds that the three structures exist for the open center they make and are identical with none of it ([[the open center is made possible by the three structures and identical with none of them]]). The Daodejing reaches the same finding from a tradition with no contact with either Heidegger's *Lichtung* or the Trika's *prakāśa*: the hub's hollow is what turns the wheel, the vessel's empty interior is what holds, the room's emptiness is where one lives. It is the cleanest independent arrival the vault has found at the open center, and it also gives the book's privative grammar its affirmative face, since it assigns absence a positive job — usefulness lives in what is not there ([[the book reads deep change as uncovering rather than addition]]).
-
-The claim is held privated because the reading is not done: the passage is named by address and not quoted, and the note is company, not proof.
+The book's container doctrine holds that the three structures exist for the open center they make and are identical with none of it ([[the open center is made possible by the three structures and identical with none of them]]). The Daodejing reaches the same finding from a tradition with no contact with either Heidegger's *Lichtung* or the Trika's *prakāśa*: the hub's hollow is what turns the wheel, the vessel's empty interior is what holds, the room's emptiness is where one lives. A reading of chapters 11 and 28 confirms it at the text. It is the cleanest independent arrival the vault has found at the open center, and it also gives the book's privative grammar its affirmative face, since it assigns absence a positive job — usefulness lives in what is not there ([[the book reads deep change as uncovering rather than addition]]).
 
 ## Substantiation
 
 - The book's half is on record: the open center is the point where *Lichtung* and *prakāśa* name one place (atlas §II; [[the open center is made possible by the three structures and identical with none of them]]).
-- The Daodejing's half is named, not shown: the hub, vessel and room passage is at *Daodejing* ch. 11, and the uncarved block, which carries the refusal, is at ch. 28. Both are to verify at the text; neither is quoted from memory.
-- The refusal is kept. Daoism refuses systematization more sharply than anyone in this company: the uncarved block is ruined by carving, so Laozi would read the book's twelve primitives as exactly the cutting that turns a whole into instruments and destroys it, and the tradition dissolves the striving self rather than restoring it — company for the open center, adversary to both the apparatus and the restored first person.
+- The Daodejing's half is now shown, from James Legge's translation (the reading record is `archive/reading — laozi, daodejing 11 and 28 (legge trans.).md`). Chapter 11: "The thirty spokes unite in the one nave; but it is on the empty space (for the axle), that the use of the wheel depends. Clay is fashioned into vessels; but it is on their empty hollowness, that their use depends," closing "what has a (positive) existence serves for profitable adaptation, and what has not that for (actual) usefulness." Usefulness lives in the emptiness a structure encloses, reached through the structure. Read in Legge's Victorian translation, not the classical Chinese; the terms want a modern edition before manuscript use.
+- The refusal is kept. Chapter 28 valorizes the return to the uncarved block (*pu*) and notes that "the unwrought material, when divided and distributed, forms vessels," so dividing the whole produces implements. Laozi would read the book's twelve primitives as exactly that cutting, which turns a whole into instruments — the application to the apparatus is the reader's faithful extension of the text rather than a phrase Laozi uses. The tradition also dissolves the striving self rather than restoring it, an adversary to the book's restored first person, which a reading of the *wu wei* chapters would develop.
 
 ---
 
