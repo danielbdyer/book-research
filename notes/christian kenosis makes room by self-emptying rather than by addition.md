@@ -24,6 +24,7 @@ Relevant Notes:
 - [[the fullness of the first person is the road to selflessness rather than its obstacle]] — where the book already names anatta, fana and kenosis as one territory
 - [[the sufi arc completes annihilation by return rather than by staying dissolved]] — the fanā pole of the same dissolution family, but completed by return rather than by staying emptied
 - [[tzimtzum is a withdrawal that makes room and is company for the container law only]] — the Lurianic withdrawal-makes-room cousin on the same container-anatomy map, sharing the container-that-withdraws shape
+- [[the withdrawal-makes-room move is an independent arrival that splits on the book's householder fork]] — the gathering claim this is a member of, on the renunciation side of its fork
 
 Topics:
 - [[container-anatomy]]
