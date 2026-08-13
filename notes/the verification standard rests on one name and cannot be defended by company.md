@@ -33,6 +33,7 @@ Relevant Notes:
 - [[felt shift versus felt confirmation]] — the two limits the corpus already records on the same standard
 - [[introspective access is the felt shift's undefended premise]] — the objection that has never been put to it, and the sort's first-ranked hole
 - [[the company was sorted by what each thinker brings and never by what the book cannot lose]] — the general defect this case exposed
+- [[the felt shift bears more load than any single test can carry]] — the adjacent overload tension that compounds with this one: the instrument is asked to do the most, and this note shows it is defended by the fewest
 - [[eugene gendlin]] — the chair, written 2026-08-05, with the recommendation the author has yet to act on
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the heaviest load the corpus places on this instrument elsewhere
 

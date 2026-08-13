@@ -51,6 +51,7 @@ Relevant Notes:
 - [[al-qushayri]] — the other non-Indic arrival, from the same discipline
 - [[weil is seated as the opponent the plumbing deserves]] — the adversary this claim already had, against no witness
 - [[steven wasserstrom]] — the charge any gathering of this kind has to answer
+- [[the withdrawal-makes-room move is an independent arrival that splits on the book's householder fork]] — the gathering claim this is the book-side witness in, the Lurianic tradition's own completion-by-return
 
 Topics:
 - [[interlocutors]]

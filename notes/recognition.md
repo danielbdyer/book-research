@@ -20,6 +20,7 @@ The corpus also stations a warning at this concern and credits it to Lacan: reco
 - [[psychedelic names a movement not a substance]] — the reclaimed word that names the project's central process
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the founding convergence, recorded as an isomorph
 - [[reading is remembering]] — the front-matter promise, which the book's structure is built to keep mechanically
+- [[the book reads deep change as uncovering rather than addition]] — the one move beneath this map's central concern, since recognition un-forgets, suffering unfolds, and the reclaimed psychedelic un-conceals, so the book adds nothing and only uncovers
 - [[the solo practice reaches the felt shift and the primitives then surface by themselves]] — the practice form of remembering: after the felt shift the book claims the primitives are found already in experience, not applied to it
 - [[the tuesday is the temple]] — the book's commitment to ordinary life as the site of the work
 - [[a hiding that never intends to be found has stopped being play]] — the play doctrine that answers why fullness contracts at all
@@ -34,14 +35,18 @@ The corpus also stations a warning at this concern and credits it to Lacan: reco
 - [[kshemaraja]] — he wrote the twenty-sūtra summary on the book's reading list, and the formula the book plants
 - [[utpaladeva]] — he founded the recognition school; the corpus names him as the far side of the founding convergence
 - [[the kashmir shaiva tradition would decline four of the book's deepest moves]] — the tradition's refusals, tested by the author and now carrying exact citations
+- [[the book owes the western reader anchor points into the kashmir shaiva tradition]] — what the book owes the reader for the tradition beneath this whole map, stated as the reader's road in rather than as the tradition's missing chair
 - [[martin heidegger]] — the central verb's source, with his own four refusals and the associations named at the door
 - [[both poles of the convergence refuse the engineered epiphany]] — the foundations agree one step further: the apparatus can prepare and cannot cause
+- [[the peak is the one unit the performing law can honor only by withdrawing]] — where this map's refusal of the manufactured breakthrough meets the performing law, since a peak that performed itself would claim the power both traditions deny, so the staging withdraws the apparatus exactly there
 - [[both poles of the convergence supply their own front doors]] — the accessible entries each tradition wrote for itself
 - [[the crossover has footsteps and the book already seats some of the walkers]] — the field around the core-thesis candidate, verified 2026-08-03: the spine held, and every careful walker recorded a difference
 - [[reading as remembering has a twenty-four-century ancestry in the west]] — Meno to Confessions X to the Parmenides lectures, sharing the gesture and disputing the destination
 - [[the fullness of the first person is the road to selflessness rather than its obstacle]] — the direction of the whole movement: the self is the route out of itself rather than the obstruction, stated by the ladder's crown and enacted by the last page
 - [[all six doctrine concerns appear in the first fifteen poems]] — the recognition doctrine in the primary layer: the answer already had, the inside already occupied, stated in the poems before the book existed
+- [[the book is a reference point for a reader already on their way]] — the book's function for the reader who is already noticing, widened past the post-peak case to depth and words for what they half-know
 - [[the recognition school installs wonder at the definition of consciousness]] — camatkāra tied to vimarśa by the founder himself, bridged to art by Abhinavagupta, with the theater-not-world difference kept
+- [[rainer maria rilke]] — the one artwork in the vault's record that performs this map's event, the Archaic Torso commanding "you must change your life" from an eyeless made thing, recognition arriving as demand and produced by trained looking rather than by visitation
 - [[what the big experience leaves behind depends on what follows it]] — the clinical grounding of the shifted promise: the peak fades on a decay curve, and persistence tracks completeness and practice
 
 ### Nascent stubs
@@ -83,6 +88,15 @@ This concern borders [[contraction-not-corruption]], because the move from heali
 - [[the beauty tension restates the tradition's own boundary between rasa and recognition]] — the millennium-old line between relish that stays in the theater and recognition that is once-for-all
 
 - [[erhard and the book take different verbs from the same heideggerian object]] — the book's un-forgetting and Erhard's context-creation work on the same inherited structure, and his own name for mastery, "a context that uses you," is already middle-voiced
+
+## The negative way and the withdrawal fork
+
+All four were read at their primary texts on 2026-08-10 and moved from privated to full, each with a reading record in `archive/` and each keeping the refusal that halves it. The first two are negative-way arrivals at the uncovering move; the last two are the two poles of the withdrawal fork, the book's-side return against the renunciation-side un-creation.
+
+- [[advaita reaches the uncovering move through neti neti and an ever-attained freedom]] — the uncovering move at its most absolute, confirmed at BU 2.3.6 and Śaṅkara's commentary (ignorance removed, not knowledge produced), near-family that argues back and negates the first person the book restores
+- [[the kashmir shaiva anupaya turns the negative way on method itself]] — the source tradition's own apophatic apex, the no-means confirmed as "the means where there is nothing to be done," reserved for the most graced rather than a democratic doorway
+- [[the sufi arc completes annihilation by return rather than by staying dissolved]] — baqā's return as the completion of fanā, confirmed in al-Junayd's sobriety doctrine, an independent arrival at the householder axiom on the book's side of the fork
+- [[weil's decreation un-creates the self and reaches the opposite of the restored first person]] — the far side of the fork, confirmed at *Gravity and Grace* ("to make something created pass into the uncreated"), arming the seated adversary with her precise concept
 
 ## What remains
 

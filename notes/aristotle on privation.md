@@ -39,6 +39,7 @@ Relevant Notes:
 - [[the diagnosis contains the cure]] — the principle he is the ancestor of, in the corpus's own terms
 - [[the diagnostic discipline survives the apparatus that carries it]] — the salvage that names his lineage as one of the privation reading's two independent grounds
 - [[the molecule catalogue divides by whether the construct existed before the formula]] — the wider finding: he is the oldest of several constructs the formulas compress
+- [[aristotle distinguishes activity complete in itself from movement toward an outside end]] — the same thinker's other arrival, *energeia* for the anti-instrumentality clause, carrying the same shape of refusal this note records: the structure warranted, the frame around it declined
 - [[the triads privations map the three malas corner for corner]] — the other ancestry, and the question of whether the two are one structure
 - [[the racket is the attractor state with a salary]] — the counter-case: a suffering that is a presence, which the privation reading cannot hold
 - [[weil is seated as the opponent the plumbing deserves]] — the affliction objection's bearer, already seated and never connected to this argument

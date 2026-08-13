@@ -24,6 +24,7 @@ One consequence for this vault is recorded in [[methods]]: the vault verifies st
 - [[the practice forms specify when to begin and not how to tell one is finished]] — the twelve forms, specified at their trigger and unmarked at both exits
 - [[the solo practice reaches the felt shift and the primitives then surface by themselves]] — Focusing as the curriculum's foundational solo practice, whose endpoint is this map's own instrument
 - [[the affective practice completes a feeling's descent with consent between repression and venting]] — the emotional practice beneath the twelve forms, verified by the feeling's completed descent felt in the body
+- [[naming aloud is part of what is happening rather than a report about it]] — naming a present feeling as itself a bodily event rather than a report on one, the room-scale speech doctrine with Lieberman's affect-labeling result behind it
 - [[the diagnostic method reads each structural layer with its own question]] — the curriculum's closing diagnostic, one read per structural layer, each read gated by the felt shift
 - [[the crisis triage collapses the diagnostic to body holding and contact]] — the same diagnostic reduced for acute distress to three body-answerable questions
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the dispute the corpus asks this map's instrument to settle, case by case
@@ -67,6 +68,7 @@ The founding paper is read — Gendlin 1964, complete on 2026-08-05, with the re
 - [[introspective access is the felt shift's undefended premise]] — the objection the standard has never met, first-ranked of the sort's nine holes. It now carries a candidate treatment from the reading above: the narrowed certificate has a smaller attack surface, and whether the narrowed version survives Schwitzgebel is what his reading has to settle.
 - [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the first candidate answer the vault holds, and it comes from the standard's own author: the implicit order is precise enough to refuse a wrong word, and a refusal is a cost fluency never pays. Confirmed at the primary text on 2026-08-05: "his direct referent does the judging."
 - [[the verification standard rests on one name and cannot be defended by company]] — twenty-nine builders of enterable structure share the roster, and only Gendlin supplies the verification standard, so the company is abundant exactly where the load is not.
+- [[the felt shift bears more load than any single test can carry]] — the companion finding to the one above, that the same instrument is also overloaded, since verification, the surrender-and-will fork, and the dissolution-and-regression judgment all run through it
 - [[eugene gendlin]] — his evaluation note, which now integrates the 1964 reading; *Focusing*, *A Process Model*, and the outcome research remain unread.
 - [[carl rogers]] — the program behind the finding, which the corpus never names though it tells the research story three times. He adds no second arrival — the standard still rests on one name — but he establishes that the finding came out of a funded, measured, adversarial research program rather than out of one man's introspection, which is the charge the standard is most exposed to.
 - [[nisbett and wilson]] — the canonical empirical strike, and the first paper to read of all of them, because its own carve-out may put the felt shift outside its range.
@@ -96,7 +98,19 @@ A synthesis received 2026-08-05 reports the literature on intense states, and th
 - [[the case against introspection is strongest where the book's standard stands]] — from the primary reading of 2026-08-07: Schwitzgebel builds his case on emotional and bodily experience, refuses the present-tense exemption by name, and holds introspection to be necessary as well as untrustworthy
 - [[trained introspection is the repair the standard's sharpest opponent named and left open]] — the same paper's other half: he says practice might shield introspection from error and that he saw no robust support for it in 2008, which turns the defense into evidence the book must find
 
+- [[both attacks on the standard blame the absence of correction by another person]] — the two adversary readings converging on one diagnosis, that solitary introspection goes uncorrected, which turns the standard's two sharpest opponents into an argument for the Second Chair
+
 - [[the practitioner rather than the person being helped carries the alliance effect]] — the container-holder's own skill shows up as between-practitioner variance in outcomes, which is the nearest measured form of the claim that holding a room is a real capacity
+
+## The anti-instrumentality convergence and the body
+
+All four were read at their primary texts on 2026-08-10 and moved from privated to full, each with a reading record in `archive/`. The first three confirm the anti-instrumentality clause — a practice expresses realization rather than being a means to it — as a three-tradition convergence across Zen, experimental psychology, and Greek philosophy; the fourth stands against the verification standard from the side of what the body is.
+
+- [[dogen holds that the practice is the realization enacted rather than its means]] — the clause's source, grounded at *Bendōwa*'s eighth answer (practice and realization "are one and the same"), the refusal now bounded to goallessness rather than a blanket quietism
+- [[dogen]] — the interlocutor chair now seating that source, reference-lineage with a thesis-bearing load, its single-bearer exposure eased because the two arrivals below now stand beside him
+- [[deci and ryan measured that instrumentalizing an intrinsic activity corrupts it]] — the empirical arrival, the undermining effect confirmed with effect sizes (contingent tangible rewards degrade free-choice intrinsic motivation, d = −0.28 to −0.40; positive feedback enhances it, d = 0.33)
+- [[aristotle distinguishes activity complete in itself from movement toward an outside end]] — the Western philosophical arrival, *energeia* against *kinēsis* confirmed at *Metaphysics* IX.6, which with the two above completes the three-tradition convergence
+- [[merleau-ponty holds the body as the perceiving subject rather than an instrument that certifies]] — the body-subject that certifies nothing, filling the embodied blind spot by refusing the felt-shift-as-test framing, confirmed at the primary's page citations
 
 ## What remains
 

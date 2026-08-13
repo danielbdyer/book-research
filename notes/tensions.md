@@ -35,6 +35,8 @@ The three manuscript drafts admitted 2026-08-01 carry strains that the four desc
 
 - [[felt shift versus felt confirmation]] — the somatic test can be fooled by fluent prose, and the signal is weakest where the protective folding is deepest. This tension also binds the vault's own verification practice; see [[methods]].
 - [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the first candidate treatment the vault holds, and it comes from the standard's own author: the implicit order is precise enough to refuse a wrong word, which is a cost fluency never pays.
+- [[the felt shift bears more load than any single test can carry]] — the tension one level up from the two above, that the instrument they qualify is also carrying the verification, the surrender-and-will fork, and the dissolution-and-regression judgment at once. Treatment: the division of labour, the felt shift certifying movement and the judgments it cannot make routed to a second person.
+- [[the felt shift certifies carrying forward rather than correspondence]] — the narrowing that reshapes every tension resting on the standard: the founding paper certifies movement rather than truth, which shrinks the introspective demand the standard makes and costs the book the power to underwrite doctrine with a shift.
 
 ## The disagreements kept live among the contemporary teachers
 
@@ -94,6 +96,7 @@ This tension was added 2026-08-07, from reading Nisbett and Wilson 1977 complete
 Two arrived 2026-08-06 from reading the company's sixty-four candidate evaluations as one corpus; each is a fork between thinkers' accounts rather than a strain inside any one of them.
 
 - [[the required second person splits into a judge and a mirror]] — the solitary reader's many refusals specify two incompatible missing persons: a watcher with authority to overrule the reader's self-report, and a presence forbidden to direct. The sovereignty doctrine can supply only the mirror, and the recorded safety failures — telling dissolution from regression, judging a state from inside it — are what the judge exists for. Treatment: unassigned; the candidate is a division of labor — the mirror for verification, a pre-committed outside contact at the crisis points.
+- [[reader sovereignty has an unstated exception at destabilization]] — the doctrine the split above lands on, since the book states sovereignty without condition and the crisis is where an outside authority is needed and forbidden at once. Treatment: the division of labour, the mirror for ordinary verification and a pre-committed outside contact with standing to overrule at the crisis points.
 - [[the map that protects the destabilized reader is the tool that becomes a ranking]] — the protective-framework finding and the status-ladder record prescribe opposite designs for the same deliverable. Treatment: candidate — split the deliverable into a sequence of expected difficulty, which can be handed over, and a hierarchy of attainment, which cannot; derived from the thinkers' own cases and untested.
 
 ## The method this map does not supply

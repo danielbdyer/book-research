@@ -33,7 +33,9 @@ The atlas records the structural problem under its own heading at §VIII — "th
 - [[the third entity's failure mode is withdrawal and its core skill is staying]] — the executed chapter's doctrine: the field survives conflict and dies of prolonged withdrawal
 - [[the poems hold the one-chair question and its answered posture]] — the solitary-reader problem and the posture that answers it, both in the primary layer first
 - [[the book addresses people who overthink because they oversense]] — the corpus's reader definition, kept beside the author's later one so the difference stays visible
+- [[the book is a reference point for a reader already on their way]] — the author's widened reader definition and the book's function for that reader, a companion that gives words to what the reader already half-senses
 - [[the required second person splits into a judge and a mirror]] — the tension: the company's refusals specify two incompatible missing persons, and the sovereignty doctrine can ship only one
+- [[reader sovereignty has an unstated exception at destabilization]] — where that split lands on the sovereignty doctrine, which the book states without condition even though the crisis is where an outside authority is both needed and forbidden
 - [[independent arrivals reach only the weak reading of the participation law]] — the trade-off across the law's six independent witnesses: independence or strength, not both
 - [[zen's makyo instruction refuses the self-certifying experience]] — a thousand-year precedent for the field as second check: the teacher, not the experience, verifies
 
@@ -77,6 +79,13 @@ The claim that the knower is inside what they know is the condition this map's l
 - [[the participation law has measured support at a scale nothing else in the book approaches]] — from the primary reading of 2026-08-07: the alliance-outcome relation across 295 studies and over 30,000 patients at r = .278, holding across treatment approach and rater and country, and surviving the test for whether early improvement explains it
 - [[the alliance holds its size when the exchange is mediated and written]] — the same meta-analysis on internet-delivered therapy: r = .275 across 23 samples, against the standing expectation that a written and mediated exchange would weaken the relation
 - [[the practitioner rather than the person being helped carries the alliance effect]] — variability between therapists exceeds variability within a therapist's caseload, so the measured capacity belongs to the person holding the container
+
+## The non-human field
+
+The clearing's blind spot for the non-human — the more-than-human that takes part in the inner life, which the human-only field has no chair for — found a chain-link and an independent arrival on 2026-08-10, both read at their sources and moved from privated to full the same day, with reading records in `archive/`.
+
+- [[buber's tree extends the i-thou relation past the human]] — the unmined half of the seated thinker whose I-Thou already carries the field's ontology, the hedge now verbatim (a Thou without a mind: "neither the soul of a tree nor a dryad, but the tree itself")
+- [[abram's more-than-human makes the animate world a participant in the inner life]] — the independent arrival confirmed in Abram's and Kimmerer's own words ("we are human only in contact… with what is not human"; "these beings are not 'it,' they are our relatives"), a name the corpus already carries
 
 ## What remains
 

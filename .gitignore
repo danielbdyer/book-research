@@ -6,3 +6,9 @@
 # scripts/bootstrap.sh; never edited by hand and never committed, so it cannot
 # drift from the immutable originals in sources/.
 .corpus/
+
+# Local session-tracking records written by the session hooks (with
+# ops/sessions/mined.txt for /remember's mined state). Ephemeral per-container
+# state, never tracked in the repo's history; ignored so the stop-hook git
+# check stops flagging them. Decision recorded in ops/decisions.md, 2026-08-10.
+ops/sessions/

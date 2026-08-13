@@ -36,6 +36,7 @@ All vault prose is expository and evidential: complete sentences with named subj
 - [[the book performs what it describes]] — the law the vault inherits as a design obligation
 - [[ripeness is not refrigeration]] — the source of the output rule
 - [[felt shift versus felt confirmation]] — the source of the verification rule's humility
+- [[gendlin's focusing protocol already guards against the counterfeit shift]] — the source side of that same humility, since the protocol the somatic test is borrowed from carries its own guards against the counterfeit, which the book can transmit rather than invent
 - [[the topology only exists where it is being performed]] — the source of the scope rule
 - [[the atlas was compiled from the arc and gloss treatment]] — the source of the standing rule, and the reason agreement among three of the seven documents counts once
 
@@ -47,6 +48,7 @@ The provenance rounds established facts about how the corpus was made. Four of t
 - [[the earliest chapter was written in a voice distilled from the first fifteen poems]] — what the craft rule is actually reading when it reads the high-water voice: a specification the author wrote from his own poems and then wrote through, rather than a style that emerged.
 - [[flourishing flow and facilitation converged on one stance in the author's own record]] — the count-once rule extended from documents to domains, since three of the author's chosen fields converging shows the coherence of his attention rather than a law of the fields.
 - [[the making of the book enacts the law the book states]] — the limit case of the scope rule, and the one the vault sits inside: a law appearing in its own production history shows consistency of the maker, not truth of the law.
+- [[the company's refusals converge unsought where its agreements were assembled]] — the refinement of the selection caveat the making established, since the artifact-of-gathering rule reaches the company's assembled agreements and never its refusals, which arrived against the gatherer's own interest.
 
 ### What the lineage sort and the two syntheses added to the rules
 

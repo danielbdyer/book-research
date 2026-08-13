@@ -23,6 +23,7 @@ The reclaimed word does structural work: the corpus treats the movement it names
 ---
 
 Relevant Notes:
+- [[the book reads deep change as uncovering rather than addition]] — the book-wide privative move this reclamation is the third instance of, the concealed becoming visible read as an un-covering
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the two older names for the same movement
 - [[the tuesday is the temple]] — the commitment that keeps the movement in ordinary life
 - [[martin heidegger]] — the chair that supplies the book's central verb and declines this word's soul-half as ontotheology
