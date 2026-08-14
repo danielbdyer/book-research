@@ -21,6 +21,7 @@ Relevant Notes:
 - [[every discrimination the molecule formulas are credited with is made by the prose beside them]] — the notation the racket sits outside, being a presence that pays rather than an absence to supply
 - [[werner erhard]] — the thinker whose room donates this diagnostic, seated for the mechanism it belongs to
 - [[gregory bateson]] — evaluated candidate; his double bind supplies the history this diagnostic lacks, and turns a payoff into the only move that was available
+- [[the attention economy runs on manufactured insufficiency]] — the same structure externalized to a system, named in the 2026-08-13 reframe conversation: the attention economy pays a salary to insufficiency, "you are not yet sufficient; therefore consume more" — a fixed payoff sustaining a fixed complaint at civilizational scale
 
 Topics:
 - [[contraction-not-corruption]]

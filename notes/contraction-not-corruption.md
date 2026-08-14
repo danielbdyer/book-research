@@ -15,6 +15,7 @@ The formulas below are the book's canonical examples. Each is a separate claim b
 - [[suffering is contraction never corruption]] — the master doctrine and its lineage
 - [[the transformation field divides into five theories of where suffering lives]] — the contemporary field's five answers to the question this map's doctrine answers, kept in disagreement
 - [[the diagnosis contains the cure]] — the Privation Principle, which the book calls its signature move
+- [[self-facilitation begins from what is happening rather than from what is wrong with the self]] — the doctrine as a starting posture: opening from what is present rather than from what is wrong restates "nothing in you is broken" as the first move of the inward practice, so the self is met rather than corrected
 - [[four molecule names stand in the poems as poem words with their contents]] — the catalogue's vocabulary as the poet's first, with the common-word caution attached
 - [[the offered menu is precision that costs dignity or dignity that costs precision]] — the two failed vocabularies whose menu the doctrine's precision refuses
 - [[burnout is obligation minus sanctuary]] — the formula that reverses the standard prescription for burnout
@@ -64,9 +65,29 @@ This concern borders [[container-anatomy]], because the privations are that anat
 - [[the compound diagnoses may relocate a structural condition inside a person]] — the tension it answers, now treated rather than live.
 - [[the primary layer states its own limit on atomization]] — the poems' prior ruling on how far decomposition may go: elements keep their matter, and an equation may work out without a solution
 
+## The reframe conversation: contraction revalued, and the pulse's second lung
+
+The reframe conversation of 2026-08-13 read the same Sanskrit term this map's doctrine turns on, saṅkoca, a second way: a contraction is also a bounded vantage, and a bounded vantage is generative precisely because it is not everything. The reading is recorded as the book's own revaluation and not as agreement with the source tradition, which predominantly reads saṅkoca as bondage — the departure is kept so the productive reading is never cited as tradition-support (the reconciliation register, Fork 9).
+
+- [[contraction is a productive locus and not only a privation]] — the map's doctrine turned on its axis: the narrowing that suffering-as-contraction reads as folded fullness is read here as a generative standpoint, the same term carrying both a wound and a vantage.
+- [[suffering is contraction that has forgotten it is a locus and a tradition is contraction that remembers]] — the hinge between the two readings, which locates the pathology in the forgetting rather than in the narrowing: a contraction becomes suffering when it takes itself for the whole and stays a tradition when it remembers it is one bounded vantage among others.
+- [[constraint produces fluency and deprivation reveals the essential]] — the author's own lifelong design intuition standing under the revaluation: a bounded vantage is generative, and a style is recognizable by what it excludes, so deprivation reveals rather than only lacks.
+- [[the productive reading of contraction is the book's revaluation rather than the tradition's doctrine]] — the honesty guard on the whole revaluation, kept as a live tension: the productive reading departs from classical Trika's bondage doctrine and is owned as the book's move rather than presented as convergence.
+
+The pulse the doctrine names gains the counter-movement the vault had never recorded.
+
+- [[the pulse of experience moves through contraction and expansion]] — contraction placed as one lung of a two-stroke pulse whose other stroke is expansion, so the doctrine holds a rhythm rather than a single contracting motion.
+- [[the catch is the pulse felt as sheer aliveness]] — that pulse met in the body: the arrest before a sneeze or a mountain, contraction and expansion felt as sheer aliveness rather than as suffering.
+- [[conspire means to breathe together]] — the pulse's breath carried into company: to conspire once meant to breathe together, the contraction-and-expansion rhythm exercised with others rather than alone.
+
+Sufficiency joins the catalogue as a privation, and its manufactured opposite names the doctrine at civilizational scale.
+
+- [[sufficiency is the capacity to remain present without needing the next input to complete oneself]] — a fourth canonical instance of the privative grammar: a suffering-state named by the fullness it lacks, so the cure uncovers a sufficiency already present rather than adding one.
+- [[the attention economy runs on manufactured insufficiency]] — the contraction doctrine read at the scale of a market: an engine that manufactures the felt lack it then sells relief for, the racket with an industry behind it.
+
 ## What remains
 
-The molecule catalogue (atlas §IV lists eight families and roughly fifty compounds; the book curates about fifteen) is unextracted beyond the four canonical formulas and the foreclosure case. The abridged edition states a further set of formulas in its own prose — Sanctuary, Obligation, Possibility, Stagnation, and the relational compounds of `abridged ch8` — and extracting them alongside atlas §IV would establish whether the two sources' catalogues agree. The space-around survey identifies Aristotle's steresis as the doctrine's classical ancestor, and notes the objection that ancestry carries: privation theory has always been accused of under-describing suffering that is a presence to be borne rather than an absence to be filled. The ancestry now has its evaluation at [[aristotle on privation]], which carries that affliction objection and a reading still to do; the sharpened question sits in the privation tier of `ops/reading queue.md`.
+The molecule catalogue (atlas §IV lists eight families and roughly fifty compounds; the book curates about fifteen) is unextracted beyond the four canonical formulas and the foreclosure case. The abridged edition states a further set of formulas in its own prose — Sanctuary, Obligation, Possibility, Stagnation, and the relational compounds of `abridged ch8` — and extracting them alongside atlas §IV would establish whether the two sources' catalogues agree. The space-around survey identifies Aristotle's steresis as the doctrine's classical ancestor, and notes the objection that ancestry carries: privation theory has always been accused of under-describing suffering that is a presence to be borne rather than an absence to be filled. The ancestry now has its evaluation at [[aristotle on privation]], which carries that affliction objection and a reading still to do; the sharpened question sits in the privation tier of `ops/reading queue.md`. The reframe conversation of 2026-08-13 opened two threads this map now holds. Its productive-locus revaluation of saṅkoca departs from classical Trika's bondage reading, and the vault holds no primary reading of the classical side, so the departure at [[the productive reading of contraction is the book's revaluation rather than the tradition's doctrine]] rests on a reading still to do before it can be stated with its exact citations. Its naming of the expansion stroke (vikāsa) gave the pulse a second lung, but only the doctrine is recorded; whether the expansion movement carries a practice or a curriculum of its own is unextracted, and the demoted-scaffolding rule of [[the system is scaffolding rather than the centerpiece]] governs how far any such apparatus may be built.
 
 ---
 

@@ -17,6 +17,7 @@ The corpus records a structural echo it counts as evidence: Jessica Benjamin def
 - First-telling, "The practice": the two directions of the posture (toward oneself, toward another) and the representative image.
 - Atlas §VII.1 marks the echo with its isomorph notation: Benjamin's rupture-and-repair as "the same law at relational scale."
 - The space-around survey supplies the classical context: the wu wei literature on the paradox of trying to be effortless, in which the corpus's move (defining the practice as return rather than maintenance) is a recognized position; and Wegner's ironic-process research, which explains mechanically why maintenance fails. The wu wei material is now carried at [[unrelated traditions converge on presence without agenda while remaining available to act]]; Wegner remains on the pending-evaluation list in `ops/queue/candidates.md`.
+- The 2026-08-13 reframe conversation restates the same point-of-return definition in the vocabulary of self-facilitation: one does not graduate from self-facilitation, and what the practice builds is the capacity to return rather than a state to be maintained (reframe conversation, 2026-08-13).
 
 ---
 

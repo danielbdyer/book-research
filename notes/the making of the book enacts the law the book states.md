@@ -32,6 +32,7 @@ Relevant Notes:
 - [[the perfectible conversation is the manuscript's most comfortable room]] — the kept counterface: the room that makes is the room that defers
 - [[the book can only be auxiliary to a sovereign reader]] — the instrument's own account of the arrangement this note documents from the author's side
 - [[structure-preserving transformation is a method-bearing claim rather than a directional one]] — the container-builder's method stated from outside the project
+- [[the book cannot be an argument for participatory authorship if its own creation is fundamentally non-participatory]] — the reflexive stake the 2026-08-13 reframe conversation adds: were the making non-participatory, the book's own argument for participatory authorship would fail, so the enactment recorded here is a condition of the argument's honesty rather than only its biography
 
 Topics:
 - [[book-structure]]

@@ -29,6 +29,7 @@ Relevant Notes:
 - [[the figures precede the system by a year and the two were welded together later]] — the wall this opens by one layer, for one figure
 - [[a witness kept as proof forecloses what it proves]] — the structure the thread's re-owning resolved, stated as a claim
 - [[the founding inversion restates the author's own sufficiency inheritance]] — the sibling inheritance, whose custodian era this figure's history is the image of
+- [[patriotism for oneself is the felt form of the auxiliary relation to a sovereign reader]] — the same re-owning as a present relational law, welded here in the 2026-08-13 reframe conversation: one person's participation makes it more possible for the other to belong to themselves, which is the gold thread's transfer — continuity first held in a beloved's attention, then owned as one's own — stated forward in a living bond
 
 Topics:
 - [[book-structure]]

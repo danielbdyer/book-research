@@ -220,6 +220,26 @@ Three more, 2026-08-05, from the author's request and from two research synthese
 - [[a large change in evaluation can happen without being experienced as change]] — the other half of that same reading, which does reach the narrowed standard, since evaluations that had moved sharply were reported as never having moved.
 - [[the case against introspection is strongest where the book's standard stands]] — what the seated adversary Schwitzgebel holds once read whole: he builds the case on bodily and emotional experience and refuses the present-tense exemption, landing the attack where the standard stands.
 
+### The reframe conversation's additions to the company
+
+The reframe conversation of 2026-08-13 contributed a candidate primary read, a chair the same lens brings into focus, an organizing lens over the discipline axis, and two strains about how the company is assembled and seated. Every one is candidate; the seatings are the author's.
+
+Two chairs the four-root lens brings into focus:
+
+- [[john vervaeke]] — candidate, load thesis-bearing: relevance realization is the book's account of the engine of meaning, which nothing else in the roster carries, and his independent-arrival and adversary-edge functions are written into the note's prose because the single-value load field holds only the thesis. The first-class primary reading is undone and is the highest-value new read the harvest names.
+- [[maurice merleau-ponty]] — candidate, load independent-arrival: the Western philosopher of the lived body who stands beside Gendlin as the philosophical witness to embodiment-as-knowing, re-filed from the clearing onto the phenomenology ground and read 2026-08-10, whom the four-root lens brings into focus here as the chair that fills the empty phenomenology root.
+
+The organizing lens, held over the discipline axis rather than as a taxonomy:
+
+- [[the four ontological roots organize the interlocutors by trained way of seeing]] — the reframe's four ways-in (cognitive science, recognition, phenomenology, dialogical inquiry) held as a lens over the existing `discipline:` axis rather than as a fifth taxonomy, which is why it moves no chair; its named-but-empty phenomenology root is the reading question that surfaces Merleau-Ponty and Henry.
+- [[wilber's four quadrants are a coordinate system, not an architecture]] — the companion lens held the same way, a coordinate system that says where inquiry looks rather than an architecture that says what exists, which keeps the book's model from depending on Wilber even as he stays seated among the precedents.
+- [[a tradition is a cultivated locus of recognition — a trained way of noticing — not merely doctrine]] — the sense of "trained way of seeing" the roots-lens sorts the company by, which makes a tradition a locus one enters by learning its noticing rather than a body of doctrine one adopts.
+
+Two strains about the company's assembly, carried in full in [[tensions]]:
+
+- [[curating traditions for their overlap manufactures the unanimity it then reports]] — the selection-artifact tension at the reframe's scale, the gathering of traditions for one shared property that then reports the property as discovery, which is the same caution this map already carries at [[the unanimity claim is an artifact of how the lineages were selected]].
+- [[the sovereign reader's individualism may evade the question of power]] — the tension that seats Freire and hooks where the book's non-appropriation ethic becomes politically serious, pressing whether the sovereignty doctrine answers the epistemic question of who names reality while leaving the structural question of who holds power untouched.
+
 ## Roster recorded in the corpus
 
 Notes are created for these thinkers when existing or new claims need them; until then this roster locates them, one line per seat, with the corpus's counts.
@@ -246,6 +266,8 @@ This map is fed by [[research-frontier]], which holds the evaluation queue. It b
 ## What remains
 
 The nearest work is the author's: the evaluations carry recommendations and await his seating decisions, which the vault cannot make — thirty-eight when `scripts/queries/candidate-seats.sh` last counted, plus the generative-pass round's two (James and Kornfield), rejoined in the merge of 2026-08-06. The instrument's counterweights are no longer the open member they were: the sourcing landed 2026-08-04 (the fluency catalogue, the interoception dissociation, and the defense found in Gendlin's own philosophy), and the reading program has since delivered the first two entries of its standard's-defense tier, Nisbett and Wilson 1977 and Schwitzgebel 2008, both read whole on 2026-08-07 with their records in `archive/`; *A Process Model* is still unread. Beyond those, roughly ninety-six unevaluated candidates are enumerated in `ops/queue/candidates.md`, which is deliberately long — the field, not the task. The author reaffirmed that length on 2026-08-07 by reversing a cut he had asked for the same day, wanting the list kept whole as a high-level survey he can commingle claims from; fifty-six of its entries now carry a note recording what that day's pass found about them, and those notes decide nothing. The roster above names about a hundred seated thinkers and works; they get notes when a claim needs them, because creating them all at once would add volume without use.
+
+The reframe conversation of 2026-08-13 added two candidate chairs and an organizing lens, and their seatings are the author's as the rest are. John Vervaeke enters thesis-bearing on the meaning question with the first-class primary reading still to do, the highest-value new read the harvest names; Maurice Merleau-Ponty enters independent-arrival on the lived body, his reading already done and his seat awaiting the author. The four-root lens they arrive with is held over the `discipline:` axis rather than as a taxonomy, and it turns two roots into reading questions: phenomenology (Root C) now holds Heidegger and Merleau-Ponty with Michel Henry queued, while dialogical inquiry (Root D) is the one root the discipline axis does not cleanly hold, so whether the schema gains a dialogical or practitioner-pedagogy column is a question for a /rethink pass rather than a seating. The addition also sharpens the map-size signal recorded below, since another subsection of list entries lands on the largest map in the vault, which is one more reason the split a /rethink pass would decide is overdue.
 
 Two seats the evaluations found rather than filled. The material voice is the only position in the whole roster carried anonymously, and [[hartmut rosa]] is a working sociologist whose central object is exactly the grid it names. Lisa Feldman Barrett is the standing counterweight to [[karla mclaren]]'s messenger model and is on the pending list; the question her research puts to the roster — are the messengers found or made — is recorded in [[open-questions]].
 

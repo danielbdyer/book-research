@@ -23,6 +23,7 @@ Relevant Notes:
 - [[the field between two people does work]] — the positive claim about what participation makes possible
 - [[the book performs what it describes]] — the design law that turns this rule into structure
 - [[transformation is enacted participation inside a held container]] — the same law in its positive form, and reached by five further lineages beyond the one recorded here
+- [[the book must respect that it cannot verify the reader has done the work]] — the author's restatement in the 2026-08-13 reframe conversation: the book cannot verify the reader did the work, and that unverifiability is exactly what the law here obliges it to respect
 
 Topics:
 - [[relational-field]]

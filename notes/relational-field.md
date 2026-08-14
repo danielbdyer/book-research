@@ -87,9 +87,94 @@ The clearing's blind spot for the non-human — the more-than-human that takes p
 - [[buber's tree extends the i-thou relation past the human]] — the unmined half of the seated thinker whose I-Thou already carries the field's ontology, the hedge now verbatim (a Thou without a mind: "neither the soul of a tree nor a dryad, but the tree itself")
 - [[abram's more-than-human makes the animate world a participant in the inner life]] — the independent arrival confirmed in Abram's and Kimmerer's own words ("we are human only in contact… with what is not human"; "these beings are not 'it,' they are our relatives"), a name the corpus already carries
 
+## The reframe conversation: sovereignty, facilitation, and participation
+
+The reframe conversation of 2026-08-13 read the whole book as an act of facilitation and split it into a book of the field between people and a book of the self, making sovereignty — a person keeping authorship of their own becoming while being genuinely changed — the hinge of both. The layer's coinages, sovereign intimacy, participatory stewardship, the locus of inquiry, facilitation as a technology of relationship, are attributed to the conversation once and held as candidates under the vault's naming policy, the concern each marks stated plainly here. The notes below are the part of that layer that declares this map, grouped by theme.
+
+### Sovereignty as a quality of relationship
+
+The reframe's central move on this map recasts sovereignty from the opposite of relation into a way of being in it, which is what lets a person enter the field without surrendering their standpoint.
+
+- [[sovereignty is a quality of relationship, not the opposite of it]] — the move itself: sovereignty is a mode of relating rather than a withdrawal from relation, so the field can be entered without giving up one's locus of participation.
+- [[sovereignty is authorship preserved within relationship, not control over reality]] — the definition this map's deepest-claim tension turns on, since a reader stays the author of their own becoming while being genuinely changed by the field rather than immune to it.
+- [[sovereignty is participation in what the system means, not control over the system]] — the distinction that lets a person delegate much of the work and stay sovereign, or do everything and lose it, because sovereignty is located in meaning rather than in command.
+- [[sovereignty occupies the middle between everything happens to me and everything is my responsibility]] — sovereignty placed between passivity and over-responsibility, keeping authorship of how one meets the field rather than either suffering it or owning all of it.
+- [[relationship can increase sovereignty rather than consume it]] — the field held to be positive-sum for agency: good participation enlarges a person's capacity to belong to themselves instead of spending it, which is the healthy face of the Third Entity claim.
+- [[sovereign intimacy names intimacy without surrender of authorship]] — the reframe's candidate name for the field's healthy maximum in the domain of closeness: intimacy that keeps the point a person participates from.
+- [[the deepest question is whether i can be deeply influenced without becoming dispossessed of myself]] — this map's exposed-flank tension stated in the first person, the author's own framing of the sovereign-field problem.
+- [[the master question is the conditions under which a person remains the author of what they become while being genuinely changed]] — the organizing question the whole reframe hangs on, word-for-word continuous with the book's auxiliary-to-a-sovereign-reader doctrine.
+- [[the locus of control is better named the locus of inquiry]] — the author's recasting of the standpoint from a claim about who controls reality into a question about where one participates from and what that place makes possible.
+- [[participation is not sovereignty, influence is not authorship, information is not recognition]] — the three-register distinction that keeps the field's work from being mistaken for control, authorship, or knowledge that a person did not participate in.
+- [[the same technology can amplify sovereignty or erode it depending on the locus from which it is used]] — sovereignty set by the standpoint rather than the instrument, so the field's outcome turns on the locus a person occupies and not on the tool they hold.
+- [[patriotism for oneself is the felt form of the auxiliary relation to a sovereign reader]] — the felt source of the whole doctrine, from a first love's letter: a love that makes the beloved more themselves, the field increasing sovereignty at the scale of two people.
+- [[conspire means to breathe together]] — the image beneath sovereignty-in-company: to conspire once meant to breathe together, the field's positive-sum relation carried as shared breath rather than isolation.
+- [[the sovereign reader's individualism may evade the question of power]] — the political blade against the doctrine, kept as a live tension: borrowing "colonize" from a liberation politics while applying it to inner experience may sidestep who holds the power to name reality.
+
+### Facilitation as a technology of relationship
+
+The reframe's book of the field specifies the craft of holding one, and builds the sovereignty guard into the craft.
+
+- [[facilitation is a technology of relationship whose success is increased capacity for participation, not efficient production of an output]] — the book of the field's core: the field can be tended as a craft, measured by a participant's enlarged capacity rather than by an output produced.
+- [[facilitation is stewardship of conditions]] — the helper's honest maximum, which is this map's non-causal law on the facilitator's side: one claims to have helped make a field in which something became possible, never to have caused the transformation.
+- [[the facilitator disappears, success is increasing the other's capacity to facilitate themselves]] — the book of the field's endpoint and the hinge into the book of the self, since the field succeeds by making the one who holds it less necessary.
+- [[the facilitator is an instrument in the field, so self-awareness is professional competence]] — the helper's own nervous system read as part of the field, which turns self-awareness from private development into a competence the work requires.
+- [[the facilitator must become facilitable, permeability without loss of sovereignty]] — the facilitator held to the same sovereign-field standard as the participant: permeable enough to be changed, sovereign enough not to dissolve.
+- [[the more powerful the facilitator becomes, the more important sovereignty becomes]] — the field's danger scaling with the helper's skill, so greater power to read and frame a person raises the duty to protect that person's authorship rather than lowering it.
+- [[the other is not your project]] — the field's first ethical declaration, which the Third Entity's mutuality requires: another's interiority cannot be made the helper's validation, transformation project, or proof of theory.
+- [[there is no empty room, the facilitator is inside the field, not outside]] — the field held to be always already present and always inclusive of the helper, so there is no neutral position from which to work on it.
+- [[attention is contagious, making it one of the facilitator's most powerful interventions]] — what the helper attends to shaping what the participant attends to, which makes directed attention an intervention in the field and an ethic of its own.
+- [[creating space is a condition, not an absence]] — the field's most skillful move looking like doing the least, because space is an active condition the helper makes rather than a gap they leave.
+- [[reflection that returns authorship differs from reflection that takes it]] — the field's participation law at the level of a sentence: an offering hands authorship back where a declarative naming can take it.
+- [[technique without ontology becomes manipulation]] — technique admitted only after the field's ethics are set, or it degrades into working on a person rather than with them.
+- [[the question is not how to avoid influence but how to influence without appropriating]] — the workable form of the field's ethical problem, replacing the impossible demand that a helper somehow not influence.
+- [[the facilitator can supply meaning where the participant might have discovered it, so do not solve what the participant has not yet had the opportunity to encounter]] — the non-appropriation constraint at its sharpest, since solving too early takes the discovery the field existed to make possible.
+- [[the facilitator tends conditions under which recognition might occur rather than transmitting a destination]] — the field's non-causal law again: the helper arranges the circumstances in which something may be recognized rather than handing over a fixed conclusion.
+- [[clean language is either a practicable non-appropriation method or a scripted technique]] — the open tension over whether Grove's method operationalizes the field's refusal to colonize a participant's experience or sits one step from the technique-first mechanization the book forbids.
+
+### The field turned inward
+
+The reframe's book of the self carries the same sovereign-field standard inside a single person.
+
+- [[self-facilitation requires facilitating oneself without becoming controller or captive]] — the book of the field's standard turned inward: holding one's own field without seizing command over it or being taken captive by whatever arises.
+- [[knowing oneself is not identical to being in relationship with oneself]] — the field applied to the self, distinguishing self-relationship as ongoing participatory contact from the mere possession of accurate self-information.
+
+### Participation, delegation, and the machine
+
+The reframe's account of what participation is worth, and what happens to it when the work can be handed to a machine.
+
+- [[participatory stewardship is the capacity beneath both books]] — the reframe's candidate name for the one capacity the field asks of everyone in it: staying authorially present while participating in a reality one does not control.
+- [[the value of participation lies not in the output but in what it does to the participant]] — the field's worth located in what taking part does to the one taking part rather than in the artifact produced, which is why the meaningful part cannot be delegated whole.
+- [[the process is part of the product when it changes the participant]] — the mechanism beneath that worth: where an act changes the actor, the process cannot be separated from the product, so delegating it keeps the artifact and removes the transformation.
+- [[delegation can deepen participation or destroy it]] — delegation held as the middle term between consumption and participation, able to free a person for the meaningful part or to take that part away.
+- [[delegating production differs from delegating exploration, so each step should require fresh meaning-making]] — the author's own line on where delegation is safe: exploration can be shared, but the articulation where authorship happens must be remade afresh each step.
+- [[delegation now reaches into domains constitutive of personhood]] — the book's answer to why now: delegation has reached the activities that constitute a person, which makes the field's participation law newly urgent.
+- [[information about an experience is not participation in the experience]] — the limit that keeps a research corpus from standing in for the author, since a representation of an experience is never participation in it.
+- [[the deepest danger is not AI's intelligence but humans outsourcing the activities through which they experience themselves as agents]] — the field's participation law stated as a warning, relocating the machine's danger from its intelligence onto a human habit of outsourcing self-constituting acts.
+- [[AI is neither master, servant, replacement, nor oracle but interlocutor]] — the machine placed as one participant inside the field rather than outside it, so what emerges turns on the quality of the relationship and not on the tool.
+- [[the ecology itself can become intelligent]] — intelligence read as emerging between participants, which widens the Third Entity claim to hold that the field, including a machine, can carry an intelligence irreducible to either party.
+- [[build technologies that increase capacity to participate rather than maximize dependence]] — the design ethic the field's participation law implies for what gets built.
+- [[every technology is evaluable by whether it increases or decreases capacity to participate]] — the single ecological test the field yields for any instrument, held to be temporal and contextual rather than binary.
+- [[technology increasingly participates in constructing the conditions under which we participate]] — technology read as a participant that shapes what a person notices, desires, fears, and values, which makes it a member of the field rather than a neutral tool.
+
+### The book's own participatory law
+
+The reframe holds the book to the field it describes, on the making side and the reading side.
+
+- [[the author is the first participant and must undergo the transformation the book asks of the reader]] — the field's law applied to the making: the author cannot stand above the work as its expert but is its first participant, continually undergoing what it asks.
+- [[the book must respect that it cannot verify the reader has done the work]] — the field's un-verifiability made central, since the book cannot confirm the reader participated, and honoring that limit is part of the doctrine rather than a defect to overcome.
+- [[the reader becomes author of what happens in their encounter with the text, not co-author of the text]] — the field between book and reader specified: the reader authors their own encounter, which keeps the author's responsibility for the word and the reader's sovereignty over the reading both intact.
+- [[the system exists to help the author remain in relationship with the inquiry]] — the research apparatus subordinated to the field, its purpose held to be keeping the author participating in the inquiry rather than storing, automating, or perfecting it.
+- [[the vault-and-AI architecture had unmoored the author from the practice of experiencing the book — a delegated practice that doesn't scratch the itch]] — the diagnostic case that produced the whole reframe: a delegated practice that removed the author from the very field the book is about.
+
+### Open questions the field holds
+
+- [[which forms of participation should be delegated and which should remain deliberately lived]] — the field's standing question once an external system can remember, synthesize, interpret, and converse in a person's place.
+- [[which interaction patterns make intelligence amplification increase agency rather than decrease it]] — the field's design question, locating the difference in the relationship rather than in the technology.
+- [[which relationships reliably increase the capacity to participate]] — the field's oldest open question recast, asking which relationships increase a person's capacity to take part rather than only their aliveness.
+
 ## What remains
 
-The space-around survey proposes the strongest evidence and the strongest objections for this map: Tronick's still-face experiment (evidence), Levinas's asymmetry (an objection to the mutuality framing), Merleau-Ponty's intercorporeality, Collins's interaction ritual chains, and the warning that witnessing can shade into consumption — all still unresearched on the pending-evaluation list in `ops/queue/candidates.md`, which is deliberately long. One thing has changed about the first of them without removing it. The alliance meta-analysis of Flückiger, Del Re, Wampold and Horvath, read whole on 2026-08-07 across 295 studies and more than thirty thousand patients, is now the largest measured support this map's central claim has ([[the participation law has measured support at a scale nothing else in the book approaches]]), so Tronick would add a second and smaller measurement rather than the map's first. The Ubuntu tradition has left that list: its evaluation stands at [[ubuntu personhood]] in this map's mechanism section, with the primary reading undone. The consumption warning is this map's nearest counterweight, since [[a witness kept as proof forecloses what it proves]] already states its shadow from the author's own record.
+The space-around survey proposes the strongest evidence and the strongest objections for this map: Tronick's still-face experiment (evidence), Levinas's asymmetry (an objection to the mutuality framing), Merleau-Ponty's intercorporeality, Collins's interaction ritual chains, and the warning that witnessing can shade into consumption — all still unresearched on the pending-evaluation list in `ops/queue/candidates.md`, which is deliberately long. One thing has changed about the first of them without removing it. The alliance meta-analysis of Flückiger, Del Re, Wampold and Horvath, read whole on 2026-08-07 across 295 studies and more than thirty thousand patients, is now the largest measured support this map's central claim has ([[the participation law has measured support at a scale nothing else in the book approaches]]), so Tronick would add a second and smaller measurement rather than the map's first. The Ubuntu tradition has left that list: its evaluation stands at [[ubuntu personhood]] in this map's mechanism section, with the primary reading undone. The consumption warning is this map's nearest counterweight, since [[a witness kept as proof forecloses what it proves]] already states its shadow from the author's own record. The reframe conversation of 2026-08-13 roughly tripled this map's claim list and added a body it did not hold before: a craft of facilitation, with its own ethics of attention, space, and non-appropriation, that a book of the field would build on. That craft currently asserts its moves without a mechanism, which is the same gap [[salvador minuchin]] was drawn in to close, so his reading and the Clean Language tension at [[clean language is either a practicable non-appropriation method or a scripted technique]] now bear on a larger surface than before. The reframe's coinages — sovereign intimacy, participatory stewardship, the locus of inquiry — remain candidates whose forks sit unadjudicated in the reconciliation register, and the enlarged list has passed the size at which the doctrine directs a map to divide, so a /rethink split within this map's section structure, most naturally along the seam between the Third Entity core and the book of the field's facilitation craft, is the likely next structural move.
 
 ---
 

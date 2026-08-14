@@ -61,6 +61,30 @@ Six findings from that day are about how the vault works rather than about what 
 - [[the drive to closure has measurable costs]] — the warrant beneath rule 4, and the criterion that separates a disciplined open tension from a romantic one: naming what would close it.
 - [[the book can only be auxiliary to a sovereign reader]] — the book's claim about instruments, which a paper on how this vault's two parties transact reaches independently from analytic philosophy of mind, with no contact with the letter's grammar the book's version rests on.
 
+### What the reframe conversation added to the rules
+
+The reframe conversation of 2026-08-13 pressed on the same rules, and its contributions divide in two: a sharpening of how the vault handles convergence and difference, and the author's own account of what the system is for, delivered with a diagnosis of how it had failed him.
+
+The comparative method, sharpened:
+
+- [[the comparative method does not collapse a correspondence before its difference is understood]] — the reframe's statement of the method the vault already runs as the both-halves rule, refusing to read a correspondence as sameness until the difference is understood and kept.
+- [[the remainder that resists synthesis is often where the deepest insight lives]] — the addition to that method, that what does not reduce after a domain is mapped is treated as information rather than as failure, the clearing's remainder seen from the method side.
+- [[polyphony holds perspectives as genuinely distinct rather than merely equally valid]] — the guard against reading the ecology of loci as relativism, holding standpoints as disclosing different real dimensions rather than as equally valid, which is what keeps convergence from flattening into agreement.
+- [[traditions are historically accumulated experiments in participation]] — the front side of rule 1's admission standard applied to a tradition, holding it as evidence to weigh rather than an authority to inherit, the accumulated record of what a trained way of seeing has found.
+- [[curating traditions for their overlap manufactures the unanimity it then reports]] — the selection-artifact guard restated for the reframe's own gathering, the caution rule 2's provenance discipline exists to carry; listed in full in [[tensions]].
+- [[a framework is transformed by what its own encounters disclose]] — the candidate master axiom of the whole conversation, the reflexive rule the vault enacted on itself on 2026-08-09 before it was named, held plural rather than declared final.
+
+The system's purpose, and the failure the author diagnosed:
+
+- [[the system exists to help the author remain in relationship with the inquiry]] — the reframe's statement of what the vault is for, the output rule read from the author's side: not storing everything, automating writing, or perfecting the ontology, but keeping him in relationship with the inquiry.
+- [[the vault-and-AI architecture had unmoored the author from the practice of experiencing the book — a delegated practice that doesn't scratch the itch]] — the author's own diagnosis, held delicately, that building the vault with a model had displaced the lived writing; the highest-value diagnostic the harvest names, and the case the output rule exists to catch, now recorded in his words rather than inferred.
+- [[the direction must remain life → corpus → book, never corpus → book → life]] — the central prescription against that failure, forbidding the reverse flow in which a person lives in order to populate the system.
+- [[the ontology is musical notation not the music]] — the design-restraint form of the same prescription, keeping the record minimal enough to preserve lived inquiry and disappearing whenever it draws more attention than the participation it serves.
+- [[without an authorial center the corpus is a knowledge graph; with one it becomes a work]] — the reason the vault has an owner and not only an ontology, the locus of selection and responsibility the scope rule presupposes.
+- [[nothing becomes part of the author's philosophy merely because the AI said it]] — the provenance rule at the scale of the collaboration, that a model's utterance enters the philosophy only through a further act of encounter, discernment, or verification.
+- [[the book cannot be an argument for participatory authorship if its own creation is fundamentally non-participatory]] — the reflexive constraint on the vault's own use, that the medium of the making must instantiate the message the book argues.
+- [[how much ontology preserves the ecology without killing the pulse]] — the open design question beneath all of these, how much fixed structure the record can carry while keeping the inquiry alive, answerable only as a proportion; carried as a question in [[open-questions]].
+
 ## Nascent stubs
 
 A claim may be recorded before it is substantiated, carrying `state: nascent`, when the corpus names a territory it never develops. The stub is a seed, not an analysis: it states the proposition the source's gesture asserts, the strongest fact the corpus supplies, and the nearest held material, and the state field carries the signal that the vault does not yet hold the proposition.
@@ -125,6 +149,8 @@ The pipeline has run one starter pass over the four descriptive sources and a fi
 A second round of the same work, with an addendum built on the author's own testimony, added two more and filled a nascent stub: [[the central correspondence was lived nine years before it was assembled]], [[the triad predates the author's contact with the tradition named the triad]], and [[an externalized system can be built to hold a self rather than only its information]]. Both rounds are cited in the same form.
 
 The provenance reconstruction changes what the vault can say about its own sources, and four claims now carry that: [[the unanimity claim is an artifact of how the lineages were selected]], [[the figures precede the system by a year and the two were welded together later]], [[the author curated and vetoed while the collaborator wrote the correspondences]], and [[a recorded reason drifts toward doctrine with distance from the decision]]. Its own gaps ledger names eight things its search could not reach and is the natural basis for a second request.
+
+The reframe conversation of 2026-08-13 touched the rules from two sides. It restated the comparative method and the selection-artifact guard the vault already runs, adding the remainder-as-information sharpening and the polyphony guard against reading the ecology of loci as relativism. And it gave the output and scope rules the author's own account of what the system is for — keeping him in relationship with the inquiry — delivered with a live diagnosis that the vault-and-AI architecture had displaced the writing it exists to serve, which is the failure mode rule 3 was written to catch, now recorded in the author's own words rather than inferred. The direction-of-flow prescription, life to corpus to book, is the rule that answers it; whether the vault adopts it as a stated rule or holds it as the author's diagnosis is his to decide.
 
 ---
 

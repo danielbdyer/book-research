@@ -39,6 +39,8 @@ Relevant Notes:
 - [[the third thing has a mechanism in participatory sense-making]] — the mechanism a person-and-instrument loop would run on, if it runs on one; the paper's own open frontier is whether such a loop makes sense jointly when only one party dwells
 - [[a framework for what is happening is itself a protective factor]] — what an auxiliary can honestly supply at the threshold: equipment rather than direction
 - [[the author is the book's first audience member and that is where the promise starts]] — the narrowed promise that fits inside this maximum where the older one did not
+- [[patriotism for oneself is the felt form of the auxiliary relation to a sovereign reader]] — the felt form of this maximum, welded in the 2026-08-13 reframe conversation to a decade-old letter's grammar: one person's participation makes it more possible for the other to belong to themselves, the auxiliary relation stated as a bond rather than a constraint
+- [[a framework that teaches its own exit relates to authority differently than one seeking permanence]] — the same maximum at the scale of the framework, from the same conversation: a framework that can teach a reader to leave it relates to authority differently than one asking to become a permanent operating system
 
 Topics:
 - [[relational-field]]

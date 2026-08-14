@@ -18,6 +18,7 @@ The law functions as the corpus's design test: the walked document reports that 
 - First-telling, "How it's built": "It doesn't explain transformation from the outside; it's constructed so that the experience of reading it is the process it describes — something to be undergone, not merely understood."
 - The eight-question chapter checklist (atlas §X.6g) operationalizes the law; its first question is "form enacts content?"
 - The law has an outside precedent a thousand years old, in the tradition the book's own foundation is built from. On David Peter Lawrence's reading, the recognition school's founding treatises are "both philosophical apologetics and spiritual exercise" — the argument is the vehicle of the recognition it argues for, so the text works the way this law says a book should ([[david peter lawrence]]). What the corpus states as a design decision was already a working practice in the tradition beneath it.
+- The 2026-08-13 reframe conversation turns this law reflexively on the book's own making: the book cannot be an argument for participatory authorship if its own creation is fundamentally non-participatory, a stake developed as its own claim at [[the book cannot be an argument for participatory authorship if its own creation is fundamentally non-participatory]] (reframe conversation, 2026-08-13). The same conversation states the law for the book's subject — the most faithful way to write a book about facilitation is to make the book itself an act of facilitation.
 
 ---
 

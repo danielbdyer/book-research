@@ -23,6 +23,7 @@ Relevant Notes:
 - [[the drafts execute one of the seven designed apparatus devices]] — the device list this instrument belongs to
 - [[the scheme's upper layers are one construction built on the container's three structures]] — the same habit at the scale of the title
 - [[ordinary names keep the deepest structures visible]] — the naming rule behind the habit
+- [[the pulse of experience moves through contraction and expansion]] — what the spanda the dial measures oscillates between, named in full by the 2026-08-13 reframe conversation: contraction and expansion (vikāsa), the expansion pole the vault had not previously named
 
 Topics:
 - [[book-structure]]

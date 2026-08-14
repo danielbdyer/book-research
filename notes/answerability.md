@@ -25,6 +25,7 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 - [[seventeen chapters rest at madhyama]] — the meta-tension: the manuscript's current state, and the pilot-chapter move
 - [[the book is written to the relational field and enacted upon the author first]] — the author's statement of the book's address, which moves what the unsent manuscript means without dissolving the tension: the enactment is already under way on its writer, and a word written to the field is still not a word spoken
 - [[the perfectible conversation is the manuscript's most comfortable room]] — where the perfectible word actually lives, and the exit already sized
+- [[the reframe conversation is itself a candidate perfectible room]] — the same tension caught in the act: the reframe produced five finished architectures on demand and left the pilot unsent, an instance of the madhyamā comfort this map warns of rather than a report about it
 - [[the whole arc has already been drafted once in prose]] — the fact that narrows that tension to its actual term, since a complete draft still rests at madhyamā
 - [[the drafts disagree about which person the book speaks in]] — the unsettled question of who the answerable speaker is
 - [[the drafts execute one of the seven designed apparatus devices]] — what a fully treated pilot chapter would actually have to build
@@ -53,9 +54,30 @@ This concern borders [[relational-field]], because answerability requires someon
 - [[the alliance holds its size when the exchange is mediated and written]] — the first measured evidence bearing on whether an asynchronous written exchange can carry a working relationship, which is what a letter is
 - [[the book asks only for attention until it has given the reader something to act with]] — the book's rule of practice pedagogy: it asks only for attention until the reader has a form to act with, then assigns a task at the two praxis units
 
+## The reframe conversation: the authority an answerable word claims
+
+The reframe conversation of 2026-08-13 restated the book as an act of facilitation and split it into a facilitators' book and a book of the self, and in doing so it named the kind of authority that makes a word answerable rather than final. The notes below are the part of that layer that declares this map.
+
+An answerable word rests on authority earned through participation, which is why it can be answered rather than only obeyed.
+
+- [[authority earned through participation differs from authority asserted through abstraction]] — the answerable word's ground: it earns its standing through encounter, discrimination, and stated provenance rather than by asserting finality, and only a word that does not claim finality can be answered.
+- [[Book I's authority comes from discernment and synthesis; Book II's from embodied realization]] — the two books stake their answerability on different grounds, so the facilitators' book must prove discernment across traditions while the book of the self must prove the questions were lived.
+- [[writing for facilitators dissolves the authority double-bind]] — addressing facilitators lets the first book hold authority and hand it back at once, escaping the bind in which a word claiming finality can no longer be answered.
+- [[a framework that teaches its own exit relates to authority differently than one seeking permanence]] — a framework written to be left relates to authority as an answerable word does: it expects a reply that ends it rather than a permanent readership.
+- [[a framework succeeds by increasing the diversity of authentic insights, not the uniformity of conclusions]] — the answerable word's success criterion, since a word offered to be answered is measured by the range of authentic answers it draws rather than by the single conclusion it settles.
+- [[a good question scales better than a good answer]] — the answerable-word doctrine stated as a scaling law: a question keeps being taken up while an answer is received once and closes, which is the reasoning beneath ending the book on a line written to be answered.
+
+The reader answers a text not by rewriting it but by authoring the encounter, which is where this map meets the relational field.
+
+- [[the book is the score not the performance]] — the answerable word cast as a score: the reader performs it rather than receives a conclusion, so the author's experience is offered as an example to interpret rather than a result to reproduce.
+- [[the reader becomes author of what happens in their encounter with the text, not co-author of the text]] — what answering a text actually is: the reader authors their own encounter, which keeps the author's responsibility for the word and the reader's sovereignty over the reading both intact.
+- [[patriotism for oneself is the felt form of the auxiliary relation to a sovereign reader]] — the felt source of the answerable relation, from a first love's letter: a word that makes the one addressed more themselves, which is what a word offered to be answered does.
+- [[a vocabulary can assist recognition but cannot own it]] — the limit on the answering word's authority: it can assist a reader's recognition but cannot own the meaning, so the answer stays the reader's.
+- [[knowing about is not knowing through — information can be transmitted, realization cannot]] — why a spoken word waits on the reader: it can transmit an account but not the realizing, so the answer the book expects is a knowing-through the text cannot perform in the reader's place.
+
 ## What remains
 
-This vault exists in service of this map: research that ripens toward the pilot chapter. The space-around survey proposes two additions bearing on this map, neither yet researched: Stanley Cavell's distinction between knowing and acknowledging (with the warning that a request for acknowledgment can be declined) and Kabir's corpus, which lived in breath and memory before it touched paper. Both are on the pending-evaluation list in `ops/queue/candidates.md`.
+This vault exists in service of this map: research that ripens toward the pilot chapter. The space-around survey proposes two additions bearing on this map, neither yet researched: Stanley Cavell's distinction between knowing and acknowledging (with the warning that a request for acknowledgment can be declined) and Kabir's corpus, which lived in breath and memory before it touched paper. Both are on the pending-evaluation list in `ops/queue/candidates.md`. The reframe conversation of 2026-08-13 opened one structural question this map now holds: the proposed split into a facilitators' book and a book of the self assigns the two books different grounds of authority, which the pilot chapter would have to make answerable in different ways, and the split is a candidate under the reconciliation register rather than a settled decision. The same conversation supplied its own instance of the map's central tension at [[the reframe conversation is itself a candidate perfectible room]], where a maximally responsive collaboration produced finished architectures and left the word at madhyamā.
 
 ---
 

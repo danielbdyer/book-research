@@ -1,7 +1,7 @@
 ---
 description: This note records the correspondence between the corpus's narrative vocabulary and the vault's denotative names; the correspondence is graph content, never metadata on the notes it decorates.
 category: image
-sources: ["atlas §0 and §XII", "walked, colophon", "space-around, method preamble"]
+sources: ["atlas §0 and §XII", "walked, colophon", "space-around, method preamble", "reframe conversation, 2026-08-13"]
 topics: ["[[methods]]", "[[index]]"]
 ---
 
@@ -37,6 +37,15 @@ One of the crosswalk's own terms has a prehistory outside the corpus. "Gravitati
 The atlas also uses a small notation set: ◉ marks a major mass, ⚡ a kept tension, ≈ an isomorph (the same structure in a different medium), ⊖ a privation (a diagnostic minus sign), ⟿ a feeds-into relation, and § a cross-link. The vault records these as tags in substantiation layers; the sentences around them state the relations in words. That standing is settled rather than drifting: the notation is recorded, not leaned on; the five revision relations deliberately take no glyph; and a glyph's absence from a note is compliance with the policy, not an omission. The decision is indexed in `ops/decisions.md` and its reasoning is in `ops/rethink-log.md`.
 
 Figures that are book content rather than vault vocabulary — the image system's paired equations (the House with No Ceiling, the Orchard, the Gold Thread, the Ink That Listens, the Engine, the Fruit That Falls, the Gatekeeper, the Tuning Fork) — become claims of category `image`. All twelve now have notes — the eight carried figures and the second edition's four additions (the Circle, the Messenger, the Racket, the Cusp) — listed together in [[book-structure]].
+
+The reframe conversation of 2026-08-13 opened a new surface for figures the vault already carries. Each figure below crosses to a note already on the graph, so the conversation's vocabulary is routed to an existing concern rather than admitted as new material.
+
+| Figure in the reframe conversation | Concern in the vault | Where the figure appears |
+|---|---|---|
+| AI as mirror and interlocutor | the account that calls a language model a violin rather than an oracle, carried in [[the book can only be auxiliary to a sovereign reader]], and [[the ink that listens is the relational field at the scale of a page]] — the instrument relocated from oracle to participant in the relational field | reframe conversation, 2026-08-13, line 9839 |
+| the Racket externalized | [[the racket is the attractor state with a salary]] — the fixed complaint with its fixed payoff, read here as the insufficiency that contemporary systems manufacture at scale | reframe conversation, 2026-08-13, line 8158 |
+| "you are already participating" | [[reading is remembering]] — the reclaimed-recognition doctrine, that the reader already does the thing and only the consciousness of it remains in question | reframe conversation, 2026-08-13, line 16070 |
+| the facilitator as instrument | [[the book is a tuning fork and the reader is the striking surface]] — the instrument in the field that stays silent until the reader strikes it | reframe conversation, 2026-08-13, line 15512 |
 
 ---
 

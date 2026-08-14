@@ -40,6 +40,8 @@ Relevant Notes:
 - [[the felt sense of truth has a documented counterfeit catalogue]] — the first limit's measured literature, with the teachability finding
 - [[attending to the body is not the same as reading it accurately]] — the second limit's measured literature, with the dissociation invisible from inside
 - [[zen's makyo instruction refuses the self-certifying experience]] — the refusal from inside the company, with the relational check installed in the experience's place
+- [[there are four kinds of knowing, and the felt shift lives at the edge of the participatory]] — the 2026-08-13 reframe conversation's broadening: Vervaeke's four kinds of knowing place the felt shift at the edge of participatory knowing, a location in an epistemology that the counterfeit confirmation cannot claim
+- [[the hollow interaction is illumination that cannot recognize itself]] — the counterfeit at conversational scale, from the same conversation: an interaction can be wholly fluent and completely non-generative, felt confirmation with no felt shift
 
 Topics:
 - [[tensions]]

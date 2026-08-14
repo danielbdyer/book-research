@@ -35,6 +35,7 @@ Relevant Notes:
 - [[douglas hofstadter]] — the instructive contrast: the same breadth, achieved by withholding the usable framework this book hands over
 - [[gurdjieff and ouspensky]] — the nearest structural ancestor, and the clearest record of authority a founder did not intend
 - [[mihaly csikszentmihalyi]] — the road not taken, and the only case on the bench that was absorbed rather than refused
+- [[wilber's four quadrants are a coordinate system, not an architecture]] — a partial defusing from the 2026-08-13 reframe conversation: read as a coordinate system answering "where are we looking?" rather than as an architecture, Wilber's AQAL functions as a method-exemplar and cautionary case rather than only as a prior attempt that failed
 
 Topics:
 - [[interlocutors]]

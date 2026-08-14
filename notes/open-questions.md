@@ -17,6 +17,22 @@ This map tracks questions the corpus keeps open on purpose. They are not gaps aw
 - [[the mythic operating system contents hold four territories the arc drops]] — the question of what the arc's compression cost, held open because the four dropped territories are recoverable and nothing in the sources decides whether any should return.
 - [[the earlier contents distribute transcendence where the arc concentrates a peak]] — the question of whether the book's central experience is staged as one event or held as a standing theme, on which the corpus's two arrangements disagree.
 
+## The questions the reframe conversation holds open
+
+Six questions arrived from the reframe conversation of 2026-08-13, each already carrying a claim note, and they fall into two families. Three are one question at three altitudes — how much fixed form a structure can hold before it determines what should stay open — which the author names "the question of my life" (reframe conversation, 2026-08-13, transcript line 1190). Three ask which relationships and which delegations keep a person participating rather than consuming, now that an external system can remember, synthesize, interpret, and converse in their place.
+
+The form-and-structure family, one shape at three scales:
+
+- [[how much form holds just enough that surprise can still happen]] — the question at its widest, the author's own, the balance between too little structure that collapses into chaos and too much that can no longer surprise; held here at the specificity the record supplies and not extended past it.
+- [[how much structure makes recognition possible without determining what is recognized]] — the same question at the scale of the book's design and its facilitation craft, binding constraint to the reader's freedom to recognize what the structure did not name.
+- [[how much ontology preserves the ecology without killing the pulse]] — the same question at the scale of the record itself, how much fixed structure the vault can carry while keeping the inquiry alive, answerable only as a proportion; it bears on the working rules as well and is glossed from that side in [[methods]].
+
+The participation-and-technology family, held open because the honest answer keeps moving:
+
+- [[which relationships reliably increase the capacity to participate]] — recast from "which relationships increase aliveness," a question the conversation expects could spiral for years without closing.
+- [[which forms of participation should be delegated and which should remain deliberately lived]] — the delegation line drawn where an external system can now stand in for a person's remembering, synthesizing, interpreting, and conversing.
+- [[which interaction patterns make intelligence amplification increase agency rather than decrease it]] — named a possible major contribution of the project, locating the difference in the relationship rather than in the technology.
+
 ## Standing questions without claims yet
 
 - Are emotions found or made? Lisa Feldman Barrett's constructionism and Karla McLaren's messenger model disagree, and the space-around survey suggests the book's chemistry can hold both positions (molecules are real and composed). If the author decides this disagreement belongs among the book's kept tensions, it gets a tension note in `notes/`.
@@ -36,6 +52,8 @@ The clearing's blind spot for the finite — what actually left and stays gone, 
 ## What remains
 
 Each standing question graduates to a claim when work begins on it. The Barrett-McLaren question is nearest to ready, since it bears directly on the Alphabet of the Soul and the Molecules of Experience.
+
+The reframe conversation's six arrived already as claims rather than as standing questions, because each was captured with its transcript anchor, so what keeps them open is design rather than missing work, and closing one is the authorial event this map exists to record. The form-and-structure family resists closure by its own content — an answer that fixed the proportion would be the prescription of outcomes the question forbids — so its graduation is a disposition the writing enacts rather than a number it reports. The participation-and-technology family bears on the book's reason for being written now, delegation reaching into domains constitutive of personhood, and the delegation question is the one most likely to move first, because it decides which practices the author keeps deliberately lived rather than handing to the vault.
 
 ---
 

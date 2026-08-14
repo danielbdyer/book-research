@@ -63,11 +63,17 @@ All four were read at their primary texts on 2026-08-10 and moved from privated 
 - [[tzimtzum is a withdrawal that makes room and is company for the container law only]] — the withdrawal-makes-room cousin confirmed at *Etz Chaim* Gate 1 (the Lurianic sense, not Cordovero's), held to the container law only with its inverted valence and machine-pairing flag intact
 - [[the withdrawal-makes-room move is an independent arrival that splits on the book's householder fork]] — the capstone that gathers the withdrawal cousins into one forked convergence: four traditions reach a generative self-withdrawal, and the family divides on whether the withdrawal is completed by a return to ordinary life or is itself the destination
 
+## The anatomy at the scale of the vault's own apparatus
+
+The reframe conversation of 2026-08-13 turned the container anatomy on the research apparatus that holds this material, and the single note it produced for this map is gathered here.
+
+- [[the field note is the membrane between lived encounter and persistent concept]] — the anatomy read at the scale of a note: a field note works as a membrane that holds lived encounter apart from persistent concept while letting material cross between them, which is the Wall's separating and the Door's exchange carried out by one structure in the vault's own workflow.
+
 ## What remains
 
 Nothing about the upper layers remains for this map, and that is a decision rather than a backlog. The individual primitives, their three make-and-unmake pairs, the closure test, the engine's three loops and the four-axis movement grid were all standing extraction tasks until 2026-08-09, when the author demoted the upper layers fully and directed that the material be preserved in a few robust notes rather than reified in an apparatus, in his words because "there's still validity in the ideas here but we do not reify them as so deserving of an apparatus going forward." Those extraction entries are closed and no new note takes a scheme as its subject; the rule and its two destinations are in `ops/methodology/center of gravity.md`.
 
-What remains for this map is the container doctrine itself, and the open work in it is a reading rather than an extraction: the Scotus-to-Hopkins-to-Deleuze lineage that the corpus names for thisness has never been checked at any of the three texts.
+What remains for this map is the container doctrine itself, and the open work in it is a reading rather than an extraction: the Scotus-to-Hopkins-to-Deleuze lineage that the corpus names for thisness has never been checked at any of the three texts. The reframe conversation of 2026-08-13 touched this map only glancingly, adding the one apparatus note above; its wider vocabulary of loci and ecology — a bounded-but-permeable domain, the open middle read as a standpoint rather than a structure — borders this map's open-center concern but is gathered in [[recognition]], and it opens no new extraction against the container doctrine.
 
 ---
 
