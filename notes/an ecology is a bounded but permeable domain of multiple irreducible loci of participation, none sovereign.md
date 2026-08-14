@@ -26,6 +26,7 @@ Relevant Notes:
 - [[ecology (what movements become possible) differs from ontology (what exists), so the system can be ontologically modest, epistemically rich]] — the distinction that lets this definition stand without a final metaphysics beneath it
 - [[the locus of control is better named the locus of inquiry]] — the standpoint term this definition pluralizes, from one locus into a field of them
 - [[the topology only exists where it is being performed]] — the corpus's own limit on maps, the same refusal that no chart of the field outranks the field it charts
+- [[the book is one locus in an ecology of participation, not the sovereign source of the reader's recognition]] — the ground-seed that descends from this axiom, seating the book as one non-sovereign locus within the field this note defines
 
 Topics:
 - [[recognition]]

@@ -22,6 +22,7 @@ Relevant Notes:
 - [[facilitation is a technology of relationship whose success is increased capacity for participation, not efficient production of an output]] — the same measure stated as a technology, a field made possible rather than an output caused
 - [[transformation is enacted participation inside a held container]] — the law this stewardship serves, where the holder makes conditions and the participant does the transforming
 - [[nothing transforms from the audience]] — the reader-side law that licenses the modest claim, since whatever transformed, the participant did
+- [[Book I is grounded in what it builds toward, not in what it guards against]] — the structural seed that grows from this endpoint, taking the steward of conditions as the positive ground Book I is footed in, so its guarded-against concerns re-nest as features within what it builds toward
 
 Topics:
 - [[relational-field]]

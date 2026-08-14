@@ -10,9 +10,15 @@ This map lists the tensions the corpus holds open on purpose. The atlas states t
 
 Scope note: this map holds tensions in the book's content. Tensions in the vault's own operation — places where practice contradicts recorded methodology — are a different thing and live in `ops/tensions/`, which the /rethink command reads when it compares recorded methodology against observed practice and proposes changes.
 
+## The ground these tensions are held beneath
+
+The reframe of 2026-08-13 re-grounds the book in the ecology of loci and the book's meta-facilitation position within it, and it re-nests the prior frame's four apophatic tensions — the felt-shift verification standard, the one-chair structural wound, the second-chair remedy, and the register-and-beauty hazard — as guardrails held beneath that affirmative ground rather than as the bedrock the book stood on. The tensions stay live and unresolved; what changes is their standing, from ground to guardrail. This is a change of standing and not a resolution, and resolving remains the author's act made in the writing.
+
+- [[the ecology frame transcends and includes the verification frame rather than replacing it]] — the affirmative ground the four apophatic tensions below are held beneath, the move preserving each as a guardrail nested within the ecology rather than deleting, refuting, or resolving it, and applying to itself so the ecology frame does not become the new sovereign.
+
 ## The assessment tensions
 
-The atlas records these five at §XI.1 and heads them as the book's own diagnostics turned on itself.
+The atlas records these five at §XI.1 and heads them as the book's own diagnostics turned on itself. Since the reframe of 2026-08-13, two of them — the register-and-beauty hazard and the one-chair wound with its Second Chair remedy — read as guardrails held beneath the affirmative ground named at [[the ecology frame transcends and includes the verification frame rather than replacing it]] rather than as the book's footing, their entries below unchanged.
 
 - [[beauty recruits the wrong posture]] — atlas §XI.1a records that the book's prose recruits an appreciating posture, so the reader collects sentences while the practices go undone. Treatment: stretches of deliberately plain prose (the corpus's name for the pass is Plain Water). The source tradition's own line between staged relish and once-for-all recognition now stands beneath the tension ([[the beauty tension restates the tradition's own boundary between rasa and recognition]]).
 - [[forward hunger defeats the pause]] — the book's narrative momentum works against the stopping its practices require. Treatment: thresholds that require action before the text continues (gate practices).
@@ -32,6 +38,8 @@ The three manuscript drafts admitted 2026-08-01 carry strains that the four desc
 - [[the whole volume is wagered on express]] — the book is built from one of its own twelve primitives, and the corpus keeps the question of the other eleven open.
 
 ## The instrument's counterweights
+
+The felt-shift verification standard the counterweights qualify is, since the reframe of 2026-08-13, held as a guardrail beneath the affirmative ground named at [[the ecology frame transcends and includes the verification frame rather than replacing it]] rather than as the book's bedrock; the counterweights below stay exactly as live.
 
 - [[felt shift versus felt confirmation]] — the somatic test can be fooled by fluent prose, and the signal is weakest where the protective folding is deepest. This tension also binds the vault's own verification practice; see [[methods]].
 - [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the first candidate treatment the vault holds, and it comes from the standard's own author: the implicit order is precise enough to refuse a wrong word, which is a cost fluency never pays.
@@ -162,6 +170,8 @@ This map borders [[book-structure]], because the book's six revision passes exis
 The seven added 2026-08-05 change the shape of this map's work, and their treatment states have started to move: two are treated (the interiority audit ran the same day; the sort's own register collision was resolved by scope), one holds a candidate treatment from the first completed reading (introspective access, from Gendlin 1964), and the remaining four carry none — which is accurate rather than a backlog, because a treatment is a move under trial and there is nothing to try until the objections are read. Filling them is a reading queue rather than a writing queue, ranked with page-level addresses at `ops/reading queue.md`.
 
 The reframe conversation of 2026-08-13 added six more, none resolved, which is the map's condition rather than a backlog, since resolving is the author's act and these await it. Their treatments divide the way the others do. Two carry a reading debt rather than a writing one: the sufficiency wager and the productive-contraction revaluation both turn on the source tradition, and both wait on the classical reading of saṅkoca the vault still owes, ranked as a sharp question at `ops/reading queue.md`. Three name a move the author would make in the writing: Freire's self-interrogation of the sovereignty doctrine, Clean Language admitted only beneath the ontology, and the sampling frame named so the ecology of loci reads as company. And one joins the pair whose exit is the author's own lane: the reframe-scale perfectible room, whose treatment is the sending, sits beside the perfectible conversation and the seventeen chapters at madhyama, generating nothing for a session because the deed it asks for is the pilot going out.
+
+Beneath those six, the reframe also gave this map an affirmative ground at "## The ground these tensions are held beneath": the four apophatic tensions — the felt-shift standard, the one-chair wound, the second-chair remedy, and the register-and-beauty hazard — now read as guardrails held beneath [[the ecology frame transcends and includes the verification frame rather than replacing it]], a change of their standing rather than a resolution, since each stays live and resolving stays the author's act.
 
 Of the four fault lines the corpus keeps live among its company of thinkers, two now have notes — surrender versus will, and declaration versus disclosure. Interiority versus structure and the four doors' war do not, and the first of the two has gained a candidate who would carry it: Hartmut Rosa's structural diagnosis, evaluated at [[hartmut rosa]], is the position the corpus holds anonymously, calling it the material voice. The Barrett-versus-McLaren question (are emotions found or made) is stated in [[open-questions]] and now has its sourcing in [[karla mclaren]]; if the author decides it belongs among the kept tensions, it gets a tension note here.
 

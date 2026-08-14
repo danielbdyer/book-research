@@ -23,6 +23,7 @@ Relevant Notes:
 - [[technique without ontology becomes manipulation]] — the warning that a technique detached from this account of the role stops serving recognition
 - [[the book can only be auxiliary to a sovereign reader]] — the same relation carried to the scale of a page, where the book sets conditions and never authors the reader's experience
 - [[the book's practices are facilitation moves scaled to one reader]] — the author's room-holding craft this claim describes, redesigned for a single reader
+- [[the book tends conditions for the reader's own facilitation of recognition rather than facilitating transformation]] — the recursive seed descending from this account of the role, which turns the facilitator's tending of conditions once more onto the reader so the book tends conditions for the reader's own facilitation, standing two steps back from the outcome
 
 Topics:
 - [[recognition]]

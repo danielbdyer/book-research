@@ -30,6 +30,8 @@ Relevant Notes:
 - [[zen's makyo instruction refuses the self-certifying experience]] — the lineage-side counterweight: even the genuine article does not certify itself
 - [[the felt shift certifies carrying forward rather than correspondence]] — the same paper read by the parallel branch for the certificate's scope: movement, not truth — the limit this defense lives inside
 - [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the sibling criterion from the same source: a real referent refuses wrong words, and fluency never pays that cost
+- [[the book tends conditions for the reader's own facilitation of recognition rather than facilitating transformation]] — the reframe's ground under which this defense re-nests: the book does not verify the reader's shift but tends conditions for the reader's own facilitation of the recognition the shift is a move in
+- [[a felt shift is a move in participatory knowing, not a private sensation]] — the same shift re-grounded as participation: the step that changes what can be said next is a participatory move, not a private introspective report
 
 Topics:
 - [[felt-shift]]

@@ -20,6 +20,7 @@ Relevant Notes:
 - [[relevance realization is the engine of meaning, and the attention economy fragments relevance rather than multiplying information]] — the mechanism pole of the sort, the question the book declines to answer for the reader
 - [[a vocabulary can assist recognition but cannot own it]] — the same restraint stated as a limit on the book's own vocabulary over the reader's meaning
 - [[the book can only be auxiliary to a sovereign reader]] — the book's honest maximum, the reason it prescribes conditions rather than content
+- [[the book tends conditions for the reader's own facilitation of recognition rather than facilitating transformation]] — the seed that descends from this middle question, recognizing it as facilitation's own and turning it once more onto the reader, so the book tends the field around the reader's facilitating role rather than occupying it
 
 Topics:
 - [[recognition]]
