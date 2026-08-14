@@ -12,3 +12,6 @@
 # state, never tracked in the repo's history; ignored so the stop-hook git
 # check stops flagging them. Decision recorded in ops/decisions.md, 2026-08-10.
 ops/sessions/
+
+# stray Windows crash dumps
+*.stackdump
