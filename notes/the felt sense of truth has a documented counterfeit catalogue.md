@@ -19,6 +19,7 @@ What this catalogue is for, in the book's terms: the second reader — fluent, v
 - The catalogue's honest edges are recorded with it: the aha-intensity finding cuts both ways and is kept whole above; and the fluency literature's effect sizes are lab-scale, measured on trivia statements and aphorisms rather than on transformative prose — the extension to a book like this one is an inference the vault marks as its own.
 - The disfluency inverse exists and matters for the plain-prose treatment: needless complexity lowers judged intelligence and trust, mediated by fluency (Oppenheimer 2006) — plainness is not merely a stylistic virtue but the low-counterfeit register.
 - The truthiness effect generalizes beyond photos to words (Newman et al. 2012, same paper), so the mechanism is decorative *context*, not imagery as such — marginal apparatus is not exempt.
+- A blind why-now excavation adds an entry from the collective register the lab studies do not reach: Rosa concedes that fascist formations command "excellent techniques of resonance," so felt quality alone cannot separate genuine resonance from ideological echo — and his guard that resonance is not echo is a normative stipulation rather than a phenomenological finding, because from the inside ideological resonance feels like resonance (transmission dig 5, 2026-08-13).
 
 ---
 

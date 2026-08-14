@@ -20,6 +20,7 @@ The author has since stated the book's address in terms that reframe the problem
 - Atlas §XI.1d records the tension and treatment; §VIII introduces the underlying conflict with the sentence "the book's deepest claim, and its most exposed flank."
 - First-telling, "The between," sets up the bind for the reader ("which puts a book — an object read alone — in an honest bind") and defers the answer to the design.
 - Whether the Second Chair suffices is recorded in [[open-questions]] as a standing question; no reader evidence has been gathered for this project.
+- Two blind transmission-dig excavations reached the one-chair/two-chair structure independently. Plato's *Seventh Letter* (341c–d) holds that transmission needs "much converse" and "a life lived together" and cannot be done by writing — the tradition's own most authoritative witness against the solitary book, though its author wrote thirty dialogues anyway (transmission dig 1, 2026-08-13). The two-voice Talmud page is shown to *presuppose* the study-partner, so subtracting the second reader leaves a page that displays a dispute rather than staging one — a sharpening of the chavruta lineage already named in the treatment (transmission dig 3, 2026-08-13).
 
 ---
 

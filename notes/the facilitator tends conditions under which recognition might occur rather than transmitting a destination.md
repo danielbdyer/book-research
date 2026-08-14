@@ -13,6 +13,7 @@ The reframe conversation separates the facilitator's work from transmission. A f
 ## Substantiation
 
 - Developing the Book I material on the facilitator's role, the reframe conversation lists five things the facilitator is not — "expert; answer-provider; interpreter; authority; meaning-giver" — and states the work positively: the facilitator tends "the conditions under which recognition might occur." It draws the distinction as two offers, transmission saying "Here is what you should discover" and facilitation saying "Here are conditions in which you may discover something for yourself" (reframe conversation, 2026-08-13: the facilitator's actual role).
+- A blind reader's-half excavation adds an independent arrival from reader-response theory: Rosenblatt holds that reading stance is set by pre-orientation, purpose, question type, and delayed analysis, so the facilitator engineers conditions rather than delivering content — the same account of the role with the page-level levers named, and the remainder that these are a nudge only, the stance staying the reader's while schooling over-trains the efferent default (transmission dig 2, 2026-08-13).
 
 ---
 

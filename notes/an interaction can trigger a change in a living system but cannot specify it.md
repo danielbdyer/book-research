@@ -1,0 +1,32 @@
+---
+description: "Maturana and Varela hold that a living system is structurally determined, so an interaction can perturb it but never install its form — the biology beneath the book's perturb-not-install doctrine."
+category: claim
+sources: ["transmission dig 4, 2026-08-13 (provenance/transmission digs/dig 4 — the scientific spine.md)", "Maturana & Varela, The Tree of Knowledge (1987) [S]"]
+topics: ["[[relational-field]]", "[[research-frontier]]"]
+state: nascent
+---
+
+# an interaction can trigger a change in a living system but cannot specify it
+
+The book holds that a facilitator perturbs rather than installs, and Maturana and Varela supply the biology that would ground the claim. A living system, on their account, is operationally closed and therefore structurally determined: what it can do at any moment is fixed by its own present structure and not by the environment acting on it. An interaction can accordingly trigger a change but cannot specify which change, because nothing external writes its own form into a structurally determined system — in their phrasing the other is "a source of perturbations and not of instructions." What recurs between organism and medium instead is structural coupling, a history of reciprocal perturbation, and in nervous systems this yields coordinated behavior rather than transmitted information. This is the citable mechanism beneath the book's participation law: meaning is generated between participants, and a teacher at most perturbs a learner who determines her own change.
+
+The same mechanism turns on the book when applied to it, but that reflexive edge is held separately at [[the book can only be auxiliary to a sovereign reader]]; this note records only the biology the book would run.
+
+## Substantiation
+
+- Derived from scholarship: `The Tree of Knowledge` was not opened by transmission dig 4, and the chain from autopoiesis through operational closure to structural determinism is reported at secondary depth. The claim enters nascent, and its primary reading is queued in `ops/reading queue.md`, which asks whether the text licenses perturb-not-install as a claim about pedagogy or only about cellular and organismic coupling.
+- Autopoiesis-as-cognition is flagged contested rather than settled: the account courts idealism, because if every distinction is an observer's the theory risks smuggling in the observer it needs, and Maturana's reply, objectivity held in parentheses, is disputed as asserting the metadomain it cannot earn.
+- Held as company rather than corroboration under `ops/methodology/authorial stance.md`: the enactive biology reached this from cellular closure with no contact with the book's founding poles, which makes it an independent arrival at the mechanism and not a proof of the doctrine.
+
+---
+
+Relevant Notes:
+- [[the book can only be auxiliary to a sovereign reader]] — the reflexive application of this mechanism, which the vault holds separately: if no text installs its form, the book itself can only perturb
+- [[the third thing has a mechanism in participatory sense-making]] — the enactive sibling that carries the meaning-made-in-interaction half, where this note carries the perturb-not-install half
+- [[the facilitator tends conditions under which recognition might occur rather than transmitting a destination]] — the facilitation doctrine this biology would ground, stated on the helper's side
+- [[knowing about is not knowing through — information can be transmitted, realization cannot]] — the book's own version of the transmission limit this mechanism explains
+- [[heinz von foerster]] — the cybernetic neighbour who reaches observer-dependence from circuit design, the same terrain read from a different door
+
+Topics:
+- [[relational-field]]
+- [[research-frontier]]

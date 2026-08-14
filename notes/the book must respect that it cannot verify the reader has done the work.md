@@ -14,6 +14,7 @@ The book must respect that it cannot verify the reader has done the work, which 
 
 - The author states the claim in his own words, joining it to the participation law: "nothing transforms because of the audience," the transformation instead having "to do with their participatory in action of these qualities ... in their lives," so "we have to respect that frame and make that ... front and center a core trust of the book is that the book can't verify that you've done the work" (reframe conversation, 2026-08-13: the author on the book's core trust, spoken, 7:27 PM).
 - The exchange draws the formal consequence in the reply the author assents to: a book "can't transform someone, but it can create the conditions where transformation becomes more likely," so "the book becomes less a text to convey conclusions, and more a series of invitations."
+- A blind reader's-half excavation found the same un-verifiability running structurally through the reader-response literature: every framework that reaches transformation disables its own verification in the same breath — Iser explicitly ("we do not know what happens to us"), Barthes by unsayability, Gadamer via a bindingness Habermas shows is distortable — so the theories of participation cannot tell participation from its performance (transmission dig 2, 2026-08-13).
 
 ---
 

@@ -18,6 +18,7 @@ The treatment under trial is a revision pass producing stretches of deliberately
 - Atlas §XI.1a records the tension and the treatment name.
 - First-telling, "The honesty," discloses the failure mode to the reader directly and describes the countermeasures built against it.
 - The space-around survey supplies a philosophical genealogy for the failure mode: Kierkegaard's aesthetic stage (a life of appreciation that never chooses) and Sontag's argument against substituting commentary for contact. Neither has been researched for this project yet; both are on the pending-evaluation list in `ops/queue/candidates.md`.
+- Four blind transmission-dig excavations reached the appreciating-posture hazard independently, across four regions. Iser names connoisseur *completion* the danger, "a suspect, if not downright dangerous, process" (transmission dig 2, 2026-08-13). Dahui Zonggao burned the blocks of the *Blue Cliff Record* (~1140) because students collected its verses as literary performance, the connoisseur danger enacted at maximum six centuries before Adorno (transmission dig 3, 2026-08-13). Rosa concedes that the aura register the why-now needs is the one *The Jargon of Authenticity* exists to weaponize (transmission dig 5, 2026-08-13). Spolin holds approval to be the active enemy of spontaneity, the appreciating posture manufactured by the evaluating gaze rather than a milder enactment (transmission dig 7, 2026-08-13). The shared remainder is that a book cannot withdraw the reader's internalized evaluator.
 
 ---
 

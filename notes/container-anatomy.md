@@ -69,11 +69,17 @@ The reframe conversation of 2026-08-13 turned the container anatomy on the resea
 
 - [[the field note is the membrane between lived encounter and persistent concept]] — the anatomy read at the scale of a note: a field note works as a membrane that holds lived encounter apart from persistent concept while letting material cross between them, which is the Wall's separating and the Door's exchange carried out by one structure in the vault's own workflow.
 
+## What the transmission digs added
+
+The transmission digs of 2026-08-13 (the record is the 2026-08-13 entry in `ops/completed.md`) touched this map at a single point: the play lineage (Dig 7) supplied the container's holding function specified from its failure.
+
+- [[donald winnicott]] — the holding environment read as a container named from what it must not do: the reliable, non-impinging other whose presence lets a person be alone is the Floor's continuity and the Wall's non-intrusion carried by one relationship, and impingement (the Wall turned intrusive) yields a false self, which is why a book read alone must approximate that other to be readable at all.
+
 ## What remains
 
 Nothing about the upper layers remains for this map, and that is a decision rather than a backlog. The individual primitives, their three make-and-unmake pairs, the closure test, the engine's three loops and the four-axis movement grid were all standing extraction tasks until 2026-08-09, when the author demoted the upper layers fully and directed that the material be preserved in a few robust notes rather than reified in an apparatus, in his words because "there's still validity in the ideas here but we do not reify them as so deserving of an apparatus going forward." Those extraction entries are closed and no new note takes a scheme as its subject; the rule and its two destinations are in `ops/methodology/center of gravity.md`.
 
-What remains for this map is the container doctrine itself, and the open work in it is a reading rather than an extraction: the Scotus-to-Hopkins-to-Deleuze lineage that the corpus names for thisness has never been checked at any of the three texts. The reframe conversation of 2026-08-13 touched this map only glancingly, adding the one apparatus note above; its wider vocabulary of loci and ecology — a bounded-but-permeable domain, the open middle read as a standpoint rather than a structure — borders this map's open-center concern but is gathered in [[recognition]], and it opens no new extraction against the container doctrine.
+What remains for this map is the container doctrine itself, and the open work in it is a reading rather than an extraction: the Scotus-to-Hopkins-to-Deleuze lineage that the corpus names for thisness has never been checked at any of the three texts. The reframe conversation of 2026-08-13 touched this map only glancingly, adding the one apparatus note above; its wider vocabulary of loci and ecology — a bounded-but-permeable domain, the open middle read as a standpoint rather than a structure — borders this map's open-center concern but is gathered in [[recognition]], and it opens no new extraction against the container doctrine. The transmission digs of 2026-08-13 added one member here, the holding environment as a container ([[donald winnicott]]), which arrives from the play lineage's secondary account with the *Playing and Reality* reading queued; it names a container by its non-impingement rather than opening new work against the Wall, Door, and Floor.
 
 ---
 

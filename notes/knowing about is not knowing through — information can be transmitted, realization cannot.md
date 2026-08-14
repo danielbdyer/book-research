@@ -14,6 +14,8 @@ Information passes intact from one person to another and realization does not, a
 
 The distinction is stated plainly under the heading "The Difference Between Experience and Information": "Information can be transferred. Experience cannot" (reframe conversation, 2026-08-13, line 15320). The conversation lists what can be told — grief, surrender, sovereignty, meditation, love — and marks the gap: "But the telling is not the encountering" (line 15334). It names the domains where the limit bites, "AI; education; facilitation; writing; spiritual traditions" (line 15338), and states the facilitation consequence as a pair: "The facilitator can transmit information. They cannot transmit realization" (line 15346). The next section gives the epistemic form of the same line, "Knowing About vs. Knowing Through" (line 15350), and routes it to participatory knowing.
 
+A blind indirect-communication excavation found an 1847 precedent for the same split: Kierkegaard separates *Viden* (knowledge, transferable) from *Kunnen* (capability, actualized only in the receiver's own doing), reconstructing the assent-versus-enactment line, with the caveat that his capability is the solitary capacity to relate to God rather than participation with others (transmission dig 1, 2026-08-13).
+
 ---
 
 Relevant Notes:

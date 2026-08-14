@@ -33,6 +33,8 @@ The three are of different kinds and the difference matters. Nisbett and Wilson'
 
 **Two things came out of the same paper that improve the tension's position rather than worsen it.** Schwitzgebel names the repair himself — "Perhaps the right kind of learning, practice, or care could largely shield us from error — an interesting possibility that merits exploration! — but I see as yet no robust scientific support for such hopes" (p. 259) — which turns the defense from an argument the book must win into evidence the book must find, with a 2008 date on the verdict ([[trained introspection is the repair the standard's sharpest opponent named and left open]]). And his diagnosis of why introspective confidence persists is the same one Nisbett and Wilson give, that nothing ever corrects a person's reading of themselves, which is an argument for the Second Chair arriving from the standard's two sharpest opponents ([[both attacks on the standard blame the absence of correction by another person]]). The full record is `archive/reading — schwitzgebel, the unreliability of naive introspection (2008).md`.
 
+A blind excavation of the interaction sciences adds a mechanism distinct from the unreliability attacks above: Polanyi's from–to structure states the connoisseur problem as attentional physics, so a reader who turns focal attention onto her own felt shift may abolish it — the watching effaces the joint meaning it attends to. The warning is bounded, since it is a performance-moment rule and deliberate self-conscious attention is how skill is built in the learning phase (transmission dig 4, 2026-08-13).
+
 ---
 
 Relevant Notes:

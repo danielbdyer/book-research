@@ -106,11 +106,48 @@ The author directed the evaluation of the four candidates the corpus names for t
 
 - [[trained introspection is the repair the standard's sharpest opponent named and left open]] — the research question the Schwitzgebel reading produced: he set an evidential condition in 2008 for whether practice can make introspection reliable, and anything published since is evidence he had not seen
 
+## The transmission digs' frontier (2026-08-13)
+
+The transmission digs surveyed two bodies of outside research this map had not held, and returned them as reading and evaluation tasks rather than as settled findings: the scientific spine (Dig 4) and the why-now sociology (Dig 5). The digs returned thirty-eight primary readings in the sharp-question form and performed almost none of them, so each note below is a frontier entry — a finding reached from secondary scholarship whose primary reading waits in the digs' READINGS TO QUEUE lists, not yet transcribed into `ops/reading queue.md`. A missing ancestor surfaced alongside them.
+
+### The scientific spine (Dig 4): a body of mechanism to read
+
+- [[an interaction can trigger a change in a living system but cannot specify it]] — Maturana and Varela's structural determinism, the biology under the book's perturb-not-install doctrine, whose primary reading would give a mechanism the relational claim currently asserts without one.
+- [[the enactive program keeps the felt shift as corroboration rather than as evidence]] — the settlement the book's verification standard could borrow, and the reason the enactive corpus is worth reading closely rather than only citing.
+- [[the enactive program's founder conceded its biology had lost the first person]] — the reading's caution built in, since Varela turned to neurophenomenology, so the spine is read for its mechanism and not for its account of the lived first person.
+- [[every third-person science of interaction loses the first person at the altitude the book lives]] — the frontier's own warning about this whole body of work, that each third-person science forfeits the first person where the book operates, which bounds what any of these readings can deliver.
+- [[on the autopoietic account the felt shift certifies nothing beyond the one who feels it]] — the sharpest objection the spine puts to the book's standard, and a reason to read the autopoietic texts as adversary rather than ally.
+- [[the criterion for when an interaction gains autonomy is contested as too broad and arbitrary]] — the live scholarly dispute a reading would have to adjudicate, since participatory sense-making's test for an autonomous interaction is charged with being too broad and arbitrary.
+- [[the imperative to increase the number of choices is too empty to guide a facilitation decision]] — von Foerster's ethical imperative read as insufficient, a candidate a reading would seat as a bounded borrowing rather than as a facilitation ethic.
+- [[infants distinguish a live exchange from a recording of the same person]] — the measured contingency finding (the double-video paradigm) the spine offers as evidence, which a reading would place beside Tronick's still-face as a second measurement.
+- [[bateson's double-bind theory of schizophrenia was abandoned as unsupported and did documented harm]] — the counterweight the frontier must keep while reading Bateson, since the etiology was abandoned and did documented harm, so his learning levels are borrowed and his causal claims are not.
+- [[the maneuvers that change a person's frame require a live protected setting a book is not]] — Bateson's Learning-III read against the book's form, the objection a reading would sharpen: the frame-changing maneuvers need a live protected container.
+- [[an interaction science term earns its place by its worked mechanism rather than its aura]] — the admission bar this map already runs, restated for the spine's vocabulary, so structural coupling and participatory sense-making earn their place by a worked causal chain rather than by their significance.
+- [[learning to learn is a distinct level and not more of the same learning]] — Bateson's learning hierarchy, held here because it frames several of the spine readings above and recasts what a reading of this body is for.
+
+### The why-now sociology (Dig 5): a diagnosis and its counterweights
+
+- [[restoring contact with a muted world is a change of relation, not a slowing of pace]] — Rosa's resonance as a specific reading behind the tuning fork already partly held at [[hartmut rosa]], the diagnosis reframed as re-contact rather than deceleration.
+- [[a device delivers a good while hiding the engagement it once required]] — Borgmann's device paradigm as a candidate, a mechanism for the modern concealment the book diagnoses.
+- [[today's exhaustion is self-generated and leaves no external authority to resist]] — Han as a candidate, the achievement-subject as the present form of the problem the book addresses.
+- [[even the sociology of resonance concedes that a felt encounter needs a second person to certify it]] — the finding that turns the why-now reading toward the Second Chair, since Rosa's own remedy needs a third-person check.
+- [[the felt shift's external check can be a resisting world, not only another person]] — Crawford as a candidate, a resisting world offered as a non-personal form of the missing external check.
+- [[the case that this moment corrodes the mind repeats a charge made against every new medium]] — the counterweight the frontier must read alongside the diagnosis, the every-medium panic that puts the burden of proof on the book.
+- [[the cure the sociology prescribes may be a good only the secure can afford]] — the class critique the reading owes, since the remedies presuppose leisure and security.
+- [[the critique of mediation circulates as the attention economy's premium content]] — the performative-contradiction counterweight, worth reading as the honest limit on the whole shelf.
+- [[for the reader outside comfortable modernity the device is the axis of contact rather than its loss]] — the inversion that keeps the why-now from over-generalizing, a counterweight from the reader outside sated modernity.
+
+### A missing ancestor the digs flagged
+
+- [[j l moreno]] — psychodrama, sociometry, spontaneity training, and the warm-up, named by the play dig (Dig 7) as the closest ancestor of the facilitated room and absent from the roster, so his evaluation is a candidate the digs added to this map's queue.
+
 ## What remains
 
 This map's reading program now lives at `ops/reading queue.md`, and working it in tier order is the frontier's first activity. This map's own live question is the priority five's last open member — sourcing the instrument's counterweights in the processing-fluency and interoception literature — and after it the seating decisions, which are the author's: thirty-eight evaluations carry recommendations and await him, reported by `scripts/queries/candidate-seats.sh`. One research task of a different kind sits beside them: the scholarly-database pass that would confirm or close the unclaimed Henry–vimarśa pairing. Beyond those, the pending-evaluation list in `ops/queue/candidates.md` holds ninety-six unevaluated entries in the book's own order, so that frontier work tracks manuscript work; the list is deliberately long, and it is the field rather than the task. The author reaffirmed that on 2026-08-07 by reversing a cut he had asked for the same day, because he wants the list kept whole as a high-level survey he can commingle claims from.
 
 The reframe conversation of 2026-08-13 adds to both frontiers this map holds. Its outward addition is a reading: John Vervaeke's relevance realization is the highest-value new read the harvest names, and until it is done the two findings it carries stand as seeds. Its inward addition is a set of data-model proposals — the Encounter as a first-class entity, the field note as the `ops/`-to-`notes/` membrane, and the corpus-as-revision-history directive — which are candidate additions to the vault's own architecture and await the author's decision rather than a reading. The four-root lens the same conversation supplies leaves two roots as reading questions, phenomenology now filling and dialogical inquiry needing a column the schema does not yet supply, both recorded in [[interlocutors]].
+
+The transmission digs of 2026-08-13 add a third body to this frontier, larger than the reframe's: two shelves of outside research surveyed blind and left largely unread — the scientific spine (Dig 4: Maturana and Varela, De Jaegher and Di Paolo, von Foerster, with Bateson as counterweight) and the why-now sociology (Dig 5: Rosa, Borgmann, Han, Crawford, with the every-medium panic and the class critique as counterweights) — plus J. L. Moreno, the facilitated room's closest ancestor, whom the play dig flagged as missing from the roster. The digs returned thirty-eight sharp-question readings and performed almost none; transcribing them into `ops/reading queue.md` as a transmission tier is the pending integration step, led by the six adversary-chamber readings that [[tensions]] and [[felt-shift]] wait on, since that chamber carries the most threatening attack and reached zero primary reads. The seat verdicts the digs proposed for the excavated figures route to `ops/queue/candidates.md` as candidate evaluations, a routing the completed record notes has not yet been performed.
 
 ---
 
