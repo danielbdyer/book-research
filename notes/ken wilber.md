@@ -6,7 +6,7 @@ load: precedent
 discipline: systems-and-design
 clause: "States and structures are independent axes, so anyone at any stage can have any state — but the state is interpreted according to the structure."
 recommendation: "Read him in four separate passes rather than seating him once, because the four things he supplies are unrelated: the state-structure mechanism, the developmental-lines premise under the title, the pre/trans distinction the book has no substitute for, and the case history of what happens to a synthesis of this kind. The last is the one that cannot be got anywhere else."
-sources: ["mesh grid: addendum, Wilber properly seated", "mesh grid: tier 0", "atlas §IX.8"]
+sources: ["mesh grid: addendum, Wilber properly seated", "mesh grid: tier 0", "atlas §IX.8", "reframe conversation, 2026-08-13, line 17832"]
 works: ["The Spectrum of Consciousness (1977)", "Sex, Ecology, Spirituality (1995)", "Integral Psychology (2000)", "A Theory of Everything (2000)", "the Wilber–Combs lattice"]
 topics: ["[[interlocutors]]", "[[book-structure]]"]
 ---
@@ -34,6 +34,10 @@ A fifth is smaller and worth naming because it is an unattributed operating verb
 The grid assigns him a thesis-bearing position for the lattice specifically, and that assignment is recorded on the claim note where the mechanism lives. The load here is `precedent` because the thing this vault most needs from him is not a concept but a case history, and the axis records one load per note. His failure modes are documented in a way almost no comparable attempt's are: the unfalsifiability charge that everything fits inside the framework so nothing tests it; the scholarship critiques; the 2006 episode in which he answered his critics with contempt and paid more for that than for any critique; and the colour hierarchy that became a status ladder among his readers ([[a developmental scheme handed to practitioners becomes a ranking of persons]], [[the nearest prior attempts are case histories rather than interlocutors]]).
 
 The grid's question about that last one is aimed at this book and is not rhetorical: what in the design prevents it, given that "the tone" is not an answer, and Wilber had good tone for twenty years.
+
+## Amendment: the reframe's re-file (Fork 25, 2026-08-13)
+
+The reframe conversation of 2026-08-13 uses Wilber more narrowly than the `load: precedent` above records, and Fork 25 of the reconciliation register proposes re-filing him to match that use. The conversation takes him not as an earlier arrival at the book's content but as an exemplar of method and a cautionary case: his four quadrants "become a **coordinate system**, rather than an ontology," answering "*Where is it happening?*" while the book's own ontology answers "*What is happening?*", and the conversation states the reason for the demotion plainly — "that distinction keeps the model from becoming overly dependent on Wilber" (reframe conversation, 2026-08-13, line 17832). His function in the reframe is therefore a coordinate-system lens rather than architecture: an independent arrival at a method rather than at a construct, and an adversary whose warning the book keeps. The register's recommendation is to re-file him from `precedent` toward `independent-arrival` of method, with an `adversary` standing beside it, and to keep the unfalsifiability charge — that everything fits inside the framework, so nothing tests it — as his standing refusal rather than as a defect the book has escaped. Because the load axis records one load per note, and a load assignment is the grid's proposal until the author makes it, the change waits on the author's decision, which is where Fork 25 leaves it.
 
 ## What he would refuse
 

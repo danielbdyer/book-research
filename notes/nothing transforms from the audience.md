@@ -16,6 +16,7 @@ The law binds the book itself, and the corpus applies it reflexively: a book is 
 - Atlas §IX.3: "The lineage's one unanimous law: nothing transforms from the audience," recorded at atlas §IX.3 — the section seating the speech-act lineage from Austin through Erhard to Heidegger — as that lineage's single point of total agreement.
 - First-telling, "The between" and "How it's built," carry the law and its reflexive application.
 - The law grounds two of the kept tensions: [[forward hunger defeats the pause]] (the practices require stopping) and [[beauty recruits the wrong posture]] (admiration is an audience posture).
+- A blind reader's-half excavation adds an independent arrival from philosophical hermeneutics: Gadamer holds that "the game plays the players" and that the artwork's being is the event of its being-played, so the participant does the transforming while the maker disappears into the event — the same law reached from aesthetics rather than from the speech-act lineage, with the remainder that the event needs the reader to be claimed, which a page can invite but not force (transmission dig 2, 2026-08-13).
 
 ---
 
@@ -23,6 +24,8 @@ Relevant Notes:
 - [[the field between two people does work]] — the positive claim about what participation makes possible
 - [[the book performs what it describes]] — the design law that turns this rule into structure
 - [[transformation is enacted participation inside a held container]] — the same law in its positive form, and reached by five further lineages beyond the one recorded here
+- [[the book must respect that it cannot verify the reader has done the work]] — the author's restatement in the 2026-08-13 reframe conversation: the book cannot verify the reader did the work, and that unverifiability is exactly what the law here obliges it to respect
+- [[taking up the activity is the reader-facilitator's own responsibility and the precondition of their outcomes]] — the reader-side seed that grows from this law, placing the taking-up of the activity with the reader-facilitator as their own responsibility and the precondition of outcomes the book was never positioned to produce
 
 Topics:
 - [[relational-field]]

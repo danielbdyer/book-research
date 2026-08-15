@@ -34,6 +34,7 @@ Relevant Notes:
 - [[what was never metabolized lives on as absence and hubl reached it through inherited trauma]] — a fold whose maker is not the person carrying it
 - [[structure-preserving transformation is a method-bearing claim rather than a directional one]] — how a fold opens, stated as a procedure rather than as a direction
 - [[the gatekeeper has a lived referent in the author's own protective structure]] — the doctrine's ethic traced to the protective structure the author knows from the inside
+- [[suffering is contraction that has forgotten it is a locus and a tradition is contraction that remembers]] — the reframe conversation's generalization of this doctrine (2026-08-13), held as the book's re-valuation of saṅkoca — contraction as a productive locus — rather than a convergence with Trika's predominant bondage reading
 
 Topics:
 - [[contraction-not-corruption]]

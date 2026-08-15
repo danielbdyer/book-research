@@ -10,6 +10,18 @@ This map gathers the book's central concern. Two traditions with no historical c
 
 The corpus also stations a warning at this concern and credits it to Lacan: recognition can be taken over by the ego. The atlas states the warning as a guardrail in imperative form — "watch what the recognition is used for" (atlas §IX.5) — and groups it with Nāgārjuna's and Rieff's warnings as the three guards the book keeps against counterfeit transcendence. The other two are recorded in [[tensions]].
 
+## The ground
+
+The reframe of 2026-08-13 distilled the ground this whole map now rests on. The ground-layer seeds state it here at the head, and the axiom bedrock beneath them — the ecology itself, [[an ecology is a bounded but permeable domain of multiple irreducible loci of participation, none sovereign]], with its constraint [[no single locus or framework may become sovereign over the reality it describes]] — is developed below in the reframe section. The seeds place the book, and this map's central event of recognition, inside that ecology: the book takes one standpoint among many, none sovereign, and stands two steps back from the recognition it neither produces nor certifies. The concerns the map already holds are not displaced by this; they are re-grounded within it, on the transcend-and-include logic the seeds below make explicit.
+
+- [[the book is one locus in an ecology of participation, not the sovereign source of the reader's recognition]] — the ground for this map's central event: the book takes one standpoint in the field and stands auxiliary to the reader, never the source that produces or certifies the recognition this map gathers.
+- [[the book tends conditions for the reader's own facilitation of recognition rather than facilitating transformation]] — the recursion the ground turns on recognition, the book standing two steps back and tending the conditions in which the reader may facilitate their own recognition rather than facilitating it for them.
+- [[the ecology frame transcends and includes the verification frame rather than replacing it]] — the move that installs this ground, keeping the felt-shift standard, the one-chair wound, and the beauty hazard as guardrails nested within the ecology rather than deleting or refuting them.
+
+Beneath this ground the prior frame's concern for the prose returns as a feature rather than the footing:
+
+- [[the register's work is to open the reader's encounter rather than to earn appreciation]] — the register re-nested as a feature serving the ground, its work to open the reader's own encounter with what the book points at, so the appreciation hazard becomes that same work failing rather than the map's foundation.
+
 ## The lifeblood
 
 - [[the book's honest origin story is noticing first and finding company after]] — the recognition doctrine at the scale of authorship: the origin story that survives its own provenance, and doubles as the reader's invitation.
@@ -98,9 +110,109 @@ All four were read at their primary texts on 2026-08-10 and moved from privated 
 - [[the sufi arc completes annihilation by return rather than by staying dissolved]] — baqā's return as the completion of fanā, confirmed in al-Junayd's sobriety doctrine, an independent arrival at the householder axiom on the book's side of the fork
 - [[weil's decreation un-creates the self and reaches the opposite of the restored first person]] — the far side of the fork, confirmed at *Gravity and Grace* ("to make something created pass into the uncreated"), arming the seated adversary with her precise concept
 
+## The reframe conversation: recognition as an ecology
+
+The reframe conversation of 2026-08-13 recast this map's central concern as an ecology of recognition: recognition happens from a standpoint, a bounded vantage the conversation calls a locus, inside a permeable field of standpoints none of which can see the whole. The layer arrived with its own coinages — the ecology, the locus of inquiry, the durable perspective, sovereignty as authorship kept within relationship — each attributed to the conversation once and held as a candidate under the vault's naming policy, with the concern it marks stated plainly here. The notes below are the part of that layer that declares this map, grouped by theme.
+
+### Awareness, attention, and the reflexive turn
+
+The conversation takes the tradition's distinction between illuminating consciousness and consciousness aware of itself down to lived scale, which gives recognition its organ.
+
+- [[awareness is not attention — attention selects, awareness contains]] — the ground distinction: awareness registers that the looking is happening while attention only selects an object, so recognition needs the wider register that can notice the noticing.
+- [[awareness has a reflexive dimension distinct from its illuminating one]] — the source tradition's vimarśa set apart from prakāśa at the scale of experience, which makes recognition the awareness that turns to register itself rather than only to light a thing.
+- [[reflexive awareness is participatory recognition rather than detached observation]] — the reflexive turn held as a recognition the knower takes part in, which keeps this map's central event from collapsing into detached self-observation.
+- [[the architecture of attention is partially the architecture of the self]] — recognition's organ read as formative: what a person habitually attends to helps build the self that results, so attention is not merely receptive to what is uncovered.
+- [[participation has degrees, so a person can be physically present while existentially absent]] — recognition admitted in degrees: presence is not binary, and a person can be bodily present yet un-recognizing, which is the state the book's remembering doctrine addresses.
+- [[acceptance is willingness to perceive what is actually here, not approval]] — recognition's precondition on the perceiving side: seeing what is actually present without first approving it, so nothing is filtered out before it can be recognized.
+
+### Recognition is cultivated, not manufactured
+
+The conversation states positively the refusal this map records only as the guard against the engineered epiphany.
+
+- [[recognition is cultivated rather than caused or manufactured]] — the positive form of the refusal: recognition is grown by tending conditions and never produced on demand, so the book can prepare it and cannot cause it.
+- [[recognition arises from interruption of automaticity, safety-with-friction, participatory practice, distinction-giving language, and permission not to solve]] — the author's own catalogue of the conditions under which recognition tends to arise, framed as an ecology to cultivate rather than a technique that manufactures it.
+- [[the facilitator tends conditions under which recognition might occur rather than transmitting a destination]] — the non-causal law on the helper's side: recognition cannot be handed over, so a facilitator arranges the circumstances in which it may arise rather than delivering a discovery.
+- [[the facilitator can supply meaning where the participant might have discovered it, so do not solve what the participant has not yet had the opportunity to encounter]] — the ethical edge of that role: solving too early forecloses the recognition it was meant to serve.
+- [[self-facilitation begins from what is happening rather than from what is wrong with the self]] — recognition's starting posture turned inward: meeting what is present rather than diagnosing a fault, so the self is a locus to be recognized rather than a project to be corrected.
+
+### The ecology and its loci
+
+The conversation's governing frame, and the guard it builds into the frame.
+
+- [[an ecology is a bounded but permeable domain of multiple irreducible loci of participation, none sovereign]] — the master frame: recognition happens from a standpoint inside a field of standpoints, each disclosing what the others cannot, none sovereign over the rest.
+- [[every locus is potentially revelatory and necessarily partial — partial truths become dangerous mistaken for total truths]] — the cost that rides with every standpoint: each discloses something real and misses something, so a recognition turns dangerous the moment it is mistaken for the whole view.
+- [[no single locus or framework may become sovereign over the reality it describes]] — the ecology's form of the topology-limit this map already keeps: a framework that interprets all the others has stopped facilitating recognition and started ruling it.
+- [[ecology (what movements become possible) differs from ontology (what exists), so the system can be ontologically modest, epistemically rich]] — the modesty clause that keeps the doctrine from over-claiming: the project can stay agnostic about what ultimately exists while remaining exact about what movements recognition makes possible.
+- [[a tradition is a cultivated locus of recognition — a trained way of noticing — not merely doctrine]] — the traditions this map stands on recast as trained ways of seeing rather than bodies of belief, so entering one means learning the noticing it has cultivated.
+- [[the kashmir shaiva tradition's five principles assemble into one circuit]] — the source tradition read as one circuit from illumination to recognition, offered as a resonant grammar for this map's central movement rather than a literal one-to-one mapping.
+- [[the pulse of consciousness supplies a vocabulary for the rhythm of inquiry]] — the tradition's pulse concept lending a felt vocabulary to the recurring rhythm from encounter to renewal, held as a vocabulary recognition can borrow without owning.
+
+### The attention crisis as the book's problem-field
+
+The conversation pitches the book's problem at civilizational scale, which is the scale at which recognition is under threat.
+
+- [[the contemporary attention crisis is ecological, not merely psychological, technical, cultural, or spiritual]] — the scale of the threat: a fragmentation of the very conditions of recognition, which sets the book's civilizational stakes.
+- [[relevance realization is the engine of meaning, and the attention economy fragments relevance rather than multiplying information]] — what the crisis damages, named precisely: not a shortage of information but a fragmenting of relevance, which is the engine recognition runs on.
+
+### Recognition is not transmission: the ladder of knowing
+
+The conversation separates the kind of knowing that can be handed over from the kind that cannot, which is this map's un-forgetting doctrine restated as an epistemology.
+
+- [[information → knowledge → understanding → recognition → wisdom is a ladder whose arrows are not automatic]] — recognition placed on a ladder whose rungs do not climb themselves, so understanding can accumulate without ever becoming recognition.
+- [[knowing about is not knowing through — information can be transmitted, realization cannot]] — the sharpest form of the doctrine: a text can transmit an account but not the realizing, which is why reading-is-remembering leaves the recognizing to the reader.
+- [[information about an experience is not participation in the experience]] — the same limit at the source, which is why even a complete research corpus cannot stand in for the authorial recognition the writing requires.
+- [[the fundamental unit of authorship is recognition, not the sentence]] — recognition placed at the root of authorship: a person becomes an author because something was recognized through their participation, and the sentence is downstream of that.
+
+### What the framework is measured by
+
+The axioms that keep this map's frameworks in the service of recognition rather than in charge of it.
+
+- [[the measure of a framework is what it makes possible, not what it explains]] — the governing axiom: a framework is judged by the movements it opens, not the accounts it closes, which subordinates every map here to the recognition it serves.
+- [[the book asks the middle question between mechanism and content — conditions for recognition without prescribing what is recognized]] — the book's own question located between a mechanism and a content: how to make recognition possible without dictating what must be recognized.
+- [[a vocabulary can assist recognition but cannot own it]] — the limit on every name this map uses: a vocabulary can help a person recognize but never owns the meaning, so no better vocabulary earns authority over another's recognition.
+
+### Sufficiency, and the ground the book leaves unnamed
+
+Recognition's precondition stated privatively, its recursive character, and the wager beneath the whole map.
+
+- [[sufficiency is the capacity to remain present without needing the next input to complete oneself]] — recognition's precondition as a fullness already present, uncovered rather than acquired, which is this map's uncovering grammar in a fourth instance.
+- [[allowing one's own sufficiency is a recursive condition for entering this reality]] — the author's own statement that allowing sufficiency opens the door and deepens as it is allowed, a recognition that conditions its own return.
+- [[a sufficiency asserted with no named ground is either a gift or an evasion]] — the wager beneath the map, kept as a live tension: the book calls the reader already sufficient and names no ground for it, and whether that silence is a gift or an evasion is the doctrine's most exposed point.
+- [[seeing the frame that holds both self and whole frees one from a double bind]] — the originating insight the author names as spawning the whole project: recognizing the frame that holds both the particular self and the whole, which releases the forced choice between them.
+
+### Recognition in the age of the machine
+
+The conversation's edge on artificial intelligence, held as this map's counterfeit and its craft rule.
+
+- [[the hollow interaction is illumination that cannot recognize itself]] — recognition's counterfeit in the machine medium: a fluent exchange that lights everything and recognizes nothing, illumination without the reflexive turn the awareness section names.
+- [[AI-language → knowledge → understanding → integration → embodiment → authorship are distinct rungs]] — the ladder of knowing applied to work made with a language model, where the output is not yet knowledge and never yet authorship, each rung a recognition the person must still cross.
+- [[do not explain the reader out of an encounter]] — the craft rule this map's non-causal law implies for the book's own prose: let the reader meet a distinction before it is explained, so the form occasions recognition rather than pre-empting it.
+
+### Open questions the ecology holds
+
+- [[how much form holds just enough that surprise can still happen]] — the author's "question of my life," the balance this map's cultivate-rather-than-manufacture doctrine lives on: enough form to make recognition possible, not so much that it fixes the outcome.
+- [[how much structure makes recognition possible without determining what is recognized]] — the same balance stated as the book-design question, binding constraint, facilitation, and form to this map's central event.
+
+## What the transmission digs added
+
+The transmission digs of 2026-08-13 — a seven-site blind excavation of what a text can do to a reader, held in `provenance/transmission digs/` as consulted works, the record at the 2026-08-13 entry in `ops/completed.md` — reached this map from the side of the present moment. The why-now sociology (Dig 5) diagnoses why the always-there goes unrecognized now, and its own counterweights keep that diagnosis from hardening into a period complaint; one finding from the scientific spine (Dig 4) places recognition at a higher logical type than the learning it is often mistaken for. Each note below arrived from secondary scholarship with its primary reading still queued.
+
+### The why-now, and the counterweights that keep it honest
+
+- [[restoring contact with a muted world is a change of relation, not a slowing of pace]] — Rosa's diagnosis in this map's grammar: the muted world is a concealment produced by the drive to make everything available, so un-muting it is a changed relation to the same life rather than a slower pace, which is recognition as re-contact rather than deceleration.
+- [[a device delivers a good while hiding the engagement it once required]] — Borgmann's device paradigm names concealment built into a thing: the good is foregrounded and the engagement it once asked is hidden, so un-recognition is manufactured and sold rather than merely suffered.
+- [[today's exhaustion is self-generated and leaves no external authority to resist]] — Han's achievement-subject as concealment worn as freedom, exhaustion with no outside enemy, so the thing to be recognized is one's own hand driving it.
+- [[the case that this moment corrodes the mind repeats a charge made against every new medium]] — the counterweight that keeps this map's why-now honest, since every medium from writing to television drew the same corrosion charge, so a claim that recognition is newly imperilled owes proof this mediation differs in kind.
+- [[the cure the sociology prescribes may be a good only the secure can afford]] — the class blade under the remedy, since re-contact, focal practice, and resonance each presuppose leisure and security, so recognition-as-cure may be reachable only by the already secure.
+- [[the critique of mediation circulates as the attention economy's premium content]] — the performative contradiction the book shares with its witnesses, a diagnosis of concealment that sells inside the very economy it names.
+
+### Recognition as a change of logical type
+
+- [[learning to learn is a distinct level and not more of the same learning]] — Bateson's second logical type located where recognition happens: a change in how one learns outranks a change in what one learns, so recognition is a shift of level rather than more content acquired at the same one.
+
 ## What remains
 
-The central-process regions are now extracted: each of atlas §I's three names for the process has its claims here, and the Kashmir Śaiva material of atlas §IX.6 was worked on 2026-08-03. Two pieces of that material are deliberately queued with other passes in `ops/queue/extractions.md`: the four upāyas belong with the practice curriculum, and so'yam belongs with the Courtyard overlay. The space-around survey raises Jorge Ferrer's participatory pluralism as a direct challenge to the two-traditions-one-conclusion framing. Ferrer has not been researched for this project; he is on the pending-evaluation list in `ops/queue/candidates.md`.
+The central-process regions are now extracted: each of atlas §I's three names for the process has its claims here, and the Kashmir Śaiva material of atlas §IX.6 was worked on 2026-08-03. Two pieces of that material are deliberately queued with other passes in `ops/queue/extractions.md`: the four upāyas belong with the practice curriculum, and so'yam belongs with the Courtyard overlay. The space-around survey raises Jorge Ferrer's participatory pluralism as a direct challenge to the two-traditions-one-conclusion framing. Ferrer has not been researched for this project; he is on the pending-evaluation list in `ops/queue/candidates.md`. The reframe conversation of 2026-08-13 sharpens rather than settles that challenge, because its own ecology of irreducible loci, none sovereign, is close kin to participatory pluralism, so the Ferrer reading now has to decide whether the reframe's framing is an independent arrival at his position or a borrowing of it. The reframe layer roughly doubled this map's claim list, and its governing coinages — the ecology, the locus of inquiry, the durable perspective — remain candidates whose forks sit unadjudicated in the reconciliation register; a /rethink split of this map within its own section structure is now the likely next structural move, since the list has passed the size at which the doctrine directs a map to divide. That reframe layer has since been given a ground: the ground-layer seeds now lead the map at "## The ground," stating the ecology position the reframe section develops in full, so any split should keep that ground at the head and read the reframe section beneath it rather than beside it. The transmission digs of 2026-08-13 add a why-now layer that borders the attention-crisis subsection of the reframe section without merging into it: they supply the civilizational diagnosis of why the always-there goes unrecognized now, together with the counterweights the book must answer before it leans on that diagnosis — the every-medium panic, the class critique, the performative contradiction — and their primary readings wait in the digs' own READINGS TO QUEUE lists, not yet transcribed into `ops/reading queue.md`.
 
 ---
 

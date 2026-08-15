@@ -18,6 +18,7 @@ The promise is also not new in the West, and its ancestry bears on how it can be
 - Walked I: the promise text, and the observation that the author found the recognition structure operating in the House with No Ceiling on rereading — "not planted, discovered."
 - Walked X and first-telling, "How it's built": the induce-then-name sequencing as the mechanism that keeps the promise.
 - The space-around survey adds an independent argument for this architecture: Aristotle's term anagnorisis locates recognition in drama, as a staged event rather than a stated one, which supports the book's decision to stage its concepts before naming them. Aristotle's Poetics has not been researched for this project; the evaluation is on the pending list in `ops/queue/candidates.md`.
+- The 2026-08-13 reframe conversation restates the promise's doctrine in conversation rather than in print, framing the deepest available change as recognition of what one already is rather than the acquisition of anything new (reframe conversation, 2026-08-13). It is a fresh dated instance of the recognition structure the front-matter promise states in plain language.
 
 ---
 

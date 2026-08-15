@@ -35,6 +35,7 @@ Relevant Notes:
 - [[advaita reaches the uncovering move through neti neti and an ever-attained freedom]] — the uncovering move at its most absolute, liberation uncovered by negation rather than produced
 - [[pseudo-dionysius reaches the open center by stripping predicates away]] — the Christian apophatic arrival, union approached by subtraction into a divine darkness
 - [[the kashmir shaiva anupaya turns the negative way on method itself]] — the negative way turned on method itself, from the book's own tradition
+- [[sufficiency is the capacity to remain present without needing the next input to complete oneself]] — a fourth privative the 2026-08-13 reframe conversation adds to the three gathered here: enoughness read as an already-present ground rather than an addition supplied by the next input, so the counter-movement to insufficiency is an uncovering rather than an acquisition
 
 Topics:
 - [[recognition]]

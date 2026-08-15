@@ -220,6 +220,59 @@ Three more, 2026-08-05, from the author's request and from two research synthese
 - [[a large change in evaluation can happen without being experienced as change]] — the other half of that same reading, which does reach the narrowed standard, since evaluations that had moved sharply were reported as never having moved.
 - [[the case against introspection is strongest where the book's standard stands]] — what the seated adversary Schwitzgebel holds once read whole: he builds the case on bodily and emotional experience and refuses the present-tense exemption, landing the attack where the standard stands.
 
+### The reframe conversation's additions to the company
+
+The reframe conversation of 2026-08-13 contributed a candidate primary read, a chair the same lens brings into focus, an organizing lens over the discipline axis, and two strains about how the company is assembled and seated. Every one is candidate; the seatings are the author's.
+
+Two chairs the four-root lens brings into focus:
+
+- [[john vervaeke]] — candidate, load thesis-bearing: relevance realization is the book's account of the engine of meaning, which nothing else in the roster carries, and his independent-arrival and adversary-edge functions are written into the note's prose because the single-value load field holds only the thesis. The first-class primary reading is undone and is the highest-value new read the harvest names.
+- [[maurice merleau-ponty]] — candidate, load independent-arrival: the Western philosopher of the lived body who stands beside Gendlin as the philosophical witness to embodiment-as-knowing, re-filed from the clearing onto the phenomenology ground and read 2026-08-10, whom the four-root lens brings into focus here as the chair that fills the empty phenomenology root.
+
+The organizing lens, held over the discipline axis rather than as a taxonomy:
+
+- [[the four ontological roots organize the interlocutors by trained way of seeing]] — the reframe's four ways-in (cognitive science, recognition, phenomenology, dialogical inquiry) held as a lens over the existing `discipline:` axis rather than as a fifth taxonomy, which is why it moves no chair; its named-but-empty phenomenology root is the reading question that surfaces Merleau-Ponty and Henry.
+- [[wilber's four quadrants are a coordinate system, not an architecture]] — the companion lens held the same way, a coordinate system that says where inquiry looks rather than an architecture that says what exists, which keeps the book's model from depending on Wilber even as he stays seated among the precedents.
+- [[a tradition is a cultivated locus of recognition — a trained way of noticing — not merely doctrine]] — the sense of "trained way of seeing" the roots-lens sorts the company by, which makes a tradition a locus one enters by learning its noticing rather than a body of doctrine one adopts.
+
+Two strains about the company's assembly, carried in full in [[tensions]]:
+
+- [[curating traditions for their overlap manufactures the unanimity it then reports]] — the selection-artifact tension at the reframe's scale, the gathering of traditions for one shared property that then reports the property as discovery, which is the same caution this map already carries at [[the unanimity claim is an artifact of how the lineages were selected]].
+- [[the sovereign reader's individualism may evade the question of power]] — the tension that seats Freire and hooks where the book's non-appropriation ethic becomes politically serious, pressing whether the sovereignty doctrine answers the epistemic question of who names reality while leaving the structural question of who holds power untouched.
+
+### The transmission digs' additions to the company
+
+The transmission digs of 2026-08-13 excavated the book's medium blind to the vault (the record is the 2026-08-13 entry in `ops/completed.md`), and their seat verdicts propose nine chairs and a body of claims about how the company is held. Every chair is `candidate`; the seatings are the author's, and the digs' verdicts route to `ops/queue/candidates.md` as candidate evaluations. Depth of contact is uneven — the adversary chamber reached zero primary reads — so each chair carries its own reading debt in its note.
+
+Nine chairs the digs surface, by what each carries:
+
+- [[soren kierkegaard]] — candidate, thesis-bearing. The engineered authorship in which the reader cannot lean on the author's authority, which is the book's trusted-and-disappearing author a century early, and the medium the digs excavated most deeply.
+- [[wolfgang iser]] — candidate, thesis-bearing. The participation gap, the strata's most exact page-native mechanism for a reading that changes the reader, carrying the honest boundary that a text cannot know what its participation did.
+- [[donald winnicott]] — candidate, thesis-bearing. The developmental theory that makes a solitary transformation coherent, the capacity to be alone founded on being alone in a reliable presence, which specifies the non-impinging other a book read alone must approximate.
+- [[victor turner]] — candidate, company carrying a directional charge. The decay typology that makes communitas pass into rule and then ideology without exception, and the reframe of structure as a dangerous energy's container rather than its betrayer.
+- [[viola spolin]] — candidate, names-existing-practice. The craft the facilitated room the author came from actually runs on — the point of concentration, approval and disapproval treated as spontaneity's enemy — a craft rather than a thesis.
+- [[j l moreno]] — candidate, precedent. Psychodrama, sociometry, spontaneity training, and the warm-up, the facilitated room's closest ancestor, flagged by the play dig as the one figure the roster omitted.
+- [[martin orne]] — candidate, adversary. Demand characteristics, the methodological bar a felt-shift claim clears before it counts as evidence, whose simulating-subject control a solitary reader cannot run.
+- [[theodor adorno]] — candidate, adversary. The jargon-of-authenticity charge, the register's internal auditor, whose paradigm target the book's own presence-language becomes.
+- [[maturana and varela]] — candidate, names-existing-practice. The citable biology under perturb-not-install, a living system structurally determined so an interaction triggers but never specifies its change, run with its contested tag visible.
+
+The claims the excavation adds about the company, most from the indirect-communication dig (Dig 1) reading the book's nearest precedent in Kierkegaard, a reading that cuts both ways:
+
+- [[the requirement that the book's author be trusted and disappear restates kierkegaard's authorial problem]] — the exact restatement that seats Kierkegaard as thesis-bearing on the medium, since the book's demand that its author be trusted yet vanish is his engineered problem.
+- [[indirect communication is required only where the object is a capacity to enact rather than a fact to know]] — the distinction from his 1847 lectures that tells the company why the book's mode is indirect, since a capability can only be occasioned in the receiver, never handed over.
+- [[kierkegaard departs from the socratic occasion that the book's facilitation model rests on]] — the departure that keeps the chair honest, since he requires a teacher who installs the condition the learner lacks, which no human facilitator can be, so the precedent is company rather than a model to adopt.
+- [[pseudonymity blocks deference by assigning each life-view to an invented author who embodies rather than asserts it]] — the device the chair carries and the book cannot simply borrow, blocking deference at the cost of the power to be quoted as oneself.
+- [[the corsair affair shows indirection fails when the author cannot disappear behind the work]] — the recorded failure that bounds the precedent, since indirection collapses once the author cannot vanish behind the work.
+- [[indirect communication cannot certify its own success and the demand for certification forces a return to direct speech]] — the precedent's own end, when Kierkegaard was forced back to signed, direct speech, which is the objection the chair presses against the book's form.
+- [[kierkegaard's indirection was a symptom before it was a technique]] — the caution the chair carries into the company, that adopting a wound's rationalization as neat craft risks aestheticizing an incapacity.
+- [[the socratic maieutic verifies its work by an aporia the learner then owns, and the sign is fallible]] — the classical form of facilitation behind the whole precedent, the midwife reading success from a felt shift Socrates admits can be a wind-egg.
+- [[the later wittgenstein treats philosophy as therapy that dissolves confusions rather than a doctrine that advances theses]] — the second indirect-communication witness beside Kierkegaard, philosophy as treatment that leaves the reader nothing to carry away, admire, or cite.
+- [[a book in the register of inwardness and the single individual is the origin of the jargon-of-authenticity charge]] — the wire between Dig 1 and the adversary chamber, since Adorno's charge takes Kierkegaard as its founding target, which makes the book's register the origin of the charge rather than a bystander to it.
+
+One organizing claim from the reframe conversation, missed by the earlier reframe pass and gathered here:
+
+- [[traditions are historically accumulated experiments in participation]] — why the company's traditions are consulted as evidence to weigh rather than authorities to inherit, since a tradition is an accumulated experiment in participation, which sets the standing every source-tradition and reference-lineage chair is held at.
+
 ## Roster recorded in the corpus
 
 Notes are created for these thinkers when existing or new claims need them; until then this roster locates them, one line per seat, with the corpus's counts.
@@ -246,6 +299,10 @@ This map is fed by [[research-frontier]], which holds the evaluation queue. It b
 ## What remains
 
 The nearest work is the author's: the evaluations carry recommendations and await his seating decisions, which the vault cannot make — thirty-eight when `scripts/queries/candidate-seats.sh` last counted, plus the generative-pass round's two (James and Kornfield), rejoined in the merge of 2026-08-06. The instrument's counterweights are no longer the open member they were: the sourcing landed 2026-08-04 (the fluency catalogue, the interoception dissociation, and the defense found in Gendlin's own philosophy), and the reading program has since delivered the first two entries of its standard's-defense tier, Nisbett and Wilson 1977 and Schwitzgebel 2008, both read whole on 2026-08-07 with their records in `archive/`; *A Process Model* is still unread. Beyond those, roughly ninety-six unevaluated candidates are enumerated in `ops/queue/candidates.md`, which is deliberately long — the field, not the task. The author reaffirmed that length on 2026-08-07 by reversing a cut he had asked for the same day, wanting the list kept whole as a high-level survey he can commingle claims from; fifty-six of its entries now carry a note recording what that day's pass found about them, and those notes decide nothing. The roster above names about a hundred seated thinkers and works; they get notes when a claim needs them, because creating them all at once would add volume without use.
+
+The reframe conversation of 2026-08-13 added two candidate chairs and an organizing lens, and their seatings are the author's as the rest are. John Vervaeke enters thesis-bearing on the meaning question with the first-class primary reading still to do, the highest-value new read the harvest names; Maurice Merleau-Ponty enters independent-arrival on the lived body, his reading already done and his seat awaiting the author. The four-root lens they arrive with is held over the `discipline:` axis rather than as a taxonomy, and it turns two roots into reading questions: phenomenology (Root C) now holds Heidegger and Merleau-Ponty with Michel Henry queued, while dialogical inquiry (Root D) is the one root the discipline axis does not cleanly hold, so whether the schema gains a dialogical or practitioner-pedagogy column is a question for a /rethink pass rather than a seating. The addition also sharpens the map-size signal recorded below, since another subsection of list entries lands on the largest map in the vault, which is one more reason the split a /rethink pass would decide is overdue.
+
+The transmission digs of 2026-08-13 land a further subsection here: nine candidate chairs — Kierkegaard, Iser, and Winnicott thesis-bearing on the medium; Orne and Adorno adversary; Spolin and Maturana and Varela naming existing practice; Turner as company; Moreno as precedent — together with the medium's claim body, all awaiting the author's seatings as the rest do, and all routing to `ops/queue/candidates.md` as candidate evaluations. Their reading debt is uneven and concentrated where it matters most: the adversary chamber (Orne, Adorno) reached zero primary reads, so those two chairs press their objections on the digs' secondary accounts until the six adversary readings the digs queued are done. The addition pushes this map further past the split guideline it was already the vault's worst offender against, which the /rethink pass will have to weigh.
 
 Two seats the evaluations found rather than filled. The material voice is the only position in the whole roster carried anonymously, and [[hartmut rosa]] is a working sociologist whose central object is exactly the grid it names. Lisa Feldman Barrett is the standing counterweight to [[karla mclaren]]'s messenger model and is on the pending list; the question her research puts to the roster — are the messengers found or made — is recorded in [[open-questions]].
 

@@ -21,6 +21,7 @@ This tension is the kept counterface of the making's virtue, and the pair must b
 - The corpus itself supplies the tension's general form (the hallway warning, space-around) and its exit (the pilot move, atlas §XI.1f); what this note adds is the identification: the hallway, for this manuscript, is the medium of its own making — which no document in `sources/` says, because every document in `sources/` was written inside the room.
 - The treatment is not new work; it is the corpus's recommended first move, restated as this tension's exit. Its half-concrete state is recorded at [[seventeen chapters rest at madhyama]]: reader one real and responsive, reader two unchosen.
 - The stance the vault takes on its own position is stated once: this vault is also the room. A research container that grows while the word rests is the tension operating, not observing it — which is why the vault's founding rule is that it is measured by what reaches the manuscript, and why this note exists in the tensions register rather than as advice.
+- The 2026-08-13 reframe conversation supplies the reflexive case this tension predicts: the author's own book-writing is named a living case study of the paradox, the delegation problem discovered from inside the act of using the technology to write the book about it (reframe conversation, 2026-08-13). The comfortable room and the diagnosis of it were reached in the same medium.
 
 ---
 
