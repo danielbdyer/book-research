@@ -1,7 +1,7 @@
 ---
 description: "Erikson coined identity crisis and built the developmental frame Marcia later operationalized, which makes him the ancestor of the book's identity loop and of its foreclosure formula, absent from every source."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: precedent
 discipline: clinical
 clause: "The identity loop's whole vocabulary — identity, crisis, the moratorium in which a self is not yet settled — is his, and the formula the book states for a closed commitment is his frame in Marcia's measurement."
