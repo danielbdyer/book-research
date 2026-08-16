@@ -1,7 +1,7 @@
 ---
 description: "The rhetorician whose terministic screens hold that every vocabulary is a selection of reality and therefore also a deflection, which is the objection that survives whether or not the book's alphabet is complete."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: adversary
 discipline: social-theory
 clause: "His objection does not depend on the alphabet being wrong: any set of terms directs attention and, by directing it, hides whatever is not a term."
