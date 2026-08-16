@@ -40,6 +40,7 @@ The reframe of 2026-08-13 distilled a ground beneath this map's concern, and the
 - [[the drafts disagree about which person the book speaks in]] — the unsettled question of who the answerable speaker is
 - [[the drafts execute one of the seven designed apparatus devices]] — what a fully treated pilot chapter would actually have to build
 - [[what is recognized cannot be un-recognized]] — the one place the corpus states the reading contract as two-sided, with a cost the reader is invited to accept
+- [[recognition is irreversible as remembering but revocable when kept as a possession]] — the two-sided reading contract's cost given its boundary: what is remembered cannot be unremembered, but a recognition clung to as a possession forecloses itself
 - [[the fruit that falls is the word become deed]] — the release doctrine in the orchard's vocabulary
 - [[the sixteenth poem returns the book's language to the life it came from]] — the blade lived at the size of a text: the trembling as the sentence leaves the architecture
 - [[the gap between two states is where the concealed shows itself]] — the teaching that the silence between a spoken word and its answer is a crossing, not a failure
