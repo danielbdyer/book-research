@@ -16,6 +16,8 @@ The refusal kept is hers entire: she would refuse the framing of Indian contempl
 
 Evidence standing (added 2026-08-06). The quoted phrases on this note — "gestural subversion" among them — come from the crossover research's web-verified survey of 2026-08-03 (archive/research — crossover cluster background.md), not from either book's pages; *Selling Yoga* and *Peace Love Yoga* are unread in this vault. The recommendation rests on that survey depth, not on a reading.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
