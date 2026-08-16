@@ -33,6 +33,7 @@ Relevant Notes:
 - [[nothing enters the lattice the body has not countersigned]] — the standard whose operating condition this claim names
 - [[eugene gendlin]] — the chair, with the reading section this draws on
 - [[zen's makyo instruction refuses the self-certifying experience]] — a thousand-year working instance of the requirement: the teacher, not the experience, verifies, and even kensho is tested in relation
+- [[the solitary felt shift rests on one name while the paired felt shift has convergent company]] — this requirement and Zen's dokusan read as two independent arrivals, so the paired felt shift has the company the solitary one lacks
 
 Topics:
 - [[felt-shift]]
