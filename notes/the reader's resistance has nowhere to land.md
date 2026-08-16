@@ -19,6 +19,7 @@ Two treatments are under trial. The Refusal Pass dramatizes a real no inside the
 - First-telling, "The honesty," discloses the lost argument to the reader as a trust mechanism.
 - Walked XI carries the fuller account, including the placement of the Doubting Hand within the margin apparatus.
 - The Winnicott warrant has a second clause the vault holds separately, and it bears on why a staged refusal has to be survivable rather than merely dramatized: hiddenness is joyful only inside an intention to be found, so a book that invites destruction and then retaliates has broken the same rule ([[a hiding that never intends to be found has stopped being play]]).
+- The staged refusal both treatments call for is already written and already tested, from inside the book's own foundation. [[the kashmir shaiva tradition would decline four of the book's deepest moves]] derives four refusals from the tradition's primary texts, and the author tested them on 2026-08-03 ("these refusals ring true"). The second — that grace, not the reader's participation, is the last word — is the kind of deep move the book could stage losing without condescension, because it comes from the tradition the book owes most rather than from a strawman. The Doubting Hand's "argument the book loses on purpose" needs content the book can lose to and survive, and the four refusals supply it from held material; the check the panel names is comparing the margin voice's specification at atlas §XI.1c against the four refusals' form (forest panel, 2026-08-08).
 
 ---
 
