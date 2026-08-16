@@ -16,6 +16,8 @@ The refusal kept is Caputo's own second act. In *Demythologizing Heidegger* (199
 
 Evidence standing (added 2026-08-06). The quotations on this note come from the crossover research's web-verified survey of 2026-08-03 (archive/research — crossover cluster background.md), not from the work's own pages, which remain unread here; the recommendation rests on that survey depth.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
