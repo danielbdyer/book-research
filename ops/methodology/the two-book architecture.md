@@ -1,5 +1,5 @@
 ---
-description: The reframe conversation converges on two books as two projections of one ecology differing by locus of practice, with a third book held as a bounded horizon, and this note separates the two orthogonal cuts — locus and audience — the conversation keeps conflating.
+description: The reframe's two-book convergence, decided by the author 2026-08-16 — two books differing by locus of practice, Book I first, the four movements as Book I's dramaturgy and the psychedelic arc as Book II's — with the note's core discipline standing, the locus and audience cuts named apart and never fused.
 category: configuration-state
 created: 2026-08-13
 status: active
