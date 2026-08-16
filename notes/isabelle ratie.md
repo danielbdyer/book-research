@@ -1,7 +1,7 @@
 ---
 description: Isabelle Ratié's study of self and other in the Pratyabhijñā is the scholarly warrant that the recognition system was built in live argument — the tradition earned its positions polemically and can argue back.
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 recommendation: "Reference-lineage: her work supplies the valley's chair with its scholarly ground — the tradition argues — and her philologist's caution polices how its concepts are lifted."
 works: ["Le Soi et l'Autre: Identité, différence et altérité dans la philosophie de la Pratyabhijñā (Brill, 2011)", "the later piece on the Īśvarapratyabhijñākārikā's purpose — the treatise as itself an upāya (flagged in the crossover archive, title not yet located)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
