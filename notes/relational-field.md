@@ -33,6 +33,7 @@ The reframe of 2026-08-13 distilled the ground this whole map now rests on. The 
 - [[grief cannot complete alone]] — the strongest case, carried by all four source documents
 - [[the crisis triage collapses the diagnostic to body holding and contact]] — the crisis reduction whose "do not isolate" makes contact a survival floor, the field at its most load-bearing
 - [[nothing transforms from the audience]] — the law the book's practice lineages agree on unanimously
+- [[the householder axiom depends on the participation law being satisfiable within ordinary life]] — the participation law composed with the householder axiom, with grief as the boundary case and the facilitation-scaled-to-one thesis as the bridge that satisfies it from inside ordinary life
 - [[grief is sever plus love plus persist]] — the formula whose witness-as-catalyst prefigures this map's claim
 - [[a hiding that never intends to be found has stopped being play]] — Winnicott's hide-and-seek finding, which the corpus pairs with the play doctrine
 - [[the reader's resistance has nowhere to land]] — the tension that borrows Winnicott's object-usage as its warrant
