@@ -31,6 +31,10 @@ The sharper counterweight is the objection to Rosa, because it lands on the book
 
 Rosa fits a second seat the survey did not look for. The corpus holds two positions locating suffering outside the person: Hübl's inherited collective trauma, and a second it names only by a label — "some weather is the grid's: economics, racism, infrastructure, schedule" (walked IX) — which is the only position in the whole roster carried anonymously, with Adorno standing behind it at one remove. Rosa is a working sociologist in that same critical tradition whose central object is exactly that grid, and whose theory of resonance is what the grid is alleged to be destroying. Seating him only at the honesty section would take his clause and leave his argument.
 
+The transmission mesh's verdict, folded 2026-08-16: Dig V judged him load-bearing, since he is the strongest civilizational-scale scaffolding under the why-now and the sociological ground for the felt-shift's refusal of the instrumental reader, bolted to its own fascism-and-normativity fault, and it queues two Tier 7 readings (entries 76–77).
+
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
