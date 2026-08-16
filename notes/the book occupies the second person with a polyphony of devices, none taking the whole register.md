@@ -1,5 +1,5 @@
 ---
-description: "Across the facilitator book and the self-facilitation book, the book fills the second person its architecture assumed with many devices — a second voice, a poetic symbol, a shift of perspective — none taking the whole register."
+description: "Across the facilitator and self-facilitation books, the book fills the second person its architecture assumed with many devices — a second voice, a poetic symbol, a shift of perspective — none taking the whole register."
 category: claim
 sources: ["author statement, 2026-08-16 (open-decisions queue, B1)", "transmission dig 0, 2026-08-13, §5.4", "transmission dig 3, 2026-08-13"]
 topics: ["[[relational-field]]", "[[book-structure]]"]
