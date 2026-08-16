@@ -32,6 +32,8 @@ Two questions, in the order that decides the most.
 - Whether the fallacy of misplaced concreteness is aimed at this book's use of its own formulas, in which case Whitehead's load is closer to `adversary` than to `precedent`.
 - Whether the lure is genuinely the middle voice or a persuasive-agency doctrine that would carry theological commitments the book does not want.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
