@@ -12,6 +12,8 @@ The book verifies in the body rather than in the argument, which makes the felt 
 
 ## What is being worked now
 
+By the author's designation, the reframe conversation's world is the governing orientation and direction, superseding prior framings where they conflict: the inquiry is an ecology of loci with none sovereign, the book is one non-sovereign locus auxiliary to a sovereign reader, facilitation stands two steps back from the outcome, and the subject is the conditions for genuine participation in one's own life. The adjudication surfaces are `open-decisions-2026-08-14.md` (the answer slots) and goals thread 16; the drafted re-grounding of the old-frame surfaces (`reground-transcend-and-include-2026-08-14.md`) awaits his item-level blessing, so the graph and several maps still lead with the prior frame until he gives it.
+
 The book has a chosen form — a correspondence of dated letters that end by being sent — and the vault's job has narrowed to serving it, led by reading the center's own foundations at their primary texts. The live program is `ops/correspondence program.md`; the detailed current work and its ordering are the torch in `ops/standing-consequences.md`, and the sharpened reading backlog is `ops/reading queue.md`. Author-gated and never jumped: seatings, the naming refactor, tension resolutions, placements, and release ([[seventeen chapters rest at madhyama]] is the author's to resolve).
 
 ## The safeguards
