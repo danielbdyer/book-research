@@ -1,7 +1,7 @@
 ---
 description: Internal Family Systems is an evaluated candidate — the correspondences hold, the executed draft already borrows its vocabulary for the identity loop, and its evidence base is far thinner than its influence.
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 recommendation: "Reference-lineage; but the seat is the smaller half of the finding, because the executed draft already uses Schwartz's vocabulary in the identity-loop material without stating a position, so the work this evaluation identifies is a positioning passage in the text rather than a chair."
 clause: "Draft, pending the author's decision: the clinical near-twin the book is already speaking, and has not yet located itself against."
 works: ["Internal Family Systems Therapy (Schwartz)", "No Bad Parts (Schwartz)"]
