@@ -45,6 +45,9 @@ The reframe of 2026-08-13 distilled a ground beneath this map's concern, and the
 - [[the sixteenth poem returns the book's language to the life it came from]] — the blade lived at the size of a text: the trembling as the sentence leaves the architecture
 - [[the gap between two states is where the concealed shows itself]] — the teaching that the silence between a spoken word and its answer is a crossing, not a failure
 - [[the confessions is address to a thou that the reader overhears]] — the author's named model read for its form: address sustained past the reader, who receives everything and is the target of nothing
+- [[one interlude the reader overhears as a letter can carry the letter genre's pull]] — the answerable letter at interlude scale, overheard rather than received, closer to the confirmed sighting than direct address
+- [[a zero-knowledge proof convinces only the verifier who supplied its own challenges]] — the transcript result read for the book as transcript: conviction requires the reader's own live challenges, which the answerable ending reaches for
+- [[an apple grown from seed yields a wilding rather than its parent]] — a horticulture figure for what a book can and cannot transmit, which the premise that the reader already knows everything absorbs, since a wilding grows on rootstock of the reader's own
 
 ## Who the word is answerable to
 
