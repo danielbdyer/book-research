@@ -31,6 +31,8 @@ Three questions, in the order that decides the most.
 - Whether the necessary-and-sufficient claim has survived sixty years of common-factors research.
 - Whether Rogers's non-directivity is compatible with a book that names the reader's condition, or is a genuine adversary to it. The third question is the one that decides his load.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
