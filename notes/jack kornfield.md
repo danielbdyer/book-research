@@ -16,6 +16,8 @@ The refusal worth keeping is aimed at any book that offers itself as enough, thi
 
 One provenance flag, recorded at capture: both quotes above are verified against the publisher's excerpt and wide reproduction, not against print page numbers — verify pagination before manuscript use.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
