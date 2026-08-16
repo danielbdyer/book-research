@@ -29,6 +29,8 @@ The book's formula says the same thing in its own notation. `Foreclosure = Commi
 
 **The evaluation is from secondary knowledge.** What the reading has to settle: whether Marcia defines foreclosure by the absence of exploration in his own words, which is what puts him in the privation convergence; whether the domain-specificity objection is fatal to a single formula or absorbable; and whether the exploration dimension is really the book's Defer or something wider that Defer only partly names.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
