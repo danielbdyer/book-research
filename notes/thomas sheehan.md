@@ -1,7 +1,7 @@
 ---
 description: Thomas Sheehan's deflationary Heidegger — the topic was the finite clearing of intelligibility, not a cosmic mystery — is the standing guard against mysticizing aletheia, anchored in Heidegger's own 1964 retraction.
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: adversary
 discipline: continental-philosophy
 recommendation: "Reference-lineage as guard: he disciplines the slogan without touching the practice, and his reading is the primary-text-anchored answer to the enthusiastic drafting session."
