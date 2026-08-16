@@ -42,6 +42,8 @@ Beneath this ground the prior frame's concern for the prose returns as a feature
 - [[the topology only exists where it is being performed]] — the corpus's own limit on maps, this vault included
 - [[recognition is the soul's reminder rather than the ego's reward]] — the positive form of the guard the atlas records only as Lacan's warning
 - [[what is recognized cannot be un-recognized]] — the cost the recognition promise implies, which only the earliest draft states
+- [[recognition is irreversible as remembering but revocable when kept as a possession]] — the limiting clause on the irreversibility promise, reached by Zen's makyo and the author's kept-witness record: the remembering is irreversible, a possession made of it is not
+- [[recognition behaves like crystal nucleation, unmaking the form it replaces]] — a crystallography resonance accompanying the irreversibility promise: the metastable form becomes unmakeable once the stabler one nucleates, and seeding needs contact rather than a formula
 - [[the house with no ceiling is transcendence with plumbing]] — the image that pre-loads this map's refusal of renunciation
 - [[the kashmir shaiva tradition underlies the book rather than joining its company]] — why the source tradition is not listed as one contributor among the others
 - [[the open center is made possible by the three structures and identical with none of them]] — the open middle the three structures exist for, where Lichtung and prakāśa name one place
