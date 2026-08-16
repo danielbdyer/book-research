@@ -33,6 +33,8 @@ Three questions, in the order that decides the most.
 - Whether Kolb's cycle has survived its own literature's criticism well enough to cite.
 - Whether the tradition supplies anything the book's own two mechanisms for the failing peak do not ([[an enormous experience is interpreted by the structure it did not change]] and [[the plasticity window reorganizes only what attention is on]]).
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
