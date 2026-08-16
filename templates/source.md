@@ -2,12 +2,13 @@
 _schema:
   entity_type: source
   applies_to: "archive/source — *.md"
-  # archive/ holds three record kinds, distinguished by filename prefix.
+  # archive/ holds four record kinds, distinguished by filename prefix.
   # This block governs "source — " records (provenance of documents in
-  # sources/); the two sibling kinds are specified under sibling_records
+  # sources/); the three sibling kinds are specified under sibling_records
   # below and described in notes/methods.md. Until 2026-08-06 this block
   # claimed all of archive/ while the newer kinds followed no documented
-  # schema at all.
+  # schema at all; the "encounter — " kind was added 2026-08-16 on the
+  # author's confirmation of the reframe register's Fork 1.
   required:
     - description
     - source_file
