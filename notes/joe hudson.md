@@ -33,6 +33,8 @@ Three questions, in the order that decides the most.
 - What VIEW's four terms actually specify.
 - Whether his own account of the method's lineage names anyone, since the corpus's other coaches turn out to have genealogies it does not print ([[tony robbins]]).
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
