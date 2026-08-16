@@ -257,6 +257,7 @@ The transmission digs of 2026-08-13 excavated the book's medium — what a text 
 - [[whether the medieval page technologies caused silent extractive reading or merely accompanied it is unsettled]] — the open question that bounds that account, since Saenger dates silent reading earlier, so the object cannot lean on Illich's rupture as settled.
 - [[every historical margin architecture ran inside a binding community and none is portable to a solitary reader]] — the finding that bounds the whole apparatus for this object, since each margin architecture ran inside a binding community the book cannot supply.
 - [[subtracting the community from the talmud page converts it from staging disagreement to looking one up]] — the mechanism of that loss, since folding the apparatus into one navigable answer removes the partner and the held disagreement.
+- [[the book occupies the second person with a polyphony of devices, none taking the whole register]] — the design disposition the margins question resolved into, a plurality of second-person devices across both books rather than one totalizing second voice, none asked to be the absent partner (B1, 2026-08-16).
 
 ### Play-lineage form elements, and why most fail to cross (Dig 7)
 
