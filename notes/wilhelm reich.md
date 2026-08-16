@@ -1,7 +1,7 @@
 ---
 description: "Reich's character armor names protection organized into posture and breathing that outlasts the threat, which is the book's fold; the abridged edition cites four of his descendants and not him."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: precedent
 discipline: clinical
 clause: "Every somatic authority the abridged edition names works in a line that begins with him, and the construct they inherited is the one the book calls a fold."
