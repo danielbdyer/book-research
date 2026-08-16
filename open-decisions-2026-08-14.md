@@ -26,7 +26,7 @@ A dozen candidates, held as layers, named nowhere (`ops/methodology/the center h
 
 ### A4 — The title
 And whether "flourishing" can sit on a cover as a horizon-word without being read as doctrine.
-**Answer:** could this be doing something with ecology of recognition or similar? Search the conversation for this. *(Same search; "The Ecology of Recognition" is the recommended title candidate, held beside the working title. The final pick remains open in the execution plan.)*
+**Answer:** could this be doing something with ecology of recognition or similar? Search the conversation for this. *(Chosen 2026-08-16: "The Ecology of Recognition" is the leading title candidate, held beside the working title Firing on All Cylinders / Aletheia. It escapes the flourishing-title hazard because it names the subject-event rather than a promised outcome. Recorded in `ops/decisions.md`, the A4 row; the final title stays the author's.)*
 
 ### A5 — Whether Kashmir Śaivism is named
 As the book's deepest well — disciplined by the record that the triad predates your contact with the tradition.
