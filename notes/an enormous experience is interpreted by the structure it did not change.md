@@ -36,6 +36,7 @@ Relevant Notes:
 - [[recognition]] — the arrival this mechanism explains the non-persistence of
 - [[ken wilber]] — the bearer, and the five places the grid finds him already load-bearing without credit
 - [[what the big experience leaves behind depends on what follows it]] — the clinical measurements of this mechanism's output: persistence tracked completeness and subsequent practice, not the peak alone
+- [[what is recognized cannot be un-recognized]] — the irreversibility promise this premise appears to collide with, dissolved by the state-and-station distinction: the lost breakthrough was a state, recognition is a station
 
 Topics:
 - [[recognition]]
