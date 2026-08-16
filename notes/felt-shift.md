@@ -14,6 +14,8 @@ The instrument has documented limits, and the vault tracks them as a tension rat
 
 One consequence for this vault is recorded in [[methods]]: the vault verifies structure and provenance; it cannot run the somatic test. That certification belongs to the author.
 
+The map's re-grounding is carried in the section "The reframe conversation: self-facilitation and the kinds of knowing" below, where the standard's practice turns inward and the felt shift takes its place in a wider account of knowing.
+
 ## The affirmative ground beneath the instrument
 
 The reframe of 2026-08-13 and the author's direction of 2026-08-14 give this map's instrument an affirmative ground and re-nest its counterfeit tension as a guardrail on that ground rather than the footing beneath it. The ground states what the felt shift affirmatively is and does — a step that rearranges what can be said, a move in participatory knowing, its correction living in the relational field — and beneath it the counterfeit tension ([[felt shift versus felt confirmation]]) and the introspection objection ([[introspective access is the felt shift's undefended premise]]) are held as guardrails, live and unsoftened, on the move named at [[the ecology frame transcends and includes the verification frame rather than replacing it]].
