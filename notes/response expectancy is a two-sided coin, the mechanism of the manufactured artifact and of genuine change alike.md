@@ -1,5 +1,5 @@
 ---
-description: "The author admits the aura-expectancy-demand crossover with clarity as a core risk but holds response expectancy as a two-sided coin, the mechanism of the manufactured artifact and of the genuine change work Robbins and Hudson do alike."
+description: "The author admits the aura-expectancy-demand crossover as a core risk but holds response expectancy as a two-sided coin, the mechanism of the manufactured artifact and of the genuine change Robbins and Hudson do alike."
 category: claim
 sources: ["author statement, 2026-08-16 (open-decisions queue, B3)", "transmission dig 0, 2026-08-13, §5.4", "transmission dig 6, 2026-08-13"]
 topics: ["[[felt-shift]]"]
