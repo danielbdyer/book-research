@@ -37,6 +37,8 @@ And they would resist the warmth. The synchrony literature the same argument dra
 
 The 2007 paper, with three questions: whether interactional autonomy is claimed as a strong ontological thesis or as a methodological level of description; how much of it survives asynchronous or mediated interaction, which is what a letter is; and whether their later work on linguistic bodies closes any of the gap between a real-time coupling account and a text that expects an answer.
 
+The transmission mesh's verdict, folded 2026-08-16: Dig IV judged the pair load-bearing, since their participatory sense-making is the only program that operationalizes rupture-and-repair and meaning-in-interaction with an evidence base, and it queues the 2007 paper as a Tier 7 reading (entry 74).
+
 ## Recommendation
 
 Recorded in the field above; the seating decision is the author's.
