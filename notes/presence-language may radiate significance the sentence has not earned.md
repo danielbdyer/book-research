@@ -2,7 +2,7 @@
 description: "Adorno's charge is that presence-language works as aura, radiating significance independent of the content it names, so a reader's felt assent may register the word's tone rather than the claim."
 category: tension
 status: live
-treatment: "the determinacy test — every auratic word must sit beside a determinate claim it would be false without, or be cut (the survivability catalog's first line: earn the halo or cut the word)"
+treatment: "the determinacy test — every auratic word must sit beside a determinate claim it would be false without, or be cut (the survivability catalog's first line: earn the halo or cut the word); the author's disposition (2026-08-16, open-decisions queue, B3) admits the aura charge with clarity as a core risk but holds it lightly as a two-sided coin — the same expectancy also drives genuine change work — and does not answer it on its own terms"
 sources: ["transmission dig 6, 2026-08-13: FINDINGS (Adorno, mechanism of the jargon), ARTIFACT A, and ARTIFACT B (survivability catalog, keepable item 1)", "Adorno, The Jargon of Authenticity (1964; trans. Tarnowski and Will, Northwestern UP, 1973) [S] — worked from the SEP entry 'Theodor W. Adorno' and the Epoché/Gerber reading; the primary is unopened and queued (dig 6, READINGS TO QUEUE, item 2)"]
 topics: ["[[tensions]]", "[[felt-shift]]"]
 state: nascent
