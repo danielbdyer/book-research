@@ -35,6 +35,7 @@ Relevant Notes:
 - [[an enormous experience is interpreted by the structure it did not change]] — the mechanism whose stage axis carries this risk into the book if imported whole
 - [[the system is scaffolding rather than the centerpiece]] — the demotion that is a partial answer, and why it is partial
 - [[the book can only be auxiliary to a sovereign reader]] — the commitment a status ladder would contradict most directly
+- [[the diagnostic discipline survives the apparatus that carries it]] — the two survivors whose split under this hazard is the tension's first candidate design feature
 
 Topics:
 - [[tensions]]
