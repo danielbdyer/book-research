@@ -1,7 +1,7 @@
 ---
 description: "Hartmut Rosa is an evaluated candidate: his uncontrollability clause completes the tuning fork's theory, and his structural diagnosis is an objection to any book answering at the scale of one reader."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 recommendation: "Reference-lineage, seated twice over: he completes the closing image's theory and supplies a name for the position the corpus states and leaves anonymous, that some suffering lives in economic and institutional arrangement."
 clause: "Draft, pending the author's decision: resonance implies semicontrollability, so a book that could promise it would have described something else."
 works: ["Resonance: A Sociology of Our Relationship to the World", "The Uncontrollability of the World"]
