@@ -1,7 +1,7 @@
 ---
 description: Henry Corbin, Heidegger's first French translator, carried the hermeneutics of unveiling into Persian illuminationism — the crossover's nearest footstep, who used the key on other doors and said so.
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: names-existing-practice
 discipline: continental-philosophy
 recommendation: "Reference-lineage: the nearest footstep to the author's own crossing, with the one-way rule kept — the key opens other levels without obliging the walker to stay."
