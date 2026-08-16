@@ -1,5 +1,5 @@
 ---
-description: "The author holds that the felt result needs an external, delayed, other-administered check the book cannot supply, so the book's honest role is to point at that check and admit it cannot administer it — the finger, not the moon."
+description: "The author holds that the felt result needs an external, delayed, other-administered check the book cannot supply, so its role is to point at that check and admit it cannot administer it — the finger, not the moon."
 category: claim
 sources: ["author statement, 2026-08-16 (open-decisions queue, B2)", "transmission dig 0, 2026-08-13, §5.4", "transmission dig 6, 2026-08-13"]
 topics: ["[[relational-field]]", "[[felt-shift]]"]
