@@ -36,6 +36,7 @@ Relevant Notes:
 - [[the felt shift bears more load than any single test can carry]] — the adjacent overload tension that compounds with this one: the instrument is asked to do the most, and this note shows it is defended by the fewest
 - [[eugene gendlin]] — the chair, written 2026-08-05, with the recommendation the author has yet to act on
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the heaviest load the corpus places on this instrument elsewhere
+- [[the solitary felt shift rests on one name while the paired felt shift has convergent company]] — the reframe this note did not yet know: the single-bearer finding holds for the solitary form, while the felt shift verified in relation has convergent company
 
 Topics:
 - [[interlocutors]]
