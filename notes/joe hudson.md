@@ -1,7 +1,7 @@
 ---
 description: "Hudson holds one of the five theories of suffering alone — the resisted feeling — and is the referral network's destination for a somatic misfire, while both sorts filed him among the company."
 category: interlocutor
-seat: candidate
+seat: coaches
 load: thesis-bearing
 discipline: practitioner-pedagogy
 clause: "The book's referral network sends a reader to him by name for one of its five destinations, and no other name holds that theory."
