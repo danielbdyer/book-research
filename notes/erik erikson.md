@@ -30,6 +30,8 @@ Two questions, in the order that decides the most.
 - Whether Erikson's own account of foreclosure — he discusses premature identity closure directly — is stated as a privation, which would put him in the convergence at [[the privation move is an independent arrival across five fields rather than a book coinage]].
 - Whether the moratorium has anything to say to the book's Defer, which would make the correspondence a construct rather than a frame.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
