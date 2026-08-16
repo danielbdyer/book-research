@@ -1,7 +1,7 @@
 ---
 description: Steven Katz's constructivism — "There are NO pure experiences" — is the crossover's strongest scholarly opponent; the convergence reading survives him, and his reseated question against the felt shift is unread.
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: adversary
 discipline: social-theory
 recommendation: "Reference-lineage as counterweight: convergence as company stands where convergence as proof falls, so the stance survives the 1978 essay's challenge to the crossover. The 2026-08-06 reseating aims him at the verification standard instead, and that question is unread. Grade: the survival verdict rests on the essay's thesis at survey depth, not on a full reading."
