@@ -1,5 +1,5 @@
 ---
-description: "Plain-tailed wrens sing duets so interleaved that one part sounds broken alone, and each bird's song neurons respond more strongly to the whole duet than to its own half — the field doing work, witnessed in electrophysiology."
+description: "Wrens sing duets so interleaved that one part sounds broken alone, and each bird's neurons respond more strongly to the whole duet than to its own half — the field doing work, witnessed in electrophysiology."
 category: isomorph
 sources: ["forest panel, 2026-08-08: panel four, resonance 4", "Fortune et al., Science 334 (2011), pages 666-670 (route named by the panel, unread here)"]
 topics: ["[[relational-field]]"]
