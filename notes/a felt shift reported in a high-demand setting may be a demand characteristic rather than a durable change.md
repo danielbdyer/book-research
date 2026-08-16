@@ -2,7 +2,7 @@
 description: "Orne and Kirsch supply the charge that a felt shift reported while reading is an artifact of a high-demand setting and its own anticipation, producible without content and predicted to vanish when the demand is removed."
 category: tension
 status: live
-treatment: "an external, delayed, other-administered check — a felt result counts only when it survives out of the room, later, in front of someone who did not induce it (the survivability catalog's second line)"
+treatment: "an external, delayed, other-administered check — a felt result counts only when it survives out of the room, later, in front of someone who did not induce it (the survivability catalog's second line); the author's disposition (2026-08-16, open-decisions queue, B3) admits the attack with clarity as a core risk but holds it lightly as a two-sided coin — response expectancy is also where genuine change work operates — and does not answer it on its own terms"
 sources: ["transmission dig 6, 2026-08-13: FINDINGS (Orne, demand characteristics; Kirsch, response expectancy), ARTIFACT C (the compliance case, tiered), and ARTIFACT B (survivability catalog, keepable item 2)", "Orne 1962, American Psychologist 17:776–783 [S] — the PDF was binary-encoded and unread; worked from scholarly knowledge; queued (dig 6, READINGS TO QUEUE, item 1)", "Kirsch 1985, American Psychologist 40:1189–1202 [S] — review snippets only; queued (dig 6, READINGS TO QUEUE, item 3)", "Britton et al. 2021, Clinical Psychological Science 9(6):1185–1204 [S] — the neighboring-literature control point; queued (dig 6, READINGS TO QUEUE, item 4)"]
 topics: ["[[tensions]]", "[[felt-shift]]"]
 state: nascent
