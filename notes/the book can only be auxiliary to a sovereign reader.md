@@ -43,6 +43,8 @@ Relevant Notes:
 - [[the author is the book's first audience member and that is where the promise starts]] — the narrowed promise that fits inside this maximum where the older one did not
 - [[patriotism for oneself is the felt form of the auxiliary relation to a sovereign reader]] — the felt form of this maximum, welded in the 2026-08-13 reframe conversation to a decade-old letter's grammar: one person's participation makes it more possible for the other to belong to themselves, the auxiliary relation stated as a bond rather than a constraint
 - [[a framework that teaches its own exit relates to authority differently than one seeking permanence]] — the same maximum at the scale of the framework, from the same conversation: a framework that can teach a reader to leave it relates to authority differently than one asking to become a permanent operating system
+- [[both poles of the convergence refuse the engineered epiphany]] — the foundations' signature under this claim's first half, that the apparatus cannot cause the change
+- [[the kashmir shaiva tradition would decline four of the book's deepest moves]] — the far pole's dispute with this claim's second half: grace, not the reader's participation, is the last word
 
 Topics:
 - [[relational-field]]
