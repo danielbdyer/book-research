@@ -27,6 +27,7 @@ Relevant Notes:
 - [[the field between two people does work]] — the relational theory that supplies the object-usage warrant
 - [[a codex is a one-chair technology making a two-chair argument]] — the adjacent structural tension about what a book can host
 - [[a hiding that never intends to be found has stopped being play]] — the other half of the Winnicott warrant, and the condition a staged refusal has to meet
+- [[the kashmir shaiva tradition would decline four of the book's deepest moves]] — the already-written, author-tested script for a staged refusal from inside the book's foundation, the content the Doubting Hand's losable argument needs
 
 Topics:
 - [[tensions]]
