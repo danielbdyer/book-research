@@ -235,6 +235,7 @@ The transmission digs of 2026-08-13 (the record is the 2026-08-13 entry in `ops/
 - [[the talmud layout preserves disagreement unresolved on its surface]] — the field held open on a page, competing readings printed side by side without a winner, a precedent for a container that keeps two voices without merging them.
 - [[the talmudic verification standard is public defensibility rather than a felt shift]] — the margin tradition's rival to the somatic check, a reading that survives cross-examination, which is the field verifying rather than the solitary body.
 - [[jakugo answers a passed koan by demonstrating with a quotation under a teacher's checking]] — a second-voice device load-bearing on the checking teacher, an answer by demonstration that dies the instant its checker is removed.
+- [[the book occupies the second person with a polyphony of devices, none taking the whole register]] — the author's disposition on the margins decision, that the book occupies the second person its architecture assumed with a plurality of devices rather than restoring the subtracted partner in one second voice (B1, 2026-08-16).
 
 ### The field's mechanism, and the limits of its vocabulary (Dig 4)
 
