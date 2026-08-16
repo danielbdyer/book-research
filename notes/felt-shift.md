@@ -27,6 +27,7 @@ The reframe of 2026-08-13 and the author's direction of 2026-08-14 give this map
 ## Claims in this map
 
 - [[nothing enters the lattice the body has not countersigned]] — the verification standard itself
+- [[in cloud the body's certainty about up is confidently and fatally wrong]] — the one resonance that tests the verification standard rather than accompanying it: a domain where the body's certainty peaks where it is most wrong, putting the body-competence boundary question to the standard
 - [[what is split off not felt remains the same]] — Gendlin's summary sentence, which the book leans on throughout
 - [[the scheme's upper layers are one construction built on the container's three structures]] — the alphabet this standard verified, and the grammatical reasoning behind it
 - [[the basic practice posture is a point of return rather than a state]] — the practice posture, defined so that failing and returning is the practice
