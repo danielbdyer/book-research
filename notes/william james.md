@@ -1,7 +1,7 @@
 ---
 description: "William James is the authorial stance's ancestor — reports held as observations, value judged by fruits — and his transiency mark names the book's promise in 1902; his refusal is kept: fruits, not feelings, verify."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 recommendation: "Reference-lineage as the stance's ancestor: the two-judgments method and the authority verdict are the book's posture with a century of standing; the fruits test is kept whole as a counterweight to the felt shift."
 works: ["The Varieties of Religious Experience (1902)"]
 sources: ["generative pass research, 2026-08-04 (archive/research — generative pass background.md)", "Varieties, lectures I and XVI–XVII (cited in place)"]
