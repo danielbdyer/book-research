@@ -1,7 +1,7 @@
 ---
 description: "Aristotle made privation one of the three principles of all change, giving the book's signature move a twenty-four-century ancestry the corpus flags as never cited, plus the objection that comes with it."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: precedent
 discipline: classical-philosophy
 clause: "The book's signature move — read a suffering-state by the ingredient it lacks — is a move Aristotle made about change as such, and the corpus records that it has never been credited."
