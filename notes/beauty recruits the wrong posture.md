@@ -27,6 +27,7 @@ Relevant Notes:
 - [[forward hunger defeats the pause]] — the adjacent tension: the book's momentum also works against practice
 - [[the abridged edition compresses the opening poem rather than reproducing it]] — the one worked instance of this note's treatment in the sources, applied to the book's most ornamented single element
 - [[introspective access is the felt shift's undefended premise]] — the deeper version of this hazard: not that beautiful prose recruits the wrong posture, but that the posture may not read anything reliably in the first place
+- [[the book tends conditions for the reader's own facilitation of recognition rather than facilitating transformation]] — the position on which beauty guards a feature rather than sabotaging a delivered outcome
 
 
 Topics:
