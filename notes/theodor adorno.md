@@ -37,6 +37,8 @@ Adorno's contribution to the book's medium is a negative test the book can insta
 
 *The Jargon of Authenticity* (Northwestern, 1973), queued in `ops/reading queue.md`, with the question Dig VI set: whether Adorno anywhere supplies a criterion separating a legitimate presence-language from the jargon, or whether the charge is self-indicting — which decides whether the survivability catalog has a real gate or only a mood. Until that reading, the load rests on scholarship, not on the primary text.
 
+The transmission mesh's verdict, folded 2026-08-16: Dig VI judged him a stress-test, the most dangerous internal auditor, to be seated permanently so the register survives his charge sentence by sentence, and it queues the Jargon at Tier 7 (entry 50).
+
 ## Recommendation
 
 Recorded in the field above; the seating decision is the author's.
