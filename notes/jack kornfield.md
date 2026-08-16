@@ -1,7 +1,7 @@
 ---
 description: "Kornfield's interviews establish the shifted promise — awakenings arrive and do not last, and maturation happens in the ordinary life that follows — and he would refuse a book that offers itself as enough."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 recommendation: "Reference-lineage for the promise: After the Ecstasy, the Laundry is the shifted promise as a title, built from the testimony of teachers rather than argument."
 works: ["After the Ecstasy, the Laundry (2000)", "A Path with Heart (1993)"]
 sources: ["generative pass research, 2026-08-04 (archive/research — generative pass background.md)", "After the Ecstasy, the Laundry, prologue (cited in place)"]
