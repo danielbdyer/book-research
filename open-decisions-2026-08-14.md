@@ -22,7 +22,7 @@ Book I (for its ethical-constraint logic) or Book II (its lived material is near
 
 ### A3 — The center's name
 A dozen candidates, held as layers, named nowhere (`ops/methodology/the center held as layers.md`).
-**Answer:** could this be doing something with ecology of recognition or similar? Search the conversation for this. *(Search run 2026-08-16; findings and the recommendation are in the execution plan, part one section 4. The final pick remains open there.)*
+**Answer:** could this be doing something with ecology of recognition or similar? Search the conversation for this. *(Search run 2026-08-16; the phrase is the one ecology-name the author ratified in his own voice, at the framing's origin — reframe conversation lines 316, 366. He then chose it: "Ecology of Recognition it is." Recorded as the center's working name at `ops/methodology/the center held as layers.md` and in `ops/decisions.md`, the A3 row.)*
 
 ### A4 — The title
 And whether "flourishing" can sit on a cover as a horizon-word without being read as doctrine.
