@@ -1,5 +1,5 @@
 ---
-description: "Instrument pilots are trained on the documented fact that in cloud the vestibular sense of up is confidently and fatally wrong, so instrument flight is the practiced override of bodily certainty by an external reference."
+description: "Instrument pilots are trained on the fact that in cloud the vestibular sense of up is confidently and fatally wrong, so instrument flight is the practiced override of bodily certainty by an external reference."
 category: isomorph
 sources: ["forest panel, 2026-08-08: panel four, resonance 5", "FAA Instrument Flying Handbook, the vestibular-illusions chapter (route named by the panel, unread here)"]
 topics: ["[[felt-shift]]"]
