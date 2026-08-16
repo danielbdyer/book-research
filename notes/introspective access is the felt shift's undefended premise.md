@@ -45,6 +45,7 @@ Relevant Notes:
 - [[steven katz]] — the one named adversary already evaluated here, whom the grid reseats against this claim specifically
 - [[beauty recruits the wrong posture]] — the stylistic form of the same problem, where the prose produces the assent
 - [[attending to the body is not the same as reading it accurately]] — the interoception half of the premise's literature, landed by the parallel branch: sensibility and accuracy dissociate, invisibly from inside
+- [[the book tends conditions for the reader's own facilitation of recognition rather than facilitating transformation]] — the position that makes the introspection objection bear on an instrument's reliability rather than on the book's warrant
 
 Topics:
 - [[tensions]]
