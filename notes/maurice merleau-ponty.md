@@ -1,7 +1,7 @@
 ---
 description: The phenomenologist whose lived body is the perceiving subject rather than an instrument, a Western witness to embodiment-as-knowing beside Gendlin, whose flesh-ontology is not the book's recognition-ontology.
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: independent-arrival
 discipline: continental-philosophy
 clause: "The lived body (le corps propre) is the perceiving subject itself rather than an object one has or a tool one uses, which is exactly the body the book's felt-shift standard has no place for."
