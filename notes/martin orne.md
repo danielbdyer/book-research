@@ -35,6 +35,8 @@ Orne's contribution to the book's medium is a bar and a boundary rather than a d
 
 Orne 1962, queued in `ops/reading queue.md`, with the question Dig VI set: whether demand produces altered *experience* or only compliant *behavior* — because if only behavior, the felt shift needs Kirsch's response-expectancy mechanism and the two attacks are not interchangeable. Until that reading, the load rests on scholarship rather than on the primary paper.
 
+The transmission mesh's verdict, folded 2026-08-16: Dig VI judged him a stress-test, the methodological bar any felt-shift claim clears before it counts as evidence, and it queues Orne 1962 at Tier 7 (entry 49).
+
 ## Recommendation
 
 Recorded in the field above; the seating decision is the author's.
