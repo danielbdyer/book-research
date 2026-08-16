@@ -1,7 +1,7 @@
 ---
 description: "Maslow coined peak experience, which the abridged edition uses nine times without citing him, and his late plateau correction — the sustained condition matters more than the visit — is the book's own argument."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: precedent
 discipline: clinical
 clause: "The book's technical word for its central event is his, and the book's correction of that event's importance is his own, made in 1970."
