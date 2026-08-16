@@ -32,6 +32,7 @@ The reframe of 2026-08-13 and the author's direction of 2026-08-14 give this map
 - [[the scheme's upper layers are one construction built on the container's three structures]] — the alphabet this standard verified, and the grammatical reasoning behind it
 - [[the basic practice posture is a point of return rather than a state]] — the practice posture, defined so that failing and returning is the practice
 - [[unrelated traditions converge on presence without agenda while remaining available to act]] — the dozen vocabularies the corpus reports orbiting that posture
+- [[a hove-to boat holds its posture and calms the sea by neither fighting nor fleeing]] — a naval-architecture resonance accompanying the practice posture: presence without agenda achieved as a configuration rather than an effort
 - [[flourishing flow and facilitation converged on one stance in the author's own record]] — the same arrival traced through the author's three working domains rather than through traditions
 - [[the basic practice posture is specified as simultaneous conditions rather than as a sequence]] — the six components the executed draft gives the posture, and the recognition test it supplies in place of a completion test
 - [[the practice forms specify when to begin and not how to tell one is finished]] — the twelve forms, specified at their trigger and unmarked at both exits
