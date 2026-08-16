@@ -1,5 +1,5 @@
 ---
-description: "The author's pause of 2026-08-03, answered 2026-08-16: Kashmir Śaivism is named as the book's deepest well, and the road into the valley stays the treatment under trial, so the tension stands treated rather than resolved."
+description: "The author's pause of 2026-08-03, answered 2026-08-16: Kashmir Śaivism is named the book's deepest well, and the road into the valley stays the treatment under trial, so the tension stands treated rather than resolved."
 category: tension
 status: treated
 treatment: "the road into the valley"
