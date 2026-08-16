@@ -3,7 +3,7 @@ description: Self-facilitation names the work of arranging the conditions under 
 category: claim
 sources: ["reframe conversation, 2026-08-13: line 13638"]
 topics: ["[[felt-shift]]"]
-state: nascent
+state: full
 ---
 
 # self-facilitation is creating conditions for one's own becoming, not self-management, optimization, or analysis
