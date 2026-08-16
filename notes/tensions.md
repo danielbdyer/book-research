@@ -18,7 +18,7 @@ The reframe of 2026-08-13 re-grounds the book in the ecology of loci and the boo
 
 - [[the ecology frame transcends and includes the verification frame rather than replacing it]] — the affirmative ground the four apophatic tensions below are held beneath, the move preserving each as a guardrail nested within the ecology rather than deleting, refuting, or resolving it, and applying to itself so the ecology frame does not become the new sovereign.
 
-## The assessment tensions
+## The assessment tensions (several are guardrails on features within the ecology)
 
 The atlas records these five at §XI.1 and heads them as the book's own diagnostics turned on itself. Since the reframe of 2026-08-13, two of them — the register-and-beauty hazard and the one-chair wound with its Second Chair remedy — read as guardrails held beneath the affirmative ground named at [[the ecology frame transcends and includes the verification frame rather than replacing it]] rather than as the book's footing, their entries below unchanged.
 
