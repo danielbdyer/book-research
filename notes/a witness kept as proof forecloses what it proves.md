@@ -29,6 +29,7 @@ Relevant Notes:
 - [[the racket is the attractor state with a salary]] — the corpus's nearest existing structure: a fixed arrangement whose payoff is the reason it persists
 - [[the gold thread is the rainbow thread re-owned]] — the figure whose history is this claim's resolution: continuity re-dyed as one's own
 - [[the founding inversion restates the author's own sufficiency inheritance]] — the inheritance whose custodian era this claim names structurally
+- [[recognition is irreversible as remembering but revocable when kept as a possession]] — this shadow paired with Zen's makyo instruction as one finding, supplying the limiting clause on the book's irreversibility promise
 
 Topics:
 - [[relational-field]]
