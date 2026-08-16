@@ -18,6 +18,8 @@ The refusal kept cuts kindly: on Sheehan's account the deflationary reading is n
 
 The load designation on this note — adversary — is the lineage sort's assignment (2026-08-05, recorded in the crossing at `scripts/queries/lineage-sort.sh`); *Making Sense of Heidegger* is unread here, and the deflationary reading this note carries was verified at web depth rather than at his pages. The recommendation rests on the crossover research's survey depth (2026-08-03), not on a reading.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
