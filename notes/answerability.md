@@ -25,6 +25,8 @@ The reframe of 2026-08-13 distilled a ground beneath this map's concern, and the
 - [[werner erhard]] — the declarative pole of that dispute, seated for the mechanism and carrying its own standing danger
 - [[the book is a tuning fork and the reader is the striking surface]] — the image the book installs on page one to govern its ending and its publication
 - [[the book's native genre is the letter from a friend read alone]] — the genre whose every sentence expects an answer, and the medium of the event's one confirmed sighting
+- [[the correspondence vision was chosen and executed as a sent pilot letter]] — the answerable form built whole: a correspondence whose last line the reader can answer and whose completion is the sending, chosen and carried into a sent pilot
+- [[the one-walk vision tells the whole book as a single account in strict order of knowing]] — a candidate form whose last line is the act of sending the book, the answerable ending taken as the book's final move
 - [[ripeness is not refrigeration]] — the corpus's rule against indefinite preservation of finished work
 - [[naming aloud is part of what is happening rather than a report about it]] — the speech doctrine at session scale: the spoken name is part of the event it names
 - [[the poems end by naming the next act and leaving it undone]] — the answerable ending as the author's native signature across four poems
