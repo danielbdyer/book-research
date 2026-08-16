@@ -16,6 +16,8 @@ The refusal kept is the philologist's: the system's concepts were forged against
 
 Evidence standing (added 2026-08-06). Every quotation on this note is the survey's or the crossover archive's — nothing here quotes Ratié's own pages. The crossover research verified her bibliography at web depth on 2026-08-03 (archive/research — crossover cluster background.md); *Le Soi et l'Autre* is unread in this vault, and her later piece on the Īśvarapratyabhijñākārikā's purpose — the treatise as itself an upāya, the work the malas-mapping question in `ops/reading queue.md` reaches for — is flagged in that archive and not yet located. The recommendation rests on web-verified survey depth, not on a reading.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
