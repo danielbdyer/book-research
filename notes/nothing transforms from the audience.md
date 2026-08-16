@@ -26,6 +26,7 @@ Relevant Notes:
 - [[transformation is enacted participation inside a held container]] — the same law in its positive form, and reached by five further lineages beyond the one recorded here
 - [[the book must respect that it cannot verify the reader has done the work]] — the author's restatement in the 2026-08-13 reframe conversation: the book cannot verify the reader did the work, and that unverifiability is exactly what the law here obliges it to respect
 - [[taking up the activity is the reader-facilitator's own responsibility and the precondition of their outcomes]] — the reader-side seed that grows from this law, placing the taking-up of the activity with the reader-facilitator as their own responsibility and the precondition of outcomes the book was never positioned to produce
+- [[the householder axiom depends on the participation law being satisfiable within ordinary life]] — where this law meets the householder axiom: for ordinary life to be the full site it must itself supply the container and witness this law requires
 
 Topics:
 - [[relational-field]]
