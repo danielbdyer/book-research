@@ -30,6 +30,7 @@ Relevant Notes:
 - [[the company was sorted by what each thinker brings and never by what the book cannot lose]] — the same correction applied to the other centerpiece, in the author's own words
 - [[a developmental scheme handed to practitioners becomes a ranking of persons]] — what happens to demoted scaffolding once it is nonetheless printed and used
 - [[paul meehl]] — the formal charge against the compositional scheme: a system that cannot fail has not been tested
+- [[an ecology is a bounded but permeable domain of multiple irreducible loci of participation, none sovereign]] — the ground within which the convergence is one relationship among loci rather than the center
 
 Topics:
 - [[book-structure]]
