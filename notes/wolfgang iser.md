@@ -39,6 +39,8 @@ Iser's contribution is a mechanism for the book's medium that is native to the p
 
 The transmission mesh's verdict, folded 2026-08-16: Dig II judged him load-bearing, since the participation-gap is the strata's most exact mechanism for enactment over appreciation and "we do not know what happens to us" is the honest boundary the felt-shift claim must answer, and it queues The Act of Reading at Tier 7 (entry 62).
 
+The author accepted the three-device ranking on 2026-08-16, placing the participation gap third and holding it in the same spirit as his B3 answer — accepted lightly, its objection kept, and installed as one device among a plurality rather than as a totalizing method — so the evocation-then-negation blank travels to the solitary reader as a page-native mechanism while its charge stays attached, that it issues no receipt ("we do not know what happens to us"), relapses into completion when the reader re-consolidates the disruption into a deeper consistency, and may deliver only self-examination rather than altered lived capacity (author statement, 2026-08-16, open-decisions queue, B4).
+
 ## Recommendation
 
 Recorded in the field above; the seating decision is the author's.
