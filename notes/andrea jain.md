@@ -1,7 +1,7 @@
 ---
 description: Andrea Jain's "gestural subversion" is the sharpest form of the appropriation critique — sincerity is not a defense inside the spirituality economy — and the test of whether the author's stewardship line is load-bearing.
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 recommendation: "Reference-lineage as counterweight: the structural challenge the stewardship line must answer, kept whole precisely because sincerity does not answer it."
 works: ["Selling Yoga (Oxford, 2014)", "Peace Love Yoga: The Politics of Global Spirituality (Oxford, 2020)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
