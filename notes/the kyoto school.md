@@ -1,7 +1,7 @@
 ---
 description: Nishitani studied under Heidegger while lecturing on Eckhart; Ueda made the closest Eckhart–Zen comparison on record and ended it by recording a difference — the crossover walked at full professional depth.
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: adversary
 discipline: continental-philosophy
 recommendation: "Reference-lineage: the crossover walked for three generations with the differences kept — and Nishida, the school's founder, is already seated in the book's company."
