@@ -18,6 +18,8 @@ The refusal kept belongs to Ueda Shizuteru, Nishitani's student and the traditio
 
 The load designation on this note — adversary — is the lineage sort's assignment (2026-08-05, recorded in the crossing at `scripts/queries/lineage-sort.sh`); the school's works are unread here, so the refusal this note expects is the grid's projection until a text is opened. The recommendation rests on the crossover research's web-verified survey depth (2026-08-03), not on a reading.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
