@@ -41,6 +41,8 @@ The four primary readings named above, with the sharp questions Dig I queued: wh
 
 The transmission mesh's verdict, folded 2026-08-16: Dig I judged him load-bearing with a stress-test flag, since he built the named device-inventory for the trust-and-disappear problem and located its breaking points himself, while the deception and asymmetry remain a stress-test the book must survive rather than a technique to adopt, and it queues four primary reads at Tier 7 (entries 55–58).
 
+The author accepted the three-device ranking on 2026-08-16, placing the self-disposing revocation second and holding it in the same spirit as his B3 answer — accepted lightly, its objection kept, and installed as one device among a plurality rather than as a totalizing method — so the revocation travels to the solitary reader as a textual operation needing no co-presence while its charge stays attached, that self-erasure is a rhetorical move rather than a verification, can be received as the most admirable gesture of all (the Corsair affair records his own indirection becoming the thing he was admired for), and confirms no reader ever climbed (author statement, 2026-08-16, open-decisions queue, B4).
+
 ## Recommendation
 
 Recorded in the field above; the seating decision is the author's.
