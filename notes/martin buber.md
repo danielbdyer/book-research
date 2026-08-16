@@ -37,6 +37,8 @@ And on the disagreement with Heidegger: Buber's objection is that Heidegger's ac
 
 The primary reading, with three questions: whether the between is ontological in his account in the strong sense the book needs, or a description of how meeting is experienced; how the necessary lapse of every Thou into an It bears on a curriculum that aims at the relation; and the exact form of the argument against Heidegger, which the vault currently holds only as a report.
 
+The transmission mesh's verdict, folded 2026-08-16: Dig VII judged him a stress-test whose seat is conditional on the wider roster, since he supplies the test every device must pass — "does it turn Thou to It?" — and it queues a reading at Tier 7 (entry 86).
+
 ## Recommendation
 
 Recorded in the field above; the seating decision is the author's.
