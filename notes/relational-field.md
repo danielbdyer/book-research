@@ -37,6 +37,8 @@ The reframe of 2026-08-13 distilled the ground this whole map now rests on. The 
 - [[grief is sever plus love plus persist]] — the formula whose witness-as-catalyst prefigures this map's claim
 - [[a hiding that never intends to be found has stopped being play]] — Winnicott's hide-and-seek finding, which the corpus pairs with the play doctrine
 - [[the reader's resistance has nowhere to land]] — the tension that borrows Winnicott's object-usage as its warrant
+- [[modeling dissent in the verso column moves the refusal to the reader's side of the page]] — the craft form of the object-usage warrant this map carries, a verso column modeling dissent so the reader's own destruction is what the book survives
+- [[the two-voice vision runs an early knowing in the body against a later writer in the margin]] — a candidate form making the field between two voices the book's engine, the later writer refusing the earlier in the margin so the reader watches a refusal survive
 - [[a codex is a one-chair technology making a two-chair argument]] — the structural problem stated as a tension
 - [[the ink that listens is the relational field at the scale of a page]] — the image that puts this map's claim on the book's own surface
 - [[the circle is the form in which the naked sentence gets met]] — the image of the practice form witnessing requires
