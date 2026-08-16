@@ -16,6 +16,8 @@ Two of his findings bear directly. His four marks of the mystical state include 
 
 The refusal worth keeping is his test itself: James verifies by fruits, and the felt shift is a root. His test for what an experience is worth looks at the life that follows it — conduct, character, what the experience made — never at the feeling's intensity or its bodily signature. Held whole, this refuses the book's verification standard as sufficient: a shift in the sternum is root-side evidence, and James would ask what fruit it bore by spring. The book's own promise ("it didn't hold") concedes his point, which is what makes the refusal company rather than damage.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
