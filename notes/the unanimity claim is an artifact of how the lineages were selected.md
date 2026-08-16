@@ -34,6 +34,7 @@ Relevant Notes:
 - [[the participation law has no opponent and its oldest objection is that participation is contamination]] — the consequence of a curated sample never meeting an argument: the law has been reported and never contested
 - [[sorting a lineage by load turns it toward argument]] — the tension a second sort of the same company creates, since asking what the book cannot lose is asking what defends it
 - [[curating traditions for their overlap manufactures the unanimity it then reports]] — the reframe conversation's restatement of this caution (2026-08-13): its comparative method gathers traditions for their overlap, the very move that manufactures the agreement it then reports, so this selection-artifact guard must travel into the new frame
+- [[the privation move is an independent arrival across five fields rather than a book coinage]] — a second convergence the audit now reaches: its searched-for arrivals take the company qualifier, its corpus-carried ones could ground an exemption
 
 Topics:
 - [[interlocutors]]
