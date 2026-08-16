@@ -31,6 +31,7 @@ Relevant Notes:
 - [[the book's front matter functions as a response-expectancy induction]] — the compliance-side companion, where the same auratic front matter raises the expectancy that manufactures the shift
 - [[the register attack and the compliance attack close into one self-sealing circle]] — how this attack couples with the compliance attack: aura is the first turn of the circle, raising the reader's expectancy
 - [[both poles of the convergence refuse the engineered epiphany]] — the book's own foundations naming the counterfeit: a bodily yes produced by an apparatus is the apparatus working, not the world showing
+- [[the book tends conditions for the reader's own facilitation of recognition rather than facilitating transformation]] — the ground on which the aura charge guards one locus's prose without being answered on its own terms
 
 Topics:
 - [[tensions]]
