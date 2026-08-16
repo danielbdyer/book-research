@@ -32,6 +32,8 @@ Two questions, in the order that decides the most.
 - Whether Burke's own answer to his objection — the "dramatistic" pentad, itself a five-term screen he defends as more capacious rather than as neutral — is a model the book could adopt, since that would turn the objection into a method.
 - Whether *trained incapacity* bears on the book's defining reader, the one who has learned a fluent integration vocabulary and uses it to avoid feeling anything all the way through, which is the same shape and would make Burke relevant to the felt-shift region as well as this one.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
