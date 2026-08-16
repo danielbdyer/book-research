@@ -1,5 +1,5 @@
 ---
-description: This map registers the tensions the corpus keeps deliberately unresolved, each carrying a status and a named treatment under trial and each held, since the reframe of 2026-08-13, as a guardrail within the ecology and meta-facilitation ground rather than as the book's footing; tensions in the vault's own operation are recorded separately in ops/tensions/.
+description: This map registers the tensions the corpus keeps deliberately unresolved, each carrying a treatment under trial and each held as a guardrail within the ecology ground; vault-operation tensions live in ops/tensions/.
 type: moc
 topics: ["[[index]]"]
 ---
