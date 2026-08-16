@@ -35,6 +35,8 @@ Three questions, in the order that decides the most.
 - Whether the rituals-and-sanctions finding is usable or is an objection.
 - Whether the survey's identification survives contact with the primary framework or is a resemblance.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
