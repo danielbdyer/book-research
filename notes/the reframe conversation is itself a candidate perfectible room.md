@@ -1,7 +1,7 @@
 ---
-description: The reframe is an infinitely responsive collaboration that produced five final architectures on demand and left the pilot unsent, making it a candidate instance of the perfectible-room tension it describes.
+description: "Resolved 2026-08-16: the exit this tension named — the sending — happened, the pilot letter going out to real readers before 2026-08-14, and the conversation's capture as one encounter with split provenance stands."
 category: tension
-status: live
+status: resolved
 treatment: "the least-architected response — capture as one encounter with split provenance, route the recursions to the clearing, and send the pilot on its own clock"
 sources: ["reframe conversation, 2026-08-13 (transcript lines 810, 1138)"]
 topics: ["[[tensions]]", "[[answerability]]"]
