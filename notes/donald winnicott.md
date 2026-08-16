@@ -35,6 +35,8 @@ Winnicott's contribution to the book's medium is the specification the medium is
 
 *Playing and Reality* (1971), chapters on the location of cultural experience and on transitional phenomena, queued in `ops/reading queue.md`, with the question Dig VII set: whether Winnicott permits a non-human object such as a text to hold potential space, or whether the reliable other must be a person — which decides whether book-as-good-enough-other is Winnicott's own claim or the vault's extrapolation from it.
 
+The transmission mesh's verdict, folded 2026-08-16: Dig VII judged him load-bearing, since potential space together with the capacity to be alone is the one developmental theory that makes solitary transformation coherent and names its precondition, and it queues Playing and Reality as a Tier 7 reading (entry 83), distinct from the tier-6 object-usage read.
+
 ## Recommendation
 
 Recorded in the field above; the seating decision is the author's.
