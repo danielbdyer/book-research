@@ -1,7 +1,7 @@
 ---
 description: "Set and setting is Leary's coinage and Zinberg's framework, and the corpus's own survey says the book's central architecture is a general theory of it while naming neither originator."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: precedent
 discipline: empirical-science
 clause: "The survey states the identity itself — Wall, Door and Floor are what setting is made of, the Stance is what set is made of — and the framework it identifies the architecture with has named authors."
