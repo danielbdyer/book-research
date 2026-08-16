@@ -1,7 +1,7 @@
 ---
 description: "The linguist whose Natural Semantic Metalanguage isolated some sixty-five semantic primes by cross-linguistic testing — the standard the corpus itself names for any claim that the book's alphabet is found."
 category: interlocutor
-seat: candidate
+seat: recommended-reading
 load: adversary
 discipline: empirical-science
 clause: "The book's alphabet claims to be small, complete and closed; hers was tested against languages that could have refuted it and came back at sixty-five, so she is the standard the closure claim has to meet or decline."
