@@ -1,7 +1,7 @@
 ---
 description: "The developmental psychologist who defined foreclosure in 1966 as identity commitment reached without exploration, which is the construct the book's Foreclosure formula states and never credits."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: precedent
 discipline: clinical
 clause: "Foreclosure = Commitment − Defer is his construct under his own word, arrived at sixty years earlier by interview and measurement rather than by composition."
