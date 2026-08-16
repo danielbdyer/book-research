@@ -1,7 +1,7 @@
 ---
 description: "Gregory Bateson is an evaluated candidate: his learning levels formalize the book's account of protective structure, and his refusal of conscious purpose is aimed at books like this one."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 clause: "Draft, pending the author's decision: character is learning at the second level, and the reframe is the third — which he says is dangerous."
 recommendation: "Reference-lineage, seated as a counterweight rather than an ally: he supplies the formal ancestry for protective structure that outlives its cause, for the self-sustaining complaint, and for the relational field, and he refuses the designed curriculum that carries them."
 works: ["Steps to an Ecology of Mind", "Mind and Nature: A Necessary Unity"]
