@@ -33,6 +33,8 @@ Three questions, in the order that decides the most.
 - Whether the sixty-five includes anything the twelve would have to absorb.
 - Whether her own account of why the set stabilized at that number gives the book a usable procedure or only a verdict.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
