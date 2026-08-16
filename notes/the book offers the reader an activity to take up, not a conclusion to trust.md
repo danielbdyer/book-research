@@ -3,7 +3,7 @@ description: "The book offers the reader an activity — conditions for discover
 category: claim
 sources: ["reframe conversation, 2026-08-13, line 5598", "reframe conversation, 2026-08-13, lines 5581-5585", "atlas §XI.1a"]
 topics: ["[[relational-field]]", "[[answerability]]"]
-state: nascent
+state: full
 ---
 
 # the book offers the reader an activity to take up, not a conclusion to trust

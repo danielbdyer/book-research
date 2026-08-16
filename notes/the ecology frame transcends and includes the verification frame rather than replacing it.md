@@ -3,7 +3,7 @@ description: "The ecology frame becomes the new ground and transcends and includ
 category: claim
 sources: ["reframe conversation, 2026-08-13, line 2650", "reframe conversation, 2026-08-13, line 4211", "reframe conversation, 2026-08-13, line 4214", "reframe conversation, 2026-08-13, line 376", "author direction, 2026-08-14"]
 topics: ["[[recognition]]", "[[tensions]]"]
-state: nascent
+state: full
 ---
 
 # the ecology frame transcends and includes the verification frame rather than replacing it

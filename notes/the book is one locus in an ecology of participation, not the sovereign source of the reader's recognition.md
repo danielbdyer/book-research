@@ -3,7 +3,7 @@ description: "The book is one locus among many in a bounded but permeable ecolog
 category: claim
 sources: ["reframe conversation, 2026-08-13, line 4157", "reframe conversation, 2026-08-13, line 4161", "provenance addendum four §II.1 (consulted, held in provenance/)"]
 topics: ["[[relational-field]]", "[[recognition]]"]
-state: nascent
+state: full
 ---
 
 # the book is one locus in an ecology of participation, not the sovereign source of the reader's recognition

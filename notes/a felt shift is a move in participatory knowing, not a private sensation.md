@@ -3,7 +3,7 @@ description: "In the reframe's four kinds of knowing the felt shift is a move in
 category: claim
 sources: ["reframe conversation, 2026-08-13, line 2086 (four kinds of knowing); line 3486 (information is not participation); line 15352 (the bridge to participatory knowing)", "author direction, 2026-08-14"]
 topics: ["[[felt-shift]]", "[[relational-field]]"]
-state: nascent
+state: full
 ---
 
 # a felt shift is a move in participatory knowing, not a private sensation

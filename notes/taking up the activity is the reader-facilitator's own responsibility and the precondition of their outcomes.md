@@ -3,7 +3,7 @@ description: "Taking up the activity is the reader's own responsibility and the 
 category: claim
 sources: ["reframe conversation, 2026-08-13, lines 13590-13604", "author direction, 2026-08-14", "first-telling: the between", "atlas §IX.3"]
 topics: ["[[relational-field]]", "[[answerability]]"]
-state: nascent
+state: full
 ---
 
 # taking up the activity is the reader-facilitator's own responsibility and the precondition of their outcomes

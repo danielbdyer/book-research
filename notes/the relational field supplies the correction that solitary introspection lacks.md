@@ -3,7 +3,7 @@ description: "In an ecology of participation there is no empty room, so the corr
 category: claim
 sources: ["reframe conversation, 2026-08-13 (there is no empty room, lines 15506–15508)", "Schwitzgebel 2008, pp. 259–260 (read 2026-08-07; the reading record is archive/reading — schwitzgebel, the unreliability of naive introspection (2008).md)", "Nisbett and Wilson 1977, p. 256 (read 2026-08-07; the reading record is archive/reading — nisbett and wilson, telling more than we can know (1977).md)", "author direction, 2026-08-14"]
 topics: ["[[relational-field]]", "[[felt-shift]]"]
-state: nascent
+state: full
 ---
 
 # the relational field supplies the correction that solitary introspection lacks

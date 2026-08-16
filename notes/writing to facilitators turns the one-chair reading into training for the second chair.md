@@ -3,7 +3,7 @@ description: "Because Book I is addressed to facilitators, the solitary one-chai
 category: claim
 sources: ["reframe conversation, 2026-08-13 (facilitation as stewardship, line 16020; the facilitator disappears, lines 16038–16050)", "author direction, 2026-08-14"]
 topics: ["[[relational-field]]", "[[book-structure]]"]
-state: nascent
+state: full
 ---
 
 # writing to facilitators turns the one-chair reading into training for the second chair

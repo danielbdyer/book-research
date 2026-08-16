@@ -3,7 +3,7 @@ description: "The author re-grounds Book I in the encounter architecture it buil
 category: structure
 sources: ["reframe conversation, 2026-08-13, line 16020", "reframe conversation, 2026-08-13, line 16030", "reframe conversation, 2026-08-13, line 371", "reframe conversation, 2026-08-13, line 5561", "reframe conversation, 2026-08-13, line 5565", "author direction, 2026-08-14"]
 topics: ["[[book-structure]]"]
-state: nascent
+state: full
 ---
 
 # Book I is grounded in what it builds toward, not in what it guards against
