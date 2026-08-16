@@ -10,7 +10,7 @@ This map lists the tensions the corpus holds open on purpose. The atlas states t
 
 Scope note: this map holds tensions in the book's content. Tensions in the vault's own operation — places where practice contradicts recorded methodology — are a different thing and live in `ops/tensions/`, which the /rethink command reads when it compares recorded methodology against observed practice and proposes changes.
 
-The ecology and meta-facilitation frame is the ground the tensions on this map now stand within: the book is one locus in an ecology of participation, tending the conditions for the reader's own facilitation rather than delivering or verifying an outcome, and the tensions gathered below are boundary conditions on features within that ground rather than threats to a warrant the book holds ([[the ecology frame transcends and includes the verification frame rather than replacing it]]). The framing changes each tension's standing and none of its content; every entry stays live, and resolving remains the author's act, made in the writing.
+The ecology and meta-facilitation frame is the ground the tensions on this map now stand within: the book is one locus in an ecology of participation, tending the conditions for the reader's own facilitation rather than delivering or verifying an outcome, and the tensions gathered below are boundary conditions on features within that ground rather than threats to a warrant the book holds ([[the ecology frame transcends and includes the verification frame rather than replacing it]]). The framing changes each tension's standing and none of its content; the framing itself moved no entry's status, and resolving remains the author's act, made in the writing.
 
 ## The ground these tensions are held beneath
 
