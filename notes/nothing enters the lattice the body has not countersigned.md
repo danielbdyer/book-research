@@ -37,6 +37,7 @@ Relevant Notes:
 - [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the standard's own counterfeit check, from the same author
 - [[eugene gendlin]] — the chair the standard's author now holds, and the first primary reading the vault owes
 - [[the practice is the expression of realization rather than a means to it]] — the clause that puts the hardest load on this standard: a practice measured in nothing still needs a countersignature
+- [[the book must respect that it cannot verify the reader has done the work]] — the limit that keeps this an admission standard for the book's framework, not a warrant over the reader's outcome
 
 Topics:
 - [[felt-shift]]
