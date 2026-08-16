@@ -35,6 +35,8 @@ Their contribution to the book's medium is a licence and a limit stated in one m
 
 *The Tree of Knowledge* (1987), chapters five and six and the observer coda, queued in `ops/reading queue.md`, with the question Dig IV set: whether the text licenses "perturb, not install" as a claim about *pedagogy* or only about cellular and organismic coupling — which decides whether the participation-law-as-biology is Maturana and Varela's own claim or an appropriation of it.
 
+The transmission mesh's verdict, folded 2026-08-16: Dig IV judged them ground for running machinery, the citable biology under "perturb, not install" and "meaning made in interaction," to be run with its contested tag and self-undermining edge visible, and it queues The Tree of Knowledge at Tier 7 (entry 71).
+
 ## Recommendation
 
 Recorded in the field above; the seating decision is the author's.
