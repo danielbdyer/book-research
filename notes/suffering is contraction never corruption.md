@@ -7,7 +7,7 @@ topics: ["[[contraction-not-corruption]]"]
 
 # suffering is contraction never corruption
 
-The book replaces the repair model of self-improvement with a contraction model. In the repair model something broke and must be fixed; in the book's model nothing is damaged — fullness has contracted, almost always as protection, and a contraction can open. The first-telling states the reframe in the book's plainest words: "Nothing in you is broken. Something in you is folded." The consequence the book draws is diagnostic and moral at once: a fold is learned rather than repaired (what shape, what it protected, what would let it open), and self-punishment for having the fold loses its basis.
+The book replaces the repair model of self-improvement with a contraction model. In the repair model something broke and must be fixed; in the book's model nothing is damaged — fullness has contracted, almost always as protection, and a contraction can open. The first-telling states the reframe in the book's plainest words: "Nothing in you is broken. Something in you is folded" (first-telling: the reframe, restated at first-telling: the door). The consequence the book draws is diagnostic and moral at once: a fold is learned rather than repaired (what shape, what it protected, what would let it open), and self-punishment for having the fold loses its basis.
 
 The technical form comes from the Trika tradition's three malas — fullness contracted into felt lack, unity contracted into separateness, and action contracted into residue-leaving deeds — which the corpus maps one-to-one onto its own container anatomy's failure modes. The doctrine sets the book in stated opposition to what it calls the repair paradigm of contemporary therapeutic culture.
 
