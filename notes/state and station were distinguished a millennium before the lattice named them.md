@@ -32,6 +32,7 @@ Relevant Notes:
 - [[the unanimity claim is an artifact of how the lineages were selected]] — why arrivals from outside the assembled room count differently from arrivals inside it
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the book's founding convergence, whose two poles this one is outside
 - [[the recognition school installs wonder at the definition of consciousness]] — the boundary's Śaiva instance: aesthetic rapture lasts exactly as long as the tasting, and the tradition says so itself
+- [[what is recognized cannot be un-recognized]] — where this distinction does load-bearing work: the lost breakthrough was a state and recognition is a station, so the irreversibility promise and the reader's lost breakthrough do not contradict
 
 Topics:
 - [[interlocutors]]
