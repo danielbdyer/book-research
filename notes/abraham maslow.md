@@ -35,6 +35,8 @@ Maslow is the founding figure of the human-potential movement, and that is the f
 
 The vault's reading, stated as the vault's rather than as a finding: this is a gain. A book that names its parents and says where they went wrong stands better than one that appears to have arrived from nowhere with a new system. The book already has the critique in hand, because walked IX is that sentence.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
