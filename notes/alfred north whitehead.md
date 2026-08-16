@@ -1,7 +1,7 @@
 ---
 description: "The metaphysician who built a complete philosophy on process rather than substance, so that the book's verbs-only commitment has a finished system standing behind it that it has never cited."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: precedent
 discipline: analytic-philosophy
 clause: "A self described in verbs is a Whiteheadian sentence, and he is the one who paid the full metaphysical bill for it."
