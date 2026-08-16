@@ -1,7 +1,7 @@
 ---
 description: Biernacki takes Abhinavagupta as a live resource in the consciousness-and-matter debate — proof the crossover is a current scholarly project — while developing it toward theory, leaving the practice lane open.
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 recommendation: "Reference-lineage: the living developer who proves the crossover is current, kept with the observation that her destination is metaphysics — the book's practice-verified lane stays unoccupied even here."
 works: ["The Matter of Wonder: Abhinavagupta's Panentheism and the New Materialism (Oxford, 2023)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
