@@ -1,5 +1,5 @@
 ---
-description: The reframe conversation offered a dozen candidate names for the book's center and refused to choose; this note holds the center as layers at different depths — horizon, master question, capacity, method, operators — and names none finally.
+description: The reframe conversation offered a dozen candidate names for the book's center; this note holds the center as layers at different depths — horizon, master question, capacity, method, operators — and the author chose "Ecology of Recognition" on 2026-08-16 as the working name for the whole, held as a revisable handle rather than a sealed doctrine.
 category: configuration-state
 created: 2026-08-13
 status: active
