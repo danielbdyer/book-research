@@ -18,6 +18,8 @@ What matters for the book is where his blade lands. Convergence held as proof fa
 
 The reseating of 2026-08-06 changed what his reading has to settle, and it is open. The survived challenge above is the one aimed at the convergence. The reading queue's first tier aims him at the verification standard instead: on his own hypothesis, a body trained by the book's vocabulary would produce the felt shift in response to the training rather than to anything beyond it — the deepest available version of the fluency objection, because it survives plain prose. That question is new, unread, and not answered by anything on this note; the paragraphs above settle the convergence reading only. The load assignment is the sort's (2026-08-05, reseated 2026-08-06), untested against a full reading of the essay.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
