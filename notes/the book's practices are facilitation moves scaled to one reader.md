@@ -23,6 +23,7 @@ Relevant Notes:
 - [[the book can only be auxiliary to a sovereign reader]] — the same craft seen from the book's side, where the book is an instrument in service of a life that remains the reader's own and never an authority over it
 - [[flourishing flow and facilitation converged on one stance in the author's own record]] — the record that the author's three working domains met on a single stance of presence in May 2026, ten weeks before the corpus formalized it, which is the biography of the craft this law scales down
 - [[the basic practice posture is a point of return rather than a state]] — the posture the scaled-down craft installs first, defined so that falling out of presence and returning counts as the practice rather than as a failure of it
+- [[the householder axiom depends on the participation law being satisfiable within ordinary life]] — the dependency this thesis bridges: the facilitation craft scaled to one is what lets ordinary life supply the container the participation law requires
 
 Topics:
 - [[felt-shift]]
