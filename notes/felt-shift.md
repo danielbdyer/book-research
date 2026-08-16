@@ -168,6 +168,8 @@ The transmission digs of 2026-08-13 excavated the book's medium blind to the vau
 - [[the book escapes the ideology charge only by naming a felt result that would count as its own failure]] — the standard's proof of good faith, a felt result named in advance as failure, which is what makes the shift falsifiable rather than self-sealing.
 - [[shame and the desire to please suppress the reports that would disconfirm a transformational setting's benefit]] — why a disconfirming reading is scarce, so the absence of a harm report is not evidence the shift was genuine.
 - [[lowering the demand of the assessment surfaces the disconfirming reports a high-demand setting suppresses]] — the assessment design that lets the standard be checked honestly, structured shame-reducing independent questioning surfacing the reports the reading setting suppresses.
+- [[the book points at the external check it cannot administer, the finger rather than the moon]] — the author's answer to the standard's required out-of-room companion, that the book points at the external check and admits plainly it cannot run it, the finger rather than the moon (B2, 2026-08-16).
+- [[response expectancy is a two-sided coin, the mechanism of the manufactured artifact and of genuine change alike]] — the author's disposition on the crossover, response expectancy held as a two-sided coin admitted as a core risk, the engine of the manufactured artifact and of genuine change work alike, with his theatre-and-stutter testimony on the productive side (B3, 2026-08-16).
 
 ### Appreciation versus the shift, and which readings check it (Dig 2)
 
