@@ -29,6 +29,8 @@ The book's formula states the same thing. "Connection − Sever-capacity gives y
 
 **The evaluation is from secondary knowledge.** What the reading has to settle: whether Minuchin frames enmeshment as an absent boundary or as a present pattern, which decides whether he joins the privation convergence or complicates it; whether the enmeshment construct survives its own literature's criticism, since it has been charged with pathologizing closeness in cultures where high involvement is normative; and whether Bowen's differentiation of self is the better citation for what the book actually means, since Bowen's version is explicitly about the individual's capacity inside the system, which is closer to the formula's address.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
