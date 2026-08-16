@@ -29,6 +29,7 @@ Relevant Notes:
 - [[grief cannot complete alone]] — the case that makes the missing chair concrete
 - [[ignatius of loyola]] — the four-century precedent for building the second chair into the form
 - [[the book is written to the relational field and enacted upon the author first]] — the author's statement that reframes this tension without dissolving it: if the addressee is the field, the second chair is already occupied and the reader is a third party to the event
+- [[an ecology is a bounded but permeable domain of multiple irreducible loci of participation, none sovereign]] — the ground on which the one-chair medium is one locus's honest boundary, the second chair completed in the reader's own ecology
 
 Topics:
 - [[tensions]]
