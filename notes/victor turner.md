@@ -35,6 +35,8 @@ Turner's contribution is to the book's relation to its own future readership rat
 
 *The Ritual Process* (1969), chapters four and five and the decline-of-communitas passage, queued in `ops/reading queue.md`, with the question Dig VII set: whether any case of normative communitas retained existential force, or whether the decay is genuinely exceptionless — which decides whether the community the book gathers can escape the forecast.
 
+The transmission mesh's verdict, folded 2026-08-16: Dig VII judged him directional, since the communitas-decay typology is an early-warning system for any community the book gathers, and it queues The Ritual Process at Tier 7 (entry 84).
+
 ## Recommendation
 
 Recorded in the field above; the seating decision is the author's.
