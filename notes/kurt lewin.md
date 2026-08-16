@@ -35,6 +35,8 @@ Three questions, in the order that decides the most.
 - Whether the unfreeze–change–refreeze model bears on the book's plasticity-window material or is a later simplification of him.
 - Whether the T-group's own documented harms belong with the adverse-effects reading already queued.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
