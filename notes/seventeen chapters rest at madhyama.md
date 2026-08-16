@@ -26,6 +26,8 @@ The move is half-concrete rather than hypothetical. The provenance work reports 
 - The doctrine itself is recorded at [[a word at madhyama can be perfected forever a word at vaikhari can be answered]]; the anti-preservation rule at [[ripeness is not refrigeration]].
 - The drafts admitted on 2026-08-01 supply a fact that narrows the tension without altering it. A complete prose pass at the arc exists, recorded at [[the whole arc has already been drafted once in prose]], so the unreleased state is not explained by unfinished writing. The treatment above is unchanged, because what it requires is a reader rather than a draft.
 
+**Resolved 2026-08-16.** The treatment on record was executed. Its vehicle became the pilot letter when the author picked the correspondence vision on 2026-08-08 (`ops/decisions.md`), and that letter — the first letter of the correspondence, whose drafts are in `drafts/` — went out to real readers at some point before 2026-08-14. The vault records neither the date of the sending nor the recipients, and this record does not invent them; one sentence from the author adds them if he wants them held. The author directed the reconciliation of the record on 2026-08-16: "yes, fully reconcile, this was long long ago now in terms of the book research repo history." The resolution covers this tension and no more. The full manuscript continues as new work under the correspondence program, and later letters are new acts rather than this tension's residue.
+
 ---
 
 Relevant Notes:
