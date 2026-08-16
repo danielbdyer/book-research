@@ -1,7 +1,7 @@
 ---
 description: "The founder of structural family therapy, whose enmeshment names a system with diffuse internal boundaries and whose treatment is boundary-making — the construct the book's formula states and never credits."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: precedent
 discipline: clinical
 clause: "Connection − Sever-capacity is his construct under his own word, and the book's prescription is his intervention restated."
