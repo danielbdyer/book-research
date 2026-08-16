@@ -31,6 +31,8 @@ The counterweight is evidential rather than doctrinal, and the numbers are speci
 
 This bears on how the model can be named accurately. Citing IFS points at a vocabulary and a practice ethic that many readers already speak; it does not point at a settled clinical result, and a citation that reads as though it does would be saying more than the literature says. The distinction matters for pointing rather than for argument: Schwartz's finding about protectors is a clinician's observation offered in a clinician's terms, and naming it as that is both accurate and enough.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
