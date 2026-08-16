@@ -1,7 +1,7 @@
 ---
 description: "Rogers ran the program Gendlin's felt shift came out of and specified what a helping relationship requires, so the book's verification standard and its container doctrine both descend from him uncited."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: precedent
 discipline: clinical
 clause: "The book's verification standard is Gendlin's, and Gendlin's finding was produced inside Rogers's program by Rogers's question."
