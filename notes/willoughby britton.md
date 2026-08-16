@@ -45,6 +45,8 @@ The 2017 study itself, with three questions: which of the documented categories 
 
 One constraint on the whole reading, from `ops/methodology/authorial stance.md`: the vault postulates no efficacy in either direction. Holding this chair is not a claim that the practice harms, any more than the roster is a claim that it works.
 
+The transmission mesh's verdict, folded 2026-08-16: Dig VI judged her ground for running machinery, the one contemplative program with a working anti-compliance instrument in the low-demand harm assessment, and it queues a reading at Tier 7 (entry 52).
+
 ## Recommendation
 
 Recorded in the field above; the seating decision is the author's.
