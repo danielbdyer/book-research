@@ -33,6 +33,8 @@ Three questions, in the order that decides the most.
 - Whether the *privatio boni* tradition's own answers to the affliction objection are usable here.
 - Whether the Trika *malas* and the Aristotelian privation are the same structure or two structures that resemble each other, which matters because the vault currently maps them corner for corner ([[the triads privations map the three malas corner for corner]]) and has never asked whether the mapping is more than verbal.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
