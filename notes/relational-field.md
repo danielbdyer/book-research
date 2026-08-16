@@ -91,6 +91,8 @@ The claim that the knower is inside what they know is the condition this map's l
 
 - [[both attacks on the standard blame the absence of correction by another person]] — the Second Chair argued for by the verification standard's two sharpest opponents, who both explain introspective overconfidence by the fact that nothing ever corrects a person's reading of themselves
 
+- [[the solitary felt shift rests on one name while the paired felt shift has convergent company]] — Gendlin's listener requirement and Zen's dokusan read as two independent arrivals at one structure, so the felt shift verified in relation has company the solitary body's report does not
+
 - [[the participation law has measured support at a scale nothing else in the book approaches]] — from the primary reading of 2026-08-07: the alliance-outcome relation across 295 studies and over 30,000 patients at r = .278, holding across treatment approach and rater and country, and surviving the test for whether early improvement explains it
 - [[the alliance holds its size when the exchange is mediated and written]] — the same meta-analysis on internet-delivered therapy: r = .275 across 23 samples, against the standing expectation that a written and mediated exchange would weaken the relation
 - [[the practitioner rather than the person being helped carries the alliance effect]] — variability between therapists exceeds variability within a therapist's caseload, so the measured capacity belongs to the person holding the container
