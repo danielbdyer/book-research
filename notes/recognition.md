@@ -37,6 +37,7 @@ Beneath this ground the prior frame's concern for the prose returns as a feature
 - [[a bell is tuned by subtraction alone and a cut past its pitch cannot be undone]] — a bell-founding resonance accompanying the uncovering doctrine: the tone is found in what the casting already holds, and change is removal
 - [[the solo practice reaches the felt shift and the primitives then surface by themselves]] — the practice form of remembering: after the felt shift the book claims the primitives are found already in experience, not applied to it
 - [[the tuesday is the temple]] — the book's commitment to ordinary life as the site of the work
+- [[the householder axiom depends on the participation law being satisfiable within ordinary life]] — the unstated condition beneath the Tuesday-is-the-temple axiom: ordinary life must supply the container and witness the participation law requires, or it names a site the law calls insufficient
 - [[a hiding that never intends to be found has stopped being play]] — the play doctrine that answers why fullness contracts at all
 - [[the topology only exists where it is being performed]] — the corpus's own limit on maps, this vault included
 - [[recognition is the soul's reminder rather than the ego's reward]] — the positive form of the guard the atlas records only as Lacan's warning
