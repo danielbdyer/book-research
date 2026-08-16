@@ -37,6 +37,8 @@ The survey reads the Exercises as reassurance — proof that the genre has a saf
 
 The load designation on this note — independent-arrival — is the lineage sort's assignment (2026-08-05, recorded in the crossing at `scripts/queries/lineage-sort.sh`), layered onto an evaluation made against the primary rules on 2026-08-02; like every load, it is the grid's proposal until the author seats it.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
