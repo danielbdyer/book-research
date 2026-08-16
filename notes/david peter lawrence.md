@@ -1,7 +1,7 @@
 ---
 description: Lawrence reads the Pratyabhijñā treatises as apologetics and spiritual exercise at once — argument as the vehicle of the recognition it argues for — and runs the crossover as proof, the road this book declined.
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 recommendation: "Reference-lineage: the strongest outside precedent for a text whose form enacts its content, kept beside his evidentiary ambition, which is the road the author has declined."
 works: ["Rediscovering God with Transcendental Argument (SUNY, 1999)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
