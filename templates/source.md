@@ -44,6 +44,13 @@ _schema:
       required: [description, source_type, generated]
       optional: [exa_prompt, exa_tool, domain, topics]
       body: "A verified outside sweep: the queries run, what was confirmed or corrected, with citations. Cited in place like a consulted work; gets no registry row."
+    encounter:
+      applies_to: "archive/encounter — *.md"
+      naming: "encounter — <event> (<date>).md"
+      required: [description, category, date, participants, field]
+      category_value: source-note
+      optional: [topics]
+      body: "A lived event — a retreat, a facilitation session, a dialogue — as distinct from a document, which a reading record traces. States the field, the participants with the standing each one's turns carry, what was noticed, and the citation grammar claims then use, e.g. 'reframe conversation, 2026-08-13'. The first instance is the reframe-conversation record of 2026-08-13."
 
 # Template fields
 description: ""
