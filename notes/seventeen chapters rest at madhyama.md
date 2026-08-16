@@ -1,7 +1,7 @@
 ---
-description: The manuscript exists as seventeen fully formed but unreleased chapters that stay indefinitely revisable, and the corpus's recommended first move is one fully treated pilot chapter sent to two real readers.
+description: "Resolved 2026-08-16: the treatment on record was executed — the pilot letter went out to real readers before 2026-08-14 — and the full manuscript continues as new work under the correspondence program."
 category: tension
-status: live
+status: resolved
 treatment: "one pilot chapter, fully treated against every revision pass, sent to two real readers"
 sources: ["atlas §XI.1f", "walked XI", "space-around: implicit throughout"]
 topics: ["[[tensions]]", "[[answerability]]", "[[open-questions]]"]
