@@ -29,7 +29,7 @@ The reframe of 2026-08-13 distilled a ground beneath this map's concern, and the
 - [[naming aloud is part of what is happening rather than a report about it]] — the speech doctrine at session scale: the spoken name is part of the event it names
 - [[the poems end by naming the next act and leaving it undone]] — the answerable ending as the author's native signature across four poems
 - [[the book's doctrine of time restates a sentence the author's father told him]] — the inheritance beneath the temporal doctrines, and beneath the manuscript's unhurried condition
-- [[seventeen chapters rest at madhyama]] — the meta-tension: the manuscript's current state, and the pilot-chapter move
+- [[seventeen chapters rest at madhyama]] — the meta-tension over the manuscript's state, resolved 2026-08-16: the pilot letter went out to real readers before 2026-08-14, executing the pilot move the corpus recommended, while the full manuscript continues as new work under the correspondence program
 - [[the book is written to the relational field and enacted upon the author first]] — the author's statement of the book's address, which moves what the unsent manuscript means without dissolving the tension: the enactment is already under way on its writer, and a word written to the field is still not a word spoken
 - [[the perfectible conversation is the manuscript's most comfortable room]] — where the perfectible word actually lives, and the exit already sized
 - [[the reframe conversation is itself a candidate perfectible room]] — the same tension caught in the act: the reframe produced five finished architectures on demand and left the pilot unsent, an instance of the madhyamā comfort this map warns of rather than a report about it
