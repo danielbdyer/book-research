@@ -13,6 +13,7 @@ The formulas below are the book's canonical examples. Each is a separate claim b
 ## Claims in this map
 
 - [[suffering is contraction never corruption]] — the master doctrine and its lineage
+- [[a bell is tuned by subtraction alone and a cut past its pitch cannot be undone]] — a bell-founding resonance accompanying the privation doctrine: change proceeds by removal, and because subtraction is irreversible the discipline is knowing when to stop
 - [[the transformation field divides into five theories of where suffering lives]] — the contemporary field's five answers to the question this map's doctrine answers, kept in disagreement
 - [[the diagnosis contains the cure]] — the Privation Principle, which the book calls its signature move
 - [[self-facilitation begins from what is happening rather than from what is wrong with the self]] — the doctrine as a starting posture: opening from what is present rather than from what is wrong restates "nothing in you is broken" as the first move of the inward practice, so the self is met rather than corrected
