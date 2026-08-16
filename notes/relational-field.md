@@ -257,6 +257,7 @@ The transmission digs of 2026-08-13 (the record is the 2026-08-13 entry in `ops/
 - [[barthes's writerly is a direction of evaluation rather than a producible text]] — the caution on the field's textual analogue, since the writerly names an asymptotic value rather than a producible artifact, so a book cannot manufacture the field at scale.
 - [[fish's interpretive communities convert participation into socialization and cannot explain how a reading changes a community]] — the demotion the field must answer, that participation is only socialization into a community, which cannot explain how a reading changes the community it joins.
 - [[for the reader outside comfortable modernity the device is the axis of contact rather than its loss]] — the field at a distance, since for the isolated or diasporic reader a device carries the beloved across distance rather than muting the world, which inverts the loss the why-now assumes.
+- [[the book points at the external check it cannot administer, the finger rather than the moon]] — the author's disposition on the third requirement, that the book points at the external, delayed, other-administered check the field requires and admits it cannot administer it, the finger not the moon (B2, 2026-08-16).
 
 ## What remains
 
