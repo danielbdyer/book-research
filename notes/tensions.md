@@ -26,7 +26,7 @@ The atlas records these five at §XI.1 and heads them as the book's own diagnost
 - [[forward hunger defeats the pause]] — the book's narrative momentum works against the stopping its practices require. Treatment: thresholds that require action before the text continues (gate practices).
 - [[the reader's resistance has nowhere to land]] — the book asserts that refusal is sacred but never stages one. Treatment: a dramatized refusal and a margin voice that argues back and sometimes wins.
 - [[a codex is a one-chair technology making a two-chair argument]] — the deepest claim concerns two people; reading involves one. Treatment: the book designed as one half of a pair (the Second Chair, with the Talmudic study-partner tradition as lineage).
-- [[seventeen chapters rest at madhyama]] — the meta-tension about the manuscript's own state. Treatment: one pilot chapter, fully treated, sent to two real readers.
+- [[seventeen chapters rest at madhyama]] — the meta-tension about the manuscript's own state, resolved 2026-08-16. The treatment — one pilot, fully treated, sent to real readers — was executed: the pilot letter went out to real readers before 2026-08-14, and the full manuscript continues as new work under the correspondence program.
 
 ## The tensions the drafts expose
 
