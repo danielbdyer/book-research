@@ -16,6 +16,8 @@ The refusal kept is the fork he took: Lawrence's own project runs the crossover 
 
 Evidence standing (added 2026-08-06). This note quotes the survey's account of Lawrence, not his pages; *Rediscovering God with Transcendental Argument* is unread here. The crossover research verified the work and its thesis at web depth on 2026-08-03 (archive/research — crossover cluster background.md) and noted that Ratié's later treatise-as-upāya work would strengthen this finding. The recommendation rests on that survey depth, not on a reading.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
