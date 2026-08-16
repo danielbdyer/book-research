@@ -35,6 +35,8 @@ Moreno's possible contribution to the book's medium is the earliest worked techn
 
 A scoping read of *Who Shall Survive?* (1934) and *Psychodrama, Volume I* (1946), queued in `ops/reading queue.md`, with the question the synthesis set: whether Moreno's spontaneity training and warm-up hold a felt-shift standard of transformation or only a standard of social spontaneity — which decides whether he is the missing head of the book's facilitation lineage or one more co-present method that does not port. This is the one figure among the digs' surfaced ancestors whom no dig evaluated, so the evaluation has not begun rather than merely stalled.
 
+The transmission mesh's verdict, folded 2026-08-16: Dig VII surfaced him as the play-lineage's absent stratum, finding the roster reached its subject without the coiner of the warm-up, spontaneity training, and sociometry, so the note records that the dig found the lineage incomplete at its head, and it queues a scoping read as a Tier 7 reading (entry 87).
+
 ## Recommendation
 
 Recorded in the field above; the seating decision is the author's, and it waits on a reading that has not yet been done.
