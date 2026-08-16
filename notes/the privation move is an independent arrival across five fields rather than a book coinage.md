@@ -41,6 +41,7 @@ Relevant Notes:
 - [[the system is scaffolding rather than the centerpiece]] — the standing this claim complicates for one part of the apparatus without disturbing it for the rest
 - [[the diagnostic discipline survives the apparatus that carries it]] — where the privation reading was first named as one of the two survivors
 - [[the withdrawal-makes-room move is an independent arrival that splits on the book's householder fork]] — the withdrawal-form twin of this convergence, the same evidence class run on a self-withdrawal that makes room
+- [[the unanimity claim is an artifact of how the lineages were selected]] — the selection-artifact audit this convergence had not yet met, which qualifies its arrivals gathered by searching for the absence-form
 
 Topics:
 - [[contraction-not-corruption]]
