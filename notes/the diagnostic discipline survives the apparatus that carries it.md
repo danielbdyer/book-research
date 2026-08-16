@@ -30,6 +30,7 @@ Relevant Notes:
 - [[the triads privations map the three malas corner for corner]] — the privation reading's second independent ground, inside the tradition the book owes most
 - [[the system is scaffolding rather than the centerpiece]] — the decision that already anticipated this sort, one level up
 - [[ordinary names keep the deepest structures visible]] — the naming rule the specificity discipline is the working half of
+- [[a developmental scheme handed to practitioners becomes a ranking of persons]] — the hazard the two survivors split on: the specificity discipline grades acts and cannot be stood on, while the privation reading names persons and can
 
 Topics:
 - [[contraction-not-corruption]]
