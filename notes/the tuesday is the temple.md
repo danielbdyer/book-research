@@ -40,6 +40,7 @@ Relevant Notes:
 
 - [[the sixteenth poem returns the book's language to the life it came from]] — the doctrine compressed to two words in the author's own poem: "current is tuesday" (poems #16)
 - [[a witness kept as proof forecloses what it proves]] — the doctrine's oldest emblem and its cost: jam on toast as "existential certitude in self-care… deep contentedness and fundamental worthiness" in a mundane act needing no audience, deferred for years while the proof stayed kept — "the man underneath gets his Tuesdays back" (provenance addendum four §I.3)
+- [[the householder axiom depends on the participation law being satisfiable within ordinary life]] — the axiom composed with the participation law, showing it rests on ordinary life supplying the container and witness participation requires
 
 Topics:
 - [[recognition]]
