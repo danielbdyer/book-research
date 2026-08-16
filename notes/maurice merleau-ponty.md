@@ -47,6 +47,8 @@ Recorded in the field above; the seating decision is the author's.
 - Merleau-Ponty's half is shown from the reading record's page citations (PP: 245/209; V&I: 187/142, 179/136): the body "not external to perception but constitutive of it — the perceiving subject itself," the reversibility that "enact[s] a form of reflexivity," and the flesh as "a prototype of Being," ontologically fundamental rather than derived from consciousness.
 - The clearing trajectory — embodied blind spot, re-filed from the relational shelf, reading done 2026-08-10 — is recorded at `ops/clearing.md` and traced in the reading record; this note evaluates the interlocutor seat that the claim note and the reading record do not assign.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
