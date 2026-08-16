@@ -44,6 +44,7 @@ Relevant Notes:
 - [[david peter lawrence]] — the fourth refusal's other resolution, the crossover run as proof rather than as gesture
 - [[both poles of the convergence supply their own front doors]] — the tradition's own entry texts, which a reader meets before these refusals
 - [[steven wasserstrom]] — the historian's version of the same refusals, aimed at the practice of comparative synthesis rather than at any one of its moves
+- [[the reader's resistance has nowhere to land]] — the tension these four refusals can supply: a refusal from inside the book's foundation it can stage losing to on purpose
 
 Topics:
 - [[interlocutors]]
