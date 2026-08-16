@@ -1,9 +1,9 @@
 ---
-description: "The author's pause, 2026-08-03: the Kashmir Śaiva tradition is staged as aletheia's compatriot and honored as the ground beneath everything, yet never given its flowers as a guest among the book's thinkers."
+description: "The author's pause of 2026-08-03, answered 2026-08-16: Kashmir Śaivism is named as the book's deepest well, and the road into the valley stays the treatment under trial, so the tension stands treated rather than resolved."
 category: tension
-status: live
+status: treated
 treatment: "the road into the valley"
-sources: ["author statement, 2026-08-03", "atlas §IX preamble", "atlas §I", "first-telling: the offering"]
+sources: ["author statement, 2026-08-03", "author decision, 2026-08-16", "atlas §IX preamble", "atlas §I", "first-telling: the offering"]
 topics: ["[[tensions]]", "[[interlocutors]]"]
 ---
 
