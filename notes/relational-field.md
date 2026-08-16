@@ -50,6 +50,8 @@ The reframe of 2026-08-13 distilled the ground this whole map now rests on. The 
 - [[the required second person splits into a judge and a mirror]] — the tension: the company's refusals specify two incompatible missing persons, and the sovereignty doctrine can ship only one
 - [[reader sovereignty has an unstated exception at destabilization]] — where that split lands on the sovereignty doctrine, which the book states without condition even though the crisis is where an outside authority is both needed and forbidden
 - [[independent arrivals reach only the weak reading of the participation law]] — the trade-off across the law's six independent witnesses: independence or strength, not both
+- [[a zero-knowledge proof convinces only the verifier who supplied its own challenges]] — the participation law reached as a theorem and accompanying it: a transcript convinces nobody who did not supply their own live challenges
+- [[an apple grown from seed yields a wilding rather than its parent]] — a horticulture figure accompanying the participation law: a book cannot graft, so a reader grows a wilding rather than a copy of what the author grew
 - [[zen's makyo instruction refuses the self-certifying experience]] — a thousand-year precedent for the field as second check: the teacher, not the experience, verifies
 
 ### Nascent stubs
