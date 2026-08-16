@@ -37,6 +37,8 @@ Iser's contribution is a mechanism for the book's medium that is native to the p
 
 *The Act of Reading* (1978), queued in `ops/reading queue.md`, with the question Dig II set: whether the 1978 taxonomy of blank-types and the "minus function" split completion-gaps from participation-gaps more sharply than the 1972 essay, and whether it adds any verification the earlier essay lacks. The 1972 reading is genuine; the theory of the book that would confirm the load is not yet read.
 
+The transmission mesh's verdict, folded 2026-08-16: Dig II judged him load-bearing, since the participation-gap is the strata's most exact mechanism for enactment over appreciation and "we do not know what happens to us" is the honest boundary the felt-shift claim must answer, and it queues The Act of Reading at Tier 7 (entry 62).
+
 ## Recommendation
 
 Recorded in the field above; the seating decision is the author's.
