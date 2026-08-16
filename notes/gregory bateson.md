@@ -35,6 +35,10 @@ The second refusal is structural. Bateson held that conscious purpose is the pat
 
 The survey presents Bateson as an ally who happens to be unnamed. In the primary texts he is not an ally: the ladder and the double bind sit alongside a refusal aimed squarely at designed curricula and a warning that the transition the book's arc arrives at is sometimes pathogenic. Naming him for the ladder alone would quote half of him, which is the one thing a project that points at people cannot do.
 
+The transmission mesh's verdict, folded 2026-08-16: Dig IV judged him load-bearing, since he supplies the distinct-level logic and the soberest boundary-marker, that the felt shift cannot self-certify at the depth of self-dissolution, and it queues a Tier 7 reading (entry 73).
+
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
