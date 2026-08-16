@@ -1,7 +1,7 @@
 ---
 description: "Lewin founded action research on the principle that a system is understood by intervening in it, invented the T-group, and gave social science the word field — three of the book's own commitments, from one absent name."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: precedent
 discipline: social-theory
 clause: "The participation law's scientific form is his: you learn what a system is by changing it, and the group that studies itself was his invention."
