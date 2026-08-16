@@ -1,7 +1,7 @@
 ---
 description: "Dewey and Kolb established that experience becomes learning only when it is reflected on and then tested in a further act, which is the structure of the book's integration argument and of its practice curriculum."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: precedent
 discipline: practitioner-pedagogy
 clause: "The book's answer to why a peak experience does not hold is the pedagogy's oldest finding: experience without reflection and a return to action does not become learning."
