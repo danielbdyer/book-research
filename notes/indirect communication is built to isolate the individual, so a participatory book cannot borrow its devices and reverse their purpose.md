@@ -17,7 +17,6 @@ The vector of Kierkegaard's indirection points away from the plural. The devices
 ---
 
 Relevant Notes:
-- [[indirect communication can dismantle a private illusion but cannot name an institutional lie]] — the same directional limit shown at the collective scale, where the method had to be abandoned to address the public
 - [[deceiving a reader into the truth requires knowing his destination, a warrant a book without authority has renounced]] — the second thing that does not port, the asymmetry the devices carry
 - [[the book is written to the relational field and enacted upon the author first]] — the book's opposite address, to the field rather than the isolated soul, which is what makes the borrowing questionable
 

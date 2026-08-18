@@ -15,7 +15,7 @@ topics: ["[[interlocutors]]", "[[felt-shift]]"]
 
 Maurice Merleau-Ponty is the phenomenologist of the lived body. His *corps propre* — one's own body, the body as lived rather than observed — is neither an object one has nor a tool one uses but the perceiving subject itself, the medium through which there is a world at all. The body is constitutive of perception rather than external to it: in the phrase the vault's reading records, "One's own body is in the world just as the heart is in the organism" (Merleau-Ponty, *Phenomenology of Perception*, PP: 245/209). His late work deepens this into an ontology: the two-hands-touching reversibility enacts a reflexivity within perception, and the flesh (*la chair*), "a prototype of Being" (Merleau-Ponty, *The Visible and the Invisible*, V&I: 179/136), makes the body ontologically fundamental rather than derived from consciousness.
 
-The reading behind these citations is done, via the Stanford Encyclopedia of Philosophy's Merleau-Ponty entry citing the primary by pagination; the record is `archive/reading — merleau-ponty, phenomenology of perception on the body-subject (1945).md`, and the finding it produced is now a full claim ([[merleau-ponty holds the body as the perceiving subject rather than an instrument that certifies]]). The quotations are the encyclopedia's, some of them direct quotations of Merleau-Ponty; the verbatim primary and the French await a copyright edition.
+The reading behind these citations is done, via the Stanford Encyclopedia of Philosophy's Merleau-Ponty entry citing the primary by pagination; the record is `archive/reading — merleau-ponty, phenomenology of perception on the body-subject (1945).md`, and the finding it produced is now a full claim (merleau-ponty holds the body as the perceiving subject rather than an instrument that certifies). The quotations are the encyclopedia's, some of them direct quotations of Merleau-Ponty; the verbatim primary and the French await a copyright edition.
 
 ## Why the sort wants him
 
@@ -29,7 +29,7 @@ His independence is partial, and the note keeps the qualification. He shares phe
 
 Two refusals are kept, and both are what make him useful rather than decorative.
 
-He refuses the body-as-instrument, and with it the felt-shift-as-test framing that put the body at the center of the book. The book makes the felt shift its verification standard, which assigns the body the job of certifying whether a change occurred ([[nothing enters the lattice the body has not countersigned]]). Merleau-Ponty's body-subject is neither the body-as-object nor the body-as-tool, so it cannot be the instrument that certifies; he fills the embodied blind spot by refusing the very commitment that created it, which makes him company for the embodied and a standing refusal of the verification standard at once ([[the felt shift bears more load than any single test can carry]]).
+He refuses the body-as-instrument, and with it the felt-shift-as-test framing that put the body at the center of the book. The book makes the felt shift its verification standard, which assigns the body the job of certifying whether a change occurred ([[nothing enters the lattice the body has not countersigned]]). Merleau-Ponty's body-subject is neither the body-as-object nor the body-as-tool, so it cannot be the instrument that certifies; he fills the embodied blind spot by refusing the very commitment that created it, which makes him company for the embodied and a standing refusal of the verification standard at once (the felt shift bears more load than any single test can carry).
 
 He also refuses the identification of his flesh with the book's recognition-ontology, and this refusal is recorded as a departure rather than a convergence. The flesh (*la chair*) is an ontology of embodied perception and its reversibility — the body as the reversible ground of there being a world. The book's deepest ground is the nondual Kashmir Śaiva recognition (*pratyabhijñā*) of consciousness as self-luminous and identical with Śiva, "the self-luminous consciousness in which experience arises" (reframe conversation, 2026-08-13, line 2163; [[the kashmir shaiva tradition underlies the book rather than joining its company]]). Merleau-Ponty's flesh names Being through perception; the recognition-ontology names consciousness recognizing itself as the ground of Being. Reading the flesh as a phenomenological arrival at the recognition-ontology would collapse a difference the two halves keep: he is the witness to the body that perceives, not to the consciousness that recognizes itself.
 
@@ -52,14 +52,12 @@ Seated 2026-08-16 by the author's acceptance of the standing recommendations (op
 ---
 
 Relevant Notes:
-- [[merleau-ponty holds the body as the perceiving subject rather than an instrument that certifies]] — the finding this chair carries, now full on the reading
 - [[nothing enters the lattice the body has not countersigned]] — the verification standard whose instrument-body he refuses
 - [[eugene gendlin]] — the clinical witness to embodiment-as-knowing he stands beside as the philosophical one
 - [[the four ontological roots organize the interlocutors by trained way of seeing]] — the lens whose empty phenomenology root (Root C) he fills with a phenomenology of the lived body
 - [[the kashmir shaiva tradition underlies the book rather than joining its company]] — the recognition-ontology his flesh-ontology is not, kept as a departure rather than a convergence
 - [[martin heidegger]] — the phenomenologist already seated at Root C, from whose bodiless Dasein the lived-body analysis departs
 - [[michel henry]] — the other phenomenology candidate, whose auto-affection is queued as a possible independent arrival at the reflexive dimension of awareness
-- [[the felt shift bears more load than any single test can carry]] — the overload finding his body-subject deepens from the side of what the body is
 - [[abram's more-than-human makes the animate world a participant in the inner life]] — the ecological extension of the flesh outward into the animate world
 
 Topics:

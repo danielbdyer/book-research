@@ -17,11 +17,11 @@ The Fourth Way is the name Gurdjieff gave to a path that runs through ordinary l
 
 ## Why the sort wants them
 
-Of the names on the precedent bench, this is the closest structural ancestor — a complete system of self-observation, with its own vocabulary, aimed at people living ordinary modern lives, and offered as usable ([[the nearest prior attempts are case histories rather than interlocutors]]). The householder framing in particular is not incidental: the Fourth Way's whole self-definition is that it does not require withdrawal, which is the book's own claim ([[the tuesday is the temple]]).
+Of the names on the precedent bench, this is the closest structural ancestor — a complete system of self-observation, with its own vocabulary, aimed at people living ordinary modern lives, and offered as usable (the nearest prior attempts are case histories rather than interlocutors). The householder framing in particular is not incidental: the Fourth Way's whole self-definition is that it does not require withdrawal, which is the book's own claim ([[the tuesday is the temple]]).
 
 What the case supplies is the outcome. The grid's summary: it is "the clearest record of how such a thing acquires authority dynamics its founder did not intend" (`mesh grid: tier 0`). Gurdjieff's own relation to his pupils became the subject of the movement's history rather than a footnote to it, Ouspensky broke with him, and the successor groups reproduced the dynamic in forms no one designed.
 
-That bears on a question already open here. The book cannot currently distinguish a reader in dissolution from a reader in regression ([[the book cannot tell dissolution from regression and neither can its reader]]), and the Fourth Way is a documented case of a system that induced destabilization deliberately, had a teacher present to read it, and still produced casualties. A book has no teacher present at all.
+That bears on a question already open here. The book cannot currently distinguish a reader in dissolution from a reader in regression (the book cannot tell dissolution from regression and neither can its reader), and the Fourth Way is a documented case of a system that induced destabilization deliberately, had a teacher present to read it, and still produced casualties. A book has no teacher present at all.
 
 ## What they would refuse
 
@@ -42,9 +42,6 @@ Recorded in the field above; the seating decision is the author's.
 ---
 
 Relevant Notes:
-- [[the nearest prior attempts are case histories rather than interlocutors]] — the bench this chair belongs to
-- [[a developmental scheme handed to practitioners becomes a ranking of persons]] — the failure mode this case documents in its own way
-- [[the book cannot tell dissolution from regression and neither can its reader]] — the gap this case shows costing something even with a teacher present
 - [[the tuesday is the temple]] — the householder claim they share with the book
 - [[the book's native genre is the letter from a friend read alone]] — the form their refusal is aimed at
 - [[ken wilber]] — the same bench, and the better-documented failure

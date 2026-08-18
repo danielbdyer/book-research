@@ -22,8 +22,6 @@ The correspondence is worth the book because it supplies a reading-native preced
 Relevant Notes:
 - [[the field between two people does work]] — the book's own statement of the between, of which the fused horizon is the reading-specific arrival
 - [[the third thing has a mechanism in participatory sense-making]] — a second, empirical arrival at meaning-owned-by-neither, from enactivist cognitive science, beside this hermeneutic one
-- [[the felt bindingness of a claim to truth cannot be told from inherited authority in its clothes]] — the price this model carries, the Habermas fracture that its only check can be manufactured
-- [[independent arrivals reach only the weak reading of the participation law]] — the trade-off this witness sits inside, where an arrival independent of the founding poles tends to reach the law in its weaker form
 - [[the reader's working posture is solitude held inside relationship]] — the reader-side posture the fused horizon requires, a solitary reader nonetheless in a relation the text half-occupies
 
 Topics:

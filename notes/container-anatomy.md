@@ -23,7 +23,6 @@ Three further levels are built on this anatomy — twelve verb-primitives as its
 - [[the open center is made possible by the three structures and identical with none of them]] — what the three structures are for: the open middle they hold
 - [[thisness is the grain of the container anatomy]] — containers serve particulars, and Scotus, Hopkins, and Deleuze are the named lineage for that idea
 - [[ordinary names keep the deepest structures visible]] — the naming rule from the rename: plain names keep the teaching in the reader's room
-- [[the traditions' refusal of extraction restates the book's own container law]] — five traditions refusing extraction, on the book's own theorem that the container is constitutive
 
 ### Nascent stubs
 
@@ -67,7 +66,6 @@ All four were read at their primary texts on 2026-08-10 and moved from privated 
 
 The reframe conversation of 2026-08-13 turned the container anatomy on the research apparatus that holds this material, and the single note it produced for this map is gathered here.
 
-- [[the field note is the membrane between lived encounter and persistent concept]] — the anatomy read at the scale of a note: a field note works as a membrane that holds lived encounter apart from persistent concept while letting material cross between them, which is the Wall's separating and the Door's exchange carried out by one structure in the vault's own workflow.
 
 ## What the transmission digs added
 

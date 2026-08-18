@@ -21,7 +21,7 @@ The Reich note quotes the outward survey on hysteresis and the abridged edition 
 
 A correspondence claim says two texts say the same thing. Showing one of them asks the reader to take the match on trust, and the reader who most needs to check it is the author, who is deciding whether to cite somebody. The register already forbids this and the rule was applied in only one direction: rule 4 requires the corpus to be quoted and never impersonated, and rules 5 and 6 require exact referents and evidence carried in the sentence. Applied to an isomorph, those rules govern **both** halves. A paraphrase of the outside half is the same failure as a paraphrase of the corpus half, and it is harder to notice because the note looks well-evidenced — it is full of anchored quotations, all of them from one side.
 
-The fluency risk the vault already records is the mechanism ([[felt shift versus felt confirmation]]): a well-formed note reads as true because it is well-formed. A one-sided correspondence note is the most fluent possible form of an unchecked claim.
+The fluency risk the vault already records is the mechanism (felt shift versus felt confirmation): a well-formed note reads as true because it is well-formed. A one-sided correspondence note is the most fluent possible form of an unchecked claim.
 
 ## The rule
 

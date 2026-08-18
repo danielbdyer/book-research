@@ -23,7 +23,6 @@ This guards the book against a specific misreading. A book that walks a reader t
 Relevant Notes:
 - [[the tuesday is the temple]] — the book's commitment to ordinary life as the site of the work, which this note protects from being read as a counsel of slowness
 - [[the house with no ceiling is transcendence with plumbing]] — the image that already refuses withdrawal, of which not-deceleration is the temporal form
-- [[hartmut rosa]] — the interlocutor whose diagnosis of the muted world this note draws the not-slowness clause from
 - [[recognition is cultivated rather than caused or manufactured]] — the book's parallel refusal, a relation cultivated rather than a state reached by doing less
 - [[psychedelic names a movement not a substance]] — the reclaiming this note guards, since a movement of relation is neither a drug nor a deceleration
 

@@ -21,7 +21,6 @@ The finding bears directly on the book's form. A book read alone is a non-contin
 ---
 
 Relevant Notes:
-- [[a codex is a one-chair technology making a two-chair argument]] — the structural problem this sharpens, giving the non-contingent medium a measured signature in the least sophisticated reader
 - [[the third thing has a mechanism in participatory sense-making]] — the same enactive source and its perceptual-crossing evidence, beside which this contingency finding sits as a distinct case
 - [[the book's native genre is the letter from a friend read alone]] — the form whose non-contingency this finding prices, since a letter cannot answer this reader now
 - [[the alliance holds its size when the exchange is mediated and written]] — the countervailing measurement, that a written and mediated exchange keeps the alliance effect, which the contingency worry must be weighed against

@@ -19,7 +19,7 @@ He is also the source of a second thing the book runs on. His 1957 paper specifi
 
 **What he would refuse.** The book, as an object. Rogers's conditions require a *perceived* relationship — the client has to receive the regard for it to operate — and a printed page cannot perceive back. He would put the objection the vault has already collected four times from unrelated traditions in its most empirical form: the mechanism you are borrowing was measured in a two-person room and you are shipping it in one ([[the book's native genre is the letter from a friend read alone]]). He would also refuse the diagnostic apparatus outright. Non-directive practice holds that the helper's formulation of what is wrong is precisely the thing that gets in the way, and a chapter of molecule formulas handed to a reader is a formulation.
 
-**What he gives.** The verification standard's institutional parentage, which matters because that standard rests on one name and cannot be defended by company ([[the verification standard rests on one name and cannot be defended by company]]) — Rogers does not add a second arrival, but he does establish that the finding came out of a funded, adversarial, measured research program rather than out of one man's introspection, which is the specific charge the standard is most exposed to. And a specified, testable version of the container conditions, against the book's descriptive one.
+**What he gives.** The verification standard's institutional parentage, which matters because that standard rests on one name and cannot be defended by company (the verification standard rests on one name and cannot be defended by company) — Rogers does not add a second arrival, but he does establish that the finding came out of a funded, adversarial, measured research program rather than out of one man's introspection, which is the specific charge the standard is most exposed to. And a specified, testable version of the container conditions, against the book's descriptive one.
 
 **One half of this correspondence is quoted and the other is not.** The corpus's three tellings of the research story are quoted above. Rogers's conditions are stated here from secondary knowledge in the vault's own words, and neither the 1957 paper nor the Wisconsin volume has been read in this vault. The address is the 1957 paper, which is six pages and states the six conditions as a numbered list.
 
@@ -37,7 +37,6 @@ Seated 2026-08-16 by the author's acceptance of the standing recommendations (op
 
 Relevant Notes:
 - [[eugene gendlin]] — the chair this one stands behind, and the reason it is load-bearing rather than decorative
-- [[the verification standard rests on one name and cannot be defended by company]] — the exposure Rogers partly answers by supplying the finding's program
 - [[nothing enters the lattice the body has not countersigned]] — the standard itself
 - [[the book can only be auxiliary to a sovereign reader]] — the book's commitment, which his non-directive practice states as a specified condition
 - [[the apparatus descends from the settlement the book positions itself against]] — eight of the book's nine traced constructs come uncredited from one mid-century formation; Rogers is the case where a research program is retold three times and its principal never named

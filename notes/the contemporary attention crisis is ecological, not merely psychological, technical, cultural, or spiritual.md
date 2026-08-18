@@ -24,7 +24,6 @@ Relevant Notes:
 - [[an ecology is a bounded but permeable domain of multiple irreducible loci of participation, none sovereign]] — the model this diagnosis applies, reading the crisis as a disturbance of the whole field rather than of one locus
 - [[every locus is potentially revelatory and necessarily partial — partial truths become dangerous mistaken for total truths]] — the axiom that forbids reducing the crisis to any single discipline's account
 - [[wilber's four quadrants are a coordinate system, not an architecture]] — the four-world structure the conversation uses to show the crisis spanning interior and exterior, individual and collective
-- [[the compound diagnoses may relocate a structural condition inside a person]] — the vault's kindred caution against psychologizing what is partly structural, which the ecological reading answers by naming the field
 
 Topics:
 - [[recognition]]

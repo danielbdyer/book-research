@@ -24,8 +24,6 @@ Relevant Notes:
 - [[buddhist impermanence faces loss as real rather than as veiled presence]] — a third tradition holding loss as real rather than as veiled gain, which meets this reader-response convergence from the contemplative side
 - [[a genuine felt shift changes what can be said next]] — the standard's own defense, which this specifies from the reader's side: the genuine step is felt first as a subtraction, the counterfeit as untroubled enrichment
 - [[beauty recruits the wrong posture]] — the failure mode this diagnoses at the level of feeling, since the reader who only accumulates admired sentences is registering gain and has not been changed
-- [[barthes's plaisir and jouissance map onto the book's appreciation and felt shift]] — the fuller mapping of Barthes's pair onto the book's, where this note holds only the loss the two strata share
-- [[the reader-response strata certify participation in meaning but not a change in capacity]] — the limit that bounds Barthes's half: his loss is dissolution, not built capacity, so the site of change is agreed and its product is not
 
 Topics:
 - [[felt-shift]]

@@ -29,7 +29,6 @@ Relevant Notes:
 - [[grief cannot complete alone]] — the boundary case, the one place the Tuesday cannot supply the witness the law requires
 - [[the book's practices are facilitation moves scaled to one reader]] — the bridge that would satisfy the dependency from inside ordinary life
 - [[transformation is enacted participation inside a held container]] — the participation law's positive form, naming the container and witness the axiom must supply
-- [[a codex is a one-chair technology making a two-chair argument]] — the same seam from the medium's side, the solitary reader short the second person
 
 Topics:
 - [[recognition]]

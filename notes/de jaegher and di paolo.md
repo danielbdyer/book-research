@@ -29,7 +29,7 @@ Derived rather than sourced; the 2007 paper has not been read in this vault.
 
 They would refuse the third thing as an entity. Their irreducible level is a *process* — a pattern of coordination sustained in real time by two embodied agents — and it has no existence apart from the interacting. The book's language of a field that is present, that arrives, that does work, reads as a claim about something there; theirs is a claim about something happening. That is not a small difference and it is where a careless citation would sit.
 
-They would refuse the extension to a reader alone with a book more sharply than any other name in the vault, because their account specifies the mechanism: coordination requires two coupled systems adjusting to each other in time. A text does not adjust. This objection to the book's solitary form now arrives from across the company — the count of thinkers refusing the solitary reading now approaches nineteen, and their two incompatible demands are sorted at [[the required second person splits into a judge and a mirror]] — and theirs is the only version that says exactly what is missing rather than that something is.
+They would refuse the extension to a reader alone with a book more sharply than any other name in the vault, because their account specifies the mechanism: coordination requires two coupled systems adjusting to each other in time. A text does not adjust. This objection to the book's solitary form now arrives from across the company — the count of thinkers refusing the solitary reading now approaches nineteen, and their two incompatible demands are sorted at the required second person splits into a judge and a mirror — and theirs is the only version that says exactly what is missing rather than that something is.
 
 And they would resist the warmth. The synchrony literature the same argument draws on reports that coordination produces cooperation without positive emotion needing to be generated, which cuts against reading the relational field as fundamentally about feeling connected.
 
@@ -51,7 +51,6 @@ Relevant Notes:
 - [[the relational vocabulary's ontology is buber's rather than benjamin's]] — the ontological bearer, where these are the empirical one
 - [[the convergence's independence fails where three of its names share one teacher]] — the test they mostly pass
 - [[the book's native genre is the letter from a friend read alone]] — the form their coupling requirement specifies an objection to
-- [[hartmut rosa]] — the resonance theory this literature makes literal
 
 Topics:
 - [[interlocutors]]

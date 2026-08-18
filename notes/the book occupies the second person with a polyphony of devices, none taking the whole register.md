@@ -19,9 +19,6 @@ The book's architecture assumed a second person the medium cannot supply — a s
 ---
 
 Relevant Notes:
-- [[a codex is a one-chair technology making a two-chair argument]] — the tension this disposition answers without dissolving, since the one-chair medium occupies the absent second person with many partial devices rather than one that heals the wound
-- [[the required second person splits into a judge and a mirror]] — the two incompatible persons the polyphony distributes across devices rather than fusing into one totalizing second voice
-- [[the two-voice vision runs an early knowing in the body against a later writer in the margin]] — one member of the polyphony this claim names, the two-voice device held under the same disposition rather than run through the whole book
 
 Topics:
 - [[relational-field]]

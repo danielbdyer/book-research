@@ -21,7 +21,6 @@ The book's relational field is human-only, the witnesses it seats being human mi
 Relevant Notes:
 - [[buber's tree extends the i-thou relation past the human]] — the chain-link this arrival pairs with on the non-human
 - [[the field between two people does work]] — the human field this opens onto the more-than-human
-- [[merleau-ponty holds the body as the perceiving subject rather than an instrument that certifies]] — the flesh-of-the-world source Abram draws into ecology
 
 Topics:
 - [[relational-field]]

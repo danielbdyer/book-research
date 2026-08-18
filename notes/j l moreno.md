@@ -21,7 +21,7 @@ The reason it matters is a correction to a lineage claim. Dig VII's play strata 
 
 The book's practice curriculum is the author's own facilitation craft scaled to one reader, so the ancestry of that craft is not incidental to the book ([[the book's practices are facilitation moves scaled to one reader]]). Moreno is a candidate for the missing head of that lineage. His warm-up is a named technique for the very thing the book's entry movement attempts — building the conditions for spontaneity before anything is asked — and his insistence that the practitioner works inside the encounter rather than upon it is the stance the vault already states as its own ([[there is no empty room, the facilitator is inside the field, not outside]], [[facilitation is stewardship of conditions]]). He also stands beside a figure the vault already seats, Kurt Lewin, as a co-founder of the group methods the facilitated room descends from ([[kurt lewin]]).
 
-His standing is precedent rather than thesis. Like the other precedents the vault reads, he is consulted for what became of the practice he made rather than for a doctrine he holds, and the seat taxonomy reads a precedent for its outcome ([[the nearest prior attempts are case histories rather than interlocutors]]).
+His standing is precedent rather than thesis. Like the other precedents the vault reads, he is consulted for what became of the practice he made rather than for a doctrine he holds, and the seat taxonomy reads a precedent for its outcome (the nearest prior attempts are case histories rather than interlocutors).
 
 ## What he would refuse
 
@@ -49,7 +49,6 @@ Relevant Notes:
 - [[facilitation is stewardship of conditions]] — the general claim his warm-up is an early technique for
 - [[kurt lewin]] — the co-ancestor of group method the vault already seats beside him
 - [[viola spolin]] — the play-lineage figure whose core terms he coined first, which is why the roster's genealogy is incomplete
-- [[the nearest prior attempts are case histories rather than interlocutors]] — the precedent-reading rule under which he is consulted for his outcome
 
 Topics:
 - [[interlocutors]]

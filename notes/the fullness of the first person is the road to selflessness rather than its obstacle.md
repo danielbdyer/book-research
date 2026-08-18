@@ -35,9 +35,6 @@ Relevant Notes:
 - [[the practice is the expression of realization rather than a means to it]] — the other proposition the grid treats as load-bearing and the vault had never written down
 - [[suffering is contraction never corruption]] — the diagnosis that makes fullness the cure rather than the problem
 - [[the tuesday is the temple]] — the same commitment on the householder side, which the corpus explicitly ties to this one
-- [[david loy]] — the seated far-seat position, whose constitutive lack sits at the other end of this claim
-- [[weil is seated as the opponent the plumbing deserves]] — decreation, the Christian objection to arriving anywhere by fullness
-- [[nihility may be a station the contraction scheme cannot represent]] — the open question about whether a condition exists that this account cannot reach
 - [[ubuntu personhood]] — the third pole of the fork: the first person as achieved in relation rather than possessed
 - [[the book can only be auxiliary to a sovereign reader]] — the reader whose first person the ending restores
 

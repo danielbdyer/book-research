@@ -21,7 +21,6 @@ The conversation states a rule it calls the authorial gate: nothing becomes part
 Relevant Notes:
 - [[the fundamental unit of authorship is recognition, not the sentence]] — the positive statement of the same gate: recognition, not the model's utterance, confers authorship
 - [[nothing transforms from the audience]] — the reader-side analogue of the same law, drawn from the practice lineages: whatever transforms, the person did it
-- [[felt shift versus felt confirmation]] — the hazard the gate guards against: fluent model prose can win bodily assent without a claim being recognized
 - [[delegating production differs from delegating exploration, so each step should require fresh meaning-making]] — the practice rule that keeps material on the admitted side of the gate
 - [[without an authorial center the corpus is a knowledge graph; with one it becomes a work]] — the same selecting center this gate protects, stated at the scale of the whole corpus
 

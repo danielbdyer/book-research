@@ -10,7 +10,7 @@ created: 2026-08-10
 
 **How it is cited.** `Merleau-Ponty, Phenomenology of Perception` and `Merleau-Ponty, The Visible and the Invisible`, with the encyclopedia's page citations (PP: 245/209; V&I: 187/142, 184/139, 179/136). Quotations below are the encyclopedia's, some of them direct quotations of Merleau-Ponty; the verbatim primary and the French await a copyright edition.
 
-**Why this reading.** [[merleau-ponty holds the body as the perceiving subject rather than an instrument that certifies]] holds that his lived body fills the embodied blind spot — the body that certifies nothing — by refusing the felt-shift-as-test framing. The failable question: does Merleau-Ponty make the body the perceiving subject rather than an object or an instrument?
+**Why this reading.** merleau-ponty holds the body as the perceiving subject rather than an instrument that certifies holds that his lived body fills the embodied blind spot — the body that certifies nothing — by refusing the felt-shift-as-test framing. The failable question: does Merleau-Ponty make the body the perceiving subject rather than an object or an instrument?
 
 ## What the reading settled
 

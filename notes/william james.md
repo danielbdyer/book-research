@@ -22,7 +22,6 @@ Seated 2026-08-16 by the author's acceptance of the standing recommendations (op
 
 Relevant Notes:
 - [[the book can only be auxiliary to a sovereign reader]] — his authority verdict is this doctrine with a century of standing
-- [[felt shift versus felt confirmation]] — the counterweight his fruits test sharpens: verification moved from the moment of the shift to the life after it
 - [[the book's honest origin story is noticing first and finding company after]] — the telling his method licenses: observation and company, never proof
 - [[the unanimity claim is an artifact of how the lineages were selected]] — the defect his two-judgments discipline would have prevented
 

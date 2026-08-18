@@ -21,7 +21,6 @@ The finding corrects a lineage claim the book might otherwise make and names the
 ---
 
 Relevant Notes:
-- [[the facilitated room's documented origin set its standard as social adaptability rather than felt transformation]] — the companion finding on the Boyd-Spolin lineage this note places among several
 - [[kurt lewin]] — the seated interlocutor who carries one of the other roots, the training group whose subject is itself
 - [[keith johnstone]] — the improv lineage's other theorist of play as craft, seated as a candidate
 

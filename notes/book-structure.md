@@ -67,7 +67,6 @@ The working structure recorded above is the atlas's, and the seventeen trial cha
 
 A small set of people have already attempted a synthesis of this shape and delivered it to practitioners, and the lineage sort of 2026-08-05 found that the seat taxonomy had no cell for what they supply. Their value to this map is what became of the object each of them made, which is evidence about this book's form rather than about its doctrine.
 
-- [[the nearest prior attempts are case histories rather than interlocutors]] — the finding that opens the bench: a precedent is read for its outcome rather than for what it holds.
 - [[ken wilber]] — the nearest thing to this book that exists, and the fullest record of what becomes of one.
 - [[douglas hofstadter]] — the bench's one good outcome, reached by refusing to hand the reader a usable framework at all.
 - [[gurdjieff and ouspensky]] — the closest structural ancestor, and the clearest record of authority dynamics its founder did not design.
@@ -78,11 +77,8 @@ A small set of people have already attempted a synthesis of this shape and deliv
 
 Five findings from the same round bear on the book as a made thing rather than on its doctrine. Two are propositions the corpus states and never argues; three are hazards the object carries by construction.
 
-- [[the title presupposes lines that develop at different rates]] — the diagnostic premise the title asserts in a metaphor and no document defends.
 - [[the fullness of the first person is the road to selflessness rather than its obstacle]] — the route the closing page enacts, restoring the first person rather than dissolving it.
 - [[the practice is the expression of realization rather than a means to it]] — the anti-instrumentality clause constraining every exercise in the curriculum, and its unresolved collision with the book's own promise.
-- [[a developmental scheme handed to practitioners becomes a ranking of persons]] — what every documented precedent's staged map became once its readers held it.
-- [[the book cannot tell dissolution from regression and neither can its reader]] — the diagnostic the object lacks, which the grid sizes at a chapter.
 
 ## The reframe conversation's re-description of the book (2026-08-13)
 
@@ -111,7 +107,6 @@ A second group states the book's relation to its own framework. The conversation
 - [[do not explain the reader out of an encounter]] — the craft constraint on the object's form, letting the reader meet a distinction before it is explained, which is the performing law stated as a rule for every unit.
 - [[the book is the score not the performance]] — the reader-facing image that installs the sovereign-reader doctrine on the object, the author's experience an example to interpret rather than a conclusion to reproduce.
 - [[wilber's four quadrants are a coordinate system, not an architecture]] — the architectural humility that keeps the object's model from depending on any one map, a coordinate system that says where inquiry looks rather than an architecture that says what exists.
-- [[the ontology is musical notation not the music]] — the object's framework held as notation rather than as the music it serves, kept minimal enough to preserve lived inquiry and failing the moment maintaining it draws more attention than the participation it enables, which is the system-backstage decision stated as a limit on the object.
 
 A third group treats authorship as the act that constitutes the object. The conversation makes recognition, not composition, the unit that turns a corpus into a work, and holds the author to the transformation the book asks.
 
@@ -148,11 +143,9 @@ The provenance record of 2026-08-02 and after — the accounts of the corpus's m
 - [[the book performs what it describes]] — the governing law, stated by the atlas, the walked document, and the first telling
 - [[reading is remembering]] — the governing law at its smallest and earliest scale: the front-matter promise, kept by the entry movement inducing what the architecture movement then names
 - [[the system is scaffolding rather than the centerpiece]] — the author's decision on what the book is centrally about, and the corpus's own prologue statement of it
-- [[the construction record documents the falsework more than the finished arch]] — a far-field figure accompanying the demotion: the making record documents the scaffolding, which is one reason the corpus over-represents the system
 - [[the book is a tuning fork and the reader is the striking surface]] — the self-image installed on page one
 - [[beauty recruits the wrong posture]] — the tension between the prose's quality and the book's purpose
 - [[the register's work is to open the reader's encounter rather than to earn appreciation]] — the affirmative statement of what the register is for, re-nesting the tension above as a feature: the register serves the object's offer by opening the reader's own encounter, and the appreciating posture is that work failing rather than the object's footing
-- [[forward hunger defeats the pause]] — the tension between the narrative engine and the practice engine
 - [[the atlas was compiled from the arc and gloss treatment]] — the provenance relation that governs how agreement among the sources is counted
 - [[the whole arc has already been drafted once in prose]] — the arc executed once in prose, unrecorded by the founding sources
 - [[the mythic operating system contents hold four territories the arc drops]] — what the compression to the fifteen-unit arc cost
@@ -160,21 +153,12 @@ The provenance record of 2026-08-02 and after — the accounts of the corpus's m
 - [[four named units of the arc appear as pages inside the earliest edition's single chapter]] — how the arc was found, read from the earliest state
 - [[the prose drafts use the vetoed triad names]] — the terminology the drafts predate
 - [[the abridged edition compresses the opening poem rather than reproducing it]] — the Plain Water treatment carried out on the book's most lyrical element
-- [[the drafts disagree about which person the book speaks in]] — the unsettled grammatical realization of the middle voice
 - [[the executed draft carries the arc's sequence without the treatment's five rooms]] — the content bound on what has been drafted
 - [[the drafts execute one of the seven designed apparatus devices]] — the apparatus bound, and what "fully treated" therefore costs
 - [[the per-chapter dial is a spanda ratio]] — the chapter dial carries the tradition's word for the pulse
 - [[the unfolding of the center is planted half-erased and finished at a mirror]] — the clearest case of the planting device: a formula planted as a fragment and finished late
-- [[modeling dissent in the verso column moves the refusal to the reader's side of the page]] — the third treatment candidate for the resistance tension, a reader-writable verso column that relocates the refusal off the page and into the reader's own hand
-- [[placing the forward devices at unit openings leaves the closes restful for the pause]] — the placement rule for the apparatus, forward devices at openings and mid-unit so the closes hold the pause the practices need
-- [[the seven apparatus devices sort by audience into three reader-facing and four workshop-only]] — the audience sort of the apparatus, four devices working unseen and three printed, which halves the cost of a fully treated chapter
-- [[four page-turn engines each pull the reader forward without a hook on the final page]] — the four forward engines keyed to designed devices, each compatible with a restful close, their working test the pilot unit
-- [[the pilot unit becomes a page-turn experiment when its two readers are asked where the pull held them]] — the pilot chapter as a first construction of six unbuilt devices, instrumented as a page-turn test by one question to its two readers
-- [[planting the felt shift before naming it makes the standard a retrospective pointer rather than a learnable definition]] — the planting device applied to the verification standard itself, the book performing its own test by naming the felt shift only after the reader has had one
-- [[one interlude the reader overhears as a letter can carry the letter genre's pull]] — the interlude-scale realization of the letter genre, a single overheard letter at a seam, recorded beside the whole-book correspondence pick
 - [[every discrimination the molecule formulas are credited with is made by the prose beside them]] — the notation that sorts the catalogue into descriptions and instructions; what happens when the executed draft's own formulas are checked against each other; the general finding from the complete formula audit: the notation records membership and every teaching is about relation; the asserted test that made the set an alphabet, and its missing instance
 - [[the corpus names the standard its found-not-invented axiom has not met]] — two descriptive sources disagreeing about whether the vocabulary is a discovery
-- [[the executed draft cannot decide if the primitives are operations or tools]] — the same page asserting both statuses, treated by the author's demotion
 - [[the diagnostic discipline survives the apparatus that carries it]] — what stands if the notation is set aside, and on what grounds
 - [[the book asks only for attention until it has given the reader something to act with]] — the unstated rule governing what an instruction may ask for, and when
 - [[the book owes the western reader anchor points into the kashmir shaiva tradition]] — a reader-orientation duty the object carries, since the tradition beneath the whole book is unfamiliar and the book owes the reader a road in
@@ -182,12 +166,8 @@ The provenance record of 2026-08-02 and after — the accounts of the corpus's m
 - [[the offered menu is precision that costs dignity or dignity that costs precision]] — the book's positioning against both available vocabularies
 - [[the small hours are the poems' native hour before they were the book's founding scene]] — the founding scene's hour, traced to the primary layer
 - [[the poems' animals are present company while the corpus's animals are similes]] — the image system's missing creature register, already drafted in the poems
-- [[the map that protects the destabilized reader is the tool that becomes a ranking]] — the tension between the two safety findings, with the sequence-or-hierarchy split as its candidate treatment
 - [[the confessions is address to a thou that the reader overhears]] — a third position for the open person question, found inside the author's own named model
 - [[the correspondence vision was chosen and executed as a sent pilot letter]] — the panel's chosen whole-book form, dated letters ending by being sent, carried into a sent pilot; the one vision derived from the chain's conclusion rather than laid over it
-- [[the book-of-returns vision pairs a walked path with named instruments that send the reader away]] — a recorded candidate form, one walked account plus many short named instruments, running on a return engine rather than a page-turn engine
-- [[the one-walk vision tells the whole book as a single account in strict order of knowing]] — a recorded candidate form, one continuous account modeled on the Confessions, ending in the act of sending and asking nothing visible of the reader
-- [[the two-voice vision runs an early knowing in the body against a later writer in the margin]] — a recorded candidate form, the disclosure order honored typographically as a body text refused by a live margin
 - [[the book opens from a surplus of insight rather than a lack of it]] — the problem the object is built to solve, a reader whose insight is in surplus and moves nothing, which is why the book's verification is somatic rather than intellectual
 - [[the book addresses people who overthink because they oversense]] — the corpus's own definition of the reader the object is built for, kept beside the author's later definition so the difference stays visible
 - [[the company is joined by the reader rather than consulted]] — the design law for how the book holds its thinkers, a company the reader joins rather than a bibliography consulted, which sets how every thinker's introduction reads
@@ -217,57 +197,25 @@ The transmission digs of 2026-08-13 excavated the book's medium — what a text 
 - [[soren kierkegaard]] — candidate; the authorship engineered so the reader cannot lean on the author's authority, the nearest precedent for the object this map records and the medium the digs read most deeply.
 - [[writing cannot transmit the thing but can build the friction under which it may ignite in a reader who supplies the fire]] — Plato's Seventh Letter as the object's oldest warrant, a made thing that builds the conditions for an ignition it cannot guarantee.
 - [[double reflection withholds the result so the reader must reproduce it in his own existence]] — the design principle beneath the performing law, a form built to withhold its result so the reader reproduces it, which is what "the book performs what it describes" asks of every unit.
-- [[maieutic ordering deceives the reader into the truth because an illusion cannot be destroyed directly]] — the ordering principle for the arc, meeting the reader inside his illusion because it cannot be destroyed head-on, a precedent for the entry movement inducing before the architecture names.
 - [[pseudonymity blocks deference by assigning each life-view to an invented author who embodies rather than asserts it]] — a device the object could use and the price it carries, blocking deference at the cost of the power to be quoted as its author.
 - [[writing without authority renounces the teacher's office and with it the power to correct a misreading]] — the authorial stance the object takes, renouncing the teacher's office and with it the power to correct a misreading.
-- [[the book earns trust by a result that can fail outside the room rather than by testimony or citation]] — the object's trust condition, a result the reader could fail rather than testimony or citation, which sets how the book may present its evidence.
 - [[deceiving a reader into the truth requires knowing his destination, a warrant a book without authority has renounced]] — the limit on the object's maieutic ambition, since steering a reader covertly requires knowing his destination, which the object has given up.
 - [[indirect communication is built to isolate the individual, so a participatory book cannot borrow its devices and reverse their purpose]] — the deepest objection to the object's form, since Kierkegaard's devices exist to isolate, the opposite motion to a book about participation.
-- [[indirect communication can dismantle a private illusion but cannot name an institutional lie]] — the bound on what the object can do, dismantle a private illusion but not name a public lie or force a decision.
-- [[the invisibility that makes indirection succeed is identical to its unfalsifiability]] — the object's exposed seam, since the design that hides the result also makes success unfalsifiable.
-- [[the corsair affair shows indirection fails when the author cannot disappear behind the work]] — the recorded failure that bounds the object's form, since indirection collapses once the author cannot vanish behind the work.
-- [[kierkegaard's indirection was a symptom before it was a technique]] — the caution the precedent carries for the maker, that adopting a wound's rationalization as craft risks aestheticizing an incapacity.
 - [[the later wittgenstein treats philosophy as therapy that dissolves confusions rather than a doctrine that advances theses]] — a second model for the object, a form that dissolves confusions and leaves the reader nothing to carry away, admire, or cite.
-- [[a book in the register of inwardness and the single individual is the origin of the jargon-of-authenticity charge]] — the object's register named as Adorno's founding target, which makes the book's inwardness the origin of the jargon charge rather than a bystander.
 
 ### The textual gap the object is built on (Dig 2)
 
 - [[iser distinguishes completion from participation as two fates of the textual gap]] — the object's central design choice named, since a gap is either filled into a consistent world-picture or exploited to turn the reader on his preconceptions, and the book wants the second.
 - [[evocation-then-negation is iser's named mechanism for a reading that re-orients the reader]] — the page-native mechanism the object can build with, evoking an assumption and negating it so the reader re-orients, while issuing no receipt.
-- [[the participation gap relapses into completion when the reader consolidates the disruption into a deeper consistency]] — the object's failure mode, since a reader can re-form the disruption into a deeper consistency, so a gap can be closed rather than inhabited.
 - [[reading stance is a setting of selective attention rather than a property of the text]] — Rosenblatt's ground for why the object cannot force its reading, since a stance is where attention falls and the same text admits either an efferent or a transforming reading.
-- [[rosenblatt's valued aesthetic stance is the connoisseur's posture in finer dress]] — the reading the object must not aim at, since her valued aesthetic stance is the connoisseur posture the book distrusts.
-- [[rosenblatt's efferent-aesthetic binary has no seat for a reading whose product is altered capacity]] — the gap in the reader-response scheme the object's purpose falls into, since a reading whose product is changed capacity is re-filed as efferent residue.
-- [[the reader-response strata certify participation in meaning but not a change in capacity]] — the whole tradition's limit for the object, that it theorizes participation in meaning and never crosses to a text that alters capacity.
-- [[the transactional program has not dislodged the efferent default and cannot tell an evoked aesthetic reading from a performed one]] — the empirical caution for the object's ambition, since decades of transactional pedagogy have not displaced the efferent default in the classroom.
-- [[barthes's writerly is a direction of evaluation rather than a producible text]] — the caution on the object's highest aim, since the writerly names an asymptotic value rather than a producible artifact, so writerly effects at scale pursue what Barthes marked a limit.
 
 ### The margin architectures: the apparatus's historical original (Dig 3)
 
-- [[the talmud page forces the eye through a fixed route and the route is its pedagogy]] — the exact precedent for the book's inhabited margins, a page whose fixed eye-route is its teaching, the settling voice nearest the text and the unsettling voice nearest the exit.
-- [[the talmud page runs an explainer voice that clears obstacles and a challenger voice that manufactures them]] — the two-margin design the book's Doubting Hand borrows, an explainer that clears difficulties and a challenger that manufactures them.
-- [[the talmud layout preserves disagreement unresolved on its surface]] — the layout principle the object could adopt, competing readings printed side by side without a winner.
-- [[the talmud's challenger voice began as an intergenerational family argument]] — the provenance of the challenging margin, begun by descendants beside the ancestor, which tells the object what a living dissenting margin is made of.
-- [[the talmudic challenger voice degenerated into pilpul cut loose from the plain sense]] — the failure mode of the challenging margin, virtuosity cut loose from the plain sense, a hazard the object's argues-back voice inherits.
-- [[the living talmud margin froze into a closed canon that no longer accretes]] — the life-cycle warning for any margin apparatus, that a once-accreting argument can freeze into a fixed monument.
-- [[the blue cliff record wraps one encounter in five layers of commentary from two authors]] — the maximal margin machine, one encounter nested in five commentary layers, the far end of the apparatus the book builds.
-- [[the huatou is an anti-page that reduces the whole case to one un-annotatable word]] — the lineage's own answer to too much apparatus, a single un-annotatable word, the counter-move against the margin-rich object.
-- [[lectio divina is a four-rung reading protocol in which each rung sends the reader to the next]] — a four-rung reading ladder each of whose rungs hands the reader to the next, a precedent for the book's reading contract and its guard against reading that stops at information.
-- [[the scholastic page turned reading from embodied rumination into silent extraction]] — Illich's account of the page technologies that made reading extraction, the historical shift the object works against by returning reading to rumination.
-- [[whether the medieval page technologies caused silent extractive reading or merely accompanied it is unsettled]] — the open question that bounds that account, since Saenger dates silent reading earlier, so the object cannot lean on Illich's rupture as settled.
-- [[every historical margin architecture ran inside a binding community and none is portable to a solitary reader]] — the finding that bounds the whole apparatus for this object, since each margin architecture ran inside a binding community the book cannot supply.
-- [[subtracting the community from the talmud page converts it from staging disagreement to looking one up]] — the mechanism of that loss, since folding the apparatus into one navigable answer removes the partner and the held disagreement.
 - [[the book occupies the second person with a polyphony of devices, none taking the whole register]] — the design disposition the margins question resolved into, a plurality of second-person devices across both books rather than one totalizing second voice, none asked to be the absent partner (B1, 2026-08-16).
 
 ### Play-lineage form elements, and why most fail to cross (Dig 7)
 
-- [[side-coaching cannot cross to a book because the page cannot speak during play]] — the sharpest crossing failure for the object, since side-coaching is live timed intervention and a margin note stops the play it would correct.
-- [[the improv lineage's devices assume co-presence so most fail on a book read alone]] — the crossing verdict for the whole lineage as form material, that only a thin remainder survives on a book read alone.
-- [[the effort to be original is itself what blocks spontaneity]] — a form principle the object can use, since dropping the demand to be interesting frees the reader, which bears on the book's plain-water passes and its reading contract.
-- [[the threshold state strips status and leaves a person betwixt and between]] — Turner's liminality as the arc's own middle, the statusless betwixt-and-between the separation-threshold-reincorporation structure carries the reader through.
 - [[a gathered community decays from spontaneous to normative to ideological and structure is the container that survives the decay]] — Turner's decay law as a design warning for the object's own gathered forms, with structure as the container that survives.
-- [[structure is the container that outlasts a community's decay rather than the cause of it]] — the same law as the object's warrant for structure, that structure outlasts the decay rather than causing it.
-- [[a book cannot supply the basic trust a reader who never had a reliable other lacks]] — the object's hardest limit as a made thing, that where basic trust was never built the book has no purchase and cannot supply the reliable other retroactively.
 
 ## What remains
 

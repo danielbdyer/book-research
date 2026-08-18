@@ -13,7 +13,6 @@ The formulas below are the book's canonical examples. Each is a separate claim b
 ## Claims in this map
 
 - [[suffering is contraction never corruption]] — the master doctrine and its lineage
-- [[a bell is tuned by subtraction alone and a cut past its pitch cannot be undone]] — a bell-founding resonance accompanying the privation doctrine: change proceeds by removal, and because subtraction is irreversible the discipline is knowing when to stop
 - [[the transformation field divides into five theories of where suffering lives]] — the contemporary field's five answers to the question this map's doctrine answers, kept in disagreement
 - [[the diagnosis contains the cure]] — the Privation Principle, which the book calls its signature move
 - [[self-facilitation begins from what is happening rather than from what is wrong with the self]] — the doctrine as a starting posture: opening from what is present rather than from what is wrong restates "nothing in you is broken" as the first move of the inward practice, so the self is met rather than corrected
@@ -32,12 +31,10 @@ The formulas below are the book's canonical examples. Each is a separate claim b
 - [[the apparatus descends from the settlement the book positions itself against]] — the wider sweep: nine of the book's operational constructs trace to one uncredited formation
 - [[wilhelm reich]] — the fold's uncited ancestor, whose descendants the book cites throughout
 - [[the diagnostic discipline survives the apparatus that carries it]] — what the doctrine keeps once that limit is granted, and where each survivor's standing comes from
-- [[thinkers who agree on nothing else agree that a formulation can be the resistance]] — the charge the molecule catalogue must answer, from five thinkers who agree on nothing else, that a formulation of what is wrong can become the defense of the wrongness, so handing a reader a formula risks equipping the resistance the diagnosis exists to interrupt
 - [[gendlin names four kinds of inward attention that are not focusing]] — the standard's own author on why an emotion felt as "sheer" keeps a person from sensing its complex ground, and why a correct explanation of a suffering-state can move nothing, both bearing on how this map's diagnosis is reached
 - [[intimacy is a tether rather than a binding]] — the healthy state that stands opposite the enmeshment privation
 - [[forgiveness is sever then release]] — the ordering rule, which carries the book's critique of premature peace
 - [[the triads privations map the three malas corner for corner]] — the correspondence between the anatomy's failures and Trika's contractions
-- [[david loy]] — the independent Western arrival at the first contraction, which the corpus counts as external confirmation
 - [[the orchard's koan is that composting is not death]] — the image of the arc this map's states are named from
 - [[the gatekeeper is met with a bow never a fight]] — the image of the doctrine as a manner of approach
 - [[the gatekeeper has a lived referent in the author's own protective structure]] — the figure's biographical ground: the doctrine's first case, met over years with enough respect to be nicknamed
@@ -52,9 +49,6 @@ The lineage sort and the two research syntheses (2026-08-05) reached this map fr
 - [[what was never metabolized lives on as absence and hubl reached it through inherited trauma]] — privation reached through collective and ancestral trauma work with no Trika underneath it, which is the first outside arrival this map's central concept has had.
 - [[thomas hubl]] — that arrival's evaluation note, broken out of the eleven-teacher bloc where the corpus had filed him.
 - [[the coaches are a bloc that competes with the compositional scheme]] — the largest re-reading the sort produced: the five theories of where suffering lives are rival accounts of the same territory the compound diagnoses cover, so the eleven teachers are collectively an argument against the scheme rather than a network inside it.
-- [[the compound diagnoses may relocate a structural condition inside a person]] — the charge the corpus levels at the field and may inherit: reading burnout as obligation privated of sanctuary locates it in a personal configuration. The audit ran 2026-08-05 and narrowed the charge; the result is in the audit section below.
-- [[nihility may be a station the contraction scheme cannot represent]] — the open question of whether a condition exists that this map's account cannot reach, which would require structural revision rather than addition.
-- [[the title presupposes lines that develop at different rates]] — the premise beneath every compound diagnosis, since separable components are what makes separate diagnosis possible at all.
 - [[suffering in an intense state is the intensity multiplied by the resistance]] — the doctrine at high intensity, where the multiplier is resistance and the clearing itself is neutral territory.
 
 ## Adjacent maps
@@ -63,7 +57,6 @@ This concern borders [[container-anatomy]], because the privations are that anat
 
 ## What the interiority audit found
 
-- [[the compound diagnoses may relocate a structural condition inside a person]] — the tension it answers, now treated rather than live.
 - [[the primary layer states its own limit on atomization]] — the poems' prior ruling on how far decomposition may go: elements keep their matter, and an equation may work out without a solution
 
 ## The reframe conversation: contraction revalued, and the pulse's second lung
@@ -79,7 +72,6 @@ The pulse the doctrine names gains the counter-movement the vault had never reco
 
 - [[the pulse of experience moves through contraction and expansion]] — contraction placed as one lung of a two-stroke pulse whose other stroke is expansion, so the doctrine holds a rhythm rather than a single contracting motion.
 - [[the catch is the pulse felt as sheer aliveness]] — that pulse met in the body: the arrest before a sneeze or a mountain, contraction and expansion felt as sheer aliveness rather than as suffering.
-- [[conspire means to breathe together]] — the pulse's breath carried into company: to conspire once meant to breathe together, the contraction-and-expansion rhythm exercised with others rather than alone.
 
 Sufficiency joins the catalogue as a privation, and its manufactured opposite names the doctrine at civilizational scale.
 

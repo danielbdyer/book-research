@@ -28,7 +28,6 @@ Relevant Notes:
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the fork this pole stands at, and the book's rule for it
 - [[the transformation field divides into five theories of where suffering lives]] — the survey in which this pole is isolated at one against four
 - [[the coaches are a bloc that competes with the compositional scheme]] — the bloc he breaks out of, and why the breakout matters
-- [[introspective access is the felt shift's undefended premise]] — the pressure on the body-as-referee rule that this note runs alongside
 - [[tony robbins]] — the candidate note, with the position stated at strength and the refusal kept
 
 Topics:

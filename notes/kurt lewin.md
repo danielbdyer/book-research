@@ -41,7 +41,6 @@ Seated 2026-08-16 by the author's acceptance of the standing recommendations (op
 
 Relevant Notes:
 - [[transformation is enacted participation inside a held container]] — the law his action research states in the register of science
-- [[the participation law has no opponent and its oldest objection is that participation is contamination]] — the hole he stands nearest to, and the objection he would half-endorse
 - [[the racket is the attractor state with a salary]] — the est-donated construct whose other genealogy is his
 - [[set and setting]] — the framework whose person-and-environment structure restates his function
 - [[the apparatus descends from the settlement the book positions itself against]] — the corpus follows est's ancestry through speech acts and never through group dynamics; Lewin heads the untraced branch, and stands upstream of the whole settlement the book's other uncredited constructs come from

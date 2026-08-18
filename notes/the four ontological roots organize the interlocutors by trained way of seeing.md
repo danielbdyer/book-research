@@ -31,7 +31,6 @@ Relevant Notes:
 - [[a tradition is a cultivated locus of recognition — a trained way of noticing — not merely doctrine]] — the sense of "trained way of seeing" this lens sorts the company by
 - [[wilber's four quadrants are a coordinate system, not an architecture]] — a companion lens held the same way, a coordinate system registered rather than an architecture that governs
 - [[the book's company of thinkers is grouped by contribution rather than by doctrine]] — the corpus's own roster grouping, which this lens sits beside rather than replaces
-- [[sorting a lineage by load turns it toward argument]] — why only the seat, load, and discipline axes govern the roster and the roots stay a lens
 - [[an ecology is a bounded but permeable domain of multiple irreducible loci of participation, none sovereign]] — the field of loci this roots-lens populates, no root sovereign over the others
 
 Topics:

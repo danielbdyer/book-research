@@ -24,7 +24,6 @@ What this catalogue is for, in the book's terms: the second reader — fluent, v
 ---
 
 Relevant Notes:
-- [[felt shift versus felt confirmation]] — the tension this catalogue grounds in the measured literature it had only gestured at
 - [[a genuine felt shift changes what can be said next]] — the positive criterion that survives this catalogue: the counterfeits produce no step
 - [[beauty recruits the wrong posture]] — the assessment tension this literature underwrites: the appreciating posture is the counterfeit's habitat
 - [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the positive criterion from the standard's own source: the genuine article pushes back, and none of these counterfeits does

@@ -19,7 +19,6 @@ The gatekeeper carries the protective part, and the figure fixes the manner of a
 Relevant Notes:
 - [[suffering is contraction never corruption]] — the doctrine this figure states as a manner of approach
 - [[the gatekeeper has a lived referent in the author's own protective structure]] — the figure is a portrait rather than a borrowed courtesy, and the record dates and names its original
-- [[the book cannot tell dissolution from regression and neither can its reader]] — the limit of this etiquette: it says how to approach the boundary and nothing about how to read what happens once it gives way
 
 Topics:
 - [[contraction-not-corruption]]

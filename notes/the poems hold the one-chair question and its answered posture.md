@@ -15,12 +15,11 @@ For the fifteen poems that predate the book, a phrase shared with the corpus ori
 
 - Poems #13 and #7, quoted above, were verified in the extracted text.
 - The rule of direction — that for poems #1 through #15 a phrase shared between a poem and the corpus originates in the poem — is held at [[the corpus quotes the author's poems rather than the poems quoting the corpus]], which records the youngness line as poem five's and notes that several doctrines stand in the poems in the author's unassisted voice.
-- The corpus states the same two things in its own places. [[a codex is a one-chair technology making a two-chair argument]] records that the book's deepest claim concerns what happens between two people while a printed book is read by one, and that the treatment under trial designs the book as one half of a pair (atlas §XI.1d). [[the reader's working posture is solitude held inside relationship]] records the corpus's specification of the posture the book asks of its reader, the capacity to be alone in the presence of another (walked VIII).
+- The corpus states the same two things in its own places. a codex is a one-chair technology making a two-chair argument records that the book's deepest claim concerns what happens between two people while a printed book is read by one, and that the treatment under trial designs the book as one half of a pair (atlas §XI.1d). [[the reader's working posture is solitude held inside relationship]] records the corpus's specification of the posture the book asks of its reader, the capacity to be alone in the presence of another (walked VIII).
 
 ---
 
 Relevant Notes:
-- [[a codex is a one-chair technology making a two-chair argument]] — the corpus's statement that the book's deepest claim is about what passes between two people while the book is read by one, which poem #13 had already asked as a question
 - [[the reader's working posture is solitude held inside relationship]] — the corpus's specification of the reader's posture as the capacity to be alone in the presence of another, a state poem #7 reports having already reached
 - [[all six doctrine concerns appear in the first fifteen poems]] — the finding that all six of the book's doctrines are already stated in the poems that predate it, which this claim extends from doctrines to one of the book's unresolved tensions
 

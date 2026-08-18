@@ -20,16 +20,13 @@ The vision states its assumptions as bets the author could lose, following the r
 - The pick and its scope are recorded in the panel file's closing section and in `ops/decisions.md`; the sending is reconciled per the author's 2026-08-16 answer to the open-decisions queue, item D.
 - Four independent panel routes landed on the same seam this vision is built on — the graph's sparsest crossing, what participation can mean for a reader holding a printed page alone — so the seam is not an artifact of one traversal. The correspondence is the visionary's route to it, beside the convergence scout's Vygotsky proposal, the connector's householder dependency, and the wild associate's zero-knowledge theorem.
 - The vision's central wager gained measured support from the sibling generative round woven in after the panel ran: the working alliance holds its size when the exchange is written and mediated, with the limit kept that every measured case has a live responder, which is the same live-listener condition the least expensive defense turns on. The listener finding is Gendlin's own, quoted and anchored at [[the solitary felt shift rests on one name while the paired felt shift has convergent company]].
-- The other three visions the panel returned stay recorded as the roads not taken, each with its assumptions marked so the pick can be revisited with its alternatives intact: [[the book-of-returns vision pairs a walked path with named instruments that send the reader away]], [[the one-walk vision tells the whole book as a single account in strict order of knowing]], and [[the two-voice vision runs an early knowing in the body against a later writer in the margin]].
+- The other three visions the panel returned stay recorded as the roads not taken, each with its assumptions marked so the pick can be revisited with its alternatives intact: the book-of-returns vision pairs a walked path with named instruments that send the reader away, the one-walk vision tells the whole book as a single account in strict order of knowing, and the two-voice vision runs an early knowing in the body against a later writer in the margin.
 
 ---
 
 Relevant Notes:
 - [[the book's native genre is the letter from a friend read alone]] — the genre datum this vision builds a whole form on, and the note whose five refusals say where the wager fails
 - [[the solitary felt shift rests on one name while the paired felt shift has convergent company]] — why putting the writer in the listener's chair is the standard's least expensive defense
-- [[the book-of-returns vision pairs a walked path with named instruments that send the reader away]] — a road not taken from the same sweep, an alternative whole-book form
-- [[the one-walk vision tells the whole book as a single account in strict order of knowing]] — a road not taken from the same sweep, an alternative whole-book form
-- [[the two-voice vision runs an early knowing in the body against a later writer in the margin]] — a road not taken from the same sweep, an alternative whole-book form
 
 Topics:
 - [[book-structure]]

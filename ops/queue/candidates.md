@@ -42,7 +42,7 @@ The author's question: who else is around the aletheia–pratyabhijñā crossove
 ## Around "insight that doesn't move anything"
 
 - [ ] Louis Sass — hyperreflexivity: self-monitoring as the pathology itself.
-  - *2026-08-07 pass:* hyperreflexivity, the thesis that self-monitoring is the pathology itself. The live tension [[the basic posture is describable as dissociation and the harm literature is unread]] names in its treatment field the two bodies of work nobody here has read, and they are Willoughby Britton's contemplative harm data and the depersonalization literature. Britton holds a note with a queued reading and the depersonalization literature was kept on the candidate list, so this entry is the third statement of one objection.
+  - *2026-08-07 pass:* hyperreflexivity, the thesis that self-monitoring is the pathology itself. The live tension the basic posture is describable as dissociation and the harm literature is unread names in its treatment field the two bodies of work nobody here has read, and they are Willoughby Britton's contemplative harm data and the depersonalization literature. Britton holds a note with a queued reading and the depersonalization literature was kept on the candidate list, so this entry is the third statement of one objection.
 - [ ] Daniel Wegner — ironic process theory: monitoring produces the monitored thought.
   - *2026-08-07 pass:* ironic process theory, that monitoring produces the monitored thought. Same tension, same reason as Sass, one mechanism further down.
 - [ ] John Vervaeke — four kinds of knowing; the survey calls him the book's most conspicuous living interlocutor.
@@ -151,7 +151,7 @@ Genre research feeding the open genre question without landing it: what letters 
 - [ ] Randall Collins — interaction ritual chains; why practice must recur.
   - *2026-08-07 pass:* interaction ritual chains, on why a practice must recur. No live question turns on the sociology of recurrence, and the practice curriculum's open work is extraction from the executed draft rather than outside theory.
 - [ ] The witnessing shadow — being seen shading into being consumed; consent as the between's ethics.
-  - *2026-08-07 pass:* being seen shading into being consumed, and consent as the ethics of the relational field. This is a concern rather than a person, and the concern is live: it bears on [[the required second person splits into a judge and a mirror]]. It returns as a proposition with a substantiation route in `ops/queue/claim candidates.md` rather than as a name to research.
+  - *2026-08-07 pass:* being seen shading into being consumed, and consent as the ethics of the relational field. This is a concern rather than a person, and the concern is live: it bears on the required second person splits into a judge and a mirror. It returns as a proposition with a substantiation route in `ops/queue/claim candidates.md` rather than as a name to research.
 
 ## Around the practice
 
@@ -263,7 +263,7 @@ From `high-energy states`:
   - *2026-08-07 pass:* the entropic brain, in which rigid states show abnormally low brain entropy and psychedelics deweight overconfident priors so that ascending prediction errors find a freer register, proposed as the mechanism case for the descent chapters. The mechanism is a neuroscientific story about substances, and the book's whole move is to run the arc without one.
 - [ ] Marc Wittmann — subjective time and bodily self-awareness processed in the same region, and duration experienced as "tortuous" in depression. Already queued; now with the specific finding.
 - [ ] Raphaël Millière — that psychedelic ego dissolution reaches the minimal self and not only the narrative self, which bears on how far the book's dissolution passages actually go.
-  - *2026-08-07 pass:* that psychedelic ego dissolution reaches the minimal self and not only the narrative self, which bears on how far the book's dissolution passages go. The live tension [[the book cannot tell dissolution from regression and neither can its reader]] needs a diagnostic a reader alone could apply, and this supplies vocabulary for describing the depth rather than a sign for telling the two apart.
+  - *2026-08-07 pass:* that psychedelic ego dissolution reaches the minimal self and not only the narrative self, which bears on how far the book's dissolution passages go. The live tension the book cannot tell dissolution from regression and neither can its reader needs a diagnostic a reader alone could apply, and this supplies vocabulary for describing the depth rather than a sign for telling the two apart.
 - [ ] Gül Dölen — critical-period reopening with durations, and the context-dependence qualification that is the load-bearing part. Already queued; the finding is now a claim at `notes/the plasticity window reorganizes only what attention is on.md`.
 - [ ] Teresa of Avila and John of the Cross — the interior mansions and the dark night of spirit, as the Christian map of the same sequence. Neither is in the vault; the corpus seats Eckhart and Julian of Norwich but no one from this pair.
 - [ ] Roland Griffiths and the Mystical Experience Questionnaire — that completeness of mystical experience predicts outcome, which is a measured version of a claim the book makes qualitatively. Already queued.

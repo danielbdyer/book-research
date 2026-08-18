@@ -20,7 +20,7 @@ The corpus's deepest layer already states this, even while its page-count contra
 - The somatic ground is not demoted: noticing the current state in the body, and the felt shift as verification, are the practice pole's floor.
 - The full directive, with the anti-regression clause about the corpus's volume, is `ops/methodology/center of gravity.md`.
 - **The demotion was extended twice after this note was written, and both extensions came from the author.** On 2026-08-04 he moved the schemes from architecture to instrument on the Vijñāna Bhairava's model, where a hundred and twelve practices claim neither completeness nor non-overlap — which means gaps and overlaps in the scheme set are not defects and are never work (`ops/methodology/the book's current shape.md`). On 2026-08-05 he named the company's own taxonomy wrong in the same way: "I think the 29 thinkers were the wrong lens all along," because sorting thinkers by contribution answers what each brings and never asks what the book cannot lose ([[the company was sorted by what each thinker brings and never by what the book cannot lose]]). The two corrections are the same shape applied to the book's two halves.
-- Two objections to the scaffolding arrived on 2026-08-05 and neither is about its centrality. One is formal: a compositional scheme in which everything relates to everything has been tested against nothing and survives by never having been at risk ([[paul meehl]]). The other is about what happens to a scheme in use: handed to practitioners, a developmental scheme becomes a ranking of persons ([[a developmental scheme handed to practitioners becomes a ranking of persons]]). Scaffolding that is demoted is still printed, so both apply to the book as it stands.
+- Two objections to the scaffolding arrived on 2026-08-05 and neither is about its centrality. One is formal: a compositional scheme in which everything relates to everything has been tested against nothing and survives by never having been at risk (paul meehl). The other is about what happens to a scheme in use: handed to practitioners, a developmental scheme becomes a ranking of persons (a developmental scheme handed to practitioners becomes a ranking of persons). Scaffolding that is demoted is still printed, so both apply to the book as it stands.
 
 ---
 
@@ -30,8 +30,6 @@ Relevant Notes:
 - [[the triad is the anatomy of every container]] — the strongest system claim, now held as scaffolding rather than as the book's presumed core
 - [[nothing enters the lattice the body has not countersigned]] — the practice pole's verification floor, kept undiminished
 - [[the company was sorted by what each thinker brings and never by what the book cannot lose]] — the same correction applied to the other centerpiece, in the author's own words
-- [[a developmental scheme handed to practitioners becomes a ranking of persons]] — what happens to demoted scaffolding once it is nonetheless printed and used
-- [[paul meehl]] — the formal charge against the compositional scheme: a system that cannot fail has not been tested
 - [[an ecology is a bounded but permeable domain of multiple irreducible loci of participation, none sovereign]] — the ground within which the convergence is one relationship among loci rather than the center
 
 Topics:

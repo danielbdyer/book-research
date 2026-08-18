@@ -26,7 +26,7 @@ On 2026-08-16 the author answered the naming question directly. Asked whether Ka
 - The nearest thing to a chair the tradition currently has: Utpaladeva and Kṣemarāja hold interlocutor notes from the corpus's roster, Kṣemarāja's hand writes in the margins, and the Pratyabhijñāhṛdayam sits on the reading list. These are structural credits rather than a staged, quotable presence among the company.
 - The author's flowers statement, in full where it bears: "I do think it deserves its flowers. For a western audience it may be hard to stomach or to put their comfort in and that is part of the book's responsibility is to figure out the road into the valley" (author statement, 2026-08-03).
 - His stewardship line from the same exchange, governing how the flowers are given: "for those of the Śaivite tradition I do not wish to co-opt the ideas for my own benefit" (author statement, 2026-08-03). The road must honor the tradition without extracting from it; the front doors and their faults are gathered at [[both poles of the convergence supply their own front doors]].
-- The stewardship line has a scholarly test it should be made to pass. Andrea Jain's "gestural subversion" holds that commodified spirituality acknowledges the harms of the system it lives inside and subverts them in gesture only, so sincerity is not a defense — which makes her the sharpest available form of the question this line answers ([[andrea jain]]).
+- The stewardship line has a scholarly test it should be made to pass. Andrea Jain's "gestural subversion" holds that commodified spirituality acknowledges the harms of the system it lives inside and subverts them in gesture only, so sincerity is not a defense — which makes her the sharpest available form of the question this line answers (andrea jain).
 - The road itself has one recorded precedent. Henry Corbin translated Heidegger into French and carried the hermeneutics of unveiling into Persian illuminationism, saying plainly what he took and what he left ([[henry corbin]]). He proves the crossing can be walked and shows where the fork is: his destination was esoteric, and this book's is a householder's Tuesday. J. L. Mehta states the road's governing constraint from the other direction — an Indian reader must go through the West to win back his own selfhood, because "the way to what is closest to us is the longest way back" — which forbids the shortcut this road will be tempted by ([[j l mehta]]).
 
 ---
@@ -40,7 +40,6 @@ Relevant Notes:
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the compatriot staging the pause names
 - [[utpaladeva]] — the tradition's founding philosopher, currently a credit rather than a chair
 - [[isabelle ratie]] — the scholarly warrant that the tradition argues, which is what a chair can do and a watershed cannot
-- [[andrea jain]] — the structural test the stewardship line must pass, in which sincerity is not a defense
 - [[henry corbin]] — the one recorded precedent for the road, walked out of Heidegger into an Eastern tradition of light
 - [[j l mehta]] — the road's constraint stated in mirror image: no shortcut, and the way to what is closest is the longest way back
 - [[steven wasserstrom]] — the charge this absence is most exposed to: comparative synthesis that lifts a tradition's material out of its history

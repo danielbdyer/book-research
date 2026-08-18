@@ -41,7 +41,6 @@ Relevant Notes:
 - [[the referral network sends readers to a name the sort filed as company]] — the finding this chair is the case for
 - [[the transformation field divides into five theories of where suffering lives]] — the survey where he holds one position alone
 - [[the company was sorted by what each thinker brings and never by what the book cannot lose]] — the general defect, of which this is the second instance
-- [[the verification standard rests on one name and cannot be defended by company]] — the first instance, and the same shape
 - [[unrelated traditions converge on presence without agenda while remaining available to act]] — the convergence table his VIEW frame sits in
 - [[karla mclaren]] — the other emotion-work seat, whose messengers and his welcome are two accounts of one practice
 - [[tony robbins]] — the pole he sits opposite in the surrender-and-will fork

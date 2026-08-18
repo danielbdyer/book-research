@@ -21,19 +21,16 @@ The treatment identifies what the referee actually is, and the identification is
 - Atlas §V.2 states the rule at the loops: "The body as tiebreaker ⚡ — surrender-vs-will adjudicated only from the body, never from doctrine." Atlas §IX.5 states it at the roster: the fault lines are "kept as features; the fork left honestly unresolved with the body seated as referee." Atlas §XI.2c registers it among the assessment tensions. The three are one document.
 - The walked document supplies the corpus's most compressed statement of the two poles, as a pair of hands: "Surrender against will — Singer's open hand against Robbins's closed fist, adjudicated only from the body, doctrine recusing itself" (walked XI). It is one of four fault lines the same passage keeps live, alongside interiority against structure, declaration against disclosure, and the four doors' war.
 - The walked document carries the same ruling in prose (walked IX), and the treatment applies it at the diagnostic unit as an explicit instruction to the reader: "no lens is master and the body is the tiebreaker" (arc-gloss: ch15).
-- The load the treatment places on the referee exceeds what the corpus elsewhere claims for it. The vault already records two documented limits on the somatic test: fluent prose can produce the bodily confirmation a reader reads as truth, and the signal is faintest in the readers who most need it ([[felt shift versus felt confirmation]]). A tiebreaker with those two limits is being asked to settle, case by case, a dispute the corpus says technique cannot settle.
+- The load the treatment places on the referee exceeds what the corpus elsewhere claims for it. The vault already records two documented limits on the somatic test: fluent prose can produce the bodily confirmation a reader reads as truth, and the signal is faintest in the readers who most need it (felt shift versus felt confirmation). A tiebreaker with those two limits is being asked to settle, case by case, a dispute the corpus says technique cannot settle.
 - The corpus supplies no procedure for the case where the body's reading is itself contested, and none of the seven documents states what the reader does when the felt check returns nothing.
 
 ---
 
 Relevant Notes:
 - [[the middle voice is only earned against the voluntarist pole at full strength]] — the condition on this treatment: the will pole is held by one name in a room of ten, and a resolution is worth what the position it overcame was worth
-- [[introspective access is the felt shift's undefended premise]] — the pressure on seating the body as referee, since the referee's reliability is the one thing never argued for
 - [[the transformation field divides into five theories of where suffering lives]] — the five positions this fork runs through, of which two are its poles
 - [[the corpus quotes the author's poems rather than the poems quoting the corpus]] — the fork held in one breath, years earlier and without a referee: "complete surrender / and trying one's very hardest" (poems #7)
-- [[felt shift versus felt confirmation]] — the two documented limits on the instrument this treatment seats as referee
 - [[nothing enters the lattice the body has not countersigned]] — the standard being borrowed, stated in the register where it was introduced
-- [[the felt shift bears more load than any single test can carry]] — the overload tension this fork is the second load of, the body asked to referee case by case what technique cannot settle
 - [[the middle voice settles declaration against disclosure]] — the corpus's other unresolved fork between two of its lineages, which it treats by grammar rather than by referee
 - [[distress is a question about machinery not a verdict about character]] — the diagnostic that routes a misfire to one of the disputing camps
 - [[tony robbins]] — the will pole's single holder, whose chair is the condition on whether this fork is a real fork

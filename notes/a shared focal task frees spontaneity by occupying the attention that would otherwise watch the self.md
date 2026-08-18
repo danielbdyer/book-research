@@ -16,14 +16,11 @@ The dig reads this as Michael Polanyi's from-to structure run as pedagogy: Spoli
 
 - Transmission dig 7 (2026-08-13), FINDINGS and DEVICES, records the point of concentration as attention-design against the self-watching eye and marks the Polanyi crossover as sought but the directionality as the artifact. The dig's depth is [S/I]: the mechanism is read from violaspolin.org and the printed glossary rather than from the manual, and the from-to reading is inference against Polanyi.
 - The primary reading is queued in `ops/reading queue.md` (dig 7, item 1): whether Spolin specifies a point-of-concentration form that does not require real-time co-presence, which decides whether the device ports to the page at all.
-- The coinage "point of concentration" is Spolin's; the coinage "from-to" and the subsidiary/focal distinction are Polanyi's, held in the vault at [[introspective access is the felt shift's undefended premise]].
+- The coinage "point of concentration" is Spolin's; the coinage "from-to" and the subsidiary/focal distinction are Polanyi's, held in the vault at introspective access is the felt shift's undefended premise.
 
 ---
 
 Relevant Notes:
-- [[introspective access is the felt shift's undefended premise]] — Polanyi's from-to structure as the vault already holds it, and the warning this device operationalizes, that watching a felt event can abolish it
-- [[side-coaching cannot cross to a book because the page cannot speak during play]] — the sibling Spolin device whose portability fails outright, where this one is only maimed
-- [[the improv lineage's devices assume co-presence so most fail on a book read alone]] — the general finding this device is one instance of, since it loses the co-concentrating others on the page
 - [[keith johnstone]] — the neighboring practitioner in the same lineage, whose status material the corpus has no equivalent for
 
 Topics:

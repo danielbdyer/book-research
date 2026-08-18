@@ -15,12 +15,11 @@ Two of the vault's central concerns start from this problem statement. The first
 
 - First-telling, "The problem," carries the full statement, quoted above.
 - Space-around's first section head quotes the book's own phrase and surveys the field around it, naming Sass, Wegner, Vervaeke and Kegan. None of those four has been researched for this project; all four sit on the pending-evaluation list in `ops/queue/candidates.md`.
-- This claim is what makes [[felt shift versus felt confirmation]] unavoidable. That note records the finding that fluent prose can itself produce the bodily confirmation the book reads as truth. A book written against insight used as a hiding place has to verify by something insight cannot counterfeit, which is why a counterfeitable shift is the book's own problem twice over.
+- This claim is what makes felt shift versus felt confirmation unavoidable. That note records the finding that fluent prose can itself produce the bodily confirmation the book reads as truth. A book written against insight used as a hiding place has to verify by something insight cannot counterfeit, which is why a counterfeitable shift is the book's own problem twice over.
 
 ---
 
 Relevant Notes:
-- [[felt shift versus felt confirmation]] — the tension this problem statement makes unavoidable, recording that fluent prose can produce the bodily confirmation the book reads as truth and that the signal is faintest in the readers who most need it
 - [[what is split off not felt remains the same]] — Gendlin's summary of his change research, that split-off material does not move until it is bodily felt, which states this claim's problem clinically
 - [[the offered menu is precision that costs dignity or dignity that costs precision]] — the companion claim that the book positions itself against both available vocabularies, clinical precision that presumes malfunction and spiritual dignity that goes vague where traction is needed
 

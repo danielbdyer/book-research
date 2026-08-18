@@ -20,8 +20,6 @@ Dig VI dissolved the choice between practitioner testimony and academic citation
 
 Relevant Notes:
 - [[the book must respect that it cannot verify the reader has done the work]] — the ground this claim applies to Dig VI's requirement, since the book points at the check it has already admitted it cannot run
-- [[a felt shift reported in a high-demand setting may be a demand characteristic rather than a durable change]] — the attack this pointing answers, since the demanded external check is what tells a durable change from a demand artifact
-- [[the compliance attack taken to full strength demands the second-person check rather than dissolving it]] — the finding that the attack itself demands the very external check the book points at rather than defeating the standard
 
 Topics:
 - [[relational-field]]

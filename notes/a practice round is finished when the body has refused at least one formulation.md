@@ -17,14 +17,13 @@ One mechanism serves two chain positions at once — the practice curriculum's m
 - The offering is recorded at the forest panel of 2026-08-08, panel three, third entry.
 - It joins two claims the vault already holds: the completion gap at [[the practice forms specify when to begin and not how to tell one is finished]] and the refusal mechanism at [[the felt sense rejects formulations and that friction is what separates it from fluency]], the latter grounded in Gendlin 1964 ("his direct referent does the judging").
 - The reading route is already in `ops/reading queue.md` as an amendment to the Gendlin-remainder entry (tier 1, added 2026-08-08): do the six movements of *Focusing* mark the stopping point at the shift or at the rejection. The state stays nascent until that reading lands.
-- The completion signal is an in-round, immediate check, which places it on the check-now side of the timing tension at [[the counterfeit defense and the change-blindness finding ask for opposite timings]].
+- The completion signal is an in-round, immediate check, which places it on the check-now side of the timing tension at the counterfeit defense and the change-blindness finding ask for opposite timings.
 
 ---
 
 Relevant Notes:
 - [[the practice forms specify when to begin and not how to tell one is finished]] — the gap this fills, the completion signal the twelve forms lack
 - [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the defense this borrows its mechanism from, the felt sense's capacity to say no
-- [[the counterfeit defense and the change-blindness finding ask for opposite timings]] — the timing question this signal sits inside, on the check-now side
 - [[a genuine felt shift changes what can be said next]] — the across-days companion this in-round signal precedes
 
 Topics:

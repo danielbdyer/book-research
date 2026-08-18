@@ -24,7 +24,6 @@ Relevant Notes:
 - [[nothing transforms from the audience]] — the law this mechanism serves, since accepting is the move by which a participant stops spectating
 - [[transformation is enacted participation inside a held container]] — the positive law the offer-grammar supplies a rehearsal-room mechanism for
 - [[the field between two people does work]] — the claim whose joint agency Johnstone describes as the scene neither player controls
-- [[status is a physics of observable transactions rather than an inner attribute]] — the sibling Johnstone finding, the other half of what he was teaching in the same room
 
 Topics:
 - [[relational-field]]

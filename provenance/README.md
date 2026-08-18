@@ -39,7 +39,7 @@ Commissioned outward research on the territory the book covers, rather than on i
 
 Section citations follow each document's own structure: `high-energy states: what predicts whether dissolution liberates or terrifies`, `standing wave: §1`, `standing wave: the friction test`.
 
-**One caution belongs with the first of these and is recorded here because it is easy to miss.** `high-energy states` is organized throughout by the book's own three-loop scheme and supplies neural correlates for each loop. The author demoted the schemes from architecture to instrument on 2026-08-04, and a synthesis that hands them an empirical warrant is the most plausible route by which that decision gets quietly reversed — not by argument but by a session finding the scheme confirmed and building on it. The vault takes the document's findings and does not adopt its organizing principle; the record is [[a synthesis organized by the schemes offers to promote them back to architecture]].
+**One caution belongs with the first of these and is recorded here because it is easy to miss.** `high-energy states` is organized throughout by the book's own three-loop scheme and supplies neural correlates for each loop. The author demoted the schemes from architecture to instrument on 2026-08-04, and a synthesis that hands them an empirical warrant is the most plausible route by which that decision gets quietly reversed — not by argument but by a session finding the scheme confirmed and building on it. The vault takes the document's findings and does not adopt its organizing principle; the record is a synthesis organized by the schemes offers to promote them back to architecture.
 
 ## The author's own instrument
 

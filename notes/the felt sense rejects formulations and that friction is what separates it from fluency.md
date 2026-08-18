@@ -8,7 +8,7 @@ state: full
 
 # the felt sense rejects formulations and that friction is what separates it from fluency
 
-The book's verification standard has an undefended premise: that a person has reliable access to their own inner states ([[introspective access is the felt shift's undefended premise]]). Beside it sits the corpus's own counterweight, that fluent prose produces a bodily yes about the sentence rather than about the world ([[felt shift versus felt confirmation]]). Both objections have the same shape — the report may be about something other than what it claims to be about.
+The book's verification standard has an undefended premise: that a person has reliable access to their own inner states (introspective access is the felt shift's undefended premise). Beside it sits the corpus's own counterweight, that fluent prose produces a bodily yes about the sentence rather than about the world (felt shift versus felt confirmation). Both objections have the same shape — the report may be about something other than what it claims to be about.
 
 The paper received 2026-08-05 supplies the first candidate answer the vault holds, and it comes from the standard's own author. Gendlin's argument is that the pre-conceptual is not vague but *more* finely ordered than any concept: "Where others see indeterminacy, we find intricacy — an always unfinished order that cannot be represented, but has to be taken along as we think," and the implicit obeys "a more organic order, a more precise and more demanding kind of order, a very finely determined order, very different from logic, yet responsive to logic."
 
@@ -27,8 +27,6 @@ That supplies a test. A confirmation produced by fluent prose is agreement — i
 ---
 
 Relevant Notes:
-- [[introspective access is the felt shift's undefended premise]] — the hole this is the first candidate answer to
-- [[felt shift versus felt confirmation]] — the corpus's own counterweight, which this addresses on its first limb and not its second
 - [[eugene gendlin]] — the standard's author, whose account of the implicit this draws on
 - [[nothing enters the lattice the body has not countersigned]] — the standard itself
 - [[the drive to closure has measurable costs]] — the second friction in the same criterion

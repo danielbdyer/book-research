@@ -2,7 +2,7 @@
 description: This note is the provenance record for the mythic operating system edition, which carries a twenty-eight-chapter table of contents and one fully written chapter at what the author names the work's high-water mark of voice.
 source_file: "sources/firing on all cylinders - a mythic operating system.pdf"
 status: partially-extracted
-extracted: ["[[the mythic operating system contents hold four territories the arc drops]]", "[[four named units of the arc appear as pages inside the earliest edition's single chapter]]", "[[the abridged edition compresses the opening poem rather than reproducing it]]", "[[the drafts disagree about which person the book speaks in]]"]
+extracted: ["[[the mythic operating system contents hold four territories the arc drops]]", "[[four named units of the arc appear as pages inside the earliest edition's single chapter]]", "[[the abridged edition compresses the opening poem rather than reproducing it]]", "the drafts disagree about which person the book speaks in"]
 topics: []
 ---
 

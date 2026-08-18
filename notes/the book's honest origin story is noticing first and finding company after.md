@@ -32,7 +32,7 @@ And it doubles as the book's invitation, which is why a drafting session would r
 - The stronger story's defect is on record and is not softened here: the unanimity framing is a sampling artifact ([[the unanimity claim is an artifact of how the lineages were selected]]). The smaller story has no such defect, because finding company makes no claim about the field — only about the finding.
 - The stance directive governs the posture: this is an observation about what the record supports, offered as the telling the book *can* give, not a directive about the telling it must.
 - The company turns out to be larger than the corpus's roster, and the finding extends this telling rather than complicating it. The crossover the book stands on has named walkers, living developers, and standing opponents, and several of each are already seated in the book's own company ([[the crossover has footsteps and the book already seats some of the walkers]]). The same pattern runs inside the West's own remembering-tradition, which shares its gesture and disputes its destination across twenty-four centuries ([[reading as remembering has a twenty-four-century ancestry in the west]]).
-- This telling is also the one that survives the strongest scholarly objection to the whole project. Steven Katz's constructivism forbids the claim that different traditions report one underlying reality; it says nothing against a man noticing something and later finding that others had noticed it too ([[steven katz]]). What Katz breaks is the corpus's louder story, not this one.
+- This telling is also the one that survives the strongest scholarly objection to the whole project. Steven Katz's constructivism forbids the claim that different traditions report one underlying reality; it says nothing against a man noticing something and later finding that others had noticed it too (steven katz). What Katz breaks is the corpus's louder story, not this one.
 
 ---
 
@@ -43,10 +43,7 @@ Relevant Notes:
 - [[the author curated and vetoed while the collaborator wrote the correspondences]] — the division of hands beneath the pattern: the noticings his, the wardrobe supplied after
 - [[the crossover has footsteps and the book already seats some of the walkers]] — the company found again, this time around the book's own founding crossing
 - [[reading as remembering has a twenty-four-century ancestry in the west]] — the same pattern inside the West's own remembering-line: shared gesture, disputed destination
-- [[steven katz]] — the objection this telling survives and the corpus's louder telling does not
 - [[steven wasserstrom]] — the charge aimed at the dressing rather than at the noticing: comparative synthesis that dehistoricizes the traditions it gathers
-- [[sorting a lineage by load turns it toward argument]] — the pressure the 2026-08-05 instrument puts on this telling, since asking what the book cannot lose is asking what defends it
-- [[ernest gellner]] — the adversary seated against the participation law, whose objection reaches the method this telling describes rather than its modesty
 
 Topics:
 - [[recognition]]

@@ -35,7 +35,6 @@ Relevant Notes:
 - [[the practice forms specify when to begin and not how to tell one is finished]] — the same clause visible in how the exercises are actually written
 - [[the basic practice posture is a point of return rather than a state]] — the nearest existing statement, which this one had been standing behind
 - [[nothing enters the lattice the body has not countersigned]] — the standard that measures whether something landed, and the pressure it puts on a practice measured in nothing
-- [[the book cannot tell dissolution from regression and neither can its reader]] — the other place the book's promise and its refusal to specify outcomes collide
 - [[the plasticity window reorganizes only what attention is on]] — the clause's sharpest live test, because a mechanism that says *use the window* is instrumental by construction
 - [[the author is the book's first audience member and that is where the promise starts]] — the author's own answer, held as a treatment under trial rather than as a resolution
 

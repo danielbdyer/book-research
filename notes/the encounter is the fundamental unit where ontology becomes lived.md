@@ -23,8 +23,6 @@ The claim carries a doctrinal load beyond the data model. It locates transformat
 Relevant Notes:
 - [[information about an experience is not participation in the experience]] — the doctrine this entity encodes, the concept being information and the encounter being participation
 - [[transformation is enacted participation inside a held container]] — the same location of transformation in the lived event rather than in the abstraction
-- [[the field note is the membrane between lived encounter and persistent concept]] — the structure that carries what an encounter yields across into concept without collapsing the two
-- [[do not model concept evolution as a chain — the corpus itself becomes the revision history]] — the design rule that hangs a concept's history on its encounters
 - [[an externalized system can be built to hold a self rather than only its information]] — the system whose central entity this names
 
 Topics:

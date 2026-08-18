@@ -25,7 +25,6 @@ Relevant Notes:
 - [[sovereignty is authorship preserved within relationship, not control over reality]] — the definition this locates, authorship kept between two failures of authorship
 - [[the locus of control is better named the locus of inquiry]] — the same motif stated as a standpoint question rather than a placement of authorship
 - [[sovereignty is a quality of relationship, not the opposite of it]] — the relational home of the middle position, sovereignty as a mode of relating
-- [[reader sovereignty has an unstated exception at destabilization]] — where the middle is hardest to hold, since a reader in crisis both needs an outside authority and is told to keep authorship
 
 Topics:
 - [[relational-field]]

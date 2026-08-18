@@ -24,7 +24,6 @@ The corpus's conclusion, stated in the walked document: "Corner for corner, the 
 
 Relevant Notes:
 - [[suffering is contraction never corruption]] — the doctrine this correspondence grounds
-- [[david loy]] — the independent Western arrival at the first mala, which the corpus counts as external confirmation
 - [[the diagnosis contains the cure]] — the practical principle built on these three failure modes
 - [[the kashmir shaiva tradition underlies the book rather than joining its company]] — the standing of the tradition supplying the other half of this correspondence
 - [[the triad predates the author's contact with the tradition named the triad]] — the dating that fixes the direction: structure first, diagnosis met afterward

@@ -27,7 +27,6 @@ Relevant Notes:
 - [[the deepest question is whether i can be deeply influenced without becoming dispossessed of myself]] — the question this claim answers, that influence and sovereignty are compatible
 - [[sovereign intimacy names intimacy without surrender of authorship]] — the same structure applied to intimacy in particular
 - [[intimacy is a tether rather than a binding]] — the corpus's kindred distinction, a connection that holds without enclosing
-- [[reader sovereignty has an unstated exception at destabilization]] — the tension that tests this claim where a reader most needs an outside authority
 
 Topics:
 - [[relational-field]]

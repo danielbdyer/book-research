@@ -35,7 +35,7 @@ He would also refuse the therapeutic use of breaching. His disruptions were inve
 
 ## What the evaluation still requires
 
-*Studies in Ethnomethodology*, with two questions: whether his constitutive claim about accounts reaches the book's law or is a narrower point about social settings; and whether the breaching material can be read as evidence for the invisibility of the always-there without importing the method as a practice, since the second would run against the harm question the sort raises elsewhere ([[the basic posture is describable as dissociation and the harm literature is unread]]).
+*Studies in Ethnomethodology*, with two questions: whether his constitutive claim about accounts reaches the book's law or is a narrower point about social settings; and whether the breaching material can be read as evidence for the invisibility of the always-there without importing the method as a practice, since the second would run against the harm question the sort raises elsewhere (the basic posture is describable as dissociation and the harm literature is unread).
 
 ## Recommendation
 
@@ -49,7 +49,6 @@ Relevant Notes:
 - [[the convergence's independence fails where three of its names share one teacher]] — the test he passes
 - [[the field between two people does work]] — the claim his account of joint production bears on most directly
 - [[heinz von foerster]] — the same hole from the engineering side
-- [[the basic posture is describable as dissociation and the harm literature is unread]] — why the breaching method is not importable as a practice
 
 Topics:
 - [[interlocutors]]

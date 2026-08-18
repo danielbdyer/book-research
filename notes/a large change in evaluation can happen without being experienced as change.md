@@ -18,17 +18,14 @@ One boundary is part of the claim rather than a defense of it. Both studies meas
 ## Substantiation
 
 - The section runs from page 235 to page 237 under the heading "Awareness of the Existence of a Change Process," in the paper read complete on 2026-08-07; the reading record is `archive/reading — nisbett and wilson, telling more than we can know (1977).md`.
-- The vault's characterization before this reading, made at web-citation depth on 2026-08-06 and recorded at [[introspective access is the felt shift's undefended premise]], held that the paper's verified core concerns reports about the causes of behavior rather than reports of current experience. That characterization missed this section, and no summary of the paper the vault consulted mentioned it.
-- The exemption the same paper grants — current sensations count among the private facts a person knows with near certainty — is stated at [[the confabulation finding exempts current sensations and targets reports of causes]]. The two claims are the two halves of one reading and neither cancels the other: the paper protects the report that a sensation is present and attacks the report that it is different from before.
+- The vault's characterization before this reading, made at web-citation depth on 2026-08-06 and recorded at introspective access is the felt shift's undefended premise, held that the paper's verified core concerns reports about the causes of behavior rather than reports of current experience. That characterization missed this section, and no summary of the paper the vault consulted mentioned it.
+- The exemption the same paper grants — current sensations count among the private facts a person knows with near certainty — is stated at the confabulation finding exempts current sensations and targets reports of causes. The two claims are the two halves of one reading and neither cancels the other: the paper protects the report that a sensation is present and attacks the report that it is different from before.
 - The paper offers one further reason a felt shift cannot certify what produced it: "we are often capable of describing intermediate results of a series of mental operations in such a way as to promote the feeling that we are describing the operations themselves" (p. 255).
 
 ---
 
 Relevant Notes:
-- [[the confabulation finding exempts current sensations and targets reports of causes]] — the other half of the same reading, which protects the report that a sensation is present now
 - [[the felt shift certifies carrying forward rather than correspondence]] — Gendlin's narrowing, which makes noticing change the whole demand and which this finding therefore reaches
-- [[introspective access is the felt shift's undefended premise]] — the tension this evidence enters, which the vault had been treating as answerable by the narrowing
-- [[the counterfeit defense and the change-blindness finding ask for opposite timings]] — the design problem the two findings create together
 
 Topics:
 - [[felt-shift]]

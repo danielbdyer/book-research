@@ -21,8 +21,6 @@ The finding is a forecast for any community the book gathers. It cuts against th
 ---
 
 Relevant Notes:
-- [[the threshold state strips status and leaves a person betwixt and between]] — the liminality this communitas requires, its precondition of a congregation of statusless equals
-- [[the improv method franchised into a product reinstalls the approval it was built to remove]] — the same decay shape at the scale of a method, a spontaneous form inverting once systematized
 - [[both poles of the convergence refuse the engineered epiphany]] — the adjacent finding that spontaneous communitas, like the felt shift, cannot be commanded into being
 - [[nothing transforms from the audience]] — the participation law this note qualifies, since a gathered congregation of participants still cannot be held at spontaneity
 

@@ -20,10 +20,7 @@ The Dig VI crossover — aura raises expectancy, expectancy manufactures the exp
 ---
 
 Relevant Notes:
-- [[a felt shift reported in a high-demand setting may be a demand characteristic rather than a durable change]] — the dig tension this reframes, the manufactured-artifact side of the coin, admitted with clarity as a core risk
 - [[presence-language may radiate significance the sentence has not earned]] — the other dig tension, the aura side of the same coin, held lightly rather than answered on its own terms
-- [[felt shift versus felt confirmation]] — the map's counterfeit tension this two-sidedness qualifies, since the click can be produced by the prose and yet expectancy also drives genuine change
-- [[the compliance attack explains a felt shift's origin but not its durability]] — the boundary that makes the productive side available, since the mechanism accounts for a shift's origin and not its durability
 
 Topics:
 - [[felt-shift]]

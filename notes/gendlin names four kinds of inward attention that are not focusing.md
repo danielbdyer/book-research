@@ -8,7 +8,7 @@ state: full
 
 # gendlin names four kinds of inward attention that are not focusing
 
-The book's verification standard has a counterfeit problem: a reader can attend inward, feel something, and take the feeling for the countersignature. The corpus records one form of it — the bodily yes produced by fluent prose ([[felt shift versus felt confirmation]]) — and the vault has treated the problem as an open hole. The standard's own founding paper turns out to contain a taxonomy of the counterfeits, in a footnote, fourteen years before *Focusing* was published.
+The book's verification standard has a counterfeit problem: a reader can attend inward, feel something, and take the feeling for the countersignature. The corpus records one form of it — the bodily yes produced by fluent prose (felt shift versus felt confirmation) — and the vault has treated the problem as an open hole. The standard's own founding paper turns out to contain a taxonomy of the counterfeits, in a footnote, fourteen years before *Focusing* was published.
 
 Gendlin's footnote 13 lists four kinds of inward attention that are not direct reference and "thus are not focusing" (Gendlin 1964, fn. 13). Each is stated with its mechanism.
 
@@ -26,12 +26,11 @@ Gendlin's footnote 13 lists four kinds of inward attention that are not direct r
 - **The self-engineering clause bears directly on the surrender-and-will fork.** The book stages that disagreement as poles — allowing against changing — and adjudicates from the body ([[surrender and will are adjudicated from the body rather than from doctrine]]). Gendlin's clause is a mechanism rather than a pole: will succeeds precisely where experiencing implicitly functions and cannot be exerted where it does not, which predicts both the voluntarist's successes and the voluntarist's characteristic failure without condescending to either. It is the first material in this vault that explains the fork instead of taking a side of it.
 - The explanatory orbit is the book's "insight that doesn't move anything," stated by the standard's own author with the sharpest possible edge — the insight can be *correct* and still move nothing. The corpus's version of this claim ([[an enormous experience is interpreted by the structure it did not change]] carries its mechanism at a different scale) gains a primary ancestor.
 - The circumstantial and explanatory orbits are what the book's second reader type does with an integration vocabulary — fluent processing that never touches the felt meaning. The author has named that reader the book's defining hazard (`ops/methodology/the book's current shape.md`), and this footnote is the earliest description of them the vault holds.
-- One taxonomic care: the footnote's subject is attention that fails to *be* focusing, and the corpus's counterweight is prose that *simulates* the shift. Those are different failure directions — one produces no signature, the other forges one — and this claim covers the first. The forgery case remains where it was, at [[felt shift versus felt confirmation]], with its counterweights still unread.
+- One taxonomic care: the footnote's subject is attention that fails to *be* focusing, and the corpus's counterweight is prose that *simulates* the shift. Those are different failure directions — one produces no signature, the other forges one — and this claim covers the first. The forgery case remains where it was, at felt shift versus felt confirmation, with its counterweights still unread.
 
 ---
 
 Relevant Notes:
-- [[felt shift versus felt confirmation]] — the forgery case this taxonomy does not cover, and the corpus's own statement of the counterfeit problem
 - [[the felt shift certifies carrying forward rather than correspondence]] — the same paper's definition of what the real signature certifies
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the fork the self-engineering clause supplies a mechanism for
 - [[an enormous experience is interpreted by the structure it did not change]] — the book's version of insight that moves nothing, which the explanatory orbit anticipates

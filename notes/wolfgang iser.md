@@ -25,9 +25,9 @@ He also supplies the book's honest boundary. Iser concedes at page 295 that "we 
 
 ## What he would refuse
 
-The 1972 essay was read [P] and this half is sourced; the extension is derived. Iser would refuse the reading of his participation gap as enactment in the book's sense. His mechanism produces self-examination at the level of preconceptions, and he does not carry it across to altered lived capacity — the reader-response strata certify participation in meaning and certify nothing past it ([[the reader-response strata certify participation in meaning but not a change in capacity]]). The bridge from participation to changed capacity is named at his threshold and left uncrossed.
+The 1972 essay was read [P] and this half is sourced; the extension is derived. Iser would refuse the reading of his participation gap as enactment in the book's sense. His mechanism produces self-examination at the level of preconceptions, and he does not carry it across to altered lived capacity — the reader-response strata certify participation in meaning and certify nothing past it (the reader-response strata certify participation in meaning but not a change in capacity). The bridge from participation to changed capacity is named at his threshold and left uncrossed.
 
-He would also refuse the durability the book wants from the device. The participation gap relapses into completion the moment the reader re-consolidates the disruption into a deeper consistency, so the effect is not held but has to be re-won ([[the participation gap relapses into completion when the reader consolidates the disruption into a deeper consistency]]). And read against the compliance attack, his is one of only two reader-response theories carrying any in-situ felt-shift check, and it sits where demand is strongest — the classroom, the invited reader — so a reported participation cannot be told from its performance ([[only two reader-response theories carry an in-situ felt-shift check and both sit where demand is strongest]]).
+He would also refuse the durability the book wants from the device. The participation gap relapses into completion the moment the reader re-consolidates the disruption into a deeper consistency, so the effect is not held but has to be re-won (the participation gap relapses into completion when the reader consolidates the disruption into a deeper consistency). And read against the compliance attack, his is one of only two reader-response theories carrying any in-situ felt-shift check, and it sits where demand is strongest — the classroom, the invited reader — so a reported participation cannot be told from its performance (only two reader-response theories carry an in-situ felt-shift check and both sit where demand is strongest).
 
 ## What his medium contributes
 
@@ -50,12 +50,9 @@ Recorded in the field above; the seating decision is the author's.
 Relevant Notes:
 - [[iser distinguishes completion from participation as two fates of the textual gap]] — the distinction that carries his load
 - [[evocation-then-negation is iser's named mechanism for a reading that re-orients the reader]] — the page-native procedure he names
-- [[the participation gap relapses into completion when the reader consolidates the disruption into a deeper consistency]] — the durability limit of his device
-- [[the reader-response strata certify participation in meaning but not a change in capacity]] — the bridge he names and leaves uncrossed
 - [[beauty recruits the wrong posture]] — the book's worry his completion-as-danger verdict reaches independently
 - [[a genuine transformation registers first as loss rather than as gain]] — the loss convergence his Shaw quotation anchors, shared unshown with Barthes
 - [[the book must respect that it cannot verify the reader has done the work]] — the honest boundary his "we do not know what happens to us" states from inside the theory
-- [[only two reader-response theories carry an in-situ felt-shift check and both sit where demand is strongest]] — where his check sits relative to the compliance attack
 
 Topics:
 - [[interlocutors]]

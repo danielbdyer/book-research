@@ -19,15 +19,15 @@ It then left. The word entered management vocabulary, product design, and produc
 
 ## Why the sort wants him
 
-Every other name on the precedent bench is a case of a synthesis that was refused, ridiculed, or turned into a school ([[the nearest prior attempts are case histories rather than interlocutors]]). This is the one that was welcomed, and the outcome is instructive precisely because nothing went wrong in the usual way. The research held up. The method was sound. The construct was adopted — and in being adopted it was inverted, from a description of what makes a life worth living into a technique for extracting more from a worker.
+Every other name on the precedent bench is a case of a synthesis that was refused, ridiculed, or turned into a school (the nearest prior attempts are case histories rather than interlocutors). This is the one that was welcomed, and the outcome is instructive precisely because nothing went wrong in the usual way. The research held up. The method was sound. The construct was adopted — and in being adopted it was inverted, from a description of what makes a life worth living into a technique for extracting more from a worker.
 
-That inversion is the failure mode the book already names in its own material. Its anti-instrumentality clause holds that the practice is not a means to what it produces ([[the practice is the expression of realization rather than a means to it]]), and flow is the documented case of exactly that clause being stripped off a construct by the culture that adopted it. The book's own account of the transformation industry says the same thing from the other end ([[andrea jain]] on a market that absorbs its own critique).
+That inversion is the failure mode the book already names in its own material. Its anti-instrumentality clause holds that the practice is not a means to what it produces ([[the practice is the expression of realization rather than a means to it]]), and flow is the documented case of exactly that clause being stripped off a construct by the culture that adopted it. The book's own account of the transformation industry says the same thing from the other end (andrea jain on a market that absorbs its own critique).
 
 ## What he would refuse
 
 Derived rather than sourced; no primary work has been read in this vault.
 
-Csíkszentmihalyi would refuse the reading of himself as a cautionary tale about measurement. His position was that making the state operational is what allowed it to be studied at all, and that vagueness protects nothing — a claim aimed squarely at a book whose central state is verified by an unmeasurable bodily report ([[introspective access is the felt shift's undefended premise]]).
+Csíkszentmihalyi would refuse the reading of himself as a cautionary tale about measurement. His position was that making the state operational is what allowed it to be studied at all, and that vagueness protects nothing — a claim aimed squarely at a book whose central state is verified by an unmeasurable bodily report (introspective access is the felt shift's undefended premise).
 
 He would also refuse the flow–recognition equation if the book reached for it. Flow is absorption in a structured activity with clear goals and matched challenge; the book's central event is recognition of something already present, which has no task, no goal and no feedback loop. The two are different states that share a phenomenological surface, and the vault already holds flow as one of three tributaries in the author's own record rather than as the destination ([[flourishing flow and facilitation converged on one stance in the author's own record]]).
 
@@ -42,11 +42,8 @@ Recorded in the field above; the seating decision is the author's.
 ---
 
 Relevant Notes:
-- [[the nearest prior attempts are case histories rather than interlocutors]] — the bench this chair belongs to, and the only case that was welcomed
 - [[the practice is the expression of realization rather than a means to it]] — the clause his construct lost on the way into general use
 - [[flourishing flow and facilitation converged on one stance in the author's own record]] — where flow already sits in the author's own history
-- [[andrea jain]] — the same absorption argued about the transformation market
-- [[introspective access is the felt shift's undefended premise]] — the standard his commitment to operationalization is aimed at
 
 Topics:
 - [[interlocutors]]

@@ -21,7 +21,7 @@ That is the standard this book verifies on. By the author's statement of 2026-08
 
 ## What his placement here has been
 
-One name in the roster of twenty-nine builders of enterable structure (atlas §IX.4), plus a shared chapter-patron position with Karla McLaren. Five claim notes use his term and none cites the man. The mesh grid's correction is the sharpest structural finding it makes about this vault: "He is the floor under every claim the book makes about whether something worked. Promote, and then defend" (`mesh grid: tier 1`). The general defect it exposed is at [[the company was sorted by what each thinker brings and never by what the book cannot lose]]; the specific one is at [[the verification standard rests on one name and cannot be defended by company]].
+One name in the roster of twenty-nine builders of enterable structure (atlas §IX.4), plus a shared chapter-patron position with Karla McLaren. Five claim notes use his term and none cites the man. The mesh grid's correction is the sharpest structural finding it makes about this vault: "He is the floor under every claim the book makes about whether something worked. Promote, and then defend" (`mesh grid: tier 1`). The general defect it exposed is at [[the company was sorted by what each thinker brings and never by what the book cannot lose]]; the specific one is at the verification standard rests on one name and cannot be defended by company.
 
 The `load:` assignment here is the grid's and the author cosigns the instrument at 65–75%. It is unusually well supported for a grid assignment, because the vault can check it against the author's own statement of what the standard is: if the felt shift is the single verification criterion, its author is thesis-bearing by the axis's own test, and no reading of Gendlin is required to see that.
 
@@ -59,9 +59,6 @@ Relevant Notes:
 - [[gendlin names four kinds of inward attention that are not focusing]] — his own counterfeit-detection, from the founding paper's footnote
 - [[gendlin's focusing protocol already guards against the counterfeit shift]] — the same detection as practice instructions, verified against the Focusing text
 - [[nothing enters the lattice the body has not countersigned]] — the standard, as the book states it
-- [[the verification standard rests on one name and cannot be defended by company]] — the structural finding this note answers
-- [[felt shift versus felt confirmation]] — the two limits the corpus records, one of which he recorded first
-- [[introspective access is the felt shift's undefended premise]] — the objection the standard has never met, and the reading that would follow this one
 - [[what is split off not felt remains the same]] — the claim that runs most directly on his account of the implicit
 - [[karla mclaren]] — his co-patron at the chapter position, seated for the emotion work
 

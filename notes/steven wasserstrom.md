@@ -29,7 +29,7 @@ Two things about the book make the charge land rather than glance. The tradition
 
 Derived rather than sourced; *Religion after Religion* has not been read in this vault.
 
-Wasserstrom would refuse the defence from sincerity. His argument does not turn on the Eranos scholars' motives, which were serious, and it is not answered by intending well — a point the vault already holds in another voice, since gestural subversion and the insufficiency of sincerity are exactly what [[andrea jain]] was seated for.
+Wasserstrom would refuse the defence from sincerity. His argument does not turn on the Eranos scholars' motives, which were serious, and it is not answered by intending well — a point the vault already holds in another voice, since gestural subversion and the insufficiency of sincerity are exactly what andrea jain was seated for.
 
 He would also refuse a use of himself as a rule about borrowing in general. His case is historically specific and its force comes from the details of what Eranos did; deployed as a general prohibition it becomes the kind of abstraction he was objecting to.
 
@@ -49,7 +49,6 @@ Relevant Notes:
 - [[the tradition the book owes most has no chair in its company]] — the author's own version of this question, raised before the charge was found
 - [[henry corbin]] — where the charge lands first, and the figure the crossing was made through
 - [[the kashmir shaiva tradition would decline four of the book's deepest moves]] — the tradition's own refusals, derived and tested, which this charge sits beside
-- [[andrea jain]] — the same insufficiency-of-sincerity finding from the contemporary side
 - [[hasidic worship through corporeality]] — a chair whose admission has to answer this charge to be worth having
 - [[the book's honest origin story is noticing first and finding company after]] — the telling that claims least and is therefore most defensible against him
 

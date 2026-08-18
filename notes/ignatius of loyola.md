@@ -42,13 +42,10 @@ Seated 2026-08-16 by the author's acceptance of the standing recommendations (op
 ---
 
 Relevant Notes:
-- [[a codex is a one-chair technology making a two-chair argument]] — the tension the Exercises answered inside their own form, and the specification their answer carries
 - [[the tuesday is the temple]] — the commitment Annotation 20 contradicts and Annotation 19 prices
-- [[forward hunger defeats the pause]] — the tension their mandatory thresholds address, with a working precedent for the gate
 - [[nothing enters the lattice the body has not countersigned]] — the verification standard Annotation 2 states in 1548
 - [[seventeen chapters rest at madhyama]] — the recommended first move, which is the book's smallest form of the second chair
 - [[the book performs what it describes]] — the design law the Exercises establish as a genre rather than an experiment
-- [[the householder claim has no witness outside the indic world]] — the hole this chair partly fills, and the reason it fills it only partly: the Exercises adapt a withdrawal practice
 - [[hasidic worship through corporeality]] — the stronger candidate for the same hole, which adapts nothing because the tradition never located the sacred elsewhere
 
 Topics:

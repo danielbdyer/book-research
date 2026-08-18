@@ -19,7 +19,7 @@ The Christian parallel the grid names beside it is Brother Lawrence, a lay broth
 
 ## Why the sort wants it
 
-The book promises that what it describes is livable inside an ordinary week rather than requiring withdrawal ([[the tuesday is the temple]]). The claim carries weight because it is what separates the book from the retreat literature its reader has already tried and found did not hold. Its current support is entirely from the tradition the book descends from — Trika is a householder tantra, which is one of the four things that makes it irreplaceable — and support from inside one's own lineage is a property of the lineage rather than an arrival at the claim ([[the householder claim has no witness outside the indic world]]).
+The book promises that what it describes is livable inside an ordinary week rather than requiring withdrawal ([[the tuesday is the temple]]). The claim carries weight because it is what separates the book from the retreat literature its reader has already tried and found did not hold. Its current support is entirely from the tradition the book descends from — Trika is a householder tantra, which is one of the four things that makes it irreplaceable — and support from inside one's own lineage is a property of the lineage rather than an arrival at the claim (the householder claim has no witness outside the indic world).
 
 This is the strongest candidate for that hole, and the reason is a distinction worth keeping. Ignatian contemplation in action, already evaluated here, is an *adaptation*: the *Spiritual Exercises* were built for withdrawal and Annotation 19 prices an ordinary-life version at roughly nine months ([[ignatius of loyola]]). Avodah be-gashmiyut is not an adaptation of anything. The tradition never located the sacred elsewhere and then made allowances; it located it in the ordinary act from the start. That is the same shape as the book's claim rather than a concession toward it.
 
@@ -44,12 +44,10 @@ Recorded in the field above; the seating decision is the author's.
 ---
 
 Relevant Notes:
-- [[the householder claim has no witness outside the indic world]] — the hole this fills, and the strongest candidate for it
 - [[the tuesday is the temple]] — the book's own version of the claim
 - [[the house with no ceiling is transcendence with plumbing]] — the same commitment stated architecturally
 - [[ignatius of loyola]] — the adaptation case, and why it is a weaker witness than this one
 - [[al-qushayri]] — the other non-Indic arrival, from the same discipline
-- [[weil is seated as the opponent the plumbing deserves]] — the adversary this claim already had, against no witness
 - [[steven wasserstrom]] — the charge any gathering of this kind has to answer
 - [[the withdrawal-makes-room move is an independent arrival that splits on the book's householder fork]] — the gathering claim this is the book-side witness in, the Lurianic tradition's own completion-by-return
 

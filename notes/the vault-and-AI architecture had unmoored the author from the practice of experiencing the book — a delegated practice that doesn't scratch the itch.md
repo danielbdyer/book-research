@@ -24,7 +24,6 @@ Relevant Notes:
 - [[information about an experience is not participation in the experience]] — the book's own distinction, of which this diagnosis is the lived instance turned on the making
 - [[the system exists to help the author remain in relationship with the inquiry]] — the purpose stated as the answer to this diagnosis
 - [[the direction must remain life → corpus → book, never corpus → book → life]] — the inversion this diagnosis reports, stated as a rule
-- [[the perfectible conversation is the manuscript's most comfortable room]] — the kindred condition, the collaboration as the room the word rests in rather than the practice that sends it
 - [[delegation can deepen participation or destroy it]] — the general claim this is a first-person case of, delegation having drained rather than deepened
 - [[delegating production differs from delegating exploration, so each step should require fresh meaning-making]] — the distinction the same exchange draws as the way back, exploration delegable where articulation is not
 

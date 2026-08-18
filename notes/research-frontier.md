@@ -17,15 +17,15 @@ Four were evaluated against their primary works on 2026-08-02 and now carry reco
 1. [[gregory bateson]] — evaluated. The learning levels and the double bind hold at the primary text; his refusal of conscious purpose makes him a counterweight rather than the ally the survey describes.
 2. [[ignatius of loyola]] — evaluated. The precedent holds and reads as a specification: the safety record was earned by a companion forbidden to persuade, and by either seclusion or nine months.
 3. [[internal family systems]] — evaluated. The correspondences hold, the executed draft is already using the vocabulary, and the evidence base is two randomized trials against the model's cultural weight.
-4. [[hartmut rosa]] — evaluated. The uncontrollability clause completes the tuning fork's theory, and his structural diagnosis is an objection to the book's scale of address.
+4. hartmut rosa — evaluated. The uncontrollability clause completes the tuning fork's theory, and his structural diagnosis is an objection to the book's scale of address.
 
-The fifth member graduated before evaluation: [[felt shift versus felt confirmation]] is already admitted as a tension — the survey ranks its "two sentences of humility" first because they "make every other claim in the book more believable" (space-around, priority list). What remains of it is the sourcing in the processing-fluency and interoception literature, which is the priority five's only open work.
+The fifth member graduated before evaluation: felt shift versus felt confirmation is already admitted as a tension — the survey ranks its "two sentences of humility" first because they "make every other claim in the book more believable" (space-around, priority list). What remains of it is the sourcing in the processing-fluency and interoception literature, which is the priority five's only open work.
 
 The evaluations bumped four entries from the full queue to the front, each because a completed note names it as the specific thing missing. Of those four, Michael Polanyi has since been evaluated and holds a chair with a dual function ([[michael polanyi]]); Lisa Feldman Barrett (the counterweight to [[karla mclaren]]), the wu wei literature via Slingerland, and the shu-ha-ri material — half-answered by the executed draft at [[the practice forms specify when to begin and not how to tell one is finished]] — remain open.
 
 ## The crossover cluster
 
-A second round of evaluations ran on 2026-08-03, against the field around the author's core-thesis candidate rather than against the survey's own list. Twelve targets were checked at web depth and written up: [[henry corbin]], [[j l mehta]], [[john caputo]], [[the kyoto school]], [[isabelle ratie]], [[david peter lawrence]], [[loriliai biernacki]], [[michel henry]], [[steven katz]], [[thomas sheehan]], [[andrea jain]], and the anamnesis line, which became a claim rather than a chair ([[reading as remembering has a twenty-four-century ancestry in the west]]). The survey they were drawn from is [[the crossover has footsteps and the book already seats some of the walkers]]; the seats remain the author's to assign.
+A second round of evaluations ran on 2026-08-03, against the field around the author's core-thesis candidate rather than against the survey's own list. Twelve targets were checked at web depth and written up: [[henry corbin]], [[j l mehta]], [[john caputo]], the kyoto school, [[isabelle ratie]], [[david peter lawrence]], [[loriliai biernacki]], [[michel henry]], steven katz, thomas sheehan, andrea jain, and the anamnesis line, which became a claim rather than a chair ([[reading as remembering has a twenty-four-century ancestry in the west]]). The survey they were drawn from is [[the crossover has footsteps and the book already seats some of the walkers]]; the seats remain the author's to assign.
 
 The round left one piece of open research behind it, and it is the frontier's only unclaimed territory rather than another reading task. No comparative literature joining Michel Henry's auto-affection to vimarśa or the Pratyabhijñā surfaced at web depth, on either side of a rich pair. If a scholarly-database pass confirms the absence, that pairing is open ground directly adjacent to the author's own crossing.
 
@@ -41,15 +41,13 @@ The reading it put at the front:
 
 - [[john vervaeke]] — the highest-value new read the harvest names: relevance realization enters the vault through the conversation's exposition rather than through his texts, so his first-class primary reading is the frontier's newest priority, alongside the standard's-defense tier it does not displace.
 - [[relevance realization is the engine of meaning, and the attention economy fragments relevance rather than multiplying information]] — the finding that read waits on, held nascent because it is reached in the conversation and not in Vervaeke's work, which the reading would move from seed to substantiated.
-- [[there are four kinds of knowing, and the felt shift lives at the edge of the participatory]] — the fourfold epistemology the same read would ground, which broadens the felt-shift account without discharging the measurement debt at [[the verification standard rests on one name and cannot be defended by company]].
+- [[there are four kinds of knowing, and the felt shift lives at the edge of the participatory]] — the fourfold epistemology the same read would ground, which broadens the felt-shift account without discharging the measurement debt at the verification standard rests on one name and cannot be defended by company.
 - [[a durable perspective is a recognition whose value persists across contexts]] — the author's coinage naming a durability criterion, cross-contextual resilience held as a signal of worth rather than a proof of truth, new where the axiom it sharpens was already partial.
 - [[the four ontological roots organize the interlocutors by trained way of seeing]] — the organizing lens whose empty phenomenology and dialogical roots are themselves reading questions, which is why the note joins this map beside [[interlocutors]].
 
 The data-model proposals it raised, held on the inward frontier:
 
 - [[the encounter is the fundamental unit where ontology becomes lived]] — the reframe's one required addition to the vault's own model, a first-class entity for the moment something happened between a person and reality, with the reframe conversation proposed as its first instance.
-- [[the field note is the membrane between lived encounter and persistent concept]] — the organ the reframe proposes for the seam the vault already runs between `ops/` and `notes/`, letting material cross from experience into knowledge while the distinction between the two is kept.
-- [[do not model concept evolution as a chain — the corpus itself becomes the revision history]] — the reframe's design directive against a version-chain, distributing a concept's history across its encounters, field notes, and interpretations, which is how the vault is already built.
 
 ## The full queue
 
@@ -81,8 +79,6 @@ A second kind of frontier arrived with the mesh grid on 2026-08-05, and it is or
 
 Two open questions from the sort are held here as claims rather than as queue rows, because each has a fork worth stating before the reading rather than after:
 
-- [[the householder claim has no witness outside the indic world]] — a load-bearing claim supported entirely from the tradition it descends from, with an adversary already seated against it and three candidate arrivals unread.
-- [[nihility may be a station the contraction scheme cannot represent]] — the highest-variance name in the whole sort: one branch costs nothing, the other requires a structural revision, and only the reading decides.
 
 ## The reading the corpus names as its own arbiter
 
@@ -100,11 +96,9 @@ The sort's own discipline-level finding belongs here too, because it is about th
 The author directed the evaluation of the four candidates the corpus names for the region of the graph that held no interlocutor at all (2026-08-05). All four are now chairs with recommendations and undone readings, and their sharpened questions sit in the reading queue's arbiter tier.
 
 - [[anna wierzbicka]] — the closure claim's named standard, and the first of these to read, because the alphabet cannot be called found until her method is met or declined.
-- [[kenneth burke]] — the objection that does not go away if her test is passed, and the only one here answerable in prose.
 - [[alfred north whitehead]] — the finished philosophy behind verbs-only, to cite rather than import.
 - [[aristotle on privation]] — the signature move's ancestry, plus the affliction objection the corpus asks the book to inherit with it.
 
-- [[trained introspection is the repair the standard's sharpest opponent named and left open]] — the research question the Schwitzgebel reading produced: he set an evidential condition in 2008 for whether practice can make introspection reliable, and anything published since is evidence he had not seen
 
 ## The transmission digs' frontier (2026-08-13)
 
@@ -113,29 +107,12 @@ The transmission digs surveyed two bodies of outside research this map had not h
 ### The scientific spine (Dig 4): a body of mechanism to read
 
 - [[an interaction can trigger a change in a living system but cannot specify it]] — Maturana and Varela's structural determinism, the biology under the book's perturb-not-install doctrine, whose primary reading would give a mechanism the relational claim currently asserts without one.
-- [[the enactive program keeps the felt shift as corroboration rather than as evidence]] — the settlement the book's verification standard could borrow, and the reason the enactive corpus is worth reading closely rather than only citing.
-- [[the enactive program's founder conceded its biology had lost the first person]] — the reading's caution built in, since Varela turned to neurophenomenology, so the spine is read for its mechanism and not for its account of the lived first person.
-- [[every third-person science of interaction loses the first person at the altitude the book lives]] — the frontier's own warning about this whole body of work, that each third-person science forfeits the first person where the book operates, which bounds what any of these readings can deliver.
-- [[on the autopoietic account the felt shift certifies nothing beyond the one who feels it]] — the sharpest objection the spine puts to the book's standard, and a reason to read the autopoietic texts as adversary rather than ally.
-- [[the criterion for when an interaction gains autonomy is contested as too broad and arbitrary]] — the live scholarly dispute a reading would have to adjudicate, since participatory sense-making's test for an autonomous interaction is charged with being too broad and arbitrary.
-- [[the imperative to increase the number of choices is too empty to guide a facilitation decision]] — von Foerster's ethical imperative read as insufficient, a candidate a reading would seat as a bounded borrowing rather than as a facilitation ethic.
 - [[infants distinguish a live exchange from a recording of the same person]] — the measured contingency finding (the double-video paradigm) the spine offers as evidence, which a reading would place beside Tronick's still-face as a second measurement.
-- [[bateson's double-bind theory of schizophrenia was abandoned as unsupported and did documented harm]] — the counterweight the frontier must keep while reading Bateson, since the etiology was abandoned and did documented harm, so his learning levels are borrowed and his causal claims are not.
 - [[the maneuvers that change a person's frame require a live protected setting a book is not]] — Bateson's Learning-III read against the book's form, the objection a reading would sharpen: the frame-changing maneuvers need a live protected container.
-- [[an interaction science term earns its place by its worked mechanism rather than its aura]] — the admission bar this map already runs, restated for the spine's vocabulary, so structural coupling and participatory sense-making earn their place by a worked causal chain rather than by their significance.
-- [[learning to learn is a distinct level and not more of the same learning]] — Bateson's learning hierarchy, held here because it frames several of the spine readings above and recasts what a reading of this body is for.
 
 ### The why-now sociology (Dig 5): a diagnosis and its counterweights
 
-- [[restoring contact with a muted world is a change of relation, not a slowing of pace]] — Rosa's resonance as a specific reading behind the tuning fork already partly held at [[hartmut rosa]], the diagnosis reframed as re-contact rather than deceleration.
-- [[a device delivers a good while hiding the engagement it once required]] — Borgmann's device paradigm as a candidate, a mechanism for the modern concealment the book diagnoses.
-- [[today's exhaustion is self-generated and leaves no external authority to resist]] — Han as a candidate, the achievement-subject as the present form of the problem the book addresses.
-- [[even the sociology of resonance concedes that a felt encounter needs a second person to certify it]] — the finding that turns the why-now reading toward the Second Chair, since Rosa's own remedy needs a third-person check.
-- [[the felt shift's external check can be a resisting world, not only another person]] — Crawford as a candidate, a resisting world offered as a non-personal form of the missing external check.
-- [[the case that this moment corrodes the mind repeats a charge made against every new medium]] — the counterweight the frontier must read alongside the diagnosis, the every-medium panic that puts the burden of proof on the book.
-- [[the cure the sociology prescribes may be a good only the secure can afford]] — the class critique the reading owes, since the remedies presuppose leisure and security.
-- [[the critique of mediation circulates as the attention economy's premium content]] — the performative-contradiction counterweight, worth reading as the honest limit on the whole shelf.
-- [[for the reader outside comfortable modernity the device is the axis of contact rather than its loss]] — the inversion that keeps the why-now from over-generalizing, a counterweight from the reader outside sated modernity.
+- [[restoring contact with a muted world is a change of relation, not a slowing of pace]] — Rosa's resonance as a specific reading behind the tuning fork already partly held at hartmut rosa, the diagnosis reframed as re-contact rather than deceleration.
 
 ### A missing ancestor the digs flagged
 

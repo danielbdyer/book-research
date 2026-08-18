@@ -31,7 +31,7 @@ He would also refuse the warmth. Von Foerster's ethics from this position is fam
 
 ## What the evaluation still requires
 
-The *Observing Systems* essays, with two questions. Whether his position genuinely reaches the book's law or only the weaker claim that descriptions are observer-relative, which decides whether this is an arrival or a resemblance. And how his account handles the objection the book has never met — that participation is contamination and the whole experimental apparatus exists to remove it ([[the participation law has no opponent and its oldest objection is that participation is contamination]]) — since a cybernetician arguing the observer cannot be removed is standing on the same ground as the objection and drawing the opposite conclusion, which is the most useful place to watch the argument happen.
+The *Observing Systems* essays, with two questions. Whether his position genuinely reaches the book's law or only the weaker claim that descriptions are observer-relative, which decides whether this is an arrival or a resemblance. And how his account handles the objection the book has never met — that participation is contamination and the whole experimental apparatus exists to remove it (the participation law has no opponent and its oldest objection is that participation is contamination) — since a cybernetician arguing the observer cannot be removed is standing on the same ground as the objection and drawing the opposite conclusion, which is the most useful place to watch the argument happen.
 
 The transmission mesh's verdict, folded 2026-08-16: Dig IV rated him directional, since his candidate ethic — increase the number of choices — points a way but is too formally empty to bear weight, and it queues the Observing Systems essays as a Tier 7 reading (entry 75).
 
@@ -45,7 +45,6 @@ Relevant Notes:
 - [[transformation is enacted participation inside a held container]] — the law he would witness from engineering
 - [[the participation law has a witness who came to it through crystallography]] — the finding this chair extends, from a second non-continental direction
 - [[the convergence's independence fails where three of its names share one teacher]] — the test he passes cleanly
-- [[the participation law has no opponent and its oldest objection is that participation is contamination]] — the objection his position stands opposite
 - [[harold garfinkel]] — the third arrival in the same hole, from sociology
 - [[michael polanyi]] — the first, and the one to read before him
 

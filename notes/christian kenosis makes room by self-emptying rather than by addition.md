@@ -20,7 +20,6 @@ The book's container makes room by withdrawing, and its privative grammar reads 
 
 Relevant Notes:
 - [[the book reads deep change as uncovering rather than addition]] — the privative grammar of which love-by-emptying is one face
-- [[weil's decreation un-creates the self and reaches the opposite of the restored first person]] — the renunciation pole this reading leans toward
 - [[the fullness of the first person is the road to selflessness rather than its obstacle]] — where the book already names anatta, fana and kenosis as one territory
 - [[the sufi arc completes annihilation by return rather than by staying dissolved]] — the fanā pole of the same dissolution family, but completed by return rather than by staying emptied
 - [[tzimtzum is a withdrawal that makes room and is company for the container law only]] — the Lurianic withdrawal-makes-room cousin on the same container-anatomy map, sharing the container-that-withdraws shape

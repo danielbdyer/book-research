@@ -36,7 +36,6 @@ Relevant Notes:
 - [[the tradition the book owes most has no chair in its company]] — the tension this note supplies the missing element of
 - [[the book can only be auxiliary to a sovereign reader]] — the doctrine the second refusal presses on hardest
 - [[the kashmir shaiva anupaya turns the negative way on method itself]] — the reading that extends the second refusal, the no-means reserved for the most graced rather than offered to every reader as a doorway
-- [[a codex is a one-chair technology making a two-chair argument]] — the book's own arrival at the third refusal
 - [[nothing transforms from the audience]] — the participation law the tradition would re-attribute rather than deny
 - [[the tuesday is the temple]] — the householder axiom the tradition's own texts already contain
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the convergence whose far pole gains its voice here
@@ -44,7 +43,6 @@ Relevant Notes:
 - [[david peter lawrence]] — the fourth refusal's other resolution, the crossover run as proof rather than as gesture
 - [[both poles of the convergence supply their own front doors]] — the tradition's own entry texts, which a reader meets before these refusals
 - [[steven wasserstrom]] — the historian's version of the same refusals, aimed at the practice of comparative synthesis rather than at any one of its moves
-- [[the reader's resistance has nowhere to land]] — the tension these four refusals can supply: a refusal from inside the book's foundation it can stage losing to on purpose
 
 Topics:
 - [[interlocutors]]

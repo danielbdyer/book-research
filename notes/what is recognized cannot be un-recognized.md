@@ -27,7 +27,6 @@ The consequence for the book is a matter of consent rather than of tone. A work 
 Relevant Notes:
 - [[reading is remembering]] — the promise this states the cost of
 - [[recognition is the soul's reminder rather than the ego's reward]] — the other half of the same material: what the reminder is, as against what it is not
-- [[the reader's resistance has nowhere to land]] — the tension this bears on, since a reader told the cost is a reader given something to refuse
 - [[nothing transforms from the audience]] — the law that makes the reader's consent structural rather than courteous
 - [[an enormous experience is interpreted by the structure it did not change]] — the reader-premise this collides with, the big experience that did not hold
 - [[state and station were distinguished a millennium before the lattice named them]] — the distinction that dissolves the collision: a state does not hold, a station does
