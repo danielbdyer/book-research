@@ -30,9 +30,6 @@ The atlas records these five at §XI.1 and heads them as the book's own diagnost
 The three manuscript drafts admitted 2026-08-01 carry strains that the four descriptive sources do not record, because a description states a position while a draft has to choose one.
 
 
-## The personal tensions
-
-
 ## The instrument's counterweights
 
 The felt-shift verification standard the counterweights qualify is, since the reframe of 2026-08-13, held as a guardrail beneath the affirmative ground named at [[the ecology frame transcends and includes the verification frame rather than replacing it]] rather than as the book's bedrock; the counterweights below stay exactly as live.
@@ -48,12 +45,6 @@ The corpus preserves, rather than adjudicates, the disagreements among its conte
 - [[the transformation field divides into five theories of where suffering lives]] — the five positions themselves, with each camp's axiom quoted and the three expansions that make eight
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the sharpest of the forks, whose treatment is the body seated as referee and doctrine recusing itself
 - [[the middle voice is only earned against the voluntarist pole at full strength]] — the condition on that treatment: a resolution is worth what the position it overcomes was worth, and the will pole is the roster's easiest name to condescend to
-
-## The tension inside the vocabulary the author is questioning
-
-
-## The tension the making exposes
-
 
 ## The tension the author raised at the company
 
@@ -101,12 +92,6 @@ The adversary chamber of the transmission digs (Dig 6, 2026-08-13; the record is
 ### The register attack
 
 - [[presence-language may radiate significance the sentence has not earned]] — Adorno's charge that the book's register works as aura, so a reader's felt assent may register the word's tone rather than the claim, which is the tension this map must keep because the book's medium is presence-language. Treatment under trial: hold the risk as real while denying the charge a criterion the book cannot also meet.
-
-### The compliance attack
-
-
-### The response-expectancy induction
-
 
 ### The crossover, and what survives it
 

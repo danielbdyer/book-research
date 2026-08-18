@@ -93,9 +93,6 @@ The transmission digs of 2026-08-13 reached this map most heavily through the in
 - [[writing without authority renounces the teacher's office and with it the power to correct a misreading]] — the price of the answerable word stated plainly, since renouncing the authority to be deferred to also renounces the authority to correct a misreading.
 - [[indirect communication is built to isolate the individual, so a participatory book cannot borrow its devices and reverse their purpose]] — the deepest objection this map inherits, since Kierkegaard's devices exist to sever the individual from the crowd, the opposite motion to a book about participation.
 
-### Verification: the answer that can fail outside the room (Digs 6, 3)
-
-
 ### The fusion of horizons, and authority that can be manufactured (Dig 2)
 
 - [[the fusion of horizons is the strata's strongest account of meaning as an event owned by neither reader nor text]] — Gadamer's account of the answer as an event neither party owns, the strongest precedent for a meaning that arises between a word and its reader rather than being transmitted.

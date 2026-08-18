@@ -147,9 +147,6 @@ The transmission digs of 2026-08-13 excavated the book's medium blind to the vau
 - [[iser distinguishes completion from participation as two fates of the textual gap]] — Iser's mechanism for how a text either confirms the reader or turns him on his own preconceptions, the page-native form of what produces a shift rather than mere consistency.
 - [[evocation-then-negation is iser's named mechanism for a reading that re-orients the reader]] — the specific move that would produce a shift, evoking an assumption and then negating it, while issuing no receipt that the re-orientation occurred.
 
-### What the shift may certify: the scientific spine's settlement (Dig 4)
-
-
 ### Verification the standard cannot run alone (Dig 7)
 
 - [[a shared focal task frees spontaneity by occupying the attention that would otherwise watch the self]] — Spolin's structural way to the state the shift verifies, occupying the self-watching attention with a shared focus, a condition-making move rather than a test.
