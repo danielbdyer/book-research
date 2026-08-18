@@ -23,8 +23,7 @@ A node enters `notes/` when the writing or a completed reading actually reaches 
 
 The failure mode is topological. In a graph whose importance is read from connectivity, a node admitted below the writing test is an unearned attachment surface: nothing may depend on it today, but nothing stops later material from branching off it, and once it accretes edges the instruments report it as real structure. The discipline is therefore not "no leaf nodes" — a load-bearing claim nothing has yet built upon is a healthy leaf — but "nothing in the interlinking graph that the writing would not reach for." The distinction the audit drew, and this rule preserves, is between the dinner table and the shelf.
 
-Relevant Notes:
-- [[the perfectible conversation is the manuscript's most comfortable room]] — the prior naming of the same failure at the scale of the whole apparatus, that any framework can become the newest sophisticated hallway.
+The dated record of the audit and the excision it produced is the 2026-08-16 entry in `ops/completed.md`; the adjudicated ledger is `epistemic-audit-2026-08-16.md`.
 
 Topics:
 - [[methods]]
