@@ -20,7 +20,7 @@ Two facts about the construction are worth stating in their own right, because a
 
 ## Substantiation
 
-- Walked III lists all twelve operations with their pairings and glosses and records the falsifiability drill; atlas §III records the reflexive fact the corpus flags for the author, that the book itself is built almost entirely from one primitive, Express, which has its own tension at the whole volume is wagered on express.
+- Walked III lists all twelve operations with their pairings and glosses and records the falsifiability drill; atlas §III records the reflexive fact the corpus flags for the author, that the book itself is built almost entirely from one primitive, Express.
 - The executed prose defines the title's idiom structurally: "'Firing on all cylinders' is the felt condition in which all three are functioning and integrated" (abridged ch7). Atlas §X.5e carries the same cylinder equation as the treatment's image system.
 - The composition of the six derived verbs from the six base ones appears only in the executed prose edition, and checked there it fails in three ways, which is the subject of the note on what the formulas can and cannot carry rather than of this one.
 - The outside standard this construction would have to meet or decline is named and unmet: the space-around survey queues Wierzbicka's semantic primes as the sparring partner for any claim that the alphabet is found rather than invented, and the corpus's axiom does not answer it ([[the corpus names the standard its found-not-invented axiom has not met]]).
