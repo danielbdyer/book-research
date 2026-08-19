@@ -8,7 +8,7 @@ state: full
 
 # gendlin names four kinds of inward attention that are not focusing
 
-The book's verification standard has a counterfeit problem: a reader can attend inward, feel something, and take the feeling for the countersignature. The corpus records one form of it — the bodily yes produced by fluent prose (felt shift versus felt confirmation) — and the vault has treated the problem as an open hole. The standard's own founding paper turns out to contain a taxonomy of the counterfeits, in a footnote, fourteen years before *Focusing* was published.
+The book's verification standard has a counterfeit problem: a reader can attend inward, feel something, and take the feeling for the countersignature. The corpus records one form of it — the bodily yes produced by fluent prose — and the vault has treated the problem as an open hole. The standard's own founding paper turns out to contain a taxonomy of the counterfeits, in a footnote, fourteen years before *Focusing* was published.
 
 Gendlin's footnote 13 lists four kinds of inward attention that are not direct reference and "thus are not focusing" (Gendlin 1964, fn. 13). Each is stated with its mechanism.
 
