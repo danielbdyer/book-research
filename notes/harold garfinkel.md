@@ -35,7 +35,7 @@ He would also refuse the therapeutic use of breaching. His disruptions were inve
 
 ## What the evaluation still requires
 
-*Studies in Ethnomethodology*, with two questions: whether his constitutive claim about accounts reaches the book's law or is a narrower point about social settings; and whether the breaching material can be read as evidence for the invisibility of the always-there without importing the method as a practice, since the second would run against the harm question the sort raises elsewhere (the basic posture is describable as dissociation and the harm literature is unread).
+*Studies in Ethnomethodology*, with two questions: whether his constitutive claim about accounts reaches the book's law or is a narrower point about social settings; and whether the breaching material can be read as evidence for the invisibility of the always-there without importing the method as a practice, since the second would run against the harm question the sort raises elsewhere.
 
 ## Recommendation
 
