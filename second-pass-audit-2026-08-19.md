@@ -71,6 +71,8 @@ The evaluators recommend pruning each, but you already ruled to keep it (or it i
 
 Each is load-bearing or your own recent claim that was stranded when its felt-shift/device neighbors were cut. The fix is additive: a footer link and gloss from each to the surviving hub(s) named. No content changes.
 
+**My recommendation: execute all 18** on your word — additive footer wiring only, restoring your own stranded doctrine to its correct surviving hubs; no note's content changes. I will fold in reconnecting the five keep/bedrock items from Reconsider above in the same pass.
+
 - [ ] `the book occupies the second person with a polyphony of devices, none taking the whole register` → *the book's native genre is the letter…*, *the field between two people does work* (your 2026-08-16 claim, empty footer; the polyphony that should gather the surviving device notes)
 - [ ] `the book points at the external check it cannot administer, the finger rather than the moon` → *the book can only be auxiliary to a sovereign reader*, *the field between two people does work*
 - [ ] `response expectancy is a two-sided coin, the mechanism of the manufactured artifact and of genuine change alike` → *nothing enters the lattice the body has not countersigned*, *transformation is enacted participation…* (you kept this as trunk; it just needs wiring)
