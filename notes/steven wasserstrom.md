@@ -29,7 +29,7 @@ Two things about the book make the charge land rather than glance. The tradition
 
 Derived rather than sourced; *Religion after Religion* has not been read in this vault.
 
-Wasserstrom would refuse the defence from sincerity. His argument does not turn on the Eranos scholars' motives, which were serious, and it is not answered by intending well — a point the vault already holds in another voice, since gestural subversion and the insufficiency of sincerity are exactly what andrea jain was seated for.
+Wasserstrom would refuse the defence from sincerity. His argument does not turn on the Eranos scholars' motives, which were serious, and it is not answered by intending well — a point the vault already holds in another voice, since gestural subversion and the insufficiency of sincerity are exactly what Andrea Jain argues.
 
 He would also refuse a use of himself as a rule about borrowing in general. His case is historically specific and its force comes from the details of what Eranos did; deployed as a general prohibition it becomes the kind of abstraction he was objecting to.
 
