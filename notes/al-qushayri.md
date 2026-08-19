@@ -21,7 +21,7 @@ The practical use of the distinction in the tradition is diagnostic, and it is a
 
 The book already declares this distinction as the thing protecting it from spiritual bypass — it names *ahwal* and *maqamat* directly. What it does not currently record is that the distinction is an independent arrival at a structure the book needs for a second job entirely: the same claim, in modern dress, is what explains why an enormous experience leaves an unchanged person unchanged ([[an enormous experience is interpreted by the structure it did not change]]). The book holds it as a warning and could hold it as a mechanism.
 
-Two witnesses to one structure, from traditions with no contact, is materially different from one, and the grid says so ([[state and station were distinguished a millennium before the lattice named them]]). It also partly fills a second hole: the claim that this is livable in an ordinary life has no independent witness at all outside the Indic world (the householder claim has no witness outside the indic world), and Sufi practice is lay practice.
+Two witnesses to one structure, from traditions with no contact, is materially different from one, and the grid says so ([[state and station were distinguished a millennium before the lattice named them]]). It also partly fills a second hole: the claim that this is livable in an ordinary life has no independent witness at all outside the Indic world, and Sufi practice is lay practice.
 
 ## What he would refuse
 
