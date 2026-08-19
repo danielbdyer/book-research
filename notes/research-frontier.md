@@ -17,7 +17,7 @@ Four were evaluated against their primary works on 2026-08-02 and now carry reco
 1. [[gregory bateson]] — evaluated. The learning levels and the double bind hold at the primary text; his refusal of conscious purpose makes him a counterweight rather than the ally the survey describes.
 2. [[ignatius of loyola]] — evaluated. The precedent holds and reads as a specification: the safety record was earned by a companion forbidden to persuade, and by either seclusion or nine months.
 3. [[internal family systems]] — evaluated. The correspondences hold, the executed draft is already using the vocabulary, and the evidence base is two randomized trials against the model's cultural weight.
-4. hartmut rosa — evaluated. The uncontrollability clause completes the tuning fork's theory, and his structural diagnosis is an objection to the book's scale of address.
+4. Hartmut Rosa — evaluated. The uncontrollability clause completes the tuning fork's theory, and his structural diagnosis is an objection to the book's scale of address.
 
 The fifth member graduated before evaluation: the survey's "two sentences of humility" about the felt shift, ranked first because they "make every other claim in the book more believable" (space-around, priority list). What remains of it is the sourcing in the processing-fluency and interoception literature, which is the priority five's only open work.
 
