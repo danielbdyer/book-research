@@ -33,7 +33,7 @@ The deception is the stress-test flagged with his seat. The devices are asymmetr
 
 ## What his medium contributes
 
-His contribution is to the book's medium rather than its doctrine. Double reflection, revocation, and writing without authority are page-native operations a solitary book can perform, and they answer the disappearance clause of the trust-and-disappear problem. But the same design makes success unverifiable: double reflection renders appropriation invisible from outside, so the author cannot confirm any reader crossed over, and the invisibility that makes the indirection succeed is identical to its unfalsifiability (the invisibility that makes indirection succeed is identical to its unfalsifiability). He did not solve the book's verification crisis; he is the man who built the devices and then showed where they break.
+His contribution is to the book's medium rather than its doctrine. Double reflection, revocation, and writing without authority are page-native operations a solitary book can perform, and they answer the disappearance clause of the trust-and-disappear problem. But the same design makes success unverifiable: double reflection renders appropriation invisible from outside, so the author cannot confirm any reader crossed over, and the invisibility that makes the indirection succeed is identical to its unfalsifiability. He did not solve the book's verification crisis; he is the man who built the devices and then showed where they break.
 
 ## What the evaluation still requires
 
