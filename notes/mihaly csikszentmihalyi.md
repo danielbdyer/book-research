@@ -27,7 +27,7 @@ That inversion is the failure mode the book already names in its own material. I
 
 Derived rather than sourced; no primary work has been read in this vault.
 
-Csíkszentmihalyi would refuse the reading of himself as a cautionary tale about measurement. His position was that making the state operational is what allowed it to be studied at all, and that vagueness protects nothing — a claim aimed squarely at a book whose central state is verified by an unmeasurable bodily report (introspective access is the felt shift's undefended premise).
+Csíkszentmihalyi would refuse the reading of himself as a cautionary tale about measurement. His position was that making the state operational is what allowed it to be studied at all, and that vagueness protects nothing — a claim aimed squarely at a book whose central state is verified by an unmeasurable bodily report.
 
 He would also refuse the flow–recognition equation if the book reached for it. Flow is absorption in a structured activity with clear goals and matched challenge; the book's central event is recognition of something already present, which has no task, no goal and no feedback loop. The two are different states that share a phenomenological surface, and the vault already holds flow as one of three tributaries in the author's own record rather than as the destination ([[flourishing flow and facilitation converged on one stance in the author's own record]]).
 
