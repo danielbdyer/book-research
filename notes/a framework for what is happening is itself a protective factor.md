@@ -18,7 +18,7 @@ This changes where the book stands in relation to its own subject. A book that g
 ## Substantiation
 
 - `privated` — no primary work behind the predictor list has been read here, and the claim rests on the synthesis's report. What would need checking is whether "lack of framework" appears as a measured variable in the challenging-experiences literature or as the synthesis's summary of clinical consensus, because those carry different weight.
-- Stated in plain terms rather than as a property of loop release, per a synthesis organized by the schemes offers to promote them back to architecture.
+- The claim is stated in plain terms rather than as a property of loop release.
 - The finding cuts in two directions and both belong in the note.
 
   **It answers part of the harm objection.** The vault holds that the contemplative adverse-effects literature is unread and that its absence is the book's most defensible criticism (the basic posture is describable as dissociation and the harm literature is unread). This is the first material the vault has that runs the other way: on the same literature's own account, an accurate framework is protective, so a book that supplies one is doing something the harm research would credit rather than only something it would scrutinize.
