@@ -1,7 +1,7 @@
 ---
 description: "The record holds two kinds of convergence, agreement the lineages were selected for and refusals that arrived unlooked-for against the gatherer's interest, and the selection caveat reaches only the first."
 category: claim
-sources: ["notes/the unanimity claim is an artifact of how the lineages were selected.md", "notes/the book's native genre is the letter from a friend read alone.md, the objection recorded there on 2026-08-05", "notes/the required second person splits into a judge and a mirror.md, the four-tradition finding generalized"]
+sources: ["notes/the unanimity claim is an artifact of how the lineages were selected.md", "notes/the book's native genre is the letter from a friend read alone.md, the objection recorded there on 2026-08-05"]
 topics: ["[[interlocutors]]", "[[methods]]"]
 ---
 
