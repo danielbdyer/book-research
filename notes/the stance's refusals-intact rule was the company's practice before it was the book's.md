@@ -1,7 +1,7 @@
 ---
 description: "Six of the company limited their own findings in print — Heidegger's retraction, Gendlin's footnote, Maslow's preface, Caputo, Ueda, James — so keeping a refusal is their practice, not the author's courtesy."
 category: claim
-sources: ["The End of Philosophy and the Task of Thinking (1964), verified at the evaluation", "Gendlin 1964, fn. 9", "the interlocutor notes for abraham maslow, john caputo, the kyoto school, and william james (cited in body)"]
+sources: ["The End of Philosophy and the Task of Thinking (1964), verified at the evaluation", "Gendlin 1964, fn. 9", "the interlocutor notes for abraham maslow, john caputo, and william james (cited in body)"]
 topics: ["[[interlocutors]]", "[[recognition]]"]
 ---
 
