@@ -37,7 +37,7 @@ The refusal that bears hardest is the one Matolino, Kwindingwi and Praeg already
 
 The second refusal is structural and cuts at the book's form more than at its content. Ubuntu's personhood is conferred by a community over time, through ritual, obligation and recognition by others. A reader alone with a book cannot be made a person by it, and the tradition would say the solitary self-work the book prescribes is the wrong unit of analysis rather than an incomplete version of the right one. That is the same objection the vault has received from many directions — the count of thinkers refusing the solitary reading now approaches nineteen across the whole company — and ubuntu is the most explicit about *why*: for the others the solitary reader lacks support, and for ubuntu the solitary reader lacks the thing that makes a person.
 
-A third would be aimed at this note. Menkiti's degrees of personhood — that one can be more or less a person — is the position most likely to be quoted warmly and is the one an outsider should be most careful with, because it is the point Gyekye attacks from inside and because a scheme that ranks persons is the failure mode the vault already tracks (a developmental scheme handed to practitioners becomes a ranking of persons).
+A third would be aimed at this note. Menkiti's degrees of personhood — that one can be more or less a person — is the position most likely to be quoted warmly and is the one an outsider should be most careful with, because it is the point Gyekye attacks from inside and because a scheme that ranks persons is the failure mode the vault already tracks.
 
 ## What the evaluation still requires
 
