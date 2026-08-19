@@ -15,7 +15,7 @@ The corpus's image system pairs each image with a concept and an antecedent. Thi
 
 - Atlas §X.5h records the full pairing: the image, the book itself as its concept, and the Hopkins and Hyde connections.
 - First-telling, "The honesty," states the image's function: deliberately humble, installed early, closing with the reader identified as the striking surface.
-- The space-around survey identifies Hartmut Rosa's sociology of resonance as a completed external theory for this image, including the clause that resonance cannot be guaranteed. Rosa's candidate note, with the case and its status, is hartmut rosa.
+- The space-around survey identifies Hartmut Rosa's sociology of resonance as a completed external theory for this image, including the clause that resonance cannot be guaranteed.
 - The same no-guarantee clause is stated by both of the book's own foundations, independently of each other and of Rosa: neither Heidegger nor the valley permits the epiphany to be engineered ([[both poles of the convergence refuse the engineered epiphany]]). That gives this image the strongest available warrant for its humility, written for it by the traditions the book stands on.
 
 ---
