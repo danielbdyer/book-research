@@ -17,7 +17,7 @@ The Fourth Way is the name Gurdjieff gave to a path that runs through ordinary l
 
 ## Why the sort wants them
 
-Of the names on the precedent bench, this is the closest structural ancestor — a complete system of self-observation, with its own vocabulary, aimed at people living ordinary modern lives, and offered as usable (the nearest prior attempts are case histories rather than interlocutors). The householder framing in particular is not incidental: the Fourth Way's whole self-definition is that it does not require withdrawal, which is the book's own claim ([[the tuesday is the temple]]).
+Of the names on the precedent bench, this is the closest structural ancestor — a complete system of self-observation, with its own vocabulary, aimed at people living ordinary modern lives, and offered as usable. The householder framing in particular is not incidental: the Fourth Way's whole self-definition is that it does not require withdrawal, which is the book's own claim ([[the tuesday is the temple]]).
 
 What the case supplies is the outcome. The grid's summary: it is "the clearest record of how such a thing acquires authority dynamics its founder did not intend" (`mesh grid: tier 0`). Gurdjieff's own relation to his pupils became the subject of the movement's history rather than a footnote to it, Ouspensky broke with him, and the successor groups reproduced the dynamic in forms no one designed.
 
