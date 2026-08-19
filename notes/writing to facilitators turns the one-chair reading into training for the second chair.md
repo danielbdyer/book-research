@@ -16,7 +16,7 @@ This re-nests the book's structural wound rather than dissolving it. The corpus'
 
 - Book I's facilitation endpoint, from the conversation: "The facilitator ultimately becomes a steward of conditions," whose honest claim is "I helped create a field in which something became possible" (reframe conversation, 2026-08-13, line 16020), held at [[facilitation is stewardship of conditions]].
 - The disappearance that defines the craft's success: "The best facilitator eventually becomes less necessary," so "The facilitator succeeds by increasing the other's capacity to facilitate themselves" (reframe conversation, 2026-08-13, lines 16038–16050), held at [[the facilitator disappears, success is increasing the other's capacity to facilitate themselves]].
-- The wound this re-nests without repairing is recorded at a codex is a one-chair technology making a two-chair argument, where the author's own reframe already turns the missing chair over without dissolving the tension.
+- The wound this re-nests without repairing is the solitary-reading tension, that the book is a one-chair technology making a two-chair argument, which the author's own reframe turns over without dissolving.
 - The re-grounding is the author's, recorded as author direction, 2026-08-14; the address re-poses what the one-chair reading is for and does not claim that reading it produces a trained facilitator.
 
 ---
