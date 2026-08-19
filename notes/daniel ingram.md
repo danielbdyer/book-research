@@ -27,7 +27,7 @@ He also bears on the book's stated reader. The reader is someone who has already
 
 Derived rather than sourced; no primary work has been read in this vault, and the formulations are a research synthesis's report of him.
 
-Ingram would refuse the demotion of maps. His whole project is that the stages are real, sequential, reproducible, and worth mapping precisely — that vagueness about them is what harms people. The author demoted the book's own schemes from architecture to instrument on 2026-08-04, and a session that reaches for Ingram to fill the guardrail hole is reaching for someone whose answer is a more detailed developmental scheme (a synthesis organized by the schemes offers to promote them back to architecture records the general form of this risk).
+Ingram would refuse the demotion of maps. His whole project is that the stages are real, sequential, reproducible, and worth mapping precisely — that vagueness about them is what harms people. The author demoted the book's own schemes from architecture to instrument on 2026-08-04, and a session that reaches for Ingram to fill the guardrail hole is reaching for someone whose answer is a more detailed developmental scheme.
 
 He would also refuse the book's reticence about attainment. Ingram is unusually willing to state what he claims to have achieved and to argue that the reluctance to make such claims is itself a cultural pathology that leaves practitioners unable to calibrate. A book grounded in first-person demonstration but hedged about outcomes is, on his terms, doing the thing that leaves readers stranded.
 
