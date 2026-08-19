@@ -19,7 +19,7 @@ Four were evaluated against their primary works on 2026-08-02 and now carry reco
 3. [[internal family systems]] — evaluated. The correspondences hold, the executed draft is already using the vocabulary, and the evidence base is two randomized trials against the model's cultural weight.
 4. hartmut rosa — evaluated. The uncontrollability clause completes the tuning fork's theory, and his structural diagnosis is an objection to the book's scale of address.
 
-The fifth member graduated before evaluation: felt shift versus felt confirmation is already admitted as a tension — the survey ranks its "two sentences of humility" first because they "make every other claim in the book more believable" (space-around, priority list). What remains of it is the sourcing in the processing-fluency and interoception literature, which is the priority five's only open work.
+The fifth member graduated before evaluation: the survey's "two sentences of humility" about the felt shift, ranked first because they "make every other claim in the book more believable" (space-around, priority list). What remains of it is the sourcing in the processing-fluency and interoception literature, which is the priority five's only open work.
 
 The evaluations bumped four entries from the full queue to the front, each because a completed note names it as the specific thing missing. Of those four, Michael Polanyi has since been evaluated and holds a chair with a dual function ([[michael polanyi]]); Lisa Feldman Barrett (the counterweight to [[karla mclaren]]), the wu wei literature via Slingerland, and the shu-ha-ri material — half-answered by the executed draft at [[the practice forms specify when to begin and not how to tell one is finished]] — remain open.
 
