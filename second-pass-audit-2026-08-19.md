@@ -102,4 +102,6 @@ The remaining ~62 evaluated candidates stand — the interlocutor convergence (a
 
 ## How to drive it
 
-Mark a verdict on the prune candidates and the reconsiders (keep / prune), and I will execute: the prunes as a second deletion wave with the same reference-repair discipline, the reconnects as additive wiring, then re-verify and push. After that the graph is composable, and the next move is drafting Book I from the relational-field center.
+Every line above now carries my recommendation. The fastest path: if my read matches yours, reply "go with your recommendations" and I execute the whole ledger in one pass — prune the 13, release the Adorno pair to the shelf, keep-and-reconnect the rest of the reconsiders, wire the 18 reconnects, then re-verify and push. Override any single line and I honor the override. The one item I have left genuinely open for you is the fork: `the facilitated room has several independent roots…` — keep as a lineage-honesty note, or prune with the improv fragments.
+
+After this the graph is composable, and the next move is drafting Book I from the relational-field center.
