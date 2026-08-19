@@ -31,7 +31,7 @@ The refusal worth keeping is the one aimed back at Adorno. His own prose is maxi
 
 ## What his medium contributes
 
-Adorno's contribution to the book's medium is a negative test the book can install against itself. On his account beautiful prose is the attack's delivery vehicle, so the book earns its register only by making the prose slow assent rather than manufacture it, and by naming, on the page, a felt result that would count as the book's own failure — the one move that converts an unfalsifiable interiority into something that can be wrong (the book escapes the ideology charge only by naming a felt result that would count as its own failure). Held this way, the jargon charge is not a wound but a design constraint the medium must meet sentence by sentence.
+Adorno's contribution to the book's medium is a negative test the book can install against itself. On his account beautiful prose is the attack's delivery vehicle, so the book earns its register only by making the prose slow assent rather than manufacture it, and by naming, on the page, a felt result that would count as the book's own failure — the one move that converts an unfalsifiable interiority into something that can be wrong. Held this way, the jargon charge is not a wound but a design constraint the medium must meet sentence by sentence.
 
 ## What the evaluation still requires
 
