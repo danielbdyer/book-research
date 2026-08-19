@@ -21,7 +21,7 @@ Of the names on the precedent bench, this is the closest structural ancestor —
 
 What the case supplies is the outcome. The grid's summary: it is "the clearest record of how such a thing acquires authority dynamics its founder did not intend" (`mesh grid: tier 0`). Gurdjieff's own relation to his pupils became the subject of the movement's history rather than a footnote to it, Ouspensky broke with him, and the successor groups reproduced the dynamic in forms no one designed.
 
-That bears on a question already open here. The book cannot currently distinguish a reader in dissolution from a reader in regression (the book cannot tell dissolution from regression and neither can its reader), and the Fourth Way is a documented case of a system that induced destabilization deliberately, had a teacher present to read it, and still produced casualties. A book has no teacher present at all.
+That bears on a question already open here. The book cannot currently distinguish a reader in dissolution from a reader in regression, and the Fourth Way is a documented case of a system that induced destabilization deliberately, had a teacher present to read it, and still produced casualties. A book has no teacher present at all.
 
 ## What they would refuse
 
