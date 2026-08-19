@@ -15,7 +15,7 @@ topics: ["[[interlocutors]]", "[[tensions]]"]
 
 Theodor Adorno was a philosopher of the Frankfurt School whose *Jargon of Authenticity* is a critique of a way of writing rather than of a doctrine. Its unit is the auratic word — *Geborgenheit*, encounter, concern — which radiates significance independent of the content of the sentence it stands in, so that pronouncing the word feels like meaning it. The moving parts are three. The tone certifies the claim, so nothing falsifiable need be asserted. Immediacy is sacralized, so the lived outranks the mediated and buys the numinous while distrusting the concept that would test it. And the result is non-falsifiable: a real and a faked authenticity cannot be distinguished, and an objection is re-read as the objector's own inauthenticity. The charge is that this is not bad philosophy but ideology — consolation sold as depth, a mood of resistance that leaves the administered order exactly as it was.
 
-Adorno's founding target for the charge is Kierkegaard, on whom he wrote his *Habilitation* in 1933. The vocabulary of inwardness, the single individual, and authenticity is his exhibit A. A presence-book written in that register is therefore not a bystander to the charge but its paradigm case (a book in the register of inwardness and the single individual is the origin of the jargon-of-authenticity charge).
+Adorno's founding target for the charge is Kierkegaard, on whom he wrote his *Habilitation* in 1933. The vocabulary of inwardness, the single individual, and authenticity is his exhibit A. A presence-book written in that register is therefore not a bystander to the charge but its paradigm case.
 
 ## Why the sort wants him
 
