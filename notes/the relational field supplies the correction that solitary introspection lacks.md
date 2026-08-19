@@ -15,7 +15,7 @@ The point is a feature of the ecology rather than a defense the book mounts for 
 ## Substantiation
 
 - The field's constant presence, from the conversation: "Every facilitation encounter contains a field... The facilitator is not outside this field. They are part of it" (reframe conversation, 2026-08-13, lines 15506–15508), held at [[there is no empty room, the facilitator is inside the field, not outside]].
-- The uncorrected-introspection diagnosis, from the standard's two sharpest opponents, both read whole on 2026-08-07: Schwitzgebel's "This lack of corrective feedback encourages a hypertrophy of confidence" (2008, pp. 259–260) and Nisbett and Wilson's "Inadequate Feedback" (1977, p. 256), gathered at both attacks on the standard blame the absence of correction by another person.
+- The uncorrected-introspection diagnosis, from the standard's two sharpest opponents, both read whole on 2026-08-07: Schwitzgebel's "This lack of corrective feedback encourages a hypertrophy of confidence" (2008, pp. 259–260) and Nisbett and Wilson's "Inadequate Feedback" (1977, p. 256).
 - The correction those opponents supply is another person, and neither proposes it as a remedy; the inference from their diagnosis to the relational field is the vault's, and it is stated as an inference, per the caution kept at both attacks on the standard blame the absence of correction by another person.
 - The re-grounding is the author's, recorded as author direction, 2026-08-14; the claim locates where correction lives and does not assert that any given reader is corrected.
 
