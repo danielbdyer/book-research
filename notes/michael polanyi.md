@@ -37,7 +37,7 @@ He would also, on the same ground, refuse a symmetric reading of the participati
 
 ## What the evaluation still requires
 
-*Personal Knowledge* is long and the relevant chapters are on skills, indwelling and commitment. Three things to settle: whether he claims for tacit knowing anything like a verification function, or only a discovery function; how his account of commitment handles the objection that participation immunizes a position against disagreement, which is the hole next to this one (the participation law has no opponent and its oldest objection is that participation is contamination); and whether the subsidiary-focal structure genuinely matches the book's posture or merely rhymes with it.
+*Personal Knowledge* is long and the relevant chapters are on skills, indwelling and commitment. Three things to settle: whether he claims for tacit knowing anything like a verification function, or only a discovery function; how his account of commitment handles the objection that participation immunizes a position against disagreement, which is the hole next to this one; and whether the subsidiary-focal structure genuinely matches the book's posture or merely rhymes with it.
 
 The transmission mesh's verdict, folded 2026-08-16: Dig IV judged him a stress-test, since the from-to structure of tacit knowing threatens the book's own central instruction to attend to the felt shift, and it queues a reading at Tier 7 (entry 72).
 
