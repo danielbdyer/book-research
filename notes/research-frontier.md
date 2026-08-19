@@ -112,7 +112,7 @@ The transmission digs surveyed two bodies of outside research this map had not h
 
 ### The why-now sociology (Dig 5): a diagnosis and its counterweights
 
-- [[restoring contact with a muted world is a change of relation, not a slowing of pace]] — Rosa's resonance as a specific reading behind the tuning fork already partly held at hartmut rosa, the diagnosis reframed as re-contact rather than deceleration.
+- [[restoring contact with a muted world is a change of relation, not a slowing of pace]] — Rosa's resonance as a specific reading behind the tuning fork, the diagnosis reframed as re-contact rather than deceleration.
 
 ### A missing ancestor the digs flagged
 
