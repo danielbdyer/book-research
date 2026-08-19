@@ -34,7 +34,7 @@ The three manuscript drafts admitted 2026-08-01 carry strains that the four desc
 
 The felt-shift verification standard the counterweights qualify is, since the reframe of 2026-08-13, held as a guardrail beneath the affirmative ground named at [[the ecology frame transcends and includes the verification frame rather than replacing it]] rather than as the book's bedrock; the counterweights below stay exactly as live.
 
-- felt shift versus felt confirmation — the somatic test can be fooled by fluent prose, and the signal is weakest where the protective folding is deepest. This tension also binds the vault's own verification practice; see [[methods]].
+- The somatic test can be fooled by fluent prose, and the signal is weakest where the protective folding is deepest; this counterfeit risk also binds the vault's own verification practice, which [[methods]] records.
 - [[the felt sense rejects formulations and that friction is what separates it from fluency]] — the first candidate treatment the vault holds, and it comes from the standard's own author: the implicit order is precise enough to refuse a wrong word, which is a cost fluency never pays.
 - [[the felt shift certifies carrying forward rather than correspondence]] — the narrowing that reshapes every tension resting on the standard: the founding paper certifies movement rather than truth, which shrinks the introspective demand the standard makes and costs the book the power to underwrite doctrine with a shift.
 
