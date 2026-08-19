@@ -19,7 +19,7 @@ From that split he built a device inventory. Pseudonymity assigns each life-view
 
 ## Why the sort wants him
 
-The commission's second question — an author who must be trusted and must disappear — is not analogous to Kierkegaard's project; it is his project restated (the requirement that the book's author be trusted and disappear restates kierkegaard's authorial problem). He supplies the named, worked device catalog for the book's medium, and he located each device's breaking point himself, which is the one thing a project that points at people cannot do halfway.
+The commission's second question — an author who must be trusted and must disappear — is not analogous to Kierkegaard's project; it is his project restated. He supplies the named, worked device catalog for the book's medium, and he located each device's breaking point himself, which is the one thing a project that points at people cannot do halfway.
 
 His knowledge-versus-capability distinction independently structures the book's own standard, that an account can be transmitted while a realization cannot ([[knowing about is not knowing through — information can be transmitted, realization cannot]]). Double reflection is the mechanism beneath the book's refusal to let the reader store a conclusion ([[double reflection withholds the result so the reader must reproduce it in his own existence]]), and the self-disposing operation of revocation is the ancestor of a framework that ends by teaching its own exit ([[a framework that teaches its own exit relates to authority differently than one seeking permanence]]).
 
