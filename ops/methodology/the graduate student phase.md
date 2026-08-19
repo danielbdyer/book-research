@@ -26,7 +26,7 @@ The two words doing the work are **valuable** and **metered**. Neither is a lice
 
 The author names the standard this would fail under — a rumination standard — and sets it aside for now. The distinction is worth stating plainly because the two look identical from inside and differ in one respect. Rumination revisits the same ground and produces no new object. Following a backlog produces objects: a chair, a claim, a named absence, a reading question. The test is not how it feels but whether the pass leaves something behind that the next session can act on.
 
-The vault already holds the sharper version of this from another direction, and it applies to itself: the same held container that lets work become more fully itself is also the room where a word can be perfected forever (the perfectible conversation is the manuscript's most comfortable room). A graduate-student phase is a legitimate season and also the most comfortable possible description of not sending anything.
+The vault already holds the sharper version of this from another direction, and it applies to itself: the same held container that lets work become more fully itself is also the room where a word can be perfected forever. A graduate-student phase is a legitimate season and also the most comfortable possible description of not sending anything.
 
 ## What this does not touch
 
