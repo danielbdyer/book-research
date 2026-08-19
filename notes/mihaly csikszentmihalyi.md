@@ -19,7 +19,7 @@ It then left. The word entered management vocabulary, product design, and produc
 
 ## Why the sort wants him
 
-Every other name on the precedent bench is a case of a synthesis that was refused, ridiculed, or turned into a school (the nearest prior attempts are case histories rather than interlocutors). This is the one that was welcomed, and the outcome is instructive precisely because nothing went wrong in the usual way. The research held up. The method was sound. The construct was adopted — and in being adopted it was inverted, from a description of what makes a life worth living into a technique for extracting more from a worker.
+Every other name on the precedent bench is a case of a synthesis that was refused, ridiculed, or turned into a school. This is the one that was welcomed, and the outcome is instructive precisely because nothing went wrong in the usual way. The research held up. The method was sound. The construct was adopted — and in being adopted it was inverted, from a description of what makes a life worth living into a technique for extracting more from a worker.
 
 That inversion is the failure mode the book already names in its own material. Its anti-instrumentality clause holds that the practice is not a means to what it produces ([[the practice is the expression of realization rather than a means to it]]), and flow is the documented case of exactly that clause being stripped off a construct by the culture that adopted it. The book's own account of the transformation industry says the same thing from the other end (andrea jain on a market that absorbs its own critique).
 
