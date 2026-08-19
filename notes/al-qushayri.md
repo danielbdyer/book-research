@@ -29,7 +29,7 @@ Derived rather than sourced; the *Risāla* has not been read in this vault.
 
 Al-Qushayrī would refuse the distinction's detachment from what it is a distinction *within*. States and stations are stages on a path toward God, under a law, with a teacher, inside a community — and the stations are moral and devotional achievements (repentance, patience, trust, contentment) rather than developmental capacities. A book that takes the structure and leaves the destination has taken a diagnostic tool out of the practice that gives it its content.
 
-He would also refuse the reader's authority. The tradition's whole reason for the distinction is that a person in a state is the worst-placed judge of what it means, which is why a shaykh is required. That is aimed precisely at a book whose verification standard is the reader's own body (introspective access is the felt shift's undefended premise), and it is a refusal from inside the contemplative literature rather than from the sceptical literature — which makes it harder to set aside.
+He would also refuse the reader's authority. The tradition's whole reason for the distinction is that a person in a state is the worst-placed judge of what it means, which is why a shaykh is required. That is aimed precisely at a book whose verification standard is the reader's own body, and it is a refusal from inside the contemplative literature rather than from the sceptical literature — which makes it harder to set aside.
 
 ## What the evaluation still requires
 
