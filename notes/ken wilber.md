@@ -23,7 +23,7 @@ The vault has held him as one philosophical name among roughly thirty in the cor
 
 **Lines of development** — multiple semi-independent capacities maturing at different rates — is the premise the book's title asserts and never argues.
 
-**The pre/trans fallacy** is the distinction between pre-rational and trans-rational states, which look alike from outside and are routinely confused. The book has no substitute for it and needs one, because it walks readers toward deliberate destabilization with no way to tell dissolution from regression (the book cannot tell dissolution from regression and neither can its reader).
+**The pre/trans fallacy** is the distinction between pre-rational and trans-rational states, which look alike from outside and are routinely confused. The book has no substitute for it and needs one, because it walks readers toward deliberate destabilization with no way to tell dissolution from regression.
 
 **The four quadrants** cross interior against exterior with individual against collective, and the lower-right — systems, institutions, material conditions — is the quadrant the transformation field skips. That is the standing critique the corpus reached independently and carries anonymously as the material voice (the compound diagnoses may relocate a structural condition inside a person).
 
