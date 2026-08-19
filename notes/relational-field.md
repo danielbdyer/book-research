@@ -91,7 +91,7 @@ Three counterpoints from the reframe and the author's direction of 2026-08-14 re
 
 - [[a felt shift is a move in participatory knowing, not a private sensation]] — the felt shift re-placed as a participatory move in the field rather than a solitary interior reading, which locates the standard inside this map's participation law and bridges to [[felt-shift]].
 - [[the relational field supplies the correction that solitary introspection lacks]] — where the correction the solitary reader lacks actually lives, in the field the reader participates in, running with [[the second chair is the verification standard's own requirement]] while leaving the one-chair wound intact.
-- [[writing to facilitators turns the one-chair reading into training for the second chair]] — what the empty chair is for under the new ground, the one-chair reading re-read as training for the seat the facilitator-reader learns to occupy, running with a codex is a one-chair technology making a two-chair argument without dissolving it.
+- [[writing to facilitators turns the one-chair reading into training for the second chair]] — what the empty chair is for under the new ground, the one-chair reading re-read as training for the seat the facilitator-reader learns to occupy, running with the fact that the book is a one-chair technology making a two-chair argument without dissolving it.
 
 ## The non-human field
 
