@@ -19,7 +19,7 @@ Two of his claims matter here more than the cartography. The difficult stages ma
 
 ## Why the sort wants him
 
-The book cannot currently distinguish a reader coming apart in the way it intends from a reader coming apart in a way that needs help (the book cannot tell dissolution from regression and neither can its reader), which the mesh grid sizes at a chapter. Ingram is the most practically developed answer available: not a theory of the distinction but a named sequence a person can locate themselves in, with the explicit claim that being in the difficult phase is expected rather than evidence of failure.
+The book cannot currently distinguish a reader coming apart in the way it intends from a reader coming apart in a way that needs help, which the mesh grid sizes at a chapter. Ingram is the most practically developed answer available: not a theory of the distinction but a named sequence a person can locate themselves in, with the explicit claim that being in the difficult phase is expected rather than evidence of failure.
 
 He also bears on the book's stated reader. The reader is someone who has already had the big experience and found it did not hold; Ingram's account of the spontaneous threshold names a specific version of that reader — someone who crossed something real, got no map, and has been in the aftermath ever since without a name for it. That is a more precise diagnosis than the book currently offers, and the framework itself is protective ([[a framework for what is happening is itself a protective factor]]).
 
