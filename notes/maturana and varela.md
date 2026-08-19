@@ -19,7 +19,7 @@ Humberto Maturana and Francisco Varela built a biology of cognition on the conce
 
 The book asserts that a reader changes herself and that the author only occasions it, and Maturana and Varela supply the citable biology beneath both halves. Their impossibility of instructive interaction is the mechanism under "meaning is generated in interaction, not transmitted" and under "perturb, never install," and turned reflexively it argues the book must efface itself: if no text installs its form, the author cannot install anything either, and the book can only be auxiliary to a reader who determines her own change ([[an interaction can trigger a change in a living system but cannot specify it]], [[the book can only be auxiliary to a sovereign reader]]). Their lineage runs forward into the relational mechanism the book already seats, since Varela is an ancestor of the enactive account of meaning made between people ([[the third thing has a mechanism in participatory sense-making]]).
 
-Their account also sets a discipline on how the book may use such terms. Because "structural coupling," "autopoiesis," and "participatory sense-making" are exactly the words that radiate significance independent of content, the book must work the mechanism or drop the word, on pain of being jargon in a lab coat (an interaction science term earns its place by its worked mechanism rather than its aura).
+Their account also sets a discipline on how the book may use such terms. Because "structural coupling," "autopoiesis," and "participatory sense-making" are exactly the words that radiate significance independent of content, the book must work the mechanism or drop the word, on pain of being jargon in a lab coat.
 
 ## What they would refuse
 
