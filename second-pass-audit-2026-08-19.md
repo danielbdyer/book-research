@@ -35,6 +35,8 @@ The composable through-line: start on the two foundations, compose Book I from t
 
 Each is a nascent, secondary-sourced fragment of an apparatus the excision already targeted (improv, reader-response, Talmud study-devices, the felt-shift single-bearer defense, the coaches-bloc), orbiting no hub; each evaluator confirmed its book-relevant payload already lives in a surviving hub. Set a verdict per line.
 
+**My recommendation: prune all 13** (high confidence). This is the exact class of nascent, secondary-sourced apparatus you severed in round one — improv fragments, reader-response strata, Talmud study-devices, the felt-shift single-bearer defense, the coaches-bloc — and each note's book-payload already lives in a surviving hub, so nothing is lost that the book reaches for.
+
 - [ ] `a gathered community decays from spontaneous to normative to ideological and structure is the container that survives the decay` — Turner/communitas sociology aimed at a gathered readership the book (a letter read alone) does not have.
 - [ ] `a genuine transformation registers first as loss rather than as gain` — reader-response (Iser/Barthes), an explicitly-cut apparatus, nascent and primary-unopened.
 - [ ] `a shared focal task frees spontaneity by occupying the attention that would otherwise watch the self` — Spolin/improv fragment that orbits no hub and admits it is only partly portable to a page.
