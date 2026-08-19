@@ -41,7 +41,7 @@ The reading it put at the front:
 
 - [[john vervaeke]] — the highest-value new read the harvest names: relevance realization enters the vault through the conversation's exposition rather than through his texts, so his first-class primary reading is the frontier's newest priority, alongside the standard's-defense tier it does not displace.
 - [[relevance realization is the engine of meaning, and the attention economy fragments relevance rather than multiplying information]] — the finding that read waits on, held nascent because it is reached in the conversation and not in Vervaeke's work, which the reading would move from seed to substantiated.
-- [[there are four kinds of knowing, and the felt shift lives at the edge of the participatory]] — the fourfold epistemology the same read would ground, which broadens the felt-shift account without discharging the measurement debt at the verification standard rests on one name and cannot be defended by company.
+- [[there are four kinds of knowing, and the felt shift lives at the edge of the participatory]] — the fourfold epistemology the same read would ground, which broadens the felt-shift account without discharging the measurement debt that account still carries.
 - [[a durable perspective is a recognition whose value persists across contexts]] — the author's coinage naming a durability criterion, cross-contextual resilience held as a signal of worth rather than a proof of truth, new where the axiom it sharpens was already partial.
 - [[the four ontological roots organize the interlocutors by trained way of seeing]] — the organizing lens whose empty phenomenology and dialogical roots are themselves reading questions, which is why the note joins this map beside [[interlocutors]].
 
