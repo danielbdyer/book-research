@@ -95,7 +95,7 @@ The adversary chamber of the transmission digs (Dig 6, 2026-08-13; the record is
 
 ### The crossover, and what survives it
 
-- the compliance attack taken to full strength demands the second-person check rather than dissolving it — the turn that converts the whole chamber into an argument for the Second Chair, since demand-made effects vanish once demand is removed and the blind-assessor test needs someone the reader cannot be; it lands on the relational field as well ([[relational-field]]).
+- The compliance attack taken to full strength demands the second-person check rather than dissolving it, the turn that converts the whole chamber into an argument for the Second Chair, since demand-made effects vanish once demand is removed and the blind-assessor test needs someone the reader cannot be; it lands on the relational field as well ([[relational-field]]).
 
 ### The chairs the adversary chamber seats
 
