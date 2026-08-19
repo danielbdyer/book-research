@@ -35,7 +35,7 @@ He would also, on his own terms, refuse the compression his position receives in
 
 ## What the evaluation still requires
 
-The primary reading, with three questions: whether the absence in his account is structurally the same as privation or merely described in the same words; whether he holds the collective requirement as strict or as a matter of degree; and how his account relates to the position the vault carries as the material voice, since inherited trauma and structural arrangement are both external locations for suffering but not the same one (hartmut rosa, andrea jain).
+The primary reading, with three questions: whether the absence in his account is structurally the same as privation or merely described in the same words; whether he holds the collective requirement as strict or as a matter of degree; and how his account relates to the position the vault carries as the material voice, since inherited trauma and structural arrangement are both external locations for suffering but not the same one.
 
 ## Recommendation
 
