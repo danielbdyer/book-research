@@ -83,7 +83,7 @@ Since the reframe of 2026-08-13, these objections are held as guardrails beneath
 
 ## What the body is being asked to verify
 
-A synthesis received 2026-08-05 reports the literature on intense states, and three of its findings bear directly on this map because they describe the conditions under which the body's report can be trusted at all. Each is stated in plain terms rather than in the scheme the synthesis organizes them by, per a synthesis organized by the schemes offers to promote them back to architecture.
+A synthesis received 2026-08-05 reports the literature on intense states, and three of its findings bear directly on this map because they describe the conditions under which the body's report can be trusted at all. Each is stated in plain terms rather than in the scheme the synthesis organizes them by.
 
 - [[suffering in an intense state is the intensity multiplied by the resistance]] — intensity alone does not decide the outcome; resistance is the multiplier, which is the book's own bow-not-fight figure arriving as a measured finding.
 - [[a framework for what is happening is itself a protective factor]] — an accurate account reduces harm, which places this book inside its own subject matter and raises the cost of getting the account wrong.
