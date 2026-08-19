@@ -27,7 +27,7 @@ He also supplies the book's honest boundary. Iser concedes at page 295 that "we 
 
 The 1972 essay was read [P] and this half is sourced; the extension is derived. Iser would refuse the reading of his participation gap as enactment in the book's sense. His mechanism produces self-examination at the level of preconceptions, and he does not carry it across to altered lived capacity — the reader-response strata certify participation in meaning and certify nothing past it. The bridge from participation to changed capacity is named at his threshold and left uncrossed.
 
-He would also refuse the durability the book wants from the device. The participation gap relapses into completion the moment the reader re-consolidates the disruption into a deeper consistency, so the effect is not held but has to be re-won. And read against the compliance attack, his is one of only two reader-response theories carrying any in-situ felt-shift check, and it sits where demand is strongest — the classroom, the invited reader — so a reported participation cannot be told from its performance (only two reader-response theories carry an in-situ felt-shift check and both sit where demand is strongest).
+He would also refuse the durability the book wants from the device. The participation gap relapses into completion the moment the reader re-consolidates the disruption into a deeper consistency, so the effect is not held but has to be re-won. And read against the compliance attack, his is one of only two reader-response theories carrying any in-situ felt-shift check, and it sits where demand is strongest — the classroom, the invited reader — so a reported participation cannot be told from its performance.
 
 ## What his medium contributes
 
