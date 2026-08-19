@@ -49,4 +49,4 @@ This does not make a later reason false, and it does not touch the rule that rea
 
 ## Relationship to the admission standard
 
-The admission standard in `notes/methods.md` is unchanged and applies to draft material without relaxation: a passage becomes a claim only if it would actually change how the project thinks. The drafts are long and their prose is designed to carry a reader forward, which makes the fluency risk named at felt shift versus felt confirmation sharper here than in any of the founding documents. The test to apply to a draft passage is whether it states something the vault did not already hold, not whether reading it was persuasive.
+The admission standard in `notes/methods.md` is unchanged and applies to draft material without relaxation: a passage becomes a claim only if it would actually change how the project thinks. The drafts are long and their prose is designed to carry a reader forward, which makes the fluency risk sharper here than in any of the founding documents. The test to apply to a draft passage is whether it states something the vault did not already hold, not whether reading it was persuasive.
