@@ -185,10 +185,8 @@ The reframe holds the book to the field it describes, on the making side and the
 
 The transmission digs of 2026-08-13 (the record is the 2026-08-13 entry in `ops/completed.md`) reached this map from five of the seven sites, because the field between two people is exactly what a book read alone cannot furnish. The play lineage supplies the craft of holding a field and the proof that most of it needs co-presence; the margin architectures show the field's community subtracted; the scientific spine gives the field a mechanism and bounds its vocabulary; and the sociology and the adversary chamber converge on the second person the field requires. The play chairs are candidate; the seatings are the author's.
 
-### The play lineage: the field as craft, and why most of it needs co-presence (Dig 7)
+### The play lineage and its several roots (Dig 7)
 
-- [[accepting an offer dissolves the defended self and makes the scene the unit of agency]] — the offer-grammar in which yielding builds and blocking kills, so the joint scene rather than the ego becomes the unit of agency, the field as the actor.
-- [[a shared focal task frees spontaneity by occupying the attention that would otherwise watch the self]] — Spolin's point of concentration handing a group one focus-object, freeing the field by occupying the attention that would otherwise watch the self.
 - [[the facilitated room has several independent roots and improv's distinction is theorizing play as craft]] — the genealogy that keeps the borrowing honest, since Moreno, Lewin, and Freire give the room roots of equal standing and improv's distinction is theorizing play, not primacy.
 
 ### The developmental and communal ground of the field (Dig 7)
