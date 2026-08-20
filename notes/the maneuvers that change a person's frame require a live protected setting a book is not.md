@@ -21,6 +21,9 @@ The verdict is a bound on the method rather than a claim that the book can do no
 ---
 
 Relevant Notes:
+- [[the book can only be auxiliary to a sovereign reader]] — the general limit this finding instances, since the book cannot run the protected container the maneuvers require
+- [[transformation is enacted participation inside a held container]] — the held container the maneuvers need and the page cannot supply, the positive law this bounds
+- [[the second chair is the verification standard's own requirement]] — the live, responsive person-in-the-room the maneuvers need to seal escapes safely, the same second person the felt shift's verification requires
 
 Topics:
 - [[relational-field]]
