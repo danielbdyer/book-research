@@ -191,7 +191,6 @@ The transmission digs of 2026-08-13 (the record is the 2026-08-13 entry in `ops/
 
 ### The developmental and communal ground of the field (Dig 7)
 
-- [[a gathered community decays from spontaneous to normative to ideological and structure is the container that survives the decay]] — Turner's decay law for any field the book gathers, with structure recast as the container that survives the decay rather than its betrayer.
 - [[viola spolin]] — candidate; the improv pedagogy that supplies the facilitated room's craft, holding attention off the self with a shared point of concentration.
 - [[victor turner]] — candidate; the decay typology and the reframe of structure as a dangerous energy's container, an early-warning system for any field the book gathers.
 
