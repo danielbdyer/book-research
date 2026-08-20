@@ -20,7 +20,9 @@ The connectivity census found that **none of the fifteen candidates is a graph-o
 
 **Diagnosis.** The second-pass evaluators were told to find "remnants of what we cut." Because the felt-shift and the relational field are *centers* (not cut territory), the notes elaborating them sit thematically next to the cut apparatus — and the evaluators swept the doctrine in with the remnants. Round one, which you adjudicated line by line, got the decoration; this list is mostly load-bearing material misdescribed as stranded.
 
-**Consequence.** The per-line recommendations above (written before this reading) are unreliable and are not to be executed as written. Nothing was deleted. The reconnect section remains safe in principle (it is additive), but its rationales assume neighbors were cut, so it is re-examined too. The path forward is under discussion.
+**Consequence.** The per-line recommendations above (written before this reading) are unreliable and were not executed as written. Nothing on the prune list was deleted.
+
+**Resolution (2026-08-20).** By author ruling ("shelf the borrowed-analogy few"), the graph kept every candidate but four live-group borrowed-analogy ports that reach a solitary reader only as a concept — `accepting an offer dissolves the defended self…` (Johnstone), `a shared focal task frees spontaneity…` (Spolin), `a gathered community decays…` (Turner), and `j l moreno` (the absence-stub). These were shelved to `ops/reading queue.md` ("Deferred from the second-pass audit"), each paired with its already-queued Tier 7 reading, recoverable from git. A whole-graph scan found only two notes with empty footers — both on the reconnect list — and both were wired to their hubs; the ledger's other sixteen reconnects were moot once the prune did not happen. Verification clean (link-check 0, 421 notes, membership reconciled). The decision is recorded at `ops/decisions.md` ("How is the second-pass audit's prune list resolved?"). This ledger is closed.
 
 ---
 
