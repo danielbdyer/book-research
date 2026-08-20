@@ -114,10 +114,6 @@ The transmission digs surveyed two bodies of outside research this map had not h
 
 - [[restoring contact with a muted world is a change of relation, not a slowing of pace]] — Rosa's resonance as a specific reading behind the tuning fork, the diagnosis reframed as re-contact rather than deceleration.
 
-### A missing ancestor the digs flagged
-
-- [[j l moreno]] — psychodrama, sociometry, spontaneity training, and the warm-up, named by the play dig (Dig 7) as the closest ancestor of the facilitated room and absent from the roster, so his evaluation is a candidate the digs added to this map's queue.
-
 ## What remains
 
 This map's reading program now lives at `ops/reading queue.md`, and working it in tier order is the frontier's first activity. This map's own live question is the priority five's last open member — sourcing the instrument's counterweights in the processing-fluency and interoception literature — and after it the seating decisions, which are the author's: thirty-eight evaluations carry recommendations and await him, reported by `scripts/queries/candidate-seats.sh`. One research task of a different kind sits beside them: the scholarly-database pass that would confirm or close the unclaimed Henry–vimarśa pairing. Beyond those, the pending-evaluation list in `ops/queue/candidates.md` holds ninety-six unevaluated entries in the book's own order, so that frontier work tracks manuscript work; the list is deliberately long, and it is the field rather than the task. The author reaffirmed that on 2026-08-07 by reversing a cut he had asked for the same day, because he wants the list kept whole as a high-level survey he can commingle claims from.
