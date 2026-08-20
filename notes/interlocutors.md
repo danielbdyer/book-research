@@ -217,7 +217,7 @@ Two strains about the company's assembly, carried in full in [[tensions]]:
 
 The transmission digs of 2026-08-13 excavated the book's medium blind to the vault (the record is the 2026-08-13 entry in `ops/completed.md`), and their seat verdicts propose nine chairs and a body of claims about how the company is held. Every chair is `candidate`; the seatings are the author's, and the digs' verdicts route to `ops/queue/candidates.md` as candidate evaluations. Depth of contact is uneven — the adversary chamber reached zero primary reads — so each chair carries its own reading debt in its note.
 
-Nine chairs the digs surface, by what each carries:
+The chairs the digs surface, by what each carries:
 
 - [[soren kierkegaard]] — candidate, thesis-bearing. The engineered authorship in which the reader cannot lean on the author's authority, which is the book's trusted-and-disappearing author a century early, and the medium the digs excavated most deeply.
 - [[wolfgang iser]] — candidate, thesis-bearing. The participation gap, the strata's most exact page-native mechanism for a reading that changes the reader, carrying the honest boundary that a text cannot know what its participation did.
