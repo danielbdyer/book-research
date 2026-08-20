@@ -19,6 +19,10 @@ The book's architecture assumed a second person the medium cannot supply — a s
 ---
 
 Relevant Notes:
+- [[the book's native genre is the letter from a friend read alone]] — the governing device within which the polyphony operates, the one genre whose every sentence expects an answer
+- [[the field between two people does work]] — the second person the devices are asked to occupy, whose function the polyphony distributes across many voices rather than restoring in one
+- [[the confessions is address to a thou that the reader overhears]] — one member of the polyphony, the overheard second-person address
+- [[pseudonymity blocks deference by assigning each life-view to an invented author who embodies rather than asserts it]] — another device in the plurality, blocking deference at the cost of the power to be quoted as oneself
 
 Topics:
 - [[relational-field]]
