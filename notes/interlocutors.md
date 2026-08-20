@@ -224,7 +224,6 @@ Nine chairs the digs surface, by what each carries:
 - [[donald winnicott]] — candidate, thesis-bearing. The developmental theory that makes a solitary transformation coherent, the capacity to be alone founded on being alone in a reliable presence, which specifies the non-impinging other a book read alone must approximate.
 - [[victor turner]] — candidate, company carrying a directional charge. The decay typology that makes communitas pass into rule and then ideology without exception, and the reframe of structure as a dangerous energy's container rather than its betrayer.
 - [[viola spolin]] — candidate, names-existing-practice. The craft the facilitated room the author came from actually runs on — the point of concentration, approval and disapproval treated as spontaneity's enemy — a craft rather than a thesis.
-- [[j l moreno]] — candidate, precedent. Psychodrama, sociometry, spontaneity training, and the warm-up, the facilitated room's closest ancestor, flagged by the play dig as the one figure the roster omitted.
 - [[theodor adorno]] — candidate, adversary. The jargon-of-authenticity charge, the register's internal auditor, whose paradigm target the book's own presence-language becomes.
 - [[maturana and varela]] — candidate, names-existing-practice. The citable biology under perturb-not-install, a living system structurally determined so an interaction triggers but never specifies its change, run with its contested tag visible.
 
