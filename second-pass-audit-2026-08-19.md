@@ -6,6 +6,24 @@ The reconciliation rule this ledger obeys: **an evaluator's prune recommendation
 
 ---
 
+## Verification halt (2026-08-20)
+
+On your "go with your recommendations," I began executing and read each prune candidate against its actual content and connectivity before deleting it. The prune list does not survive that reading, so I stopped before deleting anything.
+
+The connectivity census found that **none of the fifteen candidates is a graph-orphan** — each carries two to eight live outbound links and one to eleven live inbound links, several are `full` claims, and one is a `live` tracked tension. I then read eight of them in full. The finding:
+
+- `presence-language may radiate significance…` is a **`live` tension with a treatment under trial**, citing your open-decisions disposition B3 — not "both links cut, argues against a ghost" as the evaluator summarized.
+- `attending to the body is not the same as reading it accurately` is a **`full` claim sourced to Garfinkel et al. 2015**, and its function is constructive: it is the empirical reason the book needs the relational field's external check, not felt-shift debunking.
+- `the solitary felt shift rests on one name…` is a **`full` claim built on two completed primary readings** (Gendlin 1964 read whole; Zen dokusan) — a keystone connecting the felt-shift standard to the **relational-field center, the Book I core** — not a "single-bearer defense."
+- `iser distinguishes completion from participation…` and `a genuine transformation registers first as loss…` are **primary-read `[P]` findings**, the second a convergence of two hostile methods — the book's own centerpiece evidence type — not "nascent reader-response fragments."
+- `the coaches are a bloc…` is a `full`, well-sourced analytical reframe of the roster's largest disagreement.
+
+**Diagnosis.** The second-pass evaluators were told to find "remnants of what we cut." Because the felt-shift and the relational field are *centers* (not cut territory), the notes elaborating them sit thematically next to the cut apparatus — and the evaluators swept the doctrine in with the remnants. Round one, which you adjudicated line by line, got the decoration; this list is mostly load-bearing material misdescribed as stranded.
+
+**Consequence.** The per-line recommendations above (written before this reading) are unreliable and are not to be executed as written. Nothing was deleted. The reconnect section remains safe in principle (it is additive), but its rationales assume neighbors were cut, so it is re-examined too. The path forward is under discussion.
+
+---
+
 ## The new centers of gravity
 
 The pruned graph resolves into seven communities. Named in the book's own terms, sorted by book:
