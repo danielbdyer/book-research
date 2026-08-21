@@ -187,6 +187,17 @@ if [ "$CACHE_STALE" -ge 1 ]; then
   echo "CONDITION: $CACHE_STALE cache-section(s) stale — a source moved under a family file (the-*.md) or ops/scaffold.md. Run /lens and /scaffold (or scripts/queries/lens-check.sh and scaffold-check.sh) and re-derive the expired sections."
   FIRED=1
 fi
+# Coverage regression (the substrate-pivot sync signal, author decision 2026-08-21).
+# A note added to notes/ that no family references yet raises the uncovered count above
+# the baseline recorded in the-lenses.md. This is the case the cache markers miss: a NEW
+# note expires nothing (nothing cites it), so without this a session would not know the
+# families have fallen behind the graph. Fires until a coverage pass folds the new notes
+# into families and the baseline is advanced.
+COV_REG=$(scripts/queries/lens-check.sh --coverage 2>/dev/null | grep -oE 'REGRESSED: uncovered [0-9]+→[0-9]+ \(\+[0-9]+\)')
+if [ -n "$COV_REG" ]; then
+  echo "CONDITION: family coverage regressed — ${COV_REG#REGRESSED: }. New notes are referenced by no family (the substrate pivot's sync gap). Run scripts/queries/lens-check.sh --uncovered (or /lens) to route them into families."
+  FIRED=1
+fi
 # The committed outline roll-up (ops/outline.md) was retired 2026-08-09 with the
 # other standing self-measurement instruments, so there is no outline-staleness
 # condition. A session that wants the census on demand runs
