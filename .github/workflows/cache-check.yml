@@ -51,3 +51,15 @@ jobs:
             exit 1
           fi
           echo "the wiki-link graph resolves cleanly."
+
+      - name: Report family coverage (informational — does not fail the run)
+        run: |
+          # Coverage is a drive-toward, not a hard gate: research legitimately adds notes
+          # ahead of a family absorbing them, so a rise is surfaced (a ::warning:: on
+          # regression) but never blocks the PR. The session hook surfaces the same signal
+          # locally; between them, new notes cannot silently fall out of sync with the families.
+          out=$(bash scripts/queries/lens-check.sh --coverage 2>/dev/null || true)
+          echo "$out"
+          if echo "$out" | grep -q 'REGRESSED'; then
+            echo "::warning::family coverage regressed — new notes are referenced by no family. Run /lens --uncovered to route them (not a failure; coverage is a drive-toward)."
+          fi
