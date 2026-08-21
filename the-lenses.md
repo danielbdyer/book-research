@@ -79,6 +79,7 @@ The company entry: the thinkers, held as company, never proof.
 - **Adversaries** — Robbins (will vs. surrender), Adorno (presence-language) (§9, §14)
 - **Chapter-patrons** — 17 thinker→unit→chapter welds, carried unchanged (§9; → Lens 6)
 - *caution:* the convergence is company, never proof; independence fails where names share a teacher (§15)
+- **Deepened** → `the-constellation.md`: the ~60 thinkers and ~60 convergence notes organized by the finding each independently reached (un-forgetting, the participation law, the between, privation, …), with the precedent bench and adversaries held apart and the refusals kept — on the checkable cache substrate; the family that drives the coverage pivot hardest (125 notes attested)
 
 ## Lens 6 · The House & the Named Units — *"where does the reader walk?"*
 
