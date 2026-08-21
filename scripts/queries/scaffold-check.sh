@@ -1,96 +1,99 @@
 #!/bin/bash
-# The receipts behind ops/scaffold.md. Each finding in the scaffold names the
-# vault files it was read from and carries a fingerprint of their CONTENT (git
-# blob SHAs, so the check survives rebases and the auto-commit hook — it tracks
-# what the files say, not when they changed). This script re-fingerprints every
-# finding's sources and reports which findings still hold (AFFIRMED) and which
-# rest on ground that has moved (STALE). It reads and never writes: the output
-# is a worklist for /scaffold refresh, which re-derives only the stale findings.
+# The receipts behind ops/scaffold.md, read inline. Every cached section of the
+# scaffold carries a marker naming the vault files it was read from and a CRC32
+# of their CONTENT (so the check tracks what a file SAYS, not when the auto-commit
+# hook touched it). This script walks those inline markers, re-computes each
+# section's CRC, and reports which sections still hold (FRESH) and which rest on
+# ground that has moved (EXPIRED). It reads and never writes: the output is the
+# worklist for /scaffold refresh, which re-derives only the expired sections.
+#
+# The inline marker, one per cached section, anywhere in the section's body:
+#   <!--cache id=F1 crc=a1b2c3d4 src=path one.md|path two.md derived=2026-08-21-->
+# Paths may contain spaces; the src list is pipe-separated. A parser in any
+# language can extract these with a single regex.
 #
 # Usage:
-#   scripts/queries/scaffold-check.sh            verify every finding; print AFFIRMED/STALE + baseline drift
-#   scripts/queries/scaffold-check.sh --stale    print only the stale finding ids (the refresh worklist)
-#   scripts/queries/scaffold-check.sh --print PATH[,PATH...]
-#                                                print the fingerprint for a source list (used when
-#                                                writing a fresh receipt after re-deriving a finding)
+#   scripts/queries/scaffold-check.sh            walk ops/scaffold.md; print FRESH/EXPIRED + baseline drift
+#   scripts/queries/scaffold-check.sh --stale    print only the expired section ids (the refresh worklist)
+#   scripts/queries/scaffold-check.sh --crc 'path one.md|path two.md'
+#                                                print the CRC for a pipe-separated source list (used when
+#                                                writing or updating a section's inline marker)
+#   scripts/queries/scaffold-check.sh --file FILE [...]   run against a file other than ops/scaffold.md
 # Run from anywhere.
 
 cd "$(dirname "$0")/../.." || exit 1
 MAP="ops/scaffold.md"
 
-# --- fingerprint helper: sha256(first12) over sorted "path:blobsha" lines ---
-fingerprint() {
-  # $1 = comma-separated paths. Missing files contribute ":MISSING" so a
-  # deletion busts the receipt too. Content comes from the working tree.
+# --- CRC32 over a pipe-separated source list ---
+# value = crc32( "\n".join(sorted( "path:crc32(bytes)" )) ), 8 lowercase hex.
+# A missing file contributes ":MISSING" so a deletion busts the marker too.
+crc() {
   python3 - "$1" <<'PY'
-import sys, subprocess, hashlib
-paths = [p.strip() for p in sys.argv[1].split(",") if p.strip()]
+import sys, zlib
+paths = [p.strip() for p in sys.argv[1].split("|") if p.strip()]
 lines = []
 for p in sorted(set(paths)):
     try:
-        blob = subprocess.run(["git", "hash-object", p],
-                              capture_output=True, text=True, check=True).stdout.strip()
+        with open(p, "rb") as fh:
+            c = format(zlib.crc32(fh.read()) & 0xffffffff, "08x")
     except Exception:
-        blob = "MISSING"
-    lines.append(f"{p}:{blob}")
-print(hashlib.sha256("\n".join(lines).encode()).hexdigest()[:12])
+        c = "MISSING"
+    lines.append(f"{p}:{c}")
+print(format(zlib.crc32("\n".join(lines).encode()) & 0xffffffff, "08x"))
 PY
 }
 
-# --- --print mode: fingerprint a source list and exit ---
-if [ "$1" = "--print" ]; then
-  [ -n "$2" ] || { echo "usage: scaffold-check.sh --print PATH[,PATH...]"; exit 1; }
-  fingerprint "$2"
+# --- --crc mode: checksum a source list and exit ---
+if [ "$1" = "--crc" ]; then
+  [ -n "$2" ] || { echo "usage: scaffold-check.sh --crc 'PATH|PATH|...'"; exit 1; }
+  crc "$2"
   exit 0
 fi
 
-[ -f "$MAP" ] || { echo "no $MAP — run /scaffold rederive to build the scaffold and its receipts"; exit 1; }
-
 STALE_ONLY=0
-[ "$1" = "--stale" ] && STALE_ONLY=1
+[ "$1" = "--stale" ] && { STALE_ONLY=1; shift; }
+[ "$1" = "--file" ] && { MAP="$2"; shift 2; }
+[ -f "$MAP" ] || { echo "no $MAP — run /scaffold rederive to build the scaffold and its inline receipts"; exit 1; }
 
-# --- pull the receipts block (id <TAB> fingerprint <TAB> label <TAB> sources) ---
-receipts=$(awk '/<!-- receipts:start -->/{f=1;next} /<!-- receipts:end -->/{f=0} f' "$MAP")
-[ -n "$receipts" ] || { echo "no receipts block in $MAP (expected between <!-- receipts:start --> and <!-- receipts:end -->)"; exit 1; }
+# --- pull every inline cache marker: id, stored crc, src list ---
+markers=$(python3 - "$MAP" <<'PY'
+import sys, re
+txt = open(sys.argv[1], encoding="utf-8").read()
+# <!--cache id=... crc=... src=...|... derived=...-->  (derived optional; order of id/crc/src fixed)
+for m in re.finditer(r"<!--\s*cache\s+id=(\S+)\s+crc=(\S+)\s+src=(.*?)(?:\s+derived=\S+)?\s*-->", txt, re.S):
+    ident, stored, src = m.group(1), m.group(2), m.group(3).strip()
+    print("\t".join([ident, stored, src]))
+PY
+)
+[ -n "$markers" ] || { echo "no inline cache markers in $MAP (expected <!--cache id=... crc=... src=...-->)"; exit 1; }
 
-affirmed=0; stale=0; stale_ids=""
-while IFS=$'\t' read -r id stored label sources; do
+fresh=0; expired=0; expired_ids=""
+while IFS=$'\t' read -r id stored src; do
   [ -n "$id" ] || continue
-  case "$id" in \#*) continue;; esac          # allow # comments inside the block
-  now=$(fingerprint "$sources")
+  now=$(crc "$src")
   if [ "$now" = "$stored" ]; then
-    affirmed=$((affirmed+1))
-    [ "$STALE_ONLY" -eq 1 ] || printf 'AFFIRMED  %-4s %s\n' "$id" "$label"
+    fresh=$((fresh+1))
+    [ "$STALE_ONLY" -eq 1 ] || printf 'FRESH    %-6s\n' "$id"
   else
-    stale=$((stale+1)); stale_ids="$stale_ids $id"
+    expired=$((expired+1)); expired_ids="$expired_ids $id"
     if [ "$STALE_ONLY" -eq 1 ]; then
       echo "$id"
     else
-      # name the sources whose blob moved, so the refresh knows what to re-read
-      moved=$(python3 - "$sources" "$MAP" <<'PY'
-import sys, subprocess
-paths=[p.strip() for p in sys.argv[1].split(",") if p.strip()]
-out=[]
-for p in paths:
-    try:
-        subprocess.run(["git","hash-object",p],capture_output=True,text=True,check=True)
-        exists=True
-    except Exception:
-        exists=False
-    if not exists: out.append(p+" (gone)")
-print("; ".join(out))
+      gone=$(python3 - "$src" <<'PY'
+import sys, os
+print("; ".join(p.strip()+" (gone)" for p in sys.argv[1].split("|") if p.strip() and not os.path.exists(p.strip())))
 PY
 )
-      printf 'STALE     %-4s %s\n' "$id" "$label"
-      [ -n "$moved" ] && printf '              missing: %s\n' "$moved"
-      printf '              re-read: %s\n' "$sources"
+      printf 'EXPIRED  %-6s  stored=%s now=%s\n' "$id" "$stored" "$now"
+      [ -n "$gone" ] && printf '                 missing: %s\n' "$gone"
+      printf '                 re-read: %s\n' "$(echo "$src" | tr '|' ';')"
     fi
   fi
-done <<< "$receipts"
+done <<< "$markers"
 
 [ "$STALE_ONLY" -eq 1 ] && exit 0
 
-# --- baseline drift: new notes / new decisions since the last full derive ---
+# --- baseline drift: new notes / decisions since the last full derive ---
 baseline=$(awk -F'[ =]' '/<!-- baseline /{for(i=1;i<=NF;i++){if($i=="notes")n=$(i+1); if($i=="decisions")d=$(i+1); if($i=="derived")dt=$(i+1)} print n" "d" "dt}' "$MAP" | head -1)
 b_notes=$(echo "$baseline" | awk '{print $1}')
 b_dec=$(echo "$baseline" | awk '{print $2}')
@@ -99,11 +102,11 @@ cur_notes=$(find notes -maxdepth 1 -name '*.md' 2>/dev/null | wc -l | tr -d ' ')
 cur_dec=$(grep -cE '^\|' ops/decisions.md 2>/dev/null | tr -d ' ')
 
 echo ""
-echo "— $affirmed affirmed, $stale stale —"
-[ -n "$stale_ids" ] && echo "  refresh worklist:$stale_ids"
+echo "— $fresh fresh, $expired expired —"
+[ -n "$expired_ids" ] && echo "  refresh worklist:$expired_ids"
 if [ -n "$b_notes" ]; then
   dn=$((cur_notes - b_notes)); dd=$((cur_dec - b_dec))
   echo "  baseline (derived $b_dt): notes ${b_notes}→${cur_notes} (Δ${dn}), decisions ${b_dec}→${cur_dec} (Δ${dd})"
-  { [ "$dn" -gt 0 ] || [ "$dd" -gt 0 ]; } && echo "  → new material since the last full derive may be NEW TERRITORY no finding covers; /scaffold refresh folds it in."
+  { [ "$dn" -gt 0 ] || [ "$dd" -gt 0 ]; } && echo "  → new material since the last full derive may be NEW TERRITORY no section covers; /scaffold refresh folds it in."
 fi
-[ "$stale" -eq 0 ] && echo "  the scaffold still holds — no re-derivation needed."
+[ "$expired" -eq 0 ] && echo "  the scaffold still holds — no re-derivation needed."
