@@ -252,4 +252,13 @@ The forest map redraws as this union, not as any single skeleton. Lit brightest:
 
 ## How the receipts keep this honest and nearly free
 
-Each of the six high-confidence findings and seven open joints above is, in the skill, a **finding record** carrying a fingerprint of the exact source files it was read from (the notes, the concordance, the decisions rows, the draft extractions). A later run re-fingerprints those files; where the fingerprint still matches, the finding is affirmed *without re-reading* — the cost is a hash, not a subagent. Where a source changed (a note edited, a decision added, a draft re-extracted), only the findings whose fingerprints broke are re-derived, and only those. The map is the cache; the fingerprints are the receipts; the churn is small because the corpus is stable and the notes move one at a time. The proposal for the skill is drafted below the working notes; the caching design the author has not yet ratified is the one open question carried forward from the prior turn.
+Each of the seven high-confidence findings and six open joints above is, in the skill, a **finding record** carrying a fingerprint of the exact source files it was read from (the notes, the concordance, the decisions rows). A later run re-fingerprints those files; where the fingerprint still matches, the finding is affirmed *without re-reading* — the cost is a hash, not a subagent. Where a source changed (a note edited, a decision added), only the findings whose fingerprints broke are re-derived, and only those. The map is the cache; the fingerprints are the receipts; the churn is small because the corpus is stable and the notes move one at a time.
+
+## Built (2026-08-21)
+
+The Venn is distilled into three standing artifacts, all live:
+- **`ops/scaffold.md`** — the load-bearing structure as thirteen findings (seven core, six joints) plus the two cautions, each finding carrying a content-fingerprint receipt of its sources. This file is the cache.
+- **`scripts/queries/scaffold-check.sh`** — the verifier: re-fingerprints every finding by git blob content (immune to rebases and the auto-commit hook), reports AFFIRMED / STALE per finding and baseline drift (new notes/decisions since the last full derive). `--stale` prints the refresh worklist; `--print <sources>` mints a fresh fingerprint. Proven: editing one source busts exactly the findings that cite it and nothing else.
+- **`.claude/skills/scaffold/SKILL.md`** — `/scaffold` in three modes: **verify** (default, a hash, no subagents), **refresh** (re-derive only the stale findings and fold in new high-confidence territory), **rederive** (rebuild the whole thing from the eight readers). It never places material in a chapter, shows both halves, and states each finding at the strength of its evidence.
+
+The forest map ("One Arc, Eight Readings") is redrawn as the union of the eight readings and redeployed to its existing URL.
