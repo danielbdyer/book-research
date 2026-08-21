@@ -89,6 +89,8 @@ Nothing about the upper layers remains for this map, and that is a decision rath
 
 What remains for this map is the container doctrine itself, and the open work in it is a reading rather than an extraction: the Scotus-to-Hopkins-to-Deleuze lineage that the corpus names for thisness has never been checked at any of the three texts. The reframe conversation of 2026-08-13 touched this map only glancingly, adding the one apparatus note above; its wider vocabulary of loci and ecology — a bounded-but-permeable domain, the open middle read as a standpoint rather than a structure — borders this map's open-center concern but is gathered in [[recognition]], and it opens no new extraction against the container doctrine. The transmission digs of 2026-08-13 added one member here, the holding environment as a container ([[donald winnicott]]), which arrives from the play lineage's secondary account with the *Playing and Reality* reading queued; it names a container by its non-impingement rather than opening new work against the Wall, Door, and Floor.
 
+The affirmative-function section added 2026-08-21 states the container doctrine positively and is the map's newest open work: five nascent notes whose thinker-attributions are unverified and whose primary grounding the sources call queued but the reading queue does not yet carry, so the round's grounding is owed. It states what the Wall and the open center are for rather than opening new work against the three structures.
+
 ---
 
 Topics:
