@@ -1,0 +1,53 @@
+name: cache-integrity
+
+# The CI half of the alignment check (author decision, 2026-08-21; the session
+# hook is the other half). Confirms that every content-hash marker in the family
+# files (the-*.md, indexed by the-lenses.md) and in ops/scaffold.md still rests on
+# unmoved ground, and that the wiki-link graph resolves. The checkers are
+# notifiers — they report and exit 0 even when stale — so this job parses their
+# --stale output and fails the run itself when a re-derivation is owed. Only bash
+# and python3 are needed (both present on ubuntu-latest); no ripgrep, no network.
+
+on:
+  push:
+    branches: ['**']
+  pull_request:
+
+jobs:
+  cache-integrity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Report scaffold and lens state
+        run: |
+          echo "== ops/scaffold.md =="
+          bash scripts/queries/scaffold-check.sh || true
+          echo ""
+          echo "== the polyphony of lenses =="
+          bash scripts/queries/lens-check.sh || true
+
+      - name: Fail if any cache section is stale
+        run: |
+          scaf=$(bash scripts/queries/scaffold-check.sh --stale 2>/dev/null | grep -c '[A-Za-z0-9]' || true)
+          lens=$(bash scripts/queries/lens-check.sh --stale 2>/dev/null | grep -cE '^[^#].*: ' || true)
+          case "$scaf" in ''|*[!0-9]*) scaf=0;; esac
+          case "$lens" in ''|*[!0-9]*) lens=0;; esac
+          echo "scaffold sections stale: $scaf"
+          echo "lens sections stale: $lens"
+          if [ "$scaf" -gt 0 ] || [ "$lens" -gt 0 ]; then
+            echo "::error::$((scaf + lens)) cache section(s) stale — a source moved under a family file or the scaffold. Re-derive with /lens and /scaffold, or update the markers."
+            exit 1
+          fi
+          echo "all cache sections rest on unmoved ground."
+
+      - name: Fail on wiki-link integrity defects
+        run: |
+          defects=$(bash scripts/queries/link-check.sh --count 2>/dev/null || echo 0)
+          case "$defects" in ''|*[!0-9]*) defects=0;; esac
+          echo "wiki-link integrity defects: $defects"
+          if [ "$defects" -gt 0 ]; then
+            echo "::error::$defects unresolved or ambiguous wiki-link(s). Run scripts/queries/link-check.sh."
+            exit 1
+          fi
+          echo "the wiki-link graph resolves cleanly."
