@@ -1,5 +1,5 @@
 ---
-description: "A declarative about the reader's inner life asserts into an interior that a printed page cannot answer, so the book may interpret only the author, who is present to his own reading, and it reaches the reader's interior in the interrogative rather than the diagnostic."
+description: "A declarative about the reader's inner life asserts into an interior a page cannot answer, so the book may interpret only the author and reaches the reader's interior in the interrogative rather than the diagnostic."
 category: structure
 sources: ["first-principles derivation, 2026-08-20 (from the reframe conversation, 2026-08-13: reflection that returns authorship versus takes it at 15605–15621; the author as first participant at 887; \"make your experience the case study, not the conclusion\" at 481)"]
 topics: ["[[book-structure]]"]
