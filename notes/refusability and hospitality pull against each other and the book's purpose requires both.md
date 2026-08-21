@@ -1,5 +1,5 @@
 ---
-description: "The book owes the reader precision crisp enough to refuse and warmth at the temperature of a love letter, and the two are different postures that cannot be maximized in one sentence, so the strain is held across units rather than resolved."
+description: "The book owes the reader precision crisp enough to refuse and warmth at a love letter's temperature, and the two postures cannot be maximized in one sentence, so the strain is held across units rather than resolved."
 category: tension
 status: live
 treatment: "division of labor across units — some passages befriend and others present a claim for refusal — held under trial; the two postures alternate rather than fuse, and no single sentence carries both at full strength"
