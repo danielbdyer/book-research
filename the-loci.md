@@ -90,6 +90,8 @@ These are named but barely populated. They are the register's growing edge, and 
 - **12 · The technological locus — *"who participates in forming this understanding?"*** The double meaning — external technology (AI, media, systems) and internal technology (attention, practice) — and whether the external can strengthen the internal rather than replace it *(14207–14260)*. Named as a concern; not yet worked as a standpoint one reads the whole book from.
 - **13 · The margin / answerability locus — *"who is this said before, and can it be answered?"*** The letter genre; the word that expects a reply. Present in the answerability doctrine but not yet held as a *place to read from* — the standpoint of the addressed reader.
 
+<!--cache id=LOC-frontier crc=d9af548e src=the-conversation-catalog.md|reframe-conversation-full-2026-08-13.md derived=2026-08-21-->
+
 ---
 
 ## How this family grows — the substrate loop
