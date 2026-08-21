@@ -1,5 +1,5 @@
 ---
-description: "A printed page holds only one pole of a tension at a time, so the book resolves in sequence what it cannot resolve at once, which makes the developmental arc the instrument that holds both poles at full strength and gives the medium-embodies-the-message law its mechanism."
+description: "A printed page holds only one pole of a tension at a time, so the book resolves in sequence what it cannot resolve at once, which makes the developmental arc the instrument that holds both poles at full strength."
 category: structure
 sources: ["first-principles derivation, 2026-08-20 (from the reframe conversation, 2026-08-13: the authority double movement at 1371–1384, on the author's founding insight at 1358; the medium-embodies-the-message axiom at 521, ratified 523–526; the author's life-question at 1183–1190)"]
 topics: ["[[book-structure]]"]
