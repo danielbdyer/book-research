@@ -120,7 +120,7 @@ The evidence splits by book accordingly [R3, R4]: the **convergence of thinkers 
 
 ---
 
-# PART II — THE EIGHT READINGS, IN FULL
+# Part two · the eight dimensions, in full
 
 Each reading's distinctive depth — what only that reading surfaced. Material already stated at full depth in Part I is cross-referenced up, not repeated; everything a reading added beyond the shared structure is kept here.
 
