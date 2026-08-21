@@ -25,6 +25,7 @@ Relevant Notes:
 - [[the book's practices are facilitation moves scaled to one reader]] — the same inward scaling stated from the book's craft, the room-holding turned on a single reader
 - [[the practice is the expression of realization rather than a means to it]] — the clause that forbids reading self-facilitation as a technique aimed at an outcome
 - [[flourishing flow and facilitation converged on one stance in the author's own record]] — the author's own record that facilitation of another and of the self are one stance
+- [[the master question is the conditions under which a person remains the author of what they become while being genuinely changed]] — self-facilitation is the master question turned inward: remaining the author of one's own becoming while being genuinely changed
 
 Topics:
 - [[felt-shift]]
