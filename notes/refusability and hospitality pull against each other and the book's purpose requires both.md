@@ -4,7 +4,7 @@ category: tension
 status: live
 treatment: "division of labor across units — some passages befriend and others present a claim for refusal — held under trial; the two postures alternate rather than fuse, and no single sentence carries both at full strength"
 sources: ["first-principles derivation, 2026-08-20 (from the reframe conversation, 2026-08-13: sovereignty and refusable response at 837; patriotism for oneself as the purpose's temperature at 770; accompaniment rather than explanation at 765)"]
-topics: ["[[tensions]]", "[[book-structure]]"]
+topics: ["[[tensions]]"]
 state: nascent
 ---
 
