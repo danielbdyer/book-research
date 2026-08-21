@@ -107,6 +107,10 @@ Run that loop and the direction of flow inverts: instead of the research produci
 
 This is held as a proposal, not a decision. What it would change: the reading queue would take its questions partly *from the loci's open edges*; a note, when minted, would record which locus it attests; and `the-lenses.md` would become the index over a set of growing family-files like this one, rather than a static list. None of that is done — it is what the pivot would mean, so you can weigh it.
 
+The part of the mechanism that *is* now built is the checking. This file carries a content-hash receipt for each of its sections (the hidden markers below each block), and `scripts/queries/lens-check.sh` re-computes them to report which sections still rest on unmoved ground and which need re-reading — the same substrate the Axioms family runs on, described in full in `the-axioms.md`. So the register above cannot silently rot: when a source it was read from changes, the section that cited it says so.
+
+<!--cache id=LOC-substrate crc=49e0aca2 src=ops/reading queue.md|ops/clearing.md derived=2026-08-21-->
+
 ## What I watched, building this
 
 You asked me to watch what makes sense before we consider a workflow per lens. Three things became clear:
