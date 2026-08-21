@@ -1,5 +1,5 @@
 ---
-description: "The two phases of the pulse each have a failure mode: expansion is counterfeited by the false peak, a felt glow that mimics recognition, and contraction fails by forgetting it is contraction, which is the racket that takes its story for the world."
+description: "The two phases of the pulse each have a failure mode: expansion is counterfeited by the false peak that mimics recognition, and contraction fails by forgetting itself, which is the racket."
 category: claim
 sources: ["first-principles derivation from the engine, 2026-08-20 (reframe conversation, 2026-08-13: the false peak at 284; the racket and the story taken for the world at 176)", "atlas §IX.8a (Nāgārjuna as the guard-rail against counterfeit vikāsa)"]
 topics: ["[[felt-shift]]"]
