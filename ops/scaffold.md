@@ -51,7 +51,7 @@ This file keeps a machine-checkable cache underneath — an invisible checksum o
 
 ---
 
-# PART I — THE STRUCTURE, AT DEPTH
+# Part one · the shape of the whole
 
 The five findings a drafter may build on, each stated once at the fullest depth the eight readings reached it. Corroborating readings are named in brackets; a reading that *corrects* or *dissents* is kept as such, never merged away.
 
