@@ -6,7 +6,7 @@ When all eight are in, the Venn is woven from here into (a) the forest map, redr
 
 The eight skeletons: **1** draft chapter schemes · **2** psychedelic arc · **3** two-book learning arc · **4** thinker constellation & lineage · **5** reframe conversation's arc · **6** system scaffolding · **7** named units & walkable house · **8** doctrine concerns & still center.
 
-Returned so far: **#3**.
+Returned: **all eight** (#1–#8). The woven Venn is at the foot of this file.
 
 ---
 
