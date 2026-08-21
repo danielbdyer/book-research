@@ -97,7 +97,7 @@ done <<< "$markers"
 [ "$STALE_ONLY" -eq 1 ] && exit 0
 
 # --- baseline drift: new notes / decisions since the last full derive ---
-baseline=$(awk -F'[ =]' '/<!-- baseline /{for(i=1;i<=NF;i++){if($i=="notes")n=$(i+1); if($i=="decisions")d=$(i+1); if($i=="derived")dt=$(i+1)} print n" "d" "dt}' "$MAP" | head -1)
+baseline=$(awk -F'[ =]' '/<!-- baseline notes=/{for(i=1;i<=NF;i++){if($i=="notes")n=$(i+1); if($i=="decisions")d=$(i+1); if($i=="derived")dt=$(i+1)} print n" "d" "dt}' "$MAP" | head -1)
 b_notes=$(echo "$baseline" | awk '{print $1}')
 b_dec=$(echo "$baseline" | awk '{print $2}')
 b_dt=$(echo "$baseline" | awk '{print $3}')
