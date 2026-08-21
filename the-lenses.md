@@ -197,6 +197,7 @@ Read the book by the rules it binds *itself* to. Three layers, because the axiom
 - **The facilitator's axioms**: invitation ≠ direction; contraction is information; the participant's recognition belongs to the participant; responsible for conditions, not conclusions (F · 1455)
 - **The participant's layer** — *deliberately un-axiomatized*: the book stops legislating exactly where authorship passes to the reader (F · 1455)
 - **The sharpest single one** — Non-Capture: "do not capture what must remain alive" (F · LXXVI 9909)
+- **Deepened** → `the-axioms.md`: the full deduplicated canon by the three-layer architecture (author's / work's / participant's-empty layers), the named-axiom crystallization and the master-axiom candidate, every axiom with its locator and provenance — on the checkable cache substrate
 
 ## Lens 15 · The Paradoxes by Role — *"whose knot is this — and what counter-discipline does it need?"*
 
