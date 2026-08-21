@@ -101,6 +101,12 @@ The adversary chamber of the transmission digs (Dig 6, 2026-08-13; the record is
 
 - [[theodor adorno]] — the jargon-of-authenticity charge, the source of the register attack, whose paradigm target the corpus's own register becomes.
 
+## The tension the affirmative-way derivation raised (2026-08-20)
+
+The first-principles derivation of 2026-08-20, drawing the book's premises out of the reframe conversation, produced one kept tension. It carries `status: live` with a treatment under trial; the note is nascent, its hospitality pole grounded in the author's own words and biography under the personal-provenance conditions and its refusability pole in the reframe transcript, with the grounding of the whole affirmative-way round still owed.
+
+- [[refusability and hospitality pull against each other and the book's purpose requires both]] — the book owes the reader precision crisp enough to refuse, since a reader keeps authorship only against a graspable edge, and warmth at a love letter's temperature, the "patriotism for oneself" the author traces to a first love's letter, and the two postures cannot be maximized in one sentence. Treatment under trial: a division of labor across units, some passages befriending the reader and others presenting a claim for the reader to refuse, so the two postures alternate through the book rather than fuse in each line.
+
 ## The method this map does not supply
 
 
