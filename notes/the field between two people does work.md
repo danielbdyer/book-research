@@ -31,6 +31,7 @@ Relevant Notes:
 - [[the relational vocabulary's ontology is buber's rather than benjamin's]] — which thinker the corpus's own words actually commit it to
 - [[a hiding that never intends to be found has stopped being play]] — the boundary rule inside the Winnicott material this claim borrows from
 - [[ubuntu personhood]] — the same claim at full strength: relation constitutes the person rather than assisting them
+- [[the master question is the conditions under which a person remains the author of what they become while being genuinely changed]] — the between is where the master question is tested: a field can change a person deeply without dispossessing them of their authorship
 
 Topics:
 - [[relational-field]]
