@@ -136,6 +136,8 @@ One more kind of open work, added 2026-08-04 after the generative pass: a kept t
 
 The transmission digs of 2026-08-13 added the adversary chamber (Dig 6): the register attack, the compliance attack, the response-expectancy induction, and their self-sealing crossover, each with a counter-objection that blunts it. This is the one body of new tension that arrives with its readings undone rather than with a treatment ready, since Dig 6 reached zero clean primary reads; its six sharp-question readings — Orne 1962, Adorno's *Jargon of Authenticity*, Kirsch 1985, Britton et al. 2021, the large-group-awareness outcome study, and one unverified effect-size pair — lead the transmission tier the digs returned and have not yet been transcribed into `ops/reading queue.md`, so the chamber's treatments stay candidate until those readings are done. What the crossover leaves standing is not a writing move but the external, delayed, other-administered check the book does not yet have, which is why the same strain feeds the Second Chair in [[relational-field]] and the instrument's exposure in [[felt-shift]].
 
+The affirmative-way derivation of 2026-08-20 added one kept tension, refusability against hospitality, which arrives with a treatment already under trial rather than with a reading debt, since it is a strain in what the book owes its reader rather than a hole in the reading. Its own grounding, and that of the wider affirmative-way round it belongs to, is still owed.
+
 ---
 
 Topics:
