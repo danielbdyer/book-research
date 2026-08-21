@@ -120,3 +120,7 @@ You asked me to watch what makes sense before we consider a workflow per lens. T
 - **The unit of the workflow is now obvious.** A family-deepening workflow would, per locus: run Encounter (gather attested members from notes + corpus), run Recognition (state gift/blind-spot), run Perspective (surface the open edge against the catalog + corpus), and return a structured register entry plus a reading-queue proposal for each open edge. That is a clean, bounded fan-out — one agent per locus, one synthesis pass — and it is genuinely workflow-shaped. But I'd hand-build one or two more families first (the Axioms is the natural second, being the other pure named-domain-with-members), so the template is stable and we've felt the volume before we let a workflow produce it.
 
 My recommendation: **stay hands-on for one more family**, watch the output volume, confirm the guards hold — and if they do, the workflow-per-lens becomes the right tool, with the loci's open edges as its brief. The pivot to substrate is the larger decision underneath, and this file is meant to let you feel whether it earns the change.
+
+---
+<!-- baseline notes=501 decisions=119 derived=2026-08-21 -->
+<!--cache id=LOC-src crc=f6fb7793 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md derived=2026-08-21-->
