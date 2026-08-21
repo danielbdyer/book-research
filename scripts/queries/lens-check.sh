@@ -38,6 +38,7 @@ CHECK="scripts/queries/scaffold-check.sh"
 FAMILIES=(
   "the-loci.md"
   "the-axioms.md"
+  "the-paradoxes.md"
 )
 
 MODE="report"
