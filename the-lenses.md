@@ -207,6 +207,7 @@ One tension — *influence/structure without domination* — worn by six roles, 
 - **The author** — a durable perspective without becoming rigid; **the facilitator** — the more powerful, the more sovereignty matters (F · CXXIX; 13054)
 - **The AI-user** — synthesis without replacing participation; **the system-designer** — structure without foreclosing emergence (F · CXXXII–CXXXIII)
 - **The governing posture** — "a tension to inhabit, not a contradiction to solve" (F · CXXXIV)
+- **Deepened** → `the-paradoxes.md`: all six roles verbatim, the paired Book I/II facilitator mirror, and the frontier of unnamed roles that wear the same knot — on the checkable cache substrate; the one fully works-consulted family, so its frontier is *which of these the author holds*
 
 ## Lens 16 · The Fractal — *"at what scale is the same relation repeating?"*
 
