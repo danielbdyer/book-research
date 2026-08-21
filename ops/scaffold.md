@@ -243,3 +243,57 @@ The six concerns by weight:
 
 **Structural-map caveat, load-bearing for the union:** `book-structure` (113) and `interlocutors` (109) outweigh four of the six *doctrine* maps, but only because they are the **home maps of other readings** — §12+§6 file under book-structure, §9 under interlocutors. Raw weight is misleading; the genuinely-meta maps (methods 33, research-frontier 30, tensions 19, open-questions 12) are all thin. The technology/delegation strand (a computed region, Cluster 6) is owned by **no single concern** — the reframe's "why now," carried as a cross-cutting frame; it is not a seventh concern (the cap forbids one) but sits cleanly inside none of the six, a seam to watch. **Two internal splits are pending** (not new concerns, subdivisions within): recognition (along the seam between the un-forgetting foundation and the ecology reframe) and relational-field (along the seam between the Third-Entity core and the facilitation craft), both over the ~25-entry division threshold.
 
+---
+
+# PART III — THE JOINTS, THE CAUTIONS, THE EVIDENCE
+
+## §14 · The open joints — where the readings part
+<!--cache id=JOINTS crc=c7ec5d63 src=ops/decisions.md|notes/book-structure.md|notes/the learning arc.md derived=2026-08-21-->
+
+Six joints. Three are the author's named decisions; the other three are findings about where the material is thin or genuinely new. Each is stated with which readings meet at it and what would close it — a joint whose sources include `ops/decisions.md` will go EXPIRED when the author settles it, and the next run notices it may have become a core finding.
+
+- **J1 — Book I's outward arc is genuinely new.** It has no counterpart in the drafts (R1 — they predate the reframe), the psychedelic arc (R2 — that is Book II's), or the walkable house (R7 — that maps Book II). Its four movements exist (R3, R5), but its form, grammatical person, and imagery are unwritten. Pure divergence = genuinely new territory, opened by the reframe, not yet drafted. This is a finding, not a gap: it tells the drafter that Book I cannot be assembled from the existing arc material and must be composed.
+- **J2 — Book II's return is the thinnest position in the whole graph.** Every reading confirms the return as the destination the spine resolves toward (R3, R2, R8), and it is the least-built cell in the vault: no dedicated "the practitioner returns / stewardship of the self" claim exists (R3), and "afterglow" appears in only 6 notes (R2). Certain in shape, sparse in substance — the single largest structural gap.
+- **J3 — the walkable house, or the centerless field.** R7's reader walks through rooms; R5's governing image is a bounded-but-permeable ecology with no privileged center ("no privileged top node… a constellation rather than a pyramid"). Same material, two incompatible spatial imaginations. **The 2026-08-16 decision explicitly leaves this to the author** (`notes/book-structure.md` records "the spatial figure — the centerless field beside the walkable house — the author's to resolve").
+- **J4 — the peak as an event, or a theme.** The arc drafts concentrate it as one moment (R1, R2); the earliest edition disperses it across a themed part with no peak (R1, R7). Reconciled 2026-08-16 by *allocation* (the arc to Book II, the spiral kept as a way in), but the spatial figure it implies stays open and travels with J3.
+- **J5 — how much chapter-weight the system carries.** R1 executes the system as four full chapters (Part II, Ch4–7); R6-under-demotion says its content should shrink to scaffolding "removed once the curve holds." The widest gap in the whole field between what the pages contain and what the book is about. **The author's to decide** (the demotion is his standing decision; how far it cuts the executed chapters is not yet drawn).
+- **J6 — one spine, or two graticules.** Whether the six-phase psychedelic arc (R2) and the four-station developmental spine (R3) are one structure or two is held open — kept distinct, reconciled by assigning one to each book and by the peak-resolves-into-return move, *not* by identifying them. The peak≈participation and return≈stewardship alignments are synthesis, not source identity (R2, R3 both flag this).
+
+## §15 · Two cautions the overlay makes visible
+<!--cache id=CAUTIONS crc=7326865f src=notes/the executed draft carries the arc's sequence without the treatment's five rooms.md|notes/the scheme's upper layers are one construction built on the container's three structures.md derived=2026-08-21-->
+
+**Present, but not central — the demoted middle.** The system's upper three levels are drawn faint on purpose (full treatment in §11): the twelve primitives whose closure is asserted three times and shown nowhere; the molecule formulas, every distinction of which is already made by the prose beside them; the three loops, executed (Ch7, "loop" appears 54× in the drafted prose) yet held as "mechanic's clothing on older theology"; and the seven apparatus devices, six of which were designed and never built. Volume in the corpus is not centrality in the book, and this is where that gap is widest. The one part of the system that is *not* demoted, and that stacks in every neighboring reading, is the container's three structures + open center (§3, §11).
+
+**Shared words that are not agreement — false friends the union must not collapse on:**
+- The Guild's **five rooms** (bodies of thinker material — facilitation, McLaren, Landmark–Heidegger, container-makers, coaches; R9/R6) ≠ the reader's **nine walkable rooms** (kitchen, pantry, workshop, hallway, two-chair room, balcony, reed room, orchard, first room; R7). They map onto *none* of each other. A Venn that matched on "room" would produce a phantom overlap.
+- The four **doors** (the upāyas — āṇavopāya, śāktopāya, śāmbhavopāya, anupāya; R6's praxis stratum, §VII) ≠ architectural doors of the house.
+- The **valley** (Trika / Kashmir Śaivism, "the watershed all the rooms drain toward… the book's Level Zero is the tradition's proper noun"; R4's source-tradition) ≠ a room.
+- **Convergence = company, never proof** (R4, R8). The lineages were gathered on one day for the property they are then reported to share, and independence fails again wherever members share a teacher (mostly Heidegger). The founding convergence survives; the company assembled around it does not corroborate it. A union built on raw agreement-count would re-inflate exactly this.
+
+## §16 · The evidence ledger — how deeply each anchor is actually attested
+<!--cache id=EVIDENCE crc=c333da9c src=notes/interlocutors.md|ops/chapter concordance.md derived=2026-08-21-->
+
+The scaffold's confidence is uneven, and the drafter should know where it rests on primary reading versus corpus-relay versus synthesis. This is the honest floor beneath Part I.
+
+- **Attested at primary text** (a reading record in `archive/`): the felt-shift standard via Gendlin 1964 (which *narrowed* the claim to "carrying forward"); aletheia via Heidegger; Erhard's speech-act via the Harvard working paper (which overturned the note's own "he has no primary text"); Buber's I–Thou via the tree passage; Dōgen's anti-instrumentality via Bendōwa; Aristotle on privation via Metaphysics IX.6 / Physics I; Winnicott's capacity-to-be-alone via the 1958 paper; the privative-grammar company (al-Qushayrī, Śaṅkara, Laozi, Pseudo-Dionysius, Weil, Abhinavagupta). The verbatim six-phase arc is attested across four documents (§1). The chapter-for-chapter identity of `arc-gloss` and `abridged` is attested by the concordance (§6).
+- **Grid- or corpus-derived, awaiting the reading that would confirm or narrow** (the chair rests on the corpus's paraphrase): Buber's full ontological load, Alexander, Polanyi, Kṣemarāja & Utpaladeva (the tradition's words one link away but no continuous reading), Rogers (the 1957 paper unread), Hudson (corpus-relay entirely), McLaren (says so explicitly), Robbins (everything is "a summary written by an opponent"), Vervaeke (the highest-value undone read).
+- **Synthesis, marked as such, not a source claim:** the preparation/onset/deepening → Part I/II/III boundary mapping (§1, §7); the peak≈participation and return≈stewardship alignments (§5, J6); the candidate room-to-unit correspondences beyond the four the corpus pins (§12). These are the drafter's working hypotheses, not attested structure.
+- **The standing recount caution** (R4): a sort run once reproduces its own blind spot until something recounts. Gendlin and Hudson were both found by accident; a systematic function-count over the corpus's routing surfaces has never run. The load-bearing core is confirmed *up to the last recount* — the reading queue's open question of whether a third mis-filed load-bearer exists is live.
+- **Weight ≠ centrality, restated as a ledger fact:** the heaviest structural maps (`book-structure` 113, `interlocutors` 109) are heavy because they *host other readings*, not because they are the most central concern; and the onset/Part II phase is heavy because it is the system's home, exactly the material the center-of-gravity directive demotes.
+
+## §17 · Keeping this current — the modes and the cache index
+
+- **`/scaffold`** (verify — the default, cheap): runs `scripts/queries/scaffold-check.sh`, which walks the inline markers, re-computes each section's CRC, and reports FRESH / EXPIRED plus baseline drift. No subagents. A clean check is the healthy state.
+- **`/scaffold refresh`**: re-derive only the EXPIRED sections (one focused reader each), fold in new high-confidence territory flagged by baseline drift, regenerate the affected CRCs with `scaffold-check.sh --crc`, advance the baseline. Affirmed sections are left byte-for-byte.
+- **`/scaffold rederive`**: rebuild the whole file from the eight readers, rewrite every section and CRC, reset the baseline. For when the finding-set itself is in question.
+
+**The cache index** (every inline id, for a one-glance parse target; the authoritative markers are inline beside each section): `ARC` §1 · `COLLAPSE` §2 · `ANCHORS` §3 · `CENTER` §4 · `SPINE2BK` §5 · `R1DRAFTS` §6 · `R2ARC` §7 · `SPINE2BK2` §8 · `R4THINK` §9 · `R5REFRAME` §10 · `R6SYSTEM` §11 · `R7HOUSE` §12 · `R8DOCTRINE` §13 · `JOINTS` §14 · `CAUTIONS` §15 · `EVIDENCE` §16. Sixteen cached sections; the parser reports each FRESH or EXPIRED and names the source whose bytes moved.
+
+---
+
+Relevant files:
+- `skeletal-structures-venn-2026-08-21.md` — the eight readings' original maps and their explicit Venn inputs, the working derivation this file distills
+- `ops/chapter concordance.md` — the per-unit comparison several sections rest on
+- `scripts/queries/scaffold-check.sh` — the inline-CRC verifier
+- `.claude/skills/scaffold/SKILL.md` — the skill that maintains this file
+
