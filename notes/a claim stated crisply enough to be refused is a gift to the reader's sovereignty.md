@@ -1,5 +1,5 @@
 ---
-description: "A reader can exercise sovereign response only against a graspable edge, so hedged prose that cannot be disagreed with is influence with the reply foreclosed, and precision the reader can refuse is owed to the reader rather than a lapse of humility."
+description: "A reader can exercise sovereign response only against a graspable edge, so hedged prose that cannot be disagreed with is influence with the reply foreclosed, and refusable precision is owed rather than a lapse of humility."
 category: structure
 sources: ["first-principles derivation, 2026-08-20 (from the reframe conversation, 2026-08-13: sovereignty as recognizing, choosing, and responding without collapsing into someone else's script at 837; safety with enough friction as the second condition at 311; diversity of authentic insights over uniformity at 521)"]
 topics: ["[[book-structure]]"]
