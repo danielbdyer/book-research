@@ -19,15 +19,33 @@ Each mapped one latent way the material is already organized, at real locators, 
 
 R3's original map is woven into `skeletal-structures-venn-2026-08-21.md`; R1, R2, R4–R8 are captured in this file's reading sections and, in full, in the scratchpad transcripts the derivation names.
 
-## The cache protocol — how this stays current for the cost of a checksum
+This file keeps a machine-checkable cache underneath — an invisible checksum on each section that tells a script when the ground beneath it has moved. That machinery is described in the appendix and stays out of the reading path; ignore it while reading.
 
-Every cached section below carries an inline marker naming the vault files it rests on and a **CRC32 of their content**:
+## Contents
 
-```
-<!--cache id=SECTION crc=abcd1234 src=path one.md|path two.md derived=2026-08-21-->
-```
+**Part one — the shape of the whole.** The five things a drafter can build on.
+1. One arc, read many ways
+2. The collapse — four readings, one object
+3. The two anchors — the opening and the peak
+4. The still center
+5. Two books, one gesture
 
-`scripts/queries/scaffold-check.sh` walks these markers, re-computes each section's CRC from the current content of its sources (by file bytes, so the check tracks what a file *says*, not when the auto-commit hook or a rebase touched it), and reports each section FRESH or EXPIRED. An expired section is not wrong; it is a section whose ground has moved and that `/scaffold refresh` should re-read. The checksum lives next to the content it guards, so the file is self-describing: a parser in any language extracts the markers with one regex, and the map is its own cache. The `<!-- baseline -->` line records the notes and decisions counts at the last full derive, so growth past it flags material no section yet covers. Do not hand-edit a CRC; regenerate it with `scaffold-check.sh --crc 'path one.md|path two.md'`.
+**Part two — the eight dimensions, in full.** Each reading's distinctive depth.
+6. The draft chapter schemes
+7. The psychedelic arc, phase by phase
+8. The two-book spine, cell by cell
+9. The thinker constellation & lineage
+10. The reframe conversation
+11. The constructed system
+12. The named units & the walkable house
+13. The doctrine concerns & the still center
+
+**Part three — what's open, and what to watch.**
+14. The open questions (six joints — three are the author's to decide)
+15. Two cautions (the demoted middle; the false friends)
+16. The evidence ledger (how deeply each anchor is attested)
+
+*Appendix — how this file stays current.*
 
 <!-- baseline notes=501 decisions=119 derived=2026-08-21 -->
 
