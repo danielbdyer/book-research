@@ -1,5 +1,5 @@
 ---
-description: "The book's urgency about the age and its refusal to treat the reader as deficient cohere only if the deficit is predicated of the environment and the capacity of the person, so the civilizational diagnosis never arrives as a diagnosis of the reader."
+description: "The book's urgency about the age and its refusal to treat the reader as deficient cohere only if the deficit belongs to the environment and the capacity to the person, so the diagnosis never lands on the reader."
 category: claim
 sources: ["first-principles derivation, 2026-08-20 (from the reframe conversation, 2026-08-13: \"you are already participating; how consciously\" at 16084–16088; the self as an ecology rather than a defect at 16094–16108; the attention economy crafted around a lack of sufficiency at 862)"]
 topics: ["[[contraction-not-corruption]]"]
