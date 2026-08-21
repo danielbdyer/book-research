@@ -299,7 +299,19 @@ The scaffold's confidence is uneven, and the drafter should know where it rests 
 - **The standing recount caution** (R4): a sort run once reproduces its own blind spot until something recounts. Gendlin and Hudson were both found by accident; a systematic function-count over the corpus's routing surfaces has never run. The load-bearing core is confirmed *up to the last recount* — the reading queue's open question of whether a third mis-filed load-bearer exists is live.
 - **Weight ≠ centrality, restated as a ledger fact:** the heaviest structural maps (`book-structure` 113, `interlocutors` 109) are heavy because they *host other readings*, not because they are the most central concern; and the onset/Part II phase is heavy because it is the system's home, exactly the material the center-of-gravity directive demotes.
 
-## §17 · Keeping this current — the modes and the cache index
+# Appendix · how this file stays current
+
+*Skip this while reading — it is the machinery that keeps the document honest, not part of it.*
+
+**The inline cache.** Each section above carries an invisible marker (an HTML comment, hidden when the file is rendered) that names the vault files the section was read from and holds a CRC32 checksum of their content:
+
+```
+<!--cache id=SECTION crc=abcd1234 src=path one.md|path two.md derived=2026-08-21-->
+```
+
+`scripts/queries/scaffold-check.sh` walks those markers and re-computes each section's checksum from the current bytes of its sources — so it tracks what a file *says*, not when the auto-commit hook or a rebase last touched it — and reports each section FRESH or EXPIRED. An expired section is not wrong; its ground has moved and `/scaffold refresh` should re-read it. The `<!-- baseline -->` line records the notes and decisions counts at the last full derive, so growth past it flags new material no section yet covers. Do not hand-edit a checksum; regenerate it with `scaffold-check.sh --crc 'path one.md|path two.md'`.
+
+**The three modes.**
 
 - **`/scaffold`** (verify — the default, cheap): runs `scripts/queries/scaffold-check.sh`, which walks the inline markers, re-computes each section's CRC, and reports FRESH / EXPIRED plus baseline drift. No subagents. A clean check is the healthy state.
 - **`/scaffold refresh`**: re-derive only the EXPIRED sections (one focused reader each), fold in new high-confidence territory flagged by baseline drift, regenerate the affected CRCs with `scaffold-check.sh --crc`, advance the baseline. Affirmed sections are left byte-for-byte.
