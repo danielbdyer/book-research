@@ -121,6 +121,7 @@ The reframe's central move on this map recasts sovereignty from the opposite of 
 - [[participation is not sovereignty, influence is not authorship, information is not recognition]] — the three-register distinction that keeps the field's work from being mistaken for control, authorship, or knowledge that a person did not participate in.
 - [[the same technology can amplify sovereignty or erode it depending on the locus from which it is used]] — sovereignty set by the standpoint rather than the instrument, so the field's outcome turns on the locus a person occupies and not on the tool they hold.
 - [[patriotism for oneself is the felt form of the auxiliary relation to a sovereign reader]] — the felt source of the whole doctrine, from a first love's letter: a love that makes the beloved more themselves, the field increasing sovereignty at the scale of two people.
+- [[one person's participation can make it more possible for another to belong to themselves]] — the relational mechanism beneath that felt image: one person's participation leaving the other more the author of their own life, the field this map gathers shown enlarging authorship rather than absorbing it.
 
 ### Facilitation as a technology of relationship
 
