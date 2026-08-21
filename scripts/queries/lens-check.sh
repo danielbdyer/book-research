@@ -44,6 +44,62 @@ FAMILIES=(
 MODE="report"
 [ "$1" = "--stale" ] && MODE="stale"
 [ "$1" = "--census" ] && MODE="census"
+[ "$1" = "--coverage" ] && MODE="coverage"
+[ "$1" = "--uncovered" ] && MODE="uncovered"
+
+# --- coverage: which notes in the graph is NO family referencing yet? ---
+# The substrate pivot's instrument. A note is "covered" when at least one family
+# file wikilinks it as a member. --coverage prints the summary count (the number
+# the author is driving toward zero); --uncovered prints the worklist itself — the
+# claims no family has reached — which is exactly the reading/authoring frontier the
+# inverted flow feeds on. Maps (type: moc) are reported separately, since an index
+# is an organizing structure, not a node a family is expected to attest.
+if [ "$MODE" = "coverage" ] || [ "$MODE" = "uncovered" ]; then
+  python3 - "$MODE" "${FAMILIES[@]}" <<'PY'
+import sys, os, re, glob
+mode = sys.argv[1]
+families = sys.argv[2:]
+ref = set()
+for f in families:
+    if not os.path.exists(f):
+        continue
+    txt = re.sub(r"```.*?```", "", open(f, encoding="utf-8").read(), flags=re.S)
+    for m in re.finditer(r"\[\[([^\]]+)\]\]", txt):
+        ref.add(m.group(1).strip())
+notes = sorted(glob.glob("notes/*.md"))
+covered_claims = uncovered_claims = covered_mocs = uncovered_mocs = 0
+uncovered_titles = []
+for n in notes:
+    title = os.path.basename(n)[:-3]
+    try:
+        head = open(n, encoding="utf-8").read(2000)
+    except Exception:
+        head = ""
+    is_moc = bool(re.search(r'^type:\s*moc', head, re.M))
+    covered = title in ref
+    if is_moc:
+        if covered: covered_mocs += 1
+        else: uncovered_mocs += 1
+    else:
+        if covered:
+            covered_claims += 1
+        else:
+            uncovered_claims += 1
+            uncovered_titles.append(title)
+total_claims = covered_claims + uncovered_claims
+if mode == "coverage":
+    pct = (covered_claims * 100 // total_claims) if total_claims else 0
+    print(f"family coverage — claims referenced by at least one family:")
+    print(f"  {covered_claims}/{total_claims} claims covered ({pct}%)  ·  {uncovered_claims} not yet referenced")
+    print(f"  (maps: {covered_mocs} covered, {uncovered_mocs} not — an index is not a node a family must attest)")
+    print(f"  → the number to drive toward zero is {uncovered_claims}; run --uncovered for the worklist")
+else:
+    print(f"# {uncovered_claims} claims not yet referenced by any family (the substrate-pivot worklist):")
+    for t in uncovered_titles:
+        print(t)
+PY
+  exit 0
+fi
 
 # --- census: derive counts from the file itself, never store them (so they cannot drift) ---
 census() {
