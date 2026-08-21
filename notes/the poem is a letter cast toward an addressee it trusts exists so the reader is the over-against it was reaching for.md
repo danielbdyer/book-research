@@ -1,5 +1,5 @@
 ---
-description: "If the poem is structurally a letter seeking a reader, answerability runs to the book's headwaters: the reader arrives as the correspondent the poem was cast toward before it had a name, a message in a bottle reaching land."
+description: "If the poem is structurally a letter seeking a reader, answerability runs to the book's headwaters: the reader arrives as the correspondent the poem was cast toward before it even had a name."
 category: claim
 sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Celan: 'a poem can be a message in a bottle… on heartland perhaps' (Bremen Prize speech, 1958); the poem 'intends an Other, needs this Other… speaks toward it' (The Meridian, 1960)"]
 topics: ["[[answerability]]"]
