@@ -88,11 +88,32 @@ for n in notes:
             uncovered_claims += 1
             uncovered_titles.append(title)
 total_claims = covered_claims + uncovered_claims
+# The coverage baseline lives inline in the index (the-lenses.md), like every other
+# marker in this system: <!-- coverage-baseline uncovered=N derived=DATE -->. A rising
+# uncovered count means research added notes no family has absorbed — the sync gap. The
+# baseline is only advanced when a coverage pass folds new notes into families, so a
+# regression fires until the families catch up, then goes quiet.
+baseline = None
+try:
+    idx = open("the-lenses.md", encoding="utf-8").read()
+    mb = re.search(r"<!--\s*coverage-baseline\s+uncovered=(\d+)", idx)
+    if mb:
+        baseline = int(mb.group(1))
+except Exception:
+    pass
 if mode == "coverage":
     pct = (covered_claims * 100 // total_claims) if total_claims else 0
     print(f"family coverage — claims referenced by at least one family:")
     print(f"  {covered_claims}/{total_claims} claims covered ({pct}%)  ·  {uncovered_claims} not yet referenced")
     print(f"  (maps: {covered_mocs} covered, {uncovered_mocs} not — an index is not a node a family must attest)")
+    if baseline is None:
+        print(f"  (no coverage baseline recorded in the-lenses.md — add <!-- coverage-baseline uncovered={uncovered_claims} derived=DATE -->)")
+    elif uncovered_claims > baseline:
+        print(f"  REGRESSED: uncovered {baseline}→{uncovered_claims} (+{uncovered_claims-baseline}) — new notes are in no family; run --uncovered, absorb them, then re-baseline")
+    elif uncovered_claims < baseline:
+        print(f"  improved: uncovered {baseline}→{uncovered_claims} (-{baseline-uncovered_claims}) — update the baseline in the-lenses.md to {uncovered_claims}")
+    else:
+        print(f"  in sync with the baseline ({baseline}) — no new uncovered notes since the last coverage pass")
     print(f"  → the number to drive toward zero is {uncovered_claims}; run --uncovered for the worklist")
 else:
     print(f"# {uncovered_claims} claims not yet referenced by any family (the substrate-pivot worklist):")
