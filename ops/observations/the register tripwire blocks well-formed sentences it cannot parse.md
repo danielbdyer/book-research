@@ -2,7 +2,8 @@
 description: The register gate's second rule has now caught seventeen complete, well-formed sentences against four true catches, because it fires on any noun phrase followed by a past participle unless a verb from a hand-written list of about sixty appears first.
 date: 2026-08-06
 severity: friction
-status: open
+status: resolved
+resolved_by: "the blocking write-gate this observation measured was retired 2026-08-09, in the pruning that cited this observation's own evidence — seventeen false catches against four true — as one of its three findings needing no book decision. Verified at /rethink 2026-08-21: no register hook and no scripts/queries/register-tripwires.py remain, so the instrument the observation is about no longer exists."
 ---
 
 # the register tripwire blocks well-formed sentences it cannot parse
