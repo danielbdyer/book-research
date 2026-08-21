@@ -22,6 +22,8 @@ These are the Five Great Questions the reframe conversation reached (`the-conver
 
 The fourth question is the one you pointed at, and it is the whole reason this can be a substrate rather than a summary: a summary is finished when written; a frame built around question 4 is never finished, because it always names its own frontier.
 
+<!--cache id=LOC-concept crc=57dd2106 src=the-conversation-catalog.md|notes/recognition.md derived=2026-08-21-->
+
 ---
 
 ## The register of loci
