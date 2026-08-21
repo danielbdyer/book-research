@@ -39,6 +39,7 @@ FAMILIES=(
   "the-loci.md"
   "the-axioms.md"
   "the-paradoxes.md"
+  "the-constellation.md"
 )
 
 MODE="report"
