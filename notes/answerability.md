@@ -131,6 +131,8 @@ This vault exists in service of this map: research that ripens toward the pilot 
 
 The transmission digs of 2026-08-13 added the largest new body this map has taken. The indirect-communication dig (Dig 1) read the book's whole problem of an answerable word in Kierkegaard, Plato's Seventh Letter, and Wittgenstein, and it cuts both ways: it warrants a word that renounces authority to be answered, and it warns that the same renunciation forfeits the power to correct a misreading and makes success unfalsifiable from inside the method. The verification digs (6 and 3) add the standard the answerable word must meet — a result that can fail outside the room, an out-of-room check, a felt result named in advance as failure, and the Talmud's public defensibility beside the somatic test — and Dig 2 adds the fusion of horizons with its warning that felt bindingness can be manufactured authority. These arrive as consulted works with their primary readings undone: the Kierkegaard readings and the adversary-chamber readings lead the transmission tier the digs returned, so until they are done the Dig 1 objections stand on secondary scholarship.
 
+The reader's-answer section added 2026-08-21 states this map's concern positively and is its newest open work: eleven nascent notes whose thinker-attributions are unverified and whose primary grounding the sources call queued but the reading queue does not yet carry, so the round's grounding is owed. This is the vault's most drafting-ready concern, so the grounding of these entries is the readiest of the round's debts to repay.
+
 ---
 
 Topics:
