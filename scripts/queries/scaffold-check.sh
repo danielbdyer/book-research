@@ -59,6 +59,9 @@ STALE_ONLY=0
 markers=$(python3 - "$MAP" <<'PY'
 import sys, re
 txt = open(sys.argv[1], encoding="utf-8").read()
+# Strip fenced ``` code blocks first, so the protocol's illustrative example
+# (which lives inside a fence) is not read as a live marker.
+txt = re.sub(r"```.*?```", "", txt, flags=re.S)
 # <!--cache id=... crc=... src=...|... derived=...-->  (derived optional; order of id/crc/src fixed)
 for m in re.finditer(r"<!--\s*cache\s+id=(\S+)\s+crc=(\S+)\s+src=(.*?)(?:\s+derived=\S+)?\s*-->", txt, re.S):
     ident, stored, src = m.group(1), m.group(2), m.group(3).strip()
