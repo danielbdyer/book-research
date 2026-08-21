@@ -154,3 +154,102 @@ The **House** and the **Psychedelic Moment** appear under almost every lens — 
 ---
 
 *Pass one establishes the shape: the ten lenses named, each nesting references into the scaffold, plus the crossings that reveal the convergence. The nestings are deliberately first-level — later passes deepen a lens at a time (the Arc down to per-chapter register, the Constellation down to each thinker's load and reading-state, and so on). New lenses can be added; a node can be pulled up into its own lens when it earns one. Authored from `ops/scaffold.md`; when the scaffold shifts, the touched lenses are re-authored by hand.*
+
+---
+
+# Movement II · the lenses the conversation itself carries
+
+The ten above are drawn from the finished corpus — the drafts, the arc, the house, the thinkers. Pass two adds the lenses the **reframe conversation** generated about itself: not new content, but new *ways in*, mined by eight readers from the ~72,000-word transcript and cataloged in `the-conversation-catalog.md` (which holds each structure's full content, line-locators, provenance, and standing). Where Movement I organizes the book's material, most of Movement II organizes *the act of reading it* — and the deepest of them is the discovery that the conversation kept refusing to let any single organization win. That refusal is the polyphony's charter, written inside the material.
+
+References here point two ways: into `the-conversation-catalog.md` (by Family letter) and into the transcript (by line number).
+
+## Lens 11 · The Loci — *"where am I seeing from?"*
+
+The meta-lens: a lens *is* a locus — a bounded standpoint that discloses some things and hides others. Read any element by asking what vantage is disclosing it, and hold the law that no vantage rules.
+
+- **The locus set** — each keyed to what it discloses: Vervaeke→relevance · Śaiva→recognition · phenomenology→lived experience · dialogical→emergence · systemic→structure · contemplative→awareness · facilitative→conditions (catalog A · lines 2509–2568)
+- **The reframe that founds it** — "locus of control" → "locus of inquiry": not *who controls this?* but *what does standing here make possible?* (A · 4117–4149)
+- **The one law** — no locus becomes sovereign; the moment a frame says "now I see how they all fit," it has become the thing it warned against (A · 2573; §4 still center)
+- **Its Śaiva root** — a locus is a *saṅkoca* (contraction); reflexive awareness of it is *vimarśa* — so the book's method and its metaphysics are one movement (catalog J · 2986, 3236)
+
+## Lens 12 · The Registers — *"which interpretation, and what does it make visible?"*
+
+The polyphony stated as an instrument: read one thing through many registers at once, "to prevent a single interpretive regime from becoming invisible."
+
+- **The interpretive registers** — phenomenological · cognitive · Śaiva · systemic · relational · developmental · cultural · poetic · metaphysical (catalog A · CVII 6587, XXIII 8387)
+- **The discipline** — *productive non-equivalence*: hold many without ranking or merging; the difference between readings is the resource (A · 2573)
+- **Two ready grids** — the Four Quadrants (where is it happening: I/We/It/Its) and the Four Ontological Roots (re-derive the book from Vervaeke / Śaiva / phenomenology / dialogical) (A · 2650, 2376)
+
+## Lens 13 · The Loop — *"where in the returning cycle am I?"*
+
+The book's *other* motion. The Arc (Lens 1) runs once to a peak and returns; the Loop runs endlessly — and it is the researcher's and the reader's motion, not the reader's single journey.
+
+- **The Five Great Questions** — *From where am I seeing?* (Locus) → *What happened?* (Encounter) → *What became apparent?* (Recognition) → *What remains when I move?* (Perspective) → *What becomes possible now?* (Practice) → back to Locus (catalog B · CXLVIII–CXLIX 7387–7444)
+- **The Pulse** — the same six-beat encounter→return loop restated six-plus times (reflexivity, breath, research rhythm, life-rhythm), each set against a linear pipeline it refuses (B · 2753–2809; pts 12/16/29/31/50/51)
+- **The Reader's Arc** — the same cycle in the reader's own voice: Recognition → Disorientation → Experimentation → Encounter → Integration → Agency (B · XCI 10279)
+
+## Lens 14 · The Commitments — *"which constraint is this obeying?"*
+
+Read the book by the rules it binds *itself* to. Three layers, because the axioms are not all for the reader.
+
+- **The author's axioms** (backstage): don't outsource meaning-making; the framework is subject to itself; the medium must embody the message; preserve surprise (catalog F · 1455)
+- **The facilitator's axioms**: invitation ≠ direction; contraction is information; the participant's recognition belongs to the participant; responsible for conditions, not conclusions (F · 1455)
+- **The participant's layer** — *deliberately un-axiomatized*: the book stops legislating exactly where authorship passes to the reader (F · 1455)
+- **The sharpest single one** — Non-Capture: "do not capture what must remain alive" (F · LXXVI 9909)
+
+## Lens 15 · The Paradoxes by Role — *"whose knot is this — and what counter-discipline does it need?"*
+
+One tension — *influence/structure without domination* — worn by six roles, each a self-undermining competency. A genuinely new axis, orthogonal to the two-books' locus cut.
+
+- **The book** — authoritative enough to be useful, non-sovereign enough to leave the reader free (catalog F · CXXVIII 7045)
+- **The author** — a durable perspective without becoming rigid; **the facilitator** — the more powerful, the more sovereignty matters (F · CXXIX; 13054)
+- **The AI-user** — synthesis without replacing participation; **the system-designer** — structure without foreclosing emergence (F · CXXXII–CXXXIII)
+- **The governing posture** — "a tension to inhabit, not a contradiction to solve" (F · CXXXIV)
+
+## Lens 16 · The Fractal — *"at what scale is the same relation repeating?"*
+
+Facilitation is one relation recurring identically at every scale, each rung tested by the same question.
+
+- **The seven rungs** — facilitator↔participant · practitioner↔self · author↔reader · AI↔author · corpus↔future-self · tradition↔generations · ecology↔civilization (catalog E · 14914)
+- **The one test at every rung** — *does the facilitating thing increase the other's capacity to participate, or take it away?* (E · 14914)
+- **The membrane** — the Author↔Reader inversion (author: encounter→book; reader: book→encounter) is where the fractal folds through itself (E · CXIII 6728)
+- **The three scales it implies** — micro (self) / meso (relation) / macro (civilization, the horizon) (E · 17164)
+
+## Lens 17 · The Kinds of Things — *"what kind of thing is this?"*
+
+The conversation's native ontology — a second organizing grammar, built from participation-vocabulary, rival to the corpus's constructed system.
+
+- **The ten entities** — Ecology · Locus · Encounter · Concern · Concept · Tradition · Practice · Recognition · Perspective · Axiom (catalog G · CXLI 7259)
+- **The founding move** — organize by *the kinds of things that make inquiry possible*, not by the table of contents; one node lives in many kinds at once (G · 1032, CXLII)
+- **The two novel atoms** — Encounter (the event of participation) and Field Note (its provisional trace) — the couplet under which the vault holds this very conversation (G · XXX–XXXI 8604)
+- **Its musical twin** — the same material as a *score*: encounters=performances, concepts=motifs, traditions=lineages, the book=one performance (G · LVII 9383)
+
+## Lens 18 · The Diagnosis — *"what is the book answering, and why now?"*
+
+The outward-facing motive: the civilizational condition the two books respond to.
+
+- **Sufficiency** — the insufficiency engine (perceived-lack → seeking → consumption → renewed lack); "enoughness as a precondition for participation" (catalog I · XV 8157)
+- **The central tension** — informational capacity up, experiential participation down; the attention economy as world-constituting (I · 12897)
+- **The reframed question** — never "is technology good or bad?" but "what forms of participation does this ecology cultivate?" (I · 9697)
+
+## Lens 19 · What It Is Not — *"which adjacent book is this being mistaken for?"*
+
+The book located apophatically — by the shadow-versions it must refuse.
+
+- **The ten anti-patterns** — giant ontology · comparative-religion encyclopedia · generic AI-critique · productivity system · self-help manual · purely academic work · mystical manifesto · AI-written authorship · premature synthesis · complete formalization (catalog H · pt 57 12247)
+- **The two negative constraints** — Book I not a technique manual; Book II not a self-optimization program (H · 14176)
+- **The immune system that enforces it** — the Six-Month Test, the Participation Test, the "encountered, or merely sounds true?" gate (catalog H · 14568)
+
+## Deepenings to the ten (Movement I)
+
+Several catalog families deepen lenses already in Movement I rather than standing alone:
+
+- **Lens 5 (the Constellation)** gains the whole **facilitation lineage** — Gendlin, Grove, Bohm, Heron & Reason, Schwarz, Art of Hosting, Scharmer, Freire & hooks, Akomolafe, Dewey, Mezirow — with a reading order and each thinker's single optimizing question (catalog J · 1615–2051).
+- **Lens 7 (the System)** gains its own demotion's deepest statement — the Śaiva engine (saṅkoca/vimarśa/spanda) as *operators*, and "the ontology is notation, not the music" (catalog J · G).
+- **Lens 8 (the Making)** gains the crossing, the Two Roots (delegable vs. lived), the Three Layers (Life→Corpus→Book), the Authorial Gate, and the immune system (catalog H).
+- **Lens 9 (the Still Center)** gains the True Units, the Bubble, the Fertile Triangle, and "participatory stewardship" as a candidate rename of the center (catalog C).
+- **Lens 2 (the Two Books)** gains the Mirror grid, the Four Great Movements, and the Two Dramaturgies (catalog D).
+
+---
+
+*Pass two adds Movement II. It is deliberately compact — each new lens names its structures and points into `the-conversation-catalog.md` (full content) and the transcript (line numbers), rather than reproducing them. The catalog is the reference; this is the set of doorways. The polyphony is now twenty-odd lenses across two movements; a later pass can promote a deepening into its own lens, split a crowded one, or thin the set if it stops being navigable. Authored by hand from the catalog and the transcript; not auto-generated, because there is no single correct generation of it.*
