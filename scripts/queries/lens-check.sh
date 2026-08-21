@@ -47,13 +47,24 @@ MODE="report"
 # --- census: derive counts from the file itself, never store them (so they cannot drift) ---
 census() {
   local f="$1"
+  local body entries edges attested
+  # Strip fenced ``` code blocks first, exactly as scaffold-check.sh does before its
+  # marker walk, so an illustrative marker or [[example]] inside a fence is not counted.
+  # (Without this the census and the FRESH/EXPIRED walk could disagree — a real bug.)
+  body=$(python3 - "$f" <<'PY'
+import sys, re
+try:
+    print(re.sub(r"```.*?```", "", open(sys.argv[1], encoding="utf-8").read(), flags=re.S))
+except Exception:
+    pass
+PY
+)
   # register entries = cache markers whose id does NOT end in -src (the -src marker is the
   # family-level "derived from these primary sources" receipt, not a register entry).
-  local entries edges attested
-  entries=$(grep -oE '<!--\s*cache\s+id=[^ ]+' "$f" 2>/dev/null | grep -vE 'id=[^ ]*-src' | wc -l | tr -d ' ')
-  edges=$(grep -ciE '(^|[^a-z])open edge' "$f" 2>/dev/null | tr -d ' ')
+  entries=$(printf '%s' "$body" | grep -oE '<!--\s*cache\s+id=[^ ]+' | grep -vE 'id=[^ ]*-src' | wc -l | tr -d ' ')
+  edges=$(printf '%s' "$body" | grep -ciE '(^|[^a-z])open edge' | tr -d ' ')
   # attested notes = distinct wikilink targets the family has pulled in from the graph.
-  attested=$(grep -oE '\[\[[^]]+\]\]' "$f" 2>/dev/null | sort -u | wc -l | tr -d ' ')
+  attested=$(printf '%s' "$body" | grep -oE '\[\[[^]]+\]\]' | sort -u | wc -l | tr -d ' ')
   printf '%s|%s|%s' "$entries" "$attested" "$edges"
 }
 
