@@ -1,5 +1,5 @@
 ---
-description: The developmental spine of the two books — one arc from recognition through relation and participation to stewardship, turned outward toward the facilitator's disappearance and inward toward the practitioner's return — anchored by the master question the whole project resolves to. A sequence overlay above the domain maps, not a thirteenth domain map.
+description: The developmental spine over the domain maps — one arc, recognition through relation and participation to stewardship, turned outward toward the facilitator's disappearance and inward toward the practitioner's return.
 type: moc
 topics: ["[[the learning arc]]"]
 ---
