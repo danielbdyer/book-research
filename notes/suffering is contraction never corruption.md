@@ -33,6 +33,7 @@ Relevant Notes:
 - [[structure-preserving transformation is a method-bearing claim rather than a directional one]] — how a fold opens, stated as a procedure rather than as a direction
 - [[the gatekeeper has a lived referent in the author's own protective structure]] — the doctrine's ethic traced to the protective structure the author knows from the inside
 - [[suffering is contraction that has forgotten it is a locus and a tradition is contraction that remembers]] — the reframe conversation's generalization of this doctrine (2026-08-13), held as the book's re-valuation of saṅkoca — contraction as a productive locus — rather than a convergence with Trika's predominant bondage reading
+- [[the learning arc]] — a shared foundation beneath the arc: the diagnosis both books' practice movements work with, the fold met with a bow rather than a fight
 
 Topics:
 - [[contraction-not-corruption]]
