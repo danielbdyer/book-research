@@ -172,6 +172,21 @@ if [ "$LINK_DEFECTS" -ge 1 ]; then
   echo "CONDITION: $LINK_DEFECTS wiki-link integrity defect(s) — unresolved or ambiguous. Run scripts/queries/link-check.sh and fix on sight."
   FIRED=1
 fi
+# Cache-section staleness (the event-based half of the alignment check, author
+# decision 2026-08-21; CI is the other half). The family files (the-*.md, indexed
+# by the-lenses.md) and ops/scaffold.md carry inline content-hash markers; when a
+# cited source changes, the section resting on it goes stale and needs re-reading.
+# Each --stale call lists only the expired sections (empty when all hold), so this
+# fires exactly when a re-derivation is actually owed.
+LENS_STALE=$(scripts/queries/lens-check.sh --stale 2>/dev/null | grep -cE '^[^#].*: ')
+SCAF_STALE=$(scripts/queries/scaffold-check.sh --stale 2>/dev/null | grep -c '[A-Za-z0-9]')
+case "$LENS_STALE" in *[!0-9]*) LENS_STALE=0;; esac
+case "$SCAF_STALE" in *[!0-9]*) SCAF_STALE=0;; esac
+CACHE_STALE=$((LENS_STALE + SCAF_STALE))
+if [ "$CACHE_STALE" -ge 1 ]; then
+  echo "CONDITION: $CACHE_STALE cache-section(s) stale — a source moved under a family file (the-*.md) or ops/scaffold.md. Run /lens and /scaffold (or scripts/queries/lens-check.sh and scaffold-check.sh) and re-derive the expired sections."
+  FIRED=1
+fi
 # The committed outline roll-up (ops/outline.md) was retired 2026-08-09 with the
 # other standing self-measurement instruments, so there is no outline-staleness
 # condition. A session that wants the census on demand runs
