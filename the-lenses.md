@@ -171,6 +171,7 @@ The meta-lens: a lens *is* a locus — a bounded standpoint that discloses some 
 - **The reframe that founds it** — "locus of control" → "locus of inquiry": not *who controls this?* but *what does standing here make possible?* (A · 4117–4149)
 - **The one law** — no locus becomes sovereign; the moment a frame says "now I see how they all fit," it has become the thing it warned against (A · 2573; §4 still center)
 - **Its Śaiva root** — a locus is a *saṅkoca* (contraction); reflexive awareness of it is *vimarśa* — so the book's method and its metaphysics are one movement (catalog J · 2986, 3236)
+- **Deepened** → `the-loci.md`: the full register of thirteen standpoints, each with what it discloses and hides, its attested members, and its open edge — on the checkable cache substrate (`scripts/queries/lens-check.sh`)
 
 ## Lens 12 · The Registers — *"which interpretation, and what does it make visible?"*
 
