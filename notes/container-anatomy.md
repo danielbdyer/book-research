@@ -73,6 +73,16 @@ The transmission digs of 2026-08-13 (the record is the 2026-08-13 entry in `ops/
 
 - [[donald winnicott]] — the holding environment read as a container named from what it must not do: the reliable, non-impinging other whose presence lets a person be alone is the Floor's continuity and the Wall's non-intrusion carried by one relationship, and impingement (the Wall turned intrusive) yields a false self, which is why a book read alone must approximate that other to be readable at all.
 
+## The edge that frees the center and the room made by subtraction
+
+The affirmative-way crossover brainstorm of 2026-08-21 stated the container doctrine in its positive form: what the Wall's fixed edge is for, and how the open center is made and received. The notes are nascent, their thinker-attributions (Winnicott's held space, Heidegger's clearing) recorded from memory and unverified, and held as company rather than corroboration; their primary grounding is still owed.
+
+- [[a reliably fixed boundary at the edge is the condition that frees movement at the center]] — the Wall's function stated as the paradox the anatomy runs on, freedom coming not from removing limits but from fixing the perimeter, so a boundary that holds and does not move is what lets everything inside it move
+- [[a sealed edge lets intensity concentrate to the point of transformation rather than dissipate]] — the Wall read for what its sealing is for, intensity dispersing in open space and concentrating when contained, so only a concentrated intensity reaches the threshold where it turns into something else, which is why to contain is to let an experience finish
+- [[a room where the hidden can appear is made by taking away rather than by adding]] — the open center reached by subtraction, the room appearing in the removal of standing clutter, so the reader's first act inside the anatomy is to clear rather than to build
+- [[the clearing is prior to and receptive of what appears in it so preparing the room is enough]] — the open center specified as prior and receptive, the clearing letting the light in rather than making it, so the work is to prepare and wait rather than to force the hidden to show, which is Heidegger's Lichtung at the scale of the anatomy's middle
+- [[in the held space finding a thing and making it are one act]] — Winnicott's rule for the held container, "did you find it or make it?" never asked because inside the space the question has no purchase, which is the exact grammar of recognition the open center is built to host
+
 ## What remains
 
 Nothing about the upper layers remains for this map, and that is a decision rather than a backlog. The individual primitives, their three make-and-unmake pairs, the closure test, the engine's three loops and the four-axis movement grid were all standing extraction tasks until 2026-08-09, when the author demoted the upper layers fully and directed that the material be preserved in a few robust notes rather than reified in an apparatus, in his words because "there's still validity in the ideas here but we do not reify them as so deserving of an apparatus going forward." Those extraction entries are closed and no new note takes a scheme as its subject; the rule and its two destinations are in `ops/methodology/center of gravity.md`.
