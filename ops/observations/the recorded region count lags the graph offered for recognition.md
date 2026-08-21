@@ -2,7 +2,8 @@
 description: "Every recorded surface still offers the five regions of 2026-08-05 for the author's recognition while clusters.sh now prints eight; no condition re-runs the census after a bulk intake."
 date: 2026-08-15
 severity: friction
-status: open
+status: resolved
+resolved_by: "the offering this observation measured as stale was refreshed twice after it was written — the epistemic audit of 2026-08-16 deleted 163 nodes, and the second-pass audit of 2026-08-20 recomputed the centers and named seven communities of gravity on the pruned 421-note graph (`ops/completed.md`, 2026-08-20; `ops/goals.md` thread 5 already carries the superseded language). Verified at /rethink 2026-08-21. The general tail — whether a standing refresh trigger should exist — folds into the growth-trigger crux the rethink-log records for the author, and is not itself a live lag."
 ---
 
 # the recorded region count lags the graph offered for recognition
