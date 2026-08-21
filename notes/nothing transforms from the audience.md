@@ -27,6 +27,7 @@ Relevant Notes:
 - [[the book must respect that it cannot verify the reader has done the work]] — the author's restatement in the 2026-08-13 reframe conversation: the book cannot verify the reader did the work, and that unverifiability is exactly what the law here obliges it to respect
 - [[taking up the activity is the reader-facilitator's own responsibility and the precondition of their outcomes]] — the reader-side seed that grows from this law, placing the taking-up of the activity with the reader-facilitator as their own responsibility and the precondition of outcomes the book was never positioned to produce
 - [[the householder axiom depends on the participation law being satisfiable within ordinary life]] — where this law meets the householder axiom: for ordinary life to be the full site it must itself supply the container and witness this law requires
+- [[the master question is the conditions under which a person remains the author of what they become while being genuinely changed]] — the reader's side of the master question: whatever transforms, the reader authored, so influence never becomes authorship over them
 
 Topics:
 - [[relational-field]]
