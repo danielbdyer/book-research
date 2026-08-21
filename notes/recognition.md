@@ -161,6 +161,7 @@ The conversation separates the kind of knowing that can be handed over from the 
 
 - [[information → knowledge → understanding → recognition → wisdom is a ladder whose arrows are not automatic]] — recognition placed on a ladder whose rungs do not climb themselves, so understanding can accumulate without ever becoming recognition.
 - [[knowing about is not knowing through — information can be transmitted, realization cannot]] — the sharpest form of the doctrine: a text can transmit an account but not the realizing, which is why reading-is-remembering leaves the recognizing to the reader.
+- [[recognition is participatory, a move the reader makes rather than a content the reader receives]] — the affirmative twin of the transmission limit: since realization cannot be transmitted, recognition is an event the reader enacts, so the book arranges the conditions and the language while the recognizing stays the reader's own act.
 - [[information about an experience is not participation in the experience]] — the same limit at the source, which is why even a complete research corpus cannot stand in for the authorial recognition the writing requires.
 - [[the fundamental unit of authorship is recognition, not the sentence]] — recognition placed at the root of authorship: a person becomes an author because something was recognized through their participation, and the sentence is downstream of that.
 
