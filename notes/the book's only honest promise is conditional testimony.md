@@ -1,5 +1,5 @@
 ---
-description: "Because recognition is cultivated not caused and the book cannot verify the reader's work, a promised transformation asserts the causation and verification the book renounces, leaving conditional testimony as its only honest promise."
+description: "Because recognition is cultivated not caused and the book cannot verify the reader's work, promising transformation would assert the causation and verification the book renounces; conditional testimony is its only honest promise."
 category: structure
 sources: ["first-principles derivation, 2026-08-20 (from the reframe conversation, 2026-08-13: recognition cultivated not caused at 311; the book cannot verify the reader at 266; the facilitator's honest claim \"I helped create a field in which something became possible\" at 16028)"]
 topics: ["[[answerability]]"]
