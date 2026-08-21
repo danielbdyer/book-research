@@ -141,7 +141,7 @@ Three draft documents, two structurally different schemes, neither settled.
 
 **Relative order and standing** (all three "draft" standing — quoted for what they say, never credited for what they argue): `mythic-os` earliest → `arc-gloss` 2nd ed. (upstream of the atlas + walked, so agreement among those three counts once, `the atlas was compiled from the arc and gloss treatment`) → `abridged` latest. One open arithmetic: the treatment's numbered units total seventeen (prologue + 15 + epilogue), and the corpus cites "the seventeen trial chapters," but the colophons list the treatment and the trial chapters as *separate* threads, so the vault does not equate them — the open arithmetic behind `seventeen chapters rest at madhyama`. Author decision 2026-08-16 dissolves the two-arrangement choice: the fifteen-unit arc becomes Book II's dramaturgy; the reframe's four movements become Book I; the twenty-eight-unit concentric contents is retained as genealogy and a way-in, no longer a rival spine.
 
-## §7 · R2 — the psychedelic arc, phase by phase
+## §7 · The psychedelic arc, phase by phase
 <!--cache id=R2ARC crc=36eba038 src=notes/the peak is the one unit the performing law can honor only by withdrawing.md|notes/the earlier contents distribute transcendence where the arc concentrates a peak.md|ops/chapter concordance.md derived=2026-08-21-->
 
 The six phases run over the five-part traverse; the verbatim attestation and the peak's collision are in §1 and §3. What this reading adds is the phase-by-phase substance — material, the reader's motion, the named room, the dramaturgical role — and the intensity profile.
