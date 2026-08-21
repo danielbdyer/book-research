@@ -263,7 +263,7 @@ The six concerns by weight:
 
 ---
 
-# PART III — THE JOINTS, THE CAUTIONS, THE EVIDENCE
+# Part three · what's open, and what to watch
 
 ## §14 · The open joints — where the readings part
 <!--cache id=JOINTS crc=c7ec5d63 src=ops/decisions.md|notes/book-structure.md|notes/the learning arc.md derived=2026-08-21-->
