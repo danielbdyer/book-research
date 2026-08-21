@@ -1,5 +1,5 @@
 ---
-description: "The book's good news is that deep change and self-authorship are not opposed: a person can be transformed through relationship and remain the author of what they become, so influence need not be surrendered to nor autonomy defended into isolation."
+description: "The book's good news is that deep change and self-authorship are not opposed: a person can be transformed through relationship and remain the author of what they become."
 category: claim
 sources: ["reframe conversation, 2026-08-13 (the deepest question, whether one can be deeply influenced without becoming dispossessed of oneself, at 6289; sovereignty as recognizing, choosing, and responding without collapsing into another's script, at 837)"]
 topics: ["[[relational-field]]"]
