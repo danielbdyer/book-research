@@ -44,6 +44,7 @@ Relevant Notes:
 - [[a framework that teaches its own exit relates to authority differently than one seeking permanence]] — the same maximum at the scale of the framework, from the same conversation: a framework that can teach a reader to leave it relates to authority differently than one asking to become a permanent operating system
 - [[both poles of the convergence refuse the engineered epiphany]] — the foundations' signature under this claim's first half, that the apparatus cannot cause the change
 - [[the kashmir shaiva tradition would decline four of the book's deepest moves]] — the far pole's dispute with this claim's second half: grace, not the reader's participation, is the last word
+- [[the master question is the conditions under which a person remains the author of what they become while being genuinely changed]] — this maximum stated as the whole project's organizing question; the auxiliary relation is the master question at the scale of one reading relation
 
 Topics:
 - [[relational-field]]
