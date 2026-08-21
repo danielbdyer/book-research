@@ -44,6 +44,7 @@ Relevant Notes:
 - [[the convergence's independence fails where three of its names share one teacher]] — the second failure of independence, about shared descent rather than about the book's dating
 - [[the always-there hides by being always there and wittgenstein said so without heidegger]] — the arrival that owes nothing to either pole, and the first from analytic philosophy
 - [[state and station were distinguished a millennium before the lattice named them]] — the same recognition doctrine met by a tradition that also insists an arrival is not a station
+- [[the learning arc]] — the developmental spine this convergence founds: recognition as un-forgetting is the event the whole arc of both books cultivates
 
 Topics:
 - [[recognition]]
