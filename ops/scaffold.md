@@ -124,7 +124,7 @@ The evidence splits by book accordingly [R3, R4]: the **convergence of thinkers 
 
 Each reading's distinctive depth — what only that reading surfaced. Material already stated at full depth in Part I is cross-referenced up, not repeated; everything a reading added beyond the shared structure is kept here.
 
-## §6 · R1 — the draft chapter schemes, in full
+## §6 · The draft chapter schemes
 <!--cache id=R1DRAFTS crc=01e0da62 src=ops/chapter concordance.md|notes/the executed draft carries the arc's sequence without the treatment's five rooms.md|notes/four named units of the arc appear as pages inside the earliest edition's single chapter.md|notes/seventeen chapters rest at madhyama.md derived=2026-08-21-->
 
 Three draft documents, two structurally different schemes, neither settled.
