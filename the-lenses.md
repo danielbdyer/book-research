@@ -257,3 +257,11 @@ Several catalog families deepen lenses already in Movement I rather than standin
 ---
 
 *Pass two adds Movement II. It is deliberately compact — each new lens names its structures and points into `the-conversation-catalog.md` (full content) and the transcript (line numbers), rather than reproducing them. The catalog is the reference; this is the set of doorways. The polyphony is now twenty-odd lenses across two movements; a later pass can promote a deepening into its own lens, split a crowded one, or thin the set if it stops being navigable. Authored by hand from the catalog and the transcript; not auto-generated, because there is no single correct generation of it.*
+
+---
+
+## Coverage — the pivot's running number
+
+Four lenses are deepened into family files on the checkable cache substrate (`the-loci.md`, `the-axioms.md`, `the-paradoxes.md`, `the-constellation.md`); the rest await deepening. The substrate pivot's invariant is that every claim in the graph is eventually referenced by some family. `scripts/queries/lens-check.sh --coverage` reports the count; `--uncovered` prints the worklist. The baseline below is the last-synced uncovered count — a session or CI run that finds the current count *above* it flags that new research has landed in no family yet. Advance it only after a coverage pass folds new notes into families.
+
+<!-- coverage-baseline uncovered=344 derived=2026-08-21 -->
