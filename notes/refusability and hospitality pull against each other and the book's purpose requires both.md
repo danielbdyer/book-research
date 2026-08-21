@@ -30,4 +30,3 @@ Relevant Notes:
 
 Topics:
 - [[tensions]]
-- [[book-structure]]
