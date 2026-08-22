@@ -242,6 +242,7 @@ for f in families:
     print(f"{f}|{nasc}")
 PY
 )
+fi
 
 if [ "$MODE" = "census" ]; then
   printf '%-22s %8s %10s %9s %11s\n' "family" "entries" "attested" "nascent" "open-edges"
