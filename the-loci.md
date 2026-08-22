@@ -56,7 +56,7 @@ The standpoints the book actually sees from. The well-populated ones first, then
 
 ### 5 · The systemic locus — *"what conditions make this participation more or less possible?"*
 - **Discloses / hides:** incentives, the architecture of attention, institutions, the ecology of conditions · hides felt experience and the person.
-- **Attested:** Meadows, Bateson; the attention-economy critique; systems thinking. *(5374–5408; XIV 8133)*
+- **Attested:** `[[gregory bateson]]`; Meadows is named but unseated (a candidate read — no note yet); the attention-economy critique; systems thinking. *(5374–5408; XIV 8133)*
 - **Open edge:** the civilizational-condition theorists — Illich, Borgmann (the "device paradigm"), the platform/algorithm critics — who name how "technology participates in constructing the conditions under which we participate."
 - **Enters:** the "why now" diagnosis; the container anatomy.
 
