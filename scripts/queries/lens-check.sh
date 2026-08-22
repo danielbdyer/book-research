@@ -213,12 +213,40 @@ PY
   printf '%s|%s|%s' "$entries" "$attested" "$edges"
 }
 
+# Per-family NASCENT count (state-aware), computed once so both the census table and the
+# report line can show how much of what a family attests is still an ungrounded seed —
+# the reification column beside the reachability count. Keyed by family filename.
+declare -A NASC
+while IFS='|' read -r _fam _n; do NASC["$_fam"]=$_n; done < <(python3 - "${FAMILIES[@]}" <<'PY'
+import sys, os, re, glob
+families = sys.argv[1:]
+state = {}
+for n in glob.glob("notes/*.md"):
+    title = os.path.basename(n)[:-3]
+    try:
+        head = open(n, encoding="utf-8").read(2000)
+    except Exception:
+        head = ""
+    if re.search(r'^type:\s*moc', head, re.M):
+        continue
+    m = re.search(r'^state:\s*(\S+)', head, re.M)
+    state[title] = m.group(1) if m else None
+for f in families:
+    if not os.path.exists(f):
+        print(f"{f}|0"); continue
+    txt = re.sub(r"```.*?```", "", open(f, encoding="utf-8").read(), flags=re.S)
+    links = {m.strip() for m in re.findall(r"\[\[([^\]]+)\]\]", txt)}
+    nasc = sum(1 for l in links if state.get(l) == 'nascent')
+    print(f"{f}|{nasc}")
+PY
+)
+
 if [ "$MODE" = "census" ]; then
-  printf '%-22s %8s %10s %11s\n' "family" "entries" "attested" "open-edges"
+  printf '%-22s %8s %10s %9s %11s\n' "family" "entries" "attested" "nascent" "open-edges"
   for f in "${FAMILIES[@]}"; do
     [ -f "$f" ] || continue
     IFS='|' read -r e a g <<< "$(census "$f")"
-    printf '%-22s %8s %10s %11s\n' "$f" "$e" "$a" "$g"
+    printf '%-22s %8s %10s %9s %11s\n' "$f" "$e" "$a" "${NASC[$f]:-0}" "$g"
   done
   exit 0
 fi
