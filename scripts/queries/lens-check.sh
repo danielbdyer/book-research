@@ -41,6 +41,7 @@ FAMILIES=(
   "the-paradoxes.md"
   "the-constellation.md"
   "the-two-books.md"
+  "the-arc.md"
 )
 
 MODE="report"
