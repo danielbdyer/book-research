@@ -69,6 +69,7 @@ The doctrinal entry: six masses draining to one center (weights are inbound-clai
 - **contraction-not-corruption** (45) — suffering as folding, not breakage; half scaffolding (§13)
 - **container-anatomy** (28) — the three structures + the open center (the Clearing) (§13, §11)
 - *the shape:* a triangle (recognition–relational-field–answerability), felt-shift its verification edge, contraction+container a peripheral lobe (§13)
+- **Deepened** → `the-concerns.md`: the six doctrine concerns at full depth, each lifting its hand-curated topic map into one member-schema entry — the finding, its honest flank, its load-bearing claims grouped by sub-theme, and where it enters the book — on the checkable cache substrate; the coverage pivot's deepest single harvest (−246 uncovered notes, 394 attested), keeping each concern's flank at the reveals level and pointing to the Constellation for the arrival-by-arrival independence test
 
 ## Lens 5 · The Constellation — *"who noticed this too, and what do they carry?"*
 
