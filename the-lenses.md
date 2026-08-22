@@ -27,6 +27,7 @@ The experiential entry: the book as one traverse the reader lives through, not a
 - **Descent** — the Afterglow; the loops re-couple, the window opens (§7)
 - **Return** — integration; the practitioner returns — the thinnest-built position (§14 · J2)
 - *The arc read four ways at once* (§1): the Courtyard (recognition pedagogy), the Descent of the Word (answerability), the Breath (prosody), the Guild (container doctrine)
+- **Deepened** → `the-arc.md`: the book read as a made object walked in order — the journey's governing laws, the four overlays, the image system, the honesty apparatus, the three drafts, and the making — authored from the graph's second-largest uncovered region on the checkable cache substrate; the coverage pivot's third graph-authored harvest (−72 uncovered notes), holding the two forks the drafts leave open (the peak as event vs theme, the walkable house vs the centerless field) as the author's
 
 ## Lens 2 · The Two Books — *"whose participation is being facilitated?"*
 
