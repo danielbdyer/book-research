@@ -266,7 +266,7 @@ Several catalog families deepen lenses already in Movement I rather than standin
 
 ## Coverage — the pivot's running number
 
-Five lenses are deepened into family files on the checkable cache substrate (`the-loci.md`, `the-axioms.md`, `the-paradoxes.md`, `the-constellation.md`, `the-two-books.md`); the rest await deepening. The substrate pivot's invariant is that every claim in the graph is eventually referenced by some family. `scripts/queries/lens-check.sh --coverage` reports the count; `--uncovered` prints the worklist. The baseline below is the last-synced uncovered count — a session or CI run that finds the current count *above* it flags that new research has landed in no family yet. Advance it only after a coverage pass folds new notes into families.
+Eight lenses are deepened into family files on the checkable cache substrate (`the-loci.md`, `the-axioms.md`, `the-paradoxes.md`, `the-constellation.md`, `the-two-books.md`, `the-arc.md`, `the-concerns.md`, `the-making.md`). The substrate pivot's invariant — that every claim in the graph is referenced by some family — is now met in full: coverage reached 0 uncovered on 2026-08-22, the four content families (the Two Books, the Arc, the Concerns, the Making) joining the Constellation to attest the whole graph. `scripts/queries/lens-check.sh --coverage` reports the count; `--uncovered` prints the worklist. The baseline below is the last-synced uncovered count — a session or CI run that finds the current count *above* it flags that new research has landed in no family yet. Advance it only after a coverage pass folds new notes into families.
 
 <!-- coverage-baseline uncovered=275 derived=2026-08-22 -->
 
