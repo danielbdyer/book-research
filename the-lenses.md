@@ -115,6 +115,7 @@ The genealogical entry: the record runs deeper than the corpus, and settles the 
 - **The welding** — July 2026: figures + system compiled into the corpus in a single month (§6)
 - **The reframe** — August 2026: the conversation that reoriented everything (§10)
 - *the finding:* a man noticed some things, and then found out other people had noticed them too — smaller and stronger than the system
+- **Deepened** → `the-making.md`: the book read by the integrity of its production — the honest origin, the nine house rules, the company-sort that keeps convergence company rather than proof, the direction life→corpus→book, and the framework held backstage — on the checkable cache substrate; the family that closed the coverage pivot (the last region no other lens reached), its honesty rules held as the making's integrity rather than as a debunking of the research
 
 ## Lens 9 · The Still Center — *"what does all of it serve?"*
 
