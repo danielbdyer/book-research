@@ -272,7 +272,7 @@ for f in "${FAMILIES[@]}"; do
   echo "$out"
   echo "$out" | grep -q '^EXPIRED' && any_expired=1
   IFS='|' read -r e a g <<< "$(census "$f")"
-  echo "  census: $e register entries · $a attested notes (exact) · $g open-edge mentions (proxy for the frontier that feeds the reading queue)"
+  echo "  census: $e register entries · $a attested notes (${NASC[$f]:-0} still nascent) · $g open-edge mentions (proxy for the frontier that feeds the reading queue)"
   echo ""
 done
 
