@@ -64,7 +64,7 @@ The finding: read a suffering-state as a compound *missing an ingredient* (an ab
 
 ### Why the peak does not hold — the shifted promise
 The finding: a state received by an unchanged structure changes nothing, so the work is the ordinary life *afterward*, not the visit.
-- **Reveals / leaves open:** the book's whole relocation of value from the peak to what is built after it, documented across lineages and measured · leaves open the mechanism — *why* a structure fails to hold a state — which the lattice names but does not explain.
+- **Reveals / leaves open:** the book's relocation of value from the peak to what is built after it, *proposed* across lineages — but the key arrivals are unread (Maslow's plateau most of all, Tier 4 entry 13), so whether these are one finding or a family resemblance is the group's own open question, not a settled or "measured" convergence · and it leaves open the mechanism — *why* a structure fails to hold a state — which the lattice names but does not explain.
 - **Attested:** arrivers `[[jack kornfield]]` (after the ecstasy, the laundry), `[[william james]]` (transiency — fades, recurs, builds), `[[abraham maslow]]` (the plateau over the peak, his own late correction), `[[daniel ingram]]` (the stranded aftermath, a named sequence), `[[ken wilber]]` (the state-structure lattice), `[[the experiential learning cycle]]` (Dewey and Kolb: experience alone does not teach).
 - **Open edge:** this group is thinker-attested but has almost no *convergence-note* of its own yet — the finding is carried by the interlocutors and not yet minted as an isomorph, which is the clearest single reading-and-reduce task the constellation surfaces.
 - **Enters:** the descent and integration phases; the peak as opening rather than arrival.
