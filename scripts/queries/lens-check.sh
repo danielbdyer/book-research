@@ -43,6 +43,7 @@ FAMILIES=(
   "the-two-books.md"
   "the-arc.md"
   "the-concerns.md"
+  "the-making.md"
 )
 
 MODE="report"
