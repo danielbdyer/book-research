@@ -63,7 +63,7 @@ The standpoints the book actually sees from. The well-populated ones first, then
 ### 6 · The contemplative locus — *"what happens when attention becomes intimate with experience?"*
 - **Discloses / hides:** presence, receptivity, the disciplines of attention · hides conceptual articulation and the social.
 - **Attested:** the contemplative traditions — held (a key sort from the transcript) as *evidence-territories*, not method-forebears; Zen dokusan; meditation. *(1837–1860)*
-- **Open edge:** the specific practice-lineages not yet seated as members (Ingram's pragmatic dharma, Kornfield); and the craft of *designed silence* — "where the author deliberately relinquishes control" — as a contemplative move in the prose itself.
+- **Open edge:** `[[daniel ingram]]` and `[[jack kornfield]]` sit in the graph as interlocutors but are not yet related *into* this locus (a connection to make, not a reading to do); and the craft of *designed silence* — "where the author deliberately relinquishes control" — as a contemplative move in the prose itself is unwritten.
 - **Enters:** the practice curriculum (Book II); the peak's withdrawal.
 
 ### 7 · The facilitative locus — *"what can I do without determining what another discovers?"*
