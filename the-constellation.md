@@ -82,7 +82,7 @@ The finding: meaning is completed in the reader's *reply*, and a wordless bodily
 
 Two sets are kept *apart* from the live convergences, because filing them as arrivals would overstate the company.
 
-**The precedent bench** — chairs that are case history rather than convergence: comparable syntheses and what became of them (`[[ken wilber]]`, `[[douglas hofstadter]]`, `[[gurdjieff and ouspensky]]`), and uncredited ancestry the apparatus descends from (`[[carl rogers]]`, `[[set and setting]]`, `[[the experiential learning cycle]]`). The descent map is `[[the apparatus descends from the settlement the book positions itself against]]`.
+**The precedent bench** — chairs that are case history rather than convergence, on the thesis that `[[the nearest prior attempts are case histories rather than interlocutors]]`: comparable syntheses and what became of them (`[[ken wilber]]`, `[[douglas hofstadter]]`, `[[gurdjieff and ouspensky]]`), and uncredited ancestry the apparatus descends from (`[[carl rogers]]`, `[[set and setting]]`, `[[the experiential learning cycle]]`). The descent map is `[[the apparatus descends from the settlement the book positions itself against]]`.
 
 **The adversaries** — the kept counter-positions the book must survive sentence by sentence: `[[anna wierzbicka]]` (the alphabet's closure standard), `[[tony robbins]]` (the voluntarist pole at full strength), `[[theodor adorno]]` (the jargon-of-authenticity charge on the book's own register), `[[steven wasserstrom]]` (co-optation of a tradition), `[[gregory bateson]]` (conscious purpose as pathology), `[[john vervaeke]]` (the wisdom / red-team test, its fork kept open).
 
