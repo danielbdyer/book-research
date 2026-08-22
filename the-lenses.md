@@ -45,6 +45,7 @@ The locus entry: one gesture turned two ways.
   - Stewardship — the return (the thinnest cell in the graph, §14 · J2)
   - *its evidence:* the lived practice / the felt shift (→ Lens 4)
 - *settled 2026-08-16:* two books, by locus, Book I first (§5)
+- **Deepened** → `the-two-books.md`: the installed architecture authored from the graph's largest region — the locus-of-practice discriminator, the Four Great Movements diverging at the object of the fourth, the authority burden sorting the two centerpieces, the ten-row Mirror grid held as a relation, and the four joints left to the author — on the checkable cache substrate; the coverage pivot's second harvest (−51 uncovered notes), and the family that names Book II's thinness rather than papering it
 
 ## Lens 3 · The Movements — *"what grows, station by station?"*
 
