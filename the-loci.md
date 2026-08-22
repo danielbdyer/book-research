@@ -69,7 +69,7 @@ The standpoints the book actually sees from. The well-populated ones first, then
 ### 7 · The facilitative locus — *"what can I do without determining what another discovers?"*
 - **Discloses / hides:** the levers a facilitator can touch — attention, pacing, constraint, question, safety — without owning the conclusion · hides the content of what's recognized and the metaphysics.
 - **Attested:** Grove (Clean Language), Schwarz (Mutual Learning), Art of Hosting, Rogers, Winnicott, and the author's own AR / Circling craft. *(1689–1771; 3586–3634)*
-- **Open edge:** in the vault this seat is *currently unpopulated* — the function is scattered across reference-lineage and coaches with no clean seated set; and its ancestors (Spolin, Moreno's psychodrama) are named-but-unseated. This is the widest open edge in the register relative to the locus's importance.
+- **Open edge:** in the vault this seat is *currently unpopulated* — the function is scattered across reference-lineage and coaches with no clean seated set; and Moreno's psychodrama is named-but-unseated beside the seated `[[viola spolin]]`. This is the widest open edge in the register relative to the locus's importance.
 - **Enters:** Book I entire; the facilitator-disappears arc.
 
 ### 8 · The four-quadrant grid — *a locus that generates loci*
