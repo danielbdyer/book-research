@@ -40,6 +40,7 @@ FAMILIES=(
   "the-axioms.md"
   "the-paradoxes.md"
   "the-constellation.md"
+  "the-two-books.md"
 )
 
 MODE="report"
