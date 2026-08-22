@@ -51,6 +51,7 @@ MODE="report"
 [ "$1" = "--census" ] && MODE="census"
 [ "$1" = "--coverage" ] && MODE="coverage"
 [ "$1" = "--uncovered" ] && MODE="uncovered"
+[ "$1" = "--grounding" ] && MODE="grounding"
 
 # --- coverage: which notes in the graph is NO family referencing yet? ---
 # The substrate pivot's instrument. A note is "covered" when at least one family
