@@ -50,7 +50,7 @@ The standpoints the book actually sees from. The well-populated ones first, then
 
 ### 4 · The dialogical locus — *"what becomes possible between us that neither could produce alone?"*
 - **Discloses / hides:** relational emergence; the third entity; meaning arising *between* · hides the individual interior and the solitary reader.
-- **Attested:** Buber, Bohm, Heron & Reason, de Jaegher & di Paolo, Authentic Relating / Circling. *(1615–1791; root D)*
+- **Attested:** `[[martin buber]]`, `[[de jaegher and di paolo]]`; Bohm and Heron & Reason are named but unseated (candidate reads — no note yet); Authentic Relating / Circling. *(1615–1791; root D)*
 - **Open edge:** the group scale (Scharmer's collective presencing, Turner's communitas) sits above the dyad unseated; and the *machine-relational* — human↔AI as a genuine dialogical locus, not merely a tool — is named but not developed.
 - **Enters:** the relational field (Book I's home); "nothing transforms from the audience."
 
