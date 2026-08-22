@@ -80,5 +80,5 @@ Four questions this family surfaces and does *not* answer, because they change w
 - **The disciplines held while building it:** the settled decisions (locus cut, Book I first, the mirror) are marked settled; the candidates (the two dramaturgies, the cell content) are marked candidate; the joints are left to the author; and the convergence-is-company rule keeps the mirror's ten rows a *relation*, not a raw agreement-count re-inflated into proof.
 
 ---
-<!-- baseline notes=497 decisions=119 derived=2026-08-21 -->
+<!-- baseline notes=506 decisions=119 derived=2026-08-21 -->
 <!--cache id=TB-src crc=00dd2470 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md|notes/book-structure.md derived=2026-08-21-->
