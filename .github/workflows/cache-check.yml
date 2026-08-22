@@ -63,3 +63,17 @@ jobs:
           if echo "$out" | grep -q 'REGRESSED'; then
             echo "::warning::family coverage regressed — new notes are referenced by no family. Run /lens --uncovered to route them (not a failure; coverage is a drive-toward)."
           fi
+
+      - name: Report grounding meter (informational — does not fail the run)
+        run: |
+          # Grounding measures reification, not reachability: how much of what the families
+          # attest is still nascent (a seed with its primary reading owed). Like coverage it
+          # is a drive-toward, not a gate — a harvest legitimately mints seeds — so a rise
+          # above the grounding-baseline is surfaced as a ::warning:: but never blocks. Only a
+          # completed reading (nascent -> full) lowers it. The session hook surfaces the same
+          # signal locally; the leverage-ordered backlog is at the head of ops/reading queue.md.
+          out=$(bash scripts/queries/lens-check.sh --grounding 2>/dev/null || true)
+          echo "$out"
+          if echo "$out" | grep -q 'RISEN'; then
+            echo "::warning::grounding meter rose — nascent notes were minted faster than they were grounded. Ground the highest-leverage ones (grounding backlog in ops/reading queue.md) or re-baseline (not a failure; grounding is a drive-toward)."
+          fi
