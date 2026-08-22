@@ -198,6 +198,18 @@ if [ -n "$COV_REG" ]; then
   echo "CONDITION: family coverage regressed — ${COV_REG#REGRESSED: }. New notes are referenced by no family (the substrate pivot's sync gap). Run scripts/queries/lens-check.sh --uncovered (or /lens) to route them into families."
   FIRED=1
 fi
+# Grounding meter (the reification signal, added 2026-08-22). Coverage measures whether a
+# note is reached by a lens; this measures whether it is substantiated or still nascent (a
+# seed, grounding owed). A RISE above the grounding-baseline in the-lenses.md means seeds
+# were minted faster than they were grounded — the harvest outrunning its meter. Fires as a
+# prompt to ground (a completed primary reading, nascent → full) or to re-baseline
+# deliberately; unlike coverage, the nascent count never reaches zero, so this is a meter,
+# not a gate.
+GND_RISE=$(scripts/queries/lens-check.sh --grounding 2>/dev/null | grep -oE 'RISEN: nascent [0-9]+->[0-9]+ \(\+[0-9]+\)')
+if [ -n "$GND_RISE" ]; then
+  echo "CONDITION: grounding meter rose — ${GND_RISE#RISEN: }. New nascent notes were minted faster than they were grounded (the harvest outrunning its meter). Ground the highest-leverage ones via the grounding backlog at the head of ops/reading queue.md, or re-baseline in the-lenses.md to acknowledge the harvest. Full report: scripts/queries/lens-check.sh --grounding."
+  FIRED=1
+fi
 # The committed outline roll-up (ops/outline.md) was retired 2026-08-09 with the
 # other standing self-measurement instruments, so there is no outline-staleness
 # condition. A session that wants the census on demand runs
