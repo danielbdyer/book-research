@@ -215,8 +215,10 @@ PY
 
 # Per-family NASCENT count (state-aware), computed once so both the census table and the
 # report line can show how much of what a family attests is still an ungrounded seed —
-# the reification column beside the reachability count. Keyed by family filename.
+# the reification column beside the reachability count. Keyed by family filename. Skipped
+# for --stale (the hook/CI hot path), which does not print a census.
 declare -A NASC
+if [ "$MODE" = "census" ] || [ "$MODE" = "report" ]; then
 while IFS='|' read -r _fam _n; do NASC["$_fam"]=$_n; done < <(python3 - "${FAMILIES[@]}" <<'PY'
 import sys, os, re, glob
 families = sys.argv[1:]
