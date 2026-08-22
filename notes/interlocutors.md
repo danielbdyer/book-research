@@ -150,6 +150,7 @@ The mesh grid's names, evaluated 2026-08-05 from the grid alone rather than agai
 - [[eugene gendlin]] — thesis-bearing. The verification standard is his, and he has been carrying it from inside a roster of twenty-nine.
 - [[ken wilber]] — precedent, and thesis-bearing in one place. Four unrelated jobs the book has not credited, plus the only documented case history of an attempt like this one.
 - [[martin buber]] — thesis-bearing. The ontology under the relational vocabulary, currently seated at the epigraph position.
+- [[jessica benjamin]] — company. The clinical account of the between — Hegelian recognition carried into the consulting room as "thirdness" — kept the clinic to Buber's ontology, with a master–slave refusal that lands on the facilitator's asymmetry rather than after it.
 - [[christopher alexander]] — thesis-bearing on the method rather than the thesis: structure-preserving transformation as the book's edit-ethic.
 - [[michael polanyi]] — independent-arrival. Reseated from support-for-the-felt-sense to the participation law's only non-continental witness.
 - [[ludwig wittgenstein]] — independent-arrival, with the refusal that makes the correspondence honest rather than flattering.
