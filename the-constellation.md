@@ -6,7 +6,7 @@
 
 A convergence is a finding two or more parties reached without contact — and the vault records which of six relations it is (restatement, the originator's own correction, headless lineage, self-flagged debt, mis-addressed credit, half-traced genealogy; the frame is `[[the apparatus descends from the settlement the book positions itself against]]`). The five questions specialize to it: **Locus** — from which discipline was it reached (the independence test: an empirical, a systems, a social-theory, and a contemplative road count more than four continental ones); **Encounter** — who actually arrived, named from the note's own substantiation; **Recognition** — the finding, and what each party *refuses* (kept, not smoothed); **Perspective** — who else arrived that no group has named yet; **Practice** — where the convergence enters the book. The `discipline:` axis is itself the prize, because the independence test at `[[the convergence's independence fails where three of its names share one teacher]]` runs through every group below.
 
-<!--cache id=CON-concept crc=d2fe9bbd src=the-conversation-catalog.md|notes/interlocutors.md derived=2026-08-21-->
+<!--cache id=CON-concept crc=e76eb90f src=the-conversation-catalog.md|notes/interlocutors.md derived=2026-08-22-->
 
 ## The founding convergence — truth as un-forgetting
 
