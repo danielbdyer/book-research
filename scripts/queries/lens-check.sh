@@ -128,6 +128,67 @@ PY
   exit 0
 fi
 
+# --- grounding: how much of what the families attest is GROUNDED, not still nascent? ---
+# Coverage (above) measures REACHABILITY — is a note referenced by some family. This
+# measures REIFICATION — is that note substantiated, or still a seed (state: nascent, an
+# attribution often made from memory with its primary reading owed). The two are
+# independent: a family can attest a note that is entirely ungrounded, so 100% coverage
+# can sit over a graph that is largely nascent — which is exactly the blind spot coverage
+# alone hides. This is the meter the harvest is kept metered against. The number to drive
+# DOWN is the nascent count, and only a completed reading (nascent → full) moves it —
+# never a new lens. The baseline is <!-- grounding-baseline nascent=N derived=DATE --> in
+# the-lenses.md; a RISE means seeds were minted faster than they were grounded.
+if [ "$MODE" = "grounding" ]; then
+  python3 - "${FAMILIES[@]}" <<'PY'
+import sys, os, re, glob
+families = sys.argv[1:]
+state = {}
+for n in glob.glob("notes/*.md"):
+    title = os.path.basename(n)[:-3]
+    try:
+        head = open(n, encoding="utf-8").read(2000)
+    except Exception:
+        head = ""
+    if re.search(r'^type:\s*moc', head, re.M):
+        continue
+    m = re.search(r'^state:\s*(\S+)', head, re.M)
+    state[title] = m.group(1) if m else None
+nascent_all = sum(1 for t in state if state[t] == 'nascent')
+total = len(state)
+grounded = total - nascent_all
+baseline = None
+try:
+    idx = open("the-lenses.md", encoding="utf-8").read()
+    mb = re.search(r"<!--\s*grounding-baseline\s+nascent=(\d+)", idx)
+    if mb:
+        baseline = int(mb.group(1))
+except Exception:
+    pass
+print("family grounding — of the claims each family attests, how many are still nascent (a seed, grounding owed):")
+for f in families:
+    if not os.path.exists(f):
+        continue
+    txt = re.sub(r"```.*?```", "", open(f, encoding="utf-8").read(), flags=re.S)
+    links = {m.strip() for m in re.findall(r"\[\[([^\]]+)\]\]", txt)}
+    att = [l for l in links if l in state]
+    nasc = [l for l in att if state[l] == 'nascent']
+    pct = (len(nasc) * 100 // len(att)) if att else 0
+    print(f"  {f:24} attested {len(att):4}  nascent {len(nasc):4}  ({pct}% ungrounded)")
+pctall = (nascent_all * 100 // total) if total else 0
+print(f"  -- overall: {grounded}/{total} claims grounded, {nascent_all} nascent ({pctall}% of the graph ungrounded) --")
+if baseline is None:
+    print(f"  (no grounding baseline in the-lenses.md — add <!-- grounding-baseline nascent={nascent_all} derived=DATE -->)")
+elif nascent_all > baseline:
+    print(f"  RISEN: nascent {baseline}->{nascent_all} (+{nascent_all-baseline}) — seeds minted faster than grounded since the last sync; ground them, or re-baseline to acknowledge the harvest")
+elif nascent_all < baseline:
+    print(f"  grounded: nascent {baseline}->{nascent_all} (-{baseline-nascent_all}) — readings converted seeds to substantiated claims; advance the baseline to {nascent_all}")
+else:
+    print(f"  in sync with the baseline ({baseline}) — the nascent count has not moved since the last sync")
+print(f"  -> the number to drive DOWN is {nascent_all}; only a completed reading (nascent->full) moves it. Worklist: scripts/queries/nascent-stubs.sh; backlog: ops/reading queue.md")
+PY
+  exit 0
+fi
+
 # --- census: derive counts from the file itself, never store them (so they cannot drift) ---
 census() {
   local f="$1"
