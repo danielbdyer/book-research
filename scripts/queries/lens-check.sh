@@ -42,6 +42,7 @@ FAMILIES=(
   "the-constellation.md"
   "the-two-books.md"
   "the-arc.md"
+  "the-concerns.md"
 )
 
 MODE="report"
