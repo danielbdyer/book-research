@@ -1,9 +1,10 @@
 ---
 description: "The inability to say what you know is reframed from deficiency to reserve: you arrive full and inarticulate, and the unspoken is not yet-missing knowledge but the very ground the spoken stands on."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Polanyi, The Tacit Dimension: 'we can know more than we can tell'; a wholly explicit knowledge is unthinkable", "Gendlin: the implicit is always more than any explicit that comes from it"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Polanyi, The Tacit Dimension, p. 4 ('we can know more than we can tell') — read at the primary text (archive/reading — polanyi, the tacit dimension (1966).md)", "Gendlin, A Process Model: the implicit is always more than any explicit that comes from it — from memory, grounding owed"]
 topics: ["[[felt-shift]]"]
-state: nascent
+state: privated
+privation: "the Polanyi pole is read at the primary text (The Tacit Dimension, p. 4, 'we can know more than we can tell'); the Gendlin pole (the implicit always more than any explicit) is still from memory, so the convergence rests on one grounded witness"
 ---
 
 # you know more than you can tell and that surplus is a reservoir the book draws on rather than a lack it fills
