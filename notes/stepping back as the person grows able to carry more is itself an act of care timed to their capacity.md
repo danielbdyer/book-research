@@ -13,9 +13,9 @@ The reader gains a picture of good help as calibrated withdrawal rather than max
 
 ## Substantiation
 
-- Winnicott: the good-enough mother "begins with an almost complete adaptation to her infant's needs, and as time proceeds she adapts less and less completely, gradually, according to the infant's growing ability to deal with her failure" — the graduated, tolerable failing being the mechanism of development, not a lapse in it. Montessori: "never help a child with a task at which he feels he can succeed." Midwifery: "masterly inactivity," the counsel to "keep her hands in her pockets."
-- Refusals kept: good-enough is reliable devotion, the failure *titrated* to what the infant can tolerate, not dumped; Montessori's restraint rests on acute observation; the midwife's inactivity is vigilance, staying ready to act the instant the birth needs it.
-- Standing: nascent; the exact Winnicott sentence and a documented obstetric source for "masterly inactivity" are queued.
+- Winnicott grounds the mechanism at the primary text: the good-enough mother "starts off with an almost complete adaptation to her infant's needs, and as time proceeds she adapts less and less completely, gradually, according to the infant's growing ability to deal with her failure" (Winnicott 1971, ch. 1, §"Illusion-Disillusionment") — the graduated, tolerable failing being the mechanism of development, not a lapse in it. The companion poles are still owed: Montessori, "never help a child with a task at which he feels he can succeed," and midwifery's "masterly inactivity," the counsel to "keep her hands in her pockets" (both from memory, grounding owed).
+- Refusals kept, and Winnicott's now grounded: good-enough is reliable devotion with the failure titrated, not dumped — adaptation "continued too long, not allowed its natural decrease" is itself harmful, since "exact adaptation resembles magic and the object that behaves perfectly becomes no better than a hallucination" (Winnicott 1971, ch. 1); Montessori's restraint rests on acute observation; the midwife's inactivity is vigilance, staying ready to act the instant the birth needs it.
+- Standing: privated — the Winnicott pole read at the primary text (Winnicott 1971, ch. 1), the Montessori and obstetric "masterly inactivity" poles still owed.
 
 ---
 
