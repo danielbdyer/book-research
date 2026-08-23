@@ -1,9 +1,10 @@
 ---
 description: "The master question answered from the helper's side: a person stays the author of what they become while being genuinely changed because a helper declines to author it for them, so restraint guarantees authorship."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Laozi, DDJ 17 (ziran, the outcome belongs to them); Winnicott (the good-enough mother preserves the infant's own creative gesture)", "Rogers (the actualizing tendency is the client's own, self-directed)"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Winnicott: the over-adapting mother leaves 'the creative gesture, the cry, the protest' missing (The Theory of the Parent-Infant Relationship, 1960) — read at the primary text (archive/reading — winnicott, the four moves kept distinct (1958–1971).md)", "Rogers: the helper supplies the conditions, not the direction (Rogers 1957) — read at the primary text (archive/reading — rogers, the necessary and sufficient conditions (1957).md)", "Laozi, DDJ 17 (ziran, the outcome belongs to them) — from memory, grounding owed"]
 topics: ["[[relational-field]]"]
-state: nascent
+state: privated
+privation: "the Winnicott pole (the creative gesture preserved by non-over-adaptation, 1960) and the Rogers pole (the helper supplies conditions not direction, 1957) are read at their primary texts; the Laozi DDJ 17 pole is still from memory, and Winnicott's exact phrase 'meets the omnipotence of the infant' is from the unread True/False Self paper (1960), so the convergence rests on two grounded witnesses of three"
 ---
 
 # the helper's standing back is what keeps the change the person's own
