@@ -1,9 +1,9 @@
 ---
 description: "Winnicott's rule for the held space is that 'did you find it or make it?' is never asked, because inside the space the question has no purchase — which is the exact grammar of recognition, found and made at once."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Winnicott, the transitional object: the question 'did you conceive of this or was it presented to you?' will never be formulated (Playing and Reality, 1971)", "the book's foundation: aletheia; Pratyabhijñā; reading is remembering"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Winnicott, the transitional object: 'we will never ask the question: Did you conceive of this or was it presented to you from without? … The question is not to be formulated' (Playing and Reality ch. 1, 1971) — read at the primary text (archive/reading — winnicott, the four moves kept distinct (1958–1971).md)", "the book's foundation: aletheia; Pratyabhijñā; reading is remembering"]
 topics: ["[[container-anatomy]]"]
-state: nascent
+state: full
 ---
 
 # in the held space finding a thing and making it are one act
