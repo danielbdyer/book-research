@@ -1,9 +1,10 @@
 ---
 description: "The middle between surrender and defense is not a thinner version of either but a third place off that line entirely — a room made by the meeting, nobody's property, holding both selves intact."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Buber, 'the between' (das Zwischen), 'the narrow ridge where I and Thou meet'", "Winnicott, potential and transitional space, 'a third area of human living' (Playing and Reality, 1971)"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Buber, the between: the relation prior to and constitutive of both terms, 'In the beginning is relation' (I and Thou, Smith trans., 1937) — read at the primary text (archive/reading — buber, i and thou and elements of the interhuman (1923, 1965).md); the 'das Zwischen' / 'narrow ridge' phrasing is from 'Elements of the Interhuman', still owed at its primary", "Winnicott, potential and transitional space, 'a third area of human living' (Playing and Reality ch. 7, 1971) — the ch. 7 primary still owed"]
 topics: ["[[relational-field]]"]
-state: nascent
+state: privated
+privation: "the Buber pole is read at the primary text (I and Thou, Smith trans.: the between is real and prior, 'In the beginning is relation'), though the exact 'das Zwischen' / 'narrow ridge' phrasing is from the unread 'Elements of the Interhuman'; the Winnicott potential-space pole is still owed at its own text (Playing and Reality ch. 7), so the convergence rests on one primary-grounded ontology"
 ---
 
 # the relationship itself is a real third region both people can dwell in without either being absorbed
