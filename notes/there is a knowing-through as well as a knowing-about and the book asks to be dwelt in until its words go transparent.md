@@ -13,9 +13,9 @@ The reader gains a second way of holding the book — not as an object of study 
 
 ## Substantiation
 
-- William James (The Principles of Psychology, 1890): the distinction between "knowledge of acquaintance" and "knowledge-about" — "I know the color blue when I see it, and the flavor of a pear when I taste it… but about the inner nature of these facts I can say nothing at all." Acquaintance is had *through* contact, not accumulated *about* a thing. Polanyi (The Tacit Dimension; Personal Knowledge, 1958): "indwelling" — we interiorize the particulars and attend *from* them *to* the focal whole; the word, once dwelt in, becomes an extension of the knower, no longer noticed in itself.
-- Shadow, kept strictly as shadow: Polanyi's pianist who turns her focal attention onto her own fingers falters — attending *to* what should be dwelt *in* can dissolve the performance. Stated affirmatively, the gain is the transparency, the deadening of over-analysis only the far edge of that gift.
-- Standing: nascent; the James passage is queued for exact wording.
+- Polanyi grounds the indwelling pole at the primary text: his central mechanism is that we interiorize the subsidiary particulars and attend *from* them *to* the focal whole, so a tool or a term, once dwelt in, becomes an extension of the knower and is no longer noticed in itself — the from-to structure named at its page-level address (The Tacit Dimension, ch. 1, "Tacit Knowing"), concept confirmed across reputable sources rather than by a single quotable line. The companion pole is still owed: William James (The Principles of Psychology, 1890), the distinction between "knowledge of acquaintance" and "knowledge-about" — acquaintance had *through* contact, not accumulated *about* a thing (from memory, grounding owed).
+- Shadow, kept strictly as shadow, and it is Polanyi's own: the pianist who turns her focal attention onto her own fingers falters — attending *to* what should be dwelt *in* can dissolve the performance. Stated affirmatively, the gain is the transparency, the deadening of over-analysis only the far edge of that gift.
+- Standing: privated — the Polanyi indwelling pole read at the primary text (The Tacit Dimension, ch. 1); the William James pole still owed.
 
 ---
 
