@@ -1,9 +1,10 @@
 ---
 description: "The thread that once let you find your way — a love's steadiness — does not have to be mourned when you learn to walk without it; it turns gold in your own hand, the carrying become a capacity you now own."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; the tradition crossover is inference, unverified, grounding queued)", "on record: mythic-os page 12A ('the thread… turns golden… you are the seamstress now'); the author's Alise account (2026-08-03) at [[the gold thread is the rainbow thread re-owned]]", "inference: Ariadne's thread (given in love, enabling descent-and-return); Winnicott's transitional object internalized (Playing and Reality, 1971)"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "on record: mythic-os page 12A ('the thread… turns golden… you are the seamstress now'); the author's Alise account (2026-08-03) at [[the gold thread is the rainbow thread re-owned]]", "Winnicott, the transitional object: 'It is not forgotten and it is not mourned. It loses meaning' as it diffuses across the whole cultural field (Playing and Reality ch. 1, 1971) — read at the primary text (archive/reading — winnicott, the four moves kept distinct (1958–1971).md); Ariadne's thread (given in love, enabling descent-and-return) — inference, grounding owed"]
 topics: ["[[relational-field]]"]
-state: nascent
+state: privated
+privation: "the Winnicott pole is read at the primary text (Winnicott 1971, ch. 1), which refines the note — the transitional object is not introjected ('does not go inside') but diffuses and is 'not mourned', so the not-mourned mapping holds while the internalized one belongs to the distinct capacity-to-be-alone move (1958); the Ariadne pole stays inference, and the lived rainbow-thread layer stays author-gated under personal provenance"
 ---
 
 # the gold thread re-owned is a loving filament that Ariadne's thread and Winnicott's transitional object each named
