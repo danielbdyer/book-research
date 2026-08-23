@@ -5,9 +5,9 @@ seat: candidate
 load: thesis-bearing
 discipline: clinical
 clause: "The capacity to be alone is built by another and later introjected: the infant, in the reliable and non-impinging presence of the mother, can flounder and there find its own impulse, so solitude has a relational precondition."
-recommendation: "Seat as thesis-bearing for the loneliness problem; his is the developmental theory that makes a solitary transformation coherent and names its precondition, and the design-spec it yields — a reliable, non-demanding, non-impinging presence — is the specification for what a book must be. Playing and Reality is queued in ops/reading queue.md to test whether a non-human object may hold potential space."
-sources: ["transmission dig 7, 2026-08-13", "D. W. Winnicott, 'The Capacity to be Alone' (Int. J. Psychoanal., 1958), 39:416–420 [P]"]
-works: ["'The Capacity to be Alone' (1958)", "Playing and Reality (1971)", "'The Location of Cultural Experience' (1967)"]
+recommendation: "Seat as thesis-bearing for the loneliness problem; his is the developmental theory that makes a solitary transformation coherent and names its precondition, and the design-spec it yields — a reliable, non-demanding, non-impinging presence — is the specification for what a book must be. His four moves are now read at their primary texts (archive/reading — winnicott, the four moves kept distinct (1958–1971).md): a non-human object may hold the intermediate space as a transitional object, but may not be used as a live other, so book-as-transitional-object is closer to his own claim than book-as-live-other."
+sources: ["transmission dig 7, 2026-08-13", "D. W. Winnicott, 'The Capacity to be Alone' (Int. J. Psychoanal., 1958), 39:416–420 [P]", "D. W. Winnicott, 'Transitional Objects and Transitional Phenomena' (Playing and Reality ch. 1, 1971; orig. 1951) [P]", "D. W. Winnicott, 'The Use of an Object' (Int. J. Psychoanal., 1969), 50:711–716 [P]", "D. W. Winnicott, 'The Theory of the Parent-Infant Relationship' (Int. J. Psychoanal., 1960), 41:585–595 [P]"]
+works: ["'The Capacity to be Alone' (1958)", "'Transitional Objects and Transitional Phenomena' (1951; Playing and Reality ch. 1, 1971)", "'The Use of an Object' (1969)", "'The Theory of the Parent-Infant Relationship' (1960)", "'The Location of Cultural Experience' (1967)"]
 topics: ["[[interlocutors]]", "[[container-anatomy]]"]
 ---
 
