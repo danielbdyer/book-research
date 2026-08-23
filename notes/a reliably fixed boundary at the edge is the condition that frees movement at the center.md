@@ -1,9 +1,10 @@
 ---
 description: "Freedom comes not from removing limits but from fixing one, the perimeter: when the edge holds and does not move, everything inside it can move, so the constancy of the frame buys spontaneity."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Winnicott, the holding environment and potential space (Playing and Reality, 1971; 'The Theory of the Parent-Infant Relationship', 1960)", "the analytic frame (Bleger, 1967; Milner, 1952); Jung's vas bene clausum"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Winnicott, the holding environment: reliable provision 'scarcely noticed' whose function is 'the reduction to a minimum of impingements' ('The Theory of the Parent-Infant Relationship', 1960; the ch. 1 intermediate area, Playing and Reality, 1971) — read at the primary text (archive/reading — winnicott, the four moves kept distinct (1958–1971).md)", "the analytic frame (Bleger, 1967; Milner, 1952); Jung's vas bene clausum — from memory, grounding owed"]
 topics: ["[[container-anatomy]]"]
-state: nascent
+state: privated
+privation: "the Winnicott holding pole is read at the primary text (Winnicott 1960; the ch. 1 intermediate area); the term 'potential space' at its own text (Location of Cultural Experience, Playing and Reality ch. 7) and the Bleger, Milner and Jung poles are still owed, so the convergence rests on one grounded witness"
 ---
 
 # a reliably fixed boundary at the edge is the condition that frees movement at the center
