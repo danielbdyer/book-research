@@ -6,7 +6,7 @@ load: thesis-bearing
 discipline: continental-philosophy
 clause: "There are two basic words a person can speak, and they constitute two different worlds: I–Thou establishes relation, I–It establishes experience, and no amount of the second produces the first."
 recommendation: "Move him from the epigraph position to a bearing one, and read Ich und Du against the relational field before the practice curriculum is written, because his central refusal is that the I–Thou cannot be arranged and the curriculum proposes arranging it."
-sources: ["mesh grid: other names recovered", "atlas §IX"]
+sources: ["mesh grid: other names recovered", "atlas §IX", "Buber, I and Thou (Smith trans., 1937), read whole at the primary text [P] (archive/reading — buber, i and thou and elements of the interhuman (1923, 1965).md)"]
 works: ["Ich und Du / I and Thou (1923)", "Between Man and Man (1947)", "The Knowledge of Man (1965)", "Eclipse of God (1952)"]
 topics: ["[[interlocutors]]", "[[relational-field]]"]
 ---
