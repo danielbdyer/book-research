@@ -13,9 +13,9 @@ The reader gains an internal criterion for truth that is theirs and needs no ext
 
 ## Substantiation
 
-- Gendlin (Focusing): the felt sense has "an exactness of its own," and the process proceeds by an ongoing checking in which a proposed word either brings a bodily easing (a felt shift) or does not; the body's yes is the criterion. This is meant as the ongoing compass that guides the unfolding, not the peak "whoa" of sudden recognition. Polanyi (The Tacit Dimension, 1966): "we know a person's face, and can recognize it among a thousand, indeed among a million, though we usually cannot tell how we recognize a face we know" — a knowing that judges correctly while unable to state its grounds.
-- Company across a clinic and the philosophy of science: a knowing can be certain of fit while unable to state its rule.
-- Standing: nascent; Gendlin's "exactness of its own" and Polanyi's face example are queued for exact wording.
+- Polanyi grounds his pole at the primary text: "We know a person's face, and can recognize it among a thousand, indeed among a million. Yet we usually cannot tell how we recognize a face we know" (The Tacit Dimension) — a knowing that judges correctly while unable to state its grounds, precise to its object without a stateable criterion. The companion pole is still owed: Gendlin (Focusing), the felt sense has "an exactness of its own," and the process proceeds by an ongoing checking in which a proposed word either brings a bodily easing (a felt shift) or does not — the ongoing compass that guides the unfolding, not the peak "whoa" of sudden recognition (from memory, grounding owed).
+- Company across the philosophy of science and a clinic: a knowing can be certain of fit while unable to state its rule.
+- Standing: privated — the Polanyi face-recognition pole read at the primary text (The Tacit Dimension); the Gendlin felt-sense pole still owed.
 
 ---
 
