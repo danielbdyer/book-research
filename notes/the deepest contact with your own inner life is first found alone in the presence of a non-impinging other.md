@@ -1,9 +1,10 @@
 ---
 description: "Your most private self-contact is first available beside someone who requires nothing of you, and the finest love guards that solitude rather than dissolving it — a togetherness that is not merger."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Winnicott, 'The Capacity to Be Alone' (1958): the capacity 'is based on the experience of being alone in the presence of someone'", "Rilke, Letters to a Young Poet 7: 'love consists in this, that two solitudes protect and border and salute each other'"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Winnicott, 'The Capacity to Be Alone' (Int. J. Psychoanal. 39, 1958): 'the experience of being alone while someone else is present' — read at the primary text (archive/reading — winnicott, the four moves kept distinct (1958–1971).md)", "Rilke, Letters to a Young Poet 7: 'love consists in this, that two solitudes protect and border and salute each other' — from memory, grounding owed"]
 topics: ["[[relational-field]]"]
-state: nascent
+state: privated
+privation: "the Winnicott pole is read at the primary text (Winnicott 1958, the paradox of presence); the Rilke pole (Letters to a Young Poet 7) is still from memory, so the convergence rests on one grounded witness rather than both"
 ---
 
 # the deepest contact with your own inner life is first found alone in the presence of a non-impinging other
