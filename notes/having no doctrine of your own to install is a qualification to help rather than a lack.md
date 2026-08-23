@@ -1,9 +1,10 @@
 ---
 description: "Release from needing to be full of answers before being of use: the helper who carries nothing to transmit is free to draw forth what the other already holds, and emptiness of content is the enabling condition."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Plato, Theaetetus 150c–d (Socrates 'barren of wisdom', debarred from giving birth)", "the finger pointing at the moon (Śūraṅgama Sūtra); Heidegger, What Is Called Thinking? ('teaching is letting learn', 'no place for the know-it-all')"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Plato, Theaetetus 150c–d (Socrates 'sterile in point of wisdom', the god 'never allowed me to bring forth') and 151c (the wind-egg still discriminated) — read at the primary text (archive/reading — plato, meno and theaetetus on drawing-out and wonder (c. 380 bce).md)", "the finger pointing at the moon (Śūraṅgama Sūtra); Heidegger, What Is Called Thinking? ('teaching is letting learn', 'no place for the know-it-all') — from memory, grounding owed"]
 topics: ["[[relational-field]]"]
-state: nascent
+state: privated
+privation: "the Plato pole is read at the primary text (Theaetetus, the midwife barren of wisdom by design, who still discriminates the true offspring from the wind-egg); the Śūraṅgama finger-and-moon and the Heidegger (What Is Called Thinking?) poles are still from memory, so the convergence rests on one grounded witness"
 ---
 
 # having no doctrine of your own to install is a qualification to help rather than a lack
