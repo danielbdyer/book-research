@@ -21,17 +21,17 @@ He is also the source of a second thing the book runs on. His 1957 paper specifi
 
 **What he gives.** The verification standard's institutional parentage, which matters because that standard rests on one name and cannot be defended by company — Rogers does not add a second arrival, but he does establish that the finding came out of a funded, adversarial, measured research program rather than out of one man's introspection, which is the specific charge the standard is most exposed to. And a specified, testable version of the container conditions, against the book's descriptive one. **And a licence the vault did not have: Rogers generalizes the conditions beyond therapy in his own words** — "These hypotheses hold in any situation whether it is or is not labeled 'psychotherapy'" ("The Resulting Hypotheses"), and he names leadership training, education, and community programs as fields the six conditions apply to, "a heightening of the constructive qualities which often exist in part in other relationships." The book's move of treating facilitation as general rather than clinical is one Rogers made first — bound, as the book's is, to a *relationship*: every field he generalizes to is still a perceived two-person contact. His own kept caveat cuts toward the book too (footnote 4, the Kirtner study): the conditions may not suffice for a person who "externalizes his problem, feeling little self-responsibility," which is the participation the book requires of its reader and cannot supply for them.
 
-**One half of this correspondence is quoted and the other is not.** The corpus's three tellings of the research story are quoted above. Rogers's conditions are stated here from secondary knowledge in the vault's own words, and neither the 1957 paper nor the Wisconsin volume has been read in this vault. The address is the 1957 paper, which is six pages and states the six conditions as a numbered list.
+**Both halves of this correspondence are now quotable.** The corpus's three tellings of the research story are quoted above; Rogers's six conditions are now read at the primary text and quoted in "What he would refuse" above, no longer paraphrased from secondary knowledge. The 1957 reading is recorded at `archive/reading — rogers, the necessary and sufficient conditions (1957).md`, cited as `Rogers 1957` with the paper's section headings as locators.
 
-## What the reading has to settle
+## What the reading settled, and what it left
 
-Three questions, in the order that decides the most.
+The 1957 reading answered the third and load-deciding question and left the first two, which rest on other texts.
 
-- Whether the Wisconsin project's results actually support the strong reading of Gendlin's finding or complicate it, since that project's outcomes were mixed and its own authors said so.
-- Whether the necessary-and-sufficient claim has survived sixty years of common-factors research.
-- Whether Rogers's non-directivity is compatible with a book that names the reader's condition, or is a genuine adversary to it. The third question is the one that decides his load.
+- **Settled — Q3 (his load).** Rogers's stance is compatible with a book that names the reader's condition, so long as the naming comes from within the reader's own frame (Condition 5), and is an adversary only to naming from an external diagnostic scheme and to the solitary medium (Conditions 3–6 need a perceived relationship). He is a bounded ally, which keeps the load at **precedent** rather than moving it to adversary.
+- **Still owed — Q1 (the Gendlin parentage).** Whether the Wisconsin project's mixed results support or complicate the strong reading of Gendlin's finding is the Wisconsin volume (1967), unread; the 1957 paper grounds the container correspondence but not the felt-shift program's parentage directly.
+- **Still owed — Q2 (survival).** Whether the necessary-and-sufficient claim has held against sixty years of common-factors research is that literature, unread.
 
-Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row); the 1957 conditions read 2026-08-23.
 
 ---
 
