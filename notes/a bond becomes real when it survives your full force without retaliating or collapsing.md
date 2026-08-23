@@ -1,9 +1,10 @@
 ---
 description: "The relationship you can use to grow is the one that has taken your worst and is still there, unretaliating; then the other stops being your fantasy and becomes real, and you can bring your whole self."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Winnicott, 'The Use of an Object' (1969): the object survives destruction without retaliation and so becomes real and usable", "Nietzsche, Zarathustra 'On the Friend'; chavruta and Proverbs 27:17 ('as iron sharpens iron', b. Ta'anit 7a)"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Winnicott, 'The Use of an Object' (Int. J. Psychoanal. 50, 1969): the object survives destruction without retaliation and so becomes real and usable — read at the primary text (archive/reading — winnicott, the four moves kept distinct (1958–1971).md)", "Nietzsche, Zarathustra 'On the Friend'; chavruta and Proverbs 27:17 ('as iron sharpens iron', b. Ta'anit 7a) — from memory, grounding owed"]
 topics: ["[[relational-field]]"]
-state: nascent
+state: privated
+privation: "the Winnicott pole is read at the primary text (Winnicott 1969, the destroy–survive sequence, survival as non-retaliation); the Nietzsche and chavruta poles are still from memory, so the convergence rests on one grounded witness"
 ---
 
 # a bond becomes real when it survives your full force without retaliating or collapsing
