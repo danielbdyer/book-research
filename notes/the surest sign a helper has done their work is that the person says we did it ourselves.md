@@ -13,9 +13,9 @@ The reader gains a way to read their own effect that costs nothing and returns e
 
 ## Substantiation
 
-- Laozi, DDJ 17: the highest ruler is barely known to exist, and when his rule succeeds the ending is "when the work is done and the task completed, the people all say: we did it ourselves" (*ziran*, of its own accord). Montessori: "the greatest sign of success for a teacher is to be able to say, 'the children are now working as if I did not exist'." Plato, Theaetetus 150d: those who associate with Socrates "discover within themselves many admirable things, which they bring forth into the light." Independent (Warring States statecraft, Athenian philosophy, 20th-c. pedagogy).
-- Refusals kept: Laozi's sage is cultivated alignment, not laziness (ch. 17 warns that where trust is insufficient the people will not trust); Montessori's teacher reaches this through rigorous observation, not neglect.
-- Standing: nascent; the Montessori wording and a translation of ch. 17's final clause are queued.
+- Plato grounds his pole at the primary text: those who associate with Socrates make progress "not because they have ever learned anything from me, but because they have found in themselves many fair things and have brought them forth" (Theaetetus 150d) — the helper's hand vanishing from the account is the aim reached. The companion poles are still owed: Laozi, DDJ 17, the highest ruler barely known to exist, whose successful rule ends "when the work is done and the task completed, the people all say: we did it ourselves" (*ziran*); Montessori, "the greatest sign of success for a teacher is to be able to say, 'the children are now working as if I did not exist'" (both from memory, grounding owed). Independent (Athenian philosophy, Warring States statecraft, 20th-c. pedagogy).
+- Refusals kept: Laozi's sage is cultivated alignment, not laziness (ch. 17 warns that where trust is insufficient the people will not trust); Montessori's teacher reaches this through rigorous observation, not neglect; and Plato's midwife still discriminates the true birth from the wind-egg (Theaetetus 150c), so the vanishing is not abdication.
+- Standing: privated — the Plato pole read at the primary text (Theaetetus 150d); the Laozi ch. 17 and Montessori poles still owed.
 
 ---
 
