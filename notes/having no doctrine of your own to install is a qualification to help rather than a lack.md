@@ -13,9 +13,9 @@ The reader gains release from the belief that they must be full of answers befor
 
 ## Substantiation
 
-- Plato, Theaetetus 150c–d: Socrates is "barren of wisdom," "the god constrains me to be a midwife but has debarred me from giving birth," and by this barrenness he delivers what others carry. The finger pointing at the moon (Śūraṅgama Sūtra; a Zen commonplace): the teaching points, and "if you mistake the finger for the moon, you lose both" — the pointer has no moon of its own. Heidegger, What Is Called Thinking?: "teaching is more difficult than learning… the teacher has to learn to let them learn," and a genuine teaching relation has "no place for the authority of the know-it-all."
-- Refusals kept: Socrates' midwife still discriminates a true child from a "wind-egg" (151c); Zen refuses to sacralize the finger — the teacher is to be forgotten, not worshipped.
-- Standing: nascent; the Theaetetus loci, the Śūraṅgama passage, and the WICT lines are queued.
+- Plato grounds his pole at the primary text: Socrates is barren of wisdom by design — "I am sterile in point of wisdom … the god compels me to act as midwife, but has never allowed me to bring forth" (Theaetetus 150c) — and by that barrenness he delivers what others carry, his associates finding "in themselves many fair things" and bringing "them forth" (150d). The companion poles are still owed: the finger pointing at the moon (Śūraṅgama Sūtra; a Zen commonplace), the pointer with no moon of its own; Heidegger, What Is Called Thinking?, "teaching is more difficult than learning … the teacher has to learn to let them learn," a genuine teaching relation with "no place for the authority of the know-it-all" (both from memory, grounding owed).
+- Refusals kept, and Plato's now grounded: Socrates' midwife still discriminates a "real and genuine offspring" from "a mere image, an imposture" and will "quietly take it from you and throw it away" if it is a wind-egg (Theaetetus 150c, 151c) — so barrenness of doctrine is not relativism; Zen refuses to sacralize the finger — the teacher is to be forgotten, not worshipped.
+- Standing: privated — the Plato pole read at the primary text (Theaetetus); the Śūraṅgama passage and the What Is Called Thinking? lines still owed.
 
 ---
 
