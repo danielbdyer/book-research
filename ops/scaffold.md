@@ -174,7 +174,7 @@ The first move of each book mirrors: *the other is not your project* (Book I) / 
 **Settled by the author:** two books by locus; Book I first; the spine allocation (four movements = Book I, psychedelic arc = Book II); the developmental sequence; the master question as still center; peak resolves into return (integration IS the return); the civilizational book a bounded horizon. **Open:** Book I's person and form; whether the author's spoken *vimarśa* is the reflexive term; the title; which candidate name is THE center; cell-level substantiation (largely awaiting the author's own words).
 
 ## §9 · The thinker constellation & lineage
-<!--cache id=R4THINK crc=c333da9c src=notes/interlocutors.md|ops/chapter concordance.md derived=2026-08-21-->
+<!--cache id=R4THINK crc=e6b992b4 src=notes/interlocutors.md|ops/chapter concordance.md derived=2026-08-23-->
 
 Sixty-two interlocutor notes against a corpus roster of ~100 named thinkers; by author decision (2026-08-02) a declared centerpiece, "the convergence of thinkers." The reading's built-in caution governs every convergence edge below: **the convergence is company, not corroboration** — the lineages "were gathered on one day for the property they are then reported to share" (`the unanimity claim is an artifact of how the lineages were selected`), and independence fails a second way wherever members share a teacher. Sorted on three orthogonal axes — `seat` (function for the book), `load` (what the book loses if the thinker leaves), `discipline` (where they got their epistemics) — plus a registered *lens* (the four ontological roots) that moves no chair. Seat and load are independent, and reading them as one produced the vault's two biggest self-corrections (Gendlin, Hudson).
 
