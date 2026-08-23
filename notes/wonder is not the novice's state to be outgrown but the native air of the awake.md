@@ -1,9 +1,10 @@
 ---
 description: "Amazement is not where a person starts and then leaves but where the living stay, and it grows with knowledge rather than dissolving under it — a sign of being awake, not immature."
 category: claim
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Plato, Theaetetus 155d (thaumazein); Aristotle, Metaphysics 982b and 983a", "Śiva Sūtra I.12 (vismayo yoga-bhūmikāḥ); Heschel, God in Search of Man (1955)"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Plato, Theaetetus 155d ('wonder is the only beginning of philosophy… Iris was the child of Thaumas') — read at the primary text (archive/reading — plato, meno and theaetetus on drawing-out and wonder (c. 380 bce).md)", "Aristotle, Metaphysics 982b and 983a — from memory, grounding owed", "Śiva Sūtra I.12 (vismayo yoga-bhūmikāḥ); Heschel, God in Search of Man (1955) — from memory, grounding owed"]
 topics: ["[[felt-shift]]"]
-state: nascent
+state: privated
+privation: "the Plato pole is read at the primary text (Theaetetus 155d, wonder the beginning of philosophy); the Aristotle (Metaphysics 982b/983a), Śiva Sūtra I.12, and Heschel poles are still from memory, so the convergence rests on one grounded witness — and the note's own disagreement (Aristotle's wonder is dissolved by knowledge, unread here) is one of the owed halves"
 ---
 
 # wonder is not the novice's state to be outgrown but the native air of the awake
