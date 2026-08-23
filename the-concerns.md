@@ -102,7 +102,7 @@ At answerability the book is about the difference between a word perfected forev
 - **Open edge:** research ripens toward the pilot chapter, and this is the vault's most drafting-ready concern. Cavell's distinction between knowing and acknowledging (with his warning that a request for acknowledgment can be declined) and Kabir's corpus sit unresearched on the candidates list. The transmission-dig readings that would ground the indirect-communication objections stand undone, so the Dig 1 objections rest on secondary scholarship. The eleven nascent reader's-answer notes carry unverified attributions, the readiest of the round's debts to repay because this concern is closest to drafting.
 - **Enters:** the last line, written so that it can be answered; the book's native genre, the letter from a friend read alone, whose completion is its sending; the descent-and-integration turn where the release doctrine lands; the pilot letter already sent to real readers, one word at *vaikharī*, while the full manuscript continues at *madhyamā*.
 
-<!--cache id=CONC-answerability crc=d33b4bf0 src=notes/answerability.md derived=2026-08-22-->
+<!--cache id=CONC-answerability crc=d33b4bf0 src=notes/answerability.md derived=2026-08-24-->
 
 ## The shared center, and how this family grows
 
