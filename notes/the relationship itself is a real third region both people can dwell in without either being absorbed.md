@@ -13,10 +13,10 @@ The reader gains a *place* — not a compromise on a line running from "surrende
 
 ## Substantiation
 
-- Buber: the meeting happens in "the between" (*das Zwischen*) — "on the far side of the subjective, on the near side of the objective, on the narrow ridge where I and Thou meet." Winnicott, independently: "potential space" / "transitional space," "a third area of human living," neither wholly inner (fantasy) nor wholly outer (reality), where play, culture, and creativity live (Playing and Reality, 1971).
+- Buber grounds the between-ontology at the primary text: the relation is prior to and constitutive of both terms — "In the beginning is relation," "There is no I taken in itself" (I and Thou, Smith trans., Parts Three and One) — a real third the two generate and inhabit rather than a compromise between them. The exact spatial phrasing the note quotes — the between (*das Zwischen*), "on the narrow ridge where I and Thou meet" — is from "Elements of the Interhuman" (The Knowledge of Man), still owed at its primary. Winnicott, independently: the intermediate area, "a third area of human living," neither wholly inner nor wholly outer, is read at ch. 1 (the four-moves reading), while "potential space between two people" proper is Playing and Reality ch. 7, still owed.
 - First-principles: surrender ends the two-ness by merger, the wall ends the meeting by keeping two ones; the living middle is orthogonal, a third the two generate and inhabit — Aristotle's mean and Buddhist *upekkhā* circle the same insight from ethics and contemplative practice.
-- Refusal kept: both thinkers tie the space to reliable holding, not free-floating mysticism; the between is met, not engineered. Independent (1923 dialogical philosophy, 1971 object-relations).
-- Standing: a reach; both use spatial language natively, so it reaches toward convergence on an existing commitment rather than a new construction.
+- Refusal kept, and Buber's now grounded: both thinkers tie the space to reliable meeting, not free-floating mysticism — for Buber the between is met by grace, not engineered ("Every means is an obstacle," I and Thou, Part One). Independent (1923 dialogical philosophy, 1971 object-relations).
+- Standing: privated — the Buber between-ontology read at the primary text (I and Thou, Smith trans.); the exact "das Zwischen" / "narrow ridge" phrasing (Elements of the Interhuman) and the Winnicott potential-space pole (Playing and Reality ch. 7) still owed.
 
 ---
 
