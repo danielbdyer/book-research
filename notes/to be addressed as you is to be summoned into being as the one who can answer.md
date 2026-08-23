@@ -13,9 +13,9 @@ A reader picks up most books as a "someone in general"; this book's second perso
 
 ## Substantiation
 
-- Benveniste: "it is in and through language that man constitutes himself as a subject," and "I" can be said only by someone to a "you" — the "you" is the correlate that makes an "I" possible (Problems in General Linguistics, "Subjectivity in Language," 1966). Buber: the basic word I–Thou is *spoken*, an address that establishes relation — "all real living is meeting" (Ich und Du, 1923). Rosenzweig: revelation as address answered — the soul is reached by a "Where art thou?" and comes into itself in the "Here I am" (*hineni*, Isaiah 6:8). Levinas: the face "opens discourse," and the self comes to itself as the one who says "me voici."
-- Refusals kept: Buber refuses any technique that would manufacture the meeting ("the Thou meets me through grace"); Levinas refuses Buber's symmetry (the relation is asymmetric); the "you" that constitutes is not the "you" of advertising copy.
-- Standing: nascent; decide whether the summons is held in a secular key (Benveniste alone carries it) or a dialogical-theological one (the full quartet).
+- Buber grounds his pole at the primary text: the basic word I–Thou is *spoken*, an address that establishes relation and constitutes its speaker — "All real living is meeting," and "Through the Thou a man becomes I" (I and Thou, Smith trans., Part One). The companion poles are still owed: Benveniste, "it is in and through language that man constitutes himself as a subject," the "I" sayable only to a "you" (Problems in General Linguistics, "Subjectivity in Language," 1966); Rosenzweig, revelation as address answered, the soul reached by a "Where art thou?" and coming into itself in the "Here I am" (*hineni*, Isaiah 6:8); Levinas, the face that "opens discourse," the self that says "me voici" (all three from memory, grounding owed).
+- Refusals kept: Buber refuses any technique that would manufacture the meeting — "The Thou meets me through grace — it is not found by seeking" (I and Thou, Part One); Levinas refuses Buber's symmetry (the relation is asymmetric); the "you" that constitutes is not the "you" of advertising copy.
+- Standing: privated — the Buber pole read at the primary text (I and Thou, Smith trans.); decide whether the summons is held in a secular key (Benveniste alone) or a dialogical-theological one (the full quartet); the Benveniste, Rosenzweig, and Levinas poles are owed.
 
 ---
 
