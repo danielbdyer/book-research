@@ -52,7 +52,7 @@ The book claims that every container — a room, a friendship, a gathering, a se
 - **Open edge:** the Scotus-to-Hopkins-to-Deleuze lineage the corpus names for *thisness* has never been checked at any of its three texts, the map's standing reading debt; Winnicott's four moves are now read (2026-08-23), the book mapping onto his transitional object rather than his live object-that-survives-destruction (`archive/reading — winnicott, the four moves kept distinct (1958–1971).md`), with ch. 7 "The Location of Cultural Experience" still owed for the term *potential space* proper. No extraction work remains on the upper layers (the twelve primitives, the molecule formulas, the three loops) by the author's demotion of 2026-08-09, which is a decision rather than a backlog.
 - **Enters:** the house made walkable — the sixteen-day stay whose rooms are the containers and whose open middle is the Clearing the reader is there to receive — bordering contraction-not-corruption through its failure modes and book-structure through that house.
 
-<!--cache id=CONC-container crc=3f7d08db src=notes/container-anatomy.md derived=2026-08-22-->
+<!--cache id=CONC-container crc=3f7d08db src=notes/container-anatomy.md derived=2026-08-23-->
 
 ## relational-field — the field between two people does work
 
