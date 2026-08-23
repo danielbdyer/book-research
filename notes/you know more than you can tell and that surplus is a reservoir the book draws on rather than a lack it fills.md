@@ -13,9 +13,9 @@ The reader gains a reversal of the schoolroom picture: they do not arrive empty 
 
 ## Substantiation
 
-- Polanyi (The Tacit Dimension): "we can know more than we can tell" — his opening premise, and the thesis that all explicit knowing rests on an unspecifiable tacit ground ("a wholly explicit knowledge is unthinkable"); we attend *from* the particulars we have interiorized *to* the thing we focally know. Gendlin: the implicit is always *more* than any explicit that comes from it — not a smaller thing awaiting completion but a fuller thing the explicit selects from and carries forward. Company, two roads to "the unspoken exceeds the spoken and grounds it."
-- Refusal kept: Polanyi is emphatically *not* anti-articulation — the tacit is the ground *for* speech, and articulation "vastly extends" our powers; Gendlin insists the implicit is not a mystical fullness to be admired but something that demands to be carried forward.
-- Standing: nascent; "we can know more than we can tell" is near-verbatim, the surrounding page locators queued.
+- Polanyi grounds his pole at the primary text: he opens *The Tacit Dimension* "by starting from the fact that we can know more than we can tell" (p. 4) — his premise that all explicit knowing rests on an unspecifiable tacit ground, the unspoken being not a deficiency awaiting completion but the very footing the explicit stands on. The companion pole is still owed: Gendlin, the implicit is always *more* than any explicit that comes from it — not a smaller thing awaiting completion but a fuller thing the explicit selects from and carries forward (from memory, grounding owed). Company, two roads to "the unspoken exceeds the spoken and grounds it."
+- Refusal kept, and Polanyi's is his own: he is emphatically *not* anti-articulation — the tacit is the ground *for* speech, and explicit articulation "vastly extends" the powers of the mind; Gendlin likewise insists the implicit is not a mystical fullness to be admired but something that demands to be carried forward.
+- Standing: privated — the Polanyi pole read at the primary text (The Tacit Dimension, p. 4); the Gendlin pole still owed.
 
 ---
 
