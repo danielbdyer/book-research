@@ -289,7 +289,7 @@ Six joints. Three are the author's named decisions; the other three are findings
 - **Convergence = company, never proof** (R4, R8). The lineages were gathered on one day for the property they are then reported to share, and independence fails again wherever members share a teacher (mostly Heidegger). The founding convergence survives; the company assembled around it does not corroborate it. A union built on raw agreement-count would re-inflate exactly this.
 
 ## §16 · The evidence ledger — how deeply each anchor is actually attested
-<!--cache id=EVIDENCE crc=c333da9c src=notes/interlocutors.md|ops/chapter concordance.md derived=2026-08-21-->
+<!--cache id=EVIDENCE crc=e6b992b4 src=notes/interlocutors.md|ops/chapter concordance.md derived=2026-08-23-->
 
 The scaffold's confidence is uneven, and the drafter should know where it rests on primary reading versus corpus-relay versus synthesis. This is the honest floor beneath Part I.
 
