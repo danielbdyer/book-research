@@ -13,10 +13,10 @@ The reader gains the reversal of the fear that relationship threatens the self: 
 
 ## Substantiation
 
-- Buber, I and Thou (1923): "In the beginning is the relation," and "Through the Thou a man becomes I" — you are made a person by the address, not diminished by it. Hegel, Phenomenology §178: self-consciousness "exists only in being acknowledged."
-- Hard edge kept, and on-lane: Hegel earns this through the master–slave dialectic, and the sting is that recognition extracted by domination is worthless — the master, acknowledged by a slave he does not acknowledge back, receives recognition from someone he has declared no one; only recognition between two free to withhold it counts. Buber's refusal: the I–Thou meeting cannot be willed or made technique — "it comes, but I cannot bring it about."
+- Buber grounds his pole at the primary text: "In the beginning is relation" and "Through the Thou a man becomes I" (I and Thou, Smith trans., Parts Three and One) — the self is made in the meeting, not diminished by it, and "There is no I taken in itself" (Part One). The Hegel pole is still owed: Phenomenology §178, self-consciousness "exists only in being acknowledged" (from memory, grounding owed).
+- Hard edge kept, and on-lane: Hegel earns this through the master–slave dialectic, and the sting is that recognition extracted by domination is worthless — the master, acknowledged by a slave he does not acknowledge back, receives recognition from someone he has declared no one; only recognition between two free to withhold it counts. Buber's refusal, now grounded: the meeting cannot be willed or made technique — "The Thou meets me through grace — it is not found by seeking," and it "can never take place through my agency, nor can it ever take place without me" (I and Thou, Part One).
 - Honesty: not "no contact" — Buber wrote partly against Hegelian system; the arrival is independent in method (dialogical vs dialectical), company across a real divide. Hold as a kept tension — Hegel's conflictual route and Buber's grace-given route — rather than one smoothed story.
-- Standing: nascent.
+- Standing: privated — the Buber pole read at the primary text (I and Thou, Smith trans.), the Hegel pole (Phenomenology §178) still owed.
 
 ---
 
