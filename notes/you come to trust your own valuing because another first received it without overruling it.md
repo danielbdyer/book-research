@@ -1,9 +1,10 @@
 ---
 description: "Self-trust is conferred relationally, not seized: the mark of growth is the quiet return of 'is this right for me?' from out there to in here, occasioned by being met without judgment."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Rogers, On Becoming a Person (1961): the 'locus of evaluation' shifts external to internal, enabled by unconditional positive regard", "Pratyabhijñā (Utpaladeva, Abhinavagupta): the guru only reminds; the authority was always the person's own"]
+sources: ["Rogers 1957, Condition 4 (unconditional positive regard) and the client testimony that the therapist fosters 'my possession of my own experience' — read at the primary text (archive/reading — rogers, the necessary and sufficient conditions (1957).md)", "Rogers, On Becoming a Person (1961): the 'locus of evaluation' terminology — still to read", "Pratyabhijñā (Utpaladeva, Abhinavagupta): the guru only reminds; the authority was always the person's own — from memory, grounding owed", "generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)"]
 topics: ["[[relational-field]]"]
-state: nascent
+state: privated
+privation: "the Rogers pole is now read at the primary text (Rogers 1957, Condition 4 and the client's testimony to 'fostering my possession of my own experience'); still owed are the Pratyabhijñā pole (from memory) and Rogers's later 'locus of evaluation' formulation (On Becoming a Person, 1961), so the convergence rests on one primary witness rather than being substantiated across both"
 ---
 
 # you come to trust your own valuing because another first received it without overruling it
