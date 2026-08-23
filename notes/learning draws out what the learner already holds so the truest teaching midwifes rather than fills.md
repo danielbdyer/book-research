@@ -1,9 +1,10 @@
 ---
 description: "You are a fullness to be drawn out rather than an empty vessel to be filled, so a book can only occasion a knowing already yours — which turns 'I only point' from an apology into the form of the teaching."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Plato, Meno 81c–d and 82b–85b (anamnesis, the slave boy); Theaetetus 149a–151d (maieutikē)", "Rogers, Client-Centered Therapy (1951); Dzogchen ngo sprod, the pointing-out that lets one recognize one's own face"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Plato, Meno 81d and 82b–85b (anamnesis, the slave boy); Theaetetus 150c–d (maieutikē, the barren midwife) — read at the primary text (archive/reading — plato, meno and theaetetus on drawing-out and wonder (c. 380 bce).md)", "Rogers, Client-Centered Therapy (1951); Dzogchen ngo sprod, the pointing-out that lets one recognize one's own face — from memory, grounding owed"]
 topics: ["[[recognition]]"]
-state: nascent
+state: privated
+privation: "the Plato pole is read at the primary text (Meno, learning is recollection and the slave boy's answers 'all his own'; Theaetetus, the midwife barren of wisdom who delivers what the other holds); the Rogers (Client-Centered Therapy, 1951) and Dzogchen poles are still from memory, so the convergence rests on one grounded witness"
 ---
 
 # learning draws out what the learner already holds so the truest teaching midwifes rather than fills
