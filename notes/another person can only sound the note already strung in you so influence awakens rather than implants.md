@@ -1,9 +1,10 @@
 ---
 description: "Being moved by someone is your own string sounding: a resonator answers only to a frequency it already holds, so love and influence enlarge the self by waking what is yours rather than installing anything."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "sympathetic resonance (Helmholtz, On the Sensations of Tone): a second fork sounds only if it already holds the frequency; energy transfers, pitch never does", "Plato's anamnesis and maieutikē; Pratyabhijñā (the word only reminds)"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Plato, anamnesis and maieutikē: learning is recollection, nothing implanted (Meno 81d; Theaetetus 150c–d) — read at the primary text (archive/reading — plato, meno and theaetetus on drawing-out and wonder (c. 380 bce).md)", "sympathetic resonance (Helmholtz, On the Sensations of Tone): a second fork sounds only if it already holds the frequency; energy transfers, pitch never does — from memory, grounding owed", "Pratyabhijñā (the word only reminds) — from memory, grounding owed"]
 topics: ["[[relational-field]]"]
-state: nascent
+state: privated
+privation: "the Plato anamnesis pole is read at the primary text (Meno, learning is recollection; Theaetetus, the midwife brings forth what is already in the other); the Helmholtz sympathetic-resonance pole and the Pratyabhijñā pole are still from memory, so the convergence rests on one grounded witness"
 ---
 
 # another person can only sound the note already strung in you so influence awakens rather than implants
