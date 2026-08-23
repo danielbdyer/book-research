@@ -1,9 +1,10 @@
 ---
 description: "Two people can share one field of meaning while each keeps their own note, so a meeting of minds is a chord and not a unison — belonging to the conversation costs none of your own clarity."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Confucius, Analects 13.23: 'harmonizes but is not the same' (hé ér bù tóng); 6.30 (establishing others is establishing oneself)", "Bohm, On Dialogue: a shared 'pool of meaning' reached by suspension not surrender, 'no agenda, seeks no agreement'"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Bohm, On Dialogue: dia-logos, 'a stream of meaning flowing among and through us and between us', reached by suspension not surrender — read at the primary text (archive/reading — bohm, on dialogue (1996).md)", "Confucius, Analects 13.23: 'harmonizes but is not the same' (hé ér bù tóng); 6.30 (establishing others is establishing oneself) — from memory, grounding owed"]
 topics: ["[[relational-field]]"]
-state: nascent
+state: privated
+privation: "the Bohm pole is read at the primary text (On Dialogue: the stream of meaning between people, formed by suspending assumptions rather than agreeing); the Confucius pole (Analects 13.23) and the Merleau-Ponty third witness are still from memory, so the convergence rests on one grounded witness"
 ---
 
 # harmony is the joining of differences rather than a collapse into agreement
