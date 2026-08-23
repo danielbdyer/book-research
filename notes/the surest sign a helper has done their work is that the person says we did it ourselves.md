@@ -1,9 +1,10 @@
 ---
 description: "The disappearance of the helper's hand from the person's account is not the helper cheated of credit but the aim reached: a sovereign reader is owed exactly the sense that they found it themselves."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Laozi, DDJ 17: the highest ruler barely known; 'when the work is done… the people say: we did it ourselves' (ziran)", "Montessori: 'the children are now working as if I did not exist'; Plato, Theaetetus 150d (they bring forth from within)"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Plato, Theaetetus 150d (Socrates' associates 'found in themselves many fair things and have brought them forth') — read at the primary text (archive/reading — plato, meno and theaetetus on drawing-out and wonder (c. 380 bce).md)", "Laozi, DDJ 17: the highest ruler barely known; 'when the work is done… the people say: we did it ourselves' (ziran); Montessori: 'the children are now working as if I did not exist' — from memory, grounding owed"]
 topics: ["[[relational-field]]"]
-state: nascent
+state: privated
+privation: "the Plato pole is read at the primary text (Theaetetus 150d, the delivery the other's own); the Laozi DDJ 17 and Montessori poles are still from memory, so the convergence rests on one grounded witness"
 ---
 
 # the surest sign a helper has done their work is that the person says we did it ourselves
