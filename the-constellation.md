@@ -83,7 +83,7 @@ The finding: meaning is completed in the reader's *reply*, and a wordless bodily
 - **Open edge:** Vervaeke's four-kinds-of-knowing is asserted in conversation but *unread* at his own text — the single most-cited outside frame the vault has not verified, and the group's first reading-queue debt; Bakhtin and Benveniste on the answer-word are named-but-unseated.
 - **Enters:** the last line written so it can be answered; the felt-shift verification floor; the walkable house.
 
-<!--cache id=CON-register crc=3e71c767 src=the-conversation-catalog.md|notes/interlocutors.md|notes/transformation is enacted participation inside a held container.md|notes/the relationship itself is a real third region both people can dwell in without either being absorbed.md derived=2026-08-22-->
+<!--cache id=CON-register crc=17bf5037 src=the-conversation-catalog.md|notes/interlocutors.md|notes/transformation is enacted participation inside a held container.md|notes/the relationship itself is a real third region both people can dwell in without either being absorbed.md derived=2026-08-24-->
 
 ## The precedent bench, the adversaries, and the one refusal
 
