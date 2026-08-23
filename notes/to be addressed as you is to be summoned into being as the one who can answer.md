@@ -1,9 +1,10 @@
 ---
 description: "A reader picks up most books as a 'someone in general'; this book's second person picks out this one and, in picking them out, calls a respondent into existence who was not there a sentence before."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Benveniste: 'it is in and through language that man constitutes himself as a subject'; I sayable only to a you (Problems in General Linguistics, 1966)", "Buber ('all real living is meeting', 1923); Rosenzweig (the 'Here I am', hineni); Levinas (the face founds the respondent)"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Buber, I and Thou (Smith trans., 1937): 'All real living is meeting', the primary word I-Thou spoken as address — read at the primary text (archive/reading — buber, i and thou and elements of the interhuman (1923, 1965).md)", "Benveniste: 'it is in and through language that man constitutes himself as a subject'; I sayable only to a you (Problems in General Linguistics, 1966) — from memory, grounding owed", "Rosenzweig (the 'Here I am', hineni); Levinas (the face founds the respondent) — from memory, grounding owed"]
 topics: ["[[answerability]]"]
-state: nascent
+state: privated
+privation: "the Buber pole is read at the primary text (I and Thou, Smith trans.: the primary word I-Thou is spoken as address, 'All real living is meeting'); the Benveniste, Rosenzweig, and Levinas poles are still from memory, so the four-witness convergence rests on one grounded witness"
 ---
 
 # to be addressed as you is to be summoned into being as the one who can answer
