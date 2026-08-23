@@ -1,9 +1,10 @@
 ---
 description: "The reader can hold the book not as an object of study whose propositions they collect but as a lens they look through until the terrain appears, graduating from studying the material to living from it."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "William James, The Principles of Psychology (1890): knowledge of acquaintance vs knowledge-about", "Polanyi: indwelling, attending from the particulars to the focal whole (The Tacit Dimension; Personal Knowledge, 1958)"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Polanyi, The Tacit Dimension, ch. 1 'Tacit Knowing': indwelling, attending from the interiorized particulars to the focal whole — read at the primary text (archive/reading — polanyi, the tacit dimension (1966).md)", "William James, The Principles of Psychology (1890): knowledge of acquaintance vs knowledge-about — from memory, grounding owed"]
 topics: ["[[felt-shift]]"]
-state: nascent
+state: privated
+privation: "the Polanyi indwelling pole is read at the primary text (The Tacit Dimension, ch. 1, the from-to structure named at its page-level address — concept confirmed across reputable sources, not verbatim-retrievable in-container); the William James acquaintance/knowledge-about pole is still from memory, so the convergence rests on one grounded witness"
 ---
 
 # there is a knowing-through as well as a knowing-about and the book asks to be dwelt in until its words go transparent
