@@ -1,9 +1,10 @@
 ---
 description: "There is no bare, pre-relational self to be threatened; the self is born in the meeting, so being genuinely recognized by another free person is the event by which you come to stand as someone."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Buber, I and Thou (1923): 'In the beginning is the relation'; 'Through the Thou a man becomes I'", "Hegel, Phenomenology of Spirit §178: self-consciousness 'exists only in being acknowledged' — with the master–slave sting kept"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Buber, I and Thou (Smith trans., 1937): 'In the beginning is relation'; 'Through the Thou a man becomes I' — read at the primary text (archive/reading — buber, i and thou and elements of the interhuman (1923, 1965).md)", "Hegel, Phenomenology of Spirit §178: self-consciousness 'exists only in being acknowledged' — from memory, grounding owed"]
 topics: ["[[relational-field]]"]
-state: nascent
+state: privated
+privation: "the Buber pole is read at the primary text (I and Thou, Smith trans.: 'In the beginning is relation', 'Through the Thou a man becomes I', the meeting by grace not agency); the Hegel pole (Phenomenology §178, the master–slave dialectic) is still from memory, so the convergence rests on one grounded witness"
 ---
 
 # a person becomes an I through being met by a You so the encounter constitutes the self rather than costing it
