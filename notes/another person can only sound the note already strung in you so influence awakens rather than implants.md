@@ -13,9 +13,9 @@ The reader gains the deep reason that being changed by someone is not being take
 
 ## Substantiation
 
-- Sympathetic resonance (Helmholtz, On the Sensations of Tone): strike one tuning fork and a second sounds *only if it already holds that frequency*; the first transfers energy, never pitch — the awakened string plays its own note, a hard physical fact rather than a metaphor smuggled in. Plato: learning is recollection (anamnesis), nothing implanted, and Socratic midwifery brings forth what is already gestating. Pratyabhijñā: the guru's word can only make you recognize the Self already present. Independent (19th-c. physics, Greek epistemology, Śaiva soteriology).
-- Refusal kept: Plato's Forms are not the book's, and Socratic midwifery is one-directional; cited for the awakening-not-implanting structure, not the whole doctrine.
-- Standing: a reach — the physics is literal, its lift to persons analogical, and its risk is determinism (does the string then never learn a new note?), which the book should keep open rather than resolve; it grounds in the book's own resonance theory.
+- Plato grounds the anamnesis pole at the primary text: learning is recollection, nothing implanted — "all enquiry and all learning is but recollection" (Meno 81d) — and Socratic midwifery brings forth what is already gestating, the associates finding "in themselves many fair things" and bringing "them forth" (Theaetetus 150c–d). The companion poles are still owed: sympathetic resonance (Helmholtz, On the Sensations of Tone), strike one tuning fork and a second sounds *only if it already holds that frequency*, the first transferring energy, never pitch (from memory, grounding owed); Pratyabhijñā, the guru's word can only make you recognize the Self already present (from memory, grounding owed). Independent (Greek epistemology, 19th-c. physics, Śaiva soteriology).
+- Refusal kept, and Plato's now placed: Plato's Forms are not the book's, and Socratic midwifery is one-directional; cited for the awakening-not-implanting structure, not the whole doctrine — the anamnesis method travels free of the pre-existent-soul metaphysics (see the reading record's seam).
+- Standing: privated — the Plato anamnesis pole read at the primary text; the Helmholtz and Pratyabhijñā poles still owed. This stays a reach: the physics is literal, its lift to persons analogical, and its risk is determinism (does the string then never learn a new note?), which the book keeps open rather than resolves.
 
 ---
 
