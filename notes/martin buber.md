@@ -21,7 +21,7 @@ Two features of the account bear directly on this book. The relation happens *be
 
 He is currently a chapter patron — the epigraph position, the lightest seat the roster carries — and appears in `ops/chapter concordance.md` as one line under a chapter opening. The mesh grid's reading is that the book's relational vocabulary has been running on his ontology while crediting a clinical account: "Benjamin is the clinic, Buber is the ontology" ([[the relational vocabulary's ontology is buber's rather than benjamin's]]).
 
-The `load:` assignment here is the grid's, cosigned at 65–75% and untested against a primary reading, and the note says so rather than presenting it as settled. What can be checked from the vault's side is that the concern has no philosophical bearer at present, and that the claims the book makes about the between are of the kind that need one.
+The `load:` assignment here was the grid's, cosigned at 65–75% and untested against a primary reading; the reading of *I and Thou* whole (2026-08-24) now tests it and confirms the thesis-bearing load — the concern's philosophical bearer is read at the text, and the claims the book makes about the between are grounded in his ontology rather than derived. The seating decision stays the author's.
 
 A second property is worth as much as the first. Buber arrived at I–Thou independently of Heidegger and later argued explicitly against him, which puts him outside the family resemblance that costs most of the book's company its independence ([[the convergence's independence fails where three of its names share one teacher]]).
 
