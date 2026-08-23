@@ -1,9 +1,10 @@
 ---
 description: "Good help is calibrated withdrawal rather than maximal provision: the helper adapts closely and then, as the person can bear it, does less, so the person's own effort has somewhere to land."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Winnicott: the good-enough mother 'adapts less and less completely… according to the infant's growing ability to deal with her failure'", "Montessori: 'never help a child with a task at which he feels he can succeed'; midwifery's 'masterly inactivity'"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Winnicott: the good-enough mother 'adapts less and less completely… according to the infant's growing ability to deal with her failure' (Playing and Reality ch. 1, 1971; orig. 1951) — read at the primary text (archive/reading — winnicott, the four moves kept distinct (1958–1971).md)", "Montessori: 'never help a child with a task at which he feels he can succeed'; midwifery's 'masterly inactivity' — from memory, grounding owed"]
 topics: ["[[relational-field]]"]
-state: nascent
+state: privated
+privation: "the Winnicott pole is read at the primary text (Winnicott 1971, ch. 1, the good-enough graduated failure); the Montessori and obstetric 'masterly inactivity' poles are still from memory, so the convergence rests on one grounded witness"
 ---
 
 # stepping back as the person grows able to carry more is itself an act of care timed to their capacity
