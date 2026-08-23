@@ -1,9 +1,10 @@
 ---
 description: "The book's master question is answered where the reader is likeliest to have found it: a love that made them more themselves, not less — belonging more to your own life because of another."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; the tradition crossover is inference, unverified, grounding queued)", "on record: Alise's letter (~a decade ago) — 'I've found patriotism for myself through you… we each act as auxiliary for the other… with our own flags in hand' (provenance addendum four §II.1); the reframe (2026-08-13) at [[patriotism for oneself is the felt form of the auxiliary relation to a sovereign reader]]", "inference: Hegel's Anerkennung (reciprocal, freedom-preserving); Winnicott's capacity to be alone in another's presence"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "on record: Alise's letter (~a decade ago) — 'I've found patriotism for myself through you… we each act as auxiliary for the other… with our own flags in hand' (provenance addendum four §II.1); the reframe (2026-08-13) at [[patriotism for oneself is the felt form of the auxiliary relation to a sovereign reader]]", "Winnicott, the capacity to be alone: 'the experience of being alone while someone else is present' (1958) — read at the primary text (archive/reading — winnicott, the four moves kept distinct (1958–1971).md); Hegel's Anerkennung (reciprocal, freedom-preserving) — inference, grounding owed"]
 topics: ["[[relational-field]]"]
-state: nascent
+state: privated
+privation: "the Winnicott pole is read at the primary text (Winnicott 1958, a presence that enlarges rather than merges); the Hegel Anerkennung pole stays inference, and the lived Alise-letter layer stays author-gated under personal provenance"
 ---
 
 # patriotism for oneself is a relationship that returns each person more fully to their own life that Hegel and Winnicott each named
