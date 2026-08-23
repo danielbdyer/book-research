@@ -13,9 +13,9 @@ The reader gains a solitude that is not loneliness and a togetherness that is no
 
 ## Substantiation
 
-- Winnicott, "The Capacity to Be Alone" (1958): the capacity "is based on the experience of being alone in the presence of someone," and "it is only when alone (that is to say, in the presence of someone) that the infant can discover his own personal life" — the other's non-demanding presence letting the spontaneous gesture, the true self, arise. Rilke, Letters to a Young Poet 7: "love consists in this, that two solitudes protect and border and salute each other," and the infinite distance "makes it possible for each to see the other whole." Independent (a 1904 poet, a 1958 clinician), company gathered for the shared property.
-- Refusal kept: Winnicott's shadow is the impinging mother who installs a compliant false self; Rilke distrusts possessive merger — the distance is the condition of seeing, not a sad concession.
-- Standing: nascent; a third non-Western witness (the meditator resting in awareness first in the presence of teacher or sangha) would deepen it.
+- Winnicott grounds the movement at the primary text: "the basis of the capacity to be alone is a paradox; it is the experience of being alone while someone else is present" (Winnicott 1958, §"Paradox"), and "it is only when alone (that is to say, in the presence of someone) that the infant can discover his own personal life. The pathological alternative is a false life built on reactions to external stimuli" (§"'Ego-relatedness'") — the other's reliable, non-demanding presence letting the personal impulse arise. The Rilke pole is still owed: Letters to a Young Poet 7, "love consists in this, that two solitudes protect and border and salute each other," the infinite distance that "makes it possible for each to see the other whole" (from memory, grounding owed). Independent (a 1904 poet, a 1958 clinician), company gathered for the shared property, never corroboration.
+- Refusal kept: Winnicott's shadow is the impinging presence that leaves "a false life built on reactions to external stimuli" (Winnicott 1958) in place of the personal impulse; Rilke distrusts possessive merger — the distance is the condition of seeing, not a sad concession.
+- Standing: privated — the Winnicott pole read at the primary text (Winnicott 1958), the Rilke pole and a third non-Western witness (the meditator resting in awareness first in the presence of teacher or sangha) still owed.
 
 ---
 
