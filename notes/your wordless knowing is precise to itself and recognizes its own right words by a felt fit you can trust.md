@@ -1,9 +1,10 @@
 ---
 description: "The felt sense is fuzzy only from the side of concepts; to itself it is exact and 'will not be fooled', so a reader carries an internal criterion for what is true for them — a compass, not a doctrine."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Gendlin, Focusing: the felt sense has 'an exactness of its own'; the body's yes by felt shift", "Polanyi, The Tacit Dimension (1966): we recognize a face among a million yet usually cannot tell how"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Polanyi, The Tacit Dimension (1966): 'We know a person's face… Yet we usually cannot tell how we recognize a face we know' — read at the primary text (archive/reading — polanyi, the tacit dimension (1966).md)", "Gendlin, Focusing: the felt sense has 'an exactness of its own'; the body's yes by felt shift — from memory, grounding owed"]
 topics: ["[[felt-shift]]"]
-state: nascent
+state: privated
+privation: "the Polanyi face-recognition pole is read at the primary text (The Tacit Dimension, the face known among a million yet the recognition unstateable); the Gendlin felt-sense pole ('an exactness of its own') is still from memory, so the convergence rests on one grounded witness"
 ---
 
 # your wordless knowing is precise to itself and recognizes its own right words by a felt fit you can trust
