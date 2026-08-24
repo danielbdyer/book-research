@@ -10,6 +10,8 @@ This map gathers the book's theory of suffering. The doctrine, stated in the boo
 
 The formulas below are the book's canonical examples. Each is a separate claim because each does separate work in the Molecules of Experience material. A standing qualification applies to the formula apparatus as apparatus: by author decision it is scaffolding, earning its place where it rests on established research — McLaren's emotion work, Gendlin's felt shift — and not a given outcome of the book ([[the system is scaffolding rather than the centerpiece]]). The doctrine this map opens with — suffering as contraction, never corruption — is not demoted; the formulaic housing of it is.
 
+Where this concern drains: reading suffering as contraction rather than corruption is how the book keeps the sufferer the author of their own change. A corruption is damage done to a person and a verdict they receive; a contraction is a fold they can work, information rather than a fault, so the deficit lands on conditions rather than on the person ([[pathology belongs to conditions and capacity to persons]]) and "nothing in you is broken" preserves their sovereignty over their own becoming. So this concern drains to the book's still center — [[the master question is the conditions under which a person remains the author of what they become while being genuinely changed]] and its twin [[sovereignty is authorship preserved within relationship, not control over reality]] — as the doctrine of suffering that leaves the person sovereign.
+
 ## Claims in this map
 
 - [[suffering is contraction never corruption]] — the master doctrine and its lineage
