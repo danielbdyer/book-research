@@ -37,6 +37,7 @@ Relevant Notes:
 - [[the book reads deep change as uncovering rather than addition]] — the book-wide privative move this convergence is the recognition instance of, where the corpus's own word for the deepest change is a privative
 - [[reading is remembering]] — the same doctrine printed as the book's front-matter promise
 - [[suffering is contraction never corruption]] — the diagnostic consequence of choosing un-forgetting over repair
+- [[aletheia and pratyabhijna part on whether un-seeing is concealment or contraction]] — the second seam of this convergence: the poles agree on the destination and part on the mechanism of un-seeing, the book taking the contraction side
 - [[the crossover has footsteps and the book already seats some of the walkers]] — the field around this convergence: who walked it before, who develops it, who argues against it
 - [[both poles of the convergence refuse the engineered epiphany]] — the convergence extended one step, into a refusal the two traditions share
 - [[both poles of the convergence supply their own front doors]] — the accessible entries each tradition wrote for itself, which the book's roads can start from
