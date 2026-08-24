@@ -20,7 +20,7 @@ A cache marker is the inline receipt `<!--cache id=X crc=Y src=path1|path2 deriv
 
 ## The rule
 
-**Re-stamp a per-section content marker only by re-reading its derived section against the moved source — revise the prose where the change bears on it, or confirm that it does not — and advance `derived=` to the date of that reread.** A bare checksum bump on a content marker, leaving the derived prose untouched and `derived=` stale, is a defect: it certifies a freshness that was never checked. Provenance-bundle markers may be re-stamped mechanically, and their `derived=` advances too, recording the re-confirmation.
+**Re-stamp a per-section content marker only by re-reading its derived section against the moved source and advancing `derived=` to the date of that reread.** The reread is two-sided, and this is the heart of the rule: ask not only *does the existing prose need correcting?* but *does the moved source now carry something the section ought to add?* — a source gains as well as changes, and a bump that weighs the source's semantic impact on neither count is the blind versioning this rule forbids. Revise where the movement bears on the section, add what it now warrants, or confirm it warrants neither; the consideration itself is what earns the stamp. A bare checksum bump on a content marker, leaving the derived prose unexamined and `derived=` stale, is a defect: it certifies a freshness — and a completeness — that was never checked. A provenance-bundle marker carries the lighter form of the same two-sided question, and only pure marker-digit churn (below) is exempt from asking it.
 
 ## How the reread is required going forward
 
