@@ -31,6 +31,7 @@ Beneath this ground the prior frame's concern for the prose returns as a feature
 
 - [[psychedelic names a movement not a substance]] — the reclaimed word that names the project's central process
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the founding convergence, recorded as an isomorph
+- [[aletheia and pratyabhijna part on whether un-seeing is concealment or contraction]] — the founding convergence's second seam: the two poles agree on un-forgetting and part on the mechanism, Heidegger's concealment against the Śaiva contraction, with the book on the contraction side and so one motion with its doctrine of suffering
 - [[reading is remembering]] — the front-matter promise, which the book's structure is built to keep mechanically
 - [[the book reads deep change as uncovering rather than addition]] — the one move beneath this map's central concern, since recognition un-forgets, suffering unfolds, and the reclaimed psychedelic un-conceals, so the book adds nothing and only uncovers
 - [[the solo practice reaches the felt shift and the primitives then surface by themselves]] — the practice form of remembering: after the felt shift the book claims the primitives are found already in experience, not applied to it
