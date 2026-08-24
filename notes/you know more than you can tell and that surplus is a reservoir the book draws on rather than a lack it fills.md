@@ -24,6 +24,7 @@ Relevant Notes:
 - [[what you already carry is a living implicit rather than a stored answer so knowing it stays your own act]] — the recognition-side twin, the implicit that exceeds any words it takes
 - [[michael polanyi]] — the tacit ground beneath all explicit knowing, seated in the company
 - [[reading is remembering]] — the promise this defends as an architecture of knowing rather than flattery
+- [[the book can only be auxiliary to a sovereign reader]] — why the book can only be auxiliary: the reader arrives holding a surplus already theirs, so the book draws on that reservoir rather than installing into a lack
 
 Topics:
 - [[felt-shift]]
