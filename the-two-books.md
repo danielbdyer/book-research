@@ -14,7 +14,7 @@ The reframe conversation re-described the single manuscript as two books, and th
 - **The authority burden sorts the evidence.** Book I's authority comes from discernment and synthesis, Book II's from embodied realization — `[[Book I's authority comes from discernment and synthesis; Book II's from embodied realization]]` — which is exactly why the book's two centerpieces divide as they do: the **convergence of thinkers** grounds Book I, the **lived practice and the felt shift** ground Book II.
 - **The civilizational third book is a horizon, not a structure to build** *(settled, gated on the first two being sent)*: `[[the civilizational book is a horizon not a structure to build]]`. Micro and meso are occupied; macro is the bounded ambition.
 
-<!--cache id=TB-structure crc=189049f2 src=the-conversation-catalog.md|ops/scaffold.md|notes/book-structure.md|notes/the two books differ in locus of practice not subject matter.md derived=2026-08-21-->
+<!--cache id=TB-structure crc=3e54670e src=the-conversation-catalog.md|ops/scaffold.md|notes/book-structure.md|notes/the two books differ in locus of practice not subject matter.md derived=2026-08-21-->
 
 ## Book I — facilitating another's participation
 
