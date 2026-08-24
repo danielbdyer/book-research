@@ -28,6 +28,7 @@ Where this concern drains: reading suffering as contraction rather than corrupti
 - [[the molecule catalogue divides by whether the construct existed before the formula]] — which of the formulas above name constructs that already existed elsewhere, and which are attributed to nobody
 - [[the privation move is an independent arrival across five fields rather than a book coinage]] — the convergence beneath this whole map's signature move, assembled 2026-08-05
 - [[the book reads deep change as uncovering rather than addition]] — the same privative move carried up to the book's other deepest doctrines, so contraction is one face of the book's single uncovering move
+- [[aletheia and pratyabhijna part on whether un-seeing is concealment or contraction]] — where the founding convergence meets this map: recognition's un-seeing is contraction (saṅkoca), not Heidegger's concealment, so recognition un-clenches the same fold this map's suffering is, and the book's two deepest doctrines turn out to be one motion
 - [[aristotle on privation]] — the oldest of the arrivals, with the affliction objection it brings
 - [[james marcia]] — the unnamed bearer of the foreclosure formula
 - [[the apparatus descends from the settlement the book positions itself against]] — the wider sweep: nine of the book's operational constructs trace to one uncredited formation
