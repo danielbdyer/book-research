@@ -1,5 +1,5 @@
 ---
-description: Aletheia and pratyabhijñā agree the deepest change recovers what was always there but part on why it went unseen — concealment versus contraction (saṅkoca) — and the book's recognition sits on the contraction side, one motion with its doctrine of suffering.
+description: Aletheia and pratyabhijñā agree the deepest change recovers what was always there but part on the mechanism of un-seeing — concealment versus contraction (saṅkoca) — with the book on the contraction side.
 category: claim
 sources: ["Heidegger, aletheia as a- + lēthē, and the 1964 retraction (the founding isomorph note carries the quotes)", "Kashmir Śaiva saṅkoca and the three malas (Kṣemarāja, Pratyabhijñāhṛdayam sūtras 9–10 — primary text-gated and owed; grounded in-vault via the contraction doctrine)", "the vault's contraction-not-corruption notes", "distinguished 2026-08-24; the warrant is the two traditions, not the occasion"]
 topics: ["[[recognition]]", "[[contraction-not-corruption]]"]
