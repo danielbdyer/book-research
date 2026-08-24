@@ -73,7 +73,7 @@ The arc reads four ways at once — and each overlay is itself a spine other rea
 Where the six phases and these four overlays line up phase-for-station (paśyantī = preparation … aham = integration), the corpus contains a **six-way internal coincidence with itself** — the strongest scaffold-candidate the arc reading contributes.
 
 ## §2 · The collapse — four readings are one object
-<!--cache id=COLLAPSE crc=98449856 src=ops/decisions.md|notes/the earlier contents distribute transcendence where the arc concentrates a peak.md|ops/methodology/the two-book architecture.md derived=2026-08-21-->
+<!--cache id=COLLAPSE crc=099e15cb src=ops/decisions.md|notes/the earlier contents distribute transcendence where the arc concentrates a peak.md|ops/methodology/the two-book architecture.md derived=2026-08-24-->
 
 The single strongest thing the overlay reveals: **Book II [R3] ≡ the psychedelic arc [R2] ≡ the walkable house [R7] ≡ the fifteen-unit draft scheme [R1]** are one object seen four ways — a single traverse from preparation, through a peak, to a return. The readings reach this from four independent starting points:
 
