@@ -71,7 +71,7 @@ Four questions this family surfaces and does *not* answer, because they change w
 - **The verification organ of Book II**: the felt-shift standard is never author-ratified inside the reframe transcript (it appears only as model-supplied material); the author's own verification language there is the *durability* criterion and the *authorial gate*. Whether felt-shift or durable-perspective is Book II's primary verification organ is unsettled, and the author has separately judged the felt shift underdefended.
 - **The chapter scheme is not asserted.** The provisional schemes (Book I in nine parts, Book II in ten) are self-disavowed — the author rejected the many-chaptered format. Units are named; numbers are not stable; the family references by name.
 
-<!--cache id=TB-joints crc=ba6b2e97 src=the-conversation-catalog.md|ops/scaffold.md|ops/decisions.md derived=2026-08-21-->
+<!--cache id=TB-joints crc=b8ec356c src=the-conversation-catalog.md|ops/scaffold.md|ops/decisions.md derived=2026-08-24-->
 
 ## How this family grows, and what I watched
 
