@@ -1,7 +1,7 @@
 ---
 description: "Lewin founded action research on the principle that a system is understood by intervening in it, invented the T-group, and gave social science the word field — three of the book's own commitments, from one absent name."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: precedent
 discipline: social-theory
 clause: "The participation law's scientific form is his: you learn what a system is by changing it, and the group that studies itself was his invention."
@@ -35,11 +35,12 @@ Three questions, in the order that decides the most.
 - Whether the unfreeze–change–refreeze model bears on the book's plasticity-window material or is a later simplification of him.
 - Whether the T-group's own documented harms belong with the adverse-effects reading already queued.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
 - [[transformation is enacted participation inside a held container]] — the law his action research states in the register of science
-- [[the participation law has no opponent and its oldest objection is that participation is contamination]] — the hole he stands nearest to, and the objection he would half-endorse
 - [[the racket is the attractor state with a salary]] — the est-donated construct whose other genealogy is his
 - [[set and setting]] — the framework whose person-and-environment structure restates his function
 - [[the apparatus descends from the settlement the book positions itself against]] — the corpus follows est's ancestry through speech acts and never through group dynamics; Lewin heads the untraced branch, and stands upstream of the whole settlement the book's other uncredited constructs come from

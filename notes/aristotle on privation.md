@@ -1,7 +1,7 @@
 ---
 description: "Aristotle made privation one of the three principles of all change, giving the book's signature move a twenty-four-century ancestry the corpus flags as never cited, plus the objection that comes with it."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: precedent
 discipline: classical-philosophy
 clause: "The book's signature move — read a suffering-state by the ingredient it lacks — is a move Aristotle made about change as such, and the corpus records that it has never been credited."
@@ -19,7 +19,7 @@ That is the book's Privation Principle, arrived at twenty-four centuries earlier
 
 **What he would refuse.** The therapeutic reading, in two ways. Privation for Aristotle is a condition of change as such, not a diagnosis of a person, and he would not accept that naming what is absent tells you how to supply it — his account explains why change is intelligible, not how to bring it about. And he would refuse the exhaustiveness the formulas quietly assume: the classical doctrine is that privation is *one* of the three principles, not the whole account, and the substratum and the form are doing equal work.
 
-**The objection that comes with the credential, which the corpus names.** Privation theory has always been charged with under-describing positive, weaponized evil — suffering that is a presence to be borne rather than an absence to be filled. The survey turns this into a kept tension the book could hold rather than an attack it must answer: "privation versus affliction — some suffering is a missing ingredient; some is a presence that must be borne; wisdom is knowing which is in front of you." Both bearers are already seated ([[weil is seated as the opponent the plumbing deserves]]), and the vault already holds the case where the book's own notation fails on this exact line ([[the racket is the attractor state with a salary]] — a suffering whose payoff is a presence, which is why the privation formulas cannot reach it).
+**The objection that comes with the credential, which the corpus names.** Privation theory has always been charged with under-describing positive, weaponized evil — suffering that is a presence to be borne rather than an absence to be filled. The survey turns this into a kept tension the book could hold rather than an attack it must answer: "privation versus affliction — some suffering is a missing ingredient; some is a presence that must be borne; wisdom is knowing which is in front of you." Both bearers are already seated, and the vault already holds the case where the book's own notation fails on this exact line ([[the racket is the attractor state with a salary]] — a suffering whose payoff is a presence, which is why the privation formulas cannot reach it).
 
 **The load, and what happens without him.** With `precedent`: the analysis stands without him and loses a lineage. But the finding that puts him in the apparatus region is larger than his own chair, and it is new as of 2026-08-05 — the privation reading is the one part of the chemistry with independent arrivals behind it, in classical metaphysics, in Trika's three *malas*, and in at least two clinical literatures ([[the molecule catalogue divides by whether the construct existed before the formula]]). The move is not a book coinage at all.
 
@@ -33,6 +33,8 @@ Three questions, in the order that decides the most.
 - Whether the *privatio boni* tradition's own answers to the affliction objection are usable here.
 - Whether the Trika *malas* and the Aristotelian privation are the same structure or two structures that resemble each other, which matters because the vault currently maps them corner for corner ([[the triads privations map the three malas corner for corner]]) and has never asked whether the mapping is more than verbal.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
@@ -42,7 +44,6 @@ Relevant Notes:
 - [[aristotle distinguishes activity complete in itself from movement toward an outside end]] — the same thinker's other arrival, *energeia* for the anti-instrumentality clause, carrying the same shape of refusal this note records: the structure warranted, the frame around it declined
 - [[the triads privations map the three malas corner for corner]] — the other ancestry, and the question of whether the two are one structure
 - [[the racket is the attractor state with a salary]] — the counter-case: a suffering that is a presence, which the privation reading cannot hold
-- [[weil is seated as the opponent the plumbing deserves]] — the affliction objection's bearer, already seated and never connected to this argument
 
 Topics:
 - [[interlocutors]]

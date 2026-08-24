@@ -1,7 +1,7 @@
 ---
 description: John Caputo established that Gelassenheit is Meister Eckhart's own word in Heidegger's mouth — then spent a later book warning against the mystical reading he had established. A footstep and a guard in one person.
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 recommendation: "Reference-lineage: he connects the book's Eckhart seat to Heidegger's deepest borrowing, and his fifteen-year self-refusal is a career-scale model of the refusals-intact rule the company is built on."
 works: ["The Mystical Element in Heidegger's Thought (1978)", "Demythologizing Heidegger (1993)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
@@ -15,6 +15,8 @@ John Caputo's *The Mystical Element in Heidegger's Thought* (1978) established t
 The refusal kept is Caputo's own second act. In *Demythologizing Heidegger* (1993) the scholar who established the mystical element spent a book warning against it. The one figure who most successfully joined Heidegger to the mystics is also the literature's loudest caution about doing so — a footstep and a guard in one person, and a model, enacted at career scale, of keeping one's own refusal in print beside one's finding. That is the shape the book's company is built on, performed by a member of the field.
 
 Evidence standing (added 2026-08-06). The quotations on this note come from the crossover research's web-verified survey of 2026-08-03 (archive/research — crossover cluster background.md), not from the work's own pages, which remain unread here; the recommendation rests on that survey depth.
+
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
 
 ---
 

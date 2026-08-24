@@ -13,5 +13,11 @@
 # check stops flagging them. Decision recorded in ops/decisions.md, 2026-08-10.
 ops/sessions/
 
+# Ephemeral git worktrees created by background subagents (isolation: worktree).
+# Each is a linked worktree with its own index; they are transient and must never
+# be tracked in the parent repo's history, or the auto-commit hook commits their
+# live churn. Ignored so the stop-hook git check stops flagging them.
+.claude/worktrees/
+
 # stray Windows crash dumps
 *.stackdump

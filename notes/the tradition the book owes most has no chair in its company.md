@@ -1,9 +1,9 @@
 ---
-description: "The author's pause, 2026-08-03: the Kashmir Śaiva tradition is staged as aletheia's compatriot and honored as the ground beneath everything, yet never given its flowers as a guest among the book's thinkers."
+description: "The author's pause of 2026-08-03, answered 2026-08-16: Kashmir Śaivism is named the book's deepest well, and the road into the valley stays the treatment under trial, so the tension stands treated rather than resolved."
 category: tension
-status: live
+status: treated
 treatment: "the road into the valley"
-sources: ["author statement, 2026-08-03", "atlas §IX preamble", "atlas §I", "first-telling: the offering"]
+sources: ["author statement, 2026-08-03", "author decision, 2026-08-16", "atlas §IX preamble", "atlas §I", "first-telling: the offering"]
 topics: ["[[tensions]]", "[[interlocutors]]"]
 ---
 
@@ -17,6 +17,8 @@ A chair can also do one thing a watershed cannot: refuse. The book keeps each se
 
 The author has since stated his position (2026-08-03): the tradition deserves its flowers. What remains open is the design problem he named with it — for a Western audience the tradition "may be hard to stomach or to put their comfort in, and that is part of the book's responsibility: to figure out the road into the valley." The treatment under trial is that road: how the book brings its reader to the tradition honestly, neither hiding the valley nor demanding the reader's comfort survive it unchanged. The shape of the chair and of the road are the author's to decide; the vault holds the question and the materials.
 
+On 2026-08-16 the author answered the naming question directly. Asked whether Kashmir Śaivism is named as the book's deepest well, he said: "absolutely, it does seem to occupy that, and I think that's fine. It surprised me too" (author decision, 2026-08-16; the dated row is in `ops/decisions.md`). The dated discipline travels with the naming and stays: the triad was axiomatized in December 2025, three months before his first formal contact with the tradition, so the book names its deepest well without claiming descent from it, and the refusals derived at [[the kashmir shaiva tradition would decline four of the book's deepest moves]] stay printed beside the naming. The tension accordingly moves to treated rather than resolved, because the naming decides the question this note raised — the tradition gets its flowers, named as the deepest well — while the note's own stated remainder stands: the road into the valley is still the design problem under trial, the shape of the chair is still the author's to decide, and the four candidate refusals still await his testing.
+
 ## Substantiation
 
 - The author's statement of 2026-08-03 is the tension's source and is quoted above in full where it bears.
@@ -24,7 +26,7 @@ The author has since stated his position (2026-08-03): the tradition deserves it
 - The nearest thing to a chair the tradition currently has: Utpaladeva and Kṣemarāja hold interlocutor notes from the corpus's roster, Kṣemarāja's hand writes in the margins, and the Pratyabhijñāhṛdayam sits on the reading list. These are structural credits rather than a staged, quotable presence among the company.
 - The author's flowers statement, in full where it bears: "I do think it deserves its flowers. For a western audience it may be hard to stomach or to put their comfort in and that is part of the book's responsibility is to figure out the road into the valley" (author statement, 2026-08-03).
 - His stewardship line from the same exchange, governing how the flowers are given: "for those of the Śaivite tradition I do not wish to co-opt the ideas for my own benefit" (author statement, 2026-08-03). The road must honor the tradition without extracting from it; the front doors and their faults are gathered at [[both poles of the convergence supply their own front doors]].
-- The stewardship line has a scholarly test it should be made to pass. Andrea Jain's "gestural subversion" holds that commodified spirituality acknowledges the harms of the system it lives inside and subverts them in gesture only, so sincerity is not a defense — which makes her the sharpest available form of the question this line answers ([[andrea jain]]).
+- The stewardship line has a scholarly test it should be made to pass. Andrea Jain's "gestural subversion" holds that commodified spirituality acknowledges the harms of the system it lives inside and subverts them in gesture only, so sincerity is not a defense — which makes her the sharpest available form of the question this line answers.
 - The road itself has one recorded precedent. Henry Corbin translated Heidegger into French and carried the hermeneutics of unveiling into Persian illuminationism, saying plainly what he took and what he left ([[henry corbin]]). He proves the crossing can be walked and shows where the fork is: his destination was esoteric, and this book's is a householder's Tuesday. J. L. Mehta states the road's governing constraint from the other direction — an Indian reader must go through the West to win back his own selfhood, because "the way to what is closest to us is the longest way back" — which forbids the shortcut this road will be tempted by ([[j l mehta]]).
 
 ---
@@ -38,7 +40,6 @@ Relevant Notes:
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the compatriot staging the pause names
 - [[utpaladeva]] — the tradition's founding philosopher, currently a credit rather than a chair
 - [[isabelle ratie]] — the scholarly warrant that the tradition argues, which is what a chair can do and a watershed cannot
-- [[andrea jain]] — the structural test the stewardship line must pass, in which sincerity is not a defense
 - [[henry corbin]] — the one recorded precedent for the road, walked out of Heidegger into an Eastern tradition of light
 - [[j l mehta]] — the road's constraint stated in mirror image: no shortcut, and the way to what is closest is the longest way back
 - [[steven wasserstrom]] — the charge this absence is most exposed to: comparative synthesis that lifts a tradition's material out of its history

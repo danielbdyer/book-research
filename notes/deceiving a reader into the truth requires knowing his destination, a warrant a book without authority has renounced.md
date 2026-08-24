@@ -17,7 +17,6 @@ The maieutic deception is not portable to a relation of equals. "Deceiving into 
 ---
 
 Relevant Notes:
-- [[maieutic ordering deceives the reader into the truth because an illusion cannot be destroyed directly]] — the device whose ethical price this note names, the covert destination it depends on
 - [[writing without authority renounces the teacher's office and with it the power to correct a misreading]] — the renunciation that removes the warrant, since a book without authority does not claim to know where the reader must go
 - [[the facilitator tends conditions under which recognition might occur rather than transmitting a destination]] — the book's own facilitation ethic, which forbids naming the destination that the deception requires
 - [[indirect communication is built to isolate the individual, so a participatory book cannot borrow its devices and reverse their purpose]] — the companion non-portability, the direction the devices point

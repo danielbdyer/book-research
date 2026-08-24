@@ -18,7 +18,7 @@ That is a mechanism for the book's central question — why the breakthrough did
 ## Substantiation
 
 - `privated` — the primary paper has not been read here, and the durations above are the synthesis's report of it. The finding is from work on a social-reward-learning critical period in animals, which is a substantial qualification the synthesis states and any use of this claim has to carry.
-- Stated in plain terms rather than as loop release, per [[a synthesis organized by the schemes offers to promote them back to architecture]].
+- Stated in plain terms rather than as loop release.
 - **The two mechanisms are genuinely different and the vault should not merge them.** One locates the failure in the receiving structure at the moment of the experience; the other locates it in what did or did not happen in the weeks afterward. They imply different books. The first says a reader needs to have grown before the experience can land, which is a slow and unpromising message; the second says a reader had a window and spent it going back to work, which is actionable and also gentler. Both are available and the vault holds them side by side rather than choosing, because choosing would settle by preference a question the author has not been asked.
 - One thing the second mechanism does that the first cannot: it makes the corpus's descent and integration material load-bearing rather than decorative. If the window is where the change happens, then the phases after the peak are the operative part of the arc and the peak is the occasion rather than the event — which is the same shape as the anti-instrumentality clause arriving from neurobiology ([[the practice is the expression of realization rather than a means to it]]).
 - The corresponding hazard is worth stating. A mechanism that says *use the window* is instrumental by construction, and it is the most natural bridge from this material to advice about optimizing an integration period. That is the register the book's own clause refuses, and the author's own concern about the transformation promise sits exactly here ([[the author is the book's first audience member and that is where the promise starts]]).
@@ -30,7 +30,6 @@ Relevant Notes:
 - [[the practice is the expression of realization rather than a means to it]] — the clause this material pulls against when it becomes advice
 - [[the author is the book's first audience member and that is where the promise starts]] — the author's own version of the same difficulty
 - [[a framework for what is happening is itself a protective factor]] — the other finding from the same synthesis that bears on what a book can do
-- [[a synthesis organized by the schemes offers to promote them back to architecture]] — the treatment under which this is stated
 - [[what the big experience leaves behind depends on what follows it]] — the outcome data this mechanism predicts: enduring change tracked ongoing practice and context, not dose
 
 Topics:

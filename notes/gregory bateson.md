@@ -1,7 +1,7 @@
 ---
 description: "Gregory Bateson is an evaluated candidate: his learning levels formalize the book's account of protective structure, and his refusal of conscious purpose is aimed at books like this one."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 clause: "Draft, pending the author's decision: character is learning at the second level, and the reframe is the third — which he says is dangerous."
 recommendation: "Reference-lineage, seated as a counterweight rather than an ally: he supplies the formal ancestry for protective structure that outlives its cause, for the self-sustaining complaint, and for the relational field, and he refuses the designed curriculum that carries them."
 works: ["Steps to an Ecology of Mind", "Mind and Nature: A Necessary Unity"]
@@ -34,6 +34,10 @@ The second refusal is structural. Bateson held that conscious purpose is the pat
 ## What the evaluation found that the survey did not
 
 The survey presents Bateson as an ally who happens to be unnamed. In the primary texts he is not an ally: the ladder and the double bind sit alongside a refusal aimed squarely at designed curricula and a warning that the transition the book's arc arrives at is sometimes pathogenic. Naming him for the ladder alone would quote half of him, which is the one thing a project that points at people cannot do.
+
+The transmission mesh's verdict, folded 2026-08-16: Dig IV judged him load-bearing, since he supplies the distinct-level logic and the soberest boundary-marker, that the felt shift cannot self-certify at the depth of self-dissolution, and it queues a Tier 7 reading (entry 73).
+
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
 
 ---
 

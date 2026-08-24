@@ -22,8 +22,8 @@ The limit bears directly on the book's deepest ambition for its medium. The corp
 
 Relevant Notes:
 - [[the reader's working posture is solitude held inside relationship]] — the posture this note sets the floor beneath, since the reliable presence it names cannot be installed where it was never laid down
-- [[the good-enough other's graduated failure to adapt is the developmental engine]] — the mechanism this failure is the absence of, a graduated withdrawal with no first adaptation to build on
-- [[the book cannot tell dissolution from regression and neither can its reader]] — the adjacent limit the book's object lacks a device for, on the same axis of who the reader already is
+- the good-enough other's graduated failure to adapt is the developmental engine — the mechanism this failure is the absence of, a graduated withdrawal with no first adaptation to build on
+- the book cannot tell dissolution from regression and neither can its reader — the adjacent limit the book's object lacks a device for, on the same axis of who the reader already is
 
 Topics:
 - [[relational-field]]

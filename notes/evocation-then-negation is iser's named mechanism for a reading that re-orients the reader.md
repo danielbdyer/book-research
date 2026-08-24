@@ -22,7 +22,6 @@ The mechanism carries a built-in cost the book must accept if it uses it: it iss
 Relevant Notes:
 - [[iser distinguishes completion from participation as two fates of the textual gap]] — the distinction this mechanism serves, being the means by which a text produces the participation fate
 - [[the book must respect that it cannot verify the reader has done the work]] — the book's own limit, which this mechanism instances from the device side: the re-orientation leaves no receipt
-- [[the participation gap relapses into completion when the reader consolidates the disruption into a deeper consistency]] — what happens when the negation fails to hold, the re-oriented reader re-forming a new consistency
 - [[what is recognized cannot be un-recognized]] — the book's contrasting hope, a re-orientation the reader cannot walk back, held against Iser's device that cannot confirm the re-orientation happened at all
 
 Topics:

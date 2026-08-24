@@ -11,7 +11,9 @@ topics: ["[[tensions]]", "[[book-structure]]"]
 
 Atlas §XI.1a records a failure mode the book's style produces: "the prose beauty recruits appreciation-posture: the reader becomes a connoisseur rather than a practitioner." The first-telling states the same finding for the reader: "beauty recruits spectators. Well-made sentences can turn a reader into a connoisseur of the book — collecting lines, admiring passages — while their actual daily life goes untouched" (first-telling: the honesty). The posture the book needs is a practitioner's, and the corpus's own law holds that nothing transforms from the audience.
 
-The treatment under trial is a revision pass producing stretches of deliberately plain prose. The atlas states two intended effects at §XI.1a and §XI.1e: unornamented stretches restore contrast to the ornamented ones, and ordinary life becomes credible as subject matter. Whether the pass produces those effects is untested, though it is no longer untried: the abridged edition applies it to the chapter-one poem, replacing roughly a hundred lines of verse with five lines of prose at the same position (see [[the abridged edition compresses the opening poem rather than reproducing it]]). A related problem has its own note: fluent prose can also counterfeit the book's somatic verification signal, which [[felt shift versus felt confirmation]] documents.
+The treatment under trial is a revision pass producing stretches of deliberately plain prose. The atlas states two intended effects at §XI.1a and §XI.1e: unornamented stretches restore contrast to the ornamented ones, and ordinary life becomes credible as subject matter. Whether the pass produces those effects is untested, though it is no longer untried: the abridged edition applies it to the chapter-one poem, replacing roughly a hundred lines of verse with five lines of prose at the same position (see [[the abridged edition compresses the opening poem rather than reproducing it]]). A related problem is that fluent prose can also counterfeit the book's somatic verification signal.
+
+**Held within the ecology.** The book does not produce the reader's transformation; it tends the conditions for the reader's own facilitation of recognition, standing two steps back from the outcome ([[the book tends conditions for the reader's own facilitation of recognition rather than facilitating transformation]]; [[the book must respect that it cannot verify the reader has done the work]]). Because there is no delivered product for beauty to sabotage, prose that recruits the connoisseur is re-described as prose that has taken over the reader's own facilitating, which the new ground's craft constraint already forbids ([[do not explain the reader out of an encounter]]). The hazard re-nests as a craft guardrail on one locus's prose: the sentences either occasion the reader's own recognizing or usurp it, and the register discipline exists to keep them occasioning rather than substituting. The tension stays live and the Plain Water pass stays a genuine treatment; what changes is that beauty is no longer an existential threat to an outcome the book delivers but a rule for how one locus writes ([[the ecology frame transcends and includes the verification frame rather than replacing it]]).
 
 ## Substantiation
 
@@ -24,9 +26,8 @@ The treatment under trial is a revision pass producing stretches of deliberately
 
 Relevant Notes:
 - [[nothing transforms from the audience]] — the law that makes the appreciating posture a failure
-- [[forward hunger defeats the pause]] — the adjacent tension: the book's momentum also works against practice
 - [[the abridged edition compresses the opening poem rather than reproducing it]] — the one worked instance of this note's treatment in the sources, applied to the book's most ornamented single element
-- [[introspective access is the felt shift's undefended premise]] — the deeper version of this hazard: not that beautiful prose recruits the wrong posture, but that the posture may not read anything reliably in the first place
+- [[the book tends conditions for the reader's own facilitation of recognition rather than facilitating transformation]] — the position on which beauty guards a feature rather than sabotaging a delivered outcome
 
 
 Topics:

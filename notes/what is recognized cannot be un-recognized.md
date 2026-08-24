@@ -20,14 +20,17 @@ The consequence for the book is a matter of consent rather than of tone. A work 
 - The corresponding passages in the other documents are one-sided. The front-matter promise recorded at [[reading is remembering]] states what the reader will gain; the executed draft's reading contract asks for slowness and for the practices to be done and warns only that confusion is information (abridged: how to read this book). Neither states a cost.
 - The etymological ground is already in the corpus and supports the claim without stating it. *Aletheia* is constructed as un-forgetting, and Lethe is the river of forgetting (abridged: prologue; atlas §I). A structure named for the undoing of forgetting has no second undoing available.
 - The claim appears in no descriptive source: one attestation, in the earliest draft.
+- This promise collides with the book's reader-premise, and the collision has been stated nowhere. The book addresses, among others, a reader whose big experience "didn't hold" ([[an enormous experience is interpreted by the structure it did not change]]), while this note promises that what reading remembers cannot be unremembered. Side by side they force a question — was the big experience a recognition? — and the vault already holds the answer without connecting it: the lost breakthrough was a state, interpreted by a structure it did not change and therefore not retained, whereas recognition is a station, built rather than visited ([[state and station were distinguished a millennium before the lattice named them]]). A state descends and does not hold; a station, once earned, is the irreversible thing, so the promise and the premise do not contradict — they distinguish what held from what did not by the same distinction the book already uses as its bypass guard (forest panel, 2026-08-08).
 
 ---
 
 Relevant Notes:
 - [[reading is remembering]] — the promise this states the cost of
 - [[recognition is the soul's reminder rather than the ego's reward]] — the other half of the same material: what the reminder is, as against what it is not
-- [[the reader's resistance has nowhere to land]] — the tension this bears on, since a reader told the cost is a reader given something to refuse
 - [[nothing transforms from the audience]] — the law that makes the reader's consent structural rather than courteous
+- [[an enormous experience is interpreted by the structure it did not change]] — the reader-premise this collides with, the big experience that did not hold
+- [[state and station were distinguished a millennium before the lattice named them]] — the distinction that dissolves the collision: a state does not hold, a station does
+- [[recognition is irreversible as remembering but revocable when kept as a possession]] — the limiting clause this promise takes from two lineages, irreversible as remembering and revocable as a possession
 
 Topics:
 - [[recognition]]

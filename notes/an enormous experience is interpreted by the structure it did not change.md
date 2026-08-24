@@ -22,20 +22,19 @@ The grid's claim that nothing else answers the question with a mechanism did not
 - Stated on the grid's authority and `privated`: the primary formulation is Ken Wilber's, in the lattice he built with Allan Combs, and neither has been read against a primary work in this vault. The claim's standing here is as a mechanism proposed for a question the book has already committed to answering, not as a finding the vault has verified.
 - The reader and the promise are the author's own, quoted from `ops/methodology/the book's current shape.md`, tier one — the tier a session may build on.
 - The two claims the mechanism sits between are both already in the vault. What the book says happens is [[recognition]]; what the book says obstructs it is protective structure that persists after its cause ([[contraction-not-corruption]]). The mechanism connects them: a state of recognition arriving into unchanged protective structure is read by that structure, which is why the recognition can be genuine and change nothing.
-- One constraint on adopting it, which the author's own decision of 2026-08-04 imposes. The lattice's other axis is a stage model, and the schemes were demoted from architecture to instrument. Taking the mechanism therefore means taking the independence of the two axes, which is the part that does the work, without taking the developmental ladder it was drawn on — and the ladder is exactly the part that became a status hierarchy among the people who adopted it ([[a developmental scheme handed to practitioners becomes a ranking of persons]]). The mechanism can be stated with structure meaning nothing more than *whatever equipment the person brought*, which is all the answer requires.
+- One constraint on adopting it, which the author's own decision of 2026-08-04 imposes. The lattice's other axis is a stage model, and the schemes were demoted from architecture to instrument. Taking the mechanism therefore means taking the independence of the two axes, which is the part that does the work, without taking the developmental ladder it was drawn on — and the ladder is exactly the part that became a status hierarchy among the people who adopted it. The mechanism can be stated with structure meaning nothing more than *whatever equipment the person brought*, which is all the answer requires.
 - A second constraint, from the same source. The book's own account of what changes a structure is participation inside a held container over time ([[transformation is enacted participation inside a held container]]), and the mechanism must not be allowed to imply that a structure is changed by having a better experience — that would restate the promise the author has explicitly moved away from.
 
 ---
 
 Relevant Notes:
 - [[state and station were distinguished a millennium before the lattice named them]] — the same structure, reached independently, and already declared by the book as its bypass guard
-- [[the book cannot tell dissolution from regression and neither can its reader]] — the other gap the same thinker names, and the reason he moves out of the reference lineage
 - [[the plasticity window reorganizes only what attention is on]] — the other mechanism for the same question, arriving from neurobiology and held beside this one rather than merged with it
 - [[transformation is enacted participation inside a held container]] — the book's own account of what does change a structure
-- [[a developmental scheme handed to practitioners becomes a ranking of persons]] — the cost of importing the stage axis along with the mechanism
 - [[recognition]] — the arrival this mechanism explains the non-persistence of
 - [[ken wilber]] — the bearer, and the five places the grid finds him already load-bearing without credit
 - [[what the big experience leaves behind depends on what follows it]] — the clinical measurements of this mechanism's output: persistence tracked completeness and subsequent practice, not the peak alone
+- [[what is recognized cannot be un-recognized]] — the irreversibility promise this premise appears to collide with, dissolved by the state-and-station distinction: the lost breakthrough was a state, recognition is a station
 
 Topics:
 - [[recognition]]

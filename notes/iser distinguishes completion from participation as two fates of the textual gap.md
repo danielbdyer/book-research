@@ -21,10 +21,8 @@ The split is load-bearing for the book because participation, not completion, is
 
 Relevant Notes:
 - [[evocation-then-negation is iser's named mechanism for a reading that re-orients the reader]] — the temporal device by which a text produces the participation fate rather than the completion one
-- [[the participation gap relapses into completion when the reader consolidates the disruption into a deeper consistency]] — the failure mode built into the participation fate, where the reader re-forms the disruption into a new consistency
 - [[reading stance is a setting of selective attention rather than a property of the text]] — Rosenblatt's parallel account, where the two fates become two settings of the reader's attention
 - [[beauty recruits the wrong posture]] — the book's own name for the completion danger, which Iser reaches from the theory of the gap
-- [[the reader-response strata certify participation in meaning but not a change in capacity]] — the limit on this mechanism, since participation as Iser defines it is self-examination at the level of preconceptions rather than altered capacity
 
 Topics:
 - [[felt-shift]]

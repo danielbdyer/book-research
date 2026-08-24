@@ -21,7 +21,6 @@ Relevant Notes:
 - [[authority earned through participation differs from authority asserted through abstraction]] — the book's own version of the renunciation, authority earned through encounter rather than asserted through finality
 - [[writing for facilitators dissolves the authority double-bind]] — the structural move that lets a first book hold authority and hand it back at once, which "without authority" attempts in a single gesture
 - [[deceiving a reader into the truth requires knowing his destination, a warrant a book without authority has renounced]] — the tension a renounced authority creates with maieutic deception, since a covert destination is an authority kept back
-- [[maieutic ordering deceives the reader into the truth because an illusion cannot be destroyed directly]] — the device this one sits against
 
 Topics:
 - [[answerability]]

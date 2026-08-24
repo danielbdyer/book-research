@@ -1,7 +1,7 @@
 ---
 description: Internal Family Systems is an evaluated candidate — the correspondences hold, the executed draft already borrows its vocabulary for the identity loop, and its evidence base is far thinner than its influence.
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 recommendation: "Reference-lineage; but the seat is the smaller half of the finding, because the executed draft already uses Schwartz's vocabulary in the identity-loop material without stating a position, so the work this evaluation identifies is a positioning passage in the text rather than a chair."
 clause: "Draft, pending the author's decision: the clinical near-twin the book is already speaking, and has not yet located itself against."
 works: ["Internal Family Systems Therapy (Schwartz)", "No Bad Parts (Schwartz)"]
@@ -30,6 +30,8 @@ So the book is already speaking the dialect. What it has never done is state whe
 The counterweight is evidential rather than doctrinal, and the numbers are specific enough to use. A 2025 scoping review of the IFS literature found twenty-seven studies meeting inclusion criteria, of which two were randomized controlled trials, seventeen were case studies, five quasi-experimental, and three qualitative — against the hundreds of trials behind cognitive behavioural therapy. For post-traumatic stress the controlled evidence reduces to a single uncontrolled pilot. Clinicians also raise a practice-level risk the book inherits directly: parts work handled carelessly can destabilize people with complex trauma.
 
 This bears on how the model can be named accurately. Citing IFS points at a vocabulary and a practice ethic that many readers already speak; it does not point at a settled clinical result, and a citation that reads as though it does would be saying more than the literature says. The distinction matters for pointing rather than for argument: Schwartz's finding about protectors is a clinician's observation offered in a clinician's terms, and naming it as that is both accurate and enough.
+
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
 
 ---
 

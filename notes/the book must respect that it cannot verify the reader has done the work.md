@@ -23,7 +23,6 @@ Relevant Notes:
 - [[the book can only be auxiliary to a sovereign reader]] — the honest maximum this limit implies, an instrument that serves a reader's own act rather than an authority that certifies it
 - [[recognition is cultivated rather than caused or manufactured]] — why verification is impossible in principle, since the book tends conditions and cannot produce or detect the event
 - [[the book performs what it describes]] — the design law that turns this respected limit into form, invitations in place of conclusions
-- [[felt shift versus felt confirmation]] — the reader-side reason verification would fail even if attempted, since a bodily assent can be counterfeit
 
 Topics:
 - [[relational-field]]

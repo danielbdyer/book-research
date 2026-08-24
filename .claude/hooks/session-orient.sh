@@ -172,6 +172,44 @@ if [ "$LINK_DEFECTS" -ge 1 ]; then
   echo "CONDITION: $LINK_DEFECTS wiki-link integrity defect(s) — unresolved or ambiguous. Run scripts/queries/link-check.sh and fix on sight."
   FIRED=1
 fi
+# Cache-section staleness (the event-based half of the alignment check, author
+# decision 2026-08-21; CI is the other half). The family files (the-*.md, indexed
+# by the-lenses.md) and ops/scaffold.md carry inline content-hash markers; when a
+# cited source changes, the section resting on it goes stale and needs re-reading.
+# Each --stale call lists only the expired sections (empty when all hold), so this
+# fires exactly when a re-derivation is actually owed.
+LENS_STALE=$(scripts/queries/lens-check.sh --stale 2>/dev/null | grep -cE '^[^#].*: ')
+SCAF_STALE=$(scripts/queries/scaffold-check.sh --stale 2>/dev/null | grep -c '[A-Za-z0-9]')
+case "$LENS_STALE" in *[!0-9]*) LENS_STALE=0;; esac
+case "$SCAF_STALE" in *[!0-9]*) SCAF_STALE=0;; esac
+CACHE_STALE=$((LENS_STALE + SCAF_STALE))
+if [ "$CACHE_STALE" -ge 1 ]; then
+  echo "CONDITION: $CACHE_STALE cache-section(s) stale — a source moved under a family file (the-*.md) or ops/scaffold.md. Run /lens and /scaffold (or scripts/queries/lens-check.sh and scaffold-check.sh) and re-derive the expired sections."
+  FIRED=1
+fi
+# Coverage regression (the substrate-pivot sync signal, author decision 2026-08-21).
+# A note added to notes/ that no family references yet raises the uncovered count above
+# the baseline recorded in the-lenses.md. This is the case the cache markers miss: a NEW
+# note expires nothing (nothing cites it), so without this a session would not know the
+# families have fallen behind the graph. Fires until a coverage pass folds the new notes
+# into families and the baseline is advanced.
+COV_REG=$(scripts/queries/lens-check.sh --coverage 2>/dev/null | grep -oE 'REGRESSED: uncovered [0-9]+→[0-9]+ \(\+[0-9]+\)')
+if [ -n "$COV_REG" ]; then
+  echo "CONDITION: family coverage regressed — ${COV_REG#REGRESSED: }. New notes are referenced by no family (the substrate pivot's sync gap). Run scripts/queries/lens-check.sh --uncovered (or /lens) to route them into families."
+  FIRED=1
+fi
+# Grounding meter (the reification signal, added 2026-08-22). Coverage measures whether a
+# note is reached by a lens; this measures whether it is substantiated or still nascent (a
+# seed, grounding owed). A RISE above the grounding-baseline in the-lenses.md means seeds
+# were minted faster than they were grounded — the harvest outrunning its meter. Fires as a
+# prompt to ground (a completed primary reading, nascent → full) or to re-baseline
+# deliberately; unlike coverage, the nascent count never reaches zero, so this is a meter,
+# not a gate.
+GND_RISE=$(scripts/queries/lens-check.sh --grounding 2>/dev/null | grep -oE 'RISEN: nascent [0-9]+->[0-9]+ \(\+[0-9]+\)')
+if [ -n "$GND_RISE" ]; then
+  echo "CONDITION: grounding meter rose — ${GND_RISE#RISEN: }. New nascent notes were minted faster than they were grounded (the harvest outrunning its meter). Ground the highest-leverage ones via the grounding backlog at the head of ops/reading queue.md, or re-baseline in the-lenses.md to acknowledge the harvest. Full report: scripts/queries/lens-check.sh --grounding."
+  FIRED=1
+fi
 # The committed outline roll-up (ops/outline.md) was retired 2026-08-09 with the
 # other standing self-measurement instruments, so there is no outline-staleness
 # condition. A session that wants the census on demand runs

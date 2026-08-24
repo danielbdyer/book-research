@@ -17,10 +17,8 @@ Plato's *Seventh Letter* states that the deepest knowledge cannot be written and
 ---
 
 Relevant Notes:
-- [[a codex is a one-chair technology making a two-chair argument]] — the same passage read as the corpus's most authoritative witness against a book read alone, since kindling needs co-presence and duration
 - [[the book is a tuning fork and the reader is the striking surface]] — the book's own image of the reader supplying the activation, arrived at independently of the Seventh Letter
 - [[the book must respect that it cannot verify the reader has done the work]] — the concession this warrant carries, that a book can raise the odds of ignition and never confirm it
-- [[the requirement that the book's author be trusted and disappear restates kierkegaard's authorial problem]] — the same medium-problem stated by a different precedent, a text that disowns being the vehicle
 
 Topics:
 - [[answerability]]

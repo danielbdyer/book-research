@@ -30,7 +30,6 @@ Relevant Notes:
 - [[the basic practice posture is specified as simultaneous conditions rather than as a sequence]] — the six components the executed draft gives it
 - [[the practice forms specify when to begin and not how to tell one is finished]] — the twelve forms said to land on this posture, and what their specification leaves out
 - [[the practice is the expression of realization rather than a means to it]] — the clause beneath the definition: returning is not a means to steadiness, the returning is the practice
-- [[the basic posture is describable as dissociation and the harm literature is unread]] — the adversary the posture had never met, and the only one that describes it from outside its own vocabulary
 
 
 Topics:

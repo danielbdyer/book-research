@@ -3,7 +3,7 @@ description: "The book's move is recursive, standing two steps back from the out
 category: claim
 sources: ["reframe conversation, 2026-08-13, lines 2197-2201", "reframe conversation, 2026-08-13, lines 16020-16030", "reframe conversation, 2026-08-13, lines 13565-13584", "author direction, 2026-08-14"]
 topics: ["[[recognition]]", "[[relational-field]]"]
-state: nascent
+state: full
 ---
 
 # the book tends conditions for the reader's own facilitation of recognition rather than facilitating transformation

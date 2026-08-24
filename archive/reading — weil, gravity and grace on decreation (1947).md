@@ -10,7 +10,7 @@ created: 2026-08-10
 
 **How it is cited.** `Weil, Gravity and Grace, "Decreation"` and `Weil, Gravity and Grace, "Renunciation"`, by section, in the Crawford translation; the one *Waiting for God* line is cited `Weil, Waiting for God` (SEP gives it as WFG 100). Quotations below are the Crawford translation's and are marked; the French and a scholarly critical edition were not read.
 
-**Why this reading.** [[weil's decreation un-creates the self and reaches the opposite of the restored first person]] holds that Weil's decreation is the un-mined mechanism of her seated opposition to the book's householder commitment — the same make-room-by-self-withdrawal move as *tzimtzum*, *kenōsis*, and the *fanā* pole, reaching the opposite conclusion — and that the withdrawal family therefore splits along the book's householder-versus-renunciation fork. The failable question: does *Gravity and Grace* define decreation as un-creating the self to make room for God, in imitation of God's own self-renunciation, and does it reach the far pole from the book's restored first person?
+**Why this reading.** weil's decreation un-creates the self and reaches the opposite of the restored first person holds that Weil's decreation is the un-mined mechanism of her seated opposition to the book's householder commitment — the same make-room-by-self-withdrawal move as *tzimtzum*, *kenōsis*, and the *fanā* pole, reaching the opposite conclusion — and that the withdrawal family therefore splits along the book's householder-versus-renunciation fork. The failable question: does *Gravity and Grace* define decreation as un-creating the self to make room for God, in imitation of God's own self-renunciation, and does it reach the far pole from the book's restored first person?
 
 ## What the reading settled
 
@@ -22,7 +22,7 @@ created: 2026-08-10
 
 4. **The earlier caution is lifted.** The formulation flagged in the note as unconfirmable — "We participate in the creation of the world by decreating ourselves" — was confirmed at the text at two independent sources, appearing in the same "Decreation" material and followed by "Thus we are co-creators." It may now be used as a quotation, with its translation provenance (Crawford, 1963) stated. It sharpens the finding rather than softening it: the decreated self becomes a co-creator with God, not a restored householder in a room of ordinary life.
 
-**Verdict for the note.** Decreation is confirmed as the sharpest statement of the far side of the withdrawal fork: the self un-created permanently, the room made for God, in imitation of God's self-renunciation. The note moves from privated to full. The seated adversary ([[weil is seated as the opponent the plumbing deserves]]) now carries a precise, quotable mechanism, and the withdrawal family's split along the book's householder-versus-renunciation fork is confirmed at the text.
+**Verdict for the note.** Decreation is confirmed as the sharpest statement of the far side of the withdrawal fork: the self un-created permanently, the room made for God, in imitation of God's self-renunciation. The note moves from privated to full. The seated adversary (weil is seated as the opponent the plumbing deserves) now carries a precise, quotable mechanism, and the withdrawal family's split along the book's householder-versus-renunciation fork is confirmed at the text.
 
 ## What the reading did not settle
 

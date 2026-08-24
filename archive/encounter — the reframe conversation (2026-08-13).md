@@ -74,7 +74,6 @@ The model's turns are cited for what they say and never credited for what they a
 
 Relevant Notes:
 - [[the book performs what it describes]] — the law this record enacts by admitting the conversation as the first instance of the entity the conversation proposed.
-- [[the perfectible conversation is the manuscript's most comfortable room]] — the vault's prior warning that the reframe itself may be the most sophisticated instance of, which the Unresolved section carries forward.
 - [[the gold thread is the rainbow thread re-owned]] — the 4am letter-artifact whose lesson the author names in real time as "patriotism for oneself."
 - [[the book can only be auxiliary to a sovereign reader]] — the sovereign-reader doctrine that "patriotism for oneself" welds to, the theorem to its proving love.
 - [[suffering is contraction that has forgotten it is a locus and a tradition is contraction that remembers]] — the saṅkoca re-valuation the encounter seeded, recorded here as the book's departure from classical Trika rather than a convergence.

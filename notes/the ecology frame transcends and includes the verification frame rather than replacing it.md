@@ -3,7 +3,7 @@ description: "The ecology frame becomes the new ground and transcends and includ
 category: claim
 sources: ["reframe conversation, 2026-08-13, line 2650", "reframe conversation, 2026-08-13, line 4211", "reframe conversation, 2026-08-13, line 4214", "reframe conversation, 2026-08-13, line 376", "author direction, 2026-08-14"]
 topics: ["[[recognition]]", "[[tensions]]"]
-state: nascent
+state: full
 ---
 
 # the ecology frame transcends and includes the verification frame rather than replacing it
@@ -15,7 +15,7 @@ The reframe moves the ground without discarding what stood on it. In the prior f
 - The exemplar the conversation reaches for is Wilber's, taken for its method rather than its content: "Wilber gives us a particularly useful *exemplar* here—not because I think the ecology should become AQAL, but because AQAL demonstrates what happens when you try to preserve **multiple irreducible loci of inquiry without collapsing them into one another**" (reframe conversation, 2026-08-13, line 2650). Preserving without collapsing is the "include" half of the move.
 - The conversation states the "transcend" half as a refusal of a ruling frame: "Wilber does not need to become the master framework" (reframe conversation, 2026-08-13, line 4211), and "The goal is **productive non-equivalence**" (reframe conversation, 2026-08-13, line 4214) — the loci held together without one being promoted over the rest.
 - The move is made to apply to itself, in the author's own words, so the new ground does not become a new sovereign: "even this itself must have that that quality that facilitation has of like it's not me it's what's moving through me right now," the author naming the trap of collapsing "all of this into one master doctrine" (reframe conversation, 2026-08-13, line 376).
-- The four included features are named as kept and re-nested, not deleted (author direction, 2026-08-14): the felt-shift verification standard, the one-chair structural wound, the second chair remedy, and the register-and-beauty hazard remain live tensions, each moved from ground to guardrail within the ecology. Their notes are untouched and stand — [[the felt shift bears more load than any single test can carry]] (the standard), [[a codex is a one-chair technology making a two-chair argument]] (the wound and its Second Chair remedy), and [[beauty recruits the wrong posture]] (the hazard) — so the "include" is a change of standing rather than a rewrite.
+- The four included features are named as kept and re-nested, not deleted (author direction, 2026-08-14): the felt-shift verification standard, the one-chair structural wound, the second chair remedy, and the register-and-beauty hazard remain live tensions, each moved from ground to guardrail within the ecology. So the "include" is a change of standing rather than a rewrite.
 - Standing: the frame is reached in the conversation's shared, model-assisted portion and named as the move by author direction on 2026-08-14; it is held as candidate material and kept nascent until the writing reaches for it. The claim describes the standing of the prior frame's tensions, not their resolution, which stays the author's act made in the writing.
 
 ---
@@ -23,8 +23,6 @@ The reframe moves the ground without discarding what stood on it. In the prior f
 Relevant Notes:
 - [[an ecology is a bounded but permeable domain of multiple irreducible loci of participation, none sovereign]] — the new ground this claim installs, the field within which the verification frame is re-nested
 - [[no single locus or framework may become sovereign over the reality it describes]] — the constraint the move turns on itself, so the ecology frame does not become the new sovereign
-- [[the felt shift bears more load than any single test can carry]] — the felt-shift verification standard, the first of the four kept tensions, now a guardrail within the ecology rather than its ground
-- [[a codex is a one-chair technology making a two-chair argument]] — the one-chair structural wound and its Second Chair remedy, kept and re-nested rather than dissolved
 - [[beauty recruits the wrong posture]] — the register-and-beauty hazard, the fourth kept tension, re-nested as a guardrail on the book's offer
 - [[the book tends conditions for the reader's own facilitation of recognition rather than facilitating transformation]] — the meta-facilitation position this frame grounds, the book standing two steps back from the outcome
 - [[Book I is grounded in what it builds toward, not in what it guards against]] — the structural consequence of the move for Book I, the same re-grounding applied to the book's own footing

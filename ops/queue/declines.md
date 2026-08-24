@@ -76,3 +76,15 @@ The reading that decided them ran on 2026-08-09 against the extracted corpus at 
 ## Reversals
 
 One reversal stands, and it is the only one so far. On 2026-08-07 the author asked for the candidate list to be cut, a session cut it from ninety-six unevaluated names to twenty and wrote a reason against each of the other sixty-one, and on reading the result the author reversed the cut in full the same day. Every name went back onto `ops/queue/candidates.md`, no decline record from that pass survives in this file, and the arguments the pass wrote are kept on the candidate entries themselves as notes that decide nothing. His reason for the reversal is recorded as a settled question in `ops/decisions.md`: the list is a high-level survey he wants to keep whole, because he expects to commingle claims from thinkers on it.
+
+The restoration is current. The names it returned — including the roughly two dozen from the abridged edition's lineage list (`abridged: the lineage`) — stand as live candidates on `ops/queue/candidates.md`, so any entry elsewhere that still describes them as declined is superseded by this reversal. The extraction entry in `ops/queue/extractions.md` that had recorded the lineage-list names as declined was reconciled to the restoration on 2026-08-16.
+
+## Declined by the epistemic audit (2026-08-16)
+
+The author's adjudication of `epistemic-audit-2026-08-16.md` set these aside from the graph with a reason each. Titles are plain text — the notes were deleted and are recoverable from git history.
+
+- `barthes's plaisir and jouissance map onto the book's appreciation and felt shift` — a strained isomorph the note itself flagged as straining; company, not evidence.
+- `do not model concept evolution as a chain — the corpus itself becomes the revision history` — vault data-model design, not book content; the material's home is `ops/`, not a claim.
+- `dye holds by the cloth's mordant rather than by the brightness of the color` — a forest-panel resonance self-labeled "company not evidence"; an evocative craft image, but inert as a node.
+- `the ontology is musical notation not the music` — a design-guard figure whose book-facing twin already carries the image.
+- `the seven apparatus devices sort by audience into three reader-facing and four workshop-only` — manuscript-craft-technique of the kind the craft category was retired for on 2026-08-09.

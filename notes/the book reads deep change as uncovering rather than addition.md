@@ -29,6 +29,7 @@ Relevant Notes:
 - [[the diagnosis contains the cure]] — the Privation Principle, the book's own name for the move in the suffering case
 - [[psychedelic names a movement not a substance]] — the third instance, the concealed becoming visible
 - [[suffering is contraction never corruption]] — the doctrine whose folded-not-broken reading makes the suffering case an uncovering rather than an addition
+- [[aletheia and pratyabhijna part on whether un-seeing is concealment or contraction]] — the mechanism beneath this move: the un-seeing the book uncovers is a contraction, not a concealment, which is what makes the recognition case and the suffering case one motion
 - [[the racket is the attractor state with a salary]] — the kept counter-case, a suffering diagnosed by a presence the privative grammar cannot reach
 - [[reading is remembering]] — the front-matter promise that states the grammar in plain language for the recognition case
 - [[the daodejing reaches the open center through the emptiness a structure holds]] — the negative way's affirmative face, which gives absence a positive job: usefulness lives in the emptiness a structure holds

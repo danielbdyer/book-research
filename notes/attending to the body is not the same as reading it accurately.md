@@ -21,11 +21,9 @@ This is the book's second reader given an empirical spine. The fluent reader who
 ---
 
 Relevant Notes:
-- [[felt shift versus felt confirmation]] — the second limit grounded: uneven access, now with the dissociation that makes it undetectable from inside
 - [[the felt sense of truth has a documented counterfeit catalogue]] — the sibling grounding for the first limit
 - [[zen's makyo instruction refuses the self-certifying experience]] — the lineage answer to the same problem: verification carried by the relation, not the signal
 - [[a genuine felt shift changes what can be said next]] — the criterion that does not require calibrated interoception: the step shows in what becomes sayable
-- [[introspective access is the felt shift's undefended premise]] — the objection this dissociation sharpens: the standard presupposes access, and the access literature is now partly on the shelf
 
 Topics:
 - [[felt-shift]]

@@ -12,6 +12,8 @@ The names are deliberately ordinary. Atlas §II and walked II record that the st
 
 Three further levels are built on this anatomy — twelve verb-primitives as its operations, molecule-formulas as their combinations, and three self-sustaining loops as the running engine that gives the book its title — and this map does not gather them. They were consolidated on 2026-08-09 into two notes that hold the construction and its limits together, [[the scheme's upper layers are one construction built on the container's three structures]] and [[every discrimination the molecule formulas are credited with is made by the prose beside them]], because the author's decision of that date demoted the upper layers fully while keeping the container doctrine below them. The distinction the decision draws is the one this map now observes: a container is where a disclosure happens, and the participation law that rests on it carries the largest measured support in the project, while an inventory of operations a reader must acquire runs the opposite verb from a book whose claim is that the reader already has it.
 
+Where this concern drains: the container holds without determining what appears in it. The Wall fixes the edge so the center is free to move, and the open center is receptive rather than generative — it "lets the light in rather than making it" ([[the clearing is prior to and receptive of what appears in it so preparing the room is enough]]), hosting the reader's own recognition, the space where "did you find it or make it?" has no purchase ([[in the held space finding a thing and making it are one act]]). So the anatomy is the structural form of non-sovereign facilitation, conditions tended rather than outcomes produced, and this concern drains to the book's still center — [[the master question is the conditions under which a person remains the author of what they become while being genuinely changed]] and its twin [[sovereignty is authorship preserved within relationship, not control over reality]] — the container being what makes an open center a person can be the author inside.
+
 ## Claims in this map
 
 - [[the triad is the anatomy of every container]] — the full claim, including its evidence from twenty-nine builders and its portability across media
@@ -23,7 +25,6 @@ Three further levels are built on this anatomy — twelve verb-primitives as its
 - [[the open center is made possible by the three structures and identical with none of them]] — what the three structures are for: the open middle they hold
 - [[thisness is the grain of the container anatomy]] — containers serve particulars, and Scotus, Hopkins, and Deleuze are the named lineage for that idea
 - [[ordinary names keep the deepest structures visible]] — the naming rule from the rename: plain names keep the teaching in the reader's room
-- [[the traditions' refusal of extraction restates the book's own container law]] — five traditions refusing extraction, on the book's own theorem that the container is constitutive
 
 ### Nascent stubs
 
@@ -67,7 +68,6 @@ All four were read at their primary texts on 2026-08-10 and moved from privated 
 
 The reframe conversation of 2026-08-13 turned the container anatomy on the research apparatus that holds this material, and the single note it produced for this map is gathered here.
 
-- [[the field note is the membrane between lived encounter and persistent concept]] — the anatomy read at the scale of a note: a field note works as a membrane that holds lived encounter apart from persistent concept while letting material cross between them, which is the Wall's separating and the Door's exchange carried out by one structure in the vault's own workflow.
 
 ## What the transmission digs added
 
@@ -75,11 +75,23 @@ The transmission digs of 2026-08-13 (the record is the 2026-08-13 entry in `ops/
 
 - [[donald winnicott]] — the holding environment read as a container named from what it must not do: the reliable, non-impinging other whose presence lets a person be alone is the Floor's continuity and the Wall's non-intrusion carried by one relationship, and impingement (the Wall turned intrusive) yields a false self, which is why a book read alone must approximate that other to be readable at all.
 
+## The edge that frees the center and the room made by subtraction
+
+The affirmative-way crossover brainstorm of 2026-08-21 stated the container doctrine in its positive form: what the Wall's fixed edge is for, and how the open center is made and received. The notes are nascent, their thinker-attributions (Winnicott's held space, Heidegger's clearing) recorded from memory and unverified, and held as company rather than corroboration; their primary grounding is still owed.
+
+- [[a reliably fixed boundary at the edge is the condition that frees movement at the center]] — the Wall's function stated as the paradox the anatomy runs on, freedom coming not from removing limits but from fixing the perimeter, so a boundary that holds and does not move is what lets everything inside it move
+- [[a sealed edge lets intensity concentrate to the point of transformation rather than dissipate]] — the Wall read for what its sealing is for, intensity dispersing in open space and concentrating when contained, so only a concentrated intensity reaches the threshold where it turns into something else, which is why to contain is to let an experience finish
+- [[a room where the hidden can appear is made by taking away rather than by adding]] — the open center reached by subtraction, the room appearing in the removal of standing clutter, so the reader's first act inside the anatomy is to clear rather than to build
+- [[the clearing is prior to and receptive of what appears in it so preparing the room is enough]] — the open center specified as prior and receptive, the clearing letting the light in rather than making it, so the work is to prepare and wait rather than to force the hidden to show, which is Heidegger's Lichtung at the scale of the anatomy's middle
+- [[in the held space finding a thing and making it are one act]] — Winnicott's rule for the held container, "did you find it or make it?" never asked because inside the space the question has no purchase, which is the exact grammar of recognition the open center is built to host
+
 ## What remains
 
 Nothing about the upper layers remains for this map, and that is a decision rather than a backlog. The individual primitives, their three make-and-unmake pairs, the closure test, the engine's three loops and the four-axis movement grid were all standing extraction tasks until 2026-08-09, when the author demoted the upper layers fully and directed that the material be preserved in a few robust notes rather than reified in an apparatus, in his words because "there's still validity in the ideas here but we do not reify them as so deserving of an apparatus going forward." Those extraction entries are closed and no new note takes a scheme as its subject; the rule and its two destinations are in `ops/methodology/center of gravity.md`.
 
 What remains for this map is the container doctrine itself, and the open work in it is a reading rather than an extraction: the Scotus-to-Hopkins-to-Deleuze lineage that the corpus names for thisness has never been checked at any of the three texts. The reframe conversation of 2026-08-13 touched this map only glancingly, adding the one apparatus note above; its wider vocabulary of loci and ecology — a bounded-but-permeable domain, the open middle read as a standpoint rather than a structure — borders this map's open-center concern but is gathered in [[recognition]], and it opens no new extraction against the container doctrine. The transmission digs of 2026-08-13 added one member here, the holding environment as a container ([[donald winnicott]]), which arrives from the play lineage's secondary account with the *Playing and Reality* reading queued; it names a container by its non-impingement rather than opening new work against the Wall, Door, and Floor.
+
+The affirmative-function section added 2026-08-21 states the container doctrine positively and is the map's newest open work: five nascent notes whose thinker-attributions are unverified and whose primary grounding the sources call queued but the reading queue does not yet carry, so the round's grounding is owed. It states what the Wall and the open center are for rather than opening new work against the three structures.
 
 ---
 

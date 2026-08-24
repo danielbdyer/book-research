@@ -24,7 +24,6 @@ The consequence is a rule about evidence rather than a fact about the book. Wher
 Relevant Notes:
 - [[the prose drafts use the vetoed triad names]] — the other reading instruction the drafts require, and the one that dates them against the founding sources
 - [[the whole arc has already been drafted once in prose]] — the converse case, where a draft is absent from the compilation lists
-- [[a synthesis organized by the schemes offers to promote them back to architecture]] — the same counting problem met in incoming material rather than in the corpus: a source that arrives pre-sorted by the book's own vocabulary is not independent of it
 
 Topics:
 - [[methods]]

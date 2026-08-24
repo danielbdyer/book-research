@@ -23,7 +23,6 @@ What this rules out is narrow and worth having exactly. It rules out the claim t
 ---
 
 Relevant Notes:
-- [[a codex is a one-chair technology making a two-chair argument]] — the structural problem this evidence narrows without solving
 - [[the participation law has measured support at a scale nothing else in the book approaches]] — the larger finding this is one subset of
 - [[the third thing has a mechanism in participatory sense-making]] — the account that says coordination needs two systems adjusting in time, which is what the mediated result presses on
 - [[the book's native genre is the letter from a friend read alone]] — the genre claim this bears on, since a letter is the asynchronous addressed exchange in question

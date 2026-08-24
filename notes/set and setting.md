@@ -1,7 +1,7 @@
 ---
 description: "Set and setting is Leary's coinage and Zinberg's framework, and the corpus's own survey says the book's central architecture is a general theory of it while naming neither originator."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: precedent
 discipline: empirical-science
 clause: "The survey states the identity itself — Wall, Door and Floor are what setting is made of, the Stance is what set is made of — and the framework it identifies the architecture with has named authors."
@@ -34,6 +34,8 @@ Three questions, in the order that decides the most.
 - Whether Zinberg's third variable, the drug itself, has an analogue in the book's architecture or whether its absence is the point of the reclamation ([[psychedelic names a movement not a substance]]).
 - Whether the rituals-and-sanctions finding is usable or is an objection.
 - Whether the survey's identification survives contact with the primary framework or is a resemblance.
+
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
 
 ---
 

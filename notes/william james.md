@@ -1,7 +1,7 @@
 ---
 description: "William James is the authorial stance's ancestor — reports held as observations, value judged by fruits — and his transiency mark names the book's promise in 1902; his refusal is kept: fruits, not feelings, verify."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 recommendation: "Reference-lineage as the stance's ancestor: the two-judgments method and the authority verdict are the book's posture with a century of standing; the fruits test is kept whole as a counterweight to the felt shift."
 works: ["The Varieties of Religious Experience (1902)"]
 sources: ["generative pass research, 2026-08-04 (archive/research — generative pass background.md)", "Varieties, lectures I and XVI–XVII (cited in place)"]
@@ -16,11 +16,12 @@ Two of his findings bear directly. His four marks of the mystical state include 
 
 The refusal worth keeping is his test itself: James verifies by fruits, and the felt shift is a root. His test for what an experience is worth looks at the life that follows it — conduct, character, what the experience made — never at the feeling's intensity or its bodily signature. Held whole, this refuses the book's verification standard as sufficient: a shift in the sternum is root-side evidence, and James would ask what fruit it bore by spring. The book's own promise ("it didn't hold") concedes his point, which is what makes the refusal company rather than damage.
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
 - [[the book can only be auxiliary to a sovereign reader]] — his authority verdict is this doctrine with a century of standing
-- [[felt shift versus felt confirmation]] — the counterweight his fruits test sharpens: verification moved from the moment of the shift to the life after it
 - [[the book's honest origin story is noticing first and finding company after]] — the telling his method licenses: observation and company, never proof
 - [[the unanimity claim is an artifact of how the lineages were selected]] — the defect his two-judgments discipline would have prevented
 

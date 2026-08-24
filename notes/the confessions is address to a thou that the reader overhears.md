@@ -23,10 +23,8 @@ This note widens the option space and stops. Which person the book speaks in is 
 ---
 
 Relevant Notes:
-- [[the drafts disagree about which person the book speaks in]] — the open tension this note widens without settling
 - [[the book's native genre is the letter from a friend read alone]] — the adjacent genre datum: a decade-old letter is also address received at an angle
 - [[reading as remembering has a twenty-four-century ancestry in the west]] — the same book read for doctrine rather than form
-- [[a codex is a one-chair technology making a two-chair argument]] — the tension the overheard form bears on: the second chair occupied by a Thou rather than left empty
 
 Topics:
 - [[answerability]]

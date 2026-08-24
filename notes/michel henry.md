@@ -1,7 +1,7 @@
 ---
 description: "Henry's auto-affection — manifestation feeling itself before any object — is the phenomenology nearest vimarśa, and no literature joining them surfaced: the pairing may be open territory beside the author's own."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: adversary
 discipline: continental-philosophy
 recommendation: "Reference-lineage for the interior half of the thesis only, with his refusals of world and clearing kept; the unclaimed Henry–vimarśa pairing is flagged as possible open territory pending a scholarly-database pass."
@@ -17,6 +17,8 @@ Michel Henry's *The Essence of Manifestation* (1963) argues that the origin of a
 The refusal kept is deep: Henry's whole polemic runs against the world's appearing. He indicts the assumption — Heidegger's included, by name — that all manifestation is worldly, and his late work roots life's self-revelation in a specifically Christian frame. The phenomenologist nearest to vimarśa refuses both the near pole's clearing and the householder's daylight. He is company for the interior half of the thesis only, and keeping his refusal is what keeps that limit visible.
 
 The load designation on this note — adversary — is the lineage sort's assignment (2026-08-05, recorded in the crossing at `scripts/queries/lineage-sort.sh`); his primary work is unread here, so what he would press is the grid's expectation rather than a read position. The recommendation rests on the crossover research's web-verified survey depth (2026-08-03), not on a reading.
+
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
 
 ---
 

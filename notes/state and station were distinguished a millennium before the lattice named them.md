@@ -21,17 +21,17 @@ Two witnesses to one structure is materially different from one. The book curren
 - The grid's own statement of the finding: "arrived at a millennium before Wilber and entirely independently. States descend as gifts; stations are earned by the sweat of the brow. Two independent witnesses to the same structure is materially stronger than one" (`mesh grid: other names recovered`).
 - The vault's rule on how that last sentence is used is `ops/methodology/authorial stance.md`, and it applies here without softening: the second witness is recorded as company rather than as corroboration, and the vault does not rank this convergence as stronger evidence than any other. What it does record is a fact about the reading — the claim has an arrival from outside the room, which most of the book's claims do not ([[the convergence's independence fails where three of its names share one teacher]]).
 - The book's own use of the distinction is as the bypass guard, which makes this note's second function diagnostic. If the same structure appears in a Sufi manual, a modern developmental lattice, and the book's own architecture, the question of what the book adds to it is live and unanswered here.
-- The same finding partially fills a second hole. The sort records that the claim about ordinary life — that this is livable without renunciation — has no independent witness from outside the Indic world ([[the householder claim has no witness outside the indic world]]), and the Sufi material is one of the places the grid looks for one.
+- The same finding partially fills a second hole. The sort records that the claim about ordinary life — that this is livable without renunciation — has no independent witness from outside the Indic world, and the Sufi material is one of the places the grid looks for one.
 
 ---
 
 Relevant Notes:
 - [[an enormous experience is interpreted by the structure it did not change]] — the modern statement of the same structure, and the mechanism the book needs it for
 - [[the convergence's independence fails where three of its names share one teacher]] — the general problem this arrival is an exception to
-- [[the householder claim has no witness outside the indic world]] — the neighbouring hole the same tradition partly fills
 - [[the unanimity claim is an artifact of how the lineages were selected]] — why arrivals from outside the assembled room count differently from arrivals inside it
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the book's founding convergence, whose two poles this one is outside
 - [[the recognition school installs wonder at the definition of consciousness]] — the boundary's Śaiva instance: aesthetic rapture lasts exactly as long as the tasting, and the tradition says so itself
+- [[what is recognized cannot be un-recognized]] — where this distinction does load-bearing work: the lost breakthrough was a state and recognition is a station, so the irreversibility promise and the reader's lost breakthrough do not contradict
 
 Topics:
 - [[interlocutors]]

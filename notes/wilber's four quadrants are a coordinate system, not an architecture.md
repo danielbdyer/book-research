@@ -22,7 +22,6 @@ The claim gives Wilber a constructive place the vault's earlier sorting did not.
 
 Relevant Notes:
 - [[ken wilber]] — the interlocutor whose four quadrants this claim repositions, held in the vault as one reference-lineage name with a documented case history
-- [[the nearest prior attempts are case histories rather than interlocutors]] — the mainly cautionary role this claim complements, giving Wilber a constructive coordinate function beside the case history
 - [[every locus is potentially revelatory and necessarily partial — partial truths become dangerous mistaken for total truths]] — the axiom the same passage credits to the four-quadrant model, kept while the architecture is set aside
 - [[an ecology is a bounded but permeable domain of multiple irreducible loci of participation, none sovereign]] — the field in which the quadrants are one coordinate lens among the loci rather than the frame above them
 

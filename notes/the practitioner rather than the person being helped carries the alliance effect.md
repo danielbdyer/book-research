@@ -26,7 +26,6 @@ Relevant Notes:
 - [[the book's practices are facilitation moves scaled to one reader]] — the design law this gives a measured form to on its practitioner side
 - [[the participation law has measured support at a scale nothing else in the book approaches]] — the larger finding this decomposes
 - [[flourishing flow and facilitation converged on one stance in the author's own record]] — the author's own record of the craft the between-practitioner variance is a measure of
-- [[the required second person splits into a judge and a mirror]] — the open question about what the second person is for, which this finding constrains by showing the second person's own skill matters
 
 Topics:
 - [[relational-field]]

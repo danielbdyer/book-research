@@ -14,13 +14,12 @@ The rule matters because a prompt that assigned a task before the practice mater
 ## Substantiation
 
 - The two forward-assigning instructions are `abridged ch14` (the Kata, "Choose one. Try it today. Tomorrow, try another") and the Engineer's Eye ("Tomorrow, try the Stack Scan once"). Every instruction before them asks only for present attention, and the full set by unit runs from "Pause. Let this settle. There is no hurry" through "Right now: thirty seconds. No agenda" at the Stance.
-- The rule bears directly on a tension the atlas records: the book's forward momentum works against the stopping its practices require, treated with thresholds that demand action before the text continues (atlas §XI.1b, carried at [[forward hunger defeats the pause]]). The executed draft's closing instructions are all skippable, which leaves that treatment untried — so the pedagogy rule and the untreated tension are two views of the same fact, that the book withholds the demand for action until late and then makes it gently.
+- The rule bears directly on a tension the atlas records: the book's forward momentum works against the stopping its practices require, treated with thresholds that demand action before the text continues (atlas §XI.1b). The executed draft's closing instructions are all skippable, which leaves that treatment untried — so the pedagogy rule and the untreated tension are two views of the same fact, that the book withholds the demand for action until late and then makes it gently.
 - The rule is a claim about how the book teaches practice rather than about its sentence craft. It is checkable against the corpus and transferable to any unit the author writes next, which is what distinguishes it from an observation about the prose that carried it.
 
 ---
 
 Relevant Notes:
-- [[forward hunger defeats the pause]] — the tension this rule bears on, which the executed draft leaves untreated because its closing instructions are skippable
 - [[nothing transforms from the audience]] — the law that makes a skippable instruction a design question rather than a courtesy
 - [[the practice forms specify when to begin and not how to tell one is finished]] — the companion gap in the same curriculum: the forms say when to start and never how to know one has worked
 

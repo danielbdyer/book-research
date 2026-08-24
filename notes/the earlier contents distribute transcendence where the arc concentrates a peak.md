@@ -13,6 +13,10 @@ The difference is structural rather than one of emphasis. The earlier arrangemen
 
 One qualification cuts against reading the earlier document as simply peakless. Its single written chapter does stage a peak and a descent at page scale: the poem stands at the chapter's centre and an afterglow page follows immediately, doing at the scale of one chapter what the arc later does at the scale of a book. So the shape exists in the earliest written prose and is absent from the same document's plan for the whole. What the arc did was raise a page-scale movement to book scale.
 
+## Resolution — the arrangement question closed 2026-08-16
+
+The author's spine decision of 2026-08-16 closes the arrangement question this note documents, and it closes it by allocation rather than by choosing one side. He assigned the two dramaturgies across the two books he is now writing: the fifteen-unit arc with its concentrated peak becomes Book II's dramaturgy, and the reframe's four movements toward the facilitator's withdrawal become Book I's. Under that allocation the mythic operating system edition's twenty-eight-unit contents — the arrangement this note shows distributing transcendence across a whole part rather than staging it as a peak — stop being a rival spine. They stand instead as two things at once: the record of the book's earliest state, and a way-in for a reader who meets the material as concentric spirals rather than as a single traverse. The difference this note describes is therefore history and an available reader's route, not an unsettled contest between two candidate structures. The decision is recorded at the 2026-08-16 spine row in `ops/decisions.md`, which allocates the reframe's four movements to Book I and the psychedelic arc to Book II.
+
 ## Substantiation
 
 - The earlier arrangement's fifth part is "Transcendence Without Bypass," themed "Holding Mystery Without Losing Ground," containing Mysticism in the Mundane, When Systems Break, Divine Indwelling, Symbolic Infrastructures, and Philosophy as Praxis (mythic-os: contents). None of the twenty-eight named units corresponds to the Psychedelic Moment, and none stages an integration window.

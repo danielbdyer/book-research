@@ -19,7 +19,6 @@ Information about an experience is not the same as participation in the experien
 
 Relevant Notes:
 - [[nothing transforms from the audience]] — the reader's-side statement of the same law, that watching does not change the watcher, so a transmitted account never stands in for the participation it describes
-- [[felt shift versus felt confirmation]] — the somatic form of the same distinction, where a bodily assent to fluent prose is not the realization the prose reports
 - [[transformation is enacted participation inside a held container]] — the positive law behind this negation, that change happens only where a participant enacts it
 - [[the value of participation lies not in the output but in what it does to the participant]] — the sibling that carries this diagnosis forward into why participation is worth preserving
 - [[reading is remembering]] — the front-matter promise this diagnosis protects, since the book can prompt recollection but cannot perform it for the reader

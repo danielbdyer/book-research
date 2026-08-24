@@ -31,14 +31,17 @@ Beneath this ground the prior frame's concern for the prose returns as a feature
 
 - [[psychedelic names a movement not a substance]] — the reclaimed word that names the project's central process
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the founding convergence, recorded as an isomorph
+- [[aletheia and pratyabhijna part on whether un-seeing is concealment or contraction]] — the founding convergence's second seam: the two poles agree on un-forgetting and part on the mechanism, Heidegger's concealment against the Śaiva contraction, with the book on the contraction side and so one motion with its doctrine of suffering
 - [[reading is remembering]] — the front-matter promise, which the book's structure is built to keep mechanically
 - [[the book reads deep change as uncovering rather than addition]] — the one move beneath this map's central concern, since recognition un-forgets, suffering unfolds, and the reclaimed psychedelic un-conceals, so the book adds nothing and only uncovers
 - [[the solo practice reaches the felt shift and the primitives then surface by themselves]] — the practice form of remembering: after the felt shift the book claims the primitives are found already in experience, not applied to it
 - [[the tuesday is the temple]] — the book's commitment to ordinary life as the site of the work
+- [[the householder axiom depends on the participation law being satisfiable within ordinary life]] — the unstated condition beneath the Tuesday-is-the-temple axiom: ordinary life must supply the container and witness the participation law requires, or it names a site the law calls insufficient
 - [[a hiding that never intends to be found has stopped being play]] — the play doctrine that answers why fullness contracts at all
 - [[the topology only exists where it is being performed]] — the corpus's own limit on maps, this vault included
 - [[recognition is the soul's reminder rather than the ego's reward]] — the positive form of the guard the atlas records only as Lacan's warning
 - [[what is recognized cannot be un-recognized]] — the cost the recognition promise implies, which only the earliest draft states
+- [[recognition is irreversible as remembering but revocable when kept as a possession]] — the limiting clause on the irreversibility promise, reached by Zen's makyo and the author's kept-witness record: the remembering is irreversible, a possession made of it is not
 - [[the house with no ceiling is transcendence with plumbing]] — the image that pre-loads this map's refusal of renunciation
 - [[the kashmir shaiva tradition underlies the book rather than joining its company]] — why the source tradition is not listed as one contributor among the others
 - [[the open center is made possible by the three structures and identical with none of them]] — the open middle the three structures exist for, where Lichtung and prakāśa name one place
@@ -108,7 +111,6 @@ All four were read at their primary texts on 2026-08-10 and moved from privated 
 - [[advaita reaches the uncovering move through neti neti and an ever-attained freedom]] — the uncovering move at its most absolute, confirmed at BU 2.3.6 and Śaṅkara's commentary (ignorance removed, not knowledge produced), near-family that argues back and negates the first person the book restores
 - [[the kashmir shaiva anupaya turns the negative way on method itself]] — the source tradition's own apophatic apex, the no-means confirmed as "the means where there is nothing to be done," reserved for the most graced rather than a democratic doorway
 - [[the sufi arc completes annihilation by return rather than by staying dissolved]] — baqā's return as the completion of fanā, confirmed in al-Junayd's sobriety doctrine, an independent arrival at the householder axiom on the book's side of the fork
-- [[weil's decreation un-creates the self and reaches the opposite of the restored first person]] — the far side of the fork, confirmed at *Gravity and Grace* ("to make something created pass into the uncreated"), arming the seated adversary with her precise concept
 
 ## The reframe conversation: recognition as an ecology
 
@@ -160,6 +162,7 @@ The conversation separates the kind of knowing that can be handed over from the 
 
 - [[information → knowledge → understanding → recognition → wisdom is a ladder whose arrows are not automatic]] — recognition placed on a ladder whose rungs do not climb themselves, so understanding can accumulate without ever becoming recognition.
 - [[knowing about is not knowing through — information can be transmitted, realization cannot]] — the sharpest form of the doctrine: a text can transmit an account but not the realizing, which is why reading-is-remembering leaves the recognizing to the reader.
+- [[recognition is participatory, a move the reader makes rather than a content the reader receives]] — the affirmative twin of the transmission limit: since realization cannot be transmitted, recognition is an event the reader enacts, so the book arranges the conditions and the language while the recognizing stays the reader's own act.
 - [[information about an experience is not participation in the experience]] — the same limit at the source, which is why even a complete research corpus cannot stand in for the authorial recognition the writing requires.
 - [[the fundamental unit of authorship is recognition, not the sentence]] — recognition placed at the root of authorship: a person becomes an author because something was recognized through their participation, and the sentence is downstream of that.
 
@@ -177,7 +180,6 @@ Recognition's precondition stated privatively, its recursive character, and the 
 
 - [[sufficiency is the capacity to remain present without needing the next input to complete oneself]] — recognition's precondition as a fullness already present, uncovered rather than acquired, which is this map's uncovering grammar in a fourth instance.
 - [[allowing one's own sufficiency is a recursive condition for entering this reality]] — the author's own statement that allowing sufficiency opens the door and deepens as it is allowed, a recognition that conditions its own return.
-- [[a sufficiency asserted with no named ground is either a gift or an evasion]] — the wager beneath the map, kept as a live tension: the book calls the reader already sufficient and names no ground for it, and whether that silence is a gift or an evasion is the doctrine's most exposed point.
 - [[seeing the frame that holds both self and whole frees one from a double bind]] — the originating insight the author names as spawning the whole project: recognizing the frame that holds both the particular self and the whole, which releases the forced choice between them.
 
 ### Recognition in the age of the machine
@@ -200,19 +202,38 @@ The transmission digs of 2026-08-13 — a seven-site blind excavation of what a 
 ### The why-now, and the counterweights that keep it honest
 
 - [[restoring contact with a muted world is a change of relation, not a slowing of pace]] — Rosa's diagnosis in this map's grammar: the muted world is a concealment produced by the drive to make everything available, so un-muting it is a changed relation to the same life rather than a slower pace, which is recognition as re-contact rather than deceleration.
-- [[a device delivers a good while hiding the engagement it once required]] — Borgmann's device paradigm names concealment built into a thing: the good is foregrounded and the engagement it once asked is hidden, so un-recognition is manufactured and sold rather than merely suffered.
-- [[today's exhaustion is self-generated and leaves no external authority to resist]] — Han's achievement-subject as concealment worn as freedom, exhaustion with no outside enemy, so the thing to be recognized is one's own hand driving it.
-- [[the case that this moment corrodes the mind repeats a charge made against every new medium]] — the counterweight that keeps this map's why-now honest, since every medium from writing to television drew the same corrosion charge, so a claim that recognition is newly imperilled owes proof this mediation differs in kind.
-- [[the cure the sociology prescribes may be a good only the secure can afford]] — the class blade under the remedy, since re-contact, focal practice, and resonance each presuppose leisure and security, so recognition-as-cure may be reachable only by the already secure.
-- [[the critique of mediation circulates as the attention economy's premium content]] — the performative contradiction the book shares with its witnesses, a diagnosis of concealment that sells inside the very economy it names.
 
-### Recognition as a change of logical type
+## The affirmative face of un-forgetting
 
-- [[learning to learn is a distinct level and not more of the same learning]] — Bateson's second logical type located where recognition happens: a change in how one learns outranks a change in what one learns, so recognition is a shift of level rather than more content acquired at the same one.
+The generative rounds of 2026-08-20 and 2026-08-21 — a first-principles derivation from the reframe conversation and an affirmative-way crossover brainstorm — stated this map's un-forgetting doctrine in its positive form: not the concealment that hides the always-there, but the fact that the thing sought is already held, so the work uncovers rather than acquires. The notes are nascent, their thinker-attributions recorded from memory and unverified, and held as company rather than corroboration; their primary grounding is still owed. They are grouped below by what each affirms.
+
+### The already-there, stated as a fact to uncover
+
+- [[you are already free and the work removes a misunderstanding rather than adding an attainment]] — this map's uncovering grammar at its most absolute, freedom already a fact obscured only by a mistaken self-idea, so the work subtracts one misapprehension rather than acquiring a state
+- [[there is a homeward path that goes by subtraction, letting go of what was added]] — the return route the un-forgetting doctrine implies, growth by removal of the added and superimposed rather than by accumulation, since the essential thing is already present
+- [[the self you are seeking has been nearer than the seeking itself]] — the recognition promise stated as a correction of distance, what is sought closer than the looking itself, so the search ends by turning toward the nearest rather than by travelling farther
+- [[what you already are waits ahead as the center everything is arranging toward]] — the reconciliation this map's "you already have it" needs with becoming, what a person already is lying ahead as the center their life organizes toward, so having it and becoming it are one motion
+- [[what you already carry is a living implicit rather than a stored answer so knowing it stays your own act]] — the guard that keeps "already have it" from meaning a pre-formed answer read off, the carried knowing alive and under-formed, so recognizing it is a fresh unfolding the reader performs rather than a lookup
+- [[the tending toward your own growth is already yours and good conditions release it rather than install it]] — recognition's engine located in the reader, a tendency toward one's own becoming already underway, so a book at most arranges warmth and room and installs nothing
+- [[remembering and forgetting name one movement back to the ground you never left]] — the founding convergence widened by its opposite verb, a tradition reaching the same never-left ground by forgetting where aletheia reaches it by un-forgetting, so the return is verb-independent
+
+### Recognition as drawing-out rather than filling
+
+- [[learning draws out what the learner already holds so the truest teaching midwifes rather than fills]] — the pedagogy this map's remembering doctrine requires, the learner a fullness to be drawn out rather than a vessel to be filled, which turns "I only point" from an apology into the form of the teaching
+- [[reading is a carrying-forward that lets the reader's own implicit unfold into form]] — the mechanism beneath "reading is remembering," the book's words meeting a bodily sense the reader already holds and letting it take its first shape, so remembering is a making rather than a retrieval
+- [[one person can turn another toward their own light without dimming either]] — the guard that separates being helped to recognize oneself from being colonized, the light already the reader's own and a turning taking nothing from the flame
+
+### The convergence's width, and the doctrine already in the primary layer
+
+- [[the un-forgetting convergence is wide rather than a coincidence of two traditions]] — the founding two-tradition convergence widened to many, Athens, Kashmir, Tibet, the Rhineland, and a clinic independently concluding the thing sought was already held, so recognition is the settling-point of many rather than a coincidence of two
+- [[poem four was written in the grammar of remembering a future not yet lived enacting the un-forgetting the scholarship later named]] — the recognition doctrine performed as a verb tense in the primary layer, a poem narrating ages not yet reached as already remembered, the front-matter promise executed before it was a sentence
+- [[the youngness is just beginning names a life lived on the season's own time that kairos and eternal return each named]] — the primary layer's answer to lateness, a life told on the season's own time rather than on the clock, where youngness is a thing that begins, kin to the recognition that one is not behind
 
 ## What remains
 
 The central-process regions are now extracted: each of atlas §I's three names for the process has its claims here, and the Kashmir Śaiva material of atlas §IX.6 was worked on 2026-08-03. Two pieces of that material are deliberately queued with other passes in `ops/queue/extractions.md`: the four upāyas belong with the practice curriculum, and so'yam belongs with the Courtyard overlay. The space-around survey raises Jorge Ferrer's participatory pluralism as a direct challenge to the two-traditions-one-conclusion framing. Ferrer has not been researched for this project; he is on the pending-evaluation list in `ops/queue/candidates.md`. The reframe conversation of 2026-08-13 sharpens rather than settles that challenge, because its own ecology of irreducible loci, none sovereign, is close kin to participatory pluralism, so the Ferrer reading now has to decide whether the reframe's framing is an independent arrival at his position or a borrowing of it. The reframe layer roughly doubled this map's claim list, and its governing coinages — the ecology, the locus of inquiry, the durable perspective — remain candidates whose forks sit unadjudicated in the reconciliation register; a /rethink split of this map within its own section structure is now the likely next structural move, since the list has passed the size at which the doctrine directs a map to divide. That reframe layer has since been given a ground: the ground-layer seeds now lead the map at "## The ground," stating the ecology position the reframe section develops in full, so any split should keep that ground at the head and read the reframe section beneath it rather than beside it. The transmission digs of 2026-08-13 add a why-now layer that borders the attention-crisis subsection of the reframe section without merging into it: they supply the civilizational diagnosis of why the always-there goes unrecognized now, together with the counterweights the book must answer before it leans on that diagnosis — the every-medium panic, the class critique, the performative contradiction — and their primary readings wait in the digs' own READINGS TO QUEUE lists, not yet transcribed into `ops/reading queue.md`.
+
+The affirmative-face section added 2026-08-21 states this map's doctrine in its positive form and is the map's newest open work: thirteen nascent notes whose thinker-attributions are unverified and whose primary grounding the sources call queued but the reading queue does not yet carry, so the round's grounding is owed before any of it can be leaned on. It also deepens the split pressure the reframe layer already put this map under.
 
 ---
 

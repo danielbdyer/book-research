@@ -19,8 +19,6 @@ Double reflection is the central mechanism of indirect communication. In the *Co
 
 Relevant Notes:
 - [[the book must respect that it cannot verify the reader has done the work]] — the same invisibility stated as the book's own limit, that a text cannot check whether recognition occurred
-- [[indirect communication is required only where the object is a capacity to enact rather than a fact to know]] — why the result must be withheld, since a capability is occasioned rather than delivered
-- [[the invisibility that makes indirection succeed is identical to its unfalsifiability]] — the felt-shift audit's sharpening of this note's cost, where the success condition and the unfalsifiability are one
 - [[pseudonymity blocks deference by assigning each life-view to an invented author who embodies rather than asserts it]] — the sibling device in the same authorship
 
 Topics:

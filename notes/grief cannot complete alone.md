@@ -26,6 +26,7 @@ Relevant Notes:
 - [[nothing transforms from the audience]] — the adjacent law, which states the condition a witness must satisfy: only a participant completes anything
 - [[karla mclaren]] — the thinker this finding is seated for, with her practice, her interrogative model, and the live objection to it
 - [[transformation is enacted participation inside a held container]] — the convergence this finding is one of six independent arrivals at
+- [[the householder axiom depends on the participation law being satisfiable within ordinary life]] — this note as the boundary case: the one place the Tuesday cannot supply the witness the participation law requires, so a solitary household week does not always meet the dependency
 
 Topics:
 - [[relational-field]]

@@ -4,7 +4,7 @@
 
 ## The question, and why the obvious answer is wrong
 
-The author asked when the research repository is done enough that he is ready to write. The obvious answer — when the holes are filled and the readings done — is wrong twice. It is unreachable, since every reading opens two more; and it is the failure mode the vault already names, where the held container becomes the room in which a word can be perfected forever ([[the perfectible conversation is the manuscript's most comfortable room]]).
+The author asked when the research repository is done enough that he is ready to write. The obvious answer — when the holes are filled and the readings done — is wrong twice. It is unreachable, since every reading opens two more; and it is the failure mode the vault already names, where the held container becomes the room in which a word can be perfected forever (the perfectible conversation is the manuscript's most comfortable room).
 
 The frame that works is smaller. **Readiness is a property of one piece of writing, not of the vault.** The author never needs the whole graph finished. He needs one thing writable, and the corpus's own recommendation has said so from the start: one chapter, fully treated, sent to two real readers ([[seventeen chapters rest at madhyama]]). What that one thing *is* — which cluster, under what name — is deliberately not settled here; see the measurement section below for why the first attempt to settle it was an error.
 

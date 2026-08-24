@@ -24,7 +24,6 @@ The convergence leaves the book's doctrine untouched, because every one of these
 Relevant Notes:
 - [[the tuesday is the temple]] — the book's axiom that it asks for no renunciation and holds ordinary life to be the full site of the work, which every witness here grants before saying what it costs in time
 - [[what the big experience leaves behind depends on what follows it]] — the clinical finding that peaks fade on a decay curve and that what lasts tracks the practice that follows them, which measures the aftermath where this claim measures the road
-- [[weil is seated as the opponent the plumbing deserves]] — Simone Weil's renunciate position, kept in the book's reference lineage at full strength, which denies that the ordinary-life road reaches the destination at all where these witnesses grant it and only say how long it takes
 
 Topics:
 - [[recognition]]

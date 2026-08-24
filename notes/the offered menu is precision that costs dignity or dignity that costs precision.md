@@ -9,7 +9,7 @@ topics: ["[[book-structure]]", "[[contraction-not-corruption]]"]
 
 The book's positioning statement names the two vocabularies a struggling reader can currently choose between, and the cost of each: "The clinical one is precise — but its precision rests on a starting assumption: that something in you is malfunctioning. The spiritual one is dignified — but it goes vague exactly where you need traction… Precision that costs you your dignity, or dignity that costs you precision. That's the menu" (first-telling: the problem). The declared aim of the book's own vocabulary follows two pages later: "Precise enough to act on. Humane enough to live inside."
 
-The claim states two things at once. It states why the book builds a system vocabulary at all, which is to offer a third option beside the two the passage names. And its first half is the occasion for the book's contraction doctrine, because a diagnostic language whose precision does not presume malfunction is exactly what "nothing in you is broken, something in you is folded" is trying to be.
+The claim states two things at once. It states why the book builds a system vocabulary at all, which is to offer a third option beside the two the passage names. And its first half is the occasion for the book's contraction doctrine, because a diagnostic language whose precision does not presume malfunction is exactly what the first-telling's reframe, "nothing in you is broken, something in you is folded" (first-telling: the reframe), is trying to be.
 
 ## Substantiation
 

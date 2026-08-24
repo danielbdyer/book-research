@@ -3,7 +3,7 @@ description: Self-facilitation names the work of arranging the conditions under 
 category: claim
 sources: ["reframe conversation, 2026-08-13: line 13638"]
 topics: ["[[felt-shift]]"]
-state: nascent
+state: full
 ---
 
 # self-facilitation is creating conditions for one's own becoming, not self-management, optimization, or analysis
@@ -15,6 +15,7 @@ The reframe conversation defines self-facilitation as the practice of creating t
 - The proposition is stated in the reframe conversation (2026-08-13); the harvest anchors it at transcript line 13638 and marks it a new claim at the core of the book's self-facilitation material, its Book II center.
 - The full transcript is not available to this session, so no verbatim quotation is reproduced here; the claim is stated from the harvest's record rather than from the marked line, and the exact wording awaits verification against the transcript.
 - The harvest does not flag the item as the author's own words, so the material is held as candidate and the note is kept nascent, on the same footing as the reframe-sourced [[the deepest question is whether i can be deeply influenced without becoming dispossessed of myself]].
+- **Verified 2026-08-16.** The transcript is in the vault's hands and the marked line checks out. The section heading at the anchor reads "THE DIFFERENCE BETWEEN SELF-MANAGEMENT AND SELF-FACILITATION," and the transcript's defining sentences are these, quoted verbatim: self-management is to "Optimize behavior toward a desired outcome," and self-facilitation is to "Create conditions in which meaningful perception, discernment, and action can emerge." The transcript then states the contrast as two questions: "Self-management asks: 'How do I make myself do this?'" and "Self-facilitation asks: 'What conditions would allow me to participate differently?'" — and it closes the section with "This is one of the most important practical distinctions in Book II" (reframe conversation, 2026-08-13, line 13638).
 
 ---
 
@@ -24,6 +25,7 @@ Relevant Notes:
 - [[the book's practices are facilitation moves scaled to one reader]] — the same inward scaling stated from the book's craft, the room-holding turned on a single reader
 - [[the practice is the expression of realization rather than a means to it]] — the clause that forbids reading self-facilitation as a technique aimed at an outcome
 - [[flourishing flow and facilitation converged on one stance in the author's own record]] — the author's own record that facilitation of another and of the self are one stance
+- [[the master question is the conditions under which a person remains the author of what they become while being genuinely changed]] — self-facilitation is the master question turned inward: remaining the author of one's own becoming while being genuinely changed
 
 Topics:
 - [[felt-shift]]

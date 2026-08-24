@@ -19,9 +19,9 @@ The reframing changes what the roster's largest disagreement is about. The corpu
 - The five theories, their camps, and their axioms are recorded with sources at [[the transformation field divides into five theories of where suffering lives]]; the corpus's own framing of them as a referral network is at arc-gloss: ch7 ("which cylinder → which guild wing") and as five swappable lenses at arc-gloss: ch15.
 - The finding is `full` rather than `nascent` because both halves are already in the vault and the grid supplies the reading rather than the evidence: the five theories are extracted from three sources, and the compositional scheme is extracted from the drafts. Putting them in competition requires no outside material.
 - What the vault previously held about the adversary position for the compositional scheme was one name, Biernacki, and one charge — that a scheme's builder finds the scheme everywhere ([[loriliai biernacki]] is a different figure; the charge is Richard Biernacki's, recorded in `ops/queue/candidates.md`). That charge is aimed at method. The bloc's charge is aimed at content, and the grid marks the difference: "Until now the C5 adversary cell held only Biernacki, who attacks the method. These attack the content."
-- The corpus's own defense is available and should be recorded beside the charge rather than suppressed by it: the book does not rank the five and says so, holding the fault lines as features with the body seated as referee (atlas §IX.5). Whether that is a subsumption or a refusal to engage is the open question, and it turns on whether "the body decides" is an answer or a deferral — which is the same question the verification standard's undefended premise raises ([[introspective access is the felt shift's undefended premise]]).
+- The corpus's own defense is available and should be recorded beside the charge rather than suppressed by it: the book does not rank the five and says so, holding the fault lines as features with the body seated as referee (atlas §IX.5). Whether that is a subsumption or a refusal to engage is the open question, and it turns on whether "the body decides" is an answer or a deferral — which is the same question the verification standard's undefended premise raises.
 - Two members break out of the bloc under the sort and are held separately, because their position is not the bloc's. Tony Robbins is the voluntarist pole at full strength ([[the middle voice is only earned against the voluntarist pole at full strength]]), and Thomas Hübl arrived at the book's own account of privation by another road entirely ([[what was never metabolized lives on as absence and hubl reached it through inherited trauma]]).
-- The bloc's shared blind spot is a separate finding and belongs to the book rather than to them ([[the compound diagnoses may relocate a structural condition inside a person]]).
+- The bloc's shared blind spot is a separate finding and belongs to the book rather than to them.
 
 ---
 
@@ -30,7 +30,6 @@ Relevant Notes:
 - [[distress is a question about machinery not a verdict about character]] — the compositional account the five compete with
 - [[the middle voice is only earned against the voluntarist pole at full strength]] — the first member who breaks out, and why
 - [[what was never metabolized lives on as absence and hubl reached it through inherited trauma]] — the second, who arrives at the book's own position from outside it
-- [[the compound diagnoses may relocate a structural condition inside a person]] — the blind spot the bloc shares and the question of whether the book inherits it
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the corpus's rule for handling the fork, and the thing the reframing puts pressure on
 
 Topics:

@@ -1,7 +1,7 @@
 ---
 description: "Erikson coined identity crisis and built the developmental frame Marcia later operationalized, which makes him the ancestor of the book's identity loop and of its foreclosure formula, absent from every source."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: precedent
 discipline: clinical
 clause: "The identity loop's whole vocabulary — identity, crisis, the moratorium in which a self is not yet settled — is his, and the formula the book states for a closed commitment is his frame in Marcia's measurement."
@@ -29,6 +29,8 @@ Two questions, in the order that decides the most.
 
 - Whether Erikson's own account of foreclosure — he discusses premature identity closure directly — is stated as a privation, which would put him in the convergence at [[the privation move is an independent arrival across five fields rather than a book coinage]].
 - Whether the moratorium has anything to say to the book's Defer, which would make the correspondence a construct rather than a frame.
+
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
 
 ---
 

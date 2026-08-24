@@ -26,7 +26,6 @@ Relevant Notes:
 - [[relationship can increase sovereignty rather than consume it]] — the stronger answer, that influence can leave a person more self-possessed rather than merely as much
 - [[sovereign intimacy names intimacy without surrender of authorship]] — the intimacy case of this same question
 - [[the book can only be auxiliary to a sovereign reader]] — the book's own answer from the reader's side, an instrument that influences without taking over
-- [[reader sovereignty has an unstated exception at destabilization]] — the tension marking where the answer may fail, at the point of a reader's destabilization
 
 Topics:
 - [[relational-field]]

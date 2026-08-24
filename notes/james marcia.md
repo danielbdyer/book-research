@@ -1,7 +1,7 @@
 ---
 description: "The developmental psychologist who defined foreclosure in 1966 as identity commitment reached without exploration, which is the construct the book's Foreclosure formula states and never credits."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: precedent
 discipline: clinical
 clause: "Foreclosure = Commitment − Defer is his construct under his own word, arrived at sixty years earlier by interview and measurement rather than by composition."
@@ -28,6 +28,8 @@ The book's formula says the same thing in its own notation. `Foreclosure = Commi
 **The load.** With `precedent`: he got there first, by another method, and the book's version adds nothing to his that the reading has yet identified. Nothing in the book depends on him, and the book owes him a line. The assignment is the vault's, made 2026-08-05 on finding the correspondence; it is not in any source.
 
 **The evaluation is from secondary knowledge.** What the reading has to settle: whether Marcia defines foreclosure by the absence of exploration in his own words, which is what puts him in the privation convergence; whether the domain-specificity objection is fatal to a single formula or absorbable; and whether the exploration dimension is really the book's Defer or something wider that Defer only partly names.
+
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
 
 ---
 

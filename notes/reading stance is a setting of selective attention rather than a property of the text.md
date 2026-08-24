@@ -21,7 +21,6 @@ The account matters to the book because it locates the reading event off the pag
 
 Relevant Notes:
 - [[the facilitator tends conditions under which recognition might occur rather than transmitting a destination]] — the facilitation consequence of this ontology, where a stance is engineered by conditions rather than delivered as content
-- [[rosenblatt's efferent-aesthetic binary has no seat for a reading whose product is altered capacity]] — the critique that follows, that the continuum built from these two settings excludes a third the book needs
 - [[iser distinguishes completion from participation as two fates of the textual gap]] — the parallel two-fate account from phenomenology, where Iser's split becomes Rosenblatt's two settings of attention
 - [[the book is the score not the performance]] — the book's own version of the three-term move, where the text is a score the reader performs into an event
 - [[the book must respect that it cannot verify the reader has done the work]] — why locating the event in the reader's attention makes verification impossible, since the setting is the reader's and unobservable

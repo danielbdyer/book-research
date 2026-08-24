@@ -21,17 +21,17 @@ The vault has held him as one philosophical name among roughly thirty in the cor
 
 **The state–structure lattice**, built with Allan Combs, holds that states and stages are independent axes and that a state is interpreted according to the structure that receives it. That answers the question the book's whole promise now turns on — why an enormous experience leaves nothing behind ([[an enormous experience is interpreted by the structure it did not change]]).
 
-**Lines of development** — multiple semi-independent capacities maturing at different rates — is the premise the book's title asserts and never argues ([[the title presupposes lines that develop at different rates]]).
+**Lines of development** — multiple semi-independent capacities maturing at different rates — is the premise the book's title asserts and never argues.
 
-**The pre/trans fallacy** is the distinction between pre-rational and trans-rational states, which look alike from outside and are routinely confused. The book has no substitute for it and needs one, because it walks readers toward deliberate destabilization with no way to tell dissolution from regression ([[the book cannot tell dissolution from regression and neither can its reader]]).
+**The pre/trans fallacy** is the distinction between pre-rational and trans-rational states, which look alike from outside and are routinely confused. The book has no substitute for it and needs one, because it walks readers toward deliberate destabilization with no way to tell dissolution from regression.
 
-**The four quadrants** cross interior against exterior with individual against collective, and the lower-right — systems, institutions, material conditions — is the quadrant the transformation field skips. That is the standing critique the corpus reached independently and carries anonymously as the material voice ([[the compound diagnoses may relocate a structural condition inside a person]]).
+**The four quadrants** cross interior against exterior with individual against collective, and the lower-right — systems, institutions, material conditions — is the quadrant the transformation field skips. That is the standing critique the corpus reached independently and carries anonymously as the material voice.
 
 A fifth is smaller and worth naming because it is an unattributed operating verb: *transcend and include*, Koestler's holon by way of Wilber, which the author uses as an editing instruction.
 
 ## Why the load is `precedent` rather than `thesis-bearing`
 
-The grid assigns him a thesis-bearing position for the lattice specifically, and that assignment is recorded on the claim note where the mechanism lives. The load here is `precedent` because the thing this vault most needs from him is not a concept but a case history, and the axis records one load per note. His failure modes are documented in a way almost no comparable attempt's are: the unfalsifiability charge that everything fits inside the framework so nothing tests it; the scholarship critiques; the 2006 episode in which he answered his critics with contempt and paid more for that than for any critique; and the colour hierarchy that became a status ladder among his readers ([[a developmental scheme handed to practitioners becomes a ranking of persons]], [[the nearest prior attempts are case histories rather than interlocutors]]).
+The grid assigns him a thesis-bearing position for the lattice specifically, and that assignment is recorded on the claim note where the mechanism lives. The load here is `precedent` because the thing this vault most needs from him is not a concept but a case history, and the axis records one load per note. His failure modes are documented in a way almost no comparable attempt's are: the unfalsifiability charge that everything fits inside the framework so nothing tests it; the scholarship critiques; the 2006 episode in which he answered his critics with contempt and paid more for that than for any critique; and the colour hierarchy that became a status ladder among his readers.
 
 The grid's question about that last one is aimed at this book and is not rhetorical: what in the design prevents it, given that "the tone" is not an answer, and Wilber had good tone for twenty years.
 
@@ -55,11 +55,6 @@ Recorded in the field above; the seating decision is the author's. One note on t
 
 Relevant Notes:
 - [[an enormous experience is interpreted by the structure it did not change]] — the mechanism, and the job the grid calls thesis-bearing
-- [[the title presupposes lines that develop at different rates]] — the premise under the book's own name
-- [[the book cannot tell dissolution from regression and neither can its reader]] — the hole he names and the book has no substitute for
-- [[a developmental scheme handed to practitioners becomes a ranking of persons]] — the failure his readers demonstrated
-- [[the nearest prior attempts are case histories rather than interlocutors]] — the position this load records
-- [[the compound diagnoses may relocate a structural condition inside a person]] — the critique the corpus reached independently of him
 - [[the system is scaffolding rather than the centerpiece]] — the decision he would refuse
 
 Topics:

@@ -19,7 +19,6 @@ The book's side is named rather than quoted from Vervaeke, from the vault's own 
 ---
 
 Relevant Notes:
-- [[felt shift versus felt confirmation]] — the book's instrument this maps onto the fourth kind of knowing, with the instrument's own documented limits kept
 - [[a genuine felt shift changes what can be said next]] — the participatory threshold stated as a test, the step the counterfeit cannot produce
 - [[relevance realization is the engine of meaning, and the attention economy fragments relevance rather than multiplying information]] — the meaning-account this fourfold serves, from the same passage
 - [[knowing about is not knowing through — information can be transmitted, realization cannot]] — the same participatory-versus-propositional boundary stated as a limit on transmission

@@ -131,8 +131,14 @@ for p in arch:
         for req in ("description","source_type","generated"):
             if not fm.get(req):
                 failures.append((p.stem, f"research record missing {req}"))
+    elif name.startswith("encounter — "):
+        for req in ("description","category","date","participants","field"):
+            if not fm.get(req):
+                failures.append((p.stem, f"encounter record missing {req}"))
+        if fm.get("category") not in (None, "source-note"):
+            failures.append((p.stem, f"encounter record category {fm.get('category')!r}; expected source-note"))
     else:
-        failures.append((p.stem, "archive record with an unknown prefix — the kinds are 'source — ', 'reading — ', 'research — ' (templates/source.md)"))
+        failures.append((p.stem, "archive record with an unknown prefix — the kinds are 'source — ', 'reading — ', 'research — ', 'encounter — ' (templates/source.md)"))
 
 # ── ops/observations/ ───────────────────────────────────────────────
 obs = sorted(pathlib.Path("ops/observations").glob("*.md")) if pathlib.Path("ops/observations").exists() else []

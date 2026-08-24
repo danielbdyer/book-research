@@ -3,7 +3,7 @@ description: "The author re-grounds Book I in the encounter architecture it buil
 category: structure
 sources: ["reframe conversation, 2026-08-13, line 16020", "reframe conversation, 2026-08-13, line 16030", "reframe conversation, 2026-08-13, line 371", "reframe conversation, 2026-08-13, line 5561", "reframe conversation, 2026-08-13, line 5565", "author direction, 2026-08-14"]
 topics: ["[[book-structure]]"]
-state: nascent
+state: full
 ---
 
 # Book I is grounded in what it builds toward, not in what it guards against
@@ -26,7 +26,6 @@ Relevant Notes:
 - [[the two books differ in locus of practice not subject matter]] — the structural frame this grounds, Book I as the facilitator's locus whose endpoint is stewardship
 - [[the book offers the reader an activity to take up, not a conclusion to trust]] — the encounter architecture stated from the reader's side, an activity to take up rather than content to receive
 - [[beauty recruits the wrong posture]] — one guarded-against concern, the appreciating posture now a guardrail nested inside the ground rather than the footing
-- [[a codex is a one-chair technology making a two-chair argument]] — a second guarded-against concern, the one-chair wound re-nested as a feature rather than the ground
 - [[the ecology frame transcends and includes the verification frame rather than replacing it]] — the move this structure claim instances, the same re-grounding named for the whole reframe
 
 Topics:

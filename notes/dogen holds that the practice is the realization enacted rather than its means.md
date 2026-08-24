@@ -22,11 +22,9 @@ The book's practice curriculum runs under one clause: a practice expresses a rea
 
 Relevant Notes:
 - [[the practice is the expression of realization rather than a means to it]] — the clause this note grounds in its source
-- [[the verification standard rests on one name and cannot be defended by company]] — the parallel single-bearer situation, now partly answered for the practice clause by the reading
 - [[deci and ryan measured that instrumentalizing an intrinsic activity corrupts it]] — the empirical arrival that would give the clause company
 - [[aristotle distinguishes activity complete in itself from movement toward an outside end]] — the philosophical arrival, third of the three traditions
 - [[zen's makyo instruction refuses the self-certifying experience]] — the same tradition sharpening the refusal from inside
-- [[the felt shift bears more load than any single test can carry]] — the adjacent overload finding on the same map
 - [[dogen]] — the interlocutor chair now seating this note's thinker, reference-lineage with a thesis-bearing load
 
 Topics:

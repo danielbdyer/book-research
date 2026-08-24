@@ -20,7 +20,6 @@ Pseudonymity is a device for removing the author's authority from the reader's p
 Relevant Notes:
 - [[double reflection withholds the result so the reader must reproduce it in his own existence]] — the sibling device that withholds the conclusion where pseudonymity withholds the author
 - [[writing without authority renounces the teacher's office and with it the power to correct a misreading]] — the same forfeiture reached by a different device, the loss of governance over the reader's use
-- [[the requirement that the book's author be trusted and disappear restates kierkegaard's authorial problem]] — the disappearance clause this device serves
 
 Topics:
 - [[book-structure]]

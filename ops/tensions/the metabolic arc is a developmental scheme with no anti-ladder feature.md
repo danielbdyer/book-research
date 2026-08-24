@@ -1,6 +1,6 @@
 # The metabolic arc is a developmental scheme with no anti-ladder feature
 
-Raised 2026-08-05 by the mesh grid, which asked the question of the book and of this vault in the same breath. Recorded here rather than in `notes/` because the subject is the vault's own schema; the doctrinal twin — the same failure mode aimed at the book's arc — is a claim at [[a developmental scheme handed to practitioners becomes a ranking of persons]], and the two are not mixed.
+Raised 2026-08-05 by the mesh grid, which asked the question of the book and of this vault in the same breath. Recorded here rather than in `notes/` because the subject is the vault's own schema; the doctrinal twin — the same failure mode aimed at the book's arc — is a claim at a developmental scheme handed to practitioners becomes a ranking of persons, and the two are not mixed.
 
 ## The contradiction
 
@@ -38,7 +38,5 @@ Reviewed at /rethink on 2026-08-05 and taken to the author, who implemented opti
 
 ## Related
 
-- [[a developmental scheme handed to practitioners becomes a ranking of persons]] — the doctrinal twin, aimed at the book's own arc
-- [[the nearest prior attempts are case histories rather than interlocutors]] — the precedent bench the question came from
 - `ops/methodology/vocabulary policy.md` — the directive the corpus-borrowed stage names sit awkwardly against
 - `ops/queue/candidates.md` — where the reading behind this tension sits among the ranked holes, in its book-facing form

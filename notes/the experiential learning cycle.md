@@ -1,7 +1,7 @@
 ---
 description: "Dewey and Kolb established that experience becomes learning only when it is reflected on and then tested in a further act, which is the structure of the book's integration argument and of its practice curriculum."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: precedent
 discipline: practitioner-pedagogy
 clause: "The book's answer to why a peak experience does not hold is the pedagogy's oldest finding: experience without reflection and a return to action does not become learning."
@@ -32,6 +32,8 @@ Three questions, in the order that decides the most.
 - Whether Dewey's *miseducative experience* names the same failure as the book's un-integrated peak, which would make this a construct correspondence rather than a tradition-level one.
 - Whether Kolb's cycle has survived its own literature's criticism well enough to cite.
 - Whether the tradition supplies anything the book's own two mechanisms for the failing peak do not ([[an enormous experience is interpreted by the structure it did not change]] and [[the plasticity window reorganizes only what attention is on]]).
+
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
 
 ---
 

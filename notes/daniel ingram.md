@@ -19,7 +19,7 @@ Two of his claims matter here more than the cartography. The difficult stages ma
 
 ## Why the sort wants him
 
-The book cannot currently distinguish a reader coming apart in the way it intends from a reader coming apart in a way that needs help ([[the book cannot tell dissolution from regression and neither can its reader]]), which the mesh grid sizes at a chapter. Ingram is the most practically developed answer available: not a theory of the distinction but a named sequence a person can locate themselves in, with the explicit claim that being in the difficult phase is expected rather than evidence of failure.
+The book cannot currently distinguish a reader coming apart in the way it intends from a reader coming apart in a way that needs help, which the mesh grid sizes at a chapter. Ingram is the most practically developed answer available: not a theory of the distinction but a named sequence a person can locate themselves in, with the explicit claim that being in the difficult phase is expected rather than evidence of failure.
 
 He also bears on the book's stated reader. The reader is someone who has already had the big experience and found it did not hold; Ingram's account of the spontaneous threshold names a specific version of that reader — someone who crossed something real, got no map, and has been in the aftermath ever since without a name for it. That is a more precise diagnosis than the book currently offers, and the framework itself is protective ([[a framework for what is happening is itself a protective factor]]).
 
@@ -27,7 +27,7 @@ He also bears on the book's stated reader. The reader is someone who has already
 
 Derived rather than sourced; no primary work has been read in this vault, and the formulations are a research synthesis's report of him.
 
-Ingram would refuse the demotion of maps. His whole project is that the stages are real, sequential, reproducible, and worth mapping precisely — that vagueness about them is what harms people. The author demoted the book's own schemes from architecture to instrument on 2026-08-04, and a session that reaches for Ingram to fill the guardrail hole is reaching for someone whose answer is a more detailed developmental scheme ([[a synthesis organized by the schemes offers to promote them back to architecture]] records the general form of this risk).
+Ingram would refuse the demotion of maps. His whole project is that the stages are real, sequential, reproducible, and worth mapping precisely — that vagueness about them is what harms people. The author demoted the book's own schemes from architecture to instrument on 2026-08-04, and a session that reaches for Ingram to fill the guardrail hole is reaching for someone whose answer is a more detailed developmental scheme.
 
 He would also refuse the book's reticence about attainment. Ingram is unusually willing to state what he claims to have achieved and to argue that the reluctance to make such claims is itself a cultural pathology that leaves practitioners unable to calibrate. A book grounded in first-person demonstration but hedged about outcomes is, on his terms, doing the thing that leaves readers stranded.
 
@@ -44,11 +44,8 @@ Recorded in the field above; the seating decision is the author's.
 ---
 
 Relevant Notes:
-- [[the book cannot tell dissolution from regression and neither can its reader]] — the hole this chair addresses most practically
 - [[a framework for what is happening is itself a protective factor]] — the mechanism by which his map would do its work
 - [[an enormous experience is interpreted by the structure it did not change]] — the other account of why the big experience did not hold
-- [[a synthesis organized by the schemes offers to promote them back to architecture]] — the risk in reaching for a more detailed scheme to fix a gap
-- [[willoughby britton]] — the same territory measured from outside, where he maps it from inside
 - [[suffering in an intense state is the intensity multiplied by the resistance]] — the variable his stages describe the shape of
 
 Topics:

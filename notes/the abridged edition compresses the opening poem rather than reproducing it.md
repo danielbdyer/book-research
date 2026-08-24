@@ -24,7 +24,6 @@ The compression is a worked instance of a treatment the corpus records as pendin
 Relevant Notes:
 - [[beauty recruits the wrong posture]] — the tension whose named treatment this compression carries out
 - [[four named units of the arc appear as pages inside the earliest edition's single chapter]] — the same two documents compared at the level of the whole arc
-- [[felt shift versus felt confirmation]] — the mechanism that makes the uncompressed version a risk rather than only a length
 
 Topics:
 - [[book-structure]]

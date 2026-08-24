@@ -10,7 +10,6 @@ This map tracks questions the corpus keeps open on purpose. They are not gaps aw
 
 ## Questions with claims
 
-- [[the whole volume is wagered on express]] — the corpus asks what the book would have been if built on Attend or on Release (two others of the twelve verb-primitives), and declines to answer.
 - [[the topology only exists where it is being performed]] — the corpus asks whether a map of this territory can remain play, and applies the question to its own atlas.
 - [[seventeen chapters rest at madhyama]] — the question of which words get spoken where they can no longer be revised. The corpus's recommended move is recorded in that note's treatment field: one pilot chapter, treated against every revision pass, sent to two real readers (atlas §XI.1f).
 
@@ -29,7 +28,6 @@ The form-and-structure family, one shape at three scales:
 
 The participation-and-technology family, held open because the honest answer keeps moving:
 
-- [[which relationships reliably increase the capacity to participate]] — recast from "which relationships increase aliveness," a question the conversation expects could spiral for years without closing.
 - [[which forms of participation should be delegated and which should remain deliberately lived]] — the delegation line drawn where an external system can now stand in for a person's remembering, synthesizing, interpreting, and conversing.
 - [[which interaction patterns make intelligence amplification increase agency rather than decrease it]] — named a possible major contribution of the project, locating the difference in the relationship rather than in the technology.
 
@@ -37,7 +35,7 @@ The participation-and-technology family, held open because the honest answer kee
 
 - Are emotions found or made? Lisa Feldman Barrett's constructionism and Karla McLaren's messenger model disagree, and the space-around survey suggests the book's chemistry can hold both positions (molecules are real and composed). If the author decides this disagreement belongs among the book's kept tensions, it gets a tension note in `notes/`.
 - Where exactly do aletheia and pratyabhijñā part company? The survey proposes Jorge Ferrer's participatory pluralism as pressure on the two-traditions-one-conclusion claim: the convergence is real at the level of word construction, and the destinations may still differ. Ferrer has not been researched for this project; he is on the pending-evaluation list in `ops/queue/candidates.md`.
-- Is the Second Chair — the book's structural answer to the solitary reader, a second reader designed into the form — sufficient treatment for the one-chair problem? The tension itself has a note, [[a codex is a one-chair technology making a two-chair argument]]; whether the treatment works is an open empirical question about readers.
+- Is the Second Chair — the book's structural answer to the solitary reader, a second reader designed into the form — sufficient treatment for the one-chair problem? Whether the treatment works is an open empirical question about readers.
 - Does Sloterdijk belong in the reference lineage? The book's printed epigraph is the title of his major late work, *You Must Change Your Life*, and his two main projects (practice, containment) are the book's two main subjects. The survey leaves his status undecided.
 
 - [[the book's heideggerian foundation was never given the independence test]] — whether the book's reading of aletheia is Heidegger's or the applied Heideggerianism the author encountered in 2017, which no reading has yet compared

@@ -3,7 +3,7 @@ description: "Under the reframe the book's prose register serves the offer of an
 category: claim
 sources: ["reframe conversation, 2026-08-13 (line 17197, the most important constraint on both books; line 5598, the book's ethical promise)", "author direction, 2026-08-14", "atlas §XI.1a"]
 topics: ["[[book-structure]]", "[[recognition]]"]
-state: nascent
+state: full
 ---
 
 # the register's work is to open the reader's encounter rather than to earn appreciation

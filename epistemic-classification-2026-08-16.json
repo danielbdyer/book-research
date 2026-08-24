@@ -1,0 +1,1476 @@
+{
+ "counts": {
+  "trunk": 395,
+  "tier2": 153,
+  "decoration": 26,
+  "boundary": 33,
+  "total": 574
+ },
+ "bedrock": [
+  "a large change in evaluation can happen without being experienced as change",
+  "aletheia and pratyabhijna converge on truth as un-forgetting",
+  "all six doctrine concerns appear in the first fifteen poems",
+  "an externalized system can be built to hold a self rather than only its information",
+  "erhard and the book take different verbs from the same heideggerian object",
+  "flourishing flow and facilitation converged on one stance in the author's own record",
+  "four molecule names stand in the poems as poem words with their contents",
+  "gendlin names four kinds of inward attention that are not focusing",
+  "nothing enters the lattice the body has not countersigned",
+  "nothing transforms from the audience",
+  "patriotism for oneself is the felt form of the auxiliary relation to a sovereign reader",
+  "psychedelic names a movement not a substance",
+  "reading is remembering",
+  "the alliance holds its size when the exchange is mediated and written",
+  "the author curated and vetoed while the collaborator wrote the correspondences",
+  "the book can only be auxiliary to a sovereign reader",
+  "the book performs what it describes",
+  "the book reads deep change as uncovering rather than addition",
+  "the book was written across the author's move to seattle to live in earnest",
+  "the book's doctrine of time restates a sentence the author's father told him",
+  "the book's honest origin story is noticing first and finding company after",
+  "the book's native genre is the letter from a friend read alone",
+  "the catch is the pulse felt as sheer aliveness",
+  "the central correspondence was lived nine years before it was assembled",
+  "the confabulation finding exempts current sensations and targets reports of causes",
+  "the corpus quotes the author's poems rather than the poems quoting the corpus",
+  "the earliest chapter was written in a voice distilled from the first fifteen poems",
+  "the felt shift certifies carrying forward rather than correspondence",
+  "the figures precede the system by a year and the two were welded together later",
+  "the founding inversion restates the author's own sufficiency inheritance",
+  "the gatekeeper has a lived referent in the author's own protective structure",
+  "the gold thread is the rainbow thread re-owned",
+  "the making of the book enacts the law the book states",
+  "the participation law has measured support at a scale nothing else in the book approaches",
+  "the poems end by naming the next act and leaving it undone",
+  "the poems hold the one-chair question and its answered posture",
+  "the poems narrate the not yet lived as already known",
+  "the poems' animals are present company while the corpus's animals are similes",
+  "the practitioner rather than the person being helped carries the alliance effect",
+  "the primary layer states its own limit on atomization",
+  "the seed arrived in a season of burnout and container-building on every front",
+  "the sixteenth poem returns the book's language to the life it came from",
+  "the small hours are the poems' native hour before they were the book's founding scene",
+  "the triad predates the author's contact with the tradition named the triad",
+  "the unanimity claim is an artifact of how the lineages were selected",
+  "transformation is enacted participation inside a held container",
+  "what is split off not felt remains the same"
+ ],
+ "tier2": [
+  {
+   "path": "both attacks on the standard blame the absence of correction by another person",
+   "bucket": "tier2",
+   "indeg": 17,
+   "reason": "contrapuntive hub grounded in the two sharpest published attacks on the verification standard (Nisbett&Wilson, Schwitzgebel); adversary apparatus arming the Second Chair"
+  },
+  {
+   "path": "in cloud the body's certainty about up is confidently and fatally wrong",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "forest-panel item that self-identifies as testing rather than accompanying \u2014 an external stress-test on the bodily-verification standard, not a simile"
+  },
+  {
+   "path": "the traditions' refusal of extraction restates the book's own container law",
+   "bucket": "tier2",
+   "boundary": true,
+   "indeg": 3,
+   "reason": "built on five traditions' adversarial extraction-refusals but reframes them as the container law turned reflexive \u2014 genuine hinge between external attack and book doctrine"
+  },
+  {
+   "path": "the trained-vocabulary objection arrives independently from social psychology",
+   "bucket": "tier2",
+   "indeg": 2,
+   "reason": "an external objection to the book (trained vocabulary yields trained yes, not access), two independent bearers; the deepest form of the fluency attack"
+  },
+  {
+   "path": "thinkers who agree on nothing else agree that a formulation can be the resistance",
+   "bucket": "tier2",
+   "boundary": true,
+   "indeg": 1,
+   "reason": "adversary convergence (five thinkers) stress-testing the molecule-formula device and 'putting it in question' \u2014 hinge between convergence-as-doctrine and critique-of-scaffolding"
+  },
+  {
+   "path": "a codex is a one-chair technology making a two-chair argument",
+   "bucket": "tier2",
+   "indeg": 36,
+   "reason": "the book's own structural-wound self-critique held with the Second Chair treatment under trial, not a positive doctrine"
+  },
+  {
+   "path": "a developmental scheme handed to practitioners becomes a ranking of persons",
+   "bucket": "tier2",
+   "indeg": 11,
+   "reason": "external precedent-cases marshaled as a risk against the book, a privated gap"
+  },
+  {
+   "path": "a felt shift reported in a high-demand setting may be a demand characteristic rather than a durable change",
+   "bucket": "tier2",
+   "indeg": 15,
+   "reason": "external Orne/Kirsch attack on the verification test, the prompt's own tier2 archetype"
+  },
+  {
+   "path": "a sufficiency asserted with no named ground is either a gift or an evasion",
+   "bucket": "tier2",
+   "indeg": 0,
+   "boundary": true,
+   "reason": "the book's owned deepest wager: the gift-reading is sovereign-reader doctrine, the evasion-reading is the power-critique doorway; nascent and un-built, so lean prep-room"
+  },
+  {
+   "path": "a synthesis organized by the schemes offers to promote them back to architecture",
+   "bucket": "tier2",
+   "indeg": 6,
+   "reason": "methodology self-critique guarding the schemes' demotion, treated by taking findings and declining the organizing principle"
+  },
+  {
+   "path": "beauty recruits the wrong posture",
+   "bucket": "tier2",
+   "indeg": 32,
+   "reason": "the book's own prose self-critique held with the Plain Water Pass treatment under trial"
+  },
+  {
+   "path": "buddhist impermanence faces loss as real rather than as veiled presence",
+   "bucket": "tier2",
+   "indeg": 2,
+   "reason": "a tradition's counterpoint naming the recognition doctrine's blind spot for the finite, clearing material"
+  },
+  {
+   "path": "clean language is either a practicable non-appropriation method or a scripted technique",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "open candidate-method evaluation of David Grove's technique, un-built-upon"
+  },
+  {
+   "path": "curating traditions for their overlap manufactures the unanimity it then reports",
+   "bucket": "tier2",
+   "indeg": 2,
+   "reason": "self-critique that the reframe's method reproduces the selection-artifact, a caution generalizing the load-bearing honesty claim rather than being it"
+  },
+  {
+   "path": "forward hunger defeats the pause",
+   "bucket": "tier2",
+   "indeg": 7,
+   "reason": "the book's own narrative-vs-practice self-critique held with a gating treatment under trial"
+  },
+  {
+   "path": "heidegger's being-toward-death is the finite the recognition doctrine leaves behind",
+   "bucket": "tier2",
+   "indeg": 1,
+   "reason": "counterpoint naming the finitude the book refused, clearing material grounded in a reading record"
+  },
+  {
+   "path": "how much form holds just enough that surprise can still happen",
+   "bucket": "tier2",
+   "indeg": 5,
+   "reason": "the author's forward-looking life-question held open, not a settled structure"
+  },
+  {
+   "path": "how much ontology preserves the ecology without killing the pulse",
+   "bucket": "tier2",
+   "indeg": 2,
+   "reason": "the design-version open question, system-evolution frontier held open, borderline off-book"
+  },
+  {
+   "path": "how much structure makes recognition possible without determining what is recognized",
+   "bucket": "tier2",
+   "indeg": 2,
+   "reason": "a forward-looking open question about structure and recognition, held open"
+  },
+  {
+   "path": "introspective access is the felt shift's undefended premise",
+   "bucket": "tier2",
+   "indeg": 26,
+   "reason": "external empirical literature (Nisbett/Wilson, Schwitzgebel) against the verification premise, the sort's first-ranked hole"
+  },
+  {
+   "path": "nihility may be a station the contraction scheme cannot represent",
+   "bucket": "tier2",
+   "indeg": 4,
+   "reason": "Nishitani's counterpoint stress-testing the contraction scheme, a privated open question"
+  },
+  {
+   "path": "presence-language may radiate significance the sentence has not earned",
+   "bucket": "tier2",
+   "indeg": 7,
+   "reason": "Adorno's external charge against the book's diction"
+  },
+  {
+   "path": "reader sovereignty has an unstated exception at destabilization",
+   "bucket": "tier2",
+   "indeg": 5,
+   "reason": "stress-test exposing an unwritten exception in the sovereignty doctrine; the positive doctrine lives in the trunk sovereign-reader note"
+  },
+  {
+   "path": "sorting a lineage by load turns it toward argument",
+   "bucket": "tier2",
+   "indeg": 6,
+   "reason": "methodology self-critique of the load axis, treated by scoping the axis out of claim prose"
+  },
+  {
+   "path": "the basic posture is describable as dissociation and the harm literature is unread",
+   "bucket": "tier2",
+   "indeg": 8,
+   "reason": "external clinical adverse-effects literature unread against the book's central posture"
+  },
+  {
+   "path": "the book cannot tell dissolution from regression and neither can its reader",
+   "bucket": "tier2",
+   "indeg": 19,
+   "boundary": true,
+   "reason": "the book's honest safety admission and the doorway for the safety-critique cluster, but a named-and-unbuilt gap, so lean prep-room; the author may rule this central safety honesty into the trunk"
+  },
+  {
+   "path": "the book's heideggerian foundation was never given the independence test",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "a provenance/method gap naming an untested convergence, un-built-upon"
+  },
+  {
+   "path": "the compound diagnoses may relocate a structural condition inside a person",
+   "bucket": "tier2",
+   "indeg": 13,
+   "reason": "external field-critique (interiority of cause) against the book's diagnostics"
+  },
+  {
+   "path": "the counterfeit defense and the change-blindness finding ask for opposite timings",
+   "bucket": "tier2",
+   "indeg": 4,
+   "reason": "change-blindness evidence stress-testing the counterfeit defense's timing"
+  },
+  {
+   "path": "the drafts disagree about which person the book speaks in",
+   "bucket": "tier2",
+   "indeg": 4,
+   "reason": "a tracked draft-disagreement about the book's person, treated; the positive doctrine is the middle-voice trunk node it documents variance beneath"
+  },
+  {
+   "path": "the executed draft cannot decide if the primitives are operations or tools",
+   "bucket": "tier2",
+   "indeg": 1,
+   "reason": "a draft inconsistency over scaffolding vocabulary, treated by the schemes-demotion decision"
+  },
+  {
+   "path": "the felt bindingness of a claim to truth cannot be told from inherited authority in its clothes",
+   "bucket": "tier2",
+   "indeg": 2,
+   "reason": "Habermas's external charge that felt bindingness can be manufactured authority"
+  },
+  {
+   "path": "the felt shift bears more load than any single test can carry",
+   "bucket": "tier2",
+   "indeg": 11,
+   "reason": "the vulnerability-summary node for the felt-shift cluster, a contrapuntive overload-naming with a load-distributing treatment"
+  },
+  {
+   "path": "the householder claim has no witness outside the indic world",
+   "bucket": "tier2",
+   "indeg": 5,
+   "reason": "a research gap: a load-bearing claim supported from one tradition only, privated"
+  },
+  {
+   "path": "the map that protects the destabilized reader is the tool that becomes a ranking",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "safety-design tension between two company findings, candidate resolution untested"
+  },
+  {
+   "path": "the participation law has no opponent and its oldest objection is that participation is contamination",
+   "bucket": "tier2",
+   "indeg": 11,
+   "reason": "names the absent institutionalized objection to the participation law, privated with unread literature"
+  },
+  {
+   "path": "the perfectible conversation is the manuscript's most comfortable room",
+   "bucket": "tier2",
+   "indeg": 8,
+   "reason": "the kept counterface of the making's virtue, a personal-provenance self-critique held with the sending as its exit"
+  },
+  {
+   "path": "the productive reading of contraction is the book's revaluation rather than the tradition's doctrine",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "a both-halves caution against mis-citing the book's revaluation as tradition-convergence"
+  },
+  {
+   "path": "the reader's resistance has nowhere to land",
+   "bucket": "tier2",
+   "indeg": 8,
+   "reason": "the book's own self-critique that it never stages a refusal, held with a dramatization treatment under trial"
+  },
+  {
+   "path": "the reframe conversation is itself a candidate perfectible room",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "a resolved vault-process self-observation, near-inert; the weakest tier2 and a plausible declines candidate"
+  },
+  {
+   "path": "the required second person splits into a judge and a mirror",
+   "bucket": "tier2",
+   "indeg": 10,
+   "reason": "a company finding exposing that the book can ship only the mirror, contrapuntive"
+  },
+  {
+   "path": "the sovereign reader's individualism may evade the question of power",
+   "bucket": "tier2",
+   "indeg": 1,
+   "reason": "Freire's external charge that the sovereignty doctrine sidesteps structural power"
+  },
+  {
+   "path": "the whole volume is wagered on express",
+   "bucket": "tier2",
+   "indeg": 3,
+   "reason": "the book's own held-open self-observation about its composition bias from one primitive (scaffolding)"
+  },
+  {
+   "path": "weil is seated as the opponent the plumbing deserves",
+   "bucket": "tier2",
+   "indeg": 10,
+   "reason": "an adversary (Weil) seated at full strength to keep the householder commitment under pressure"
+  },
+  {
+   "path": "whether the medieval page technologies caused silent extractive reading or merely accompanied it is unsettled",
+   "bucket": "tier2",
+   "indeg": 1,
+   "reason": "an unsettled scholarly research-frontier question grounded in Illich vs Saenger"
+  },
+  {
+   "path": "which forms of participation should be delegated and which should remain deliberately lived",
+   "bucket": "tier2",
+   "indeg": 1,
+   "reason": "a forward-looking open question, borderline vault/system-evolution frontier"
+  },
+  {
+   "path": "which interaction patterns make intelligence amplification increase agency rather than decrease it",
+   "bucket": "tier2",
+   "indeg": 1,
+   "reason": "an AI-interaction-design open question, borderline off-book system frontier"
+  },
+  {
+   "path": "which relationships reliably increase the capacity to participate",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "a forward-looking open question held open, could spiral without closing"
+  },
+  {
+   "path": "anna wierzbicka",
+   "bucket": "tier2",
+   "reason": "NSM as the named evidentiary standard the alphabet-closure claim must meet or decline; a pure external test, unread",
+   "bedrock": false,
+   "boundary": false,
+   "indeg": 2
+  },
+  {
+   "path": "david loy",
+   "bucket": "tier2",
+   "reason": "Explicit dual load \u2014 independent-arrival confirmer of the first contraction (centerpiece convergence the trunk leans on) AND adversary of the route; leans tier2 but the confirmer half is table-worthy",
+   "bedrock": false,
+   "boundary": true,
+   "indeg": 4
+  },
+  {
+   "path": "eric schwitzgebel",
+   "bucket": "tier2",
+   "reason": "Primary-read but devastating attack ON the introspection premise the felt-shift standard rests on; a grounded stress-test, not a foundation",
+   "bedrock": false,
+   "boundary": false,
+   "indeg": 4
+  },
+  {
+   "path": "ernest gellner",
+   "bucket": "tier2",
+   "reason": "Immunization-structure charge aimed at the participation law; an adversary in the strict sense, unread",
+   "bedrock": false,
+   "boundary": false,
+   "indeg": 3
+  },
+  {
+   "path": "kenneth burke",
+   "bucket": "tier2",
+   "reason": "Terministic-screens objection that any vocabulary deflects; the prose-level attack the alphabet must answer, unread",
+   "bedrock": false,
+   "boundary": false,
+   "indeg": 1
+  },
+  {
+   "path": "martin orne",
+   "bucket": "tier2",
+   "reason": "Demand-characteristics stress-test on the felt shift, explicitly judged a methodological bar; a leaf feeding contrapuntive claims outward",
+   "bedrock": false,
+   "boundary": false,
+   "indeg": 0
+  },
+  {
+   "path": "michel henry",
+   "bucket": "tier2",
+   "reason": "Research-frontier: nearest phenomenology to vimarsa as an unverified open-territory pairing with world-refusal kept; speculative, unread",
+   "bedrock": false,
+   "boundary": false,
+   "indeg": 5
+  },
+  {
+   "path": "nisbett and wilson",
+   "bucket": "tier2",
+   "reason": "Primary-read confabulation strike on the felt-shift standard; a grounded external attack, not a build-on",
+   "bedrock": false,
+   "boundary": false,
+   "indeg": 2
+  },
+  {
+   "path": "paul meehl",
+   "bucket": "tier2",
+   "reason": "Unfalsifiability/crud-factor charge against the (scaffolding) compositional scheme; a formal external test, unread",
+   "bedrock": false,
+   "boundary": false,
+   "indeg": 2
+  },
+  {
+   "path": "steven katz",
+   "bucket": "tier2",
+   "reason": "Strongest scholarly opponent of the convergence and a contrapuntive hub (indeg 7); trunk claims point one-way at him as the attack they survive",
+   "bedrock": false,
+   "boundary": false,
+   "indeg": 7
+  },
+  {
+   "path": "steven wasserstrom",
+   "bucket": "tier2",
+   "reason": "Co-optation charge against the book's use of Trika; a contrapuntive hub, unread external critique",
+   "bedrock": false,
+   "boundary": false,
+   "indeg": 6
+  },
+  {
+   "path": "the kyoto school",
+   "bucket": "tier2",
+   "reason": "Dominantly confirming company/method-evidence for the crossover (confirms the founding isomorph, Nishida already seated) with only a thin nihility objection; leans tier2, flagged for its trunk-ward pull",
+   "bedrock": false,
+   "boundary": true,
+   "indeg": 3
+  },
+  {
+   "path": "theodor adorno",
+   "bucket": "tier2",
+   "reason": "Jargon-of-authenticity charge on the book's own register, explicitly a stress-test; a leaf feeding contrapuntive claims, secondary/unread",
+   "bedrock": false,
+   "boundary": false,
+   "indeg": 0
+  },
+  {
+   "path": "thomas sheehan",
+   "bucket": "tier2",
+   "reason": "Deflationary-Heidegger guard that disciplines the central verb without touching the practice; a one-way corrective the trunk references, unread",
+   "bedrock": false,
+   "boundary": false,
+   "indeg": 1
+  },
+  {
+   "path": "tony robbins",
+   "bucket": "tier2",
+   "reason": "The voluntarist pole the middle voice must overcome at full strength; a position the book must survive, unread",
+   "bedrock": false,
+   "boundary": false,
+   "indeg": 4
+  },
+  {
+   "path": "willoughby britton",
+   "bucket": "tier2",
+   "reason": "The contemplative-harm literature as the book's most defensible unmet criticism; an external stress-test, unread",
+   "bedrock": false,
+   "boundary": false,
+   "indeg": 3
+  },
+  {
+   "path": "andrea jain",
+   "bucket": "tier2",
+   "indeg": 10,
+   "boundary": true,
+   "reason": "Pure external critique (the appropriation charge) her seat calls a counterweight, books unread, no constructive contribution reweaves into doctrine \u2014 but seated in reference-lineage, so the company-vs-prep-room call is the author's"
+  },
+  {
+   "path": "lowering the demand of the assessment surfaces the disconfirming reports a high-demand setting suppresses",
+   "bucket": "tier2",
+   "reason": "honesty-device drawn from the demand-characteristic adversary chamber; nascent, source unread",
+   "boundary": true,
+   "indeg": 1
+  },
+  {
+   "path": "the nearest prior attempts are case histories rather than interlocutors",
+   "bucket": "tier2",
+   "reason": "contrapuntive hub: the prior-art cautionary/stress-test apparatus (failure modes of prior syntheses), privated",
+   "boundary": true,
+   "indeg": 16
+  },
+  {
+   "path": "the title presupposes lines that develop at different rates",
+   "bucket": "tier2",
+   "reason": "an under-argued-premise stress-point, privated and largely self-corrected (the corpus names its cylinders)",
+   "indeg": 2
+  },
+  {
+   "path": "a book cannot supply the basic trust a reader who never had a reliable other lacks",
+   "bucket": "tier2",
+   "indeg": 1,
+   "boundary": true,
+   "reason": "Winnicott-imported failure/limit on the book's reach, hinging on the book's own auxiliary-limit doctrine"
+  },
+  {
+   "path": "a book in the register of inwardness and the single individual is the origin of the jargon-of-authenticity charge",
+   "bucket": "tier2",
+   "indeg": 3,
+   "reason": "Adorno adversary attacking the very register the book writes in"
+  },
+  {
+   "path": "a device delivers a good while hiding the engagement it once required",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "Borgmann device-hazard lens turned on recognition-as-commodity, a critique doorway"
+  },
+  {
+   "path": "a procedure that manufactures presence has already converted the thou into an it",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "Buber's blade, an adversary against every presence-device and the book itself"
+  },
+  {
+   "path": "an in-situ felt shift cannot be told from a response-expectancy artifact without an out-of-room check",
+   "bucket": "tier2",
+   "indeg": 7,
+   "reason": "the adversary chamber's felt-shift audit (demand / response-expectancy attack)"
+  },
+  {
+   "path": "an interaction science term earns its place by its worked mechanism rather than its aura",
+   "bucket": "tier2",
+   "indeg": 3,
+   "reason": "jargon-discipline caution applying Adorno to the book's own borrowing"
+  },
+  {
+   "path": "barthes's writerly is a direction of evaluation rather than a producible text",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "deflationary caution/limit against building the book to be a writerly text"
+  },
+  {
+   "path": "bateson's double-bind theory of schizophrenia was abandoned as unsupported and did documented harm",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "discrediting due-diligence caution on the exact instrument the book borrows"
+  },
+  {
+   "path": "even the sociology of resonance concedes that a felt encounter needs a second person to certify it",
+   "bucket": "tier2",
+   "indeg": 0,
+   "boundary": true,
+   "reason": "felt-quality skeptical apparatus (fascism holds resonance), hinging toward the second-chair doctrine"
+  },
+  {
+   "path": "every historical margin architecture ran inside a binding community and none is portable to a solitary reader",
+   "bucket": "tier2",
+   "indeg": 5,
+   "reason": "historical limit-probe stress-testing the book's solitary-reader medium"
+  },
+  {
+   "path": "fish's interpretive communities convert participation into socialization and cannot explain how a reading changes a community",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "Fish adversary, the compliance attack in sociological dress"
+  },
+  {
+   "path": "for the reader outside comfortable modernity the device is the axis of contact rather than its loss",
+   "bucket": "tier2",
+   "indeg": 2,
+   "reason": "contrapuntive remainder/counterweight to the why-now device-loss narrative"
+  },
+  {
+   "path": "independent arrivals reach only the weak reading of the participation law",
+   "bucket": "tier2",
+   "boundary": true,
+   "indeg": 2,
+   "category": "claim",
+   "reason": "Honest-limits reckoning on the convergence, but a counterpoint-apparatus stress-test framing an unresolved author choice built on unread primaries."
+  },
+  {
+   "path": "indirect communication can dismantle a private illusion but cannot name an institutional lie",
+   "bucket": "tier2",
+   "indeg": 1,
+   "category": "claim",
+   "reason": "Kierkegaard limit-finding stress-testing indirect communication as a method the book might borrow."
+  },
+  {
+   "path": "indirect communication cannot certify its own success and the demand for certification forces a return to direct speech",
+   "bucket": "tier2",
+   "indeg": 0,
+   "category": "claim",
+   "reason": "Stress-test on the book's verification problem via Kierkegaard's inability to certify a reader crossed over."
+  },
+  {
+   "path": "indirect communication is built to isolate the individual, so a participatory book cannot borrow its devices and reverse their purpose",
+   "bucket": "tier2",
+   "indeg": 3,
+   "category": "claim",
+   "reason": "Contrapuntive caution against borrowing Kierkegaard's isolating devices into a participatory book."
+  },
+  {
+   "path": "indirect communication is required only where the object is a capacity to enact rather than a fact to know",
+   "bucket": "tier2",
+   "boundary": true,
+   "indeg": 2,
+   "category": "claim",
+   "reason": "Constructive Kierkegaard grounding for the book's indirect method, but nascent company on an unread 1847 primary; promotable once read."
+  },
+  {
+   "path": "jakugo answers a passed koan by demonstrating with a quotation under a teacher's checking",
+   "bucket": "tier2",
+   "indeg": 3,
+   "category": "claim",
+   "reason": "Margin second-voice device feeding the not-portable-to-a-solitary-reader stress-test; nascent on unread primaries."
+  },
+  {
+   "path": "katz and burke aim the same trained-vocabulary premise at two different claims",
+   "bucket": "tier2",
+   "indeg": 1,
+   "category": "claim",
+   "reason": "Adversary-apparatus analysis of two vocabulary-constructs-perception opponents the book must answer."
+  },
+  {
+   "path": "kierkegaard departs from the socratic occasion that the book's facilitation model rests on",
+   "bucket": "tier2",
+   "indeg": 1,
+   "category": "claim",
+   "reason": "Contrapuntive distinction defending the book's facilitation model against conflation with Kierkegaard."
+  },
+  {
+   "path": "kierkegaard's indirection was a symptom before it was a technique",
+   "bucket": "tier2",
+   "indeg": 1,
+   "category": "claim",
+   "reason": "Caution against adopting Kierkegaard's wounded indirection as neat craft."
+  },
+  {
+   "path": "learning to learn is a distinct level and not more of the same learning",
+   "bucket": "tier2",
+   "indeg": 3,
+   "category": "claim",
+   "reason": "Bateson's level-logic held explicitly as company not corroboration, nascent on an unread primary, with an adversary-counterweight edge."
+  },
+  {
+   "path": "lectio divina is a four-rung reading protocol in which each rung sends the reader to the next",
+   "bucket": "tier2",
+   "indeg": 1,
+   "category": "claim",
+   "reason": "Reading-protocol precedent feeding the margin-portability stress-test; nascent, only selections read."
+  },
+  {
+   "path": "maieutic ordering deceives the reader into the truth because an illusion cannot be destroyed directly",
+   "bucket": "tier2",
+   "indeg": 3,
+   "category": "claim",
+   "reason": "Kierkegaard's deception-into-truth technique examined and largely refused by the book."
+  },
+  {
+   "path": "merleau-ponty holds the body as the perceiving subject rather than an instrument that certifies",
+   "bucket": "tier2",
+   "boundary": true,
+   "indeg": 3,
+   "category": "claim",
+   "reason": "Full claim from a completed primary reading, yet functions as a refusal of the felt-shift standard filed as an embodied blind-spot fill."
+  },
+  {
+   "path": "on the autopoietic account the felt shift certifies nothing beyond the one who feels it",
+   "bucket": "tier2",
+   "indeg": 4,
+   "category": "claim",
+   "reason": "External autopoietic attack demoting the book's felt-shift verification standard to a single observer's distinction."
+  },
+  {
+   "path": "only two reader-response theories carry an in-situ felt-shift check and both sit where demand is strongest",
+   "bucket": "tier2",
+   "indeg": 1,
+   "category": "claim",
+   "reason": "Felt-shift audit feeding the demand-characteristic critique of the somatic verification test."
+  },
+  {
+   "path": "rosenblatt's efferent-aesthetic binary has no seat for a reading whose product is altered capacity",
+   "bucket": "tier2",
+   "bedrock": false,
+   "boundary": true,
+   "indeg": 4,
+   "reason": "contrapuntive hub critiquing an external theory's gap, secondary-depth and explicitly awaiting the primary reading to settle extend-or-break; hinge because its positive kernel (the altered-capacity standard) could be pulled to trunk. Lean tier2"
+  },
+  {
+   "path": "rosenblatt's valued aesthetic stance is the connoisseur's posture in finer dress",
+   "bucket": "tier2",
+   "bedrock": false,
+   "boundary": false,
+   "indeg": 1,
+   "reason": "contrapuntive warning that Rosenblatt's valued pole is the connoisseur posture the book distrusts, secondary-depth, awaiting primary reading"
+  },
+  {
+   "path": "shame and the desire to please suppress the reports that would disconfirm a transformational setting's benefit",
+   "bucket": "tier2",
+   "indeg": 3,
+   "reason": "demand-characteristic apparatus stress-testing the felt-shift standard"
+  },
+  {
+   "path": "side-coaching cannot cross to a book because the page cannot speak during play",
+   "bucket": "tier2",
+   "indeg": 2,
+   "reason": "improv-device stress-test: the device dies on a book read alone"
+  },
+  {
+   "path": "status is a physics of observable transactions rather than an inner attribute",
+   "bucket": "tier2",
+   "indeg": 3,
+   "reason": "Johnstone candidate borrowing, unopened primary, ports as analysis not practice; held until it earns a seat"
+  },
+  {
+   "path": "status physics stripped of its liberatory frame becomes a manual for domination",
+   "bucket": "tier2",
+   "indeg": 1,
+   "reason": "failure-mode of the improv status borrowing"
+  },
+  {
+   "path": "structure is the container that outlasts a community's decay rather than the cause of it",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "Turner communitas finding held as company; forecast/caution referenced one-way out"
+  },
+  {
+   "path": "subtracting the community from the talmud page converts it from staging disagreement to looking one up",
+   "bucket": "tier2",
+   "indeg": 2,
+   "reason": "margin-device stress-test: the device fails once its binding community is removed"
+  },
+  {
+   "path": "the blue cliff record wraps one encounter in five layers of commentary from two authors",
+   "bucket": "tier2",
+   "indeg": 2,
+   "reason": "margin/second-voice device research held for the second-voice trial"
+  },
+  {
+   "path": "the book's front matter functions as a response-expectancy induction",
+   "bucket": "tier2",
+   "indeg": 5,
+   "reason": "demand apparatus applied to the book's own device, exposing a vulnerability"
+  },
+  {
+   "path": "the case against introspection is strongest where the book's standard stands",
+   "bucket": "tier2",
+   "boundary": true,
+   "indeg": 6,
+   "reason": "Schwitzgebel primary-read attack aimed exactly at the standard, with a shared-ground element; genuine hinge"
+  },
+  {
+   "path": "the case that this moment corrodes the mind repeats a charge made against every new medium",
+   "bucket": "tier2",
+   "indeg": 3,
+   "reason": "steelmanned external attack on the book's why-now"
+  },
+  {
+   "path": "the compliance attack explains a felt shift's origin but not its durability",
+   "bucket": "tier2",
+   "indeg": 9,
+   "reason": "apparatus argumentation bounding the Orne attack; prep-room move"
+  },
+  {
+   "path": "the compliance attack taken to full strength demands the second-person check rather than dissolving it",
+   "bucket": "tier2",
+   "indeg": 1,
+   "reason": "apparatus move ratifying the second chair; prep-room argumentation"
+  },
+  {
+   "path": "the corsair affair shows indirection fails when the author cannot disappear behind the work",
+   "bucket": "tier2",
+   "indeg": 1,
+   "reason": "Kierkegaard/indirection stress-test finding"
+  },
+  {
+   "path": "the criterion for when an interaction gains autonomy is contested as too broad and arbitrary",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "critique of participatory sense-making's criterion; enactive apparatus"
+  },
+  {
+   "path": "the critique of mediation circulates as the attention economy's premium content",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "stress-test on the why-now critics (performative contradiction the book shares)"
+  },
+  {
+   "path": "the cure the sociology prescribes may be a good only the secure can afford",
+   "bucket": "tier2",
+   "indeg": 3,
+   "reason": "class-critique stress-test on the why-now's remedies"
+  },
+  {
+   "path": "the demand-characteristic construct dissolves genuine effects along with artifacts and so resists being made to fail",
+   "bucket": "tier2",
+   "indeg": 5,
+   "reason": "critique of the demand attack's unfalsifiability; apparatus"
+  },
+  {
+   "path": "the effort to be original is itself what blocks spontaneity",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "Johnstone candidate finding in the improv dig, unopened primary, leaf"
+  },
+  {
+   "path": "the enactive program keeps the felt shift as corroboration rather than as evidence",
+   "bucket": "tier2",
+   "indeg": 2,
+   "reason": "enactive apparatus: an allied program demotes the felt report, pressuring the standard"
+  },
+  {
+   "path": "the enactive program's founder conceded its biology had lost the first person",
+   "bucket": "tier2",
+   "indeg": 2,
+   "reason": "apparatus rebuttal within the autopoiesis stress-test"
+  },
+  {
+   "path": "the facilitated room has several independent roots and improv's distinction is theorizing play as craft",
+   "bucket": "tier2",
+   "indeg": 1,
+   "reason": "premise-flag correcting the improv dig (improv is not the sole root)"
+  },
+  {
+   "path": "the facilitated room's documented origin set its standard as social adaptability rather than felt transformation",
+   "bucket": "tier2",
+   "indeg": 1,
+   "reason": "improv-lineage provenance stress-test"
+  },
+  {
+   "path": "the felt sense of connection is produced by coordination whether or not anything durable changed",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "enactive stress-test: coordination counterfeits durable connection"
+  },
+  {
+   "path": "the felt shift's external check can be a resisting world, not only another person",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "Crawford candidate that widens the solitary-reader problem, unopened primary"
+  },
+  {
+   "path": "the good-enough other's graduated failure to adapt is the developmental engine",
+   "bucket": "tier2",
+   "indeg": 2,
+   "reason": "Winnicott candidate borrowing, unopened primary, held for the reliable-other question"
+  },
+  {
+   "path": "the huatou is an anti-page that reduces the whole case to one un-annotatable word",
+   "bucket": "tier2",
+   "indeg": 1,
+   "reason": "margin/second-voice device research (Zen), candidate held"
+  },
+  {
+   "path": "the imperative to increase the number of choices is too empty to guide a facilitation decision",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "critique of von Foerster's ethic; enactive apparatus"
+  },
+  {
+   "path": "the improv lineage's devices assume co-presence so most fail on a book read alone",
+   "bucket": "tier2",
+   "indeg": 3,
+   "reason": "improv-device stress-test: most fail on a book read alone"
+  },
+  {
+   "path": "the improv method franchised into a product reinstalls the approval it was built to remove",
+   "bucket": "tier2",
+   "indeg": 2,
+   "reason": "improv-lineage failure-mode finding"
+  },
+  {
+   "path": "the invisibility that makes indirection succeed is identical to its unfalsifiability",
+   "bucket": "tier2",
+   "indeg": 4,
+   "reason": "Kierkegaard/felt-shift-audit apparatus (indirection's unfalsifiability)"
+  },
+  {
+   "path": "the jargon charge indicts its own author's prose and supplies no criterion exempting legitimate presence-language",
+   "bucket": "tier2",
+   "indeg": 4,
+   "reason": "rebuttal of Adorno's jargon attack; demand apparatus"
+  },
+  {
+   "path": "the later wittgenstein treats philosophy as therapy that dissolves confusions rather than a doctrine that advances theses",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "candidate model from the indirection dig, unopened primary, leaf"
+  },
+  {
+   "path": "the living talmud margin froze into a closed canon that no longer accretes",
+   "bucket": "tier2",
+   "indeg": 2,
+   "reason": "margin-device failure-mode finding"
+  },
+  {
+   "path": "the maneuvers that change a person's frame require a live protected setting a book is not",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "Bateson stress-test: the book is not the live setting the method needs"
+  },
+  {
+   "path": "the participation gap relapses into completion when the reader consolidates the disruption into a deeper consistency",
+   "bucket": "tier2",
+   "indeg": 3,
+   "reason": "Iser reader-response apparatus (the mechanism's limit)"
+  },
+  {
+   "path": "the play lineage resists the jargon charge where it names procedures and is exposed where it names felt states",
+   "bucket": "tier2",
+   "indeg": 1,
+   "reason": "register-attack audit of the play lineage; apparatus"
+  },
+  {
+   "path": "the play lineage verifies its felt shift by co-present witness a solitary reader cannot furnish",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "improv verification stress-test: needs co-presence a solitary reader lacks"
+  },
+  {
+   "path": "the potential space where play and culture live sits between the person and the environment rather than inside either",
+   "bucket": "tier2",
+   "indeg": 1,
+   "reason": "Winnicott candidate borrowing, unopened primary, held for the text-as-holder question"
+  },
+  {
+   "path": "the reader-response strata certify participation in meaning but not a change in capacity",
+   "bucket": "tier2",
+   "indeg": 5,
+   "reason": "reader-response apparatus: the strata do not reach the book's standard"
+  },
+  {
+   "path": "the register attack and the compliance attack close into one self-sealing circle",
+   "bucket": "tier2",
+   "indeg": 7,
+   "reason": "the crossover-attack apparatus (aura\u2192expectancy\u2192demand loop)"
+  },
+  {
+   "path": "the requirement that the book's author be trusted and disappear restates kierkegaard's authorial problem",
+   "bucket": "tier2",
+   "indeg": 4,
+   "reason": "Kierkegaard stress-test mapping the book's authority-paradox onto an adversary"
+  },
+  {
+   "path": "the response-expectancy charge is circular because it infers the expectancy from the outcome it explains",
+   "bucket": "tier2",
+   "indeg": 1,
+   "reason": "rebuttal within the demand apparatus (the charge's circularity)"
+  },
+  {
+   "path": "the scholastic page turned reading from embodied rumination into silent extraction",
+   "bucket": "tier2",
+   "indeg": 1,
+   "reason": "margin/reading-history research (Illich), context for the second-voice trial"
+  },
+  {
+   "path": "the simulating-subject test cannot be run inside a book because the reader is both subject and assessor",
+   "bucket": "tier2",
+   "indeg": 4,
+   "reason": "demand apparatus: the book cannot run the blind-assessor test"
+  },
+  {
+   "path": "the socratic maieutic verifies its work by an aporia the learner then owns, and the sign is fallible",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "indirection/felt-shift-audit dig: the maieutic sign's fallibility"
+  },
+  {
+   "path": "the talmud layout preserves disagreement unresolved on its surface",
+   "bucket": "tier2",
+   "indeg": 2,
+   "reason": "margin-device research (candidate second-voice pattern)"
+  },
+  {
+   "path": "the talmud page forces the eye through a fixed route and the route is its pedagogy",
+   "bucket": "tier2",
+   "indeg": 3,
+   "reason": "margin-device research (candidate second-voice pattern)"
+  },
+  {
+   "path": "the talmud page runs an explainer voice that clears obstacles and a challenger voice that manufactures them",
+   "bucket": "tier2",
+   "indeg": 4,
+   "reason": "margin-device research: a second-voice pattern the book might borrow, held under trial"
+  },
+  {
+   "path": "the talmud's challenger voice began as an intergenerational family argument",
+   "bucket": "tier2",
+   "indeg": 2,
+   "reason": "margin-device provenance research"
+  },
+  {
+   "path": "the talmudic challenger voice degenerated into pilpul cut loose from the plain sense",
+   "bucket": "tier2",
+   "indeg": 3,
+   "reason": "margin-device failure-mode finding"
+  },
+  {
+   "path": "the talmudic verification standard is public defensibility rather than a felt shift",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "margin-tradition felt-shift-audit (a rival verification standard)"
+  },
+  {
+   "path": "the threshold state strips status and leaves a person betwixt and between",
+   "bucket": "tier2",
+   "indeg": 1,
+   "reason": "Turner liminality candidate from the improv dig, held"
+  },
+  {
+   "path": "the transactional program has not dislodged the efferent default and cannot tell an evoked aesthetic reading from a performed one",
+   "bucket": "tier2",
+   "indeg": 1,
+   "reason": "reader-response apparatus: Rosenblatt's program cannot tell evoked from performed"
+  },
+  {
+   "path": "today's exhaustion is self-generated and leaves no external authority to resist",
+   "bucket": "tier2",
+   "indeg": 0,
+   "reason": "Han candidate from the why-now shelf, held as research-frontier"
+  },
+  {
+   "path": "trained introspection is the repair the standard's sharpest opponent named and left open",
+   "bucket": "tier2",
+   "boundary": true,
+   "indeg": 3,
+   "reason": "names the repair-opening Schwitzgebel left (work unmade); doorway to the book's practice-curriculum answer"
+  },
+  {
+   "path": "weil's decreation un-creates the self and reaches the opposite of the restored first person",
+   "bucket": "tier2",
+   "indeg": 5,
+   "reason": "the book's explicitly seated adversary \u2014 decreation reaches the opposite of the restored first person and arms the opponent"
+  }
+ ],
+ "decoration": [
+  {
+   "path": "conspire means to breathe together",
+   "bucket": "decoration",
+   "destination": "commonplace",
+   "indeg": 0,
+   "reason": "Etymological motif held explicitly as candidate-not-title, restating relational-sovereignty doctrine already carried by trunk claims; the author's own cherished word, so an evocative figure-seed rather than trash."
+  },
+  {
+   "path": "an apple grown from seed yields a wilding rather than its parent",
+   "bucket": "decoration",
+   "destination": "commonplace",
+   "indeg": 0,
+   "reason": "Forest-panel far-field resonance, self-declared company-not-evidence for reader-grows-own-recognition; a horticultural figure in the book's own orchard register a drafter could reach for."
+  },
+  {
+   "path": "the construction record documents the falsework more than the finished arch",
+   "bucket": "decoration",
+   "destination": "commonplace",
+   "indeg": 0,
+   "reason": "Forest-panel resonance, company for the scaffolding-demotion already stated by trunk claims; an architectural figure in the book's own house register."
+  },
+  {
+   "path": "a signed proof ends perfecting by declaring one impression sufficient",
+   "bucket": "decoration",
+   "destination": "commonplace",
+   "indeg": 0,
+   "reason": "Forest-panel resonance restating the exit-from-perfecting theme; an evocative printmaking/craft figure aligned with a book about making, worth holding as a figure-seed."
+  },
+  {
+   "path": "a hove-to boat holds its posture and calms the sea by neither fighting nor fleeing",
+   "bucket": "decoration",
+   "destination": "declines",
+   "indeg": 0,
+   "reason": "Forest-panel far-field naval resonance, self-declared company-not-evidence; apt insight but the sailing vehicle is off-key for a house/orchard/thread book, so interesting-but-inert here."
+  },
+  {
+   "path": "a bell is tuned by subtraction alone and a cut past its pitch cannot be undone",
+   "bucket": "decoration",
+   "destination": "commonplace",
+   "indeg": 0,
+   "reason": "forest-panel simile, indeg0, self-labels 'company for a change by removal, not evidence' \u2014 an evocative subtraction image that could seed a figure"
+  },
+  {
+   "path": "a zero-knowledge proof convinces only the verifier who supplied its own challenges",
+   "bucket": "decoration",
+   "destination": "declines",
+   "indeg": 0,
+   "reason": "forest-panel resonance self-labeling 'company for the law's shape, never corroboration'; a sharp but register-breaking cryptographic argument, interesting-but-inert for this book"
+  },
+  {
+   "path": "dye holds by the cloth's mordant rather than by the brightness of the color",
+   "bucket": "decoration",
+   "destination": "commonplace",
+   "indeg": 0,
+   "reason": "forest-panel simile, indeg0, self-labels 'company not evidence'; evocative craft image drafting could reach for on why an experience doesn't hold"
+  },
+  {
+   "path": "each duetting wren's brain carries the whole song rather than its own half",
+   "bucket": "decoration",
+   "destination": "commonplace",
+   "indeg": 0,
+   "reason": "forest-panel animal-model resonance self-labeling 'company, not evidence'; evocative image for the relational field that could seed a figure"
+  },
+  {
+   "path": "recognition behaves like crystal nucleation, unmaking the form it replaces",
+   "bucket": "decoration",
+   "destination": "commonplace",
+   "indeg": 0,
+   "reason": "forest-panel simile self-labeling 'company for the shape of the irreversibility, not evidence'; the disappearing-polymorph image could seed an irreversibility figure"
+  },
+  {
+   "path": "do not model concept evolution as a chain \u2014 the corpus itself becomes the revision history",
+   "bucket": "decoration",
+   "reason": "research-SYSTEM data-model design, not book content; vault-state material routes to ops/",
+   "destination": "declines",
+   "indeg": 3
+  },
+  {
+   "path": "four page-turn engines each pull the reader forward without a hook on the final page",
+   "bucket": "decoration",
+   "reason": "manuscript-craft-technique (page-turn engines); retired craft category",
+   "destination": "declines",
+   "indeg": 1
+  },
+  {
+   "path": "modeling dissent in the verso column moves the refusal to the reader's side of the page",
+   "bucket": "decoration",
+   "reason": "manuscript-craft-technique (verso-column dissent), the audit's named example; retired craft category",
+   "destination": "declines",
+   "indeg": 1
+  },
+  {
+   "path": "one interlude the reader overhears as a letter can carry the letter genre's pull",
+   "bucket": "decoration",
+   "reason": "manuscript-craft-technique (interlude device placement); retired craft category",
+   "destination": "declines",
+   "indeg": 0
+  },
+  {
+   "path": "placing the forward devices at unit openings leaves the closes restful for the pause",
+   "bucket": "decoration",
+   "reason": "manuscript-craft-technique (device placement rule), the audit's named example; retired craft category",
+   "destination": "declines",
+   "indeg": 1
+  },
+  {
+   "path": "planting the felt shift before naming it makes the standard a retrospective pointer rather than a learnable definition",
+   "bucket": "decoration",
+   "reason": "manuscript-craft-technique (when to plant the felt shift), the audit's named example; retired craft category",
+   "destination": "declines",
+   "indeg": 0
+  },
+  {
+   "path": "the book-of-returns vision pairs a walked path with named instruments that send the reader away",
+   "bucket": "decoration",
+   "reason": "unchosen candidate whole-book vision, a recorded road not taken",
+   "destination": "declines",
+   "indeg": 1
+  },
+  {
+   "path": "the encounter is the fundamental unit where ontology becomes lived",
+   "bucket": "decoration",
+   "reason": "data-model central-entity design; may instead be Book II doctrine (transformation in the lived meeting)",
+   "destination": "declines",
+   "boundary": true,
+   "indeg": 2
+  },
+  {
+   "path": "the field note is the membrane between lived encounter and persistent concept",
+   "bucket": "decoration",
+   "reason": "knowledge-system infrastructure design; may instead be Book II content on externalized systems",
+   "destination": "declines",
+   "boundary": true,
+   "indeg": 2
+  },
+  {
+   "path": "the four ontological roots organize the interlocutors by trained way of seeing",
+   "bucket": "decoration",
+   "reason": "an unadjudicated interlocutor-sorting lens (reading aid, not schema change); research infrastructure",
+   "destination": "declines",
+   "indeg": 3
+  },
+  {
+   "path": "the one-walk vision tells the whole book as a single account in strict order of knowing",
+   "bucket": "decoration",
+   "reason": "unchosen candidate whole-book vision, a recorded road not taken",
+   "destination": "declines",
+   "indeg": 1
+  },
+  {
+   "path": "the ontology is musical notation not the music",
+   "bucket": "decoration",
+   "reason": "a design-guard FIGURE stating the vault's own displacement guard; its book-facing twin already carries the figure",
+   "destination": "declines",
+   "indeg": 0
+  },
+  {
+   "path": "the pilot unit becomes a page-turn experiment when its two readers are asked where the pull held them",
+   "bucket": "decoration",
+   "reason": "manuscript craft/production technique (instrumenting a pilot); retired craft category",
+   "destination": "declines",
+   "indeg": 0
+  },
+  {
+   "path": "the seven apparatus devices sort by audience into three reader-facing and four workshop-only",
+   "bucket": "decoration",
+   "reason": "manuscript craft/production sorting of devices; retired craft category",
+   "destination": "declines",
+   "indeg": 0
+  },
+  {
+   "path": "the two-voice vision runs an early knowing in the body against a later writer in the margin",
+   "bucket": "decoration",
+   "reason": "unchosen whole-book vision; its second-voice device was given standing 2026-08-16 as one of a polyphony",
+   "destination": "declines",
+   "boundary": true,
+   "indeg": 2
+  },
+  {
+   "path": "barthes's plaisir and jouissance map onto the book's appreciation and felt shift",
+   "bucket": "decoration",
+   "indeg": 1,
+   "destination": "declines",
+   "reason": "a strained company-not-evidence isomorph, a literary precedent mapping the note itself flags as straining"
+  }
+ ],
+ "boundary": [
+  {
+   "path": "the traditions' refusal of extraction restates the book's own container law",
+   "bucket": "tier2",
+   "boundary": true,
+   "indeg": 3,
+   "reason": "built on five traditions' adversarial extraction-refusals but reframes them as the container law turned reflexive \u2014 genuine hinge between external attack and book doctrine"
+  },
+  {
+   "path": "thinkers who agree on nothing else agree that a formulation can be the resistance",
+   "bucket": "tier2",
+   "boundary": true,
+   "indeg": 1,
+   "reason": "adversary convergence (five thinkers) stress-testing the molecule-formula device and 'putting it in question' \u2014 hinge between convergence-as-doctrine and critique-of-scaffolding"
+  },
+  {
+   "path": "a sufficiency asserted with no named ground is either a gift or an evasion",
+   "bucket": "tier2",
+   "indeg": 0,
+   "boundary": true,
+   "reason": "the book's owned deepest wager: the gift-reading is sovereign-reader doctrine, the evasion-reading is the power-critique doorway; nascent and un-built, so lean prep-room"
+  },
+  {
+   "path": "felt shift versus felt confirmation",
+   "bucket": "trunk",
+   "bedrock": false,
+   "indeg": 59,
+   "boundary": true,
+   "reason": "the book's own verification doctrine that re-nests its two limits as reader-held guardrails, yet the doorway the whole felt-shift skeptical cluster hangs off; lean trunk"
+  },
+  {
+   "path": "the book cannot tell dissolution from regression and neither can its reader",
+   "bucket": "tier2",
+   "indeg": 19,
+   "boundary": true,
+   "reason": "the book's honest safety admission and the doorway for the safety-critique cluster, but a named-and-unbuilt gap, so lean prep-room; the author may rule this central safety honesty into the trunk"
+  },
+  {
+   "path": "david loy",
+   "bucket": "tier2",
+   "reason": "Explicit dual load \u2014 independent-arrival confirmer of the first contraction (centerpiece convergence the trunk leans on) AND adversary of the route; leans tier2 but the confirmer half is table-worthy",
+   "bedrock": false,
+   "boundary": true,
+   "indeg": 4
+  },
+  {
+   "path": "the kyoto school",
+   "bucket": "tier2",
+   "reason": "Dominantly confirming company/method-evidence for the crossover (confirms the founding isomorph, Nishida already seated) with only a thin nihility objection; leans tier2, flagged for its trunk-ward pull",
+   "bedrock": false,
+   "boundary": true,
+   "indeg": 3
+  },
+  {
+   "path": "ken wilber",
+   "bucket": "trunk",
+   "indeg": 7,
+   "boundary": true,
+   "reason": "Load-bearing for the core state-structure mechanism, but Fork 25 is actively re-filing him precedent \u2192 independent-arrival-of-method + adversary; lean trunk"
+  },
+  {
+   "path": "gregory bateson",
+   "bucket": "trunk",
+   "indeg": 5,
+   "boundary": true,
+   "reason": "Genuine hinge: load-bearing formal ancestry for three core doctrines (the ladder, the racket, the field) plus a one-way refusal of designed curricula; lean trunk"
+  },
+  {
+   "path": "hartmut rosa",
+   "bucket": "trunk",
+   "indeg": 13,
+   "boundary": true,
+   "reason": "Genuine hinge: semicontrollability completes the core tuning-fork image, and his civilizational objection is a contrapuntive doorway; lean trunk"
+  },
+  {
+   "path": "andrea jain",
+   "bucket": "tier2",
+   "indeg": 10,
+   "boundary": true,
+   "reason": "Pure external critique (the appropriation charge) her seat calls a counterweight, books unread, no constructive contribution reweaves into doctrine \u2014 but seated in reference-lineage, so the company-vs-prep-room call is the author's"
+  },
+  {
+   "path": "lowering the demand of the assessment surfaces the disconfirming reports a high-demand setting suppresses",
+   "bucket": "tier2",
+   "reason": "honesty-device drawn from the demand-characteristic adversary chamber; nascent, source unread",
+   "boundary": true,
+   "indeg": 1
+  },
+  {
+   "path": "the encounter is the fundamental unit where ontology becomes lived",
+   "bucket": "decoration",
+   "reason": "data-model central-entity design; may instead be Book II doctrine (transformation in the lived meeting)",
+   "destination": "declines",
+   "boundary": true,
+   "indeg": 2
+  },
+  {
+   "path": "the field note is the membrane between lived encounter and persistent concept",
+   "bucket": "decoration",
+   "reason": "knowledge-system infrastructure design; may instead be Book II content on externalized systems",
+   "destination": "declines",
+   "boundary": true,
+   "indeg": 2
+  },
+  {
+   "path": "the nearest prior attempts are case histories rather than interlocutors",
+   "bucket": "tier2",
+   "reason": "contrapuntive hub: the prior-art cautionary/stress-test apparatus (failure modes of prior syntheses), privated",
+   "boundary": true,
+   "indeg": 16
+  },
+  {
+   "path": "the two-voice vision runs an early knowing in the body against a later writer in the margin",
+   "bucket": "decoration",
+   "reason": "unchosen whole-book vision; its second-voice device was given standing 2026-08-16 as one of a polyphony",
+   "destination": "declines",
+   "boundary": true,
+   "indeg": 2
+  },
+  {
+   "path": "the unanimity claim is an artifact of how the lineages were selected",
+   "bucket": "trunk",
+   "reason": "a non-expiring honesty rule CLAUDE.md names (convergence is company not corroboration) AND the doorway to the selection-critique apparatus",
+   "bedrock": true,
+   "boundary": true,
+   "indeg": 23
+  },
+  {
+   "path": "the verification standard rests on one name and cannot be defended by company",
+   "bucket": "trunk",
+   "reason": "the book's OWN honest evidentiary limit (lean trunk) AND the doorway the felt-shift adversary apparatus hangs off",
+   "boundary": true,
+   "indeg": 17
+  },
+  {
+   "path": "a book cannot supply the basic trust a reader who never had a reliable other lacks",
+   "bucket": "tier2",
+   "indeg": 1,
+   "boundary": true,
+   "reason": "Winnicott-imported failure/limit on the book's reach, hinging on the book's own auxiliary-limit doctrine"
+  },
+  {
+   "path": "deceiving a reader into the truth requires knowing his destination, a warrant a book without authority has renounced",
+   "bucket": "trunk",
+   "indeg": 4,
+   "boundary": true,
+   "reason": "the book's honest anti-manipulation stance, hinging on the Kierkegaard indirect-communication apparatus"
+  },
+  {
+   "path": "even the sociology of resonance concedes that a felt encounter needs a second person to certify it",
+   "bucket": "tier2",
+   "indeg": 0,
+   "boundary": true,
+   "reason": "felt-quality skeptical apparatus (fascism holds resonance), hinging toward the second-chair doctrine"
+  },
+  {
+   "path": "every third-person science of interaction loses the first person at the altitude the book lives",
+   "bucket": "trunk",
+   "indeg": 7,
+   "boundary": true,
+   "reason": "defends the book's first-person altitude, hinging on the scientific-critique apparatus it is drawn from"
+  },
+  {
+   "path": "independent arrivals reach only the weak reading of the participation law",
+   "bucket": "tier2",
+   "boundary": true,
+   "indeg": 2,
+   "category": "claim",
+   "reason": "Honest-limits reckoning on the convergence, but a counterpoint-apparatus stress-test framing an unresolved author choice built on unread primaries."
+  },
+  {
+   "path": "indirect communication is required only where the object is a capacity to enact rather than a fact to know",
+   "bucket": "tier2",
+   "boundary": true,
+   "indeg": 2,
+   "category": "claim",
+   "reason": "Constructive Kierkegaard grounding for the book's indirect method, but nascent company on an unread 1847 primary; promotable once read."
+  },
+  {
+   "path": "merleau-ponty holds the body as the perceiving subject rather than an instrument that certifies",
+   "bucket": "tier2",
+   "boundary": true,
+   "indeg": 3,
+   "category": "claim",
+   "reason": "Full claim from a completed primary reading, yet functions as a refusal of the felt-shift standard filed as an embodied blind-spot fill."
+  },
+  {
+   "path": "response expectancy is a two-sided coin, the mechanism of the manufactured artifact and of genuine change alike",
+   "bucket": "trunk",
+   "bedrock": false,
+   "boundary": true,
+   "indeg": 0,
+   "reason": "the author's own honest account of the most-threatening attack, held as doctrine with a lived instance; hinge because it is the doorway the demand-characteristic/aura skeptical apparatus hangs off. Lean trunk"
+  },
+  {
+   "path": "rosenblatt's efferent-aesthetic binary has no seat for a reading whose product is altered capacity",
+   "bucket": "tier2",
+   "bedrock": false,
+   "boundary": true,
+   "indeg": 4,
+   "reason": "contrapuntive hub critiquing an external theory's gap, secondary-depth and explicitly awaiting the primary reading to settle extend-or-break; hinge because its positive kernel (the altered-capacity standard) could be pulled to trunk. Lean tier2"
+  },
+  {
+   "path": "the book earns trust by a result that can fail outside the room rather than by testimony or citation",
+   "bucket": "trunk",
+   "boundary": true,
+   "indeg": 0,
+   "reason": "the book's answerability doctrine born from the demand apparatus; hinge between doctrine and prep-room"
+  },
+  {
+   "path": "the book escapes the ideology charge only by naming a felt result that would count as its own failure",
+   "bucket": "trunk",
+   "boundary": true,
+   "indeg": 5,
+   "reason": "the book's falsifiability commitment, framed against Adorno's charge; hinge"
+  },
+  {
+   "path": "the case against introspection is strongest where the book's standard stands",
+   "bucket": "tier2",
+   "boundary": true,
+   "indeg": 6,
+   "reason": "Schwitzgebel primary-read attack aimed exactly at the standard, with a shared-ground element; genuine hinge"
+  },
+  {
+   "path": "the confabulation finding exempts current sensations and targets reports of causes",
+   "bucket": "trunk",
+   "bedrock": true,
+   "boundary": true,
+   "indeg": 8,
+   "reason": "Nisbett-Wilson primary reading; foundational defense that the canonical attack exempts the felt shift, conceding at one edge"
+  },
+  {
+   "path": "trained introspection is the repair the standard's sharpest opponent named and left open",
+   "bucket": "tier2",
+   "boundary": true,
+   "indeg": 3,
+   "reason": "names the repair-opening Schwitzgebel left (work unmade); doorway to the book's practice-curriculum answer"
+  },
+  {
+   "path": "writing without authority renounces the teacher's office and with it the power to correct a misreading",
+   "bucket": "trunk",
+   "boundary": true,
+   "indeg": 5,
+   "reason": "Kierkegaard precedent for the book's committed posture plus its honest cost, but also the doorway the misreading/deception apparatus hangs off"
+  }
+ ]
+}

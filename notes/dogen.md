@@ -16,7 +16,7 @@ Dōgen Kigen (1200–1253), the founder of Japanese Sōtō Zen, holds that pract
 
 ## Why this seat
 
-He is seated as a **reference-lineage** thinker, beside David Loy as the roster's other Buddhist voice, and not as a source-tradition figure: the book's own descent is Trika, and Dōgen is the lineage the book reaches to for one specific doctrine rather than the tradition it comes from. The seat carries a **thesis-bearing** load because the clause is stated in his voice and, until this round, rested on him alone — structurally the single-bearer situation the verification standard was in with Gendlin ([[the verification standard rests on one name and cannot be defended by company]]). The load assignment is candidate 29's proposal in `ops/queue/claim candidates.md`, and the author has now made the seating.
+He is seated as a **reference-lineage** thinker, beside David Loy as the roster's other Buddhist voice, and not as a source-tradition figure: the book's own descent is Trika, and Dōgen is the lineage the book reaches to for one specific doctrine rather than the tradition it comes from. The seat carries a **thesis-bearing** load because the clause is stated in his voice and, until this round, rested on him alone — structurally the single-bearer situation the verification standard was in with Gendlin. The load assignment is candidate 29's proposal in `ops/queue/claim candidates.md`, and the author has now made the seating.
 
 What has changed the single-bearer exposure is the reading round itself. The clause now anchors a three-tradition convergence, all three read at the text: Dōgen for the contemplative arrival, Deci and Ryan's undermining effect for the empirical arrival ([[deci and ryan measured that instrumentalizing an intrinsic activity corrupts it]]), and Aristotle's *energeia* for the philosophical arrival ([[aristotle distinguishes activity complete in itself from movement toward an outside end]]). So Dōgen bears the clause as its stated voice while the other two give it independent company — the thesis-bearing load is no longer a single point of failure.
 
@@ -38,7 +38,6 @@ Relevant Notes:
 - [[deci and ryan measured that instrumentalizing an intrinsic activity corrupts it]] — the empirical arrival that gives the clause company
 - [[aristotle distinguishes activity complete in itself from movement toward an outside end]] — the philosophical arrival, third of the three traditions
 - [[zen's makyo instruction refuses the self-certifying experience]] — the same tradition sharpening the refusal from inside
-- [[the verification standard rests on one name and cannot be defended by company]] — the single-bearer situation this reading round partly answers for the practice clause
 
 Topics:
 - [[interlocutors]]

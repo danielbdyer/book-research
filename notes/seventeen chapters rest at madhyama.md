@@ -1,7 +1,7 @@
 ---
-description: The manuscript exists as seventeen fully formed but unreleased chapters that stay indefinitely revisable, and the corpus's recommended first move is one fully treated pilot chapter sent to two real readers.
+description: "Resolved 2026-08-16: the treatment on record was executed — the pilot letter went out to real readers before 2026-08-14 — and the full manuscript continues as new work under the correspondence program."
 category: tension
-status: live
+status: resolved
 treatment: "one pilot chapter, fully treated against every revision pass, sent to two real readers"
 sources: ["atlas §XI.1f", "walked XI", "space-around: implicit throughout"]
 topics: ["[[tensions]]", "[[answerability]]", "[[open-questions]]"]
@@ -26,15 +26,14 @@ The move is half-concrete rather than hypothetical. The provenance work reports 
 - The doctrine itself is recorded at [[a word at madhyama can be perfected forever a word at vaikhari can be answered]]; the anti-preservation rule at [[ripeness is not refrigeration]].
 - The drafts admitted on 2026-08-01 supply a fact that narrows the tension without altering it. A complete prose pass at the arc exists, recorded at [[the whole arc has already been drafted once in prose]], so the unreleased state is not explained by unfinished writing. The treatment above is unchanged, because what it requires is a reader rather than a draft.
 
+**Resolved 2026-08-16.** The treatment on record was executed. Its vehicle became the pilot letter when the author picked the correspondence vision on 2026-08-08 (`ops/decisions.md`), and that letter — the first letter of the correspondence, whose drafts are in `drafts/` — went out to real readers at some point before 2026-08-14. The vault records neither the date of the sending nor the recipients, and this record does not invent them; one sentence from the author adds them if he wants them held. The author directed the reconciliation of the record on 2026-08-16: "yes, fully reconcile, this was long long ago now in terms of the book research repo history." The resolution covers this tension and no more. The full manuscript continues as new work under the correspondence program, and later letters are new acts rather than this tension's residue.
+
 ---
 
 Relevant Notes:
 - [[a word at madhyama can be perfected forever a word at vaikhari can be answered]] — the distinction this tension instantiates
-- [[the whole volume is wagered on express]] — the adjacent question about the book's own composition
 - [[the whole arc has already been drafted once in prose]] — the fact that removes unfinished writing as an explanation for the unreleased state
 
-- [[the perfectible conversation is the manuscript's most comfortable room]] — the mechanism beneath this tension: where the perfectible word lives, and why recess is comfortable
-- [[the nearest prior attempts are case histories rather than interlocutors]] — what happened to the five people who released a synthesis of this kind, which is the one class of evidence this tension has never had
 - [[the fruit that falls is the word become deed]] — the image the release is written in, and the house rule it carries
 
 Topics:

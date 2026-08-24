@@ -1,7 +1,7 @@
 ---
 description: "Hudson holds one of the five theories of suffering alone — the resisted feeling — and is the referral network's destination for a somatic misfire, while both sorts filed him among the company."
 category: interlocutor
-seat: candidate
+seat: coaches
 load: thesis-bearing
 discipline: practitioner-pedagogy
 clause: "The book's referral network sends a reader to him by name for one of its five destinations, and no other name holds that theory."
@@ -33,13 +33,14 @@ Three questions, in the order that decides the most.
 - What VIEW's four terms actually specify.
 - Whether his own account of the method's lineage names anyone, since the corpus's other coaches turn out to have genealogies it does not print ([[tony robbins]]).
 
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
 ---
 
 Relevant Notes:
 - [[the referral network sends readers to a name the sort filed as company]] — the finding this chair is the case for
 - [[the transformation field divides into five theories of where suffering lives]] — the survey where he holds one position alone
 - [[the company was sorted by what each thinker brings and never by what the book cannot lose]] — the general defect, of which this is the second instance
-- [[the verification standard rests on one name and cannot be defended by company]] — the first instance, and the same shape
 - [[unrelated traditions converge on presence without agenda while remaining available to act]] — the convergence table his VIEW frame sits in
 - [[karla mclaren]] — the other emotion-work seat, whose messengers and his welcome are two accounts of one practice
 - [[tony robbins]] — the pole he sits opposite in the surrender-and-will fork

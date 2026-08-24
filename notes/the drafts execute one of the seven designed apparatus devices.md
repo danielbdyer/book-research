@@ -27,7 +27,6 @@ The consequence falls on the pilot-chapter decision rather than on the doctrine.
 Relevant Notes:
 - [[the whole arc has already been drafted once in prose]] — the completeness this note qualifies: the prose is finished and the apparatus is not begun
 - [[seventeen chapters rest at madhyama]] — the move this changes the cost of, since "fully treated" means building six devices for the first time
-- [[the reader's resistance has nowhere to land]] — a tension whose treatment is a margin voice that argues back, and therefore depends on the unbuilt margin apparatus
 - [[the per-chapter dial is a spanda ratio]] — the one device that is a production instrument rather than a printed feature, and what the corpus identifies it with
 - [[the gap between two states is where the concealed shows itself]] — the teaching behind the one device the drafts do execute: interludes placed at the junctions
 - [[the unfolding of the center is planted half-erased and finished at a mirror]] — the one planting-ledger pair the extracted record holds, and its unverified execution

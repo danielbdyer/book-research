@@ -28,7 +28,6 @@ Relevant Notes:
 - [[aletheia and pratyabhijna converge on truth as un-forgetting]] — the doctrine this states the ethical form of
 - [[reading is remembering]] — the promise this keeps honest, by making what is remembered unavailable as an acquisition
 - [[what is recognized cannot be un-recognized]] — the other half of the same material: the cost that follows the reminder
-- [[felt shift versus felt confirmation]] — the adjacent failure, where the signal rather than the standing is what gets counterfeited
 - [[loriliai biernacki]] — the living scholar carrying the tradition's own word for the mark this note describes: wonder, which cannot be held
 
 Topics:

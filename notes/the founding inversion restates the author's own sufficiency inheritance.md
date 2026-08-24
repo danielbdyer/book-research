@@ -28,7 +28,6 @@ Relevant Notes:
 - [[suffering is contraction never corruption]] — the doctrinal form of the same inversion, folded not broken
 - [[recognition is the soul's reminder rather than the ego's reward]] — the guard that keeps sufficiency from becoming a new standing to defend
 - [[the book's doctrine of time restates a sentence the author's father told him]] — the sibling inheritance: you are not late, beside this note's you are not lacking
-- [[felt shift versus felt confirmation]] — the caution that applies here too: a reassurance can be assented to bodily because it is fluent, and the author's own engine knows the difference
 
 Topics:
 - [[recognition]]

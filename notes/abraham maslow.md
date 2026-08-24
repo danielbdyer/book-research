@@ -1,7 +1,7 @@
 ---
 description: "Maslow coined peak experience, which the abridged edition uses nine times without citing him, and his late plateau correction — the sustained condition matters more than the visit — is the book's own argument."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: precedent
 discipline: clinical
 clause: "The book's technical word for its central event is his, and the book's correction of that event's importance is his own, made in 1970."
@@ -34,6 +34,8 @@ He would also refuse the plateau read as an achievement of technique. His descri
 Maslow is the founding figure of the human-potential movement, and that is the field walked IX diagnoses for its "radical interiority of cause, its structural inability to hold suffering as meaningful, structural, or genuinely external." Citing him makes the book's descent from that field visible.
 
 The vault's reading, stated as the vault's rather than as a finding: this is a gain. A book that names its parents and says where they went wrong stands better than one that appears to have arrived from nowhere with a new system. The book already has the critique in hand, because walked IX is that sentence.
+
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
 
 ---
 

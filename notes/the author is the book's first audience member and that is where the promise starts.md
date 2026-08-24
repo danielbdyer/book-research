@@ -37,8 +37,6 @@ Relevant Notes:
 - [[the practice is the expression of realization rather than a means to it]] — the clause this tension runs against
 - [[the book's native genre is the letter from a friend read alone]] — the form a partial shape held up to the light most resembles
 - [[the book can only be auxiliary to a sovereign reader]] — the commitment the narrowed promise sits comfortably inside
-- [[the nearest prior attempts are case histories rather than interlocutors]] — the compendium model he named and declined
-- [[felt shift versus felt confirmation]] — the hazard on the other side of a writer checking his own body
 - [[the making of the book enacts the law the book states]] — the record that the book was already being written this way
 
 Topics:

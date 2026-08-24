@@ -1,7 +1,7 @@
 ---
 description: "Reich's character armor names protection organized into posture and breathing that outlasts the threat, which is the book's fold; the abridged edition cites four of his descendants and not him."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 load: precedent
 discipline: clinical
 clause: "Every somatic authority the abridged edition names works in a line that begins with him, and the construct they inherited is the one the book calls a fold."
@@ -40,6 +40,8 @@ Two facts make it workable and both belong in the same clause as the citation. *
 ## What the reading has to settle
 
 Whether Reich frames armor as an absence or as a presence, which decides whether he belongs in the privation convergence or stands with the Racket against it ([[the privation move is an independent arrival across five fields rather than a book coinage]]). Whether the muscular claim is still defensible or has been superseded by the polyvagal and interoceptive accounts the book already cites, in which case the citation is historical rather than evidential. And whether Lowen is the better name to print, since he transmitted the construct without the liabilities.
+
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
 
 ---
 

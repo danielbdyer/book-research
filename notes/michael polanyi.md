@@ -19,7 +19,7 @@ His structural claim is the one that matters here. Attention has two terms. A pe
 
 ## Why he holds two positions rather than one
 
-Polanyi was already in `ops/queue/candidates.md` under one description — tacit knowing as support for the felt sense, "the felt sense as the engine of all expertise." That entry is not wrong and it stands. What it does on its own is add a second voice to a position the book already holds, agreeing with Gendlin about bodily knowledge; and since the book's verification standard currently rests on Gendlin alone ([[the verification standard rests on one name and cannot be defended by company]]), a second voice there is worth having rather than dismissing.
+Polanyi was already in `ops/queue/candidates.md` under one description — tacit knowing as support for the felt sense, "the felt sense as the engine of all expertise." That entry is not wrong and it stands. What it does on its own is add a second voice to a position the book already holds, agreeing with Gendlin about bodily knowledge; and since the book's verification standard currently rests on Gendlin alone, a second voice there is worth having rather than dismissing.
 
 The mesh grid's placement is a different function, and it is the larger of the two. The book's first law is that the instrument of knowing is not separable from what it knows, and every thinker the corpus reports arriving at it is a phenomenologist, a contemplative or a facilitator. Polanyi got there from crystallography with no phenomenological debt, which is the property the sort finds the whole company lacking ([[the convergence's independence fails where three of its names share one teacher]]). The grid calls him "the most valuable missing name in the project" and states the condition plainly: "If C1 has one non-continental witness, it should be him" ([[the participation law has a witness who came to it through crystallography]]).
 
@@ -37,7 +37,9 @@ He would also, on the same ground, refuse a symmetric reading of the participati
 
 ## What the evaluation still requires
 
-*Personal Knowledge* is long and the relevant chapters are on skills, indwelling and commitment. Three things to settle: whether he claims for tacit knowing anything like a verification function, or only a discovery function; how his account of commitment handles the objection that participation immunizes a position against disagreement, which is the hole next to this one ([[the participation law has no opponent and its oldest objection is that participation is contamination]]); and whether the subsidiary-focal structure genuinely matches the book's posture or merely rhymes with it.
+*Personal Knowledge* is long and the relevant chapters are on skills, indwelling and commitment. Three things to settle: whether he claims for tacit knowing anything like a verification function, or only a discovery function; how his account of commitment handles the objection that participation immunizes a position against disagreement, which is the hole next to this one; and whether the subsidiary-focal structure genuinely matches the book's posture or merely rhymes with it.
+
+The transmission mesh's verdict, folded 2026-08-16: Dig IV judged him a stress-test, since the from-to structure of tacit knowing threatens the book's own central instruction to attend to the felt shift, and it queues a reading at Tier 7 (entry 72).
 
 ## Recommendation
 
@@ -48,7 +50,6 @@ Recorded in the field above; the seating decision is the author's.
 Relevant Notes:
 - [[the participation law has a witness who came to it through crystallography]] — the finding this chair carries
 - [[transformation is enacted participation inside a held container]] — the law he would witness from outside
-- [[the participation law has no opponent and its oldest objection is that participation is contamination]] — the adjacent hole, which his commitment argument bears on
 - [[the convergence's independence fails where three of its names share one teacher]] — the test he passes
 - [[felt-shift]] — where his tacit-knowing material was previously queued to land
 - [[eugene gendlin]] — the thinker he was queued as a second voice for

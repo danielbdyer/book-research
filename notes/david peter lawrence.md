@@ -1,7 +1,7 @@
 ---
 description: Lawrence reads the Pratyabhijñā treatises as apologetics and spiritual exercise at once — argument as the vehicle of the recognition it argues for — and runs the crossover as proof, the road this book declined.
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 recommendation: "Reference-lineage: the strongest outside precedent for a text whose form enacts its content, kept beside his evidentiary ambition, which is the road the author has declined."
 works: ["Rediscovering God with Transcendental Argument (SUNY, 1999)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
@@ -15,6 +15,8 @@ David Peter Lawrence's *Rediscovering God with Transcendental Argument* (SUNY, 1
 The refusal kept is the fork he took: Lawrence's own project runs the crossover as proof — the system deployed to demonstrate the reality of God against relativism and deconstruction. That is an evidentiary ambition the book's stance explicitly does not share, and his work shows concretely what the crossover looks like when it is run as demonstration: the road the author considered and declined. Keeping him is keeping the fork visible.
 
 Evidence standing (added 2026-08-06). This note quotes the survey's account of Lawrence, not his pages; *Rediscovering God with Transcendental Argument* is unread here. The crossover research verified the work and its thesis at web depth on 2026-08-03 (archive/research — crossover cluster background.md) and noted that Ratié's later treatise-as-upāya work would strengthen this finding. The recommendation rests on that survey depth, not on a reading.
+
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
 
 ---
 

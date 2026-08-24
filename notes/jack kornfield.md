@@ -1,7 +1,7 @@
 ---
 description: "Kornfield's interviews establish the shifted promise — awakenings arrive and do not last, and maturation happens in the ordinary life that follows — and he would refuse a book that offers itself as enough."
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 recommendation: "Reference-lineage for the promise: After the Ecstasy, the Laundry is the shifted promise as a title, built from the testimony of teachers rather than argument."
 works: ["After the Ecstasy, the Laundry (2000)", "A Path with Heart (1993)"]
 sources: ["generative pass research, 2026-08-04 (archive/research — generative pass background.md)", "After the Ecstasy, the Laundry, prologue (cited in place)"]
@@ -15,6 +15,8 @@ The book's promise shifted on 2026-08-04 to: you already had the big experience,
 The refusal worth keeping is aimed at any book that offers itself as enough, this one included. The teachers he interviewed did not come through the years after their awakenings alone: those years were lived inside marriages, communities, therapy, and relationships with teachers — nobody did the laundry alone — and his own teaching insists on practicing with other people rather than on insight gathered in private. Held whole, this refuses a solitary book as a sufficient vehicle for the very years it describes. The book's auxiliary doctrine absorbs the refusal without softening it: an instrument in service of a life that remains the reader's own is exactly not a claim to be the company that life requires.
 
 One provenance flag, recorded at capture: both quotes above are verified against the publisher's excerpt and wide reproduction, not against print page numbers — verify pagination before manuscript use.
+
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
 
 ---
 

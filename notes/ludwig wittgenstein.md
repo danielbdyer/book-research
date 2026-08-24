@@ -37,6 +37,8 @@ That refusal is not a footnote to the correspondence; it is the second half of i
 
 §§89–133 read whole, with two questions: whether the remark can be detached from the method it serves without becoming a different claim; and whether *On Certainty*'s treatment of the hinge propositions — the things not doubted because everything else turns on them — is the closer parallel to the book's floor than §129 is. The second may be the more valuable of the two and the grid does not mention it.
 
+The transmission mesh's verdict, folded 2026-08-16: Dig I judged him directional, since the ladder that disposes of itself and the therapy-turn that treats philosophy as treatment rather than doctrine are two portable devices pointing a direction for the medium without supplying its content, and it queues a reading at Tier 7 (entry 60).
+
 ## Recommendation
 
 Recorded in the field above; the seating decision is the author's.

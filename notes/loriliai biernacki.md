@@ -1,7 +1,7 @@
 ---
 description: Biernacki takes Abhinavagupta as a live resource in the consciousness-and-matter debate — proof the crossover is a current scholarly project — while developing it toward theory, leaving the practice lane open.
 category: interlocutor
-seat: candidate
+seat: reference-lineage
 recommendation: "Reference-lineage: the living developer who proves the crossover is current, kept with the observation that her destination is metaphysics — the book's practice-verified lane stays unoccupied even here."
 works: ["The Matter of Wonder: Abhinavagupta's Panentheism and the New Materialism (Oxford, 2023)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
@@ -15,6 +15,8 @@ Loriliai Biernacki's *The Matter of Wonder* (Oxford, 2023) takes Abhinavagupta's
 The refusal kept is hers: her destination is metaphysics — a model for contemporary theory and environmental thought — not practice. The living developer develops the crossover toward theory, which means the lane this book occupies, the practice verified in the body, stays unoccupied even by the field's most current work. Her camatkāra is also worth the book's attention on its own: the tradition's own word for wonder as a mark of recognition.
 
 Evidence standing (added 2026-08-06). The quotations on this note come from the crossover research's web-verified survey of 2026-08-03 (archive/research — crossover cluster background.md), not from the work's own pages, which remain unread here; the recommendation rests on that survey depth.
+
+Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
 
 ---
 

@@ -19,7 +19,7 @@ The grid's reading of it is a contrast rather than a precedent, and the contrast
 
 ## Why the sort wants him
 
-The precedent bench exists because a small set of names attempted something structurally like this book and their value is what happened to them ([[the nearest prior attempts are case histories rather than interlocutors]]). Hofstadter is the one whose outcome was good, which makes him the control case: he did not acquire followers who ranked each other, did not have to defend a framework against the charge that everything fits inside it, and did not become a school. Whether that is because of the refusal to supply a tool is the question worth asking.
+The precedent bench exists because a small set of names attempted something structurally like this book and their value is what happened to them. Hofstadter is the one whose outcome was good, which makes him the control case: he did not acquire followers who ranked each other, did not have to defend a framework against the charge that everything fits inside it, and did not become a school. Whether that is because of the refusal to supply a tool is the question worth asking.
 
 It bears directly on a decision the author has already partly made. The schemes were demoted from architecture to instrument on 2026-08-04, on the model of a text that offers a hundred and twelve practices and claims neither completeness nor non-overlap. That is a move in Hofstadter's direction — away from a system a reader stands on. Hofstadter went further and offered no tool at all, and the book is not going to do that, so the useful question is what portion of the protection survives partial withholding.
 
@@ -44,8 +44,6 @@ Recorded in the field above; the seating decision is the author's.
 ---
 
 Relevant Notes:
-- [[the nearest prior attempts are case histories rather than interlocutors]] — the bench this chair belongs to
-- [[a developmental scheme handed to practitioners becomes a ranking of persons]] — the failure he did not suffer, and possibly the reason
 - [[the book performs what it describes]] — the book's own law, which is his method
 - [[the system is scaffolding rather than the centerpiece]] — the demotion that moves partway toward his position
 - [[ken wilber]] — the same bench, and the case that failed in the way he did not

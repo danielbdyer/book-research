@@ -12,7 +12,7 @@ The book promises an event: recognition — sufficiency seen, the concealed beco
 
 The book's own record already leans this way. Its plainest telling — the first telling, the version the corpus judges closest to a reader — was written as letters to one specific friend, revised through six versions for her (provenance reconstruction round two §6). The author's decisive act of reclamation was epistolary: the phrase carried for a decade, offered back to her "as a reminder that it's there for us to claim." The seed's founding address is a letter's address — written to everyone and to himself at once. And the ending the corpus designs — a last line "written so that it can be answered" — is not a device any manual has; it is the constitutive property of a letter, the one genre whose every sentence expects an answer.
 
-What this gives the writing is a bearing on questions currently open. The drafts disagree about which person the book speaks in — plural, singular, impersonal — and a letter settles nothing but weighs something: letters are written I-to-you, and the one confirmed occurrence of the book's event ran on that axis. The one-chair tension asks how a solitary reading can carry a relational claim; the letter is the ancient answer — a letter *is* its writer's presence at the reader's table, the companion built into the form. And the pilot move — one chapter to two real readers — is, in this genre's terms, simply the book doing the one thing a letter must: getting sent.
+What this gives the writing is a bearing on questions currently open. The drafts disagree over which person the book speaks in — they realize it as a plural we, a singular I, and an impersonal register — and a letter settles nothing but weighs something: letters are written I-to-you, and the one confirmed occurrence of the book's event ran on that axis. The one-chair tension asks how a solitary reading can carry a relational claim; the letter is the ancient answer — a letter *is* its writer's presence at the reader's table, the companion built into the form. And the pilot move — one chapter to two real readers — is, in this genre's terms, simply the book doing the one thing a letter must: getting sent.
 
 ## Substantiation
 
@@ -30,13 +30,11 @@ What this gives the writing is a bearing on questions currently open. The drafts
 ---
 
 Relevant Notes:
-- [[the drafts disagree about which person the book speaks in]] — the open question this genre-datum weighs without settling: letters run I-to-you
-- [[a codex is a one-chair technology making a two-chair argument]] — the tension the letter form answers natively: the writer is the second chair
 - [[a word at madhyama can be perfected forever a word at vaikhari can be answered]] — the doctrine the genre embodies: a letter is the answerable word's own form
 - [[the founding inversion restates the author's own sufficiency inheritance]] — the letter that occasioned the one confirmed sighting, and what it carried
 - [[seventeen chapters rest at madhyama]] — the move this genre reframes: a letter's completion is its sending
 - [[the gap between two states is where the concealed shows itself]] — the tradition's name for where a sent, unanswered letter lives: a junction, still mid-crossing
-- [[the third thing has a mechanism in participatory sense-making]] — the most mechanically precise of the solitary reading's refusals (the count of thinkers refusing the solitary reading now approaches nineteen, and their two incompatible demands are sorted at [[the required second person splits into a judge and a mirror]]): coupling needs two oscillators
+- [[the third thing has a mechanism in participatory sense-making]] — the most mechanically precise of the solitary reading's refusals: coupling needs two oscillators
 - [[the author is the book's first audience member and that is where the promise starts]] — the form a partial shape held up to the light takes, which is the letter's scale rather than the treatise's
 
 Topics:

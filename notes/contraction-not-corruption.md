@@ -10,6 +10,8 @@ This map gathers the book's theory of suffering. The doctrine, stated in the boo
 
 The formulas below are the book's canonical examples. Each is a separate claim because each does separate work in the Molecules of Experience material. A standing qualification applies to the formula apparatus as apparatus: by author decision it is scaffolding, earning its place where it rests on established research — McLaren's emotion work, Gendlin's felt shift — and not a given outcome of the book ([[the system is scaffolding rather than the centerpiece]]). The doctrine this map opens with — suffering as contraction, never corruption — is not demoted; the formulaic housing of it is.
 
+Where this concern drains: reading suffering as contraction rather than corruption is how the book keeps the sufferer the author of their own change. A corruption is damage done to a person and a verdict they receive; a contraction is a fold they can work, information rather than a fault, so the deficit lands on conditions rather than on the person ([[pathology belongs to conditions and capacity to persons]]) and "nothing in you is broken" preserves their sovereignty over their own becoming. So this concern drains to the book's still center — [[the master question is the conditions under which a person remains the author of what they become while being genuinely changed]] and its twin [[sovereignty is authorship preserved within relationship, not control over reality]] — as the doctrine of suffering that leaves the person sovereign.
+
 ## Claims in this map
 
 - [[suffering is contraction never corruption]] — the master doctrine and its lineage
@@ -26,17 +28,16 @@ The formulas below are the book's canonical examples. Each is a separate claim b
 - [[the molecule catalogue divides by whether the construct existed before the formula]] — which of the formulas above name constructs that already existed elsewhere, and which are attributed to nobody
 - [[the privation move is an independent arrival across five fields rather than a book coinage]] — the convergence beneath this whole map's signature move, assembled 2026-08-05
 - [[the book reads deep change as uncovering rather than addition]] — the same privative move carried up to the book's other deepest doctrines, so contraction is one face of the book's single uncovering move
+- [[aletheia and pratyabhijna part on whether un-seeing is concealment or contraction]] — where the founding convergence meets this map: recognition's un-seeing is contraction (saṅkoca), not Heidegger's concealment, so recognition un-clenches the same fold this map's suffering is, and the book's two deepest doctrines turn out to be one motion
 - [[aristotle on privation]] — the oldest of the arrivals, with the affliction objection it brings
 - [[james marcia]] — the unnamed bearer of the foreclosure formula
 - [[the apparatus descends from the settlement the book positions itself against]] — the wider sweep: nine of the book's operational constructs trace to one uncredited formation
 - [[wilhelm reich]] — the fold's uncited ancestor, whose descendants the book cites throughout
 - [[the diagnostic discipline survives the apparatus that carries it]] — what the doctrine keeps once that limit is granted, and where each survivor's standing comes from
-- [[thinkers who agree on nothing else agree that a formulation can be the resistance]] — the charge the molecule catalogue must answer, from five thinkers who agree on nothing else, that a formulation of what is wrong can become the defense of the wrongness, so handing a reader a formula risks equipping the resistance the diagnosis exists to interrupt
 - [[gendlin names four kinds of inward attention that are not focusing]] — the standard's own author on why an emotion felt as "sheer" keeps a person from sensing its complex ground, and why a correct explanation of a suffering-state can move nothing, both bearing on how this map's diagnosis is reached
 - [[intimacy is a tether rather than a binding]] — the healthy state that stands opposite the enmeshment privation
 - [[forgiveness is sever then release]] — the ordering rule, which carries the book's critique of premature peace
 - [[the triads privations map the three malas corner for corner]] — the correspondence between the anatomy's failures and Trika's contractions
-- [[david loy]] — the independent Western arrival at the first contraction, which the corpus counts as external confirmation
 - [[the orchard's koan is that composting is not death]] — the image of the arc this map's states are named from
 - [[the gatekeeper is met with a bow never a fight]] — the image of the doctrine as a manner of approach
 - [[the gatekeeper has a lived referent in the author's own protective structure]] — the figure's biographical ground: the doctrine's first case, met over years with enough respect to be nicknamed
@@ -51,9 +52,6 @@ The lineage sort and the two research syntheses (2026-08-05) reached this map fr
 - [[what was never metabolized lives on as absence and hubl reached it through inherited trauma]] — privation reached through collective and ancestral trauma work with no Trika underneath it, which is the first outside arrival this map's central concept has had.
 - [[thomas hubl]] — that arrival's evaluation note, broken out of the eleven-teacher bloc where the corpus had filed him.
 - [[the coaches are a bloc that competes with the compositional scheme]] — the largest re-reading the sort produced: the five theories of where suffering lives are rival accounts of the same territory the compound diagnoses cover, so the eleven teachers are collectively an argument against the scheme rather than a network inside it.
-- [[the compound diagnoses may relocate a structural condition inside a person]] — the charge the corpus levels at the field and may inherit: reading burnout as obligation privated of sanctuary locates it in a personal configuration. The audit ran 2026-08-05 and narrowed the charge; the result is in the audit section below.
-- [[nihility may be a station the contraction scheme cannot represent]] — the open question of whether a condition exists that this map's account cannot reach, which would require structural revision rather than addition.
-- [[the title presupposes lines that develop at different rates]] — the premise beneath every compound diagnosis, since separable components are what makes separate diagnosis possible at all.
 - [[suffering in an intense state is the intensity multiplied by the resistance]] — the doctrine at high intensity, where the multiplier is resistance and the clearing itself is neutral territory.
 
 ## Adjacent maps
@@ -62,7 +60,6 @@ This concern borders [[container-anatomy]], because the privations are that anat
 
 ## What the interiority audit found
 
-- [[the compound diagnoses may relocate a structural condition inside a person]] — the tension it answers, now treated rather than live.
 - [[the primary layer states its own limit on atomization]] — the poems' prior ruling on how far decomposition may go: elements keep their matter, and an equation may work out without a solution
 
 ## The reframe conversation: contraction revalued, and the pulse's second lung
@@ -78,16 +75,25 @@ The pulse the doctrine names gains the counter-movement the vault had never reco
 
 - [[the pulse of experience moves through contraction and expansion]] — contraction placed as one lung of a two-stroke pulse whose other stroke is expansion, so the doctrine holds a rhythm rather than a single contracting motion.
 - [[the catch is the pulse felt as sheer aliveness]] — that pulse met in the body: the arrest before a sneeze or a mountain, contraction and expansion felt as sheer aliveness rather than as suffering.
-- [[conspire means to breathe together]] — the pulse's breath carried into company: to conspire once meant to breathe together, the contraction-and-expansion rhythm exercised with others rather than alone.
 
 Sufficiency joins the catalogue as a privation, and its manufactured opposite names the doctrine at civilizational scale.
 
 - [[sufficiency is the capacity to remain present without needing the next input to complete oneself]] — a fourth canonical instance of the privative grammar: a suffering-state named by the fullness it lacks, so the cure uncovers a sufficiency already present rather than adding one.
 - [[the attention economy runs on manufactured insufficiency]] — the contraction doctrine read at the scale of a market: an engine that manufactures the felt lack it then sells relief for, the racket with an industry behind it.
 
+## Suffering as stalled movement, and the deficit that never lands on the reader
+
+The generative rounds of 2026-08-20 and 2026-08-21 — a first-principles derivation and an affirmative-way crossover brainstorm — stated this map's doctrine in its positive form: suffering as a stalled pulse rather than a damaged self, the deficit placed on conditions rather than persons, and the protective structure honored rather than fought. The notes are nascent, their thinker-attributions (internal family systems, rites of passage) recorded from memory and unverified, and held as company rather than corroboration; their primary grounding is still owed.
+
+- [[suffering is treated by restoring movement rather than by achieving a state]] — the pulse doctrine's treatment consequence, a suffering read as a stalled pulse, so its treatment restores movement rather than reaching a good state, which forbids both treating contraction as damage and treating expansion as home
+- [[pathology belongs to conditions and capacity to persons]] — the doctrine's guard against landing on the reader, the deficit belonging to the environment and the capacity to the person, so "nothing in you is broken" holds and the book's urgency about the age coheres with its refusal to diagnose the reader
+- [[the gatekeeper met with a bow is the threshold-guardian honored that rites of passage and internal family systems each named]] — the contraction-not-corruption posture as a correspondence, the structure that walls a person in read as a bodyguard that took its post for a reason, met and thanked rather than defeated, named by rites of passage and internal family systems
+
 ## What remains
 
 The molecule catalogue (atlas §IV lists eight families and roughly fifty compounds; the book curates about fifteen) is unextracted beyond the four canonical formulas and the foreclosure case. The abridged edition states a further set of formulas in its own prose — Sanctuary, Obligation, Possibility, Stagnation, and the relational compounds of `abridged ch8` — and extracting them alongside atlas §IV would establish whether the two sources' catalogues agree. The space-around survey identifies Aristotle's steresis as the doctrine's classical ancestor, and notes the objection that ancestry carries: privation theory has always been accused of under-describing suffering that is a presence to be borne rather than an absence to be filled. The ancestry now has its evaluation at [[aristotle on privation]], which carries that affliction objection and a reading still to do; the sharpened question sits in the privation tier of `ops/reading queue.md`. The reframe conversation of 2026-08-13 opened two threads this map now holds. Its productive-locus revaluation of saṅkoca departs from classical Trika's bondage reading, and the vault holds no primary reading of the classical side, so the departure at [[the productive reading of contraction is the book's revaluation rather than the tradition's doctrine]] rests on a reading still to do before it can be stated with its exact citations. Its naming of the expansion stroke (vikāsa) gave the pulse a second lung, but only the doctrine is recorded; whether the expansion movement carries a practice or a curriculum of its own is unextracted, and the demoted-scaffolding rule of [[the system is scaffolding rather than the centerpiece]] governs how far any such apparatus may be built.
+
+The affirmative-doctrine section added 2026-08-21 states suffering-as-contraction positively and is the map's newest open work: three nascent notes whose thinker-attributions are unverified and whose primary grounding the sources call queued but the reading queue does not yet carry, so the round's grounding is owed. It states the master doctrine's treatment and its guard against diagnosing the reader rather than opening new formula work.
 
 ---
 

@@ -24,7 +24,6 @@ What this gives the writing: the book does not need to invent its defenses again
 
 Relevant Notes:
 - [[a genuine felt shift changes what can be said next]] — the philosophical defense these instructions operationalize
-- [[felt shift versus felt confirmation]] — the tension whose treatment these guards supply from the source lineage
 - [[zen's makyo instruction refuses the self-certifying experience]] — the parallel guard from the other lineage: dismiss the compelling arrival, keep practicing
 - [[gendlin names four kinds of inward attention that are not focusing]] — the founding paper's taxonomy behind these instructions: four counterfeits, one shared mark, the absence of referent movement
 

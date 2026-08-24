@@ -23,7 +23,6 @@ Two boundary stones from the same texts keep the claim honest. The shift is not 
 ---
 
 Relevant Notes:
-- [[felt shift versus felt confirmation]] — the tension this claim gives a working edge: the counterfeit is now distinguishable in principle, not only named
 - [[nothing enters the lattice the body has not countersigned]] — the standard whose defense this is
 - [[gendlin's focusing protocol already guards against the counterfeit shift]] — the practice-level guards from the same source
 - [[what is split off not felt remains the same]] — the summary sentence this claim sits beneath

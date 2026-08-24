@@ -24,7 +24,6 @@ Relevant Notes:
 - [[without an authorial center the corpus is a knowledge graph; with one it becomes a work]] — the same conversation's claim that arrangement, not accumulation, is where the work lives
 - [[both books move through recognition → relation → participation → stewardship]] — a second architectural sequence from the same conversation, at the scale of the arc
 - [[the system is scaffolding rather than the centerpiece]] — the kindred vault decision, that the book's center is not its constituent vocabulary
-- [[the nearest prior attempts are case histories rather than interlocutors]] — the precedents whose ideas overlap but whose arrangement differs, against which the architectural claim is measured
 - [[no single locus or framework may become sovereign over the reality it describes]] — the constraint inside the sharpest connection, creating the ecology without becoming its sovereign interpreter
 
 Topics:

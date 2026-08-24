@@ -21,10 +21,9 @@ The verdict is a bound on the method rather than a claim that the book can do no
 ---
 
 Relevant Notes:
-- [[a codex is a one-chair technology making a two-chair argument]] — the structural problem this instances, a method requiring a second person and a held container that the solitary page cannot furnish
-- [[learning to learn is a distinct level and not more of the same learning]] — the level these maneuvers target, Learning III, whose danger makes the protected setting non-negotiable
-- [[the book cannot tell dissolution from regression and neither can its reader]] — the risk the sealed-escape method runs, which the protected setting exists to contain
-- [[reader sovereignty has an unstated exception at destabilization]] — where this lands on the book's doctrine, since the destabilizing move is exactly where an outside container is both needed and absent
+- [[the book can only be auxiliary to a sovereign reader]] — the general limit this finding instances, since the book cannot run the protected container the maneuvers require
+- [[transformation is enacted participation inside a held container]] — the held container the maneuvers need and the page cannot supply, the positive law this bounds
+- [[the second chair is the verification standard's own requirement]] — the live, responsive person-in-the-room the maneuvers need to seal escapes safely, the same second person the felt shift's verification requires
 
 Topics:
 - [[relational-field]]

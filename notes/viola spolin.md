@@ -37,6 +37,8 @@ Spolin's contribution to the book's medium is a diagnosis of the enemy and a par
 
 *Improvisation for the Theater* (3rd ed., 1999), part one and the glossary entries for the point of concentration and side-coaching, queued in `ops/reading queue.md`, with the question Dig VII set: whether Spolin specifies any form of side-coaching or point-of-concentration that does not require real-time co-presence — which decides whether the craft ports to the page at all.
 
+The transmission mesh's verdict, folded 2026-08-16: Dig VII judged her ground for running machinery, since she supplies the craft the facilitated room runs on — the point of concentration, side-coaching, and approval-removal — as machinery rather than thesis, and it queues Improvisation for the Theater at Tier 7 (entry 81).
+
 ## Recommendation
 
 Recorded in the field above; the seating decision is the author's.

@@ -14,14 +14,13 @@ Relevance realization — a person's ongoing capacity to determine what matters 
 
 The proposition entered as the conversation's exposition of Vervaeke, carrying the web citations it supplied. On relevance realization as the engine of meaning: "underneath this is relevance realization: the capacity to determine what matters from an effectively unbounded field of possible information. Vervaeke explicitly connects relevance realization with meaning-making, wisdom, spirituality, self-transcendence, and transformative experience" (reframe conversation, 2026-08-13, line 2093). On the attention economy as fragmentation rather than surplus: "The ecology of relevance is being increasingly mediated by systems optimized to capture attention rather than cultivate wisdom" (line 2103), from which the conversation draws the book's question — "What kinds of practices and relationships restore the human capacity to participate meaningfully in reality when our informational environment is systematically fragmenting relevance?" (line 2107). The corollary the passage names is the diagnostic the author had been circling: "The system can increase information while decreasing participation" (line 2135).
 
-Vervaeke appears in the vault only as an unevaluated candidate and a case history ([[the nearest prior attempts are case histories rather than interlocutors]]); the account above is the conversation's, not a reading of his work, which is why the claim is nascent.
+Vervaeke appears in the vault only as an unevaluated candidate and a case history; the account above is the conversation's, not a reading of his work, which is why the claim is nascent.
 
 ---
 
 Relevant Notes:
 - [[there are four kinds of knowing, and the felt shift lives at the edge of the participatory]] — the epistemology this meaning-account opens into, separating information from participation
 - [[knowing about is not knowing through — information can be transmitted, realization cannot]] — the transmission limit that follows once information can rise while participation falls
-- [[the nearest prior attempts are case histories rather than interlocutors]] — locates Vervaeke as the unread candidate whose primary work this claim rests on
 
 Topics:
 - [[recognition]]

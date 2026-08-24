@@ -2,12 +2,13 @@
 _schema:
   entity_type: source
   applies_to: "archive/source — *.md"
-  # archive/ holds three record kinds, distinguished by filename prefix.
+  # archive/ holds four record kinds, distinguished by filename prefix.
   # This block governs "source — " records (provenance of documents in
-  # sources/); the two sibling kinds are specified under sibling_records
+  # sources/); the three sibling kinds are specified under sibling_records
   # below and described in notes/methods.md. Until 2026-08-06 this block
   # claimed all of archive/ while the newer kinds followed no documented
-  # schema at all.
+  # schema at all; the "encounter — " kind was added 2026-08-16 on the
+  # author's confirmation of the reframe register's Fork 1.
   required:
     - description
     - source_file
@@ -43,6 +44,13 @@ _schema:
       required: [description, source_type, generated]
       optional: [exa_prompt, exa_tool, domain, topics]
       body: "A verified outside sweep: the queries run, what was confirmed or corrected, with citations. Cited in place like a consulted work; gets no registry row."
+    encounter:
+      applies_to: "archive/encounter — *.md"
+      naming: "encounter — <event> (<date>).md"
+      required: [description, category, date, participants, field]
+      category_value: source-note
+      optional: [topics]
+      body: "A lived event — a retreat, a facilitation session, a dialogue — as distinct from a document, which a reading record traces. States the field, the participants with the standing each one's turns carry, what was noticed, and the citation grammar claims then use, e.g. 'reframe conversation, 2026-08-13'. The first instance is the reframe-conversation record of 2026-08-13."
 
 # Template fields
 description: ""

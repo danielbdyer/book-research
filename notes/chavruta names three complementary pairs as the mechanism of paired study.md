@@ -15,16 +15,13 @@ The value of the decomposition is that it states the second reader's contributio
 ## Substantiation
 
 - The three-pair analysis is Kent's, in "A Theory of Havruta Learning" (*Journal of Jewish Education* 76:3, 2010), carried at scholarly depth [S] in `transmission dig 3, 2026-08-13` (§II) from the article's abstract and summary; the paper itself was not read, and the note is `state: nascent`. Whether the pair's advantage over the solitary reader is empirically demonstrated or asserted is the open question, queued at `ops/reading queue.md` (the Kent and Holzer on havruta entry).
-- The general convergence — that the two-voice page presupposes the pair, which externalizes the disagreement a solitary reader would settle privately — is held at [[a codex is a one-chair technology making a two-chair argument]]; this note extends it with the mechanism, not a second statement of it.
+- The general convergence — that the two-voice page presupposes the pair, which externalizes the disagreement a solitary reader would settle privately — is one this note extends with the mechanism rather than restating.
 - The clinical arrival at the same shape — the listener as part of the verification instrument — is at [[the second chair is the verification standard's own requirement]], where Kent's third pair (supporting and challenging) meets Gendlin's finding that a listener produces movement the solitary worker lacks.
 
 ---
 
 Relevant Notes:
-- [[a codex is a one-chair technology making a two-chair argument]] — the tension whose treatment names chavruta as ancestor, which this note supplies the mechanism for
 - [[the second chair is the verification standard's own requirement]] — the clinical arrival at the same requirement, where the second reader's challenge is the check the solitary reader lacks
-- [[the required second person splits into a judge and a mirror]] — the two incompatible roles the second person is asked to play, which Kent's supporting-and-challenging pair holds together in one partner
-- [[every historical margin architecture ran inside a binding community and none is portable to a solitary reader]] — the wider finding this partnership is the clearest instance of
 
 Topics:
 - [[relational-field]]

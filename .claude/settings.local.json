@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 scripts/queries/epistemic-repair.py:*)",
+      "Bash(python3 scripts/queries/tidy-empty-sections.py:*)"
+    ]
+  }
+}

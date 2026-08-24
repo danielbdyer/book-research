@@ -24,11 +24,12 @@ Two things follow for the book. First, the felt-shift standard now has an oppone
 ---
 
 Relevant Notes:
-- [[felt shift versus felt confirmation]] — the tension this refusal sharpens from inside: the counterfeit problem is not news to the traditions
 - [[both poles of the convergence refuse the engineered epiphany]] — the sibling refusal: neither foundation lets the shift be manufactured, and Zen adds that even the unmanufactured one does not certify itself
 - [[transformation is enacted participation inside a held container]] — the law whose witness-and-container structure dokusan instantiates as verification
 - [[nothing enters the lattice the body has not countersigned]] — the standard this refusal tests: the body countersigns, and makyō asks who countersigns the body
 - [[the second chair is the verification standard's own requirement]] — the same conclusion from the standard's founding paper: the listener is part of the instrument, which is dokusan's function in this lineage
+- [[the solitary felt shift rests on one name while the paired felt shift has convergent company]] — this instruction and Gendlin's listener requirement read as two independent arrivals, the company the paired felt shift has
+- [[recognition is irreversible as remembering but revocable when kept as a possession]] — makyo even after enlightenment supplies half the limiting clause on the book's irreversibility promise: an attainment kept as a possession is revocable
 
 Topics:
 - [[felt-shift]]

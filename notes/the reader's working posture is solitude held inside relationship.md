@@ -23,7 +23,6 @@ The positive statement changes what the solitary-reader problem asks for. That p
 ---
 
 Relevant Notes:
-- [[a codex is a one-chair technology making a two-chair argument]] — the structural difficulty this posture is the design target for, namely that the book's deepest claim concerns what happens between two people while a printed book is read by one
 - [[the second chair is the verification standard's own requirement]] — the treatment aiming at this posture from the verification side, where Gendlin's founding paper makes the listener part of the instrument rather than an optional aid
 - [[the poems hold the one-chair question and its answered posture]] — the primary layer's prior statement of both halves, where the poems carry the problem as a lived question and this posture as a lived answer
 
