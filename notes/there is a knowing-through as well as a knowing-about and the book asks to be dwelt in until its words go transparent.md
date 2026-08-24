@@ -24,6 +24,7 @@ Relevant Notes:
 - [[william james]] — the acquaintance/about distinction, his fruits test already a counterweight in the map
 - [[michael polanyi]] — indwelling, the from-to shift by which the word goes transparent
 - [[do not explain the reader out of an encounter]] — the craft rule the transparency criterion implies, the words dwelt in rather than stared at
+- [[the book can only be auxiliary to a sovereign reader]] — the mode in which the auxiliary book is used: dwelt through rather than received, so realization stays the reader's own act and the book stays instrument rather than authority
 
 Topics:
 - [[felt-shift]]
