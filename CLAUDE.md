@@ -68,6 +68,7 @@ Six standing directives, stated below, govern all prose and naming. Each is reco
 | `manual/` | User documentation. |
 | `ops/` | Operational state: the orientation surface, goals, the completed log, the decisions register, config, queue, sessions, observations, tensions, methodology, the reading queue, the clearing register, the chapter concordance, the manuscript-readiness conditions, the open-corpus inventory, the register-violations log, and the rethink log. The standing self-measurement instruments (the outline roll-up, the formula audit, the inherited-constructs register, the graph's convergence points, the lineage sort, and the three reach-lists) were retired 2026-08-09; their book-facing findings live as claims in `notes/`. |
 | `provenance/` | Reconstructions of the corpus's making, held as consulted works by author decision. Not sources; the policy is `ops/methodology/personal provenance.md`. |
+| `reflections/` | The author's own, exclusively — reflections spoken from the heart, primary material kin to the poems. His words are inviolable (never edited or paraphrased by a session); the folder is outside every note-graph check, as `sources/` is; a session may extrapolate beneath a rule, linking down into the families and notes without claiming authority. The standing is `reflections/README.md`. |
 | `scripts/queries/` | Ripgrep-based graph queries. `scripts/bootstrap.sh` restores tools and extracts the corpus to `.corpus/` in a fresh container. |
 | `.claude/` | Skills and hooks, versioned with the vault. |
 
