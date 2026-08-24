@@ -172,6 +172,9 @@ Maintenance is condition-based. The session hook reports the automatic condition
 | qmd missing, or notes newer than the semantic index | `scripts/bootstrap.sh`, or `qmd update && qmd embed` |
 | methodology notes 30 or more days behind config changes | /rethink drift |
 | unresolved or ambiguous wiki links | fix on sight, per `scripts/queries/link-check.sh` |
+| a family (`the-*.md`) or scaffold cache marker is stale | re-derive the section — reread its moved source, never a bare CRC bump — via /lens refresh or /scaffold refresh; the discipline is `ops/methodology/re-stamping a cache marker.md` |
+| family coverage regressed — a new note reached by no lens | fold it into the family whose concern it matches, then re-baseline, per `scripts/queries/lens-check.sh --uncovered` |
+| the grounding meter rose — nascent minted faster than grounded | ground the highest-leverage seeds via `ops/reading queue.md`, or re-baseline, per `scripts/queries/lens-check.sh --grounding` |
 | claims with no topic map | /reflect |
 | nascent stubs outnumber the claims filled from them | fill or decline, per `scripts/queries/nascent-stubs.sh` |
 
