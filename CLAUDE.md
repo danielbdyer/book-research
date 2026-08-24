@@ -162,7 +162,7 @@ Manuscript structure is provisional, and placements emerge from the author's dec
 
 ## Maintenance
 
-Maintenance is condition-based. The session hook counts and reports the first six conditions below at session start, prints any unchecked entries in `ops/reminders.md`, and says explicitly when nothing fires. The last two conditions are manual, with their tools: `scripts/queries/unconnected-claims.sh` and `scripts/queries/nascent-stubs.sh`; /verify runs the full schema-and-links pass on demand.
+Maintenance is condition-based. The session hook reports the automatic conditions below at session start — the inbox, observation, tension, and semantic-index counts, wiki-link integrity, cache-section staleness, and the two family meters (coverage and grounding) — prints any unchecked entries in `ops/reminders.md`, and says explicitly when nothing fires. The last two conditions are manual, with their tools: `scripts/queries/unconnected-claims.sh` and `scripts/queries/nascent-stubs.sh`; /verify runs the full schema-and-links pass on demand.
 
 | Condition | Action |
 |-----------|--------|
