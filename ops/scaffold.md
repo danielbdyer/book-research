@@ -266,7 +266,7 @@ The six concerns by weight:
 # Part three · what's open, and what to watch
 
 ## §14 · The open joints — where the readings part
-<!--cache id=JOINTS crc=c7ec5d63 src=ops/decisions.md|notes/book-structure.md|notes/the learning arc.md derived=2026-08-21-->
+<!--cache id=JOINTS crc=919cbf12 src=ops/decisions.md|notes/book-structure.md|notes/the learning arc.md derived=2026-08-24-->
 
 Six joints. Three are the author's named decisions; the other three are findings about where the material is thin or genuinely new. Each is stated with which readings meet at it and what would close it — a joint whose sources include `ops/decisions.md` will go EXPIRED when the author settles it, and the next run notices it may have become a core finding.
 
