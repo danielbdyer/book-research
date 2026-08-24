@@ -81,4 +81,4 @@ Four questions this family surfaces and does *not* answer, because they change w
 
 ---
 <!-- baseline notes=506 decisions=119 derived=2026-08-21 -->
-<!--cache id=TB-src crc=00dd2470 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md|notes/book-structure.md derived=2026-08-21-->
+<!--cache id=TB-src crc=f83e40f9 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md|notes/book-structure.md derived=2026-08-21-->
