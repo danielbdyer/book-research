@@ -15,7 +15,7 @@ A cache marker is the inline receipt `<!--cache id=X crc=Y src=path1|path2 deriv
 
 ## The two kinds of marker, and their different obligations
 
-- A **provenance-bundle marker** watches a set of sources to answer one question: is this section derived from the current set? Its derived prose is a roll-up whose meaning does not turn on any single source's wording. `CONC-src` (the six doctrine maps) is one. Re-stamping it mechanically to the moved bundle is legitimate: there is nothing to re-read, only a set to re-confirm.
+- A **provenance-bundle marker** watches a set of sources to answer one question: is this section derived from the current set? Its derived prose is a roll-up whose meaning does not turn on any single source's wording. `CONC-src` (the six doctrine maps) is one. It carries the lighter form of the redress rather than an exemption from it: a watched source that only churned is re-stamped mechanically, but a source that gained substantive material still asks whether the family should now gather it.
 - A **per-section content marker** watches a specific source whose meaning its derived section interprets. `CONC-recognition` (watching `notes/recognition.md`) and `LOC-concept` (watching `the-conversation-catalog.md` and `notes/recognition.md`) are two. When that source moves, the section's claim may now be wrong, incomplete, or newly supported, so re-stamping it **requires re-reading the section against the moved source** and either revising it or confirming that the movement does not bear on it.
 
 ## The rule
