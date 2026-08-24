@@ -110,4 +110,4 @@ Like the other two, this file carries a content-hash receipt per section (the ma
 
 ---
 <!-- baseline notes=501 decisions=119 derived=2026-08-21 -->
-<!--cache id=PAR-src crc=0e18131a src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md derived=2026-08-21-->
+<!--cache id=PAR-src crc=81702bc4 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md derived=2026-08-24-->
