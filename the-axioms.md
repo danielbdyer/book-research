@@ -33,7 +33,7 @@ The conversation sorted its own axioms, and the author endorsed the sort. It beg
 
 The author insisted the axioms bind him and not only the reader: *"these same axioms also relate to my own authorship of the book"* (882). The model named what that insistence implied — *"underneath both of those is the author's practice"* (887) — and then stated the keystone: **"the author is the first participant… that might be the most foundational axiom of all"** (887). It is the hinge because it makes the author subject to the same participation the book asks of its reader: he is *"not outside the framework, but continually participating"* (887). Everything in Layer 1 is what follows once the maker is inside the thing being made.
 
-<!--cache id=AX-hinge crc=4adece4a src=the-conversation-catalog.md|notes/writing for facilitators dissolves the authority double-bind.md derived=2026-08-21-->
+<!--cache id=AX-hinge crc=ac3f4abb src=the-conversation-catalog.md|notes/writing for facilitators dissolves the authority double-bind.md derived=2026-08-24-->
 
 ### Layer 1 · The author's axioms — the design constraints, held backstage
 
@@ -115,7 +115,7 @@ This is the first family built on the mechanism the Loci file only described, an
 
 **The census is the bound.** The same script counts, per family, how many register entries it holds, how many notes it has actually pulled in (the attested links above), and how many open edges stand un-admitted. The open edge is a candidate inbox, not a backlog: an unstated commitment waits there until a human decides to write it, exactly as a reading waits in the queue. A growing open edge is a live frontier and is healthy — *unless* it grows while the attested count does not, which is collecting without admitting, and the census is where that failure becomes a number you can see. This is what makes the layer safe to grow by workflow: a per-family workflow re-derives only the entries a check marks expired, and its proposals land in the open edge for admission, never straight into the book.
 
-**The Axioms' own open edge — what commitment is implied but unstated.** Asking the Perspective question of this family surfaces four candidates the book behaves as if it holds and has not written down: an axiom of **answerability** (the book expects a reply — present in the doctrine, absent from the set); an axiom of the **body** as the verification floor (*"where your body says 'ah, yes,' that's usually the north star,"* 815 — lived, not stated); an axiom of **time** or clearing (whether the work wants a temporal Sabbath, already held for the author in `ops/clearing.md`); and, the widest edge, the **provenance split itself** — most of the named axioms are model-produced, while the author-voiced core is smaller (the three-layer sort, "the author is the first participant," constraint-reveals-essence, sovereignty-in-relationship, and the diagnosis of insufficiency). Which of these commitments the author actually holds, versus which the model crystallized, is the reading-queue question this family opens.
+**The Axioms' own open edge — what commitment is implied but unstated.** Asking the Perspective question of this family surfaces four candidates the book behaves as if it holds and has not written down: an axiom of **the call and the answering** (the book expects a reply — present in the doctrine, absent from the set); an axiom of the **body** as the verification floor (*"where your body says 'ah, yes,' that's usually the north star,"* 815 — lived, not stated); an axiom of **time** or clearing (whether the work wants a temporal Sabbath, already held for the author in `ops/clearing.md`); and, the widest edge, the **provenance split itself** — most of the named axioms are model-produced, while the author-voiced core is smaller (the three-layer sort, "the author is the first participant," constraint-reveals-essence, sovereignty-in-relationship, and the diagnosis of insufficiency). Which of these commitments the author actually holds, versus which the model crystallized, is the reading-queue question this family opens.
 
 ## What I watched, building this
 
@@ -127,4 +127,4 @@ Three things showed, and they bear on whether a workflow-per-family is safe:
 
 ---
 <!-- baseline notes=501 decisions=119 derived=2026-08-21 -->
-<!--cache id=axioms-src crc=81702bc4 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md derived=2026-08-24-->
+<!--cache id=axioms-src crc=d2af66a5 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md derived=2026-08-24-->

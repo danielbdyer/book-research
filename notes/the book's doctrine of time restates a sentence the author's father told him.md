@@ -2,7 +2,7 @@
 description: "Every temporal doctrine in the corpus — the orchard that does not strain, ripeness not refrigeration, kairos against the clock — varies one inherited sentence: you're right on schedule."
 category: structure
 sources: ["author testimony, recorded at provenance addendum §5 (consulted, held in provenance/)", "abridged ch11", "arc-gloss: the meta"]
-topics: ["[[answerability]]", "[[book-structure]]"]
+topics: ["[[the call and the answering]]", "[[book-structure]]"]
 state: full
 ---
 
@@ -32,5 +32,5 @@ Relevant Notes:
 - [[a recorded reason drifts toward doctrine with distance from the decision]] — the caution that governs this note too: an economical account is not thereby the cause
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]
 - [[book-structure]]

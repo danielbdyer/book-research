@@ -4,7 +4,7 @@ category: tension
 status: treated
 treatment: "start from what serves the author as his own first reader; offer enough of the shape of the transformation to be held up to the light, rather than the whole passage (author statement, 2026-08-05)"
 sources: ["author statement, 2026-08-05", "walked IX", "atlas §IX.8d"]
-topics: ["[[tensions]]", "[[answerability]]"]
+topics: ["[[tensions]]", "[[the call and the answering]]"]
 state: full
 ---
 
@@ -41,4 +41,4 @@ Relevant Notes:
 
 Topics:
 - [[tensions]]
-- [[answerability]]
+- [[the call and the answering]]

@@ -2,7 +2,7 @@
 description: The one documented occurrence of the book's promised event happened reading a decade-old letter from a beloved friend, alone — and the book's plainest telling already exists as letters to one friend.
 category: claim
 sources: ["provenance addendum four §II.2 (consulted, held in provenance/)", "provenance reconstruction round two §6", "first-telling: the door", "mythic-os: contents"]
-topics: ["[[answerability]]", "[[book-structure]]"]
+topics: ["[[the call and the answering]]", "[[book-structure]]"]
 state: full
 ---
 
@@ -38,5 +38,5 @@ Relevant Notes:
 - [[the author is the book's first audience member and that is where the promise starts]] — the form a partial shape held up to the light takes, which is the letter's scale rather than the treatise's
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]
 - [[book-structure]]

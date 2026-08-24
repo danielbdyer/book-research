@@ -2,7 +2,7 @@
 description: "In the reframe conversation a framework that can teach a reader how to leave it is held to relate to authority differently than one asking to become the reader's permanent way of seeing."
 category: claim
 sources: ["reframe conversation, 2026-08-13, lines 2604-2618"]
-topics: ["[[answerability]]"]
+topics: ["[[the call and the answering]]"]
 state: nascent
 ---
 
@@ -24,4 +24,4 @@ Relevant Notes:
 - [[no single locus or framework may become sovereign over the reality it describes]] — the general refusal this applies to the book itself, the framework declining sovereignty over its reader
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]

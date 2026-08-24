@@ -2,7 +2,7 @@
 description: "The doctrine that the book can only be auxiliary to a sovereign reader has a felt source: a first love's letter naming a love that inspires patriotism in the beloved and enlivens their own reality."
 category: image
 sources: ["reframe conversation, 2026-08-13 (transcript line 767, the first-love letter [av])", "reframe conversation, 2026-08-13 (transcript line 3676, the patriotism-for-oneself synthesis)"]
-topics: ["[[relational-field]]", "[[answerability]]"]
+topics: ["[[relational-field]]", "[[the call and the answering]]"]
 state: nascent
 ---
 
@@ -29,4 +29,4 @@ Relevant Notes:
 
 Topics:
 - [[relational-field]]
-- [[answerability]]
+- [[the call and the answering]]

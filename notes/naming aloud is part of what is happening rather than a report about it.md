@@ -2,7 +2,7 @@
 description: "The corpus states its speech doctrine at the scale of one room, where naming a pattern aloud changes that pattern rather than describing it, which is the manuscript-scale rule that only a spoken word can be answered."
 category: claim
 sources: ["first-telling: the practice", "space-around: around the practice"]
-topics: ["[[answerability]]", "[[felt-shift]]"]
+topics: ["[[the call and the answering]]", "[[felt-shift]]"]
 ---
 
 # naming aloud is part of what is happening rather than a report about it
@@ -27,5 +27,5 @@ Relevant Notes:
 - [[grief cannot complete alone]] — Karla McLaren's finding, carried by all four source documents, that grief requires a witness and a ceremony to complete, which makes the witnessed naming structurally necessary there rather than merely preferable
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]
 - [[felt-shift]]

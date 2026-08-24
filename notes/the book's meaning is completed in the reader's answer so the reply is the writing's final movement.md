@@ -2,7 +2,7 @@
 description: "The reader is handed the last unwritten line: their response is not applause for a finished object but the closing gesture of the object itself, so the meaning they make in answering is the real one arriving."
 category: isomorph
 sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Bakhtin: the word 'oriented toward a future answer-word' (Dialogic Imagination, 1981; Speech Genres, 1986)", "Iser (the work realized by the reader, 1978); Gadamer (fusion of horizons, 1960); liturgy (the Amen completes, 1 Cor 14:16)"]
-topics: ["[[answerability]]"]
+topics: ["[[the call and the answering]]"]
 state: nascent
 ---
 
@@ -25,4 +25,4 @@ Relevant Notes:
 - [[the book's native genre is the letter from a friend read alone]] — the genre whose completion is its sending, the answer as the writing's final movement
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]

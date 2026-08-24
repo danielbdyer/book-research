@@ -21,7 +21,7 @@ One caution belongs to the claim itself. All four are common English words, so t
 
 Relevant Notes:
 - [[the molecule catalogue divides by whether the construct existed before the formula]] — the finding that seven of the named molecules compress constructs already existing elsewhere under their own names, to which this claim adds a column for the author's own earlier poems
-- [[all six doctrine concerns appear in the first fifteen poems]] — the finding that recognition, contraction, the felt shift, the container, the field, and answerability are each already stated in the poems that predate the book, which this claim extends from those six doctrines to four of the system's names
+- [[all six doctrine concerns appear in the first fifteen poems]] — the finding that recognition, contraction, the felt shift, the container, the field, and the call and the answering are each already stated in the poems that predate the book, which this claim extends from those six doctrines to four of the system's names
 - [[the primary layer states its own limit on atomization]] — the finding that poem #7 rules elements may not be split beyond their matter, which sets a limit, from the same poems, on how far the system's decomposition may go
 
 Topics:

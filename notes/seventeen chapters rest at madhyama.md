@@ -4,7 +4,7 @@ category: tension
 status: resolved
 treatment: "one pilot chapter, fully treated against every revision pass, sent to two real readers"
 sources: ["atlas §XI.1f", "walked XI", "space-around: implicit throughout"]
-topics: ["[[tensions]]", "[[answerability]]", "[[open-questions]]"]
+topics: ["[[tensions]]", "[[the call and the answering]]", "[[open-questions]]"]
 ---
 
 # seventeen chapters rest at madhyama
@@ -38,5 +38,5 @@ Relevant Notes:
 
 Topics:
 - [[tensions]]
-- [[answerability]]
+- [[the call and the answering]]
 - [[open-questions]]

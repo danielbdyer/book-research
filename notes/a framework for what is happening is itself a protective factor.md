@@ -2,7 +2,7 @@
 description: Among the predictors of a difficult altered-state experience is having no framework for it, which means an accurate account reduces harm and puts the book inside its own subject matter.
 category: claim
 sources: ["high-energy states: what predicts whether dissolution liberates or terrifies", "high-energy states: the contemplative maps"]
-topics: ["[[container-anatomy]]", "[[answerability]]"]
+topics: ["[[container-anatomy]]", "[[the call and the answering]]"]
 state: privated
 privation: "the primary work behind the high-energy states synthesis has not been read"
 ---
@@ -38,4 +38,4 @@ Relevant Notes:
 
 Topics:
 - [[container-anatomy]]
-- [[answerability]]
+- [[the call and the answering]]

@@ -22,7 +22,7 @@ These are the Five Great Questions the reframe conversation reached (`the-conver
 
 The fourth question is the one you pointed at, and it is the whole reason this can be a substrate rather than a summary: a summary is finished when written; a frame built around question 4 is never finished, because it always names its own frontier.
 
-<!--cache id=LOC-concept crc=afa55458 src=the-conversation-catalog.md|notes/recognition.md derived=2026-08-21-->
+<!--cache id=LOC-concept crc=519afc03 src=the-conversation-catalog.md|notes/recognition.md derived=2026-08-24-->
 
 ---
 
@@ -88,7 +88,7 @@ These are named but barely populated. They are the register's growing edge, and 
 - **10 · The genealogical locus — *"where did this actually descend from?"*** Lineage and descent. Used in exactly one place (`[[the apparatus descends from the settlement the book positions itself against]]`) and nowhere else; the full descent-mapping of the book's own constructs is unnamed territory.
 - **11 · The developmental locus — *"what stage of maturation is this?"*** Mezirow's transformative learning; state-vs-trait; the five metabolic states the vault already borrows for `state:`. Thinly seated as a *standpoint*, though the material is everywhere.
 - **12 · The technological locus — *"who participates in forming this understanding?"*** The double meaning — external technology (AI, media, systems) and internal technology (attention, practice) — and whether the external can strengthen the internal rather than replace it *(14207–14260)*. Named as a concern; not yet worked as a standpoint one reads the whole book from.
-- **13 · The margin / answerability locus — *"who is this said before, and can it be answered?"*** The letter genre; the word that expects a reply. The *material* is richly seated already — a whole `[[answerability]]` map and `[[the book's native genre is the letter from a friend read alone]]` — so what is missing is only the *standpoint framing* (reading the book from the addressed reader's chair), not the content; and this is the highest-leverage single seat in the polyphony, because the Axioms, the Paradoxes, and the Constellation each flag answerability as *their* open edge too, so drawing it once closes an edge in four families at once.
+- **13 · The margin locus — *"who is this said before, and can it be answered?"*** The letter genre; the word that expects a reply. The *material* is richly seated already — a whole `[[the call and the answering]]` map and `[[the book's native genre is the letter from a friend read alone]]` — so what is missing is only the *standpoint framing* (reading the book from the addressed reader's chair), not the content; and this is the highest-leverage single seat in the polyphony, because the Axioms, the Paradoxes, and the Constellation each flag the call and the answering as *their* open edge too, so drawing it once closes an edge in four families at once.
 
 <!--cache id=LOC-frontier crc=d9af548e src=the-conversation-catalog.md|reframe-conversation-full-2026-08-13.md derived=2026-08-21-->
 
@@ -109,7 +109,7 @@ This is held as a proposal, not a decision. What it would change: the reading qu
 
 The part of the mechanism that *is* now built is the checking. This file carries a content-hash receipt for each of its sections (the hidden markers below each block), and `scripts/queries/lens-check.sh` re-computes them to report which sections still rest on unmoved ground and which need re-reading — the same substrate the Axioms family runs on, described in full in `the-axioms.md`. So the register above cannot silently rot: when a source it was read from changes, the section that cited it says so.
 
-<!--cache id=LOC-substrate crc=7a59301c src=ops/reading queue.md|ops/clearing.md derived=2026-08-24-->
+<!--cache id=LOC-substrate crc=b37e93cf src=ops/reading queue.md|ops/clearing.md derived=2026-08-24-->
 
 ## What I watched, building this
 
@@ -123,4 +123,4 @@ My recommendation: **stay hands-on for one more family**, watch the output volum
 
 ---
 <!-- baseline notes=501 decisions=119 derived=2026-08-21 -->
-<!--cache id=LOC-src crc=81702bc4 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md derived=2026-08-24-->
+<!--cache id=LOC-src crc=d2af66a5 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md derived=2026-08-24-->

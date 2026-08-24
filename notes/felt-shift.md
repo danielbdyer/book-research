@@ -62,7 +62,7 @@ Open territory bearing on the verification standard, none of it yet substantiate
 
 ## Adjacent maps
 
-This concern borders [[relational-field]], because the book uses the field as a second check on what the solitary body reports. It borders [[answerability]], because the book applies the same test to reading itself (did the understanding arrive, or was it constructed?). It borders [[methods]], because the vault inherits the standard's humility without possessing the organ.
+This concern borders [[relational-field]], because the book uses the field as a second check on what the solitary body reports. It borders [[the call and the answering]], because the book applies the same test to reading itself (did the understanding arrive, or was it constructed?). It borders [[methods]], because the vault inherits the standard's humility without possessing the organ.
 
 ## The founding paper, read whole
 

@@ -2,14 +2,14 @@
 description: The corpus's central distinction about speech holds that an unspoken sentence stays revisable and is therefore not yet real, while a spoken sentence cannot be revised and can therefore be answered.
 category: claim
 sources: ["atlas §VI", "walked VI", "first-telling: left in the tin"]
-topics: ["[[answerability]]"]
+topics: ["[[the call and the answering]]"]
 ---
 
 # a word at madhyama can be perfected forever a word at vaikhari can be answered
 
 The corpus inherits a four-level account of speech (from the grammarian Bhartṛhari, extended by the Trika tradition): parā, speech as pure potency; paśyantī, meaning as a single felt flash; madhyamā, the fully formed but unspoken sentence; vaikharī, the word made flesh — breath, ink, sound reaching another person. Two teachings hang on the ladder. First, the atlas records that the descent does not degrade the word: "the descent is not degradation — vaikharī is parā at full extension" (atlas §VI). Second, the atlas states the distinction this note takes as its title and ranks it as the corpus's central distinction about speech (§VI).
 
-The distinction has one consequence. An unspoken sentence can always be changed, which removes every risk from it; the walked document draws the conclusion that it is "perfectible forever, and therefore safe, and therefore, in a precise sense, not yet real" (walked VI). The spoken sentence cannot be revised, and answerability is what makes a word a deed. The corpus applies the distinction to the manuscript's own condition; that application has its own note, [[seventeen chapters rest at madhyama]].
+The distinction has one consequence. An unspoken sentence can always be changed, which removes every risk from it; the walked document draws the conclusion that it is "perfectible forever, and therefore safe, and therefore, in a precise sense, not yet real" (walked VI). The spoken sentence cannot be revised, and being answered is what makes a word a deed. The corpus applies the distinction to the manuscript's own condition; that application has its own note, [[seventeen chapters rest at madhyama]].
 
 ## Substantiation
 
@@ -30,4 +30,4 @@ Relevant Notes:
 - [[the sixteenth poem returns the book's language to the life it came from]] — the blade lived rather than stated: "the trembling that is the sound of the sentence leaving / the architecture" (poems #16)
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]

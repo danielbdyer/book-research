@@ -2,7 +2,7 @@
 description: "Kierkegaard's indirection exists to sever the individual from the crowd, the opposite motion to a book about participation, so its devices cannot be borrowed with their purpose reversed and still assumed to work."
 category: claim
 sources: ["transmission dig 1, 2026-08-13, remainder", "Stanford Encyclopedia of Philosophy, \"Søren Kierkegaard\" [S]"]
-topics: ["[[answerability]]", "[[book-structure]]"]
+topics: ["[[the call and the answering]]", "[[book-structure]]"]
 state: nascent
 ---
 
@@ -21,5 +21,5 @@ Relevant Notes:
 - [[the book is written to the relational field and enacted upon the author first]] — the book's opposite address, to the field rather than the isolated soul, which is what makes the borrowing questionable
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]
 - [[book-structure]]

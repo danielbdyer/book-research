@@ -2,7 +2,7 @@
 description: The reader does not become co-author of the text but becomes the author of what happens in their own encounter with it, which preserves both authorial responsibility and reader sovereignty.
 category: claim
 sources: ["reframe conversation, 2026-08-13 (§LXIII, the reader as co-author of experience)"]
-topics: ["[[answerability]]", "[[relational-field]]"]
+topics: ["[[the call and the answering]]", "[[relational-field]]"]
 state: nascent
 ---
 
@@ -25,5 +25,5 @@ Relevant Notes:
 - [[authority earned through participation differs from authority asserted through abstraction]] — the authorial-responsibility half the distinction preserves alongside reader sovereignty
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]
 - [[relational-field]]

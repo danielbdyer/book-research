@@ -2,7 +2,7 @@
 description: Addressing the first book to facilitators rather than a general readership dissolves the double-bind of having to establish authority and relinquish it at once.
 category: claim
 sources: ["reframe conversation, 2026-08-13 (the author on a facilitator readership)"]
-topics: ["[[book-structure]]", "[[answerability]]"]
+topics: ["[[book-structure]]", "[[the call and the answering]]"]
 state: nascent
 ---
 
@@ -27,4 +27,4 @@ Relevant Notes:
 
 Topics:
 - [[book-structure]]
-- [[answerability]]
+- [[the call and the answering]]

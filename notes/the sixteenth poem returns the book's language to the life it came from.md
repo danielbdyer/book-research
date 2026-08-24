@@ -2,7 +2,7 @@
 description: The one poem that does not predate the book carries its vocabulary home — the naked sentence said three ways, current as tuesday, and the trembling as the sentence leaves the architecture.
 category: structure
 sources: ["poems #16", "author statement, 2026-08-03"]
-topics: ["[[answerability]]", "[[book-structure]]"]
+topics: ["[[the call and the answering]]", "[[book-structure]]"]
 state: full
 ---
 
@@ -32,5 +32,5 @@ Relevant Notes:
 - [[ripeness is not refrigeration]] — the preservation-versus-aliveness distinction, run on love itself
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]
 - [[book-structure]]

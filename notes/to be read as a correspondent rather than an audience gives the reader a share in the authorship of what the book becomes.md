@@ -2,7 +2,7 @@
 description: "An audience watches something finished; a correspondent is expected to write back, so the book's lean toward the letter changes the reader's status from spectator to partner in the correspondence it is half of."
 category: isomorph
 sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "the epistolary form (Altman, Epistolarity, 1982: the letter 'defined by its orientation toward a reader')", "Bakhtin ('the listener becomes the speaker', 1986); Cortázar (the 'lector cómplice', Hopscotch, 1963)"]
-topics: ["[[answerability]]"]
+topics: ["[[the call and the answering]]"]
 state: nascent
 ---
 
@@ -25,4 +25,4 @@ Relevant Notes:
 - [[the book's meaning is completed in the reader's answer so the reply is the writing's final movement]] — the completion this gives its genre, the letter finished in the sending
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]

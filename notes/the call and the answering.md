@@ -4,7 +4,7 @@ type: moc
 topics: ["[[index]]"]
 ---
 
-# answerability
+# the call and the answering
 
 This map gathers the concern that decides whether the book ships. The corpus inherits from the grammarian Bhartṛhari (extended by the Trika tradition) a four-level account of speech, from pure potency down to the embodied word. The two levels that matter operationally are the third and fourth: *madhyamā*, the fully formed but unspoken sentence, and *vaikharī*, the word made flesh. The atlas states the consequence as what it calls the blade of the whole corpus: "a word at madhyamā can be perfected forever; a word at vaikharī can be answered" (§VI). An unspoken draft can still be changed, which is what removes the risk from it; the walked document draws the conclusion that the unspoken sentence is "perfectible forever, and therefore safe, and therefore, in a precise sense, not yet real" (walked VI). A spoken word cannot be revised and can therefore be answered, which is what makes it a deed.
 
@@ -12,7 +12,7 @@ The corpus applies this directly to the manuscript's condition: seventeen trial 
 
 ## The ground
 
-The reframe of 2026-08-13 distilled a ground beneath this map's concern, and the two ground-layer seeds that touch answerability lead here. The bedrock is that the book takes one non-sovereign standpoint in an ecology of loci — [[the book is one locus in an ecology of participation, not the sovereign source of the reader's recognition]], developed in [[relational-field]] and [[recognition]] — so no author holds the conclusion and there is no sovereign authority for the reader to defer to, which is what lets the book's word be answered rather than obeyed. From that position the book offers an activity and leaves both the outcome and its verification to the reader. The authority-of-the-answerable-word material below is re-grounded within this, on the move named at [[the ecology frame transcends and includes the verification frame rather than replacing it]].
+The reframe of 2026-08-13 distilled a ground beneath this map's concern, and the two ground-layer seeds that touch this concern lead here. The bedrock is that the book takes one non-sovereign standpoint in an ecology of loci — [[the book is one locus in an ecology of participation, not the sovereign source of the reader's recognition]], developed in [[relational-field]] and [[recognition]] — so no author holds the conclusion and there is no sovereign authority for the reader to defer to, which is what lets the book's word be answered rather than obeyed. From that position the book offers an activity and leaves both the outcome and its verification to the reader. The authority-of-the-answerable-word material below is re-grounded within this, on the move named at [[the ecology frame transcends and includes the verification frame rather than replacing it]].
 
 - [[the book offers the reader an activity to take up, not a conclusion to trust]] — the answerable word at its root: the book withholds the conclusion and offers conditions for the reader's own encounter, so there is no sovereign author's answer to accept and the word can only be answered rather than obeyed.
 - [[taking up the activity is the reader-facilitator's own responsibility and the precondition of their outcomes]] — what the book is and is not answerable for: the taking-up and the outcome belong to the reader, so verifying the reader's work was never the book's office, which re-grounds this map's un-verifiability as a consequence of where responsibility sits.
@@ -51,7 +51,7 @@ Three findings from the same day bear on this map from the speaker's side rather
 
 ## Adjacent maps
 
-This concern borders [[relational-field]], because answerability requires someone to answer. It borders [[felt-shift]], because the corpus supplies a somatic test for whether an understanding arrived in reading or was merely assembled. It borders [[book-structure]], because the book is designed to end on a line written so that it can be answered.
+This concern borders [[relational-field]], because a word is answered only before someone. It borders [[felt-shift]], because the corpus supplies a somatic test for whether an understanding arrived in reading or was merely assembled. It borders [[book-structure]], because the book is designed to end on a line written so that it can be answered.
 
 ## The pedagogy under the integration argument
 
@@ -67,7 +67,7 @@ The reframe conversation of 2026-08-13 restated the book as an act of facilitati
 An answerable word rests on authority earned through participation, which is why it can be answered rather than only obeyed.
 
 - [[authority earned through participation differs from authority asserted through abstraction]] — the answerable word's ground: it earns its standing through encounter, discrimination, and stated provenance rather than by asserting finality, and only a word that does not claim finality can be answered.
-- [[Book I's authority comes from discernment and synthesis; Book II's from embodied realization]] — the two books stake their answerability on different grounds, so the facilitators' book must prove discernment across traditions while the book of the self must prove the questions were lived.
+- [[Book I's authority comes from discernment and synthesis; Book II's from embodied realization]] — the two books stake their claim to be answered on different grounds, so the facilitators' book must prove discernment across traditions while the book of the self must prove the questions were lived.
 - [[writing for facilitators dissolves the authority double-bind]] — addressing facilitators lets the first book hold authority and hand it back at once, escaping the bind in which a word claiming finality can no longer be answered.
 - [[a framework that teaches its own exit relates to authority differently than one seeking permanence]] — a framework written to be left relates to authority as an answerable word does: it expects a reply that ends it rather than a permanent readership.
 - [[a framework succeeds by increasing the diversity of authentic insights, not the uniformity of conclusions]] — the answerable word's success criterion, since a word offered to be answered is measured by the range of authentic answers it draws rather than by the single conclusion it settles.
@@ -119,11 +119,11 @@ The generative rounds of 2026-08-20 and 2026-08-21 — a first-principles deriva
 - [[to be read as a correspondent rather than an audience gives the reader a share in the authorship of what the book becomes]] — the answerable word's change to the reader's status, a correspondent expected to write back where an audience only watches, so the lean toward the letter makes the reader a partner in the correspondence the book is half of
 - [[no one can answer from the reader's place so the answer the book asks for is irreplaceably their own]] — the answerable word's demand made irreducible, the reader the one person no author can answer for, so their reply is a genuine addition to the world rather than a repetition
 - [[a sentence built to be answered hands the reader the next move where one built to be believed closes over them]] — the answerable word specified at the scale of a sentence, a declarative seeking assent finishing itself while an answerable sentence leaves a socket where the reader's own next word fits
-- [[the poem is a letter cast toward an addressee it trusts exists so the reader is the over-against it was reaching for]] — answerability traced to the book's headwaters, the poem structurally a letter seeking a reader, so the reader arrives as the correspondent the poem was cast toward before the book had a name
+- [[the poem is a letter cast toward an addressee it trusts exists so the reader is the over-against it was reaching for]] — the call and the answering traced to the book's headwaters, the poem structurally a letter seeking a reader, so the reader arrives as the correspondent the poem was cast toward before the book had a name
 
 ### The honest promise the answerable word permits
 
-- [[the book's only honest promise is conditional testimony]] — the limit answerability sets on what the book may promise, since recognition is cultivated not caused and the reader cannot be verified, so promising transformation would assert the causation and verification the book renounces, leaving conditional testimony as the only honest form
+- [[the book's only honest promise is conditional testimony]] — the limit this concern sets on what the book may promise, since recognition is cultivated not caused and the reader cannot be verified, so promising transformation would assert the causation and verification the book renounces, leaving conditional testimony as the only honest form
 
 ## What remains
 

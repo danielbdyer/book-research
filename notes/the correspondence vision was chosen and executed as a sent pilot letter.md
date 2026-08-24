@@ -2,7 +2,7 @@
 description: "The panel's chosen whole-book vision — a correspondence of dated letters that ends by being sent — was picked by the author on 2026-08-08 and carried into a pilot letter that was sent."
 category: structure
 sources: ["forest panel, 2026-08-08: panel five, first vision", "author statement, 2026-08-08 (the correspondence pick; ops/decisions.md, ops/correspondence program.md, drafts/)", "author statement, 2026-08-16 (open-decisions queue, D)", "Gendlin 1964, fn. 13 (read 2026-08-05; the reading record is archive/reading — gendlin, a theory of personality change (1964).md)"]
-topics: ["[[book-structure]]", "[[answerability]]"]
+topics: ["[[book-structure]]", "[[the call and the answering]]"]
 state: full
 ---
 
@@ -30,4 +30,4 @@ Relevant Notes:
 
 Topics:
 - [[book-structure]]
-- [[answerability]]
+- [[the call and the answering]]

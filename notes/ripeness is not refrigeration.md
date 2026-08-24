@@ -2,7 +2,7 @@
 description: "The corpus rules against indefinite preservation of finished work: an archive keeps work intact without maturing it, so readiness that never issues in release has become storage."
 category: claim
 sources: ["atlas §V.3", "walked V"]
-topics: ["[[answerability]]", "[[methods]]"]
+topics: ["[[the call and the answering]]", "[[methods]]"]
 ---
 
 # ripeness is not refrigeration
@@ -27,5 +27,5 @@ Relevant Notes:
 - [[the sixteenth poem returns the book's language to the life it came from]] — the distinction run on love itself: "love will sit in a drawer and wait for you… but current — current is tuesday" (poems #16); the rule's own referent, "the author's own archive of poems and drafts" (atlas §V.3), is now held at `sources/the poems.pdf`
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]
 - [[methods]]

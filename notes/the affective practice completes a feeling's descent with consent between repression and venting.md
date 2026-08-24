@@ -2,7 +2,7 @@
 description: "The book's emotional practice is a third way between walling a feeling off and detonating it: the feeling felt fully and allowed to complete its movement with consent, filed as the middle voice for affect."
 category: practice
 sources: ["atlas §VII", "walked VII", "atlas §VI.6"]
-topics: ["[[felt-shift]]", "[[answerability]]"]
+topics: ["[[felt-shift]]", "[[the call and the answering]]"]
 ---
 
 # the affective practice completes a feeling's descent with consent between repression and venting
@@ -28,4 +28,4 @@ Relevant Notes:
 
 Topics:
 - [[felt-shift]]
-- [[answerability]]
+- [[the call and the answering]]

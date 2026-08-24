@@ -2,7 +2,7 @@
 description: The book's authority is earned through participation — encounter, discrimination, practice, willingness to revise, transparency about provenance — rather than asserted through abstraction or claims of finality.
 category: claim
 sources: ["reframe conversation, 2026-08-13 (§XLVIII, the book's relationship to authority)"]
-topics: ["[[book-structure]]", "[[answerability]]"]
+topics: ["[[book-structure]]", "[[the call and the answering]]"]
 state: nascent
 ---
 
@@ -26,4 +26,4 @@ Relevant Notes:
 
 Topics:
 - [[book-structure]]
-- [[answerability]]
+- [[the call and the answering]]

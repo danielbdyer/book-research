@@ -2,7 +2,7 @@
 description: "Meaning is not a parcel posted from writer to reader; it comes into being in the reader's own carrying-forward, freshly, as theirs — so being changed by the book and being the author of the change are one event."
 category: claim
 sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Merleau-Ponty, Phenomenology of Perception ('the orator does not think before speaking… his speech is his thought'; thought and expression simultaneously constituted)", "Gendlin: meaning is created in the crossing of symbol and felt sense, not transported"]
-topics: ["[[answerability]]"]
+topics: ["[[the call and the answering]]"]
 state: nascent
 ---
 
@@ -25,4 +25,4 @@ Relevant Notes:
 - [[maurice merleau-ponty]] — the expression that accomplishes thought rather than reporting it
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]

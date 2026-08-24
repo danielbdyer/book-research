@@ -2,7 +2,7 @@
 description: "'The book performs what it describes' is not a report but a performative, and Austin's own machinery says a performative needs uptake — so the sentence becomes true only when a reader actually recognizes."
 category: claim
 sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Austin: the performative; 'securing of uptake' (How to Do Things with Words, 1962)", "Austin brackets literature as 'hollow… etiolation'; Derrida ('Signature Event Context', 1972: iterability, 'a successful performative is necessarily impure')"]
-topics: ["[[answerability]]"]
+topics: ["[[the call and the answering]]"]
 state: nascent
 ---
 
@@ -25,4 +25,4 @@ Relevant Notes:
 - [[the reader becomes author of what happens in their encounter with the text, not co-author of the text]] — the uptake located in the reader's own encounter
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]

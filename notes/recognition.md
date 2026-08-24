@@ -87,7 +87,7 @@ This map states what the book says happens. The reader the author defined on 202
 
 ## Adjacent maps
 
-This concern borders [[contraction-not-corruption]], because the move from healing to recognition is what removes "broken" as a starting assumption. It borders [[answerability]], because the book claims recognition lands in reading only when the word is fully embodied. It borders [[relational-field]], because the same word (Hegel's *Anerkennung*, recognition) grounds the book's account of what two people do for each other.
+This concern borders [[contraction-not-corruption]], because the move from healing to recognition is what removes "broken" as a starting assumption. It borders [[the call and the answering]], because the book claims recognition lands in reading only when the word is fully embodied. It borders [[relational-field]], because the same word (Hegel's *Anerkennung*, recognition) grounds the book's account of what two people do for each other.
 
 ## The vocabulary of the peak, and who coined it
 

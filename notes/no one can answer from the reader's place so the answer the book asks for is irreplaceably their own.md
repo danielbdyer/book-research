@@ -2,7 +2,7 @@
 description: "The via-positiva face of 'no alibi in being': the reader is non-substitutable, the one thing no author can do is answer from the exact place they occupy, so their reply is a genuine addition to the world."
 category: claim
 sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Bakhtin: 'there is no alibi in being'; 'that which can be accomplished by me can never be accomplished by anyone else' (Toward a Philosophy of the Act; 'Art and Answerability', 1919)", "Levinas: 'no one can substitute himself for me who substitutes myself for all' (Otherwise than Being, 1974)"]
-topics: ["[[answerability]]"]
+topics: ["[[the call and the answering]]"]
 state: nascent
 ---
 
@@ -25,4 +25,4 @@ Relevant Notes:
 - [[the book's native genre is the letter from a friend read alone]] — the letter as the genre of the singular addressee whose answer no one else can give
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]

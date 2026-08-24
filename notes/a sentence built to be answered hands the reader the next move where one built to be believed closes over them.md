@@ -2,7 +2,7 @@
 description: "A declarative that seeks assent finishes itself and leaves the reader to nod or refuse; an answerable sentence leaves a socket where the reader's own next word fits, so reading becomes something they are inside of."
 category: claim
 sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Bakhtin: the word 'structures itself in the answer's direction' (Dialogic Imagination, 1981)", "Gadamer: the logic of question and answer, keeping the question open (Truth and Method, 1960); first-principles on the answerable sentence's syntax"]
-topics: ["[[answerability]]"]
+topics: ["[[the call and the answering]]"]
 state: nascent
 ---
 
@@ -25,4 +25,4 @@ Relevant Notes:
 - [[the book's native genre is the letter from a friend read alone]] — the epistolary declarative that carries an implicit "— and you?"
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]

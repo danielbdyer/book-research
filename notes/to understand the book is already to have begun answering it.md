@@ -2,7 +2,7 @@
 description: "There is no inert comprehension that precedes response: to take in a live sentence is to answer it with agreement, resistance, or question, so the reader is inside the correspondence before deciding to enter it."
 category: claim
 sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Bakhtin: 'any understanding of a live utterance is inherently responsive… the listener becomes the speaker' (Speech Genres, 1986)", "Gadamer (understanding as a 'conversation that we are'); Iser (realization is the reading itself)"]
-topics: ["[[answerability]]"]
+topics: ["[[the call and the answering]]"]
 state: nascent
 ---
 
@@ -25,4 +25,4 @@ Relevant Notes:
 - [[nothing transforms from the audience]] — the participation law this gives its reading form, no inert audience because understanding is already response
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]

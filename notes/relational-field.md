@@ -51,7 +51,7 @@ Open territory bearing on the field that no document develops.
 
 ## Adjacent maps
 
-This concern borders [[answerability]], because a word becomes answerable only before someone (the corpus cites Arendt: the who of a person is disclosed only in action before witnesses). It borders [[tensions]], where the solitary-read problem is listed with its treatment. It borders [[recognition]], because the book identifies mutual recognition as the field's fullest act.
+This concern borders [[the call and the answering]], because a word becomes answerable only before someone (the corpus cites Arendt: the who of a person is disclosed only in action before witnesses). It borders [[tensions]], where the solitary-read problem is listed with its treatment. It borders [[recognition]], because the book identifies mutual recognition as the field's fullest act.
 
 ## The mechanism
 

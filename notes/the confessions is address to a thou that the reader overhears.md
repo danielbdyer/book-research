@@ -2,7 +2,7 @@
 description: "The author's named model for the book's form is not plain first person — Augustine speaks to God throughout and discusses his human readers listening in — so the person dichotomy has a third position: overheard address."
 category: claim
 sources: ["generative pass research, 2026-08-04 (archive/research — generative pass background.md)", "Confessions I.1, X.3 (cited in place)", "author statement, 2026-08-04 (ops/methodology/the book's current shape.md)"]
-topics: ["[[answerability]]", "[[book-structure]]"]
+topics: ["[[the call and the answering]]", "[[book-structure]]"]
 state: full
 ---
 
@@ -27,5 +27,5 @@ Relevant Notes:
 - [[reading as remembering has a twenty-four-century ancestry in the west]] — the same book read for doctrine rather than form
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]
 - [[book-structure]]

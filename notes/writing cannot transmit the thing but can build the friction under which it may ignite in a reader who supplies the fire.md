@@ -2,7 +2,7 @@
 description: "Plato's Seventh Letter holds that the deepest knowledge cannot be written and arrives only as a spark between minds, which warrants a book aiming to build the conditions for ignition it can never guarantee."
 category: claim
 sources: ["transmission dig 1, 2026-08-13, F6–F8", "Plato, Seventh Letter 341c–344b (Harward trans.) [P]"]
-topics: ["[[answerability]]", "[[book-structure]]"]
+topics: ["[[the call and the answering]]", "[[book-structure]]"]
 ---
 
 # writing cannot transmit the thing but can build the friction under which it may ignite in a reader who supplies the fire
@@ -21,5 +21,5 @@ Relevant Notes:
 - [[the book must respect that it cannot verify the reader has done the work]] — the concession this warrant carries, that a book can raise the odds of ignition and never confirm it
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]
 - [[book-structure]]

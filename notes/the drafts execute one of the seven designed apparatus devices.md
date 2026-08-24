@@ -2,7 +2,7 @@
 description: The atlas designs seven apparatus devices to keep the book honest, and the abridged edition implements one of them, adds one the design never names, and contains no trace of the other six.
 category: structure
 sources: ["atlas §X.6", "abridged ch1–ch15", "arc-gloss: how to hold this"]
-topics: ["[[book-structure]]", "[[answerability]]"]
+topics: ["[[book-structure]]", "[[the call and the answering]]"]
 ---
 
 # the drafts execute one of the seven designed apparatus devices
@@ -33,4 +33,4 @@ Relevant Notes:
 
 Topics:
 - [[book-structure]]
-- [[answerability]]
+- [[the call and the answering]]

@@ -2,7 +2,7 @@
 description: "Liturgy keeps the final position empty for the assembly's answer, which completes rather than comments on the prayer; a book whose last line can be answered does in solitude what the Amen does in company."
 category: claim
 sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "liturgy: the Amen completes the thanksgiving (1 Cor 14:16); the Kaddish needs a minyan's answer", "Bakhtin (the vacant final position is the answer-word's reserved seat); first-principles"]
-topics: ["[[answerability]]"]
+topics: ["[[the call and the answering]]"]
 state: nascent
 ---
 
@@ -25,4 +25,4 @@ Relevant Notes:
 - [[a sentence built to be answered hands the reader the next move where one built to be believed closes over them]] — the sentence-level form of the same vacancy, the socket at the book's very end
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]
