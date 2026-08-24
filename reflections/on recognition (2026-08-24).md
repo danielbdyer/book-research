@@ -18,6 +18,16 @@ occasioned-by: the recognition surface's mirror (drafts/recognition — a surfac
 
 > My heart says the following, which I will need your help interpreting operationally and logistically: I think this goes into a reflections folder that is exclusively mine. The frontmatter can contain my thoughts, and then we can extrapolate and link down into the families and the notes. I cannot say whether this makes it into the book but perhaps it does - whether it does doesn't really matter so much as it gives the orientation where I as author am deriving my feelings from, about it, and through - perhaps I align easily with a subset of the thinkers, and less with others. Perhaps another reader or another author would align with a different subset. Perhaps another author in another part of the world would choose even to have a few new thinkers in the roster who I am not privy to and who you are not privy to as a co-author and research participant. Perhaps that's part of the purpose here is that it was never meant to be an all-encompassing constellation. I do not know how to perspectivalize an authority I was never granted; I think the conversation artifact speaks about this. I just know that just like my poems were spoken from the heart without stopping, this message/these messages/the current message I am authoring now was too - so maybe it goes along with the poems somehow.
 
+### His clarifications (2026-08-24, an iterative sounding)
+
+Asked to sound his poetic language against specific readings, he chose, of the options offered and of his own sensing:
+
+- of the *with* ("even if I am the only one recognizing") — **"no two to begin with"** (the seam between inside and outside was never there) and **"the world companions"** (a being-with the palpably given);
+- of the *Klein-bottle seam* — **"awareness tasting itself"** (a self-luminous knowing that lights the thing and registers itself in the same stroke);
+- of the *shapeless form of being guided*, in his own words:
+
+> It kind of reminds me of Wilber's holarchy where it is the both-and of sensing what was always there alongside the mystery (in a state of resolution opening up into another mystery) being seen and known with and without myself
+
 ---
 
 ## Where this touches the families and the notes
