@@ -47,7 +47,7 @@ This file keeps a machine-checkable cache underneath — an invisible checksum o
 
 *Appendix — how this file stays current.*
 
-<!-- baseline notes=501 decisions=119 derived=2026-08-21 -->
+<!-- baseline notes=507 decisions=119 derived=2026-08-24 -->
 
 ---
 
