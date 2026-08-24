@@ -28,6 +28,19 @@ Asked to sound his poetic language against specific readings, he chose, of the o
 
 > It kind of reminds me of Wilber's holarchy where it is the both-and of sensing what was always there alongside the mystery (in a state of resolution opening up into another mystery) being seen and known with and without myself
 
+### His clarifications, a second sounding (2026-08-24) — on the aletheia/pratyabhijñā seam
+
+Sounded once more on whether his felt weight leans to the recognition-school pole or the un-concealment pole, he chose and said:
+
+- of *whose face the clarity wore* — **"the world showed its face"** (something stood forth as what it is) and **"no 'which' — one event"** (the thing showing itself and his recognizing were one event with no seam to tell them apart); he did not choose "I recognized my own";
+- of *whether there was real hiddenness* — **"no, only unregarded,"** and, in his own words:
+
+> It varies - hiding to me feels like too strong of a verb as it presumes a masking or a sublimation - what I would say instead is that it is a fundamental clenching that didn't obscure the vision but just made it transfigured as not directly perceivable
+
+- of *the felt tone underneath*, in his own words:
+
+> A mix between belonging, enraptured contraposition, and the conviction of commutativity giving way to the third thing - a spirit, a suchness, a tremor, a reverence, an other(worldliness), a preternatural prehension of naturalness
+
 ---
 
 ## Where this touches the families and the notes
