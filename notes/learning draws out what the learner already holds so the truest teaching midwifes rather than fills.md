@@ -24,6 +24,7 @@ Relevant Notes:
 - [[the facilitator tends conditions under which recognition might occur rather than transmitting a destination]] — the facilitator-side twin, the helper arranging conditions rather than delivering content
 - [[do not explain the reader out of an encounter]] — the craft rule this implies for the prose, letting the reader meet a distinction rather than be handed it
 - [[carl rogers]] — the clinical arrival, whose conditions free the client's own movement
+- [[the master question is the conditions under which a person remains the author of what they become while being genuinely changed]] — the teaching-shape of the master question: drawing out rather than filling keeps the learner the author of what is learned
 
 Topics:
 - [[recognition]]
