@@ -24,7 +24,7 @@ The book's center holds that the deepest human change uncovers what was always p
 - **Open edge:** Jorge Ferrer's participatory pluralism challenges the two-traditions-one-conclusion framing and is unresearched; because the reframe's ecology is close kin to his position, the Ferrer reading must decide independent arrival versus borrowing. The reframe layer roughly doubled the map and pushed it past the split line, so a /rethink division within its own section structure — keeping the ecology ground at the head — is the likely next structural move. The affirmative-face round is the newest open work, its thirteen nascent notes ungrounded.
 - **Enters:** the book's foundation, stated plainly in the front matter and running beneath the whole arc from preparation to integration, which enacts remembering rather than explaining it.
 
-<!--cache id=CONC-recognition crc=bba0214b src=notes/recognition.md derived=2026-08-22-->
+<!--cache id=CONC-recognition crc=4b8653d8 src=notes/recognition.md derived=2026-08-22-->
 
 ## contraction-not-corruption — suffering as fullness contracted, not a self damaged
 
