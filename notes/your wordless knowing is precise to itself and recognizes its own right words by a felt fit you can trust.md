@@ -24,6 +24,7 @@ Relevant Notes:
 - [[nothing enters the lattice the body has not countersigned]] — the verification standard this gives its inner faculty, the felt fit that countersigns
 - [[michael polanyi]] — the tacit knowing that recognizes without specifying, seated in the company
 - [[eugene gendlin]] — the felt sense's exactness this rests on
+- [[sovereignty is authorship preserved within relationship, not control over reality]] — the bodily faculty that makes the reader's sovereignty operable: an internal felt criterion by which the reader stays the author of what is true for them
 
 Topics:
 - [[felt-shift]]
