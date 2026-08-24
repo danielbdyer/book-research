@@ -186,6 +186,7 @@ Maintenance is condition-based. The session hook counts and reports the first si
 | Raw unprocessed material | `inbox/` |
 | Material that only describes the vault's own state | `ops/` — the writing test's sorting rule |
 | A source document | `sources/`, plus an archive note |
+| A reflection the author speaks from the heart | `reflections/`, his words verbatim at the top and never edited, the extrapolation beneath a rule |
 | Active threads | `ops/goals.md` |
 | The current center, what is being worked, and the safeguards | `ops/orientation.md` (the masthead) |
 | The detailed torch, reading order, and standing consequences | `ops/standing-consequences.md` |
