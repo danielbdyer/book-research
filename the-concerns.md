@@ -40,7 +40,7 @@ At this concern the book is about suffering read as fullness folded rather than 
 - **Open edge:** the molecule catalogue is largely unextracted (atlas §IV lists eight families and roughly fifty compounds; the book curates about fifteen), and the abridged edition states a further set in its own prose whose extraction beside atlas §IV would show whether the two catalogues agree. Reading debts: Marcia, Minuchin, and Bowlby unread at their own texts for the absence-form; a primary reading of Kṣemarāja's sūtra 9 owed to settle the third mala corner; classical Trika unread, so the productive-locus revaluation rests on a reading still to do.
 - **Enters:** the book's theory of suffering — "the signature move of the whole book" (atlas §IV) — threading the Molecules catalogue and the container's three failure modes, met "with a bow" at the gatekeeper through the deepening and integration.
 
-<!--cache id=CONC-contraction crc=e040e5ec src=notes/contraction-not-corruption.md derived=2026-08-22-->
+<!--cache id=CONC-contraction crc=9acfdaf5 src=notes/contraction-not-corruption.md derived=2026-08-22-->
 
 ## container-anatomy — the three structures every container is built from
 
