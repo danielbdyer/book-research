@@ -39,7 +39,7 @@ The standpoints the book actually sees from. The well-populated ones first, then
 ### 2 · The recognition locus — *"what is already present that I've failed to recognize?"*
 - **Discloses / hides:** recognition as un-forgetting of what never left; awareness recognizing itself (vimarśa); the pulse (spanda) · hides the cognitive mechanism, the social field, and empirical grounding.
 - **Attested:** Utpaladeva, Kṣemarāja, Abhinavagupta; spanda, saṅkoca, vimarśa, pratyabhijñā. *(2986–3021, 3236–3292)*
-- **Open edge:** its Western twin, Heidegger's *aletheia*, is a foundation but not yet seated *as a locus*; the neighbouring non-dualisms (Advaita's *neti neti*, Dzogchen *rigpa*) sit just outside; the four *upāyas* are sub-loci within this one.
+- **Open edge:** its Western twin, Heidegger's *aletheia*, is a foundation but not yet seated *as a locus* — and where it is a twin it is not identical: it accounts for the un-seeing as concealment where this locus accounts for it as *saṅkoca*, the contraction this whole family is built on, so the book's recognition sits on the contraction side (`[[aletheia and pratyabhijna part on whether un-seeing is concealment or contraction]]`); the neighbouring non-dualisms (Advaita's *neti neti*, Dzogchen *rigpa*) sit just outside; the four *upāyas* are sub-loci within this one.
 - **Enters:** the book's foundation (aletheia × pratyabhijñā); the metaphysical machinery under "a lens is a locus."
 
 ### 3 · The phenomenological locus — *"what is actually occurring before I explain it?"*
