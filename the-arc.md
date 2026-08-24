@@ -103,4 +103,4 @@ The two-book re-description of the object is not re-attested here — it is the 
 
 ---
 <!-- baseline notes=507 decisions=119 derived=2026-08-22 -->
-<!--cache id=ARC-src crc=fc9adc19 src=notes/book-structure.md|ops/scaffold.md|the-conversation-catalog.md derived=2026-08-22-->
+<!--cache id=ARC-src crc=7a2c295c src=notes/book-structure.md|ops/scaffold.md|the-conversation-catalog.md derived=2026-08-24-->
