@@ -24,6 +24,7 @@ Relevant Notes:
 - [[one person can turn another toward their own light without dimming either]] — the kindred kindling-not-filling arrival, here through acoustics rather than the Inner Light
 - [[reading is remembering]] — the front-matter doctrine the resonance model echoes, the note already strung
 - [[recognition is participatory, a move the reader makes rather than a content the reader receives]] — why the sounding is the reader's own act, not the other's transmission
+- [[the master question is the conditions under which a person remains the author of what they become while being genuinely changed]] — the affirmative floor under the master question: being deeply influenced enlarges rather than dispossesses, because another can only sound a note already strung in you
 
 Topics:
 - [[relational-field]]
