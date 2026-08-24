@@ -127,4 +127,4 @@ Three things showed, and they bear on whether a workflow-per-family is safe:
 
 ---
 <!-- baseline notes=501 decisions=119 derived=2026-08-21 -->
-<!--cache id=axioms-src crc=0e18131a src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md derived=2026-08-21-->
+<!--cache id=axioms-src crc=81702bc4 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md derived=2026-08-24-->
