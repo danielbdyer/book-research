@@ -112,4 +112,4 @@ At answerability the book is about the difference between a word perfected forev
 
 ---
 <!-- baseline notes=507 decisions=119 derived=2026-08-22 -->
-<!--cache id=CONC-src crc=b76d183f src=notes/recognition.md|notes/contraction-not-corruption.md|notes/felt-shift.md|notes/container-anatomy.md|notes/relational-field.md|notes/answerability.md derived=2026-08-22-->
+<!--cache id=CONC-src crc=e2d0c255 src=notes/recognition.md|notes/contraction-not-corruption.md|notes/felt-shift.md|notes/container-anatomy.md|notes/relational-field.md|notes/answerability.md derived=2026-08-22-->
