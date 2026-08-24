@@ -24,6 +24,7 @@ Relevant Notes:
 - [[nothing transforms from the audience]] — the participation law this turns into a self-applicable test
 - [[the facilitator tends conditions under which recognition might occur rather than transmitting a destination]] — the non-causal craft this describes from its result
 - [[facilitation is stewardship of conditions]] — the honest maximum this is the felt sign of
+- [[sovereignty is authorship preserved within relationship, not control over reality]] — the felt sign that authorship survived the help: "we did it ourselves" is the sovereignty the influence was meant to preserve rather than overwrite
 
 Topics:
 - [[relational-field]]
