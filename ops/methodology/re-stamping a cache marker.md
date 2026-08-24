@@ -1,5 +1,5 @@
 ---
-description: "The discipline of 2026-08-24 for the cache markers: a per-section content marker is re-stamped only by re-reading its derived section against the moved source, never by a bare CRC bump, and its derived date is the reread receipt that must advance."
+description: "The 2026-08-24 discipline: a CRC cache bump is never blind — re-read the referencing section against the moved source for what to correct and what to add, advancing the derived date; only pure marker churn is exempt."
 category: configuration-state
 created: 2026-08-24
 status: active
