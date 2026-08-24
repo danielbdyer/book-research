@@ -16,7 +16,7 @@ The book's foundation: the deepest change is constructed as *un-forgetting*, a r
 - **Open edge:** Reinhard May's both-ways-traffic claim (did Heidegger read East?) would, if true, *demote* this from independent arrival to influence — the single fact that most threatens the group and the first thing to verify, though the channel it opens runs to Zen and Daoism, not to the Kashmir Śaiva pole; the one live objection the Kyoto School raises is `[[nihility may be a station the contraction scheme cannot represent]]` — whether Zen's groundlessness is a state the book's fold-and-open scheme has no shape for; and the Michel Henry ↔ vimarśa pairing is unwalked, with Eckhart, Dōgen, and Gendlin named but unseated on the un-forgetting side.
 - **Enters:** the book's foundation; the front matter ("you already know everything… reading is remembering").
 
-<!--cache id=CON-founding crc=69062e98 src=the-conversation-catalog.md|notes/aletheia and pratyabhijna converge on truth as un-forgetting.md|notes/martin heidegger.md|notes/utpaladeva.md derived=2026-08-21-->
+<!--cache id=CON-founding crc=fc4136e5 src=the-conversation-catalog.md|notes/aletheia and pratyabhijna converge on truth as un-forgetting.md|notes/martin heidegger.md|notes/utpaladeva.md derived=2026-08-21-->
 
 ## The register — the other convergence groups
 
