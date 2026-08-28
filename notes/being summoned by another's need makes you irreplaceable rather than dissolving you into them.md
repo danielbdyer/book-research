@@ -1,9 +1,9 @@
 ---
 description: "When another's need calls you so that no one else can answer in your place, responsibility singularizes you rather than blurring you into the other — to be needed is to be individuated."
 category: claim
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Levinas, Totality and Infinity (1961); Ethics and Infinity — the face summons; asymmetrical responsibility; 'me voici'; 'no one can substitute himself for me who substitutes myself for all' (Otherwise than Being, 1974)"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm); grounded at the primary texts 2026-08-28 (archive/reading — the answerability triad (austin, bakhtin, levinas).md)", "Levinas, Totality and Infinity, pp. 197, 201 (Lingis trans.): the face 'resists possession, resists my powers' and 'opens the primordial discourse whose first word is obligation'", "Levinas, Otherwise than Being, pp. 59, 114 (Lingis trans.): 'someone for whom no one else can substitute himself'; 'The word I means here I am'; and Ethics and Infinity, p. 96 (Cohen trans.): 'without waiting for his reciprocity'"]
 topics: ["[[relational-field]]"]
-state: nascent
+state: full
 ---
 
 # being summoned by another's need makes you irreplaceable rather than dissolving you into them
@@ -12,9 +12,9 @@ The reader gains their own uniqueness from the very demand they feared would con
 
 ## Substantiation
 
-- Levinas: the face of the Other "resists possession, resists my powers"; it summons me to a responsibility that is asymmetrical ("I am responsible for the Other without waiting for reciprocity") and is precisely what makes the self singular and irreplaceable — elected, called as *me* ("me voici," here I am); "no one can substitute himself for me who substitutes myself for all" (Otherwise than Being, 1974).
+- Levinas, at the primary text: the face of the Other "resists possession, resists my powers" (*Totality and Infinity*, p. 197) and "opens the primordial discourse whose first word is obligation" (p. 201); it summons me to a responsibility that is asymmetrical — "I am responsible for the Other without waiting for his reciprocity, were I to die for it. Reciprocity is his affair" (*Ethics and Infinity*, Cohen trans., p. 96) — and is precisely what makes the self singular and irreplaceable: "someone for whom no one else can substitute himself" (*Otherwise than Being*, p. 59), elected and called as *me*, "The word I means here I am, answering for everything and for everyone" (p. 114).
 - Kept as correction, not arrival: Levinas explicitly corrects Buber's I–Thou as too symmetrical — the height and priority of the Other is the whole point, and flattening it into equal exchange loses the ethics. This is "the originator's own correction" of a nearby view, the honest relation to name. Held against Hegel's mutual, equal recognition as a live tension the book keeps: recognition completes freedom, *and* the un-returned call singularizes the self.
-- Standing: a reach; present him as the kept counter-voice, not assimilated — the asymmetry the symmetrical picture needs to avoid coziness.
+- Standing: full — Levinas, the note's sole external witness, read at the primary texts (the record is `archive/reading — the answerability triad (austin, bakhtin, levinas).md`). Present him as the kept counter-voice, not assimilated — the asymmetry the symmetrical picture needs to avoid coziness.
 
 ---
 

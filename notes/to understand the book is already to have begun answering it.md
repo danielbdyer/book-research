@@ -1,9 +1,10 @@
 ---
 description: "There is no inert comprehension that precedes response: to take in a live sentence is to answer it with agreement, resistance, or question, so the reader is inside the correspondence before deciding to enter it."
 category: claim
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Bakhtin: 'any understanding of a live utterance is inherently responsive… the listener becomes the speaker' (Speech Genres, 1986)", "Gadamer (understanding as a 'conversation that we are'); Iser (realization is the reading itself)"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm); Bakhtin pole grounded at the primary text 2026-08-28 (archive/reading — the answerability triad (austin, bakhtin, levinas).md)", "Bakhtin, 'The Problem of Speech Genres', p. 68: 'Any understanding is imbued with response and necessarily elicits it … the listener becomes the speaker'", "Gadamer (understanding as a 'conversation that we are'); Iser (realization is the reading itself) — companion poles from memory, grounding owed"]
 topics: ["[[the call and the answering]]"]
-state: nascent
+state: privated
+privation: "the Bakhtin pole is read at the primary text ('Any understanding is imbued with response … the listener becomes the speaker', Speech Genres p. 68); the Gadamer and Iser poles are still from memory, so the convergence rests on one grounded witness"
 ---
 
 # to understand the book is already to have begun answering it
@@ -12,9 +13,9 @@ There is a comforting fiction that a reader first understands a book neutrally a
 
 ## Substantiation
 
-- Bakhtin: "any understanding of a live utterance is inherently responsive… any understanding is imbued with response and necessarily elicits it; the listener becomes the speaker" (Speech Genres, 1986) — passive understanding is, for Bakhtin, a fiction. Gadamer: understanding is participation in a "conversation that we are," being drawn into the text's question and bringing one's own (Truth and Method, 1960). Iser: the reader's realization is not a second step after reading but the reading itself — the gaps are filled *as* one reads (The Act of Reading, 1978).
+- Bakhtin, read at the primary text: "Any understanding is imbued with response and necessarily elicits it in one form or another: the listener becomes the speaker" ("The Problem of Speech Genres," p. 68) — passive understanding is, for Bakhtin, a fiction. The companion poles are still owed: Gadamer, understanding as participation in a "conversation that we are," being drawn into the text's question and bringing one's own (Truth and Method, 1960); Iser, the reader's realization not a second step after reading but the reading itself, the gaps filled *as* one reads (The Act of Reading, 1978) — both from memory, grounding owed.
 - Refusals kept: Bakhtin distinguishes responsive understanding from the "word with a loophole" — not every reading is genuine engagement; Gadamer keeps a "productive distance," so "already answering" is not "already agreeing."
-- Standing: nascent; verify the "imbued with response" wording and confirm the author wants participation framed as always-already underway rather than a threshold crossed.
+- Standing: privated — the Bakhtin pole read at the primary text (the "imbued with response" wording now verified; the record is `archive/reading — the answerability triad (austin, bakhtin, levinas).md`); the Gadamer and Iser poles owed. Reserved for the author: whether participation is framed as always-already underway rather than a threshold crossed.
 
 ---
 

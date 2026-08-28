@@ -1,9 +1,10 @@
 ---
 description: "A declarative that seeks assent finishes itself and leaves the reader to nod or refuse; an answerable sentence leaves a socket where the reader's own next word fits, so reading becomes something they are inside of."
 category: claim
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Bakhtin: the word 'structures itself in the answer's direction' (Dialogic Imagination, 1981)", "Gadamer: the logic of question and answer, keeping the question open (Truth and Method, 1960); first-principles on the answerable sentence's syntax"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm); Bakhtin pole grounded at the primary text 2026-08-28 (archive/reading — the answerability triad (austin, bakhtin, levinas).md)", "Bakhtin, 'Discourse in the Novel', p. 280 (Dialogic Imagination): the word 'structures itself in the answer's direction'", "Gadamer: the logic of question and answer, keeping the question open (Truth and Method, 1960) — from memory, grounding owed; first-principles on the answerable sentence's syntax"]
 topics: ["[[the call and the answering]]"]
-state: nascent
+state: privated
+privation: "the Bakhtin pole is read at the primary text (the answer-word at Dialogic Imagination p. 280); the Gadamer 'logic of question and answer' pole is still from memory, and the concrete craft spec remains first-principles inference to be checked against the draft sources' last lines"
 ---
 
 # a sentence built to be answered hands the reader the next move where one built to be believed closes over them
@@ -12,9 +13,9 @@ There is a difference in grammar between a sentence that wants assent and a sent
 
 ## Substantiation
 
-- Bakhtin: the living word "structures itself in the answer's direction" and anticipates the answer-word (Dialogic Imagination, 1981); some sentences are shaped by the answer they expect, and that shaping is visible in the grammar. Gadamer: the "logic of question and answer" — to understand a sentence is to reconstruct the question it answers, and to keep understanding open is to keep the question open, "the art of questioning is the art of keeping the conversation going" (Truth and Method, 1960). First-principles, marked as inference: the answerable sentence can be specified — it ends without sealing (the trailing question, the direct address, the offered rather than asserted claim), uses the second person as a real vocative, and leaves at least one determination for the reader to make.
+- Bakhtin, read at the primary text: the living word is "oriented toward a future answer-word: it provokes an answer, anticipates it and structures itself in the answer's direction" ("Discourse in the Novel," Dialogic Imagination, p. 280) — some sentences are shaped by the answer they expect, and that shaping is visible in the grammar. Gadamer's pole is still owed: the "logic of question and answer" — to understand a sentence is to reconstruct the question it answers, and to keep understanding open is to keep the question open, "the art of questioning is the art of keeping the conversation going" (Truth and Method, 1960; from memory, grounding owed). First-principles, marked as inference: the answerable sentence can be specified — it ends without sealing (the trailing question, the direct address, the offered rather than asserted claim), uses the second person as a real vocative, and leaves at least one determination for the reader to make.
 - Refusals kept: Gadamer refuses procedure — "answerable sentence" must not harden into a formula for manufacturing openness; Bakhtin refuses scripting the answer — a sentence that leaves room cannot also determine the reply.
-- Standing: plausible-to-solid; the concrete craft spec is first-principles inference, to be checked against the draft sources' actual last lines, which would make it *craft* evidence.
+- Standing: privated — the Bakhtin pole read at the primary text (the record is `archive/reading — the answerability triad (austin, bakhtin, levinas).md`); the Gadamer pole owed, and the concrete craft spec is first-principles inference, to be checked against the draft sources' actual last lines, which would make it *craft* evidence.
 
 ---
 

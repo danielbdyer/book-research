@@ -1,9 +1,9 @@
 ---
 description: "'The book performs what it describes' is not a report but a performative, and Austin's own machinery says a performative needs uptake — so the sentence becomes true only when a reader actually recognizes."
 category: claim
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Austin: the performative; 'securing of uptake' (How to Do Things with Words, 1962)", "Austin brackets literature as 'hollow… etiolation'; Derrida ('Signature Event Context', 1972: iterability, 'a successful performative is necessarily impure')"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm); grounded at the primary texts 2026-08-28 (archive/reading — the answerability triad (austin, bakhtin, levinas).md)", "Austin, How to Do Things with Words: 'the performance of an illocutionary act involves the securing of uptake' (Lecture IX, pp. 116–117); a stage or poem performative is 'hollow or void … the etiolations of language' (Lecture II, p. 22)", "Derrida, 'Signature Event Context' (1972): a successful performative is necessarily an 'impure' performative"]
 topics: ["[[the call and the answering]]"]
-state: nascent
+state: full
 ---
 
 # the book's law that it performs what it describes is a performative the reader's recognition completes
@@ -12,9 +12,9 @@ state: nascent
 
 ## Substantiation
 
-- Austin: "to say something is to do something," and, decisively, that success lives in the hearer — "the performance of an illocutionary act involves the securing of uptake… I cannot be said to have warned an audience unless it hears what I say and takes it in a certain sense" (How to Do Things with Words, Lectures I and IX, 1962).
-- Refusal kept, and it is the important one: Austin explicitly *brackets* literature — a performative "said by an actor on the stage, or introduced in a poem," is "hollow or void," "parasitic upon its normal use," an "etiolation of language" (Lecture II). By Austin's own boundary the book's performative is the excluded case; licensing it takes Derrida against Austin ("Signature Event Context," 1972): iterability, the citational case, is the condition of possibility of every performative, so "a successful performative is necessarily an impure performative." A live philosophical tension, kept unresolved — company and a quarrel, not proof.
-- Standing: nascent; a correspondence needing both halves quoted exactly (Austin's "securing of uptake" and "etiolations"; Derrida's "impure performative"), filed with the tension named rather than dissolved.
+- Austin, at the primary text: "to say something is to do something" (Lecture II, p. 12, recapping Lecture I), and, decisively, that success lives in the hearer — "the performance of an illocutionary act involves the securing of uptake … I cannot be said to have warned an audience unless it hears what I say and takes what I say in a certain sense" (Lecture IX, pp. 116–117).
+- Refusal kept, and it is the important one: Austin explicitly *brackets* literature — a performative "in a peculiar way hollow or void if said by an actor on the stage, or if introduced in a poem," "parasitic upon its normal use," falling "under the doctrine of the etiolations of language" (Lecture II, p. 22). By Austin's own boundary the book's performative is the excluded case; licensing it takes Derrida against Austin: a general iterability, "without which there would not even be a 'successful' performative," is the condition of every performative, so "a successful performative is necessarily an 'impure' performative" ("Signature Event Context," 1972). A live philosophical tension, kept unresolved — company and a quarrel, not proof.
+- Standing: full — both halves read at the primary texts (Austin's OCR full text and the Longworth block quote for Lecture IX; Derrida in both published translations; the record is `archive/reading — the answerability triad (austin, bakhtin, levinas).md`), the Austin/Derrida tension named rather than dissolved.
 
 ---
 
