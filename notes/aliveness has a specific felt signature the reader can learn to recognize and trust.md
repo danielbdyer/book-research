@@ -1,9 +1,10 @@
 ---
 description: "There is a distinct, quiet bodily yes — a loosening rather than the loudest feeling — that marks a true fit, and a reader can learn to read it as a musician hears a string come into tune."
 category: claim
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "spanda glossed as kiñcit calana, the slight stirring (Kṣemarāja's Spanda commentary)", "Gendlin, Focusing — the felt shift, the body's own 'that's right'"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm); Gendlin pole read at the primary text 2026-08-28 (archive/reading — gendlin, focusing and a process model (1978, 1997).md)", "spanda glossed as kiñcit calana, the slight stirring (Kṣemarāja's Spanda commentary) — from memory, grounding owed", "Gendlin, Focusing (1978), ch. 3: the body shift, 'that easing … sensation of bodily release … like exhaling after holding your breath'"]
 topics: ["[[felt-shift]]"]
-state: nascent
+state: privated
+privation: "the Gendlin pole is read at the primary text (the body shift as a specific bodily easing, 'like exhaling after holding your breath', Focusing ch. 3); the spanda/kiñcit calana gloss (Kṣemarāja's Spanda commentary) is still from memory, so the convergence rests on one grounded witness"
 ---
 
 # aliveness has a specific felt signature the reader can learn to recognize and trust
@@ -12,9 +13,9 @@ There is a distinct bodily event, small and unmistakable once it is known: a loo
 
 ## Substantiation
 
-- Two accounts define aliveness at its root not as intensity but as a faint, specific event. Kashmir Śaivism glosses spanda as *kiñcit calana*, a "slight stirring," a motion within the motionless — the least movement, and the source of all the rest (Kṣemarāja; attributed, to verify). Gendlin names the felt shift, the body's own "that's right" when the accurate word meets the felt sense (Focusing; to verify). Company across a tradition and a clinic, cited by address.
-- Refusal kept, and load-bearing here: Gendlin insists the felt sense "is not an emotion" and is at first unclear and murky, and the shift is a specific bodily easing rather than any strong feeling. The caution is the value — the signature is trustworthy precisely because it is not the same as being swept away. Struck of that refusal, the claim would collapse into "trust your big feelings," which is what it is not.
-- Standing: a crossover from the 2026-08-21 harvest, held nascent; the *kiñcit calana* gloss and Gendlin's "not an emotion" wording are queued for grounding.
+- Two accounts define aliveness at its root not as intensity but as a faint, specific event. Gendlin, read at the primary text, names the body shift — "it always has that easing and sometimes very beautiful sensation of bodily release. It feels like exhaling after holding your breath" (Focusing, ch. 3) — the body's quiet signal when the accurate word meets the felt sense. Kashmir Śaivism's pole is still owed: spanda glossed as *kiñcit calana*, a "slight stirring," a motion within the motionless — the least movement, and the source of all the rest (Kṣemarāja's Spanda commentary; from memory, grounding owed). Company across a clinic and a tradition, cited by address.
+- Refusal kept, and load-bearing here: Gendlin insists "A felt sense is not a mental experience but a physical one. Physical," at first unclear and murky, and the shift is a specific bodily easing rather than any strong feeling. The caution is the value — the signature is trustworthy precisely because it is not the same as being swept away. Struck of that refusal, the claim would collapse into "trust your big feelings," which is what it is not.
+- Standing: privated — the Gendlin pole read at the primary text (Focusing ch. 3; the record is in `archive/`); the *kiñcit calana* gloss still owed.
 
 ---
 

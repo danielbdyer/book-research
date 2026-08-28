@@ -1,9 +1,10 @@
 ---
 description: "'You already have it' does not mean a pre-formed answer waiting to be read off; what you carry is alive and under-formed, so speaking it is a fresh unfolding — already yours, yet a real making rather than a lookup."
 category: claim
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Gendlin: the implicit is 'more intricate than' the formed, and carrying forward is not retrieval (Experiencing and the Creation of Meaning, 1962)", "Dzogchen: recognizing rigpa is not holding the concept 'my nature is already pure'"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm); Gendlin pole read at the primary text 2026-08-28 (archive/reading — gendlin, focusing and a process model (1978, 1997).md)", "Gendlin, Experiencing and the Creation of Meaning, Preface (1997): 'our more intricate experiencing'; 'No equation is possible between implicit and explicit'", "Dzogchen: recognizing rigpa is not holding the concept 'my nature is already pure' — from memory, grounding owed"]
 topics: ["[[recognition]]"]
-state: nascent
+state: privated
+privation: "the Gendlin pole is read at the primary text (the implicit as 'our more intricate experiencing' and carrying-forward as creation not retrieval, ECM Preface 1997); the Dzogchen pole (rigpa recognized rather than conceptualized) is still from memory, so the convergence rests on one grounded witness"
 ---
 
 # what you already carry is a living implicit rather than a stored answer so knowing it stays your own act
@@ -12,9 +13,9 @@ state: nascent
 
 ## Substantiation
 
-- Gendlin: the implicit is not hidden explicit content; it is more intricate than anything already formulated, and when attended it carries forward into symbols faithful to it without being pre-contained in it (Experiencing and the Creation of Meaning, 1962; to verify). Dzogchen guards the same distinction from the other side: recognizing rigpa is emphatically not forming the concept "my nature is pure" — one can hold that idea perfectly and miss the recognition entirely.
+- Gendlin, read at the primary text: the implicit is "our more intricate experiencing," more than anything already formulated, and when attended it carries forward into symbols faithful to it without being pre-contained in it — "No equation is possible between implicit and explicit," and "when we seem to find what 'was' there, we have actually moved further" (Experiencing and the Creation of Meaning, Preface to the Paper Edition, 1997). Dzogchen guards the same distinction from the other side, its pole still owed: recognizing rigpa is emphatically not forming the concept "my nature is pure" — one can hold that idea perfectly and miss the recognition entirely (from memory, grounding owed).
 - First-principles: if the already-present were a finished, retrievable answer, recognition would be passive reception, and the book's core — that recognition is a move the reader makes — would collapse into content delivery. The thesis stays participatory only if what is carried is living and under-formed.
-- Standing: nascent; the positions are well-attested, the framing as a shared refinement of anamnesis is synthesis, and a close read of Gendlin on "the implicit is always more than the explicit" is queued.
+- Standing: privated — the Gendlin pole read at the primary text (ECM Preface, 1997; the record is `archive/reading — gendlin, focusing and a process model (1978, 1997).md`); the Dzogchen pole still owed, and the framing as a shared refinement of anamnesis is synthesis.
 
 ---
 

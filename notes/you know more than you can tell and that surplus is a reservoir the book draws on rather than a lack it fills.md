@@ -1,10 +1,9 @@
 ---
 description: "The inability to say what you know is reframed from deficiency to reserve: you arrive full and inarticulate, and the unspoken is not yet-missing knowledge but the very ground the spoken stands on."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Polanyi, The Tacit Dimension, p. 4 ('we can know more than we can tell') — read at the primary text (archive/reading — polanyi, the tacit dimension (1966).md)", "Gendlin, A Process Model: the implicit is always more than any explicit that comes from it — from memory, grounding owed"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Polanyi, The Tacit Dimension, p. 4 ('we can know more than we can tell') — read at the primary text (archive/reading — polanyi, the tacit dimension (1966).md)", "Gendlin, Experiencing and the Creation of Meaning, Preface (1997) and Focusing, Appendix A: the implicit is 'our more intricate experiencing' and 'experience is richer than patterns' — read at the primary texts (archive/reading — gendlin, focusing and a process model (1978, 1997).md)"]
 topics: ["[[felt-shift]]"]
-state: privated
-privation: "the Polanyi pole is read at the primary text (The Tacit Dimension, p. 4, 'we can know more than we can tell'); the Gendlin pole (the implicit always more than any explicit) is still from memory, so the convergence rests on one grounded witness"
+state: full
 ---
 
 # you know more than you can tell and that surplus is a reservoir the book draws on rather than a lack it fills
@@ -13,9 +12,9 @@ The reader gains a reversal of the schoolroom picture: they do not arrive empty 
 
 ## Substantiation
 
-- Polanyi grounds his pole at the primary text: he opens *The Tacit Dimension* "by starting from the fact that we can know more than we can tell" (p. 4) — his premise that all explicit knowing rests on an unspecifiable tacit ground, the unspoken being not a deficiency awaiting completion but the very footing the explicit stands on. The companion pole is still owed: Gendlin, the implicit is always *more* than any explicit that comes from it — not a smaller thing awaiting completion but a fuller thing the explicit selects from and carries forward (from memory, grounding owed). Company, two roads to "the unspoken exceeds the spoken and grounds it."
+- Polanyi grounds his pole at the primary text: he opens *The Tacit Dimension* "by starting from the fact that we can know more than we can tell" (p. 4) — his premise that all explicit knowing rests on an unspecifiable tacit ground, the unspoken being not a deficiency awaiting completion but the very footing the explicit stands on. Gendlin grounds the second pole at the primary texts: the implicit is "our more intricate experiencing," and "experience is richer than patterns" (ECM Preface, 1997; Focusing, Appendix A) — not a smaller thing awaiting completion but a fuller thing the explicit selects from and carries forward. Company, two roads to "the unspoken exceeds the spoken and grounds it."
 - Refusal kept, and Polanyi's is his own: he is emphatically *not* anti-articulation — the tacit is the ground *for* speech, and explicit articulation "vastly extends" the powers of the mind; Gendlin likewise insists the implicit is not a mystical fullness to be admired but something that demands to be carried forward.
-- Standing: privated — the Polanyi pole read at the primary text (The Tacit Dimension, p. 4); the Gendlin pole still owed.
+- Standing: full — both poles read at the primary texts (Polanyi's The Tacit Dimension p. 4; Gendlin's ECM Preface and Focusing App. A; records in `archive/`), two roads to "the unspoken exceeds the spoken and grounds it."
 
 ---
 
