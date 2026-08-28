@@ -1,10 +1,9 @@
 ---
 description: "The reader can hold the book not as an object of study whose propositions they collect but as a lens they look through until the terrain appears, graduating from studying the material to living from it."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Polanyi, The Tacit Dimension, ch. 1 'Tacit Knowing': indwelling, attending from the interiorized particulars to the focal whole — read at the primary text (archive/reading — polanyi, the tacit dimension (1966).md)", "William James, The Principles of Psychology (1890): knowledge of acquaintance vs knowledge-about — from memory, grounding owed"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Polanyi, The Tacit Dimension, ch. 1 'Tacit Knowing': indwelling, attending from the interiorized particulars to the focal whole — read at the primary text (archive/reading — polanyi, the tacit dimension (1966).md)", "James, Principles of Psychology, I:221 (1890): 'knowledge of acquaintance and knowledge-about' — read at the primary text (archive/reading — james, the principles of psychology (1890).md); the distinction is Grote's, footnoted 'Cf. John Grote, Exploratio Philosophica'"]
 topics: ["[[felt-shift]]"]
-state: privated
-privation: "the Polanyi indwelling pole is read at the primary text (The Tacit Dimension, ch. 1, the from-to structure named at its page-level address — concept confirmed across reputable sources, not verbatim-retrievable in-container); the William James acquaintance/knowledge-about pole is still from memory, so the convergence rests on one grounded witness"
+state: full
 ---
 
 # there is a knowing-through as well as a knowing-about and the book asks to be dwelt in until its words go transparent
@@ -13,9 +12,9 @@ The reader gains a second way of holding the book — not as an object of study 
 
 ## Substantiation
 
-- Polanyi grounds the indwelling pole at the primary text: his central mechanism is that we interiorize the subsidiary particulars and attend *from* them *to* the focal whole, so a tool or a term, once dwelt in, becomes an extension of the knower and is no longer noticed in itself — the from-to structure named at its page-level address (The Tacit Dimension, ch. 1, "Tacit Knowing"), concept confirmed across reputable sources rather than by a single quotable line. The companion pole is still owed: William James (The Principles of Psychology, 1890), the distinction between "knowledge of acquaintance" and "knowledge-about" — acquaintance had *through* contact, not accumulated *about* a thing (from memory, grounding owed).
+- Polanyi grounds the indwelling pole at the primary text: his central mechanism is that we interiorize the subsidiary particulars and attend *from* them *to* the focal whole, so a tool or a term, once dwelt in, becomes an extension of the knower and is no longer noticed in itself — the from-to structure named at its page-level address (The Tacit Dimension, ch. 1, "Tacit Knowing"), concept confirmed across reputable sources rather than by a single quotable line. James grounds the second pole at the primary text: "There are two kinds of knowledge broadly and practically distinguishable: we may call them respectively *knowledge of acquaintance* and *knowledge-about*" (The Principles of Psychology, I:221) — acquaintance a knowing had *through* contact ("I cannot impart acquaintance with them to any one who has not already made it himself"), knowledge-about the accumulated propositional knowing; the distinction is Grote's before James's, footnoted "Cf. John Grote, Exploratio Philosophica" (I:221 n.).
 - Shadow, kept strictly as shadow, and it is Polanyi's own: the pianist who turns her focal attention onto her own fingers falters — attending *to* what should be dwelt *in* can dissolve the performance. Stated affirmatively, the gain is the transparency, the deadening of over-analysis only the far edge of that gift.
-- Standing: privated — the Polanyi indwelling pole read at the primary text (The Tacit Dimension, ch. 1); the William James pole still owed.
+- Standing: full — both poles read at the primary texts (Polanyi's indwelling at The Tacit Dimension ch. 1; James's acquaintance/knowledge-about at Principles I:221; the records are in `archive/`). Held honestly: James ranks acquaintance the *barer* knowing, not the richer one, so he grounds knowing-*through* as a distinct kind of knowing rather than as a fuller one.
 
 ---
 
