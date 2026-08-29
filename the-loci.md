@@ -109,7 +109,7 @@ This is held as a proposal, not a decision. What it would change: the reading qu
 
 The part of the mechanism that *is* now built is the checking. This file carries a content-hash receipt for each of its sections (the hidden markers below each block), and `scripts/queries/lens-check.sh` re-computes them to report which sections still rest on unmoved ground and which need re-reading — the same substrate the Axioms family runs on, described in full in `the-axioms.md`. So the register above cannot silently rot: when a source it was read from changes, the section that cited it says so.
 
-<!--cache id=LOC-substrate crc=c9830a2e src=ops/reading queue.md|ops/clearing.md derived=2026-08-28-->
+<!--cache id=LOC-substrate crc=52f36bb0 src=ops/reading queue.md|ops/clearing.md derived=2026-08-28-->
 
 ## What I watched, building this
 

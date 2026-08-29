@@ -21,7 +21,17 @@ He appears twice in the book: once as a source, and once as a hand writing in th
 - Atlas §IX.6d: "Pratyabhijñāhṛdayam (Kṣemarāja) — the Heart of Recognition, twenty sūtras."
 - Atlas §IX.6c records the formula and both of its sites in the book. Atlas §IX.7 records the margin seat.
 
-Evidence standing (added 2026-08-06). The corpus's account carries this note; the tradition's own words sit one link away, where the Pratyabhijñāhṛdayam's first sūtra is quoted in Sanskrit at [[the kashmir shaiva tradition would decline four of the book's deepest moves]]. No continuous reading of the Pratyabhijñāhṛdayam or the Spanda Nirṇaya exists in this vault. The thesis-bearing designation is the lineage sort's assignment (2026-08-05, `scripts/queries/lineage-sort.sh`) — the book takes its planted center-formula from him — and it awaits the author's seating and a reading alike.
+Evidence standing (added 2026-08-06, updated 2026-08-28). The corpus's account seeded this note; the tradition's own words sit one link away, where the Pratyabhijñāhṛdayam's first sūtra is quoted in Sanskrit at [[the kashmir shaiva tradition would decline four of the book's deepest moves]]. The thesis-bearing designation is the lineage sort's assignment (2026-08-05, `scripts/queries/lineage-sort.sh`) — the book takes its planted center-formula from him. The seating decision stays the author's; the reading that this note once awaited is now done (below).
+
+## The reading, 2026-08-28
+
+Both of his named works are now read at the primary Sanskrit — the Pratyabhijñāhṛdayam (sūtras 5, 9, 10, 11, 16, 17, 20 with vṛtti) and the Spandanirṇaya (on Spanda Kārikā I.1) — the first continuous primary reading of him in the vault, breaking a gate that had blocked the Pratyabhijñāhṛdayam twice. The record is `archive/reading — the kashmir śaiva loci (spanda, śiva sūtra, pratyabhijñāhṛdaya, ipk).md`. Three findings for this chair:
+
+**His planted formula is confirmed at its actual sūtra.** The book's planted center-formula, "*madhya-vikāsāt* — from the unfolding of the center comes the bliss of consciousness," is Pratyabhijñāhṛdayam **sūtra 17**: "madhyavikāsāc cidānandalābhaḥ" — Singh (p. 91): "By the development of the *madhya* (centre) there is acquisition of the bliss of *cit* (*cidānanda*)," the state being *jīvanmukti*, liberation while alive (sūtra 16). The sentence the book plants is his, at the address the corpus attributes.
+
+**He supplies the vault's contraction doctrine in the tradition's own words.** Sūtra 9 ("cidvat tacchaktisaṅkocān malāvṛtaḥ saṃsārī") and sūtra 5 ("citir eva … cetyasaṅkocinī cittam") make binding a *contraction* (saṅkoca) of consciousness's powers, "uncontracted powers appearing contracted" — grounding [[suffering is contraction never corruption]] and the mala mapping ([[the triads privations map the three malas corner for corner]]), with the third corner precisely qualified (kārmamala is contracted agency, not residue).
+
+**He equates camatkāra with vimarśa at primary.** Sūtra 11's vṛtti gives "camatkārāpara-paryāya-vimarśana" (vimarśana, whose other name is camatkāra), and his Śivasūtravimarśinī glosses vismaya (I.12) as the yogin's "ever-new camatkāra," which grounds [[the recognition school installs wonder at the definition of consciousness]] at primary where it had rested on secondary scholarship; his Spandanirṇaya gloss of spanda as "kiṃcit calat" (a slight stirring) grounds the felt-signature notes. The chair moves from grid-proposal to primary-read (both named works read; load thesis-bearing confirmed by the planted-formula finding). Still owed: copyright editions for manuscript quotation, and the fuller Spandanirṇaya beyond I.1.
 
 ---
 
