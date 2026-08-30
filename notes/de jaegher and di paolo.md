@@ -4,7 +4,7 @@ category: interlocutor
 seat: candidate
 load: independent-arrival
 discipline: empirical-science
-clause: "In a social encounter the interaction process itself can take on a form of autonomy, becoming a level of organization not reducible to individual behaviours — so meaning is generated between participants rather than transmitted between them."
+clause: "In a social encounter the interaction process itself can take on a form of autonomy, becoming a level of analysis not reducible, in general, to individual behaviours — so meaning is generated between participants rather than transmitted between them."
 recommendation: "Read the 2007 paper for the mechanism the relational field has never had. Their route in was autonomy and dynamical systems with no contact with either pole of the founding convergence, which makes this an arrival rather than a supporting citation."
 sources: ["standing wave: §4"]
 works: ["Hanne De Jaegher and Ezequiel Di Paolo, 'Participatory Sense-Making' (Phenomenology and the Cognitive Sciences, 2007)", "Di Paolo, Cuffari and De Jaegher, Linguistic Bodies (2018)"]
@@ -25,7 +25,7 @@ They also pass the independence test that most of the company fails ([[the conve
 
 ## What they would refuse
 
-Derived rather than sourced; the 2007 paper has not been read in this vault.
+Read at the primary texts 2026-08-30 — the 2007 journal article and the 2008 chapter "Making Sense in Participation," both in full (see "What the primary reading settled"). The refusals here are confirmed at the source.
 
 They would refuse the third thing as an entity. Their irreducible level is a *process* — a pattern of coordination sustained in real time by two embodied agents — and it has no existence apart from the interacting. The book's language of a field that is present, that arrives, that does work, reads as a claim about something there; theirs is a claim about something happening. That is not a small difference and it is where a careless citation would sit.
 
@@ -33,9 +33,15 @@ They would refuse the extension to a reader alone with a book more sharply than 
 
 And they would resist the warmth. The synchrony literature the same argument draws on reports that coordination produces cooperation without positive emotion needing to be generated, which cuts against reading the relational field as fundamentally about feeling connected.
 
-## What the evaluation still requires
+## What the primary reading settled (2026-08-30)
 
-The 2007 paper, with three questions: whether interactional autonomy is claimed as a strong ontological thesis or as a methodological level of description; how much of it survives asynchronous or mediated interaction, which is what a letter is; and whether their later work on linguistic bodies closes any of the gap between a real-time coupling account and a text that expects an answer.
+All three questions are answered at the text (record: `archive/reading — the participation law's independent arrivals (von foerster, maturana-varela, garfinkel, schön, de jaegher-di paolo, vervaeke).md`).
+
+The autonomy of the interaction is offered as an operationally-specified *level of analysis*, not a strong metaphysical thesis: the process "can take on a form of autonomy" and constitutes "a level of analysis not reducible, in general, to individual behaviours" (2007, p. 492), but the autonomy is "typically fleeting," defined by precarious operational closure, and constitutively requires that "the autonomy of the individuals as interactors must also not be broken." Where they write it "emerges as an entity" (p. 492), the entity is that operational process — which is why they guard against reifying it, preferring "mutual modulation... so as not to imply a self-sufficiency of the social domain" (p. 504). The vault's earlier "third thing" summary was an import, not their phrase; the clause is corrected from "level of organization" to their actual "level of analysis."
+
+Little of participatory sense-making survives asynchronous or mediated interaction, and the paper says why precisely: it requires live mutual regulation ("the regulated coupling between at least two autonomous agents, where the regulation is aimed at aspects of the coupling itself," p. 493), even a short delay deforms it (the Ruhleder and Jordan case, pp. 497–498), and a medium that cannot adjust breaks it. A text does not adjust — the most mechanically exact form of the many arrivals at the objection to the book's solitary form.
+
+Their later work reframes rather than closes the gap, and in the book's favour: *Linguistic Bodies* (2018) extends participatory sense-making into "languaging" and treats solitary reading as a "virtual dialogue" in which the absent producer is animated as an agent, the utterance remaining "a dialogic act... producer and audience" — so reading is admitted only by being re-modeled as still dialogic, which extends the participation law into reading rather than exempting reading from it, consonant with the book's "whatever transforms, the reader did it." (Grade B, via a review with page cites; the 2018 primary pages are the further reading owed.)
 
 The transmission mesh's verdict, folded 2026-08-16: Dig IV judged the pair load-bearing, since their participatory sense-making is the only program that operationalizes rupture-and-repair and meaning-in-interaction with an evidence base, and it queues the 2007 paper as a Tier 7 reading (entry 74).
 

@@ -274,7 +274,7 @@ Eight lenses are deepened into family files on the checkable cache substrate (`t
 
 Coverage reaching zero measures *reachability* — every claim is referenced by some lens — and it says nothing about *reification*, whether the claim is substantiated or still a seed. The two are independent, and the gap between them is the graph's real frontier: on 2026-08-22, with coverage at 100%, **220 of 493 claims were still `state: nascent`** (44% of the graph ungrounded — an attribution often made from memory with its primary reading owed). A green coverage number can therefore sit over a largely ungrounded graph, and the polyphony's apparatus can make the material read as more finished than it is. `scripts/queries/lens-check.sh --grounding` is the instrument that keeps this visible: it reports, per family and overall, how much of what is attested is nascent, against the baseline below. The number to drive **down** is the nascent count, and only a completed primary reading (nascent → full) moves it — never a new lens. A *rise* above the baseline means seeds were minted faster than they were grounded (the harvest outrunning its meter); a *fall* means readings landed. The leverage-ordered backlog that drives it down is the grounding backlog at the head of `ops/reading queue.md`, and `scripts/queries/nascent-stubs.sh` prints the note-level worklist. Advance the baseline down as readings complete; re-baseline up only to consciously acknowledge a new harvest.
 
-<!-- grounding-baseline nascent=176 derived=2026-08-28 -->
+<!-- grounding-baseline nascent=169 derived=2026-08-30 -->
 
 ---
 

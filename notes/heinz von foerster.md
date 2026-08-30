@@ -4,7 +4,7 @@ category: interlocutor
 seat: candidate
 load: independent-arrival
 discipline: systems-and-design
-clause: "Objectivity is the delusion that observations could be made without an observer; anything said is said by an observer to another observer."
+clause: "Objectivity is the delusion that observations could be made without an observer."
 recommendation: "Read the Observing Systems essays for the participation law's engineering-side witness. His value is that his route in was circuit design and biological computing, so his agreement with the book's first law cannot be a family resemblance."
 sources: ["mesh grid: tier 3", "mesh grid: the search map"]
 works: ["Observing Systems (1981)", "Understanding Understanding (2003)", "On Constructing a Reality (1973)", "Cybernetics of Cybernetics (1974)"]
@@ -23,15 +23,23 @@ Systems and design is also one of three disciplines the sort finds near-empty ac
 
 ## What he would refuse
 
-Derived rather than sourced; no primary work has been read in this vault.
+Read at the primary texts 2026-08-30 (see "What the primary reading settled" below); the refusals here are now confirmed at the source.
 
 He would refuse the ontological upgrade. His claim is epistemological and formal — descriptions require a describer, and a complete account has to include the describing — not that reality is participatory or that the knower and the known are metaphysically one. The book's law reads as the second sort of claim in most of its statements, and the gap between the two is where a careless citation would sit.
 
 He would also refuse the warmth. Von Foerster's ethics from this position is famously spare: act always so as to increase the number of choices. There is nothing in his account about coming back changed, about the emergence, or about the between doing work; a use of him that borrows the observer-inside and imports the rest has taken his premise and someone else's conclusion.
 
-## What the evaluation still requires
+## What the primary reading settled (2026-08-30)
 
-The *Observing Systems* essays, with two questions. Whether his position genuinely reaches the book's law or only the weaker claim that descriptions are observer-relative, which decides whether this is an arrival or a resemblance. And how his account handles the objection the book has never met — that participation is contamination and the whole experimental apparatus exists to remove it — since a cybernetician arguing the observer cannot be removed is standing on the same ground as the objection and drawing the opposite conclusion, which is the most useful place to watch the argument happen.
+Both questions the evaluation set are answered at the primary text ("On Constructing a Reality," 1973; "Ethics and Second-Order Cybernetics," 1991/92; the record is `archive/reading — the participation law's independent arrivals (von foerster, maturana-varela, garfinkel, schön, de jaegher-di paolo, vervaeke).md`).
+
+He reaches more than "descriptions are observer-relative." The knower actively constitutes the known — "the environment as we perceive it is our invention," grounded in a "Postulate of Cognitive Homeostasis" (the nervous system "computes a stable reality") and closing on "Reality = Community." That is a genuine independent arrival at the participation structure, from circuit design and biological computing, not a family resemblance.
+
+And he meets the objection the book had never met, exactly on its own ground. In "Ethics and Second-Order Cybernetics" he takes objectivity's demand — "the properties of the observer shall not enter the description of his observations" — and turns it: "If the properties of the observer (namely to observe and describe) are eliminated, there is nothing left; no observation, no description." A cybernetician argues the observer cannot be removed and draws the opposite conclusion from the same premise the "participation is contamination" objection starts from.
+
+The refusal holds at the source: he keeps the claim epistemological and formal rather than metaphysical, framing "Am I part of the universe?" as one of a "pair of in principle undecidable questions" one freely chooses and takes responsibility for — not an assertion that reality is participatory.
+
+One correction the reading forced, now applied to the `clause:` field: the vault's earlier clause appended "anything said is said by an observer to another observer," which mis-credited Maturana's foundational dictum ("Everything said is said by an observer," *Biology of Cognition*, 1970) to von Foerster. His own contribution is the corollary "and said *to* an observer"; the clause now carries only the aphorism that is verifiably his.
 
 The transmission mesh's verdict, folded 2026-08-16: Dig IV rated him directional, since his candidate ethic — increase the number of choices — points a way but is too formally empty to bear weight, and it queues the Observing Systems essays as a Tier 7 reading (entry 75).
 

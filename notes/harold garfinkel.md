@@ -4,7 +4,7 @@ category: interlocutor
 seat: candidate
 load: independent-arrival
 discipline: social-theory
-clause: "The activities by which members produce and manage the settings of everyday life are identical with the procedures by which those settings are made accountable — the doing and the describing are one activity."
+clause: "the activities whereby members produce and manage settings of organized everyday affairs are identical with members' procedures for making those settings 'account-able'"
 recommendation: "Read Studies in Ethnomethodology for the participation law with a method attached. The breaching experiments are the strongest thing here: they make the invisible always-there visible by disturbing it, which is a procedure rather than an assertion."
 sources: ["mesh grid: tier 3", "mesh grid: the search map"]
 works: ["Studies in Ethnomethodology (1967)", "Ethnomethodology's Program (2002)"]
@@ -27,15 +27,21 @@ The second is that the breaching experiments demonstrate a different claim the b
 
 ## What he would refuse
 
-Derived rather than sourced; no primary work has been read in this vault.
+Read at the primary text 2026-08-30 (*Studies in Ethnomethodology*, 1967, full scan; see "What the primary reading settled"); the refusals here are confirmed at the source.
 
 Garfinkel would refuse the transposition to the interior. His subject is publicly available, jointly produced social order — what two people do together in a room, observable by a third — and he was pointedly uninterested in mental states, motives, or inner experience, which he treated as the wrong place to look. A book that takes his constitutive-account claim and applies it to a person's relation to their own experience has moved his argument somewhere he declined to go.
 
-He would also refuse the therapeutic use of breaching. His disruptions were investigative and he stopped running them partly because of the distress they caused; they were not offered as a practice, and a book that walks a reader toward deliberate destabilization would find no warrant in him for doing so.
+He would also refuse the therapeutic use of breaching. His disruptions were investigative and the distress they caused drew sustained ethical criticism; they were not offered as a practice, and a book that walks a reader toward deliberate destabilization would find no warrant in him for doing so.
 
-## What the evaluation still requires
+## What the primary reading settled (2026-08-30)
 
-*Studies in Ethnomethodology*, with two questions: whether his constitutive claim about accounts reaches the book's law or is a narrower point about social settings; and whether the breaching material can be read as evidence for the invisibility of the always-there without importing the method as a practice, since the second would run against the harm question the sort raises elsewhere.
+Both questions the evaluation set are answered at the primary text (record: `archive/reading — the participation law's independent arrivals (von foerster, maturana-varela, garfinkel, schön, de jaegher-di paolo, vervaeke).md`).
+
+The constitutive claim is narrower than the book's law, by Garfinkel's own scoping. His "reflexivity of accounts" is stated verbatim on p. 1 — "the activities whereby members produce and manage settings of organized everyday affairs are identical with members' procedures for making those settings 'account-able'," where "accountable" means "observable-and-reportable... available to members as situated practices of looking-and-telling." He bounds it repeatedly to "settings of organized everyday affairs" produced by "members," so he is a genuine arrival at the participation law *in the social register* (order is enacted by participants in the doing, and with a method), while the generalization to the structure of knowing and to a person's own inner experience is the book's transposition, not his.
+
+The breaching material is separable from the method. The finding — background expectancies are "seen but unnoticed," made visible by disturbing them (the "What do you mean?" exchange, pp. 42–43; the boarder experiment, pp. 45–49) — can be cited as evidence for the invisibility of the always-there without adopting deliberate destabilization as a reader-practice; the recorded distress and the sister's "Please, no more of these experiments. We're not rats, you know" (p. 49) are themselves reasons to decline the method.
+
+Two corrections the reading forced. The `clause:` field had carried a paraphrase in quotation marks with an added gloss ("the doing and the describing are one activity") that appears nowhere in Garfinkel; it now carries his verbatim p. 1 wording. And the biographical claim that he stopped running the experiments partly because of the distress could not be verified — the primary confirms the distress and the investigative intent, not the reason for stopping — so the vault should say only that the distress drew sustained ethical criticism.
 
 ## Recommendation
 

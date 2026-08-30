@@ -53,7 +53,7 @@ How the maker must work so the work stays honest. The orienting question the mod
 - **Keep the nameable porous enough for the unnameable.** *"Not everything valuable should be reduced to explicit structure"* (8453); the ontology must stay *"light enough for the ecology to breathe"* (6065). *(model-produced)*
 - **Collaborate, but keep the authorial center awake — sovereignty in relationship.** *"That's not isolation, that's sovereignty in relationship"* (825); *"with any tool, you collaborate but keep the authorial center awake"* (837). Attested: `[[sovereignty is authorship preserved within relationship, not control over reality]]`. *(author-voiced)*
 
-<!--cache id=AX-author crc=9bdb1e6a src=the-conversation-catalog.md|notes/a framework is transformed by what its own encounters disclose.md|notes/the book is one of the automatisms it must interrupt.md|notes/transformation is enacted participation inside a held container.md|notes/sovereignty is authorship preserved within relationship, not control over reality.md derived=2026-08-21-->
+<!--cache id=AX-author crc=4ad7a757 src=the-conversation-catalog.md|notes/a framework is transformed by what its own encounters disclose.md|notes/the book is one of the automatisms it must interrupt.md|notes/transformation is enacted participation inside a held container.md|notes/sovereignty is authorship preserved within relationship, not control over reality.md derived=2026-08-30-->
 
 ### Layer 2 · The work's axioms — what the book enacts and invites
 
