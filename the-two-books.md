@@ -14,7 +14,7 @@ The reframe conversation re-described the single manuscript as two books, and th
 - **The authority burden sorts the evidence.** Book I's authority comes from discernment and synthesis, Book II's from embodied realization — `[[Book I's authority comes from discernment and synthesis; Book II's from embodied realization]]` — which is exactly why the book's two centerpieces divide as they do: the **convergence of thinkers** grounds Book I, the **lived practice and the felt shift** ground Book II.
 - **The civilizational third book is a horizon, not a structure to build** *(settled, gated on the first two being sent)*: `[[the civilizational book is a horizon not a structure to build]]`. Micro and meso are occupied; macro is the bounded ambition.
 
-<!--cache id=TB-structure crc=7a73ec42 src=the-conversation-catalog.md|ops/scaffold.md|notes/book-structure.md|notes/the two books differ in locus of practice not subject matter.md derived=2026-08-24-->
+<!--cache id=TB-structure crc=2e71a1c2 src=the-conversation-catalog.md|ops/scaffold.md|notes/book-structure.md|notes/the two books differ in locus of practice not subject matter.md derived=2026-08-30-->
 
 ## Book I — facilitating another's participation
 
@@ -71,7 +71,7 @@ Four questions this family surfaces and does *not* answer, because they change w
 - **The verification organ of Book II**: the felt-shift standard is never author-ratified inside the reframe transcript (it appears only as model-supplied material); the author's own verification language there is the *durability* criterion and the *authorial gate*. Whether felt-shift or durable-perspective is Book II's primary verification organ is unsettled, and the author has separately judged the felt shift underdefended.
 - **The chapter scheme is not asserted.** The provisional schemes (Book I in nine parts, Book II in ten) are self-disavowed — the author rejected the many-chaptered format. Units are named; numbers are not stable; the family references by name.
 
-<!--cache id=TB-joints crc=e57156ce src=the-conversation-catalog.md|ops/scaffold.md|ops/decisions.md derived=2026-08-24-->
+<!--cache id=TB-joints crc=2aedeee9 src=the-conversation-catalog.md|ops/scaffold.md|ops/decisions.md derived=2026-08-30-->
 
 ## How this family grows, and what I watched
 
@@ -80,5 +80,5 @@ Four questions this family surfaces and does *not* answer, because they change w
 - **The disciplines held while building it:** the settled decisions (locus cut, Book I first, the mirror) are marked settled; the candidates (the two dramaturgies, the cell content) are marked candidate; the joints are left to the author; and the convergence-is-company rule keeps the mirror's ten rows a *relation*, not a raw agreement-count re-inflated into proof.
 
 ---
-<!-- baseline notes=506 decisions=119 derived=2026-08-21 -->
-<!--cache id=TB-src crc=24893546 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md|notes/book-structure.md derived=2026-08-24-->
+<!-- baseline notes=509 decisions=121 derived=2026-08-30 -->
+<!--cache id=TB-src crc=ba602dc9 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md|notes/book-structure.md derived=2026-08-30-->

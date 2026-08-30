@@ -25,9 +25,13 @@ The evaluations bumped four entries from the full queue to the front, each becau
 
 ## The crossover cluster
 
-A second round of evaluations ran on 2026-08-03, against the field around the author's core-thesis candidate rather than against the survey's own list. Twelve targets were checked at web depth and written up: [[henry corbin]], [[j l mehta]], [[john caputo]], the Kyoto School, [[isabelle ratie]], [[david peter lawrence]], [[loriliai biernacki]], [[michel henry]], Steven Katz, Thomas Sheehan, Andrea Jain, and the anamnesis line, which became a claim rather than a chair ([[reading as remembering has a twenty-four-century ancestry in the west]]). The survey they were drawn from is [[the crossover has footsteps and the book already seats some of the walkers]]; the seats remain the author's to assign.
+A second round of evaluations ran on 2026-08-03, against the field around the author's core-thesis candidate rather than against the survey's own list. Twelve targets were checked at web depth and written up: [[henry corbin]], [[j l mehta]], [[john caputo]], [[the kyoto school]], [[isabelle ratie]], [[david peter lawrence]], [[loriliai biernacki]], [[michel henry]], Steven Katz, Thomas Sheehan, Andrea Jain, and the anamnesis line, which became a claim rather than a chair ([[reading as remembering has a twenty-four-century ancestry in the west]]). The survey they were drawn from is [[the crossover has footsteps and the book already seats some of the walkers]]; the seats remain the author's to assign.
 
 The round left one piece of open research behind it, and it is the frontier's only unclaimed territory rather than another reading task. No comparative literature joining Michel Henry's auto-affection to vimarśa or the Pratyabhijñā surfaced at web depth, on either side of a rich pair. If a scholarly-database pass confirms the absence, that pairing is open ground directly adjacent to the author's own crossing.
+
+One target's finding became an open reading rather than a chair, and the mesh grid flags it as the round's highest-variance name:
+
+- [[nihility may be a station the contraction scheme cannot represent]] — Nishitani's nihility, the one name the grid could not place: if it is a groundlessness passed through rather than a contraction of something present, reading *Religion and Nothingness* would force a structural revision of the book's account of suffering, and the reading is the only way to settle which branch it is.
 
 ## The generative-pass round
 

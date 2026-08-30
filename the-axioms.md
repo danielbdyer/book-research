@@ -33,7 +33,7 @@ The conversation sorted its own axioms, and the author endorsed the sort. It beg
 
 The author insisted the axioms bind him and not only the reader: *"these same axioms also relate to my own authorship of the book"* (882). The model named what that insistence implied — *"underneath both of those is the author's practice"* (887) — and then stated the keystone: **"the author is the first participant… that might be the most foundational axiom of all"** (887). It is the hinge because it makes the author subject to the same participation the book asks of its reader: he is *"not outside the framework, but continually participating"* (887). Everything in Layer 1 is what follows once the maker is inside the thing being made.
 
-<!--cache id=AX-hinge crc=ac3f4abb src=the-conversation-catalog.md|notes/writing for facilitators dissolves the authority double-bind.md derived=2026-08-24-->
+<!--cache id=AX-hinge crc=ea744096 src=the-conversation-catalog.md|notes/writing for facilitators dissolves the authority double-bind.md derived=2026-08-30-->
 
 ### Layer 1 · The author's axioms — the design constraints, held backstage
 
@@ -53,7 +53,7 @@ How the maker must work so the work stays honest. The orienting question the mod
 - **Keep the nameable porous enough for the unnameable.** *"Not everything valuable should be reduced to explicit structure"* (8453); the ontology must stay *"light enough for the ecology to breathe"* (6065). *(model-produced)*
 - **Collaborate, but keep the authorial center awake — sovereignty in relationship.** *"That's not isolation, that's sovereignty in relationship"* (825); *"with any tool, you collaborate but keep the authorial center awake"* (837). Attested: `[[sovereignty is authorship preserved within relationship, not control over reality]]`. *(author-voiced)*
 
-<!--cache id=AX-author crc=4ad7a757 src=the-conversation-catalog.md|notes/a framework is transformed by what its own encounters disclose.md|notes/the book is one of the automatisms it must interrupt.md|notes/transformation is enacted participation inside a held container.md|notes/sovereignty is authorship preserved within relationship, not control over reality.md derived=2026-08-30-->
+<!--cache id=AX-author crc=5272f845 src=the-conversation-catalog.md|notes/a framework is transformed by what its own encounters disclose.md|notes/the book is one of the automatisms it must interrupt.md|notes/transformation is enacted participation inside a held container.md|notes/sovereignty is authorship preserved within relationship, not control over reality.md derived=2026-08-30-->
 
 ### Layer 2 · The work's axioms — what the book enacts and invites
 
@@ -126,5 +126,5 @@ Three things showed, and they bear on whether a workflow-per-family is safe:
 - **The provenance split is the real readiness signal.** Most axioms here are model-produced. That is not a flaw — it is the honest state — but it means the family's frontier is not "find more axioms" (a workflow could flood that) but "confirm which of these the author holds" (a workflow cannot). The bound the author wants is already the natural shape of the work: the engine proposes, the census counts, and admission stays a human act. On that evidence the guards do hold — so a workflow-per-family becomes reasonable **for the gather-and-locate pass only**, with dedup and admission kept by hand.
 
 ---
-<!-- baseline notes=501 decisions=119 derived=2026-08-21 -->
-<!--cache id=axioms-src crc=d2af66a5 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md derived=2026-08-24-->
+<!-- baseline notes=509 decisions=121 derived=2026-08-30 -->
+<!--cache id=axioms-src crc=9e7f2d04 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md derived=2026-08-30-->

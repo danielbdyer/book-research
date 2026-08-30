@@ -55,6 +55,7 @@ Six findings from that day are about how the vault works rather than about what 
 
 - [[the company was sorted by what each thinker brings and never by what the book cannot lose]] — the sorting defect behind the second axis: a taxonomy by contribution answers what a thinker brings and never asks what happens if they leave.
 - [[the convergence's independence fails where three of its names share one teacher]] — rule 7's count-once principle extended from documents to thinkers, since shared teaching makes agreement a family resemblance rather than an arrival.
+- [[heidegger's letting and way descend from daoism so pairing him with laozi is lineage not convergence]] — the same count-once principle applied where the shared source is a text rather than a teacher, since Heidegger read and under-acknowledged Daoist sources, so his "letting" and Way are inherited from Laozi and cannot be counted as a second independent arrival beside him.
 - [[the drive to closure has measurable costs]] — the warrant beneath rule 4, and the criterion that separates a disciplined open tension from a romantic one: naming what would close it.
 - [[the book can only be auxiliary to a sovereign reader]] — the book's claim about instruments, which a paper on how this vault's two parties transact reaches independently from analytic philosophy of mind, with no contact with the letter's grammar the book's version rests on.
 

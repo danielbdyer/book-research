@@ -57,10 +57,12 @@ The seats are functional. The corpus's narrative names for them are recorded in 
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the sharpest fault line, left unresolved with the body as referee.
 - [[the book's company of thinkers is grouped by contribution rather than by doctrine]] — how the company was assembled, which is what the convergences are agreement across.
 - [[the convergence's independence fails where three of its names share one teacher]] — the test applied to the field around the founding convergence, which most of it does not pass.
+- [[heidegger's letting and way descend from daoism so pairing him with laozi is lineage not convergence]] — the same test applied to the book's Heidegger–Laozi pairings on "letting" and the Way, which they fail: Heidegger read and under-acknowledged Daoist sources, so on those moves Laozi is the ancestor and the two are one lineage rather than two independent witnesses, while the founding aletheia–pratyabhijñā pair survives untouched.
 
 ### How the company is sorted, and the sorting's own findings
 
 - [[the company was sorted by what each thinker brings and never by what the book cannot lose]] — the author's correction of 2026-08-05 and the reason for the second axis.
+- [[the nearest prior attempts are case histories rather than interlocutors]] — a second instance of that same defect reached from a different direction: a taxonomy of contribution has no cell for a thinker whose relevance is their outcome, which is the reason the load axis carries `precedent` for the five who already ran this experiment.
 - [[the coaches are a bloc that competes with the compositional scheme]] — the largest re-reading the sort produced: eleven colleagues read as one argument.
 - [[structure-preserving transformation is a method-bearing claim rather than a directional one]] — the species of load the axis had no word for: a thinker removable from what the book argues and not from how it works.
 - [[the middle voice is only earned against the voluntarist pole at full strength]] — the cost of sorting badly, paid in register: quote the opposing pole weakly and the resolution turns out to have been won against nobody.
@@ -138,6 +140,7 @@ The crossover cluster, evaluated 2026-08-03 at the author's direction as backgro
 - [[david peter lawrence]] — the treatise-as-practice precedent, and the proof-road the author declined.
 - [[loriliai biernacki]] — the crossover's living developer, whose theoretical destination leaves the practice lane open.
 - [[michel henry]] — the phenomenology nearest vimarśa; the pairing itself possibly open territory.
+- [[the kyoto school]] — the most sustained professional walking of the East–West crossover, whose founder Nishida the book already seats; Ueda's Eckhart–Zen comparison ends by recording a difference, which is the refusals-intact rule reached independently. Seated reference-lineage, load adversary (2026-08-16), the works still unread.
 
 The generative-pass round, evaluated 2026-08-04; shared provenance at `archive/research — generative pass background.md`:
 

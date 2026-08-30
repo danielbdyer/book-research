@@ -53,6 +53,7 @@ The lineage sort and the two research syntheses (2026-08-05) reached this map fr
 - [[thomas hubl]] — that arrival's evaluation note, broken out of the eleven-teacher bloc where the corpus had filed him.
 - [[the coaches are a bloc that competes with the compositional scheme]] — the largest re-reading the sort produced: the five theories of where suffering lives are rival accounts of the same territory the compound diagnoses cover, so the eleven teachers are collectively an argument against the scheme rather than a network inside it.
 - [[suffering in an intense state is the intensity multiplied by the resistance]] — the doctrine at high intensity, where the multiplier is resistance and the clearing itself is neutral territory.
+- [[nihility may be a station the contraction scheme cannot represent]] — the sharpest of the questions about what the doctrine can hold, still open: if Nishitani's nihility is a groundlessness passed through rather than a contraction of something present, then the scheme that reads every difficulty as a configuration of what is present has no shape for it, and the account of what is wrong with a person would need structural revision rather than one more formula.
 
 ## Adjacent maps
 

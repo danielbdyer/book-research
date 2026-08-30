@@ -109,7 +109,7 @@ This is held as a proposal, not a decision. What it would change: the reading qu
 
 The part of the mechanism that *is* now built is the checking. This file carries a content-hash receipt for each of its sections (the hidden markers below each block), and `scripts/queries/lens-check.sh` re-computes them to report which sections still rest on unmoved ground and which need re-reading — the same substrate the Axioms family runs on, described in full in `the-axioms.md`. So the register above cannot silently rot: when a source it was read from changes, the section that cited it says so.
 
-<!--cache id=LOC-substrate crc=0a794d5e src=ops/reading queue.md|ops/clearing.md derived=2026-08-30-->
+<!--cache id=LOC-substrate crc=64ce24b7 src=ops/reading queue.md|ops/clearing.md derived=2026-08-30-->
 
 ## What I watched, building this
 
@@ -123,4 +123,4 @@ My recommendation: **stay hands-on for one more family**, watch the output volum
 
 ---
 <!-- baseline notes=501 decisions=119 derived=2026-08-21 -->
-<!--cache id=LOC-src crc=d2af66a5 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md derived=2026-08-24-->
+<!--cache id=LOC-src crc=9e7f2d04 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md derived=2026-08-30-->

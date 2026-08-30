@@ -57,6 +57,7 @@ This concern borders [[the call and the answering]], because a word becomes answ
 
 - [[the third thing has a mechanism in participatory sense-making]] — enactivist work holding that an interaction can take on autonomy and generate meaning irreducible to either party, with entrainment research as the measured half. The first mechanism this concern has had.
 - [[the relational vocabulary's ontology is buber's rather than benjamin's]] — the proposal that the vocabulary's real bearer is Buber's I-Thou relation, not Benjamin's thirdness, which decides whom the book owes the citation.
+- [[jessica benjamin]] — the clinical bearer of the between, who carried Hegel's mutual recognition into the consulting room as "thirdness," kept to the clinic rather than the ontology (which is Buber's), with the master–slave refusal that lands on the facilitator's asymmetry rather than after it.
 - [[ubuntu personhood]] — a constitutive account of relation, where the person is made in it rather than meeting another across it.
 - [[de jaegher and di paolo]] — their evaluation note, holding the mechanism, with the refusal that participatory sense-making is a process rather than a presence.
 
@@ -195,6 +196,7 @@ The transmission digs of 2026-08-13 (the record is the 2026-08-13 entry in `ops/
 
 - [[viola spolin]] — candidate; the improv pedagogy that supplies the facilitated room's craft, holding attention off the self with a shared point of concentration.
 - [[victor turner]] — candidate; the decay typology and the reframe of structure as a dangerous energy's container, an early-warning system for any field the book gathers.
+- [[a book cannot supply the basic trust a reader who never had a reliable other lacks]] — the field's developmental floor and the limit it sets on the book, since Winnicott's capacity to be alone presupposes a basic trust laid down early, so a book read alone has no purchase where a reliable other was never there and cannot supply one retroactively.
 
 ### The field's community, subtracted (Dig 3)
 

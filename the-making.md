@@ -22,14 +22,14 @@ The vault works its material under nine house rules, each derived where possible
 - **Open edge:** the nascent-stub device was tried at scale and retired 2026-08-09 (one of thirteen filled), establishing that graph reachability is a maintenance reason rather than a writing reason; the craft category records a mechanism in executed prose, available only from draft sources.
 - **Enters:** the making does not enter the book here — these are the vault's rules for serving it; the writing test is the standard every candidate clears.
 
-<!--cache id=MAKE-rules crc=5c7b9aa0 src=notes/methods.md derived=2026-08-22-->
+<!--cache id=MAKE-rules crc=5a5cb967 src=notes/methods.md derived=2026-08-30-->
 
 ## The company-sort, and the unanimity that is company not proof
 
 The record settles two honesty rules that do not expire: the corpus's zero-disagreement framing is an artifact of selection, and the company was sorted by contribution in a way that never asked what the book cannot lose.
 - **Reveals / leaves open:** the convergence is company, never corroboration — the lineages were gathered on one day for the property they are then reported to share, so agreement is company and never proof · it leaves the counterface kept: the company's *refusals* converge unsought, against the gatherer's own interest, which is the one agreement the selection artifact cannot reach.
-- **Attested — the selection artifact and its kept counterface:** `[[the unanimity claim is an artifact of how the lineages were selected]]`, `[[curating traditions for their overlap manufactures the unanimity it then reports]]`, `[[the company's refusals converge unsought where its agreements were assembled]]`, `[[the convergence's independence fails where three of its names share one teacher]]`, `[[the book's heideggerian foundation was never given the independence test]]`.
-- **Attested — the sort's own defect and its remedy:** `[[the company was sorted by what each thinker brings and never by what the book cannot lose]]`, `[[the book's company of thinkers is grouped by contribution rather than by doctrine]]`, `[[the four ontological roots organize the interlocutors by trained way of seeing]]`, `[[traditions are historically accumulated experiments in participation]]`, `[[the tradition the book owes most has no chair in its company]]`, `[[the author curated and vetoed while the collaborator wrote the correspondences]]`.
+- **Attested — the selection artifact and its kept counterface:** `[[the unanimity claim is an artifact of how the lineages were selected]]`, `[[curating traditions for their overlap manufactures the unanimity it then reports]]`, `[[the company's refusals converge unsought where its agreements were assembled]]`, `[[the convergence's independence fails where three of its names share one teacher]]`, `[[heidegger's letting and way descend from daoism so pairing him with laozi is lineage not convergence]]`, `[[the book's heideggerian foundation was never given the independence test]]`.
+- **Attested — the sort's own defect and its remedy:** `[[the company was sorted by what each thinker brings and never by what the book cannot lose]]`, `[[the book's company of thinkers is grouped by contribution rather than by doctrine]]`, `[[the nearest prior attempts are case histories rather than interlocutors]]`, `[[the four ontological roots organize the interlocutors by trained way of seeing]]`, `[[traditions are historically accumulated experiments in participation]]`, `[[the tradition the book owes most has no chair in its company]]`, `[[the author curated and vetoed while the collaborator wrote the correspondences]]`.
 - **Open edge:** the independence test run harder is the standing frontier — which convergences rest on parties who secretly share a teacher, and which single-pole arrivals still await a second witness — the arrival-by-arrival audit carried in `the-constellation.md`.
 - **Enters:** the honesty the book owes its reader about its own company; the front matter's lineage presented as company being joined rather than proof being cited.
 
@@ -49,7 +49,7 @@ The reframe delivered the author's own account of what the vault is for, with a 
 - **Open edge:** whether the vault adopts the life→corpus→book direction as a stated rule or holds it as the author's diagnosis is his to decide; how much fixed structure the record can carry while keeping the inquiry alive is answerable only as a proportion.
 - **Enters:** the making's own honesty — the medium of the making instantiating the message the book argues.
 
-<!--cache id=MAKE-company crc=7d479a5e src=notes/methods.md|notes/interlocutors.md derived=2026-08-22-->
+<!--cache id=MAKE-company crc=6f4ce7d7 src=notes/methods.md|notes/interlocutors.md derived=2026-08-30-->
 
 ## The framework held backstage — the book measured by what it opens
 
@@ -67,7 +67,7 @@ The reframe makes recognition, not composition, the unit that turns a corpus int
 - **Open edge:** the reflexive constraint the making must keep meeting — the book cannot argue for participatory authorship if its own creation is fundamentally non-participatory — is a standing test rather than a settled fact.
 - **Enters:** the author's center of selection and responsibility, the one entity that cannot dissolve into the ontology; the making held to the book's own law.
 
-<!--cache id=MAKE-framework crc=da2c804f src=notes/book-structure.md derived=2026-08-22-->
+<!--cache id=MAKE-framework crc=e59a8dfd src=notes/book-structure.md derived=2026-08-30-->
 
 ## The ecology's epistemics, and the open frontier
 
@@ -77,7 +77,7 @@ A few propositions sit at the research frontier the making opens: what a durable
 - **Open edge:** these are the research-frontier and tension notes the polyphony reaches last; several are the author's to hold rather than the vault's to resolve, and the middle-voice and refusability tensions bear on Book I's still-open grammatical person.
 - **Enters:** the book's diagnosis of its own moment and the design constraints its purpose imposes.
 
-<!--cache id=MAKE-frontier crc=5c7b9aa0 src=notes/methods.md derived=2026-08-22-->
+<!--cache id=MAKE-frontier crc=5a5cb967 src=notes/methods.md derived=2026-08-30-->
 
 ## How this family grows, and what I watched
 
@@ -86,5 +86,5 @@ A few propositions sit at the research frontier the making opens: what a durable
 - **The disciplines held while building it:** the making is reported at the record's specificity with the kept distances kept; the author's own diagnosis is held delicately and in his words; the framework-backstage decision and the title stay his; and every finding is cross-listed from the methods and structure maps rather than moved, so the maps keep their standing.
 
 ---
-<!-- baseline notes=507 decisions=119 derived=2026-08-22 -->
-<!--cache id=MAKE-src crc=88c6f6a0 src=notes/methods.md|notes/book-structure.md|notes/interlocutors.md derived=2026-08-22-->
+<!-- baseline notes=509 decisions=121 derived=2026-08-30 -->
+<!--cache id=MAKE-src crc=8c3bf7ee src=notes/methods.md|notes/book-structure.md|notes/interlocutors.md derived=2026-08-30-->

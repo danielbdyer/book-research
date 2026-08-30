@@ -110,6 +110,7 @@ All four were read at their primary texts on 2026-08-10 and moved from privated 
 - [[dogen]] — the interlocutor chair now seating that source, reference-lineage with a thesis-bearing load, its single-bearer exposure eased because the two arrivals below now stand beside him
 - [[deci and ryan measured that instrumentalizing an intrinsic activity corrupts it]] — the empirical arrival, the undermining effect confirmed with effect sizes (contingent tangible rewards degrade free-choice intrinsic motivation, d = −0.28 to −0.40; positive feedback enhances it, d = 0.33)
 - [[aristotle distinguishes activity complete in itself from movement toward an outside end]] — the Western philosophical arrival, *energeia* against *kinēsis* confirmed at *Metaphysics* IX.6, which with the two above completes the three-tradition convergence
+- [[merleau-ponty holds the body as the perceiving subject rather than an instrument that certifies]] — the finding on the fourth side, the lived body as the perceiving subject itself rather than an object or a tool, which refuses the very felt-shift-as-test framing the verification standard rests on and so fills the embodied blind spot by standing against the standard rather than shoring it up
 - [[maurice merleau-ponty]] — the interlocutor chair seating that body-subject, a Western witness to embodiment-as-knowing beside Gendlin whose flesh-ontology is kept distinct from the book's recognition-ontology so the borrowing does not overreach
 
 ## The reframe conversation: self-facilitation and the kinds of knowing

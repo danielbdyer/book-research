@@ -268,13 +268,13 @@ Several catalog families deepen lenses already in Movement I rather than standin
 
 Eight lenses are deepened into family files on the checkable cache substrate (`the-loci.md`, `the-axioms.md`, `the-paradoxes.md`, `the-constellation.md`, `the-two-books.md`, `the-arc.md`, `the-concerns.md`, `the-making.md`). The substrate pivot's invariant — that every claim in the graph is referenced by some family — is now met in full: coverage reached 0 uncovered on 2026-08-22, the four content families (the Two Books, the Arc, the Concerns, the Making) joining the Constellation to attest the whole graph. `scripts/queries/lens-check.sh --coverage` reports the count; `--uncovered` prints the worklist. The baseline below is the last-synced uncovered count — a session or CI run that finds the current count *above* it flags that new research has landed in no family yet. Advance it only after a coverage pass folds new notes into families.
 
-<!-- coverage-baseline uncovered=0 derived=2026-08-22 -->
+<!-- coverage-baseline uncovered=0 derived=2026-08-30 -->
 
 ## Grounding — the meter beneath the coverage number
 
 Coverage reaching zero measures *reachability* — every claim is referenced by some lens — and it says nothing about *reification*, whether the claim is substantiated or still a seed. The two are independent, and the gap between them is the graph's real frontier: on 2026-08-22, with coverage at 100%, **220 of 493 claims were still `state: nascent`** (44% of the graph ungrounded — an attribution often made from memory with its primary reading owed). A green coverage number can therefore sit over a largely ungrounded graph, and the polyphony's apparatus can make the material read as more finished than it is. `scripts/queries/lens-check.sh --grounding` is the instrument that keeps this visible: it reports, per family and overall, how much of what is attested is nascent, against the baseline below. The number to drive **down** is the nascent count, and only a completed primary reading (nascent → full) moves it — never a new lens. A *rise* above the baseline means seeds were minted faster than they were grounded (the harvest outrunning its meter); a *fall* means readings landed. The leverage-ordered backlog that drives it down is the grounding backlog at the head of `ops/reading queue.md`, and `scripts/queries/nascent-stubs.sh` prints the note-level worklist. Advance the baseline down as readings complete; re-baseline up only to consciously acknowledge a new harvest.
 
-<!-- grounding-baseline nascent=162 derived=2026-08-30 -->
+<!-- grounding-baseline nascent=160 derived=2026-08-30 -->
 
 ---
 

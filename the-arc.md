@@ -15,7 +15,7 @@ The book's spine as the corpus records it: a container built around the reader b
 - **Open edge:** the seventeen trial chapters the atlas counts have not themselves arrived in `sources/`; the reconciliation of the abridged execution against this working structure, chapter by chapter, is the map's standing next expansion (`ops/chapter concordance.md`).
 - **Enters:** the whole walk — front matter and the invitation under Rilke's epigraph, the entry and architecture movements, the interludes at the junctions, the break at the peak, the return's curriculum, and the Open Secret whose last words are "welcome home."
 
-<!--cache id=ARC-journey crc=da2c804f src=notes/book-structure.md derived=2026-08-22-->
+<!--cache id=ARC-journey crc=e59a8dfd src=notes/book-structure.md derived=2026-08-30-->
 
 ## The four overlays — the same arc read four ways at once
 
@@ -25,7 +25,7 @@ The corpus reads one arc simultaneously as four figures, so a single sequence ca
 - **Open edge:** the Arc and the Gloss treatment's four overlays are storyboarded but not extracted whole — the treatment summarizes them and the vault carries only their four added image-system entries (below), so the overlays are named here and await their own reduce pass.
 - **Enters:** the interludes and the pacing; the descent-of-the-word structure that lands the last line as an answerable utterance.
 
-<!--cache id=ARC-overlays crc=da2c804f src=notes/book-structure.md derived=2026-08-22-->
+<!--cache id=ARC-overlays crc=e59a8dfd src=notes/book-structure.md derived=2026-08-30-->
 
 ## The image system — the walkable figures, each an image welded to a concern
 
@@ -37,7 +37,7 @@ The corpus equips the book with paired figures, each equating an image, a concer
 - **Open edge:** the poems' creature register is an image system the corpus dropped — `[[the poems' animals are present company while the corpus's animals are similes]]` records a figure already drafted in the primary layer and not carried into the book.
 - **Enters:** each figure enters the unit it serves; the house and its threshold open the entry movement.
 
-<!--cache id=ARC-images crc=da2c804f src=notes/book-structure.md derived=2026-08-22-->
+<!--cache id=ARC-images crc=e59a8dfd src=notes/book-structure.md derived=2026-08-30-->
 
 ## The apparatus — the devices that keep the object honest
 
@@ -47,7 +47,7 @@ The corpus keeps the book honest with a specific apparatus: inhabited margins th
 - **Open edge:** the transmission digs found the margins' historical originals and their life-cycle hazards (below), which the apparatus inherits; the verso countersignature and the escrow have no convergence note of their own yet.
 - **Enters:** the margins throughout; the interludes at the part-junctions; the checklist as the object's self-test.
 
-<!--cache id=ARC-apparatus crc=da2c804f src=notes/book-structure.md derived=2026-08-22-->
+<!--cache id=ARC-apparatus crc=e59a8dfd src=notes/book-structure.md derived=2026-08-30-->
 
 ## Three drafts of the object, and what it presupposes
 
@@ -55,11 +55,11 @@ Three states of the manuscript are held, each answering this family's question d
 - **Reveals / leaves open:** the scheme has moved at least twice, which is the evidence behind naming units rather than numbering them — a unit's name is stable where its number is not · it leaves open **the peak fork**: whether the central experience is an event concentrated at one peak or a theme distributed across the book, the drafts' sharpest structural disagreement and the author's to settle.
 - **Attested — the three drafts and the reference directive:** `[[the atlas was compiled from the arc and gloss treatment]]` (the provenance relation that makes agreement among three sources count once), `[[the whole arc has already been drafted once in prose]]`, `[[four named units of the arc appear as pages inside the earliest edition's single chapter]]`, `[[the mythic operating system contents hold four territories the arc drops]]`, `[[the earlier contents distribute transcendence where the arc concentrates a peak]]` (the peak fork itself), `[[the prose drafts use the vetoed triad names]]`, `[[the abridged edition compresses the opening poem rather than reproducing it]]`, `[[the executed draft carries the arc's sequence without the treatment's five rooms]]`.
 - **Attested — the notation and what it presupposes:** `[[every discrimination the molecule formulas are credited with is made by the prose beside them]]`, `[[the diagnostic discipline survives the apparatus that carries it]]`, `[[the corpus names the standard its found-not-invented axiom has not met]]`, `[[the book asks only for attention until it has given the reader something to act with]]`, `[[the offered menu is precision that costs dignity or dignity that costs precision]]`, `[[the system is scaffolding rather than the centerpiece]]` (the author's decision on what the book is centrally about), `[[the practice is the expression of realization rather than a means to it]]` (the anti-instrumentality clause constraining every exercise, with its unresolved collision with the book's own promise).
-- **Attested — the precedent bench (case history, not doctrine):** `[[ken wilber]]`, `[[douglas hofstadter]]`, `[[gurdjieff and ouspensky]]`, `[[mihaly csikszentmihalyi]]`, `[[daniel ingram]]` (a guardrail rather than a precedent: the difficult stages after the threshold mapped as expected sequence rather than failure).
+- **Attested — the precedent bench (case history, not doctrine):** `[[the nearest prior attempts are case histories rather than interlocutors]]` (the governing claim, why the bench is held for what became of each object rather than for what each holds), `[[ken wilber]]`, `[[douglas hofstadter]]`, `[[gurdjieff and ouspensky]]`, `[[mihaly csikszentmihalyi]]`, `[[daniel ingram]]` (a guardrail rather than a precedent: the difficult stages after the threshold mapped as expected sequence rather than failure).
 - **Open edge:** the abridged edition's fifteen-chapter execution still wants reconciling against the working structure, chapter by chapter (`ops/chapter concordance.md`); the two overlays not yet extracted whole are the treatment's.
 - **Enters:** the manuscript's own scheme, held provisional; the concordance as the transfer surface that costs one lookup rather than seven readings.
 
-<!--cache id=ARC-drafts crc=ebb2c570 src=notes/book-structure.md|ops/chapter concordance.md derived=2026-08-22-->
+<!--cache id=ARC-drafts crc=161c52aa src=notes/book-structure.md|ops/chapter concordance.md derived=2026-08-30-->
 
 ## How the material was made — the object's own biography
 
@@ -71,12 +71,12 @@ The provenance reconstructions date the corpus's layers against each other, whic
 - **Open edge:** the poems' full reduce pass through the trailheads in `archive/source — the poems.md` remains, read under the primary standing (offering and provenance, not doctrinal evidence).
 - **Enters:** the front matter's lineage-as-company; the honest origin story that doubles as the reader's invitation.
 
-<!--cache id=ARC-making crc=da2c804f src=notes/book-structure.md derived=2026-08-22-->
+<!--cache id=ARC-making crc=e59a8dfd src=notes/book-structure.md derived=2026-08-30-->
 
 ## The object from the reader's side, and the reader it is built for
 
 The transmission digs read the book's medium — what a text can do to a reader — which is this family's subject from the reader's side; and the corpus states who the object is built for.
-- **Reveals / leaves open:** indirect communication is the authorial form the object most resembles, and it cuts both ways — a warrant for a form that withholds its result, and the objection that the same devices were built to *isolate* the individual a book about participation means to join · it leaves open whether a participatory book can borrow devices built for the opposite motion, the deepest objection to the object's form.
+- **Reveals / leaves open:** indirect communication is the authorial form the object most resembles, and it cuts both ways — a warrant for a form that withholds its result, and the objection that the same devices were built to *isolate* the individual a book about participation means to join · it leaves open whether a participatory book can borrow devices built for the opposite motion, the deepest objection to the object's form; and a further limit stands at the object's floor rather than its form, `[[a book cannot supply the basic trust a reader who never had a reliable other lacks]]`, so the page cannot install retroactively the developmental precondition it draws on.
 - **Attested — indirect communication (Kierkegaard) and its price:** `[[soren kierkegaard]]`, `[[writing cannot transmit the thing but can build the friction under which it may ignite in a reader who supplies the fire]]`, `[[double reflection withholds the result so the reader must reproduce it in his own existence]]`, `[[pseudonymity blocks deference by assigning each life-view to an invented author who embodies rather than asserts it]]`, `[[writing without authority renounces the teacher's office and with it the power to correct a misreading]]`, `[[deceiving a reader into the truth requires knowing his destination, a warrant a book without authority has renounced]]`, `[[indirect communication is built to isolate the individual, so a participatory book cannot borrow its devices and reverse their purpose]]`, `[[the later wittgenstein treats philosophy as therapy that dissolves confusions rather than a doctrine that advances theses]]`.
 - **Attested — the textual gap and the second person:** `[[iser distinguishes completion from participation as two fates of the textual gap]]`, `[[evocation-then-negation is iser's named mechanism for a reading that re-orients the reader]]`, `[[reading stance is a setting of selective attention rather than a property of the text]]`, `[[the book occupies the second person with a polyphony of devices, none taking the whole register]]`.
 - **Attested — the reader the object is built for, and its design laws:** `[[the book opens from a surplus of insight rather than a lack of it]]`, `[[the book addresses people who overthink because they oversense]]`, `[[the company is joined by the reader rather than consulted]]`, `[[the book's practices are facilitation moves scaled to one reader]]`, `[[the book owes the western reader anchor points into the kashmir shaiva tradition]]`, `[[the entry chapter's instant test for a listening page fails against the fluency evidence]]`, `[[the book is the score not the performance]]`, `[[do not explain the reader out of an encounter]]`, `[[the register's work is to open the reader's encounter rather than to earn appreciation]]`, `[[beauty recruits the wrong posture]]`, `[[the confessions is address to a thou that the reader overhears]]`, `[[alfred north whitehead]]` (the process metaphysics behind the verbs-only grammar), `[[the correspondence vision was chosen and executed as a sent pilot letter]]`, `[[the book is a reference point for a reader already on their way]]`.
@@ -84,7 +84,7 @@ The transmission digs read the book's medium — what a text can do to a reader 
 - **Open edge:** the transmission tier's primary readings are undone (the margins' life-cycle hazards, the play lineage's crossing verdicts); the ethics-of-address pair bears directly on Book I's still-open grammatical person.
 - **Enters:** the authorial stance the book takes toward its reader; the last line written so it can be answered; the walkable house as the whole-book vehicle.
 
-<!--cache id=ARC-reader crc=da2c804f src=notes/book-structure.md derived=2026-08-22-->
+<!--cache id=ARC-reader crc=e59a8dfd src=notes/book-structure.md derived=2026-08-30-->
 
 ## The joints — the author's to resolve
 
@@ -102,5 +102,5 @@ The two-book re-description of the object is not re-attested here — it is the 
 - **The disciplines held while building it:** the arc is marked stable and the chapter scheme provisional; the drafts are quoted, never credited for what they argue; the peak fork and the spatial figure are left to the author; the nascent walkable-house round is flagged as ungrounded and grounding-owed; and the two-book cut is left to its own family rather than re-inflated here.
 
 ---
-<!-- baseline notes=507 decisions=119 derived=2026-08-22 -->
-<!--cache id=ARC-src crc=b8bd5755 src=notes/book-structure.md|ops/scaffold.md|the-conversation-catalog.md derived=2026-08-24-->
+<!-- baseline notes=509 decisions=121 derived=2026-08-30 -->
+<!--cache id=ARC-src crc=77625b93 src=notes/book-structure.md|ops/scaffold.md|the-conversation-catalog.md derived=2026-08-30-->
