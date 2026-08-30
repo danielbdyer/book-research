@@ -1,10 +1,10 @@
 ---
 description: "The disappearance of the helper's hand from the person's account is not the helper cheated of credit but the aim reached: a sovereign reader is owed exactly the sense that they found it themselves."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Plato, Theaetetus 150d (Socrates' associates 'found in themselves many fair things and have brought them forth') — read at the primary text (archive/reading — plato, meno and theaetetus on drawing-out and wonder (c. 380 bce).md)", "Laozi, DDJ 17: the highest ruler barely known; 'when the work is done… the people say: we did it ourselves' (ziran); Montessori: 'the children are now working as if I did not exist' — from memory, grounding owed"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Plato, Theaetetus 150d (Socrates' associates 'found in themselves many fair things and have brought them forth') — read at the primary text (archive/reading — plato, meno and theaetetus on drawing-out and wonder (c. 380 bce).md)", "Laozi, DDJ 17 (the ruler barely known; ziran), read at the primary text 2026-08-30 (archive/reading — laozi, daodejing (the wu-wei, ziran, and subtraction chapters).md)", "Montessori, 'the children are now working as if I did not exist' — from memory, grounding owed"]
 topics: ["[[relational-field]]"]
 state: privated
-privation: "the Plato pole is read at the primary text (Theaetetus 150d, the delivery the other's own); the Laozi DDJ 17 and Montessori poles are still from memory, so the convergence rests on one grounded witness"
+privation: "the Plato pole (Theaetetus 150d) and the Laozi DDJ 17 pole are read at their primary texts; the Montessori pole ('the children are now working as if I did not exist') is still from memory, so the convergence rests on two grounded witnesses of three"
 ---
 
 # the surest sign a helper has done their work is that the person says we did it ourselves
@@ -13,9 +13,9 @@ The reader gains a way to read their own effect that costs nothing and returns e
 
 ## Substantiation
 
-- Plato grounds his pole at the primary text: those who associate with Socrates make progress "not because they have ever learned anything from me, but because they have found in themselves many fair things and have brought them forth" (Theaetetus 150d) — the helper's hand vanishing from the account is the aim reached. The companion poles are still owed: Laozi, DDJ 17, the highest ruler barely known to exist, whose successful rule ends "when the work is done and the task completed, the people all say: we did it ourselves" (*ziran*); Montessori, "the greatest sign of success for a teacher is to be able to say, 'the children are now working as if I did not exist'" (both from memory, grounding owed). Independent (Athenian philosophy, Warring States statecraft, 20th-c. pedagogy).
+- Plato grounds his pole at the primary text: those who associate with Socrates make progress "not because they have ever learned anything from me, but because they have found in themselves many fair things and have brought them forth" (Theaetetus 150d) — the helper's hand vanishing from the account is the aim reached. Laozi grounds the second, read at the primary text: the highest ruler is one the people barely know exists, and "when his task is accomplished and his work done, the people all say, 'It happened to us naturally'" (Daodejing ch. 17, Lau; 功成事遂，百姓皆謂：我自然). The note's title-phrase "we did it ourselves" is a paraphrase that takes 自然 (*ziran*) in its self-credit sense — the closest verbatim is Feng and English's "People say, 'We did it!'" — where Waley and Lau read *ziran* as spontaneity ("it happened of its own accord" / "naturally"); the ambiguity is genuine, and the note takes the agency reading its claim needs while marking it. The Montessori pole is still owed: "the greatest sign of success for a teacher is to be able to say, 'the children are now working as if I did not exist'" (from memory). Independent (Athenian philosophy, Warring States statecraft, 20th-c. pedagogy).
 - Refusals kept: Laozi's sage is cultivated alignment, not laziness (ch. 17 warns that where trust is insufficient the people will not trust); Montessori's teacher reaches this through rigorous observation, not neglect; and Plato's midwife still discriminates the true birth from the wind-egg (Theaetetus 150c), so the vanishing is not abdication.
-- Standing: privated — the Plato pole read at the primary text (Theaetetus 150d); the Laozi ch. 17 and Montessori poles still owed.
+- Standing: privated — the Plato pole (Theaetetus 150d) and the Laozi DDJ 17 pole read at their primary texts; the Montessori pole still owed.
 
 ---
 

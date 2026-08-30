@@ -1,9 +1,10 @@
 ---
 description: "Making a space for insight is subtractive: you carry out the standing clutter and the room appears in the removal, so the reader's first act is to clear rather than to build."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Heidegger, Lichtung, the forester's clearing where light enters ('The End of Philosophy and the Task of Thinking', 1964)", "the cut-out root: temenos (temnō, to cut), templum (a region cut from the sky → contemplation), the swept threshing-floor"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Heidegger, Lichtung, the forester's clearing ('The End of Philosophy and the Task of Thinking', 1964, p. 442), verified via secondary [B]", "the cut-out root: temenos (temnō, to cut), templum (a region cut from the sky → contemplation), the swept threshing-floor — a philological locus owed"]
 topics: ["[[container-anatomy]]"]
-state: nascent
+state: privated
+privation: "the Heidegger Lichtung pole is verified at secondary and its earlier two-text conflation corrected; the temenos/templum etymology still wants a philological locus, and a corpus or poem address for the book's own clearing-by-removal language is owed"
 ---
 
 # a room where the hidden can appear is made by taking away rather than by adding
@@ -12,9 +13,10 @@ The reader is relieved of the belief that making a space for insight means build
 
 ## Substantiation
 
-- Heidegger's *Lichtung*: the "clearing" is a forester's word for the place in a wood where the trees have been cleared so light can enter, "the open region in the midst of beings in which they can appear" ("The End of Philosophy and the Task of Thinking," 1964). The etymological convergence, independently: *temenos* (Greek, from *temnō*, "to cut") is land cut off and set apart for a god; *templum* (Latin, same *tem-* root) is a region cut out of the sky by the augur, the root of "contemplation"; the threshing-floor is a swept, bounded, prepared ground. Independent tongues, one gesture — the space is cut out, cleared, made by subtraction.
-- Refusal kept: the clearing itself is granted, not manufactured; the removal is a tending toward it, a "letting-be" (*Gelassenheit*), not a technique that produces the opening on command. The subtraction prepares; it does not compel.
-- Standing: nascent; the 1964 wording and a corpus/poem address for the book's own clearing-by-removal language are queued.
+- Heidegger's *Lichtung*: the "clearing" is a forester's word for a wood cleared of trees, which he glosses from *licht* — "to make something light, free and open, e.g., to make the forest free of trees at one place" — not primarily from light-as-brightness. "The clearing is the open region for everything that becomes present and absent," and, decisively for the subtractive reading, "Light... never first creates the clearing. Rather, light presupposes it" ("The End of Philosophy and the Task of Thinking," 1964, p. 442, verified via secondary). (The vault's earlier "the open region in the midst of beings in which they can appear" conflated this 1964 line with "The Origin of the Work of Art," 1935/36, where the clearing is "in the midst of beings as a whole"; the two are cited separately now.)
+- The etymological convergence, independently of Heidegger: *temenos* (Greek, from *temnō*, "to cut") is land cut off and set apart for a god; *templum* (Latin, same *tem-* root) is a region cut out of the sky by the augur, the root of "contemplation"; the threshing-floor is a swept, bounded, prepared ground. Independent tongues, one gesture — the space is cut out, cleared, made by subtraction (the philological locus is owed).
+- Refusal kept: the clearing itself is granted, not manufactured; the removal is a tending toward it, a "letting-be" — and that letting is Heidegger's Gelassenheit, itself descended from the Daoist letting ([[heidegger's letting and way descend from daoism so pairing him with laozi is lineage not convergence]]), so it is not a technique that produces the opening on command. The subtraction prepares; it does not compel.
+- Standing: privated — the Heidegger pole verified and the conflation corrected; the etymological locus and a corpus/poem address for the book's own clearing-by-removal language owed.
 
 ---
 
