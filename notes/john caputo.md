@@ -2,6 +2,7 @@
 description: John Caputo established that Gelassenheit is Meister Eckhart's own word in Heidegger's mouth — then spent a later book warning against the mystical reading he had established. A footstep and a guard in one person.
 category: interlocutor
 seat: reference-lineage
+load: company
 recommendation: "Reference-lineage: he connects the book's Eckhart seat to Heidegger's deepest borrowing, and his fifteen-year self-refusal is a career-scale model of the refusals-intact rule the company is built on."
 works: ["The Mystical Element in Heidegger's Thought (1978)", "Demythologizing Heidegger (1993)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
@@ -17,6 +18,8 @@ The refusal kept is Caputo's own second act. In *Demythologizing Heidegger* (199
 Evidence standing (added 2026-08-06). The quotations on this note come from the crossover research's web-verified survey of 2026-08-03 (archive/research — crossover cluster background.md), not from the work's own pages, which remain unread here; the recommendation rests on that survey depth.
 
 Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
+**Load proposal (2026-09-01).** With `company`, proposed by a /verify pass on the twelve chairs the load axis had never been asked of, and the grid's proposal until the author makes it: a Heidegger scholar who widens the crossover only with the caution the vault keeps — much of the roster is downstream of Heidegger himself — so his agreement counts as a family quarrel rather than a fresh arrival ([[the convergence's independence fails where three of its names share one teacher]]).
 
 ---
 

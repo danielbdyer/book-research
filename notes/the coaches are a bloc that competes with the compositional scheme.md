@@ -1,8 +1,10 @@
 ---
 description: The five theories of where suffering lives are rival accounts of the territory the book's compound diagnoses cover, so the eleven teachers are collectively an argument against the scheme rather than a network inside it.
-category: claim
+category: tension
+status: live
+treatment: "the five theories enter the ecology as loci, each a way-in, none sovereign, and the compositional scheme stays scaffolding — a candidate filed by the survey, the subsume-or-beat call the author's"
 sources: ["mesh grid: the coaches", "walked IX", "atlas §IX.5", "arc-gloss: ch7"]
-topics: ["[[interlocutors]]", "[[contraction-not-corruption]]"]
+topics: ["[[interlocutors]]", "[[contraction-not-corruption]]", "[[tensions]]"]
 state: full
 ---
 
@@ -23,6 +25,7 @@ The reframing changes what the roster's largest disagreement is about. The corpu
 - Two members break out of the bloc under the sort and are held separately, because their position is not the bloc's. Tony Robbins is the voluntarist pole at full strength ([[the middle voice is only earned against the voluntarist pole at full strength]]), and Thomas Hübl arrived at the book's own account of privation by another road entirely ([[what was never metabolized lives on as absence and hubl reached it through inherited trauma]]).
 - The bloc's shared blind spot is a separate finding and belongs to the book rather than to them.
 
+- **Re-filed as a tension 2026-09-01.** By the vault's own rule a disagreement that would change what the book is — here, whether its diagnostic scheme subsumes the field or is refuted by it — earns a treatment under trial rather than a claim's standing. The survey of the vault's practice-models sharpened the fork: the scheme the five attack is one the book has already demoted to scaffolding ([[the system is scaffolding rather than the centerpiece]]), so "beat them" with it is unavailable, and "subsume them" into the ecology — each theory a locus, a way-in, none sovereign — is the move the ecology already runs ([[the ecology frame transcends and includes the verification frame rather than replacing it]]). The five share one form, "a location plus an instruction," which is what makes them commensurable with each other and incommensurable with a combinatorial account (`ops/practice-model ecology.md`, sections 3 and 7). Whether "the body decides" is an answer or a deferral stays the open question, and the subsume-or-beat call is the author's.
 ---
 
 Relevant Notes:
@@ -35,3 +38,4 @@ Relevant Notes:
 Topics:
 - [[interlocutors]]
 - [[contraction-not-corruption]]
+- [[tensions]]

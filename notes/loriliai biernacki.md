@@ -2,6 +2,7 @@
 description: Biernacki takes Abhinavagupta as a live resource in the consciousness-and-matter debate — proof the crossover is a current scholarly project — while developing it toward theory, leaving the practice lane open.
 category: interlocutor
 seat: reference-lineage
+load: company
 recommendation: "Reference-lineage: the living developer who proves the crossover is current, kept with the observation that her destination is metaphysics — the book's practice-verified lane stays unoccupied even here."
 works: ["The Matter of Wonder: Abhinavagupta's Panentheism and the New Materialism (Oxford, 2023)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
@@ -17,6 +18,8 @@ The refusal kept is hers: her destination is metaphysics — a model for contemp
 Evidence standing (added 2026-08-06). The quotations on this note come from the crossover research's web-verified survey of 2026-08-03 (archive/research — crossover cluster background.md), not from the work's own pages, which remain unread here; the recommendation rests on that survey depth.
 
 Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
+**Load proposal (2026-09-01).** With `company`, proposed by a /verify pass on the twelve chairs the load axis had never been asked of, and the grid's proposal until the author makes it: a walker of the Śaiva crossover seated for reference, distinct from Richard Biernacki, whose method charge the vault records separately; her company widens the convergence's roster rather than arriving at the finding.
 
 ---
 

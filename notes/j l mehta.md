@@ -2,6 +2,7 @@
 description: J. L. Mehta, the founding India–Heidegger scholar, held that the East–West encounter cannot be skipped to — the way to what is closest is the longest way back — which is the road into the valley in mirror image.
 category: interlocutor
 seat: reference-lineage
+load: company
 recommendation: "Reference-lineage: the standing refusal of the shortcut, and the mirror image of the book's road — Mehta walks an Indian reader through the West and home; the book walks a Western reader through the West's own philosopher into the valley."
 works: ["Martin Heidegger: The Way and the Vision (1976)", "Heidegger and Vedanta (essay)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
@@ -17,6 +18,8 @@ The refusal kept is Mehta himself: he is the standing refusal of the shortcut. T
 Evidence standing (added 2026-08-06). The quotations on this note come from the crossover research's web-verified survey of 2026-08-03 (archive/research — crossover cluster background.md), not from the work's own pages, which remain unread here; the recommendation rests on that survey depth.
 
 Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
+**Load proposal (2026-09-01).** With `company`, proposed by a /verify pass on the twelve chairs the load axis had never been asked of, and the grid's proposal until the author makes it: the same standing as Caputo: a walker of the Heidegger–India crossover who is Heidegger's scholar, so his company widens the convergence without testing its independence ([[the convergence's independence fails where three of its names share one teacher]]).
 
 ---
 

@@ -2,6 +2,7 @@
 description: "Rilke holds the corpus's first chapter-patron seat, and his note records what the seat rests on — the torso poem performs the book's event, out of a trained practice of looking — with two verified refusals kept."
 category: interlocutor
 seat: chapter-patron
+load: company
 recommendation: "The seat is corpus-assigned (first in the chapter-patron order); this note records the pointing and the refusals. The artist's-chair finding: recognition-production was his daily craft, not his mystique."
 works: ["Neue Gedichte, anderer Teil (1908)", "Briefe an einen jungen Dichter (pub. 1929)"]
 sources: ["generative pass research, 2026-08-04 (archive/research — generative pass background.md)", "mythic-os: contents", "notes/interlocutors.md roster"]
@@ -17,6 +18,8 @@ The artist's-chair finding is that this was craft, not visitation. The poem open
 Two refusals are kept, both verified this round. He refused analysis in January 1912, and the reason prices every repair-program the book also declines: "wenn man mir meine Teufel austriebe, auch meinen Engeln ein kleiner… Schrecken geschähe" — if my devils were driven out, my angels too would take a small fright (letter to Gebsattel, Jan 1912). The interior is one weather; the dark is not a removable part. And he refused analytic handling of art itself: "Kunst-Werke sind von einer unendlichen Einsamkeit und mit nichts so wenig erreichbar als mit Kritik. Nur Liebe kann sie erfassen" — works of art are of an infinite solitude, reachable least of all by criticism; only love can grasp them (letter 3, 1903). Held whole, the second refusal cautions this book's own use of the torso: a poem conscripted as apparatus is being reached for with exactly the instrument he refused.
 
 Provenance flags, recorded at capture: the circulating English sentence "if my devils are to leave me, my angels will take flight as well" is a paraphrase blending two letters and appears verbatim in neither; the devils-and-angels letter carries a date discrepancy in the sources (14 versus 24 January 1912); verify both against Briefe 1907–1914 before manuscript use.
+
+**Load proposal (2026-09-01).** With `company`, proposed by a /verify pass on the twelve chairs the load axis had never been asked of, and the grid's proposal until the author makes it: a chapter-patron whose refusals are kept — "live the questions now," the dark not a removable part — and who turns a second refusal on the book's own use of him, that works of art are "reachable least of all by criticism"; he seasons no case and stands in the founding convergence's company of refusers.
 
 ---
 

@@ -2,6 +2,7 @@
 description: "Gregory Bateson is an evaluated candidate: his learning levels formalize the book's account of protective structure, and his refusal of conscious purpose is aimed at books like this one."
 category: interlocutor
 seat: reference-lineage
+load: precedent
 clause: "Draft, pending the author's decision: character is learning at the second level, and the reframe is the third — which he says is dangerous."
 recommendation: "Reference-lineage, seated as a counterweight rather than an ally: he supplies the formal ancestry for protective structure that outlives its cause, for the self-sustaining complaint, and for the relational field, and he refuses the designed curriculum that carries them."
 works: ["Steps to an Ecology of Mind", "Mind and Nature: A Necessary Unity"]
@@ -38,6 +39,8 @@ The survey presents Bateson as an ally who happens to be unnamed. In the primary
 The transmission mesh's verdict, folded 2026-08-16: Dig IV judged him load-bearing, since he supplies the distinct-level logic and the soberest boundary-marker, that the felt shift cannot self-certify at the depth of self-dissolution, and it queues a Tier 7 reading (entry 73).
 
 Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
+**Load proposal (2026-09-01).** With `precedent`, proposed by a /verify pass on the twelve chairs the load axis had never been asked of, and the grid's proposal until the author makes it: the double bind is the Racket's "deep ancestor and its exculpation" and the learning levels are the pathogenesis the book's diagnostic lacks; he arrived first at a structure the book uses and would refuse the curriculum built on it ([[the racket is the attractor state with a salary]]).
 
 ---
 

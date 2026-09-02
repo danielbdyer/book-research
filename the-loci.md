@@ -73,10 +73,10 @@ The standpoints the book actually sees from. The well-populated ones first, then
 - **Enters:** Book I entire; the facilitator-disappears arc.
 
 ### 8 · The four-quadrant grid — *a locus that generates loci*
-Not one standpoint but a coverage instrument: **Interior/Individual** (experience, meaning) · **Exterior/Individual** (behaviour, embodiment) · **Interior/Collective** (culture, shared meaning) · **Exterior/Collective** (institutions, technology, civilization). *(2650–2691; XI–XIII 8049)*
+Ken Wilber's AQAL four quadrants, used here as a coverage instrument rather than as an ontology ([[wilber's four quadrants are a coordinate system, not an architecture]]) — not one standpoint but a coverage instrument: **Interior/Individual** (experience, meaning) · **Exterior/Individual** (behaviour, embodiment) · **Interior/Collective** (culture, shared meaning) · **Exterior/Collective** (institutions, technology, civilization). *(2650–2691; XI–XIII 8049)*
 - **Its gift:** run any concern through all four and the blind spot appears. The book's own blind spot, by this test: it over-weights *interior/individual* (felt experience, awareness) and under-weights *exterior/collective* (institutions, technology, civilization). Question 4, asked of the whole book, points here.
 
-<!--cache id=LOC-register crc=896cf7e6 src=the-conversation-catalog.md|reframe-conversation-full-2026-08-13.md|notes/the locus of control is better named the locus of inquiry.md|notes/every locus is potentially revelatory and necessarily partial — partial truths become dangerous mistaken for total truths.md derived=2026-08-21-->
+<!--cache id=LOC-register crc=896cf7e6 src=the-conversation-catalog.md|reframe-conversation-full-2026-08-13.md|notes/the locus of control is better named the locus of inquiry.md|notes/every locus is potentially revelatory and necessarily partial — partial truths become dangerous mistaken for total truths.md derived=2026-09-01-->
 
 ---
 

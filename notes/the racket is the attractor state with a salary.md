@@ -3,6 +3,8 @@ description: The racket carries the fixed complaint paired with its fixed payoff
 category: image
 sources: ['arc-gloss: the image-system', 'arc-gloss: ch6', 'arc-gloss: ch15', 'atlas §IX.3']
 topics: ['[[contraction-not-corruption]]', '[[book-structure]]']
+state: privated
+privation: "the Forum's own mechanism for dissolving a racket is unread; the corpus supplies only the diagnostic question, and the completion and declaration mechanics appear once in a provenance line with no note"
 ---
 
 # the racket is the attractor state with a salary

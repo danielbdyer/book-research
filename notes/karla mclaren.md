@@ -2,6 +2,7 @@
 description: "Karla McLaren holds the emotion-work seat: she treats every emotion as a distinct messenger carrying a gift and a question, and supplies the finding that grief structurally cannot complete alone."
 category: interlocutor
 seat: emotion-work
+load: names-existing-practice
 clause: "Grief is the one emotion that cannot complete alone — it structurally requires witness and ceremony."
 works: ["The Language of Emotions (2010; unread here — the chair rests on the corpus's account)"]
 sources: ["atlas §IX.2", "arc-gloss: the five rooms", "arc-gloss: ch6", "walked IX", "space-around: around the chemistry"]
@@ -25,6 +26,8 @@ The second arrived 2026-08-05 from the founding paper of the book's own verifica
 ## Where she sits in the book
 
 She is seated beside Gendlin at the alphabet unit and the chemistry unit, and the corpus names the mortar between them: both found that naming done in the body shifts what is named, which is also the Kashmir Śaiva mātṛkā doctrine (arc-gloss: ch5; walked IX). She supplies the molecule formulas their interrogative face — each formula can be asked a question rather than only read — and she supplies the difficult messengers, jealousy and envy, to the polarity unit (arc-gloss: ch9).
+
+**Load proposal (2026-09-01).** With `names-existing-practice`, proposed by a /verify pass on the twelve chairs the load axis had never been asked of, and the grid's proposal until the author makes it: channeling is the affective practice the book already runs — "the middle voice for affect," a feeling completing its descent with consent between repression and venting — and grief's need for a witness is the book's own admission that one completion needs another nervous system ([[the affective practice completes a feeling's descent with consent between repression and venting]], [[grief cannot complete alone]]); the book loses the practice's name and its co-patron if she leaves, not its verification standard.
 
 ---
 

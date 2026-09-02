@@ -2,6 +2,7 @@
 description: "Kornfield's interviews establish the shifted promise — awakenings arrive and do not last, and maturation happens in the ordinary life that follows — and he would refuse a book that offers itself as enough."
 category: interlocutor
 seat: reference-lineage
+load: company
 recommendation: "Reference-lineage for the promise: After the Ecstasy, the Laundry is the shifted promise as a title, built from the testimony of teachers rather than argument."
 works: ["After the Ecstasy, the Laundry (2000)", "A Path with Heart (1993)"]
 sources: ["generative pass research, 2026-08-04 (archive/research — generative pass background.md)", "After the Ecstasy, the Laundry, prologue (cited in place)"]
@@ -17,6 +18,8 @@ The refusal worth keeping is aimed at any book that offers itself as enough, thi
 One provenance flag, recorded at capture: both quotes above are verified against the publisher's excerpt and wide reproduction, not against print page numbers — verify pagination before manuscript use.
 
 Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
+**Load proposal (2026-09-01).** With `company`, proposed by a /verify pass on the twelve chairs the load axis had never been asked of, and the grid's proposal until the author makes it: a contemporary teacher seated for reference; the book loses a voice among many, not a construct, if he leaves.
 
 ---
 

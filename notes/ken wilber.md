@@ -21,7 +21,7 @@ The vault has held him as one philosophical name among roughly thirty in the cor
 
 **The state–structure lattice**, built with Allan Combs, holds that states and stages are independent axes and that a state is interpreted according to the structure that receives it. That answers the question the book's whole promise now turns on — why an enormous experience leaves nothing behind ([[an enormous experience is interpreted by the structure it did not change]]).
 
-**Lines of development** — multiple semi-independent capacities maturing at different rates — is the premise the book's title asserts and never argues.
+**Lines of development** — multiple semi-independent capacities maturing at different rates — is the premise the book's title asserts and never argues. *Corrected 2026-09-01:* the executed prose defines the title otherwise — "'Firing on all cylinders' is the felt condition in which all three are functioning and integrated" (abridged ch7), the three loops — so the book's own reading of its idiom is an integration of three functions, a demoted schematic, and not Wilber's parallel lines; whether the idiom also fits his lines is untested, since none of his work has been read here ([[the title's idiom names the integration of the three loops rather than parallel lines of development]]).
 
 **The pre/trans fallacy** is the distinction between pre-rational and trans-rational states, which look alike from outside and are routinely confused. The book has no substitute for it and needs one, because it walks readers toward deliberate destabilization with no way to tell dissolution from regression.
 
