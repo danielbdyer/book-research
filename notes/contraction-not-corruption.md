@@ -15,6 +15,7 @@ Where this concern drains: reading suffering as contraction rather than corrupti
 ## Claims in this map
 
 - [[suffering is contraction never corruption]] — the master doctrine and its lineage
+- [[the book's privative grammar runs four different engines under one word]] — the doctrine's word split four ways, subtractive, contractive, the never-formed gap, and the anti-privation, with the author's own experience in the contractive branch alone
 - [[the transformation field divides into five theories of where suffering lives]] — the contemporary field's five answers to the question this map's doctrine answers, kept in disagreement
 - [[the diagnosis contains the cure]] — the Privation Principle, which the book calls its signature move
 - [[self-facilitation begins from what is happening rather than from what is wrong with the self]] — the doctrine as a starting posture: opening from what is present rather than from what is wrong restates "nothing in you is broken" as the first move of the inward practice, so the self is met rather than corrected

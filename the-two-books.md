@@ -14,7 +14,7 @@ The reframe conversation re-described the single manuscript as two books, and th
 - **The authority burden sorts the evidence.** Book I's authority comes from discernment and synthesis, Book II's from embodied realization — `[[Book I's authority comes from discernment and synthesis; Book II's from embodied realization]]` — which is exactly why the book's two centerpieces divide as they do: the **convergence of thinkers** grounds Book I, the **lived practice and the felt shift** ground Book II.
 - **The civilizational third book is a horizon, not a structure to build** *(settled, gated on the first two being sent)*: `[[the civilizational book is a horizon not a structure to build]]`. Micro and meso are occupied; macro is the bounded ambition.
 
-<!--cache id=TB-structure crc=2e71a1c2 src=the-conversation-catalog.md|ops/scaffold.md|notes/book-structure.md|notes/the two books differ in locus of practice not subject matter.md derived=2026-08-30-->
+<!--cache id=TB-structure crc=996c18dd src=the-conversation-catalog.md|ops/scaffold.md|notes/book-structure.md|notes/the two books differ in locus of practice not subject matter.md derived=2026-09-02-->
 
 ## Book I — facilitating another's participation
 
@@ -64,14 +64,15 @@ The hinge where the mirror folds through itself is `[[the facilitator disappears
 
 ## The joints — the author's to resolve
 
-Four questions this family surfaces and does *not* answer, because they change what the book is:
+Five questions this family surfaces and does *not* answer, because they change what the book is:
 
 - **The spatial figure** *(open 2026-08-16, the author's)*: Book II carries two incompatible spatial imaginations — the walkable House with No Ceiling versus the reframe's centerless, bounded-but-permeable ecology ("a constellation, not a pyramid"). `notes/book-structure.md` records it as the author's to resolve; the family does not pick one.
 - **One spine or two** *(open by design)*: whether the six-phase psychedelic arc and the four-station developmental spine are one structure or two is held open — reconciled by assigning one to each book and by "peak resolves into return," *not* by identifying them. The peak≈participation and return≈stewardship alignments are synthesis, never attested source identity.
 - **The verification organ of Book II**: the felt-shift standard is never author-ratified inside the reframe transcript (it appears only as model-supplied material); the author's own verification language there is the *durability* criterion and the *authorial gate*. Whether felt-shift or durable-perspective is Book II's primary verification organ is unsettled, and the author has separately judged the felt shift underdefended.
 - **The chapter scheme is not asserted.** The provisional schemes (Book I in nine parts, Book II in ten) are self-disavowed — the author rejected the many-chaptered format. Units are named; numbers are not stable; the family references by name.
+- **The solitary form, or the second chair** *(filed 2026-09-02 as a live tension; its treatment a candidate drawn from the author's reflection, its resolution his)*: the book's native genre is a letter read alone, and seven witnesses from unrelated regions — Gurdjieff, al-Qushayrī, Hübl, Buber, Gendlin at fn. 13, Ignatius, Johnstone — hold that a second person is the mechanism rather than a support, while the discrimination reading of the same day found that every guard a reader alone can run declines to evaluate and every discrimination proper routes to another person. Both books sit on it: Book I's reader relation (`[[the second chair is the verification standard's own requirement]]` stands in its attested list above) and Book II's solitary practitioner. The candidate treatment adds no second chair and holds that recognition is already a *with* — `[[the solitary form stands against seven witnesses who hold a second person constitutive]]`, `[[a solitary reader can run every guard that declines to evaluate and none that discriminates]]` — and the family does not pick.
 
-<!--cache id=TB-joints crc=2aedeee9 src=the-conversation-catalog.md|ops/scaffold.md|ops/decisions.md derived=2026-08-30-->
+<!--cache id=TB-joints crc=95ea3bda src=the-conversation-catalog.md|ops/scaffold.md|ops/decisions.md|notes/the solitary form stands against seven witnesses who hold a second person constitutive.md derived=2026-09-02-->
 
 ## How this family grows, and what I watched
 
@@ -80,5 +81,5 @@ Four questions this family surfaces and does *not* answer, because they change w
 - **The disciplines held while building it:** the settled decisions (locus cut, Book I first, the mirror) are marked settled; the candidates (the two dramaturgies, the cell content) are marked candidate; the joints are left to the author; and the convergence-is-company rule keeps the mirror's ten rows a *relation*, not a raw agreement-count re-inflated into proof.
 
 ---
-<!-- baseline notes=509 decisions=121 derived=2026-08-30 -->
-<!--cache id=TB-src crc=ba602dc9 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md|notes/book-structure.md derived=2026-08-30-->
+<!-- baseline notes=516 decisions=121 derived=2026-09-02 -->
+<!--cache id=TB-src crc=35d99b7d src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md|notes/book-structure.md derived=2026-09-02-->

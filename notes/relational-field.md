@@ -26,10 +26,10 @@ The reframe of 2026-08-13 distilled the ground this whole map now rests on. The 
 - [[the gold thread is the rainbow thread re-owned]] — the continuity figure's genealogy: witness internalized, with the sacred role of the original witness honored
 - [[the book can only be auxiliary to a sovereign reader]] — the book's honest relation to its reader, assembled from the letter's grammar, the resonance theory, and the facilitator's craft
 - [[transformation is enacted participation inside a held container]] — the one law reached independently by six lineages, of which this map's claim is the second condition
-- [[karla mclaren]] — the thinker whose grief finding carries this map's strongest case, seated for the address
+- [[karla mclaren]] — the thinker the corpus credits with this map's strongest case, seated for the address; at her text grief can be undertaken alone, and the required witness is the book's
 - [[the field between two people does work]] — the Third Entity claim as that unit makes it
 - [[intimacy is a tether rather than a binding]] — the positive name for a connection that holds without enclosing, which the catalogue otherwise identifies only by its failure
-- [[grief cannot complete alone]] — the strongest case, carried by all four source documents
+- [[grief cannot complete alone]] — the strongest case, carried by all four source documents, now held as the book's doctrine rather than McLaren's finding
 - [[the crisis triage collapses the diagnostic to body holding and contact]] — the crisis reduction whose "do not isolate" makes contact a survival floor, the field at its most load-bearing
 - [[nothing transforms from the audience]] — the law the book's practice lineages agree on unanimously
 - [[the householder axiom depends on the participation law being satisfiable within ordinary life]] — the participation law composed with the householder axiom, with grief as the boundary case and the facilitation-scaled-to-one thesis as the bridge that satisfies it from inside ordinary life
@@ -214,6 +214,8 @@ The transmission digs of 2026-08-13 (the record is the 2026-08-13 entry in `ops/
 
 - [[the fusion of horizons is the strata's strongest account of meaning as an event owned by neither reader nor text]] — Gadamer's precedent for this map's central claim, a meaning that arises between two horizons and is owned by neither, the strongest outside witness the between has.
 - [[the book points at the external check it cannot administer, the finger rather than the moon]] — the author's disposition on the third requirement, that the book points at the external, delayed, other-administered check the field requires and admits it cannot administer it, the finger not the moon (B2, 2026-08-16).
+- [[the solitary form stands against seven witnesses who hold a second person constitutive]] — the tension itself, filed: seven witnesses with nothing else in common hold the second person constitutive, against the letter read alone, with the author's "recognition is already a with" as the candidate treatment
+- [[a solitary reader can run every guard that declines to evaluate and none that discriminates]] — what the second person is for, read at four guards: the restraint a reader can run alone, the discrimination only another person supplies
 
 ## The helper's restraint and the meeting that enlarges the self
 

@@ -15,7 +15,7 @@ The book's spine as the corpus records it: a container built around the reader b
 - **Open edge:** the seventeen trial chapters the atlas counts have not themselves arrived in `sources/`; the reconciliation of the abridged execution against this working structure, chapter by chapter, is the map's standing next expansion (`ops/chapter concordance.md`).
 - **Enters:** the whole walk — front matter and the invitation under Rilke's epigraph, the entry and architecture movements, the interludes at the junctions, the break at the peak, the return's curriculum, and the Open Secret whose last words are "welcome home."
 
-<!--cache id=ARC-journey crc=e59a8dfd src=notes/book-structure.md derived=2026-08-30-->
+<!--cache id=ARC-journey crc=07036f95 src=notes/book-structure.md derived=2026-09-02-->
 
 ## The four overlays — the same arc read four ways at once
 
@@ -25,7 +25,7 @@ The corpus reads one arc simultaneously as four figures, so a single sequence ca
 - **Open edge:** the Arc and the Gloss treatment's four overlays are storyboarded but not extracted whole — the treatment summarizes them and the vault carries only their four added image-system entries (below), so the overlays are named here and await their own reduce pass.
 - **Enters:** the interludes and the pacing; the descent-of-the-word structure that lands the last line as an answerable utterance.
 
-<!--cache id=ARC-overlays crc=e59a8dfd src=notes/book-structure.md derived=2026-08-30-->
+<!--cache id=ARC-overlays crc=07036f95 src=notes/book-structure.md derived=2026-09-02-->
 
 ## The image system — the walkable figures, each an image welded to a concern
 
@@ -37,7 +37,7 @@ The corpus equips the book with paired figures, each equating an image, a concer
 - **Open edge:** the poems' creature register is an image system the corpus dropped — `[[the poems' animals are present company while the corpus's animals are similes]]` records a figure already drafted in the primary layer and not carried into the book.
 - **Enters:** each figure enters the unit it serves; the house and its threshold open the entry movement.
 
-<!--cache id=ARC-images crc=e59a8dfd src=notes/book-structure.md derived=2026-08-30-->
+<!--cache id=ARC-images crc=07036f95 src=notes/book-structure.md derived=2026-09-02-->
 
 ## The apparatus — the devices that keep the object honest
 
@@ -47,19 +47,19 @@ The corpus keeps the book honest with a specific apparatus: inhabited margins th
 - **Open edge:** the transmission digs found the margins' historical originals and their life-cycle hazards (below), which the apparatus inherits; the verso countersignature and the escrow have no convergence note of their own yet.
 - **Enters:** the margins throughout; the interludes at the part-junctions; the checklist as the object's self-test.
 
-<!--cache id=ARC-apparatus crc=e59a8dfd src=notes/book-structure.md derived=2026-08-30-->
+<!--cache id=ARC-apparatus crc=07036f95 src=notes/book-structure.md derived=2026-09-02-->
 
 ## Three drafts of the object, and what it presupposes
 
 Three states of the manuscript are held, each answering this family's question differently, and none treated as the settled scheme (`ops/methodology/source standing.md`). Beside them sit the propositions the object presupposes and the notation it can set down.
 - **Reveals / leaves open:** the scheme has moved at least twice, which is the evidence behind naming units rather than numbering them — a unit's name is stable where its number is not · it leaves open **the peak fork**: whether the central experience is an event concentrated at one peak or a theme distributed across the book, the drafts' sharpest structural disagreement and the author's to settle.
-- **Attested — the three drafts and the reference directive:** `[[the atlas was compiled from the arc and gloss treatment]]` (the provenance relation that makes agreement among three sources count once), `[[the whole arc has already been drafted once in prose]]`, `[[four named units of the arc appear as pages inside the earliest edition's single chapter]]`, `[[the mythic operating system contents hold four territories the arc drops]]`, `[[the earlier contents distribute transcendence where the arc concentrates a peak]]` (the peak fork itself), `[[the prose drafts use the vetoed triad names]]`, `[[the abridged edition compresses the opening poem rather than reproducing it]]`, `[[the executed draft carries the arc's sequence without the treatment's five rooms]]`.
-- **Attested — the notation and what it presupposes:** `[[every discrimination the molecule formulas are credited with is made by the prose beside them]]`, `[[the diagnostic discipline survives the apparatus that carries it]]`, `[[the corpus names the standard its found-not-invented axiom has not met]]`, `[[the book asks only for attention until it has given the reader something to act with]]`, `[[the offered menu is precision that costs dignity or dignity that costs precision]]`, `[[the system is scaffolding rather than the centerpiece]]` (the author's decision on what the book is centrally about), `[[the practice is the expression of realization rather than a means to it]]` (the anti-instrumentality clause constraining every exercise, with its unresolved collision with the book's own promise).
+- **Attested — the three drafts and the reference directive:** `[[the atlas was compiled from the arc and gloss treatment]]` (the provenance relation that makes agreement among three sources count once), `[[the whole arc has already been drafted once in prose]]`, `[[four named units of the arc appear as pages inside the earliest edition's single chapter]]`, `[[the mythic operating system contents hold four territories the arc drops]]`, `[[the earlier contents distribute transcendence where the arc concentrates a peak]]` (the peak fork itself), `[[the prose drafts use the vetoed triad names]]`, `[[the abridged edition compresses the opening poem rather than reproducing it]]`, `[[the executed draft carries the arc's sequence without the treatment's five rooms]]`. The patron assignments are the one element checked so far that the executed draft carries unchanged from the treatment, and the recount of 2026-09-02 added two rows to the concordance: the arc-gloss second edition assigns all sixteen seats — Whyte, Kimmerer, Rumi, Eliot, Tippett, brown, Meadows for the later units — so "the later seats rotating" was the vault's reading rather than the corpus's, and the atlas differs from the treatment at two seats (Lao Tzu against Heraclitus for the Generative Triad; hooks alone against Buber with hooks for the Third Entity), recorded as a difference between two states rather than resolved (`ops/chapter concordance.md`).
+- **Attested — the notation and what it presupposes:** `[[every discrimination the molecule formulas are credited with is made by the prose beside them]]`, `[[the diagnostic discipline survives the apparatus that carries it]]`, `[[the corpus names the standard its found-not-invented axiom has not met]]`, `[[the book asks only for attention until it has given the reader something to act with]]`, `[[the offered menu is precision that costs dignity or dignity that costs precision]]`, `[[the system is scaffolding rather than the centerpiece]]` (the author's decision on what the book is centrally about), `[[the title's idiom names the integration of the three loops rather than parallel lines of development]]` (the title's own definition in the executed prose — "the felt condition in which all three are functioning and integrated," abridged ch7 — which rests on the demoted engine, while Wilber's lines of development, read at his texts on 2026-09-02, are a different construct whose all-lines ideal he denies), `[[the practice is the expression of realization rather than a means to it]]` (the anti-instrumentality clause constraining every exercise, with its unresolved collision with the book's own promise).
 - **Attested — the precedent bench (case history, not doctrine):** `[[the nearest prior attempts are case histories rather than interlocutors]]` (the governing claim, why the bench is held for what became of each object rather than for what each holds), `[[ken wilber]]`, `[[douglas hofstadter]]`, `[[gurdjieff and ouspensky]]`, `[[mihaly csikszentmihalyi]]`, `[[daniel ingram]]` (a guardrail rather than a precedent: the difficult stages after the threshold mapped as expected sequence rather than failure).
 - **Open edge:** the abridged edition's fifteen-chapter execution still wants reconciling against the working structure, chapter by chapter (`ops/chapter concordance.md`); the two overlays not yet extracted whole are the treatment's.
 - **Enters:** the manuscript's own scheme, held provisional; the concordance as the transfer surface that costs one lookup rather than seven readings.
 
-<!--cache id=ARC-drafts crc=161c52aa src=notes/book-structure.md|ops/chapter concordance.md derived=2026-08-30-->
+<!--cache id=ARC-drafts crc=651bfdd1 src=notes/book-structure.md|ops/chapter concordance.md|notes/the title's idiom names the integration of the three loops rather than parallel lines of development.md derived=2026-09-02-->
 
 ## How the material was made — the object's own biography
 
@@ -71,7 +71,7 @@ The provenance reconstructions date the corpus's layers against each other, whic
 - **Open edge:** the poems' full reduce pass through the trailheads in `archive/source — the poems.md` remains, read under the primary standing (offering and provenance, not doctrinal evidence).
 - **Enters:** the front matter's lineage-as-company; the honest origin story that doubles as the reader's invitation.
 
-<!--cache id=ARC-making crc=e59a8dfd src=notes/book-structure.md derived=2026-08-30-->
+<!--cache id=ARC-making crc=07036f95 src=notes/book-structure.md derived=2026-09-02-->
 
 ## The object from the reader's side, and the reader it is built for
 
@@ -80,11 +80,11 @@ The transmission digs read the book's medium — what a text can do to a reader 
 - **Attested — indirect communication (Kierkegaard) and its price:** `[[soren kierkegaard]]`, `[[writing cannot transmit the thing but can build the friction under which it may ignite in a reader who supplies the fire]]`, `[[double reflection withholds the result so the reader must reproduce it in his own existence]]`, `[[pseudonymity blocks deference by assigning each life-view to an invented author who embodies rather than asserts it]]`, `[[writing without authority renounces the teacher's office and with it the power to correct a misreading]]`, `[[deceiving a reader into the truth requires knowing his destination, a warrant a book without authority has renounced]]`, `[[indirect communication is built to isolate the individual, so a participatory book cannot borrow its devices and reverse their purpose]]`, `[[the later wittgenstein treats philosophy as therapy that dissolves confusions rather than a doctrine that advances theses]]`.
 - **Attested — the textual gap and the second person:** `[[iser distinguishes completion from participation as two fates of the textual gap]]`, `[[evocation-then-negation is iser's named mechanism for a reading that re-orients the reader]]`, `[[reading stance is a setting of selective attention rather than a property of the text]]`, `[[the book occupies the second person with a polyphony of devices, none taking the whole register]]`.
 - **Attested — the reader the object is built for, and its design laws:** `[[the book opens from a surplus of insight rather than a lack of it]]`, `[[the book addresses people who overthink because they oversense]]`, `[[the company is joined by the reader rather than consulted]]`, `[[the book's practices are facilitation moves scaled to one reader]]`, `[[the book owes the western reader anchor points into the kashmir shaiva tradition]]`, `[[the entry chapter's instant test for a listening page fails against the fluency evidence]]`, `[[the book is the score not the performance]]`, `[[do not explain the reader out of an encounter]]`, `[[the register's work is to open the reader's encounter rather than to earn appreciation]]`, `[[beauty recruits the wrong posture]]`, `[[the confessions is address to a thou that the reader overhears]]`, `[[alfred north whitehead]]` (the process metaphysics behind the verbs-only grammar), `[[the correspondence vision was chosen and executed as a sent pilot letter]]`, `[[the book is a reference point for a reader already on their way]]`.
-- **Nascent, grounding queued** (the walkable-house and ethics-of-address round of 2026-08-21, thinker-attributions recorded from memory and unverified, primary grounding owed): `[[the house one stays in is inner life made walkable that the art of memory and Bachelard's poetics each named]]`, `[[a bounded sheltering intimacy is the condition under which reverie and the inner image come forward]]`, `[[the threshold is a place one can inhabit rather than only a passage one crosses]]`, `[[inside a drawn boundary what happens may be taken as meaning and a form may be tried before one is bound to it]]`, `[[the reader carries an implicit sense of the whole and each part carries that whole forward]]`, `[[your body already found its way through this terrain and reading is that bodily competence coming to speech]]`, `[[a claim stated crisply enough to be refused is a gift to the reader's sovereignty]]`, `[[the book may interpret only the author because interpretation is licensed where its subject can answer back]]`.
+- **Nascent, grounding queued** (the walkable-house and ethics-of-address round of 2026-08-21, thinker-attributions recorded from memory and unverified, primary grounding owed): `[[the house one stays in is inner life made walkable that the art of memory and Bachelard's poetics each named]]`, `[[a bounded sheltering intimacy is the condition under which reverie and the inner image come forward]]`, `[[the threshold is a place one can inhabit rather than only a passage one crosses]]`, `[[inside a drawn boundary what happens may be taken as meaning and a form may be tried before one is bound to it]]`, `[[a claim stated crisply enough to be refused is a gift to the reader's sovereignty]]`, `[[the book may interpret only the author because interpretation is licensed where its subject can answer back]]`. Grounded since (Gendlin read at *Focusing* and *A Process Model*, 2026-08-28, beside the seated Merleau-Ponty): `[[the reader carries an implicit sense of the whole and each part carries that whole forward]]` and `[[your body already found its way through this terrain and reading is that bodily competence coming to speech]]`, both now `full`.
 - **Open edge:** the transmission tier's primary readings are undone (the margins' life-cycle hazards, the play lineage's crossing verdicts); the ethics-of-address pair bears directly on Book I's still-open grammatical person.
 - **Enters:** the authorial stance the book takes toward its reader; the last line written so it can be answered; the walkable house as the whole-book vehicle.
 
-<!--cache id=ARC-reader crc=e59a8dfd src=notes/book-structure.md derived=2026-08-30-->
+<!--cache id=ARC-reader crc=07036f95 src=notes/book-structure.md derived=2026-09-02-->
 
 ## The joints — the author's to resolve
 
@@ -102,5 +102,5 @@ The two-book re-description of the object is not re-attested here — it is the 
 - **The disciplines held while building it:** the arc is marked stable and the chapter scheme provisional; the drafts are quoted, never credited for what they argue; the peak fork and the spatial figure are left to the author; the nascent walkable-house round is flagged as ungrounded and grounding-owed; and the two-book cut is left to its own family rather than re-inflated here.
 
 ---
-<!-- baseline notes=509 decisions=121 derived=2026-08-30 -->
-<!--cache id=ARC-src crc=77625b93 src=notes/book-structure.md|ops/scaffold.md|the-conversation-catalog.md derived=2026-08-30-->
+<!-- baseline notes=516 decisions=121 derived=2026-09-02 -->
+<!--cache id=ARC-src crc=545d44ad src=notes/book-structure.md|ops/scaffold.md|the-conversation-catalog.md derived=2026-09-02-->

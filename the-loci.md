@@ -4,7 +4,7 @@
 
 ## What a locus is
 
-A locus is a bounded place to see from. Standing in one, some things become visible and others fall dark — and that is not a defect but the condition of seeing anything at all. The book borrows the Kashmir-Śaiva term *saṅkoca* for this contraction of awareness into a standpoint — but reads it as the *condition of seeing* rather than as bondage, which is the book's own re-valuation and a departure from classical Trika (where saṅkoca is predominantly bondage): recorded as a departure, never cited as convergence (`ops/decisions.md`, 2026-08-13). Held on its own relevance — *not* welded to saṅkoca in one circuit, since saṅkoca's own pair is *vikāsa*, expansion, and vimarśa is a distinct element (`ops/decisions.md`, 2026-08-20) — is *vimarśa*, the reflexive awareness of the standpoint one occupies, noticing *"this is where I'm seeing from, and here is what it hides."* So the book's method (read from many standpoints, let none rule) and these terms rhyme, each held for its own reason rather than fused into a single mechanism. That is why the Loci is the first family: it is the layer at which "a lens" stops being a metaphor and becomes the thing the book is actually about.
+A locus is a bounded place to see from. Standing in one, some things become visible and others fall dark — and that is not a defect but the condition of seeing anything at all. The book borrows the Kashmir-Śaiva term *saṅkoca* for this contraction of awareness into a standpoint — but reads it as the *condition of seeing* rather than as bondage, which is the book's own re-valuation and a departure from classical Trika: recorded as a departure, never cited as convergence (`ops/decisions.md`, 2026-08-13). The departure is narrower than it was first recorded, now that the classical side is read at the primary text (Kṣemarāja's Pratyabhijñāhṛdayam sūtras 4–10, 2026-09-02): the tradition supplies the mechanism — the contraction is assumed "through the sovereignty of its free will" (sūtra 7 vṛtti, Singh p. 64), it "consists of *cit* only" (sūtra 4 vṛtti, p. 57), and it is the condition under which a knower and a world appear at all — and it withholds the commendation, still calling the contracted knower "poor in Śakti" (sūtra 9, pp. 72–73); so a standpoint's productiveness *as praise* is the book's own move, and the mechanism beneath it is the tradition's ([[the productive reading of contraction is the book's revaluation rather than the tradition's doctrine]], [[contraction is a productive locus and not only a privation]]). Held on its own relevance — *not* welded to saṅkoca in one circuit, since saṅkoca's own pair is *vikāsa*, expansion, and vimarśa is a distinct element (`ops/decisions.md`, 2026-08-20) — is *vimarśa*, the reflexive awareness of the standpoint one occupies, noticing *"this is where I'm seeing from, and here is what it hides."* One seam stays open under that word: the tradition keeps vimarśa separable from the illumination it reflects on (Utpaladeva's crystal argument, Īśvarapratyabhijñākārikā I.5.11), and the author's own report of recognition — "a Klein bottle of a mirror… no 'which' — one event" — keeps the reflexivity and drops the seam, a live tension read on 2026-09-02 at the three traditions that reach a seamless self-knowing, none of which keeps both terms, the seam-freedom, and the world at once ([[the lived report of recognition drops the seam the tradition's reflexive dyad keeps]]). So the book's method (read from many standpoints, let none rule) and these terms rhyme, each held for its own reason rather than fused into a single mechanism. That is why the Loci is the first family: it is the layer at which "a lens" stops being a metaphor and becomes the thing the book is actually about.
 
 The one law over the whole family: **no locus becomes sovereign.** The moment a standpoint says "now I see how all the others fit," it has stopped being a locus and started colonizing. The polyphony exists to keep that from happening quietly.
 
@@ -22,7 +22,7 @@ These are the Five Great Questions the reframe conversation reached (`the-conver
 
 The fourth question is the one you pointed at, and it is the whole reason this can be a substrate rather than a summary: a summary is finished when written; a frame built around question 4 is never finished, because it always names its own frontier.
 
-<!--cache id=LOC-concept crc=519afc03 src=the-conversation-catalog.md|notes/recognition.md derived=2026-08-24-->
+<!--cache id=LOC-concept crc=8f123aaf src=the-conversation-catalog.md|notes/recognition.md|notes/the productive reading of contraction is the book's revaluation rather than the tradition's doctrine.md|notes/the lived report of recognition drops the seam the tradition's reflexive dyad keeps.md derived=2026-09-02-->
 
 ---
 
@@ -50,13 +50,13 @@ The standpoints the book actually sees from. The well-populated ones first, then
 
 ### 4 · The dialogical locus — *"what becomes possible between us that neither could produce alone?"*
 - **Discloses / hides:** relational emergence; the third entity; meaning arising *between* · hides the individual interior and the solitary reader.
-- **Attested:** `[[martin buber]]`, `[[de jaegher and di paolo]]`; Bohm and Heron & Reason are named but unseated (candidate reads — no note yet); Authentic Relating / Circling. *(1615–1791; root D)*
+- **Attested:** `[[martin buber]]`, `[[de jaegher and di paolo]]`; Bohm is read at *On Dialogue* (2026-08-24) and still without a chair, and Heron & Reason are named but unread; Authentic Relating / Circling. *(1615–1791; root D)*
 - **Open edge:** the group scale (Scharmer's collective presencing, Turner's communitas) sits above the dyad unseated; and the *machine-relational* — human↔AI as a genuine dialogical locus, not merely a tool — is named but not developed.
 - **Enters:** the relational field (Book I's home); "nothing transforms from the audience."
 
 ### 5 · The systemic locus — *"what conditions make this participation more or less possible?"*
 - **Discloses / hides:** incentives, the architecture of attention, institutions, the ecology of conditions · hides felt experience and the person.
-- **Attested:** `[[gregory bateson]]`; Meadows is named but unseated (a candidate read — no note yet); the attention-economy critique; systems thinking. *(5374–5408; XIV 8133)*
+- **Attested:** `[[gregory bateson]]`; Meadows is named but unseated, and the recount of 2026-09-02 found her carrying the book alone while filed as company — two of the sixteen chapter-patron seats, the Molecules chapter's governing disposition ("we cannot control systems, but we can dance with them," walked IV), and the executed draft's defence of its own vocabulary as "a paradigm intervention" (abridged pp. 19–20) — so the systemic standpoint's one named occupant in the corpus has no chair ([[the routing surfaces carry four more names alone than the sort filed as company]]); the attention-economy critique; systems thinking. *(5374–5408; XIV 8133)*
 - **Open edge:** the civilizational-condition theorists — Illich, Borgmann (the "device paradigm"), the platform/algorithm critics — who name how "technology participates in constructing the conditions under which we participate."
 - **Enters:** the "why now" diagnosis; the container anatomy.
 
@@ -69,14 +69,14 @@ The standpoints the book actually sees from. The well-populated ones first, then
 ### 7 · The facilitative locus — *"what can I do without determining what another discovers?"*
 - **Discloses / hides:** the levers a facilitator can touch — attention, pacing, constraint, question, safety — without owning the conclusion · hides the content of what's recognized and the metaphysics.
 - **Attested:** `[[carl rogers]]`, `[[donald winnicott]]`; Grove (Clean Language), Schwarz (Mutual Learning), and Art of Hosting are named but unseated (candidate reads — no note yet); the author's own AR / Circling craft. *(1689–1771; 3586–3634)*
-- **Open edge:** in the vault this seat is *currently unpopulated* — the function is scattered across reference-lineage and coaches with no clean seated set; and Moreno's psychodrama is named-but-unseated beside the seated `[[viola spolin]]`. This is the widest open edge in the register relative to the locus's importance.
+- **Open edge:** in the vault this seat is *currently unpopulated* — the function is scattered across reference-lineage and coaches with no clean seated set; and Moreno, read on 2026-09-02 at *Who Shall Survive?* (1934) and the 1945 group-psychotherapy symposium and still without a chair beside the seated `[[viola spolin]]`, is the ancestor on the enactment rather than on the facilitator — his director "interpolate[s] specific attitudes and behavior patterns" (symposium, pp. 458–59) where the book's container withholds — and he refuses the book's form by name, a book being a "cultural conserve" that "substitutes and preserves man's creative expressions" (1934, Glossary), the sharpest refusal this locus has recovered ([[the facilitated room has several independent roots and improv's distinction is theorizing play as craft]]). This is the widest open edge in the register relative to the locus's importance.
 - **Enters:** Book I entire; the facilitator-disappears arc.
 
 ### 8 · The four-quadrant grid — *a locus that generates loci*
 Ken Wilber's AQAL four quadrants, used here as a coverage instrument rather than as an ontology ([[wilber's four quadrants are a coordinate system, not an architecture]]) — not one standpoint but a coverage instrument: **Interior/Individual** (experience, meaning) · **Exterior/Individual** (behaviour, embodiment) · **Interior/Collective** (culture, shared meaning) · **Exterior/Collective** (institutions, technology, civilization). *(2650–2691; XI–XIII 8049)*
 - **Its gift:** run any concern through all four and the blind spot appears. The book's own blind spot, by this test: it over-weights *interior/individual* (felt experience, awareness) and under-weights *exterior/collective* (institutions, technology, civilization). Question 4, asked of the whole book, points here.
 
-<!--cache id=LOC-register crc=896cf7e6 src=the-conversation-catalog.md|reframe-conversation-full-2026-08-13.md|notes/the locus of control is better named the locus of inquiry.md|notes/every locus is potentially revelatory and necessarily partial — partial truths become dangerous mistaken for total truths.md derived=2026-09-01-->
+<!--cache id=LOC-register crc=006b0b18 src=the-conversation-catalog.md|reframe-conversation-full-2026-08-13.md|notes/the locus of control is better named the locus of inquiry.md|notes/every locus is potentially revelatory and necessarily partial — partial truths become dangerous mistaken for total truths.md|notes/the routing surfaces carry four more names alone than the sort filed as company.md|notes/the facilitated room has several independent roots and improv's distinction is theorizing play as craft.md derived=2026-09-02-->
 
 ---
 
@@ -107,9 +107,11 @@ Run that loop and the direction of flow inverts: instead of the research produci
 
 This is held as a proposal, not a decision. What it would change: the reading queue would take its questions partly *from the loci's open edges*; a note, when minted, would record which locus it attests; and `the-lenses.md` would become the index over a set of growing family-files like this one, rather than a static list. None of that is done — it is what the pivot would mean, so you can weigh it.
 
+The loop has since run end to end at least once, and the way it ran is itself a finding. The thirteen readings of 2026-09-02 closed open edges this file and its siblings carried — Moreno at the facilitative locus, the Henry–vimarśa pairing at the founding convergence, Kṣemarāja on *saṅkoca* under the word this family runs on, and the recount of the routing surfaces the Making had flagged — and the notes came back as members (`ops/reading queue.md`, the Done entry of 2026-09-02). But the questions were drawn from a survey of the vault's own practice-models (`ops/practice-model ecology — candidate next steps.md`) and not from these registers' open edges, so steps 2 through 4 of the loop are proven and step 1, the generator, still ran through `ops/` rather than through the families. The open edges above shrank because the readings happened to land on them, which is the substrate working by coincidence rather than by design.
+
 The part of the mechanism that *is* now built is the checking. This file carries a content-hash receipt for each of its sections (the hidden markers below each block), and `scripts/queries/lens-check.sh` re-computes them to report which sections still rest on unmoved ground and which need re-reading — the same substrate the Axioms family runs on, described in full in `the-axioms.md`. So the register above cannot silently rot: when a source it was read from changes, the section that cited it says so.
 
-<!--cache id=LOC-substrate crc=64ce24b7 src=ops/reading queue.md|ops/clearing.md derived=2026-08-30-->
+<!--cache id=LOC-substrate crc=0ba8076c src=ops/reading queue.md|ops/clearing.md derived=2026-09-02-->
 
 ## What I watched, building this
 
@@ -122,5 +124,5 @@ You asked me to watch what makes sense before we consider a workflow per lens. T
 My recommendation: **stay hands-on for one more family**, watch the output volume, confirm the guards hold — and if they do, the workflow-per-lens becomes the right tool, with the loci's open edges as its brief. The pivot to substrate is the larger decision underneath, and this file is meant to let you feel whether it earns the change.
 
 ---
-<!-- baseline notes=501 decisions=119 derived=2026-08-21 -->
-<!--cache id=LOC-src crc=9e7f2d04 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md derived=2026-08-30-->
+<!-- baseline notes=516 decisions=121 derived=2026-09-02 -->
+<!--cache id=LOC-src crc=7b4a618e src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md derived=2026-09-02-->

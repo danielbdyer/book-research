@@ -146,6 +146,7 @@ The provenance record of 2026-08-02 and after — the accounts of the corpus's m
 - [[the book performs what it describes]] — the governing law, stated by the atlas, the walked document, and the first telling
 - [[reading is remembering]] — the governing law at its smallest and earliest scale: the front-matter promise, kept by the entry movement inducing what the architecture movement then names
 - [[the system is scaffolding rather than the centerpiece]] — the author's decision on what the book is centrally about, and the corpus's own prologue statement of it
+- [[the title's idiom names the integration of the three loops rather than parallel lines of development]] — the title's own definition in the executed prose, all three loops functioning and integrated, a demoted schematic; not Wilber's lines, which he denies as an ideal when read at his texts
 - [[the book is a tuning fork and the reader is the striking surface]] — the self-image installed on page one
 - [[beauty recruits the wrong posture]] — the tension between the prose's quality and the book's purpose
 - [[the register's work is to open the reader's encounter rather than to earn appreciation]] — the affirmative statement of what the register is for, re-nesting the tension above as a feature: the register serves the object's offer by opening the reader's own encounter, and the appreciating posture is that work failing rather than the object's footing

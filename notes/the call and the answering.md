@@ -120,6 +120,7 @@ The generative rounds of 2026-08-20 and 2026-08-21 — a first-principles deriva
 - [[no one can answer from the reader's place so the answer the book asks for is irreplaceably their own]] — the answerable word's demand made irreducible, the reader the one person no author can answer for, so their reply is a genuine addition to the world rather than a repetition
 - [[a sentence built to be answered hands the reader the next move where one built to be believed closes over them]] — the answerable word specified at the scale of a sentence, a declarative seeking assent finishing itself while an answerable sentence leaves a socket where the reader's own next word fits
 - [[the poem is a letter cast toward an addressee it trusts exists so the reader is the over-against it was reaching for]] — the call and the answering traced to the book's headwaters, the poem structurally a letter seeking a reader, so the reader arrives as the correspondent the poem was cast toward before the book had a name
+- [[the solitary form stands against seven witnesses who hold a second person constitutive]] — the counterweight to this section: seven traditions hold that the work cannot be done by one person with a text, against the letter read alone, and the author's answer is that recognition is already a with, so solitude was never alone
 
 ### The honest promise the answerable word permits
 

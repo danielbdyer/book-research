@@ -45,6 +45,7 @@ The corpus preserves, rather than adjudicates, the disagreements among its conte
 - [[the transformation field divides into five theories of where suffering lives]] — the five positions themselves, with each camp's axiom quoted and the three expansions that make eight
 - [[surrender and will are adjudicated from the body rather than from doctrine]] — the sharpest of the forks, whose treatment is the body seated as referee and doctrine recusing itself
 - [[the middle voice is only earned against the voluntarist pole at full strength]] — the condition on that treatment: a resolution is worth what the position it overcomes was worth, and the will pole is the roster's easiest name to condescend to
+- [[the coaches are a bloc that competes with the compositional scheme]] — the eleven teachers re-read as one argument against the compositional scheme, a doctrinal disagreement about whether the scheme subsumes the field or is refuted by it, re-filed from claim to tension
 
 ## The tension the author raised at the company
 
@@ -106,6 +107,13 @@ The adversary chamber of the transmission digs (Dig 6, 2026-08-13; the record is
 The first-principles derivation of 2026-08-20, drawing the book's premises out of the reframe conversation, produced one kept tension. It carries `status: live` with a treatment under trial; the note is nascent, its hospitality pole grounded in the author's own words and biography under the personal-provenance conditions and its refusability pole in the reframe transcript, with the grounding of the whole affirmative-way round still owed.
 
 - [[refusability and hospitality pull against each other and the book's purpose requires both]] — the book owes the reader precision crisp enough to refuse, since a reader keeps authorship only against a graspable edge, and warmth at a love letter's temperature, the "patriotism for oneself" the author traces to a first love's letter, and the two postures cannot be maximized in one sentence. Treatment under trial: a division of labor across units, some passages befriending the reader and others presenting a claim for the reader to refuse, so the two postures alternate through the book rather than fuse in each line.
+
+## The tensions the practice-model survey filed (2026-09-01)
+
+Two arrived from the survey of the vault's own practice-models, both sitting on the author's reflection on recognition, and both restated by the primary readings of 2026-09-02 without being resolved.
+
+- [[the solitary form stands against seven witnesses who hold a second person constitutive]] — seven traditions with nothing else in common hold that the work cannot be done by one person with a text, against the book's letter read alone; the readings narrowed al-Qushayrī's witness to formation and withdrew McLaren's, and the candidate treatment is the author's own "recognition is already a with"
+- [[the lived report of recognition drops the seam the tradition's reflexive dyad keeps]] — Utpaladeva keeps illumination and self-apprehension separable and the author's report gives one event with no seam; read at Henry, Longchenpa, and Śaṅkara, no tradition keeps both terms, the seam-freedom, and the world at once, so the seamlessness with both kept is his own precision
 
 ## The method this map does not supply
 
