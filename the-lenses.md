@@ -46,7 +46,7 @@ The locus entry: one gesture turned two ways.
   - Stewardship — the return (the thinnest cell in the graph, §14 · J2)
   - *its evidence:* the lived practice / the felt shift (→ Lens 4)
 - *settled 2026-08-16:* two books, by locus, Book I first (§5)
-- **Deepened** → `the-two-books.md`: the installed architecture authored from the graph's largest region — the locus-of-practice discriminator, the Four Great Movements diverging at the object of the fourth, the authority burden sorting the two centerpieces, the ten-row Mirror grid held as a relation, and the four joints left to the author — on the checkable cache substrate; the coverage pivot's second harvest (−51 uncovered notes), and the family that names Book II's thinness rather than papering it
+- **Deepened** → `the-two-books.md`: the installed architecture authored from the graph's largest region — the locus-of-practice discriminator, the Four Great Movements diverging at the object of the fourth, the authority burden sorting the two centerpieces, the ten-row Mirror grid held as a relation, and the five joints left to the author — on the checkable cache substrate; the coverage pivot's second harvest (−51 uncovered notes), and the family that names Book II's thinness rather than papering it
 
 ## Lens 3 · The Movements — *"what grows, station by station?"*
 
@@ -212,7 +212,7 @@ One tension — *influence/structure without domination* — worn by six roles, 
 - **The author** — a durable perspective without becoming rigid; **the facilitator** — the more powerful, the more sovereignty matters (F · CXXIX; 13054)
 - **The AI-user** — synthesis without replacing participation; **the system-designer** — structure without foreclosing emergence (F · CXXXII–CXXXIII)
 - **The governing posture** — "a tension to inhabit, not a contradiction to solve" (F · CXXXIV)
-- **Deepened** → `the-paradoxes.md`: all six roles verbatim, the paired Book I/II facilitator mirror, and the frontier of unnamed roles that wear the same knot — on the checkable cache substrate; the one fully works-consulted family, so its frontier is *which of these the author holds*
+- **Deepened** → `the-paradoxes.md`: all six roles verbatim, the paired Book I/II facilitator mirror, and the frontier of unnamed roles that wear the same knot, one of them — the author as participant — now attested in the author's own voice — on the checkable cache substrate; the register itself stays works-consulted, so its frontier is *which of these the author holds*
 
 ## Lens 16 · The Fractal — *"at what scale is the same relation repeating?"*
 
