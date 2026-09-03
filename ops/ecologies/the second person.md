@@ -12,7 +12,7 @@ The instances are scattered across four regions. In the traditions: the shaykh, 
 
 ## The sorting axis
 
-The author's reflection supplies it in three phrases: recognition is "opened-with — not an opened-by, or opened-into"; it is "a level above the disparity of singularly/seminally/individually feeling the recognition, even if I am the only one recognizing"; and the with is "the world companions" (`reflections/on recognition (2026-08-24).md`). Every second person in the collection is measured against those: does this role open, or does it do something to an opening already made? Could this role be carried by a world, a text, or an animal, or does it need a nervous system? Does it require presence at the moment, or presence over a road?
+The author's reflection supplies it in three phrases: recognition is "opened-with — not an opened-by, or opened-into"; it is "a level above the disparity of singularly/seminally/individually feeling the recognition, even if I am the only one recognizing"; and the with is "the world companions" (`reflections/on recognition (2026-08-24).md`; a phrase he selected from wording a session offered him rather than spoke; the reflection's own record of the sounding marks the difference, so this third leg of the axis is weaker than the other two). Every second person in the collection is measured against those: does this role open, or does it do something to an opening already made? Could this role be carried by a world, a text, or an animal, or does it need a nervous system? Does it require presence at the moment, or presence over a road?
 
 ## Provisional families (proposals, not filings)
 
@@ -20,7 +20,7 @@ The readings suggest the roles sort by function rather than by tradition. The fo
 
 ## Empty cells
 
-The vault has no account of a second person who is not human and not a text — the animal, the room, the land — except through Abram and Kimmerer at the frontier and the cats of poem #8. It has no account of the second person's failure modes beyond the witness kept as proof and Johnstone's low-status teacher; the director who persuades, the certifier who certifies wrongly, the enforcer who becomes a coercer are named nowhere. It has no theory of when a role can be handed to the reader's own later self, which is what Ignatius's retrospective rules and Gendlin's referent movement each partly do. And it has no note on Kapleau's answer to the book's own design problem, the printed transcript of a teacher's replies, bounded at "commence."
+The vault has no account of a second person who is not human and not a text — the animal, the room, the land — except through Abram and Kimmerer at the frontier and the cats of poem #8. It has no gathered account of the second person's failure modes, though the survey of 2026-09-03 found that the three this recipe first called unnamed are each named at primary — the director who persuades at Ignatius's Annotation 15, the certifier who certifies wrongly at Yasutani's diamond and the record of falsely certified awakenings, the enforcer who coerces at Deida ch. 50 — so the cell is a gathering gap rather than an evidence gap. It has no theory of when a role can be handed to the reader's own later self, which is what Ignatius's retrospective rules and Gendlin's referent movement each partly do. And it has no note on Kapleau's answer to the book's own design problem, the printed transcript of a teacher's replies, bounded at "commence."
 
 ## Tensions it would consolidate
 
@@ -47,3 +47,7 @@ The four in the index apply. One is sharper here: the survey will find that many
 ## What counts as done
 
 A survey document in `ops/` in the shape of the practice-model survey; the families stated with their instances; the empty cells turned into the four readings above or their replacements; the solitary-form tension's treatment restated in terms of jobs; and the relational-field surface able to say, when it is written, which second person the book supplies and which it does not.
+
+## Run — 2026-09-03
+
+The survey ran on 2026-09-03 as five regional reads and is synthesized at `ops/second person ecology.md`. The hypothesis split: the discrimination half held in every region, and the opening half failed at the receiver, with the source traditions placing the opening in a giver the eight families had no cell for. Four cells were added (the giver, the summoner, the survivor, the arrangement that is not a person), the medium question resolved into three bands by what a page can carry, and the axis gained its third leg, presence at the moment against presence over a road, from the 4am record. The fourteen candidate claims are at `ops/queue/claim candidates.md` (entries 55 onward), the eight readings under the 2026-09-03 heading of `ops/reading queue.md`, the nine soundings in `ops/decision sitting — 2026-09-03.md`, and the treatment of the solitary-form tension is restated in terms of jobs in that note's substantiation, still a candidate.

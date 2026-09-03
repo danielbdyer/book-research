@@ -21,7 +21,7 @@ An audience watches something finished; a correspondent is expected to write bac
 
 Relevant Notes:
 - [[the book's native genre is the letter from a friend read alone]] — the genre this reads structurally, the correspondent's share rather than an audience's
-- [[the correspondence vision was chosen and executed as a sent pilot letter]] — the making that already ran this, a letter sent and answered
+- [[the correspondence vision was chosen and executed as a sent pilot letter]] — the making that already ran the first half of this: the pilot letter is recorded as sent, and no reply to it is recorded anywhere in the vault
 - [[the reader becomes author of what happens in their encounter with the text, not co-author of the text]] — the exact bound this keeps, co-author of the correspondence rather than the sent text
 - [[the book's meaning is completed in the reader's answer so the reply is the writing's final movement]] — the completion this gives its genre, the letter finished in the sending
 

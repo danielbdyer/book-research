@@ -82,7 +82,7 @@ The company entry: the thinkers, held as company, never proof.
 - **Adversaries** — Robbins (will vs. surrender), Adorno (presence-language) (§9, §14)
 - **Chapter-patrons** — 17 thinker→unit→chapter welds, carried unchanged (§9; → Lens 6)
 - *caution:* the convergence is company, never proof; independence fails where names share a teacher (§15)
-- **Deepened** → `the-constellation.md`: the ~60 thinkers and ~60 convergence notes organized by the finding each independently reached (un-forgetting, the participation law, the between, privation, …), with the precedent bench and adversaries held apart and each thinker's disagreement kept — on the checkable cache substrate; the family that drives the coverage pivot hardest (125 notes attested)
+- **Deepened** → `the-constellation.md`: the ~60 thinkers and ~60 convergence notes organized by the finding each independently reached (un-forgetting, the participation law, the between, privation, …), with the precedent bench and adversaries held apart and each thinker's disagreement kept — on the checkable cache substrate; the family that drives the coverage pivot hardest (163 notes attested at the 2026-09-03 census)
 
 ## Lens 6 · The House & the Named Units — *"where does the reader walk?"*
 
@@ -130,7 +130,7 @@ The gravitational entry: everything arranged by proximity to one question.
 
 ## Lens 10 · The Open Questions — *"what is still yours to decide?"*
 
-The decisional entry: the six joints, three of them the author's alone.
+The decisional entry: the seven joints, three of them the author's alone.
 
 - Book I is genuinely unwritten — compose it, don't assemble it (§14 · J1)
 - Book II's return is the thinnest place in the whole graph (§14 · J2)
@@ -138,6 +138,7 @@ The decisional entry: the six joints, three of them the author's alone.
 - The peak — an event, or a theme? (§14 · J4)
 - **[yours]** how much weight does the system carry? (§14 · J5)
 - One spine, or two? (§14 · J6)
+- **[yours]** the solitary form, or the second chair? (§14 · J7; RE-08 in `ops/decision sitting — 2026-09-03.md`)
 
 ---
 

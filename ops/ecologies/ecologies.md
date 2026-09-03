@@ -10,7 +10,7 @@ A recipe file states, in this order: the collection in plain terms; what the vau
 
 ## The nine, in recommended order
 
-1. `ops/ecologies/the second person.md` — the roles a companion plays across the traditions, and which of them a text or a world can carry. First, because the relational-field surface is next in line and this round's readings supplied half its primary data.
+1. `ops/ecologies/the second person.md` — the roles a companion plays across the traditions, and which of them a text or a world can carry. **Run 2026-09-03**: the survey is `ops/second person ecology.md`. First, because the relational-field surface is next in line and this round's readings supplied half its primary data.
 2. `ops/ecologies/the certificates.md` — how each tradition knows something happened. Second, because the sounding on whether the felt shift is the author's standard cannot be put cleanly without it.
 3. `ops/ecologies/the counterfeits.md` — each tradition's near-miss of its own goal, and who catches it. Runs well as one survey with the certificates.
 4. `ops/ecologies/the refusals.md` — what the company refuses the book, sorted by what is refused, and which refusals the book owes an answer.
