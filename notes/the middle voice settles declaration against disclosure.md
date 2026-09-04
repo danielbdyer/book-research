@@ -4,7 +4,7 @@ category: tension
 sources: ["atlas §VI.6 and §IX.3", "walked VI"]
 status: treated
 treatment: "the middle voice, adopted as the book's own writing posture"
-topics: ["[[answerability]]", "[[tensions]]"]
+topics: ["[[the call and the answering]]", "[[tensions]]"]
 ---
 
 # the middle voice settles declaration against disclosure
@@ -28,5 +28,5 @@ Relevant Notes:
 - [[martin heidegger]] — the disclosive pole's chair, seated in this room and supplying the book's central verb from beneath it
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]
 - [[tensions]]

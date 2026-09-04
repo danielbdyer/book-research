@@ -8,7 +8,7 @@ state: nascent
 
 # one person can turn another toward their own light without dimming either
 
-Being helped to recognize yourself does not make you the helper's dependent. The light was already yours; another person only turned you toward it, and a turning takes nothing and adds nothing to the flame — it was going to be your fire either way. The reader gains permission to be genuinely helped without fear of being colonized: love and teaching, at their truest, expand the authorship of the one they reach, because they wake a light rather than lend one. Its use to the writing is to weld the recognition doctrine to the book's love-and-answerability core, answering the master question's hardest word — remaining the author of what you become while changed *by* another — structurally.
+Being helped to recognize yourself does not make you the helper's dependent. The light was already yours; another person only turned you toward it, and a turning takes nothing and adds nothing to the flame — it was going to be your fire either way. The reader gains permission to be genuinely helped without fear of being colonized: love and teaching, at their truest, expand the authorship of the one they reach, because they wake a light rather than lend one. Its use to the writing is to weld the recognition doctrine to the book's core of love and answering, answering the master question's hardest word — remaining the author of what you become while changed *by* another — structurally.
 
 ## Substantiation
 

@@ -2,7 +2,7 @@
 description: "Taking up the activity is the reader's own responsibility and the precondition of their outcomes, since nothing transforms from the audience and the book cannot participate on the reader's behalf."
 category: claim
 sources: ["reframe conversation, 2026-08-13, lines 13590-13604", "author direction, 2026-08-14", "first-telling: the between", "atlas §IX.3"]
-topics: ["[[relational-field]]", "[[answerability]]"]
+topics: ["[[relational-field]]", "[[the call and the answering]]"]
 state: full
 ---
 
@@ -31,4 +31,4 @@ Relevant Notes:
 
 Topics:
 - [[relational-field]]
-- [[answerability]]
+- [[the call and the answering]]

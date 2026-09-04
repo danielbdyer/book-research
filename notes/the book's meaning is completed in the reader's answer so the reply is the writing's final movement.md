@@ -1,9 +1,10 @@
 ---
 description: "The reader is handed the last unwritten line: their response is not applause for a finished object but the closing gesture of the object itself, so the meaning they make in answering is the real one arriving."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Bakhtin: the word 'oriented toward a future answer-word' (Dialogic Imagination, 1981; Speech Genres, 1986)", "Iser (the work realized by the reader, 1978); Gadamer (fusion of horizons, 1960); liturgy (the Amen completes, 1 Cor 14:16)"]
-topics: ["[[answerability]]"]
-state: nascent
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm); Bakhtin pole grounded at the primary texts 2026-08-28 (archive/reading — the answerability triad (austin, bakhtin, levinas).md)", "Bakhtin, 'Discourse in the Novel', p. 280 (Dialogic Imagination): the word 'oriented toward a future answer-word … structures itself in the answer's direction'; 'The Problem of Speech Genres', p. 68: 'the listener becomes the speaker'", "Iser (the work realized by the reader, 1978); Gadamer (fusion of horizons, 1960); liturgy (the Amen completes, 1 Cor 14:16) — companion poles from memory, grounding owed"]
+topics: ["[[the call and the answering]]"]
+state: privated
+privation: "the Bakhtin pole is read at the primary texts (the answer-word at Dialogic Imagination p. 280; 'the listener becomes the speaker' at Speech Genres p. 68); the Iser, Gadamer, and liturgical-Amen poles are still from memory, so the convergence rests on one grounded witness"
 ---
 
 # the book's meaning is completed in the reader's answer so the reply is the writing's final movement
@@ -12,9 +13,9 @@ The reader who finishes this book has not received a finished thing — they hav
 
 ## Substantiation
 
-- Bakhtin: "the word in living conversation is oriented toward a future answer-word; it provokes an answer, anticipates it, and structures itself in the answer's direction" (Dialogic Imagination, 1981), and "for the word there is nothing more frightening than the absence of an answer" (Speech Genres, 1986). Iser: the work has two poles, the artistic (the author's text) and the aesthetic (the reader's realization), and "the work is more than the text, for the text only takes on life when it is realized" (1972; The Act of Reading, 1978). Gadamer: meaning is realized in the "fusion of horizons," so understanding is "always productive" (Truth and Method, 1960). Liturgy: a prayer of thanksgiving is not finished until the assembly answers, "how shall he say the Amen at your giving of thanks?" (1 Cor 14:16).
+- Bakhtin, read at the primary texts: "The word in living conversation is directly, blatantly, oriented toward a future answer-word: it provokes an answer, anticipates it and structures itself in the answer's direction" ("Discourse in the Novel," Dialogic Imagination, p. 280), and "Any understanding is imbued with response and necessarily elicits it in one form or another: the listener becomes the speaker" ("The Problem of Speech Genres," p. 68). The companion poles are still owed: Iser, the work's two poles — the artistic (the author's text) and the aesthetic (the reader's realization), the text taking on life only when realized (The Act of Reading, 1978); Gadamer, meaning realized in the "fusion of horizons," understanding "always productive" (Truth and Method, 1960); liturgy, the thanksgiving unfinished until the assembly answers, "how shall he say the Amen at your giving of thanks?" (1 Cor 14:16) — all three from memory, grounding owed.
 - Refusals kept: Bakhtin refuses finalization (no first or last word); Iser's blanks are text-structured, not free invention; Gadamer refuses this as recovery of authorial intent.
-- Standing: nascent; verify the exact Bakhtin and Iser wording, and confirm the author wants meaning framed as constitutively unfinished rather than merely as inviting response.
+- Standing: privated — the Bakhtin pole read at the primary texts (the record is `archive/reading — the answerability triad (austin, bakhtin, levinas).md`); the Iser, Gadamer, and liturgical-Amen poles owed. Reserved for the author: whether meaning is framed as constitutively unfinished rather than merely as inviting response.
 
 ---
 
@@ -25,4 +26,4 @@ Relevant Notes:
 - [[the book's native genre is the letter from a friend read alone]] — the genre whose completion is its sending, the answer as the writing's final movement
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]

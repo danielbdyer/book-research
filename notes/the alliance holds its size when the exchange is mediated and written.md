@@ -2,7 +2,7 @@
 description: "Across 23 internet-therapy samples the alliance-outcome relation is r = .275, indistinguishable from face-to-face therapy, against the standing expectation that a written mediated exchange would weaken it."
 category: claim
 sources: ["Flückiger, Del Re, Wampold and Horvath 2018, the section 'The Alliance in E-Mental Health' and Table 3 (read 2026-08-07; the reading record is archive/reading — fluckiger, del re, wampold and horvath, the alliance in adult psychotherapy (2018).md)"]
-topics: ["[[relational-field]]", "[[answerability]]"]
+topics: ["[[relational-field]]", "[[the call and the answering]]"]
 ---
 
 # the alliance holds its size when the exchange is mediated and written
@@ -29,4 +29,4 @@ Relevant Notes:
 
 Topics:
 - [[relational-field]]
-- [[answerability]]
+- [[the call and the answering]]

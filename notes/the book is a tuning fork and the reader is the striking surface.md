@@ -2,7 +2,7 @@
 description: The book's page-one image for itself is a tuning fork that stays silent until it is struck, and that image sets the terms for both the book's ending and its publication.
 category: image
 sources: ["atlas §X.5h", "walked X", "first-telling: the honesty"]
-topics: ["[[answerability]]", "[[book-structure]]"]
+topics: ["[[the call and the answering]]", "[[book-structure]]"]
 ---
 
 # the book is a tuning fork and the reader is the striking surface
@@ -27,5 +27,5 @@ Relevant Notes:
 - [[thisness is the grain of the container anatomy]] — the lineage Hopkins's instress belongs to, and the reason the strike is always on a particular reader
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]
 - [[book-structure]]

@@ -2,7 +2,7 @@
 description: "\"Deceiving into the truth\" requires the author to know the reader's destination and steer him there covertly, a warrant a facilitator writing without authority has renounced."
 category: claim
 sources: ["transmission dig 1, 2026-08-13, remainder", "D. Anthony Storm, Commentary on Kierkegaard, on The Point of View [S]"]
-topics: ["[[answerability]]", "[[book-structure]]"]
+topics: ["[[the call and the answering]]", "[[book-structure]]"]
 state: nascent
 ---
 
@@ -22,5 +22,5 @@ Relevant Notes:
 - [[indirect communication is built to isolate the individual, so a participatory book cannot borrow its devices and reverse their purpose]] — the companion non-portability, the direction the devices point
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]
 - [[book-structure]]

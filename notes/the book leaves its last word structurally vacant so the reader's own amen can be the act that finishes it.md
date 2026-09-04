@@ -1,9 +1,10 @@
 ---
 description: "Liturgy keeps the final position empty for the assembly's answer, which completes rather than comments on the prayer; a book whose last line can be answered does in solitude what the Amen does in company."
 category: claim
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "liturgy: the Amen completes the thanksgiving (1 Cor 14:16); the Kaddish needs a minyan's answer", "Bakhtin (the vacant final position is the answer-word's reserved seat); first-principles"]
-topics: ["[[answerability]]"]
-state: nascent
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm); Bakhtin pole grounded at the primary text 2026-08-28 (archive/reading — the answerability triad (austin, bakhtin, levinas).md)", "Bakhtin, 'The Problem of Speech Genres', p. 68: 'the listener becomes the speaker' — the vacant final position is the answer-word's reserved seat", "liturgy: the Amen completes the thanksgiving (1 Cor 14:16); the Kaddish needs a minyan's answer — from memory, grounding owed; first-principles"]
+topics: ["[[the call and the answering]]"]
+state: privated
+privation: "the Bakhtin pole is read at the primary text ('the listener becomes the speaker', Speech Genres p. 68); the liturgical Amen and Kaddish pole (1 Cor 14:16; the minyan) is still from memory, so the architectural device rests on one grounded witness"
 ---
 
 # the book leaves its last word structurally vacant so the reader's own amen can be the act that finishes it
@@ -12,9 +13,9 @@ Liturgy has a device the book seems already to want: the "Amen," the assembly's 
 
 ## Substantiation
 
-- Liturgy: the Amen is the people's ratification without which the giving of thanks is not sealed ("how shall he say the Amen at your giving of thanks?" 1 Cor 14:16); some prayers cannot be completed alone at all, the Kaddish requiring a *minyan* and the congregational answer. Bakhtin: the utterance leaves the next word to the addressee — "the listener becomes the speaker" (Speech Genres, 1986); the vacant final position is the answer-word's reserved seat. First-principles: to "write a last line so that it can be answered" is formally to *not* say the last word — to leave the terminal position open.
+- Bakhtin, read at the primary text: the utterance leaves the next word to the addressee — "Any understanding is imbued with response and necessarily elicits it in one form or another: the listener becomes the speaker" ("The Problem of Speech Genres," p. 68); the vacant final position is the answer-word's reserved seat. The liturgy pole is still owed: the Amen is the people's ratification without which the giving of thanks is not sealed ("how shall he say the Amen at your giving of thanks?" 1 Cor 14:16), and some prayers cannot be completed alone at all, the Kaddish requiring a *minyan* and the congregational answer (from memory, grounding owed). First-principles: to "write a last line so that it can be answered" is formally to *not* say the last word — to leave the terminal position open.
 - Refusal kept, load-bearing: liturgy's Amen is communal, repeated, and public; the book is read alone, once, in private — so the book cannot simply borrow the Amen but must transpose a congregational device into a solitary one, and whether the solitary "amen" carries the same completing force is exactly what is unproven.
-- Standing: a reach; check whether the book's actual last line is built as an open terminal position (which would make this craft evidence rather than analogy), and read it against the poem-as-letter reach, since the "letter answered alone" may be the truer model than the "Amen said together."
+- Standing: privated — the Bakhtin pole read at the primary text (the record is `archive/reading — the answerability triad (austin, bakhtin, levinas).md`); the liturgy pole owed. Still open: whether the book's actual last line is built as an open terminal position (which would make this craft evidence rather than analogy), read against the poem-as-letter reach, since the "letter answered alone" may be the truer model than the "Amen said together."
 
 ---
 
@@ -25,4 +26,4 @@ Relevant Notes:
 - [[a sentence built to be answered hands the reader the next move where one built to be believed closes over them]] — the sentence-level form of the same vacancy, the socket at the book's very end
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]

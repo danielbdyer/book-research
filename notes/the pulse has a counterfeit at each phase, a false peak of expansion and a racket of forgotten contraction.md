@@ -1,7 +1,7 @@
 ---
 description: "The two phases of the pulse each have a failure mode: expansion is counterfeited by the false peak that mimics recognition, and contraction fails by forgetting itself, which is the racket."
 category: claim
-sources: ["first-principles derivation from the engine, 2026-08-20 (reframe conversation, 2026-08-13: the false peak at 284; the racket and the story taken for the world at 176)", "atlas §IX.8a (Nāgārjuna as the guard-rail against counterfeit vikāsa)"]
+sources: ["first-principles derivation from the engine, 2026-08-20 (reframe conversation, 2026-08-13: the false peak at 284; the racket and the story taken for the world at 176)", "atlas §IX.8a (Nāgārjuna as the guard-rail against counterfeit vikāsa), grounded at Mūlamadhyamakakārikā 13.8 and 24.11 (the refusal to reify even emptiness) 2026-08-28 (archive/reading — nāgārjuna, mūlamadhyamakakārikā (c. 150 ce).md)"]
 topics: ["[[felt-shift]]"]
 state: nascent
 ---
@@ -14,7 +14,7 @@ The claim is a first-principles derivation from the engine, held nascent and mar
 
 ## Substantiation
 
-- The false peak, in the author's own voice: "there's sort of like this false peak that I see is very possible as a source difficulty" (reframe conversation, 284). The racket and the story-for-world, also his: a person can "understand that this is a racket, and I'm telling myself. I'm separating out the story from what's actually happening" (176). The tradition's own name for the expansion counterfeit is in the corpus, where Nāgārjuna is seated as "the far shore's own guard-rail against counterfeit vikāsa" (atlas §IX.8a).
+- The false peak, in the author's own voice: "there's sort of like this false peak that I see is very possible as a source difficulty" (reframe conversation, 284). The racket and the story-for-world, also his: a person can "understand that this is a racket, and I'm telling myself. I'm separating out the story from what's actually happening" (176). The tradition's own name for the expansion counterfeit is in the corpus, where Nāgārjuna is seated as "the far shore's own guard-rail against counterfeit vikāsa" (atlas §IX.8a) — and the reading of his Mūlamadhyamakakārikā (2026-08-28) grounds why he guards against it: his refusal to reify, which will not let even emptiness harden into a held thing ("those for whom emptiness is a view have been called incurable," MMK 13.8; a misgrasped emptiness destroys "like a serpent wrongly held," MMK 24.11), is exactly the check against mistaking a reified high — a false peak — for the real.
 - The derivation: a two-phase pulse admits one failure per phase; expansion's failure is a felt intensity without movement, contraction's failure is a narrowing that forgets itself — distinct in kind, which is why one is met by testing whether anything moved and the other by remembering the contraction as a locus. Strength: plausible.
 - Standing: inferred from the engine; the two anchors (284, 176) are the author's own words, the counterfeit-vikāsa term is the corpus's.
 

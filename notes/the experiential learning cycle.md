@@ -8,7 +8,7 @@ clause: "The book's answer to why a peak experience does not hold is the pedagog
 recommendation: "Seat as reference-lineage with the precedent load, and treat this as a reading rather than a citation debt. Unlike Reich or Maslow there is no single term the book has borrowed; what is borrowed is a whole tradition's answer to the book's central question, and the value is that the tradition has been testing that answer in classrooms and workplaces for a century."
 sources: ["abridged ch12", "abridged ch14", "arc-gloss: ch14", "atlas §VII"]
 works: ["John Dewey, Experience and Education (1938)", "David Kolb, Experiential Learning (1984)", "Donald Schön, The Reflective Practitioner (1983), for the near neighbour already seated"]
-topics: ["[[interlocutors]]", "[[answerability]]"]
+topics: ["[[interlocutors]]", "[[the call and the answering]]"]
 ---
 
 # the experiential learning cycle
@@ -47,4 +47,4 @@ Relevant Notes:
 
 Topics:
 - [[interlocutors]]
-- [[answerability]]
+- [[the call and the answering]]

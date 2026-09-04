@@ -1,14 +1,14 @@
 ---
-description: "If the poem is structurally a letter seeking a reader, answerability runs to the book's headwaters: the reader arrives as the correspondent the poem was cast toward before it even had a name."
+description: "If the poem is structurally a letter seeking a reader, the call and the answering reaches the book's headwaters: the reader arrives as the correspondent the poem was cast toward before it even had a name."
 category: claim
 sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Celan: 'a poem can be a message in a bottle… on heartland perhaps' (Bremen Prize speech, 1958); the poem 'intends an Other, needs this Other… speaks toward it' (The Meridian, 1960)"]
-topics: ["[[answerability]]"]
+topics: ["[[the call and the answering]]"]
 state: nascent
 ---
 
 # the poem is a letter cast toward an addressee it trusts exists so the reader is the over-against it was reaching for
 
-Beneath the corpus sit the poems, and the poems come first — so if the poem itself is structurally a letter seeking a reader, then the answerability of the whole edifice runs all the way down to its headwaters. Celan's account gives the reader a startling gift: the poem was already reaching toward *someone*, an addressable "you," an "over-against" it needed, before that someone was known or named — which means the reader does not stumble upon a finished poem but arrives as the very correspondent the poem was cast toward, like a message in a bottle that has finally reached its heartland. What the reader gains is retroactive necessity: they were not incidental to the writing; they were the addressee it trusted would come. Its use to the writing is to extend answerability beneath the corpus to the primary material.
+Beneath the corpus sit the poems, and the poems come first — so if the poem itself is structurally a letter seeking a reader, then the call and the answering reaches all the way down to its headwaters. Celan's account gives the reader a startling gift: the poem was already reaching toward *someone*, an addressable "you," an "over-against" it needed, before that someone was known or named — which means the reader does not stumble upon a finished poem but arrives as the very correspondent the poem was cast toward, like a message in a bottle that has finally reached its heartland. What the reader gains is retroactive necessity: they were not incidental to the writing; they were the addressee it trusted would come. Its use to the writing is to extend the call and the answering beneath the corpus to the primary material.
 
 ## Substantiation
 
@@ -20,9 +20,9 @@ Beneath the corpus sit the poems, and the poems come first — so if the poem it
 
 Relevant Notes:
 - [[the poems end by naming the next act and leaving it undone]] — the answerable structure already found in the poems, the next act left for the reader
-- [[the corpus quotes the author's poems rather than the poems quoting the corpus]] — the direction-of-flow this rides, answerability running down to the headwaters
+- [[the corpus quotes the author's poems rather than the poems quoting the corpus]] — the direction-of-flow this rides, the call and the answering running down to the headwaters
 - [[the book's native genre is the letter from a friend read alone]] — the letter-genre this traces to the primary layer, the poem as a letter to an unknown addressee
 - [[the small hours are the poems' native hour before they were the book's founding scene]] — the lonely, en-route hour of both the poems and the confirmed sighting
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]

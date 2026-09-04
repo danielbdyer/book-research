@@ -1,9 +1,9 @@
 ---
 description: "The book's words do not deposit content; they meet a bodily sense the reader already has and let it take its first shape — the mechanism beneath 'reading is remembering', where remembering is a making, not a lookup."
 category: claim
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Gendlin, Experiencing and the Creation of Meaning (1962); Focusing (1978): the felt sense is 'more' than the formed, and meaning moves by carrying forward; 'the implicit is not hidden explicit content'", "the book's front matter: 'you already know everything in this book… reading is remembering'"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm); Gendlin pole read at the primary texts 2026-08-28 (archive/reading — gendlin, focusing and a process model (1978, 1997).md)", "Gendlin, Experiencing and the Creation of Meaning, Preface (1997): 'No equation is possible between implicit and explicit'; 'no concept … ever equals experiencing, -- but may carry it forward'", "the book's front matter: 'you already know everything in this book… reading is remembering'"]
 topics: ["[[recognition]]"]
-state: nascent
+state: full
 ---
 
 # reading is a carrying-forward that lets the reader's own implicit unfold into form
@@ -12,8 +12,8 @@ The reader gains the discovery that understanding is not something transferred i
 
 ## Substantiation
 
-- Gendlin: a person always has a "felt sense," a bodily knowing that is *more* than what is already in words, and meaning moves by "carrying forward" — symbols interact with the felt sense and carry it forward into the explicit, changing it while being implied by it; "the implicit is not hidden explicit content" (Experiencing and the Creation of Meaning, 1962; Focusing, 1978). The crossover: "already know" and "not hidden explicit content" are the same finding said twice — you have it without having it in words, and words are how you come to have had it.
-- Standing: nascent; the "not hidden explicit content" line is a faithful paraphrase whose exact wording and page a Gendlin reading record would ground.
+- Gendlin, read at the primary texts: a bodily knowing is *more* than what is already in words ("our more intricate experiencing"), and meaning moves by "carrying forward" — symbolizing interacts with the felt experiencing and carries it forward into form, creating rather than retrieving: "When we seem to find what 'was' there, we have actually moved further … No equation is possible between implicit and explicit," so "no concept, rule, or distinction ever equals experiencing, -- but may carry it forward" (Experiencing and the Creation of Meaning, Preface to the Paper Edition, 1997). The crossover: "already know" and "no equation is possible between implicit and explicit" are the same finding said twice — you have it without having it in words, and words are how you come to have had it, a making rather than a lookup.
+- Standing: full — the Gendlin pole read at the primary texts (the record is `archive/reading — gendlin, focusing and a process model (1978, 1997).md`); the note's other half is the book's own front matter. Held honestly: "felt sense" is *Focusing*'s 1978 term, while ECM (1962) names the datum "felt meaning," and the carrying-forward lines are quoted from Gendlin's own 1997 Preface to ECM rather than the 1962 body, which was not reachable in-container.
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 description: "The knowing beneath the words is a bodily 'I can', not a proposition, so when a sentence lands it names a way your body already moves — understanding as homecoming rather than construction."
 category: isomorph
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Merleau-Ponty, Phenomenology of Perception (1945): 'it is the body which understands'; consciousness as 'I can', not 'I think that'; motor intentionality", "Gendlin: the felt sense is bodily, 'before body and mind are split apart'"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm); both poles read at the primary texts (Merleau-Ponty seated 2026-08-10; Gendlin 2026-08-28, archive/reading — gendlin, focusing and a process model (1978, 1997).md)", "Merleau-Ponty, Phenomenology of Perception (1945): 'it is the body which understands'; consciousness as 'I can', not 'I think that'; motor intentionality", "Gendlin, A Process Model (1997), ch. I: 'The body is a non-representational concretion of (with) its environment'; 'Body and environment are one'"]
 topics: ["[[book-structure]]"]
-state: nascent
+state: full
 ---
 
 # your body already found its way through this terrain and reading is that bodily competence coming to speech
@@ -12,9 +12,9 @@ The reader gains the recognition that the knowing they are reaching is not a new
 
 ## Substantiation
 
-- Merleau-Ponty (Phenomenology of Perception, 1945): the lived body understands before reflection — "it is the body which 'understands' in the acquisition of a habit"; consciousness is originally "not an 'I think that' but an 'I can'"; the body is "our general medium for having a world," and motor intentionality means the body intends and grasps its situation through movement, ahead of any concept. Gendlin: the felt sense is bodily before it is mental — "body and mind before they are split apart" — and carrying-forward is the body's implying coming into symbol.
-- Company: Merleau-Ponty gives the pre-reflective bodily "I can," Gendlin the bodily felt sense that carries forward into words.
-- Standing: nascent; the Merleau-Ponty phrases are close to verbatim but vary by translation (Smith vs Landes) and want an edition pinned.
+- Merleau-Ponty (Phenomenology of Perception, 1945): the lived body understands before reflection — "it is the body which 'understands' in the acquisition of a habit"; consciousness is originally "not an 'I think that' but an 'I can'"; the body is "our general medium for having a world," and motor intentionality means the body intends and grasps its situation through movement, ahead of any concept. Gendlin, read at the primary text: the felt knowing is bodily before it is conceptual because body and environment are one process before they differentiate — "The body is a non-representational concretion of (with) its environment," and "they interaffect each other before they are a they" (A Process Model, ch. I) — so carrying-forward is the body's implying coming into symbol.
+- Company: Merleau-Ponty gives the pre-reflective bodily "I can," Gendlin the body–environment process whose felt implying carries forward into words.
+- Standing: full — both poles read at the primary texts (Merleau-Ponty seated 2026-08-10; Gendlin's A Process Model 2026-08-28, the record in `archive/`). Two honesty notes: the Merleau-Ponty phrases vary by translation (Smith vs Landes) and want an edition pinned for the manuscript; and "before body and mind are split apart" was the harvest's gloss — Gendlin's own founding unity is body–environment, not body–mind, so the note is corrected to his wording.
 
 ---
 

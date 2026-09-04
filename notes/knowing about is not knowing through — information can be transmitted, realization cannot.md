@@ -2,7 +2,7 @@
 description: "The reframe conversation separates information, which can be transferred, from realization, which cannot, so a text or facilitator can convey an account of an experience but not the experiencing itself."
 category: claim
 sources: ["reframe conversation, 2026-08-13, line 15320"]
-topics: ["[[recognition]]", "[[answerability]]"]
+topics: ["[[recognition]]", "[[the call and the answering]]"]
 state: nascent
 ---
 
@@ -25,4 +25,4 @@ Relevant Notes:
 
 Topics:
 - [[recognition]]
-- [[answerability]]
+- [[the call and the answering]]

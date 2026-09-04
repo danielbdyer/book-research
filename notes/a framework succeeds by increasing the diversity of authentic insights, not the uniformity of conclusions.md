@@ -2,7 +2,7 @@
 description: "In the reframe conversation the author ratified an axiom of authorship, that a framework succeeds by increasing the diversity of authentic insights rather than the uniformity of conclusions."
 category: claim
 sources: ["reframe conversation, 2026-08-13, line 519"]
-topics: ["[[answerability]]", "[[book-structure]]"]
+topics: ["[[the call and the answering]]", "[[book-structure]]"]
 state: nascent
 ---
 
@@ -24,5 +24,5 @@ Relevant Notes:
 - [[a vocabulary can assist recognition but cannot own it]] — the same refusal of overwriting, stated as a limit on vocabulary rather than on conclusions
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]
 - [[book-structure]]

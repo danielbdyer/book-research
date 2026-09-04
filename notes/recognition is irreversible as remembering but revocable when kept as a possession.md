@@ -2,7 +2,7 @@
 description: "The promise that what is recognized cannot be un-recognized gains a limit from two lineages: a recognition kept as a possession or proof forecloses itself, so only the remembering is irreversible."
 category: claim
 sources: ["forest panel, 2026-08-08 (panel two, relation 7)", "mythic-os: page 4", "Kapleau, The Three Pillars of Zen, Yasutani's introductory lectures (cited in place)", "provenance addendum four §II.3 (consulted, held in provenance/)"]
-topics: ["[[recognition]]", "[[answerability]]"]
+topics: ["[[recognition]]", "[[the call and the answering]]"]
 state: full
 ---
 
@@ -32,4 +32,4 @@ Relevant Notes:
 
 Topics:
 - [[recognition]]
-- [[answerability]]
+- [[the call and the answering]]

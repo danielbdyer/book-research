@@ -2,7 +2,7 @@
 description: By the author's statement the book's address is the relational field rather than a reader, and its first subject is the author himself; usefulness to others is a consequence rather than the aim.
 category: claim
 sources: ["author statement, 2026-08-02", "provenance addendum §4 (consulted, held outside sources/)", "first-telling: how it's built"]
-topics: ["[[relational-field]]", "[[answerability]]"]
+topics: ["[[relational-field]]", "[[the call and the answering]]"]
 state: full
 ---
 
@@ -34,4 +34,4 @@ Relevant Notes:
 
 Topics:
 - [[relational-field]]
-- [[answerability]]
+- [[the call and the answering]]

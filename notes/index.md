@@ -23,7 +23,7 @@ The atlas's closing section (§XII) resolves the book's entire field into six ma
 - [[recognition]] — truth as un-concealment; liberation as the recognition of what never left; holds the origin-story synthesis
 - [[felt-shift]] — the verification standard (a claim counts when it checks out somatically) and the practice curriculum: the basic posture's facets and the twelve forms live here
 - [[relational-field]] — the claim that the between is real and does work that solitude cannot; holds the book's relation to its reader
-- [[answerability]] — the publication concern: a spoken word can be answered; an unspoken one only perfected
+- [[the call and the answering]] — the publication concern: a spoken word can be answered; an unspoken one only perfected
 - [[contraction-not-corruption]] — suffering understood as contracted fullness rather than damage; carries the formula material, which is scaffolding
 - [[container-anatomy]] — the Wall/Door/Floor account of what every container is made of; gathers the system vocabulary, which is scaffolding
 

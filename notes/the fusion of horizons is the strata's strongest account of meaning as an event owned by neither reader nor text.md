@@ -2,7 +2,7 @@
 description: Gadamer holds that a text's horizon and a reader's fore-understanding fuse into a meaning owned by neither party, the strata's strongest precedent for the book's claim that a third thing arises between two participants.
 category: isomorph
 sources: ["transmission dig 2, 2026-08-13 (Play reconstruction)", "Gadamer, Truth and Method (1960), Pt II.II, via SEP/IEP [S]"]
-topics: ["[[relational-field]]", "[[answerability]]"]
+topics: ["[[relational-field]]", "[[the call and the answering]]"]
 state: nascent
 ---
 
@@ -26,4 +26,4 @@ Relevant Notes:
 
 Topics:
 - [[relational-field]]
-- [[answerability]]
+- [[the call and the answering]]

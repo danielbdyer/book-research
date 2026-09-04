@@ -2,7 +2,7 @@
 description: "The Sacred Risk of Staying Awake states the cost the recognition promise implies and no other source names: what the reader remembers becomes unavailable to forget, so the reading is irreversible."
 category: claim
 sources: ["mythic-os: page 4", "atlas §I", "walked I"]
-topics: ["[[recognition]]", "[[answerability]]"]
+topics: ["[[recognition]]", "[[the call and the answering]]"]
 ---
 
 # what is recognized cannot be un-recognized
@@ -20,7 +20,7 @@ The consequence for the book is a matter of consent rather than of tone. A work 
 - The corresponding passages in the other documents are one-sided. The front-matter promise recorded at [[reading is remembering]] states what the reader will gain; the executed draft's reading contract asks for slowness and for the practices to be done and warns only that confusion is information (abridged: how to read this book). Neither states a cost.
 - The etymological ground is already in the corpus and supports the claim without stating it. *Aletheia* is constructed as un-forgetting, and Lethe is the river of forgetting (abridged: prologue; atlas §I). A structure named for the undoing of forgetting has no second undoing available.
 - The claim appears in no descriptive source: one attestation, in the earliest draft.
-- This promise collides with the book's reader-premise, and the collision has been stated nowhere. The book addresses, among others, a reader whose big experience "didn't hold" ([[an enormous experience is interpreted by the structure it did not change]]), while this note promises that what reading remembers cannot be unremembered. Side by side they force a question — was the big experience a recognition? — and the vault already holds the answer without connecting it: the lost breakthrough was a state, interpreted by a structure it did not change and therefore not retained, whereas recognition is a station, built rather than visited ([[state and station were distinguished a millennium before the lattice named them]]). A state descends and does not hold; a station, once earned, is the irreversible thing, so the promise and the premise do not contradict — they distinguish what held from what did not by the same distinction the book already uses as its bypass guard (forest panel, 2026-08-08).
+- This promise collides with the book's reader-premise, and the collision has been stated nowhere. The book addresses, among others, a reader whose big experience "didn't hold" ([[an enormous experience is interpreted by the structure it did not change]]), while this note promises that what reading remembers cannot be unremembered. Side by side they force a question — was the big experience a recognition? — and the vault already holds the answer without connecting it: the lost breakthrough was a state, interpreted by a structure it did not change and therefore not retained, whereas recognition is a station, built rather than visited ([[state and station were distinguished a millennium before the lattice named them]]). A state descends and does not hold; a station, once earned, is the irreversible thing, so the promise and the premise do not contradict — they distinguish what held from what did not by the same distinction the book already uses as its bypass guard (forest panel, 2026-08-08). At al-Qushayrī's own text the dissolution needs only the non-transfer rule, which he states verbatim — "the possessor of a state can be taken up out of his state [at any moment]" (Knysh 2007, p. 78) — while "recognition is a station" is the book's assignment rather than his: a state that endures becomes stability, *tamkīn*, a state made "part of his persona" (p. 79), and the one item he traces across the boundary travels the other way, earned first and given later (p. 206).
 
 ---
 
@@ -34,4 +34,4 @@ Relevant Notes:
 
 Topics:
 - [[recognition]]
-- [[answerability]]
+- [[the call and the answering]]

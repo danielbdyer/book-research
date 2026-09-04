@@ -2,7 +2,7 @@
 description: "Because recognition is cultivated not caused and the book cannot verify the reader, promising transformation asserts the causation and verification the book renounces; conditional testimony is its only honest promise."
 category: structure
 sources: ["first-principles derivation, 2026-08-20 (from the reframe conversation, 2026-08-13: recognition cultivated not caused at 311; the book cannot verify the reader at 266; the facilitator's honest claim \"I helped create a field in which something became possible\" at 16028)"]
-topics: ["[[answerability]]"]
+topics: ["[[the call and the answering]]"]
 state: nascent
 ---
 
@@ -10,7 +10,7 @@ state: nascent
 
 The book holds that recognition is cultivated rather than caused, and that it cannot verify whether a reader has done the work. A sentence of the form "this book will change you" asserts exactly the two things those commitments give up: the causal power the doctrine denies, and the verification the trust renounces. What the book may honestly say instead is conditional testimony — these conditions have reliably preceded recognition in my own experience, and I can neither cause nor confirm yours. The constraint is not a matter of tone; it binds every framing sentence, every jacket line, every foreword, and it rules out one specific move a transformation book is tempted toward: importing a reader's testimonial *as proof of efficacy*, which re-asserts the renounced verification through someone else's mouth.
 
-The claim is a first-principles derivation from the conversation's premises, held nascent and marked as inference. What the book keeps in place of proof is correspondence — answers to a letter — which is relationship rather than evidence, and which the answerability concern already carries.
+The claim is a first-principles derivation from the conversation's premises, held nascent and marked as inference. What the book keeps in place of proof is correspondence — answers to a letter — which is relationship rather than evidence, and which the call and the answering already carries.
 
 ## Substantiation
 
@@ -27,4 +27,4 @@ Relevant Notes:
 - [[the author is the book's first audience member and that is where the promise starts]] — the narrowed promise that fits inside this constraint, aimed first at the author rather than asserted over the reader
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]

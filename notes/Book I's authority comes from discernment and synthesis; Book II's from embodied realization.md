@@ -2,7 +2,7 @@
 description: "The two books carry different authorial burdens: Book I proves discernment and synthesis across traditions for facilitators, while Book II proves that the author has actually lived the questions it poses."
 category: claim
 sources: ["reframe conversation, 2026-08-13 (the books' different authorial responsibilities)"]
-topics: ["[[book-structure]]", "[[answerability]]"]
+topics: ["[[book-structure]]", "[[the call and the answering]]"]
 state: nascent
 ---
 
@@ -26,4 +26,4 @@ Relevant Notes:
 
 Topics:
 - [[book-structure]]
-- [[answerability]]
+- [[the call and the answering]]

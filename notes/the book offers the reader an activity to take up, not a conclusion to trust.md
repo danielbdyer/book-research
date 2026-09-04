@@ -2,7 +2,7 @@
 description: "The book offers the reader an activity — conditions for discovering what is theirs to recognize — rather than a conclusion the author holds and the reader trusts, so no author holds a sovereign position."
 category: claim
 sources: ["reframe conversation, 2026-08-13, line 5598", "reframe conversation, 2026-08-13, lines 5581-5585", "atlas §XI.1a"]
-topics: ["[[relational-field]]", "[[answerability]]"]
+topics: ["[[relational-field]]", "[[the call and the answering]]"]
 state: full
 ---
 
@@ -30,4 +30,4 @@ Relevant Notes:
 
 Topics:
 - [[relational-field]]
-- [[answerability]]
+- [[the call and the answering]]

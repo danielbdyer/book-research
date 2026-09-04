@@ -1,9 +1,10 @@
 ---
 description: The reframe conversation reads the source tradition's five principles as one circuit from illumination to recognition, offered as a resonant grammar and not a literal one-to-one mapping.
 category: structure
-sources: ["reframe conversation, 2026-08-13 (transcript lines 2163, 7005)"]
+sources: ["reframe conversation, 2026-08-13 (transcript lines 2163, 7005)", "the five operators read individually at the primary texts 2026-08-28 (archive/reading — the kashmir śaiva loci (spanda, śiva sūtra, pratyabhijñāhṛdaya, ipk).md): prakāśa/vimarśa (Utpaladeva IPK I.5.11, I.5.13), spanda (Spanda Kārikā I.1 with Kṣemarāja), saṅkoca (Pratyabhijñāhṛdayam sūtras 5, 9), pratyabhijñā (IPK IV.1.17)"]
 topics: ["[[recognition]]"]
-state: nascent
+state: privated
+privation: "the five operators are each read at the primary texts, so the terms the circuit is built from are grounded; the assembly itself — this five-term ordering into one loop — is the reframe conversation's own resonant grammar rather than a circuit the tradition states (the tradition's own five-fold circuit is a different five, the pañcakṛtya of Pratyabhijñāhṛdayam sūtras 10–11), and is held as a candidate under the no-sovereign-scheme rule"
 ---
 
 # the kashmir shaiva tradition's five principles assemble into one circuit
@@ -17,7 +18,7 @@ The circuit is offered as a resonance, not an identity. The conversation states 
 - reframe conversation, 2026-08-13 (transcript line 7005), the master pattern and its two spellings: "Constraint → Locus → Encounter → Recognition → Reflexivity → Integration → New Locus," and in the tradition's own terms, "Saṅkoca → Encounter → Vimarśa → Recognition → Participation → Renewal." The two spellings differ, which is why the note states the circuit as a grammar rather than a fixed sequence.
 - reframe conversation, 2026-08-13 (transcript line 7015), the explicit qualification: "Not as a claim that the Sanskrit concepts literally map one-to-one onto the whole model. Rather: ... as a resonant generative grammar."
 - reframe conversation, 2026-08-13 (transcript line 2163), the two operators the circuit turns on, drawn from the conversation's cited source: "Spanda gives a complementary experiential vocabulary of dynamic pulsation or vibration, while Pratyabhijñā emphasizes recognition."
-- The operators are already seated separately in the vault's recognition material — prakāśa at [[the open center is made possible by the three structures and identical with none of them]], vimarśa at [[the recognition school installs wonder at the definition of consciousness]], pratyabhijñā at [[aletheia and pratyabhijna converge on truth as un-forgetting]] — so the novelty this note records is the assembly, not the terms.
+- The operators are already seated separately in the vault's recognition material — prakāśa at [[the open center is made possible by the three structures and identical with none of them]], vimarśa at [[the recognition school installs wonder at the definition of consciousness]], pratyabhijñā at [[aletheia and pratyabhijna converge on truth as un-forgetting]] — and each is now read at the primary Sanskrit (prakāśa/vimarśa at Īśvarapratyabhijñākārikā I.5.11 and I.5.13; spanda at Spanda Kārikā I.1 with Kṣemarāja; saṅkoca at Pratyabhijñāhṛdayam sūtras 5 and 9; pratyabhijñā at IPK IV.1.17; the record is `archive/reading — the kashmir śaiva loci (spanda, śiva sūtra, pratyabhijñāhṛdaya, ipk).md`), so the terms are grounded and the novelty this note records is the assembly, not the terms. The tradition does have its own five-fold circuit — the *pañcakṛtya*, the five acts of Pratyabhijñāhṛdayam sūtras 10–11 (manifesting, relishing, experiencing-as-self, seed-settling, dissolution) — but that is a different five, which is why this circuit is kept as the reframe's resonant grammar and not attributed to the tradition.
 
 ---
 

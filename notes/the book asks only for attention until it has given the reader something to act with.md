@@ -2,7 +2,7 @@
 description: The book asks the reader only to notice what is already present until the practice curriculum begins, and assigns a task only at the two praxis units, so an instruction never borrows authority the arc has not yet earned.
 category: practice
 sources: ["abridged ch13", "abridged ch14", "arc-gloss: part v", "atlas §XI.1b"]
-topics: ["[[felt-shift]]", "[[answerability]]"]
+topics: ["[[felt-shift]]", "[[the call and the answering]]"]
 ---
 
 # the book asks only for attention until it has given the reader something to act with
@@ -25,4 +25,4 @@ Relevant Notes:
 
 Topics:
 - [[felt-shift]]
-- [[answerability]]
+- [[the call and the answering]]

@@ -8,7 +8,7 @@ clause: "A blank the reader cannot resolve into a consistent world-picture turns
 recommendation: "Seat as thesis-bearing; the participation gap is the strata's most exact page-native mechanism for a reading that changes the reader, and 'we do not know what happens to us' is the honest boundary the felt-shift standard must answer. The Act of Reading is queued in ops/reading queue.md to test whether the 1978 taxonomy adds the verification the 1972 essay withholds."
 sources: ["transmission dig 2, 2026-08-13", "Wolfgang Iser, 'The Reading Process: A Phenomenological Approach' (New Literary History, 1972), pp. 284–296 [P]"]
 works: ["'The Reading Process: A Phenomenological Approach' (1972)", "The Act of Reading: A Theory of Aesthetic Response (1978)", "The Implied Reader (1974)"]
-topics: ["[[interlocutors]]", "[[answerability]]"]
+topics: ["[[interlocutors]]", "[[the call and the answering]]"]
 ---
 
 # wolfgang iser
@@ -56,4 +56,4 @@ Relevant Notes:
 
 Topics:
 - [[interlocutors]]
-- [[answerability]]
+- [[the call and the answering]]

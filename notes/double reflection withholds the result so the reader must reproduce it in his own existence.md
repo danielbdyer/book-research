@@ -2,7 +2,7 @@
 description: "Kierkegaard's Climacus builds the form of a communication to withhold its result, so the receiver must reproduce it inwardly rather than take it over as a conclusion, which makes the success invisible to the author."
 category: claim
 sources: ["transmission dig 1, 2026-08-13, F3 and D2", "Stanford Encyclopedia of Philosophy, \"Søren Kierkegaard\" [S]", "Turnbull, \"Kierkegaard, Indirect Communication, and Ambiguity,\" Heythrop Journal 50 (2009) [S]"]
-topics: ["[[answerability]]", "[[book-structure]]"]
+topics: ["[[the call and the answering]]", "[[book-structure]]"]
 state: nascent
 ---
 
@@ -22,5 +22,5 @@ Relevant Notes:
 - [[pseudonymity blocks deference by assigning each life-view to an invented author who embodies rather than asserts it]] — the sibling device in the same authorship
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]
 - [[book-structure]]

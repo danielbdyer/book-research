@@ -21,7 +21,7 @@ Of the names on the precedent bench, this is the closest structural ancestor —
 
 What the case supplies is the outcome. The grid's summary: it is "the clearest record of how such a thing acquires authority dynamics its founder did not intend" (`mesh grid: tier 0`). Gurdjieff's own relation to his pupils became the subject of the movement's history rather than a footnote to it, Ouspensky broke with him, and the successor groups reproduced the dynamic in forms no one designed.
 
-That bears on a question already open here. The book cannot currently distinguish a reader in dissolution from a reader in regression, and the Fourth Way is a documented case of a system that induced destabilization deliberately, had a teacher present to read it, and still produced casualties. A book has no teacher present at all.
+That bears on a question already open here. The book cannot currently distinguish a reader in dissolution from a reader in regression, and the Fourth Way is a documented case of a system that induced destabilization deliberately, had a teacher present to read it, and still produced casualties. A book has no teacher present at all. The distinction is not merely undrawn in the book: on the only clinical authority the vault holds at primary it is not drawable from the first person at all — students "may mistake subjective feelings of emptiness for 'śūnyatā' or voidness; and the experience of not feeling inwardly cohesive or integrated for anattā or selflessness" (Engler 1984, p. 39) — and Engler adds that the tradition's own teachers cannot draw it either (p. 38) ([[a solitary reader can run every guard that declines to evaluate and none that discriminates]]).
 
 ## What they would refuse
 

@@ -2,7 +2,7 @@
 description: "In the conversation the author's experience is cast as a musical score rather than the performance, so every reader becomes their own interpreter — an example to interpret, not a conclusion to reproduce."
 category: image
 sources: ["reframe conversation, 2026-08-13 (transcript line 481, the score exchange)", "reframe conversation, 2026-08-13 (transcript line 501)"]
-topics: ["[[answerability]]", "[[book-structure]]"]
+topics: ["[[the call and the answering]]", "[[book-structure]]"]
 state: nascent
 ---
 
@@ -29,5 +29,5 @@ Relevant Notes:
 - [[nothing becomes part of the author's philosophy merely because the AI said it]] — the provenance caution under which this model-articulated figure is held as a candidate
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]
 - [[book-structure]]

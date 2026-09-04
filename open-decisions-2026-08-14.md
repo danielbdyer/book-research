@@ -96,7 +96,7 @@ Whether to re-word the YAML itself to state the re-grounding — a load-bearing 
 
 ## D. The pilot reconciliation (surfaced 2026-08-14 in the pre-commit scan)
 
-The vault's *content* still frames the pilot as **unsent** — `notes/tensions.md`, `notes/answerability.md`, `notes/seventeen chapters rest at madhyama.md`, and `notes/the reframe conversation is itself a candidate perfectible room.md`. Since it's sent and you've moved on, those want reconciling; resolving a tension is your act, so I'll draft it on your word rather than rewrite them.
+The vault's *content* still frames the pilot as **unsent** — `notes/tensions.md`, `notes/the call and the answering.md`, `notes/seventeen chapters rest at madhyama.md`, and `notes/the reframe conversation is itself a candidate perfectible room.md`. Since it's sent and you've moved on, those want reconciling; resolving a tension is your act, so I'll draft it on your word rather than rewrite them.
 **Answer:** yes, fully reconcile, this was long long ago now in terms of the book research repo history.
 
 ---

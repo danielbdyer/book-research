@@ -2,6 +2,7 @@
 description: Isabelle Ratié's study of self and other in the Pratyabhijñā is the scholarly warrant that the recognition system was built in live argument — the tradition earned its positions polemically and can argue back.
 category: interlocutor
 seat: reference-lineage
+load: company
 recommendation: "Reference-lineage: her work supplies the valley's chair with its scholarly ground — the tradition argues — and her philologist's caution polices how its concepts are lifted."
 works: ["Le Soi et l'Autre: Identité, différence et altérité dans la philosophie de la Pratyabhijñā (Brill, 2011)", "the later piece on the Īśvarapratyabhijñākārikā's purpose — the treatise as itself an upāya (flagged in the crossover archive, title not yet located)"]
 sources: ["crossover research, 2026-08-03 (archive/research — crossover cluster background.md)"]
@@ -17,6 +18,8 @@ The refusal kept is the philologist's: the system's concepts were forged against
 Evidence standing (added 2026-08-06). Every quotation on this note is the survey's or the crossover archive's — nothing here quotes Ratié's own pages. The crossover research verified her bibliography at web depth on 2026-08-03 (archive/research — crossover cluster background.md); *Le Soi et l'Autre* is unread in this vault, and her later piece on the Īśvarapratyabhijñākārikā's purpose — the treatise as itself an upāya, the work the malas-mapping question in `ops/reading queue.md` reaches for — is flagged in that archive and not yet located. The recommendation rests on web-verified survey depth, not on a reading.
 
 Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
+**Load proposal (2026-09-01).** With `company`, proposed by a /verify pass on the twelve chairs the load axis had never been asked of, and the grid's proposal until the author makes it: the Pratyabhijñā scholar whose editions and studies ground the Śaiva pole's reading; she supplies the tradition's words rather than an arrival of her own, and the pole is read at its primary texts with her as a guide.
 
 ---
 

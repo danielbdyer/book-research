@@ -1,10 +1,10 @@
 ---
-description: "Lewin founded action research on the principle that a system is understood by intervening in it, invented the T-group, and gave social science the word field — three of the book's own commitments, from one absent name."
+description: "Lewin founded action research on the principle that a system is understood by intervening in it, catalyzed the T-group, and gave social science the word field — three of the book's own commitments, from one absent name."
 category: interlocutor
 seat: reference-lineage
 load: precedent
 discipline: social-theory
-clause: "The participation law's scientific form is his: you learn what a system is by changing it, and the group that studies itself was his invention."
+clause: "The participation law's scientific form is his: you learn what a system is by changing it, and the group that studies itself began in his 1946 workshop."
 recommendation: "Seat as reference-lineage with the precedent load. He is the weakest of the provenance finds on any single construct and the strongest on the pattern, because three separate parts of the book trace to him and because he is the missing half of the genealogy the corpus draws only through Austin."
 sources: ["atlas §VI", "atlas §IX.8a", "walked IX", "space-around: around the between"]
 works: ["\"Action Research and Minority Problems\" (Journal of Social Issues, 1946)", "Field Theory in Social Science (1951)", "Resolving Social Conflicts (1948)"]
@@ -25,14 +25,25 @@ Three of Lewin's inventions sit under this book and none of them is named in it.
 
 **The load, and why he is weaker than the others in this group.** With `precedent`. His claim is epistemological — you learn by intervening — where the book's is transformational: you do not change by watching. Those are adjacent rather than identical, and no single construct of his maps onto a book construct the way character armor maps onto the fold. What makes him worth a chair anyway is breadth: three separate parts of the book trace to him, and he is the named head of the est lineage's other half.
 
-**Neither half of one of these correspondences is quoted, which is worse than the others.** The book's side is described rather than quoted here, and the dictum on Lewin's side is one the note itself marks as "usually attributed to him" rather than located. Nothing of Lewin's has been read in this vault. The addresses are the 1946 *Journal of Social Issues* paper for action research and *Field Theory in Social Science* for the person-and-environment function. This chair is the least evidenced of the group and should be read before it is used for anything.
+**One half of this correspondence is now quoted; the other is still described.** The book's side is described rather than quoted here, and the dictum on Lewin's side is one the note marks as "usually attributed to him" rather than located. But the 1946 *Journal of Social Issues* paper has now been read at the primary text (see below), so action research is no longer unevidenced in this vault. *Field Theory in Social Science*, the address for the person-and-environment function, is still owed. This chair was the least evidenced of the group; the 1946 reading is its first primary anchor.
 
-## What the reading has to settle
+## What the primary reading settled (2026-08-30)
 
-Three questions, in the order that decides the most.
+The 1946 paper is now read at the primary text (record: `archive/reading — the facilitated room's roots (lewin 1946, johnstone's impro).md`), which answers the first of the three questions the seating left open and corrects one overstatement.
 
-- Whether the change-through-intervention claim is about knowledge or about change in Lewin's own words, which decides whether he is a precedent or an independent arrival at the participation law.
-- Whether the unfreeze–change–refreeze model bears on the book's plasticity-window material or is a later simplification of him.
+**He is a precedent, not an independent arrival at the participation law.** Lewin's own claim in the paper is epistemological and methodological — action research is how a practitioner produces usable social knowledge by intervening, watching the effect, and revising — not the transformational claim that a person is changed by their own participation. "Research that produces nothing but books will not suffice" (p. 35) states the intervening-to-know stance; it does not say the intervener is themselves remade. The change-through-intervention principle is real and his, but it sits one register away from the book's law, which confirms the `precedent` load rather than promoting him to the independent arrivals.
+
+**The dictum stays a paraphrase.** "If you want truly to understand something, try to change it" was not found verbatim in the 1946 paper; it is the compressed form the literature attributes to him, and the note keeps it marked as attributed rather than located.
+
+**The T-group began in his workshop but was not finished by him.** The 1946 New Britain workshop is where the discovery happened, in his own words: the participants' evening review of the group's recorded dynamics had a "tremendous pedagogical effect which these evaluation meetings ... had on the training process" (p. 41). But Lewin died in February 1947, and his associates — Bradford, Lippitt, Benne — formalized the training group and founded the National Training Laboratories afterward. "The group that studies itself was his invention" overstates it; he convened and documented the seed, and others grew the method. The chair's clause and description are corrected to "began in his 1946 workshop" and "catalyzed the T-group."
+
+**The Erhard→Lewin genealogy is one shared channel, not two arrivals.** est descends to Lewin through a single line — the T-group to the encounter movement to Erhard Seminars Training — so Erhard and Lewin are not two independent arrivals at the participation law but one lineage with Lewin at its head. This keeps the participation law's outside witnesses at five, not six ([[transformation is enacted participation inside a held container]]).
+
+## What the reading still has to settle
+
+Two questions remain open, both needing a text this reading did not cover:
+
+- Whether the unfreeze–change–refreeze model bears on the book's plasticity-window material or is a later simplification of him (*Field Theory in Social Science*).
 - Whether the T-group's own documented harms belong with the adverse-effects reading already queued.
 
 Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).

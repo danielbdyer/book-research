@@ -2,7 +2,7 @@
 description: "The reframe conversation holds that a vocabulary can assist a person's recognition but cannot own it, so no one earns authority over another's meaning by possessing a better vocabulary."
 category: claim
 sources: ["reframe conversation, 2026-08-13, line 6911"]
-topics: ["[[recognition]]", "[[answerability]]"]
+topics: ["[[recognition]]", "[[the call and the answering]]"]
 state: nascent
 ---
 
@@ -23,4 +23,4 @@ Relevant Notes:
 
 Topics:
 - [[recognition]]
-- [[answerability]]
+- [[the call and the answering]]

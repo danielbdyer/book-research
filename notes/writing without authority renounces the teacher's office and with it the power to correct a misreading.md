@@ -2,7 +2,7 @@
 description: "Kierkegaard renounces the office of apostle or teacher and writes \"without authority\" as poet and witness, blocking the reader's option to defer but forfeiting the author's power to correct a misreading."
 category: claim
 sources: ["transmission dig 1, 2026-08-13, D5", "D. Anthony Storm, Commentary on Kierkegaard, on The Point of View [S]"]
-topics: ["[[answerability]]", "[[book-structure]]"]
+topics: ["[[the call and the answering]]", "[[book-structure]]"]
 state: nascent
 ---
 
@@ -23,5 +23,5 @@ Relevant Notes:
 - [[deceiving a reader into the truth requires knowing his destination, a warrant a book without authority has renounced]] — the tension a renounced authority creates with maieutic deception, since a covert destination is an authority kept back
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]
 - [[book-structure]]

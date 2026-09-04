@@ -2,6 +2,7 @@
 description: Internal Family Systems is an evaluated candidate — the correspondences hold, the executed draft already borrows its vocabulary for the identity loop, and its evidence base is far thinner than its influence.
 category: interlocutor
 seat: reference-lineage
+load: names-existing-practice
 recommendation: "Reference-lineage; but the seat is the smaller half of the finding, because the executed draft already uses Schwartz's vocabulary in the identity-loop material without stating a position, so the work this evaluation identifies is a positioning passage in the text rather than a chair."
 clause: "Draft, pending the author's decision: the clinical near-twin the book is already speaking, and has not yet located itself against."
 works: ["Internal Family Systems Therapy (Schwartz)", "No Bad Parts (Schwartz)"]
@@ -32,6 +33,8 @@ The counterweight is evidential rather than doctrinal, and the numbers are speci
 This bears on how the model can be named accurately. Citing IFS points at a vocabulary and a practice ethic that many readers already speak; it does not point at a settled clinical result, and a citation that reads as though it does would be saying more than the literature says. The distinction matters for pointing rather than for argument: Schwartz's finding about protectors is a clinician's observation offered in a clinician's terms, and naming it as that is both accurate and enough.
 
 Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
+**Load proposal (2026-09-01).** With `names-existing-practice`, proposed by a /verify pass on the twelve chairs the load axis had never been asked of, and the grid's proposal until the author makes it: the book already speaks the dialect — managers, firefighters, exiles, the eight Cs — and states Schwartz's finding as its own medicine in the executed draft, so what it owes him is a positioning passage rather than a construct; the protector met with a bow is the gatekeeper ([[the gatekeeper is met with a bow never a fight]]).
 
 ---
 

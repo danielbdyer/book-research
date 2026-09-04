@@ -1,9 +1,9 @@
 ---
 description: "The via-positiva face of 'no alibi in being': the reader is non-substitutable, the one thing no author can do is answer from the exact place they occupy, so their reply is a genuine addition to the world."
 category: claim
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Bakhtin: 'there is no alibi in being'; 'that which can be accomplished by me can never be accomplished by anyone else' (Toward a Philosophy of the Act; 'Art and Answerability', 1919)", "Levinas: 'no one can substitute himself for me who substitutes myself for all' (Otherwise than Being, 1974)"]
-topics: ["[[answerability]]"]
-state: nascent
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm); grounded at the primary texts 2026-08-28 (archive/reading — the answerability triad (austin, bakhtin, levinas).md)", "Bakhtin, Toward a Philosophy of the Act, p. 40 (Liapunov trans.): 'non-alibi in Being'; 'That which can be done by me can never be done by anyone else'", "Levinas, Otherwise than Being, pp. 59, 117 (Lingis trans.): 'someone for whom no one else can substitute himself'; 'The non-interchangeable par excellence, the I, the unique one, substitutes itself for others'"]
+topics: ["[[the call and the answering]]"]
+state: full
 ---
 
 # no one can answer from the reader's place so the answer the book asks for is irreplaceably their own
@@ -12,9 +12,10 @@ This is the via-positiva turn of Bakhtin's hardest sentence: "there is no alibi 
 
 ## Substantiation
 
-- Bakhtin: "there is no alibi in being" (*ne-alibi v bytii*), and "that which can be accomplished by me can never be accomplished by anyone else" (Toward a Philosophy of the Act, c. 1919–21); responsibility (*otvetstvennost'*) and answerability share the root *otvet*, answer; "art and life… must become united in myself — in the unity of my answerability" ("Art and Answerability," 1919). Levinas: the self is "the one who cannot slip away," elected and non-interchangeable — "no one can substitute himself for me who substitutes myself for all" (Otherwise than Being, 1974).
-- Refusals kept: Bakhtin's non-alibi is an obligation before it is a comfort — the affirmative reading must not launder away that it also *binds*; Levinas's election is asymmetric and heavy. Keep the weight; the gain is dignity, not ease.
-- Standing: nascent; verify the two Bakhtin quotations and confirm the author wants irreplaceability foregrounded rather than universality.
+- Bakhtin, at the primary text: the binding term is "non-alibi in Being" (Liapunov's hyphenated form; Russian *ne-alibi v bytii*), and "That which can be done by me can never be done by anyone else … I occupy a place in once-occurrent Being that is unique and never-repeatable, a place that cannot be taken by anyone else" (*Toward a Philosophy of the Act*, p. 40). Responsibility (*otvetstvennost'*) and answerability share the root *otvet*, answer: "Art and life are not one, but they must become united in myself—in the unity of my answerability" ("Art and Answerability," p. 2).
+- Levinas, at the primary text: the self is elected and non-interchangeable — "someone for whom no one else can substitute himself" (*Otherwise than Being*, p. 59), "The non-interchangeable par excellence, the I, the unique one, substitutes itself for others" (p. 117), marked by "this impossibility of slipping away and being replaced … here I am" (p. 145).
+- Refusals kept: Bakhtin's non-alibi is an obligation before it is a comfort — the affirmative reading must not launder away that it also *binds* ("I can abdicate from my obligative (ought-to-be) uniqueness," p. 42); Levinas's election is asymmetric and heavy, "the more just I am, the more guilty I am" (p. 112). Keep the weight; the gain is dignity, not ease.
+- Standing: full — both witnesses read at the primary texts (the record is `archive/reading — the answerability triad (austin, bakhtin, levinas).md`). Reserved for the author alone: whether irreplaceability is foregrounded rather than universality.
 
 ---
 
@@ -25,4 +26,4 @@ Relevant Notes:
 - [[the book's native genre is the letter from a friend read alone]] — the letter as the genre of the singular addressee whose answer no one else can give
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]

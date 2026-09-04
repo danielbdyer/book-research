@@ -8,9 +8,9 @@ The prose draft written from this brief is `drafts/draft — the verification st
 
 ## The finding that reorganises this section
 
-The vault holds a claim that has shaped how this concern was understood: the verification standard "rests on one name and cannot be defended by company." Every other claim the book's argument depends on is held up by independent arrivals, and this one is Gendlin's alone. The counterpoint round of 2026-08-06 added that nobody ever looked for company — "No item anywhere on its search map requests an independent arrival at the felt-shift standard, so the claim the book's argument most depends on is left a lineage position by the grid's own definition."
+The vault holds a claim that has shaped how this concern was understood: the verification standard "rests on one name and cannot be defended by company." Every other claim the book's argument depends on is held up by independent arrivals, and this one is Gendlin's alone. The counterpoint round of 2026-08-06 added that nobody ever looked for company — other thinkers who reached the same finding independently, held as company rather than proof — "No item anywhere on its search map requests an independent arrival at the felt-shift standard, so the claim the book's argument most depends on is left a lineage position by the grid's own definition."
 
-The sweep found company. It is filed on other maps, it was never counted, and — this is the part that reorganises the section — **it agrees with the standard's critics rather than with the standard's current form.**
+The sweep found company. It is filed on other maps — the topic maps, each gathering the claims of one concern — it was never counted, and — this is the part that reorganises the section — **it agrees with the standard's critics rather than with the standard's current form.**
 
 Four traditions answer the question *how does a person know disclosure has happened*, and not one of them answers with an in-the-moment solitary somatic signal.
 
@@ -87,7 +87,7 @@ Fluency: statements in easier-to-read contrast are judged true above chance on p
 
 **The source's own guards, which are teachable instructions rather than assertions.** "If you get a quick answer without a shift in the felt sense, just let that kind of answer go by." "Make sure the quality is sensed again, freshly, vividly (not just remembered from before)." "check in with its felt edge, a number of times during the rest of the day, and perhaps for several days." And the doubt held with an instruction rather than dismissed: "'Is this real? Maybe I'm fooling myself.'… They may be right, but they have to wait." *The vault's own sentence:* "the book does not need to invent its defenses against its own fluency; it needs to transmit its source's existing ones."
 
-**The second person**, which is where the opening section's four-tradition convergence lands. Gendlin's fn. 13 above; the corpus's own statement of the difficulty, "the book's deepest claim concerns the relational field, yet the reading experience is solitary" (atlas §XI.1d); and both attackers' feedback diagnosis. *The caution to keep:* neither attacker proposes a second person as a remedy, and the inference to the Second Chair is the vault's own.
+**The second person**, which is where the opening section's four-tradition convergence lands. Gendlin's fn. 13 above; the corpus's own statement of the difficulty, "the book's deepest claim concerns the relational field, yet the reading experience is solitary" (atlas §XI.1d); and both attackers' feedback diagnosis. *The caution to keep:* neither attacker proposes a second person as a remedy, and the inference to the Second Chair — the vault's phrase for the person beside the reader, a second person present — is the vault's own.
 
 **The repair the opponent named.** "Perhaps the right kind of learning, practice, or care could largely shield us from error — an interesting possibility that merits exploration! — but I see as yet no robust scientific support for such hopes" (2008, p. 259). Dated 2008.
 

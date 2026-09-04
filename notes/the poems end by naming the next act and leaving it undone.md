@@ -2,7 +2,7 @@
 description: "Four poems end by naming an act and leaving it unperformed — the goodbye never said, the address broken off at a dash — so the ending the book designs to be answerable was already the author's own habit."
 category: claim
 sources: ["poems #6", "poems #11", "poems #14", "poems #16"]
-topics: ["[[answerability]]", "[[book-structure]]"]
+topics: ["[[the call and the answering]]", "[[book-structure]]"]
 ---
 
 # the poems end by naming the next act and leaving it undone
@@ -24,5 +24,5 @@ Relevant Notes:
 - [[ripeness is not refrigeration]] — the corpus's rule that preserving finished work intact never ripens it, so readiness that is never released has become storage, a rule these endings show the author keeping before the book stated it
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]
 - [[book-structure]]

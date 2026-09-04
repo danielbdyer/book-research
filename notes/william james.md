@@ -2,9 +2,10 @@
 description: "William James is the authorial stance's ancestor — reports held as observations, value judged by fruits — and his transiency mark names the book's promise in 1902; his refusal is kept: fruits, not feelings, verify."
 category: interlocutor
 seat: reference-lineage
+load: precedent
 recommendation: "Reference-lineage as the stance's ancestor: the two-judgments method and the authority verdict are the book's posture with a century of standing; the fruits test is kept whole as a counterweight to the felt shift."
-works: ["The Varieties of Religious Experience (1902)"]
-sources: ["generative pass research, 2026-08-04 (archive/research — generative pass background.md)", "Varieties, lectures I and XVI–XVII (cited in place)"]
+works: ["The Varieties of Religious Experience (1902)", "The Principles of Psychology (1890)"]
+sources: ["generative pass research, 2026-08-04 (archive/research — generative pass background.md)", "Varieties, lectures I and XVI–XVII (cited in place)", "The Principles of Psychology, I:221 and I:254–259, read at the primary text (archive/reading — james, the principles of psychology (1890).md)"]
 topics: ["[[interlocutors]]", "[[research-frontier]]"]
 ---
 
@@ -16,7 +17,11 @@ Two of his findings bear directly. His four marks of the mystical state include 
 
 The refusal worth keeping is his test itself: James verifies by fruits, and the felt shift is a root. His test for what an experience is worth looks at the life that follows it — conduct, character, what the experience made — never at the feeling's intensity or its bodily signature. Held whole, this refuses the book's verification standard as sufficient: a shift in the sternum is root-side evidence, and James would ask what fruit it bore by spring. The book's own promise ("it didn't hold") concedes his point, which is what makes the refusal company rather than damage.
 
+A second work is now read at the primary text, and it seats James in the felt-shift concern as well as the stance. *The Principles of Psychology* (1890) draws the distinction the implicit-knowing notes turn on: "There are two kinds of knowledge broadly and practically distinguishable: we may call them respectively knowledge of acquaintance and knowledge-about" (I:221) — acquaintance a knowing had *through* contact and unable to be conveyed in words ("I cannot impart acquaintance with them to any one who has not already made it himself"), against the propositional knowing accumulated *about* a thing. James footnotes the distinction to John Grote (*Exploratio Philosophica*, 1865), so it is his self-flagged debt rather than his coinage. And "The Stream of Thought" names the felt penumbra the felt-sense notes lean on: every image "steeped and dyed in the free water that flows round it," consciousness "constituted of feelings of tendency, often so vague that we are unable to name them at all," a "psychic overtone, suffusion, or fringe" (I:254–258). One bound the reading fixed: James ranks acquaintance the *barer* knowing, not the richer one (I:259), so he grounds knowing-*through* as a distinct kind of knowing, and the "know more than you can tell" surplus stays Polanyi's phrasing rather than his.
+
 Seated 2026-08-16 by the author's acceptance of the standing recommendations (ops/decisions.md, the seatings row).
+
+**Load proposal (2026-09-01).** With `precedent`, proposed by a /verify pass on the twelve chairs the load axis had never been asked of, and the grid's proposal until the author makes it: the acquaintance/knowledge-about distinction and the felt fringe, read at the primary text, are the phenomenology the felt shift's certificate was later built on; the book's verification standard has a nineteenth-century precedent it does not name, and James footnotes the distinction as John Grote's.
 
 ---
 

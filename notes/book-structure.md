@@ -67,6 +67,7 @@ The working structure recorded above is the atlas's, and the seventeen trial cha
 
 A small set of people have already attempted a synthesis of this shape and delivered it to practitioners, and the lineage sort of 2026-08-05 found that the seat taxonomy had no cell for what they supply. Their value to this map is what became of the object each of them made, which is evidence about this book's form rather than about its doctrine.
 
+- [[the nearest prior attempts are case histories rather than interlocutors]] — the claim behind this whole bench: the five below are held for what became of the object each made rather than for what each holds, because a taxonomy that sorts thinkers by contribution has no cell for a relevance that is an outcome.
 - [[ken wilber]] — the nearest thing to this book that exists, and the fullest record of what becomes of one.
 - [[douglas hofstadter]] — the bench's one good outcome, reached by refusing to hand the reader a usable framework at all.
 - [[gurdjieff and ouspensky]] — the closest structural ancestor, and the clearest record of authority dynamics its founder did not design.
@@ -79,6 +80,7 @@ Five findings from the same round bear on the book as a made thing rather than o
 
 - [[the fullness of the first person is the road to selflessness rather than its obstacle]] — the route the closing page enacts, restoring the first person rather than dissolving it.
 - [[the practice is the expression of realization rather than a means to it]] — the anti-instrumentality clause constraining every exercise in the curriculum, and its unresolved collision with the book's own promise.
+- [[a book cannot supply the basic trust a reader who never had a reliable other lacks]] — a hazard the object carries by construction, added from the transmission dig's reading of Winnicott (2026-08-13): the design brief the book draws from the capacity to be alone holds only for readers who arrive already able to be held, so the page cannot install the developmental precondition it assumes.
 
 ## The reframe conversation's re-description of the book (2026-08-13)
 
@@ -144,6 +146,7 @@ The provenance record of 2026-08-02 and after — the accounts of the corpus's m
 - [[the book performs what it describes]] — the governing law, stated by the atlas, the walked document, and the first telling
 - [[reading is remembering]] — the governing law at its smallest and earliest scale: the front-matter promise, kept by the entry movement inducing what the architecture movement then names
 - [[the system is scaffolding rather than the centerpiece]] — the author's decision on what the book is centrally about, and the corpus's own prologue statement of it
+- [[the title's idiom names the integration of the three loops rather than parallel lines of development]] — the title's own definition in the executed prose, all three loops functioning and integrated, a demoted schematic; not Wilber's lines, which he denies as an ideal when read at his texts
 - [[the book is a tuning fork and the reader is the striking surface]] — the self-image installed on page one
 - [[beauty recruits the wrong posture]] — the tension between the prose's quality and the book's purpose
 - [[the register's work is to open the reader's encounter rather than to earn appreciation]] — the affirmative statement of what the register is for, re-nesting the tension above as a feature: the register serves the object's offer by opening the reader's own encounter, and the appreciating posture is that work failing rather than the object's footing

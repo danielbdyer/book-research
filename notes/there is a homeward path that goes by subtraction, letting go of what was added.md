@@ -1,9 +1,10 @@
 ---
 description: "Not all growth is accumulation; because the essential thing is already present, the work can proceed by removal — dropping the added and superimposed until what was there before the additions stands clear."
 category: claim
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Daoism: 'in learning, daily addition; in the Dao, daily subtraction' (DDJ 48); the uncarved block (ch. 28); 'returning is the movement of the Dao' (ch. 40)", "Eckhart's Abgeschiedenheit (via negativa); Advaita removing the superimposed (adhyāsa)"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm)", "Laozi, Daodejing ch. 48 (learning adds, the Dao subtracts), ch. 28 (the uncarved block, pu), ch. 40 (returning), read at the primary text 2026-08-30 (archive/reading — laozi, daodejing (the wu-wei, ziran, and subtraction chapters).md)", "Eckhart's Abgeschiedenheit and Gelassenheit (via negativa) — a locus owed; Advaita removing the superimposed (adhyāsa), read at [[advaita reaches the uncovering move through neti neti and an ever-attained freedom]]"]
 topics: ["[[recognition]]"]
-state: nascent
+state: privated
+privation: "the Daoist pole (Daodejing 48, 28, 40) is read at the primary text and the Advaita pole is read in its sibling note; Eckhart's Abgeschiedenheit and Gelassenheit still want a page-level locus"
 ---
 
 # there is a homeward path that goes by subtraction, letting go of what was added
@@ -12,9 +13,10 @@ Not all growth is accumulation. This gives the reader a second direction of trav
 
 ## Substantiation
 
-- Daoism: "in the pursuit of learning, every day something is added; in the pursuit of the Dao, every day something is dropped" (DDJ 48); the aim to "return to the uncarved block" (*pu*, ch. 28); "returning is the movement of the Dao" (ch. 40). Eckhart: *Abgeschiedenheit* (detachment) and *Gelassenheit* (releasement), a via negativa — subtract to arrive. Advaita supplies the ontology: liberation removes the superimposed, it does not add. All attributed, to verify.
+- Laozi, read at the primary text: "in the pursuit of learning one knows more every day; in the pursuit of the way one does less every day. One does less and less until one does nothing at all" (Daodejing ch. 48, Lau; 為學日益，為道日損), the aim being to "return to the uncarved block" (*pu*, ch. 28; Waley renders *pu* "the Uncarved Block") and "turning back is how the way moves" (ch. 40, Lau; 反者道之動). The subtractive path is the tradition's own, stated in its own terms.
+- Eckhart supplies the Christian arrival, still owed a locus: *Abgeschiedenheit* (detachment) and *Gelassenheit* (releasement), a via negativa that subtracts to arrive — reached with no contact with Daoism, so a genuine second witness rather than a lineage. (This is unlike Heidegger's later Gelassenheit, which inherits from Eckhart and Daoism both — [[heidegger's letting and way descend from daoism so pairing him with laozi is lineage not convergence]] — whereas Eckhart's own detachment is an independent apophatic arrival.) Advaita supplies the ontology, read at [[advaita reaches the uncovering move through neti neti and an ever-attained freedom]]: liberation removes the superimposed (*adhyāsa*), it does not add.
 - Refusal kept: the traditions disagree on what remains after the subtraction — the nameless Dao and spontaneous *ziran* for Daoism, the uncreated ground one with God for Eckhart, the Self as Brahman for Advaita. Same subtractive *method*, different *homes*; do not merge the destinations to make the method look unanimous.
-- Standing: nascent; the DDJ chapters are firm, the Eckhart terms want a locus.
+- Standing: privated — the Daoist pole (DDJ 48, 28, 40) read at the primary text and the Advaita pole read; Eckhart's *Abgeschiedenheit* / *Gelassenheit* still wants a page-level locus.
 
 ---
 

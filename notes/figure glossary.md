@@ -14,9 +14,9 @@ The corpus speaks in figures; the vault's reference surface speaks in concerns. 
 | the whole field | [[index]] — the entire graph | atlas title |
 | a gravitational well; a mass | a major topic map, or a claim that many others depend on | atlas §0 |
 | an orbit | membership in a topic map (the `topics:` field) | atlas §XII |
-| the six wells | the six doctrine maps: [[recognition]], [[contraction-not-corruption]], [[felt-shift]], [[container-anatomy]], [[relational-field]], [[answerability]] | atlas §XII |
+| the six wells | the six doctrine maps: [[recognition]], [[contraction-not-corruption]], [[felt-shift]], [[container-anatomy]], [[relational-field]], [[the call and the answering]] | atlas §XII |
 | the deepest well | [[recognition]] and the master process beneath it | atlas §I |
-| vaikharī; the answerable word | [[answerability]] | atlas §VI |
+| vaikharī; the answerable word | [[the call and the answering]] | atlas §VI |
 | the between; the Third; the witness | [[relational-field]] | atlas §VIII |
 | the Triad; Wall, Door, Floor | [[container-anatomy]] | atlas §II |
 | the guild; the lineage | [[interlocutors]] | atlas §IX |

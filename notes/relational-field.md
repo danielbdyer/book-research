@@ -26,10 +26,10 @@ The reframe of 2026-08-13 distilled the ground this whole map now rests on. The 
 - [[the gold thread is the rainbow thread re-owned]] — the continuity figure's genealogy: witness internalized, with the sacred role of the original witness honored
 - [[the book can only be auxiliary to a sovereign reader]] — the book's honest relation to its reader, assembled from the letter's grammar, the resonance theory, and the facilitator's craft
 - [[transformation is enacted participation inside a held container]] — the one law reached independently by six lineages, of which this map's claim is the second condition
-- [[karla mclaren]] — the thinker whose grief finding carries this map's strongest case, seated for the address
+- [[karla mclaren]] — the thinker the corpus credits with this map's strongest case, seated for the address; at her text grief can be undertaken alone, and the required witness is the book's
 - [[the field between two people does work]] — the Third Entity claim as that unit makes it
 - [[intimacy is a tether rather than a binding]] — the positive name for a connection that holds without enclosing, which the catalogue otherwise identifies only by its failure
-- [[grief cannot complete alone]] — the strongest case, carried by all four source documents
+- [[grief cannot complete alone]] — the strongest case, carried by all four source documents, now held as the book's doctrine rather than McLaren's finding
 - [[the crisis triage collapses the diagnostic to body holding and contact]] — the crisis reduction whose "do not isolate" makes contact a survival floor, the field at its most load-bearing
 - [[nothing transforms from the audience]] — the law the book's practice lineages agree on unanimously
 - [[the householder axiom depends on the participation law being satisfiable within ordinary life]] — the participation law composed with the householder axiom, with grief as the boundary case and the facilitation-scaled-to-one thesis as the bridge that satisfies it from inside ordinary life
@@ -51,12 +51,13 @@ Open territory bearing on the field that no document develops.
 
 ## Adjacent maps
 
-This concern borders [[answerability]], because a word becomes answerable only before someone (the corpus cites Arendt: the who of a person is disclosed only in action before witnesses). It borders [[tensions]], where the solitary-read problem is listed with its treatment. It borders [[recognition]], because the book identifies mutual recognition as the field's fullest act.
+This concern borders [[the call and the answering]], because a word becomes answerable only before someone (the corpus cites Arendt: the who of a person is disclosed only in action before witnesses). It borders [[tensions]], where the solitary-read problem is listed with its treatment. It borders [[recognition]], because the book identifies mutual recognition as the field's fullest act.
 
 ## The mechanism
 
 - [[the third thing has a mechanism in participatory sense-making]] — enactivist work holding that an interaction can take on autonomy and generate meaning irreducible to either party, with entrainment research as the measured half. The first mechanism this concern has had.
 - [[the relational vocabulary's ontology is buber's rather than benjamin's]] — the proposal that the vocabulary's real bearer is Buber's I-Thou relation, not Benjamin's thirdness, which decides whom the book owes the citation.
+- [[jessica benjamin]] — the clinical bearer of the between, who carried Hegel's mutual recognition into the consulting room as "thirdness," kept to the clinic rather than the ontology (which is Buber's), with the master–slave refusal that lands on the facilitator's asymmetry rather than after it.
 - [[ubuntu personhood]] — a constitutive account of relation, where the person is made in it rather than meeting another across it.
 - [[de jaegher and di paolo]] — their evaluation note, holding the mechanism, with the refusal that participatory sense-making is a process rather than a presence.
 
@@ -195,6 +196,7 @@ The transmission digs of 2026-08-13 (the record is the 2026-08-13 entry in `ops/
 
 - [[viola spolin]] — candidate; the improv pedagogy that supplies the facilitated room's craft, holding attention off the self with a shared point of concentration.
 - [[victor turner]] — candidate; the decay typology and the reframe of structure as a dangerous energy's container, an early-warning system for any field the book gathers.
+- [[a book cannot supply the basic trust a reader who never had a reliable other lacks]] — the field's developmental floor and the limit it sets on the book, since Winnicott's capacity to be alone presupposes a basic trust laid down early, so a book read alone has no purchase where a reliable other was never there and cannot supply one retroactively.
 
 ### The field's community, subtracted (Dig 3)
 
@@ -212,6 +214,8 @@ The transmission digs of 2026-08-13 (the record is the 2026-08-13 entry in `ops/
 
 - [[the fusion of horizons is the strata's strongest account of meaning as an event owned by neither reader nor text]] — Gadamer's precedent for this map's central claim, a meaning that arises between two horizons and is owned by neither, the strongest outside witness the between has.
 - [[the book points at the external check it cannot administer, the finger rather than the moon]] — the author's disposition on the third requirement, that the book points at the external, delayed, other-administered check the field requires and admits it cannot administer it, the finger not the moon (B2, 2026-08-16).
+- [[the solitary form stands against seven witnesses who hold a second person constitutive]] — the tension itself, filed: seven witnesses with nothing else in common hold the second person constitutive, against the letter read alone, with the author's "recognition is already a with" as the candidate treatment
+- [[a solitary reader can run every guard that declines to evaluate and none that discriminates]] — what the second person is for, read at four guards: the restraint a reader can run alone, the discrimination only another person supplies
 
 ## The helper's restraint and the meeting that enlarges the self
 

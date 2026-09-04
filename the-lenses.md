@@ -26,7 +26,7 @@ The experiential entry: the book as one traverse the reader lives through, not a
   - honored only by withdrawing; "the sentence completes at a mirror"; not the destination
 - **Descent** — the Afterglow; the loops re-couple, the window opens (§7)
 - **Return** — integration; the practitioner returns — the thinnest-built position (§14 · J2)
-- *The arc read four ways at once* (§1): the Courtyard (recognition pedagogy), the Descent of the Word (answerability), the Breath (prosody), the Guild (container doctrine)
+- *The arc read four ways at once* (§1): the Courtyard (recognition pedagogy), the Descent of the Word (the call and the answering), the Breath (prosody), the Guild (container doctrine)
 - **Deepened** → `the-arc.md`: the book read as a made object walked in order — the journey's governing laws, the four overlays, the image system, the honesty apparatus, the three drafts, and the making — authored from the graph's second-largest uncovered region on the checkable cache substrate; the coverage pivot's third graph-authored harvest (−72 uncovered notes), holding the two forks the drafts leave open (the peak as event vs theme, the walkable house vs the centerless field) as the author's
 
 ## Lens 2 · The Two Books — *"whose participation is being facilitated?"*
@@ -46,7 +46,7 @@ The locus entry: one gesture turned two ways.
   - Stewardship — the return (the thinnest cell in the graph, §14 · J2)
   - *its evidence:* the lived practice / the felt shift (→ Lens 4)
 - *settled 2026-08-16:* two books, by locus, Book I first (§5)
-- **Deepened** → `the-two-books.md`: the installed architecture authored from the graph's largest region — the locus-of-practice discriminator, the Four Great Movements diverging at the object of the fourth, the authority burden sorting the two centerpieces, the ten-row Mirror grid held as a relation, and the four joints left to the author — on the checkable cache substrate; the coverage pivot's second harvest (−51 uncovered notes), and the family that names Book II's thinness rather than papering it
+- **Deepened** → `the-two-books.md`: the installed architecture authored from the graph's largest region — the locus-of-practice discriminator, the Four Great Movements diverging at the object of the fourth, the authority burden sorting the two centerpieces, the ten-row Mirror grid held as a relation, and the five joints left to the author — on the checkable cache substrate; the coverage pivot's second harvest (−51 uncovered notes), and the family that names Book II's thinness rather than papering it
 
 ## Lens 3 · The Movements — *"what grows, station by station?"*
 
@@ -65,10 +65,10 @@ The doctrinal entry: six masses draining to one center (weights are inbound-clai
 - **relational-field** (132, heaviest) — the Third Entity; grief needs a witness; holds the still center (§13, §4)
 - **recognition** (106) — aletheia × pratyabhijñā, no contact; reading is remembering (§13)
 - **felt-shift** (77) — the body's yes; the verification floor (§13, §16)
-- **answerability** (57) — the letter genre; the answerable ending; the madhyamā/vaikharī blade (§13)
+- **the call and the answering** (57) — the letter genre; the answerable ending; the madhyamā/vaikharī blade (§13)
 - **contraction-not-corruption** (45) — suffering as folding, not breakage; half scaffolding (§13)
 - **container-anatomy** (28) — the three structures + the open center (the Clearing) (§13, §11)
-- *the shape:* a triangle (recognition–relational-field–answerability), felt-shift its verification edge, contraction+container a peripheral lobe (§13)
+- *the shape:* a triangle (recognition–relational-field–the call and the answering), felt-shift its verification edge, contraction+container a peripheral lobe (§13)
 - **Deepened** → `the-concerns.md`: the six doctrine concerns at full depth, each lifting its hand-curated topic map into one member-schema entry — the finding, its honest flank, its load-bearing claims grouped by sub-theme, and where it enters the book — on the checkable cache substrate; the coverage pivot's deepest single harvest (−246 uncovered notes, 394 attested), keeping each concern's flank at the reveals level and pointing to the Constellation for the arrival-by-arrival independence test
 
 ## Lens 5 · The Constellation — *"who noticed this too, and what do they carry?"*
@@ -82,7 +82,7 @@ The company entry: the thinkers, held as company, never proof.
 - **Adversaries** — Robbins (will vs. surrender), Adorno (presence-language) (§9, §14)
 - **Chapter-patrons** — 17 thinker→unit→chapter welds, carried unchanged (§9; → Lens 6)
 - *caution:* the convergence is company, never proof; independence fails where names share a teacher (§15)
-- **Deepened** → `the-constellation.md`: the ~60 thinkers and ~60 convergence notes organized by the finding each independently reached (un-forgetting, the participation law, the between, privation, …), with the precedent bench and adversaries held apart and the refusals kept — on the checkable cache substrate; the family that drives the coverage pivot hardest (125 notes attested)
+- **Deepened** → `the-constellation.md`: the ~60 thinkers and ~60 convergence notes organized by the finding each independently reached (un-forgetting, the participation law, the between, privation, …), with the precedent bench and adversaries held apart and each thinker's disagreement kept — on the checkable cache substrate; the family that drives the coverage pivot hardest (163 notes attested at the 2026-09-03 census)
 
 ## Lens 6 · The House & the Named Units — *"where does the reader walk?"*
 
@@ -123,14 +123,14 @@ The gravitational entry: everything arranged by proximity to one question.
 
 - **The center** — the master question: the conditions under which a person stays the author of what they become while being genuinely changed (§4)
   - its reading-relation form — *the book can only be auxiliary to a sovereign reader* — the single heaviest node in the graph, 55 inbound links (§4)
-- **First ring** — the doctrinal triangle: recognition, relational-field, answerability (§13; → Lens 4)
+- **First ring** — the doctrinal triangle: recognition, relational-field, the call and the answering (§13; → Lens 4)
 - **Second ring** — the two books, the arc, the practice (→ Lenses 1–3)
 - **The enactment** — the book goes silent at the peak: the still center made structural (§3)
 - *shared verbatim by the doctrine reading and the spine reading; first spoken in the reframe* (§4, §10)
 
 ## Lens 10 · The Open Questions — *"what is still yours to decide?"*
 
-The decisional entry: the six joints, three of them the author's alone.
+The decisional entry: the seven joints, three of them the author's alone.
 
 - Book I is genuinely unwritten — compose it, don't assemble it (§14 · J1)
 - Book II's return is the thinnest place in the whole graph (§14 · J2)
@@ -138,6 +138,7 @@ The decisional entry: the six joints, three of them the author's alone.
 - The peak — an event, or a theme? (§14 · J4)
 - **[yours]** how much weight does the system carry? (§14 · J5)
 - One spine, or two? (§14 · J6)
+- **[yours]** the solitary form, or the second chair? (§14 · J7; RE-08 in `ops/decision sitting — 2026-09-03.md`)
 
 ---
 
@@ -152,7 +153,7 @@ The polyphony's payoff. Read a **column** and you see one entry point's whole or
 | **the still center** | the whole traverse | both, mirrored | serves all four | the centroid | orbited by all | — | — | itself |
 | **the three-structured clearing** | onset | — | contains all | container-anatomy | 29 builders | the House's bones | the one keystone | — |
 | **the felt shift** | deepening | Book II's evidence | participation | the verification floor | Gendlin | — | — | the body's yes |
-| **the return / integration** | descent→return | Book II's end | stewardship of self | answerability | Eliot, the Sufi arc | the first room | state→trait | staying the author |
+| **the return / integration** | descent→return | Book II's end | stewardship of self | the call and the answering | Eliot, the Sufi arc | the first room | state→trait | staying the author |
 
 The **House** and the **Psychedelic Moment** appear under almost every lens — that is the interpolation you were reaching for: the book is converging on the handful of nodes the lenses cannot stop pointing at, and it converges there *regardless of which way in you choose*. A node that only one lens sees (a single molecule formula, a one-draft image) is, by the same measure, peripheral.
 
@@ -212,7 +213,7 @@ One tension — *influence/structure without domination* — worn by six roles, 
 - **The author** — a durable perspective without becoming rigid; **the facilitator** — the more powerful, the more sovereignty matters (F · CXXIX; 13054)
 - **The AI-user** — synthesis without replacing participation; **the system-designer** — structure without foreclosing emergence (F · CXXXII–CXXXIII)
 - **The governing posture** — "a tension to inhabit, not a contradiction to solve" (F · CXXXIV)
-- **Deepened** → `the-paradoxes.md`: all six roles verbatim, the paired Book I/II facilitator mirror, and the frontier of unnamed roles that wear the same knot — on the checkable cache substrate; the one fully works-consulted family, so its frontier is *which of these the author holds*
+- **Deepened** → `the-paradoxes.md`: all six roles verbatim, the paired Book I/II facilitator mirror, and the frontier of unnamed roles that wear the same knot, one of them — the author as participant — now attested in the author's own voice — on the checkable cache substrate; the register itself stays works-consulted, so its frontier is *which of these the author holds*
 
 ## Lens 16 · The Fractal — *"at what scale is the same relation repeating?"*
 
@@ -268,21 +269,21 @@ Several catalog families deepen lenses already in Movement I rather than standin
 
 Eight lenses are deepened into family files on the checkable cache substrate (`the-loci.md`, `the-axioms.md`, `the-paradoxes.md`, `the-constellation.md`, `the-two-books.md`, `the-arc.md`, `the-concerns.md`, `the-making.md`). The substrate pivot's invariant — that every claim in the graph is referenced by some family — is now met in full: coverage reached 0 uncovered on 2026-08-22, the four content families (the Two Books, the Arc, the Concerns, the Making) joining the Constellation to attest the whole graph. `scripts/queries/lens-check.sh --coverage` reports the count; `--uncovered` prints the worklist. The baseline below is the last-synced uncovered count — a session or CI run that finds the current count *above* it flags that new research has landed in no family yet. Advance it only after a coverage pass folds new notes into families.
 
-<!-- coverage-baseline uncovered=0 derived=2026-08-22 -->
+<!-- coverage-baseline uncovered=0 derived=2026-09-02 -->
 
 ## Grounding — the meter beneath the coverage number
 
 Coverage reaching zero measures *reachability* — every claim is referenced by some lens — and it says nothing about *reification*, whether the claim is substantiated or still a seed. The two are independent, and the gap between them is the graph's real frontier: on 2026-08-22, with coverage at 100%, **220 of 493 claims were still `state: nascent`** (44% of the graph ungrounded — an attribution often made from memory with its primary reading owed). A green coverage number can therefore sit over a largely ungrounded graph, and the polyphony's apparatus can make the material read as more finished than it is. `scripts/queries/lens-check.sh --grounding` is the instrument that keeps this visible: it reports, per family and overall, how much of what is attested is nascent, against the baseline below. The number to drive **down** is the nascent count, and only a completed primary reading (nascent → full) moves it — never a new lens. A *rise* above the baseline means seeds were minted faster than they were grounded (the harvest outrunning its meter); a *fall* means readings landed. The leverage-ordered backlog that drives it down is the grounding backlog at the head of `ops/reading queue.md`, and `scripts/queries/nascent-stubs.sh` prints the note-level worklist. Advance the baseline down as readings complete; re-baseline up only to consciously acknowledge a new harvest.
 
-<!-- grounding-baseline nascent=199 derived=2026-08-24 -->
+<!-- grounding-baseline nascent=157 derived=2026-09-02 -->
 
 ---
 
 ## The shared center — the polyphony's own gravity
 
-The deepened families are not independent structures. Read across them (the finding of the 2026-08-21 cross-family pass over the first four — the Loci, the Axioms, the Paradoxes, the Constellation), they are **projections of one small shared core**, and all of them drain toward a single named note: `[[sovereignty is authorship preserved within relationship, not control over reality]]`. The Paradoxes' knot and the Axioms' center both literally cite it; the Loci's one law ("no locus becomes sovereign") is its negation-guard; the Constellation's largest convergences enact it. A handful of nodes recur as load-bearing across them at once — **facilitation** (a locus, a convergence, a role-paradox, and an axiom), **recognition / un-forgetting** (a locus, the founding convergence, the master axiom), **answerability** (below), and **the participation law**. The four content families added 2026-08-22 that carried coverage to zero — the Two Books, the Arc, the Concerns, the Making — confirm the finding rather than complicating it: each drains toward the same center, the Concerns family's own closing section naming `[[the master question is the conditions under which a person remains the author of what they become while being genuinely changed]]` as the still center its six concerns are six faces of. So the polyphony has a demonstrable gravitational center, and its eight lenses are eight views of one commitment rather than eight separate machines — which is itself the book performing "no locus becomes sovereign" at the scale of its own organizing families. Two consequences the families should carry, not hide:
+The deepened families are not independent structures. Read across them (the finding of the 2026-08-21 cross-family pass over the first four — the Loci, the Axioms, the Paradoxes, the Constellation), they are **projections of one small shared core**, and all of them drain toward a single named note: `[[sovereignty is authorship preserved within relationship, not control over reality]]`. The Paradoxes' knot and the Axioms' center both literally cite it; the Loci's one law ("no locus becomes sovereign") is its negation-guard; the Constellation's largest convergences enact it. A handful of nodes recur as load-bearing across them at once — **facilitation** (a locus, a convergence, a role-paradox, and an axiom), **recognition / un-forgetting** (a locus, the founding convergence, the master axiom), **the call and the answering** (below), and **the participation law**. The four content families added 2026-08-22 that carried coverage to zero — the Two Books, the Arc, the Concerns, the Making — confirm the finding rather than complicating it: each drains toward the same center, the Concerns family's own closing section naming `[[the master question is the conditions under which a person remains the author of what they become while being genuinely changed]]` as the still center its six concerns are six faces of. So the polyphony has a demonstrable gravitational center, and its eight lenses are eight views of one commitment rather than eight separate machines — which is itself the book performing "no locus becomes sovereign" at the scale of its own organizing families. Two consequences the families should carry, not hide:
 
 - **The families are co-governed by "no framework becomes sovereign"** — the Loci's constitutive law is the Axioms' self-described deepest member and a Paradoxes frontier candidate; the Loci *is* that axiom's practice.
 - **The honest signature is shared too:** every family has a member whose apparent independence collapses the same way (Hübl←Wilber, Erhard←Lewin, the model-produced axioms and paradoxes, the Loci running on Wilber's un-attributed four-quadrant grid). The provenance question is the frontier of all four — the book's origin story ("a man noticed some things, then found others had too") applied to its own structures.
-- **The center is an invariant that survives difference, never a sameness the loci collapse into.** The connective tissue the reframe conversation names is non-sovereignty itself: the author's "refusal to collapse the inquiry into a master ontology" is called "a very important connective tissue between epistemology, facilitation, sovereignty, polyphony" (reframe conversation, L2632), and the clause "without any single locus becoming sovereign" is "the piece that connects your Wilber insight to your ideas of sovereignty, facilitation, authorship, AI, and the book itself" (L2966). So "drains toward one center" must never be read as "flattens to one claim": the durable perspective the polyphony holds is "what remains after difference has been preserved, not what remains after difference has been erased" (L3346). A family that reports only where its members agree has begun erasing the difference that is the gold; each family's kept refusals and open edges are that difference held, and the crossings hold the invariant that survives them.
+- **The center is an invariant that survives difference, never a sameness the loci collapse into.** The connective tissue the reframe conversation names is non-sovereignty itself: the author's "refusal to collapse the inquiry into a master ontology" is called "a very important connective tissue between epistemology, facilitation, sovereignty, polyphony" (reframe conversation, L2632), and the clause "without any single locus becoming sovereign" is "the piece that connects your Wilber insight to your ideas of sovereignty, facilitation, authorship, AI, and the book itself" (L2966). So "drains toward one center" must never be read as "flattens to one claim": the durable perspective the polyphony holds is "what remains after difference has been preserved, not what remains after difference has been erased" (L3346). A family that reports only where its members agree has begun erasing the difference that is the gold; the refusals each family keeps and the edges it leaves open are that difference held, and the crossings hold the invariant that survives them.
 - **Each lens owes a stated blind spot — what it cannot see.** Every locus discloses and obscures: "Every locus of inquiry remains accountable to the reality it discloses and the reality it obscures" (reframe conversation, L2626), "potentially revelatory and necessarily partial" (L2934, later Axiom 2). A family that only enumerates what its question reveals, and never names what that same question structurally hides, has stopped being one view among many and begun presenting itself as the frame the others fit inside — the drift from locus to sovereign the whole ecology is built to refuse. Each family therefore owes, beside its attested members, a named blind spot, as the working form of "no framework becomes sovereign." It is carried today unevenly — by the Loci's discloses/hides field and by each family's open edge — and making it a uniform, named element across all eight families is a `/lens` pass owed.

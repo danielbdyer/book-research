@@ -2,7 +2,7 @@
 description: "The fruit that falls carries ripe action, vaikhari as kriya, and brings the house rule with it: ripeness is not refrigeration — the archive preserves, the orchard ripens."
 category: image
 sources: ['arc-gloss: the image-system', 'atlas §X.5f']
-topics: ['[[answerability]]', '[[book-structure]]']
+topics: ['[[the call and the answering]]', '[[book-structure]]']
 ---
 
 # the fruit that falls is the word become deed
@@ -21,5 +21,5 @@ Relevant Notes:
 - [[seventeen chapters rest at madhyama]] — the standing question the corpus states in this figure's terms
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]
 - [[book-structure]]

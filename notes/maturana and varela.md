@@ -6,7 +6,7 @@ load: names-existing-practice
 discipline: empirical-science
 clause: "Instructive interaction is impossible: the living being is a source of perturbations and not of instructions, so nothing external installs its form, and a teacher at most perturbs a system that determines its own change."
 recommendation: "Seat as names-existing-practice, run with its contested tag visible; it is the citable biology under 'perturb, not install' and 'meaning made in interaction', and its own reflexive edge — that no text installs anything, this book included — is kept rather than smoothed. The Tree of Knowledge is queued in ops/reading queue.md to test whether the impossibility licenses a claim about pedagogy or only about cells."
-sources: ["transmission dig 4, 2026-08-13", "Maturana & Varela, The Tree of Knowledge (1987) [S]", "Maturana, 'Everything Said Is Said by an Observer' (1987) [S]"]
+sources: ["transmission dig 4, 2026-08-13", "Maturana & Varela, The Tree of Knowledge (1987), read at the primary text 2026-08-30 (archive/reading — the participation law's independent arrivals (von foerster, maturana-varela, garfinkel, schön, de jaegher-di paolo, vervaeke).md)", "Maturana, 'Everything said is said by an observer' — canonical in Biology of Cognition (1970); The Tree of Knowledge (1987) prints it 'by someone' (p. 26) [S]"]
 works: ["The Tree of Knowledge: The Biological Roots of Human Understanding (1987)", "Autopoiesis and Cognition: The Realization of the Living (1980)"]
 topics: ["[[interlocutors]]", "[[relational-field]]"]
 ---
@@ -23,7 +23,7 @@ Their account also sets a discipline on how the book may use such terms. Because
 
 ## What they would refuse
 
-The provenance is secondary and the load rests on scholarship: Dig IV did not open *The Tree of Knowledge*, working from summaries at [S], and it marks autopoiesis-as-cognition contested rather than settled. The primary reading is queued in `ops/reading queue.md`.
+*The Tree of Knowledge* is now read at the primary text (2026-08-30); the refusals here are confirmed at the source, and autopoiesis-as-cognition is kept marked contested rather than settled (Maturana's reply to the idealism charge — objectivity held in parentheses, 1988 — is disputed as asserting the metadomain it cannot earn).
 
 Their sharpest refusal is aimed at the book's own throat. Instructive interaction being impossible, applied to a text, says the book cannot transmit and can only perturb — so the same mechanism that licenses "perturb, not install" forbids the author installing this book's form as well. And their theory demotes the very standard the book verifies by: on the autopoietic account a felt shift is one observer's distinction inside a domain and certifies nothing beyond the one who feels it. Their program's own split is the further refusal: Varela turned to first-person neurophenomenology, which is the program's admission that its biology had lost the first person at the altitude the book lives. The standing critique that the observer-dependent account courts solipsism is left unresolved, and the note keeps it visible rather than smoothing it.
 
@@ -31,11 +31,9 @@ Their sharpest refusal is aimed at the book's own throat. Instructive interactio
 
 Their contribution to the book's medium is a licence and a limit stated in one mechanism. The licence is that a text may legitimately be described as perturbing a reader who makes her own meaning, which is the biology under the book's whole stance toward its reader. The limit is that the same biology refuses the book any stronger claim: it cannot install, cannot transmit, and cannot let a felt shift certify anything trans-observer. Run honestly, the pair is machinery the book stands on with its contested tag and self-undermining edge showing, not a doctrine the book can lean its weight against.
 
-## What the evaluation still requires
+## What the primary reading settled (2026-08-30)
 
-*The Tree of Knowledge* (1987), chapters five and six and the observer coda, queued in `ops/reading queue.md`, with the question Dig IV set: whether the text licenses "perturb, not install" as a claim about *pedagogy* or only about cellular and organismic coupling — which decides whether the participation-law-as-biology is Maturana and Varela's own claim or an appropriation of it.
-
-The transmission mesh's verdict, folded 2026-08-16: Dig IV judged them ground for running machinery, the citable biology under "perturb, not install" and "meaning made in interaction," to be run with its contested tag and self-undermining edge visible, and it queues The Tree of Knowledge at Tier 7 (entry 71).
+The question Dig IV set is answered at the text: the book carries "perturb, not install" past cells and organisms all the way to human communication, so the participation-law-as-biology is Maturana and Varela's own claim rather than an appropriation. "Biologically, there is no 'transmitted information' in communication. Communication takes place each time there is behavioral coordination in a realm of structural coupling," and "saying does not ensure listening" (the "metaphor of the tube" chapter, ~p. 196), each person hearing "according to his own structural determination." The core formula is verbatim (p. 96): "the changes that result from the interaction between the living being and its environment are brought about by the disturbing agent but determined by the structure of the disturbed system... the living being is a source of perturbations and not of instructions." The word "pedagogy" is the book's; the structure is theirs. Record: `archive/reading — the participation law's independent arrivals (von foerster, maturana-varela, garfinkel, schön, de jaegher-di paolo, vervaeke).md`.
 
 ## Recommendation
 

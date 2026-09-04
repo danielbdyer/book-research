@@ -2,7 +2,7 @@
 description: "In the reframe conversation the author ratified an axiom of authorship, that a good question scales better than a good answer, since a question keeps being taken up while an answer is received once and closes."
 category: claim
 sources: ["reframe conversation, 2026-08-13, line 521", "reframe conversation, 2026-08-13, line 526", "reframe conversation, 2026-08-13, line 431"]
-topics: ["[[answerability]]", "[[book-structure]]"]
+topics: ["[[the call and the answering]]", "[[book-structure]]"]
 state: nascent
 ---
 
@@ -24,5 +24,5 @@ Relevant Notes:
 - [[the book can only be auxiliary to a sovereign reader]] — the reason questions are preferred, a book that answered for the reader would take the authorship the book means to leave with them
 
 Topics:
-- [[answerability]]
+- [[the call and the answering]]
 - [[book-structure]]

@@ -80,14 +80,15 @@ The founding convergence is between two traditions, and the lineage sort asked w
 
 ## Why an arrival does not persist
 
-This map states what the book says happens. The reader the author defined on 2026-08-04 is someone to whom it already happened once and did not last, so the mechanism of non-persistence is now load-bearing for the doctrine rather than incidental to it. Two mechanisms are held side by side and deliberately not merged, because they imply different books.
+This map states what the book says happens. The reader the author defined on 2026-08-04 is someone to whom it already happened once and did not last, so the mechanism of non-persistence is now load-bearing for the doctrine rather than incidental to it. Three mechanisms are held side by side and deliberately not merged, because they imply different books.
 
 - [[an enormous experience is interpreted by the structure it did not change]] — the state was received by an apparatus it left untouched, which locates the failure at the moment of arrival.
 - [[the plasticity window reorganizes only what attention is on]] — the apparatus was briefly changeable and nothing was done in it, which locates the failure in the weeks afterward.
+- [[fractured development is a third account of why the big experience did not hold]] — the lines never developed, which locates the failure beside the experience rather than at it or after it: Wilber's stone Buddha, read at his texts, held as a third account and not merged with the other two
 
 ## Adjacent maps
 
-This concern borders [[contraction-not-corruption]], because the move from healing to recognition is what removes "broken" as a starting assumption. It borders [[answerability]], because the book claims recognition lands in reading only when the word is fully embodied. It borders [[relational-field]], because the same word (Hegel's *Anerkennung*, recognition) grounds the book's account of what two people do for each other.
+This concern borders [[contraction-not-corruption]], because the move from healing to recognition is what removes "broken" as a starting assumption. It borders [[the call and the answering]], because the book claims recognition lands in reading only when the word is fully embodied. It borders [[relational-field]], because the same word (Hegel's *Anerkennung*, recognition) grounds the book's account of what two people do for each other.
 
 ## The vocabulary of the peak, and who coined it
 
@@ -123,6 +124,7 @@ The conversation takes the tradition's distinction between illuminating consciou
 - [[awareness is not attention — attention selects, awareness contains]] — the ground distinction: awareness registers that the looking is happening while attention only selects an object, so recognition needs the wider register that can notice the noticing.
 - [[awareness has a reflexive dimension distinct from its illuminating one]] — the source tradition's vimarśa set apart from prakāśa at the scale of experience, which makes recognition the awareness that turns to register itself rather than only to light a thing.
 - [[reflexive awareness is participatory recognition rather than detached observation]] — the reflexive turn held as a recognition the knower takes part in, which keeps this map's central event from collapsing into detached self-observation.
+- [[the lived report of recognition drops the seam the tradition's reflexive dyad keeps]] — the tension the author's report opens: the tradition keeps illumination and self-apprehension separable and his "Klein bottle of a mirror" does not, and the three traditions that hold a seamless self-knowing each pay for it with a different term
 - [[the architecture of attention is partially the architecture of the self]] — recognition's organ read as formative: what a person habitually attends to helps build the self that results, so attention is not merely receptive to what is uncovered.
 - [[participation has degrees, so a person can be physically present while existentially absent]] — recognition admitted in degrees: presence is not binary, and a person can be bodily present yet un-recognizing, which is the state the book's remembering doctrine addresses.
 - [[acceptance is willingness to perceive what is actually here, not approval]] — recognition's precondition on the perceiving side: seeing what is actually present without first approving it, so nothing is filtered out before it can be recognized.

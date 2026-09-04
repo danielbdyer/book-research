@@ -28,6 +28,17 @@
           }
         ]
       }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 .claude/hooks/plain-reply-check.py",
+            "timeout": 10
+          }
+        ]
+      }
     ]
   }
 }

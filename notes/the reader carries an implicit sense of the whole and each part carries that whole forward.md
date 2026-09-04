@@ -1,9 +1,9 @@
 ---
 description: "Reading is ripening rather than accumulation: from early on the reader carries a dim felt sense of the whole book, and each chapter carries that whole forward and changes it rather than appending a fact."
 category: claim
-sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm; attributions from memory, unverified, grounding queued in ops/reading queue.md)", "Gendlin: a felt sense of 'all that', of a whole, articulation carrying it forward (Experiencing and the Creation of Meaning)", "Merleau-Ponty: perception of a figure against an unthematized horizon; first-principles on the duration of reading a book"]
+sources: ["generative-core harvest, 2026-08-21 (via-positiva crossover brainstorm); Gendlin and Merleau-Ponty poles read at the primary texts (Gendlin 2026-08-28, archive/reading — gendlin, focusing and a process model (1978, 1997).md; Merleau-Ponty seated 2026-08-10)", "Gendlin, Focusing (1978), ch. 3: a felt sense 'encompasses everything you feel and know about the given subject at a given time … all at once rather than detail by detail'", "Merleau-Ponty: perception of a figure against an unthematized horizon; first-principles on the duration of reading a book"]
 topics: ["[[book-structure]]"]
-state: nascent
+state: full
 ---
 
 # the reader carries an implicit sense of the whole and each part carries that whole forward
@@ -12,9 +12,9 @@ The reader gains a way of reading that is not accumulation but ripening — from
 
 ## Substantiation
 
-- Gendlin (Experiencing and the Creation of Meaning): one can have a felt sense of "all that," of a whole situation or meaning, and articulation proceeds by carrying that single felt whole forward, each step reconfiguring the whole rather than appending to it. Merleau-Ponty: perception is always of a figure against a whole horizon we never fully thematize; we grasp the whole implicitly and it guides the reading of every part.
+- Gendlin, read at the primary text: a felt sense "encompasses everything you feel and know about the given subject at a given time—encompasses it and communicates it to you all at once rather than detail by detail" (Focusing, ch. 3), and articulation proceeds by carrying that single felt whole forward, each step changing the whole rather than appending to it. Merleau-Ponty: perception is always of a figure against a whole horizon we never fully thematize; we grasp the whole implicitly and it guides the reading of every part.
 - First-principles extension, marked as inference: applied to the *duration* of reading a book — the reader's implicit sense of the whole present throughout and carried forward by each part — this goes beyond what either source states about reading specifically.
-- Standing: a reach; solid on the component ideas (Gendlin's felt sense of the whole; Merleau-Ponty's horizon), speculative in the application to the temporal experience of reading an entire book.
+- Standing: full on its component poles — both read at the primary texts (Gendlin's Focusing 2026-08-28; Merleau-Ponty seated 2026-08-10; records in `archive/`) — with the application to a book's reading-duration kept as marked first-principles inference. One correction the reading forced: "a felt sense of all that" is *Focusing*'s 1978 wording, not ECM's, and is cited to Focusing here.
 
 ---
 

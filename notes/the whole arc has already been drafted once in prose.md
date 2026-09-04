@@ -2,7 +2,7 @@
 description: A complete prose draft of the fifteen-chapter arc exists as the abridged edition, unrecorded by the founding sources; it removes writing as the explanation for the unreleased state without making the book answerable.
 category: structure
 sources: ["abridged: how to read this book", "abridged: a note on sources", "abridged ch1–ch15", "atlas, colophon", "walked, colophon"]
-topics: ["[[book-structure]]", "[[answerability]]"]
+topics: ["[[book-structure]]", "[[the call and the answering]]"]
 ---
 
 # the whole arc has already been drafted once in prose
@@ -34,4 +34,4 @@ Relevant Notes:
 
 Topics:
 - [[book-structure]]
-- [[answerability]]
+- [[the call and the answering]]
