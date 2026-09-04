@@ -2,6 +2,8 @@
 
 # ecology — the addressees
 
+This recipe is for an ecology survey, the vault's name for a study that sorts a collection of the book's material by what each item does; it is not the book's own Ecology of Recognition, the name the corpus gives its orientation.
+
 ## The collection
 
 The book's documents do not all speak to the same person. The first telling is written as letters to one friend. The abridged edition addresses a reader with a reading contract. The earliest edition speaks past a fourth wall. The reframe's two books split the addressee in two: Book I speaks to a facilitator and Book II to the one whose big experience did not hold. The last line addresses the reader so that it can be answered. The poems address a beloved, a friend, two cats, and, in the sixteenth, the architecture the sentence leaves. The vault holds fifteen notes on address and never sorts the addressees by what each is asked to do.
@@ -16,7 +18,7 @@ The author's own addressees, on the record: the friend the first telling is writ
 
 ## Provisional families (proposals, not filings)
 
-By what is asked: addressees asked for attention (the abridged reader under the reading contract); asked for an answer (the reader of the last line; the poem's over-against); asked to do the work themselves (the reader-facilitator; the sovereign reader); asked to be changed (the one whose experience did not hold; the author as first participant); asked for nothing, and spoken to because they exist (the friend of the letters; the beloved; the cats). By what they are trusted to have: everything already, forgotten (the front matter's reader); a reliable other once (the reader the book can reach); a body that can countersign; a life the book is auxiliary to. The hypothesis to test is that the corpus's documents differ in addressee more than in doctrine, and that the executed draft's addressee is the one the author trusts least.
+The families below are the groups this survey would sort its instances into, proposed rather than filed. By what is asked: addressees asked for attention (the abridged reader under the reading contract); asked for an answer (the reader of the last line; the poem's over-against); asked to do the work themselves (the reader-facilitator; the sovereign reader); asked to be changed (the one whose experience did not hold; the author as first participant); asked for nothing, and spoken to because they exist (the friend of the letters; the beloved; the cats). By what they are trusted to have: everything already, forgotten (the front matter's reader); a reliable other once (the reader the book can reach); a body that can countersign; a life the book is auxiliary to. The hypothesis to test is that the corpus's documents differ in addressee more than in doctrine, and that the executed draft's addressee is the one the author trusts least.
 
 ## Empty cells
 
@@ -24,11 +26,11 @@ The vault has no note on the addressee of the poems as a set. It has no account 
 
 ## Tensions it would consolidate
 
-The two books' two addressees against one reader. The letter to a friend against the book to a stranger. The reader asked to answer against the book that cannot hear the answer. And the author as first addressee against the sovereign reader who owes him nothing.
+This section names the tensions the survey would consolidate, each a disagreement inside the book's doctrine that stays open in a note rather than being resolved. The two books' two addressees against one reader. The letter to a friend against the book to a stranger. The reader asked to answer against the book that cannot hear the answer. And the author as first addressee against the sovereign reader who owes him nothing.
 
 ## Candidate claims (springboards)
 
-- The corpus's documents differ in addressee more than in doctrine, and the first telling's friend is the addressee the executed draft lost. Route: the first telling's letters against abridged's contract; the concordance; a `claim` under `book-structure`.
+- The corpus's documents differ in addressee more than in doctrine, and the first telling's friend is the addressee the executed draft lost. Route: the first telling's letters against abridged's contract; the concordance, the table in `ops/chapter concordance.md` comparing the drafts of the book chapter by chapter; a `claim` under `book-structure`.
 - The book asks its reader for four different things in four places, and only the answer is one the book cannot receive. Route: the notes above; a `claim` under `the call and the answering`.
 - The poems' addressees are present and the corpus's are implied, which is the same finding as the animals. Route: the sixteen poems by addressee; the animals note; a `claim` under `book-structure`.
 

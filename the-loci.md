@@ -113,7 +113,7 @@ The pattern repeated on 2026-09-03, and the second instance is sharper than the 
 
 The part of the mechanism that *is* now built is the checking. This file carries a content-hash receipt for each of its sections (the hidden markers below each block), and `scripts/queries/lens-check.sh` re-computes them to report which sections still rest on unmoved ground and which need re-reading — the same substrate the Axioms family runs on, described in full in `the-axioms.md`. So the register above cannot silently rot: when a source it was read from changes, the section that cited it says so.
 
-<!--cache id=LOC-substrate crc=325e6cff src=ops/reading queue.md|ops/clearing.md derived=2026-09-03-->
+<!--cache id=LOC-substrate crc=cd30fa0d src=ops/reading queue.md|ops/clearing.md derived=2026-09-04-->
 
 ## What I watched, building this
 
@@ -127,4 +127,4 @@ My recommendation: **stay hands-on for one more family**, watch the output volum
 
 ---
 <!-- baseline notes=516 decisions=121 derived=2026-09-02 -->
-<!--cache id=LOC-src crc=4e5a9ad7 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md derived=2026-09-03-->
+<!--cache id=LOC-src crc=2445a968 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md derived=2026-09-04-->

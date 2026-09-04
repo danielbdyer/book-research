@@ -59,7 +59,7 @@ Three states of the manuscript are held, each answering this family's question d
 - **Open edge:** the abridged edition's fifteen-chapter execution still wants reconciling against the working structure, chapter by chapter (`ops/chapter concordance.md`); the two overlays not yet extracted whole are the treatment's. Two readings that bear on this section entered the queue on 2026-09-03: Ignatius's *Spiritual Exercises* read directly, since the arc inquiry found it the one structural precedent for the book's shape any source names — "The closest historical precedent for the whole design" (`space-around` p. 12) — and the both-halves rule wants his text rather than the corpus's account of it; and bell hooks at *Teaching to Transgress*, the atlas's patron at the Third Entity seat, queued on the patronage alone (`ops/reading queue.md`, the 2026-09-03 additions).
 - **Enters:** the manuscript's own scheme, held provisional; the concordance as the transfer surface that costs one lookup rather than seven readings.
 
-<!--cache id=ARC-drafts crc=bf4f274a src=notes/book-structure.md|ops/chapter concordance.md|notes/the title's idiom names the integration of the three loops rather than parallel lines of development.md derived=2026-09-03-->
+<!--cache id=ARC-drafts crc=a62f6187 src=notes/book-structure.md|ops/chapter concordance.md|notes/the title's idiom names the integration of the three loops rather than parallel lines of development.md derived=2026-09-04-->
 
 ## How the material was made — the object's own biography
 
@@ -103,4 +103,4 @@ The two-book re-description of the object is not re-attested here — it is the 
 
 ---
 <!-- baseline notes=516 decisions=121 derived=2026-09-02 -->
-<!--cache id=ARC-src crc=8760f2f5 src=notes/book-structure.md|ops/scaffold.md|the-conversation-catalog.md derived=2026-09-03-->
+<!--cache id=ARC-src crc=8ea86172 src=notes/book-structure.md|ops/scaffold.md|the-conversation-catalog.md derived=2026-09-04-->

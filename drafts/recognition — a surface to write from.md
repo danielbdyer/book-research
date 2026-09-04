@@ -24,7 +24,7 @@ Beneath the named poles, the width: at least seven unconnected vocabularies — 
 
 ## The gap where the concealed shows itself — the crossing that is yours
 
-Here the apparatus thins, by the doctrine's own law. [[the gap between two states is where the concealed shows itself]] — so the surface brings the company to the gap and stops.
+Here the apparatus thins, by the doctrine's own law, at the point the heading calls the crossing, where a document like this one stops and your own move begins. [[the gap between two states is where the concealed shows itself]] — so the surface brings the company to the gap and stops.
 
 You noticed this first, in your own life, and found the company after ([[the book's honest origin story is noticing first and finding company after]]). So the durable perspective is not for this surface to state; the company above is not proof, it is the company you found — and the recognizing is a move only you make. What remains is the one thing that survives all their differences once the difference has been preserved and not erased.
 
@@ -42,4 +42,4 @@ The half-erased sentence, left at the mirror for you to finish:
 
 ## What this surface cannot see
 
-One locus, and therefore partial. This surface is organized by recognition-as-un-forgetting, and that question hides three things it should be held accountable to. It backgrounds the finite it cannot un-forget — the being-toward-death Heidegger keeps and the impermanence the suttas keep, which the map holds separately and the book affirms only in another key. It cannot see the reader for whom recognition arrived once and did not persist — the defining reader — whose non-persistence the map holds as two unmerged mechanisms, not as a solved case. And it cannot certify that any of this works: whether recognition, once occasioned, holds is precisely the check the book points at and cannot administer. A surface that only showed where the company agrees would have begun erasing those; they are named here so it does not.
+One locus, and therefore partial. This surface is organized by recognition-as-un-forgetting, and that question hides three things it should be held accountable to. It backgrounds the finite it cannot un-forget — the being-toward-death Heidegger keeps and the impermanence the suttas keep, which the map — the topic map at `notes/recognition.md`, a page gathering the claims of one concern — holds separately and the book affirms only in another key. It cannot see the reader for whom recognition arrived once and did not persist — the defining reader — whose non-persistence the map holds as two unmerged mechanisms, not as a solved case. And it cannot certify that any of this works: whether recognition, once occasioned, holds is precisely the check the book points at and cannot administer. A surface that only showed where the company agrees would have begun erasing those; they are named here so it does not.

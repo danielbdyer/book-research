@@ -82,7 +82,7 @@ The commitments the book holds toward its reader. Several are installed as claim
 
 The third layer's content is its emptiness, and that is the point. The book *"must not legislate the reader's experience"*: what the reader recognizes is theirs to author, so no axiom is written for it. The commitment that guards the emptiness is stated directly — *"the incompleteness is the ethical stance. It refuses to colonize the reader's experience"* (725) — and what the reader receives instead of axioms is named: *"for the reader, the invitations are orientations for their own experience"* (531). This layer is the bounding principle made structural: the same discipline that keeps a workflow from flooding the vault keeps the book from prescribing the reader. Its nearest kin in the vault is `[[the facilitator can supply meaning where the participant might have discovered it, so do not solve what the participant has not yet had the opportunity to encounter]]`, and structurally it is the book-facing twin of `ops/clearing.md` — a space kept open on purpose.
 
-<!--cache id=AX-participant crc=1184905e src=the-conversation-catalog.md|ops/clearing.md derived=2026-08-21-->
+<!--cache id=AX-participant crc=d15d812d src=the-conversation-catalog.md|ops/clearing.md derived=2026-09-04-->
 
 ---
 
@@ -127,4 +127,4 @@ Three things showed, and they bear on whether a workflow-per-family is safe:
 
 ---
 <!-- baseline notes=516 decisions=121 derived=2026-09-02 -->
-<!--cache id=axioms-src crc=4e5a9ad7 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md derived=2026-09-03-->
+<!--cache id=axioms-src crc=2445a968 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md derived=2026-09-04-->

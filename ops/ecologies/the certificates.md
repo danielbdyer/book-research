@@ -2,9 +2,11 @@
 
 # ecology — the certificates
 
+This recipe is for an ecology survey, the vault's name for a study that sorts a collection of the book's material by what each item does; it is not the book's own Ecology of Recognition, the name the corpus gives its orientation.
+
 ## The collection
 
-The book's single verification standard is a bodily signal, the felt shift, and the vault has spent a month defending, narrowing, and re-nesting it ([[nothing enters the lattice the body has not countersigned]], [[the felt shift certifies carrying forward rather than correspondence]], [[the ecology frame transcends and includes the verification frame rather than replacing it]]). Around it, every tradition in the room carries its own instrument for telling that something happened, and the vault holds those instruments as objections to the standard or as company for it, never as a sorted set. This survey would gather every certificate — every sign a tradition accepts as evidence that the thing occurred — and sort them by who certifies, when, and by what sign.
+The book's single verification standard is a bodily signal, the felt shift, and the vault has spent a month defending, narrowing, and re-nesting it ([[nothing enters the lattice the body has not countersigned]], [[the felt shift certifies carrying forward rather than correspondence]], [[the ecology frame transcends and includes the verification frame rather than replacing it]]). Around it, every tradition in the room carries its own instrument for telling that something happened, and the vault holds those instruments as objections to the standard or as company for it — held alongside the standard rather than proof of it — never as a sorted set. This survey would gather every certificate — every sign a tradition accepts as evidence that the thing occurred — and sort them by who certifies, when, and by what sign.
 
 ## What the vault already holds
 
@@ -16,7 +18,7 @@ The author's own certificates, as far as the record shows them. His reflection r
 
 ## Provisional families (proposals, not filings)
 
-By sign: the felt sign at the moment (the shift; the sponge and the stone of Ignatius §335, which inverts); the sign over a course (Ignatius §333, the beginning, middle, and end of the thoughts; the trail reviewed); the sign by what follows (the aftermath examined before acting; the decay curve and what persists past it; the durability criterion); the sign by conduct (al-Qushayrī's test of the man who sits on the air; Wilber's "transcends but includes reason," the capacities still intact); the sign by non-recurrence (Hudson's homeostasis; the racket recognized rather than cured); and the sign by another (dokusan; the third strand; the listener who steadies). By who runs it: the person alone, the person later, another who has been there, a clinician. The hypothesis to test is that the felt sign at the moment is the only family the book can execute on the page and the one every tradition trusts least, which would make the standard's defense a question of which family the book claims.
+The families below are the groups this survey would sort its instances into, proposed rather than filed. By sign: the felt sign at the moment (the shift; the sponge and the stone of Ignatius §335, which inverts); the sign over a course (Ignatius §333, the beginning, middle, and end of the thoughts; the trail reviewed); the sign by what follows (the aftermath examined before acting; the decay curve and what persists past it; the durability criterion); the sign by conduct (al-Qushayrī's test of the man who sits on the air; Wilber's "transcends but includes reason," the capacities still intact); the sign by non-recurrence (Hudson's homeostasis; the racket recognized rather than cured); and the sign by another (dokusan; the third strand; the listener who steadies). By who runs it: the person alone, the person later, another who has been there, a clinician. The hypothesis to test is that the felt sign at the moment is the only family the book can execute on the page and the one every tradition trusts least, which would make the standard's defense a question of which family the book claims.
 
 ## Empty cells
 
@@ -24,20 +26,20 @@ The vault has no certificate for the absence of an event — how a reader knows 
 
 ## Tensions it would consolidate
 
-The felt shift against durability, which the scaffold names as the author's language against the model's. The instant test against the fluency evidence. The self-certifying experience against dokusan. The book's promise of irreversibility ([[what is recognized cannot be un-recognized]]) against every certificate that certifies only afterward. And Gendlin's within-process correction, where the shift is a step and not a terminus, against any certificate that closes a round.
+This section names the tensions the survey would consolidate, each a disagreement inside the book's doctrine that stays open in a note rather than being resolved. The felt shift against durability, which the scaffold — `ops/scaffold.md`, the book's structure as read out of the graph — names as the author's language against the model's. The instant test against the fluency evidence. The self-certifying experience against dokusan. The book's promise of irreversibility ([[what is recognized cannot be un-recognized]]) against every certificate that certifies only afterward. And Gendlin's within-process correction, where the shift is a step and not a terminus, against any certificate that closes a round.
 
 ## Candidate claims (springboards)
 
 - The certificates the traditions trust most are the ones a page cannot run, and the one a page can run is the one they trust least. Route: the discrimination record, Gendlin 1964 def. 11, Knysh p. 78, Ignatius §§331–336, Wilber SES ch. 7; a `claim` under `felt-shift`.
 - A certificate by aftermath makes the book's last line a test the reader runs later, not at the page. Route: Ignatius §336, the durability criterion, the letter-genre note; a `claim` under `the call and the answering`.
-- The author's verification language is durability, not the felt shift, and the book's standard is the model's. Route: `ops/scaffold.md` section 10 and the reframe transcript lines it cites; a `tension` if he holds both, and his sounding first (B3 in `ops/practice-model ecology — candidate next steps.md`).
+- The author's verification language is durability, not the felt shift, and the book's standard is the model's. Route: `ops/scaffold.md` section 10 and the reframe transcript lines it cites; a `tension` if he holds both, and his sounding, a question only the author can answer about his own experience or his intention for the book, raised first (B3 in `ops/practice-model ecology — candidate next steps.md`).
 - No tradition in the room certifies at the moment except by a sign it also says can be counterfeited. Route: the counterfeit survey's instances; a `claim` under `felt-shift`.
 
 ## The reading program, in the sharp-questions form
 
 - Does Gendlin's own account hold that the shift certifies anything, or only that it moves the process one step? Fails if *Focusing* treats the shift as a verdict. Stake: whether the book's standard is a certificate at all or a within-process sign. Address: *Focusing* (1978), the chapter on the six movements, against the existing record. Grade: read; the question was not put this way.
 - Does Wilber's third strand specify who counts as a peer and over what period? Fails if it is stated only as a principle. Stake: the community certificate's operability for a book. Address: SES ch. 7, "Validity Claims of Mysticism"; *Eye to Eye* on the three strands. Grade: SES read; *Eye to Eye* unreached.
-- Do the psychedelic persistence studies measure anything a reader could self-report, or only outcomes a clinician scores? Fails if all measures are third-person. Stake: whether the durability certificate is first-person operable. Address: Majić, Schmidt, and Gallinat 2015; the follow-up designs the queue names under quantum change. Grade: held at survey depth.
+- Do the psychedelic persistence studies measure anything a reader could self-report, or only outcomes a clinician scores? Fails if all measures are third-person. Stake: whether the durability certificate is first-person operable. Address: Majić, Schmidt, and Gallinat 2015; the follow-up designs the reading queue — the reading list at `ops/reading queue.md` — names under quantum change. Grade: held at survey depth.
 - Does the Sufi test of conduct appear as a self-test anywhere in the *Risāla*, or only as a test of others? Fails if it is second-person only. Stake: a first-person certificate by conduct. Address: Knysh 2007, pp. 33, 106, 405–406. Grade: read; the passages are cited, the question is open.
 
 ## Safeguards

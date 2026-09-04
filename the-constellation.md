@@ -109,4 +109,4 @@ Its open edge is the independence test, run harder: which convergences rest on p
 
 ---
 <!-- baseline notes=516 decisions=121 derived=2026-09-02 -->
-<!--cache id=CON-src crc=e56a67bc src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md|notes/interlocutors.md derived=2026-09-03-->
+<!--cache id=CON-src crc=8f755403 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md|notes/interlocutors.md derived=2026-09-04-->

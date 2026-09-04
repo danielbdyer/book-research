@@ -2,6 +2,8 @@
 
 # ecology — the figures
 
+This recipe is for an ecology survey, the vault's name for a study that sorts a collection of the book's material by what each item does; it is not the book's own Ecology of Recognition, the name the corpus gives its orientation.
+
 ## The collection
 
 The book walks its reader through a house whose rooms are the ideas, and it carries its doctrine in figures: the house with no ceiling, the ink that listens, the gatekeeper met with a bow, the messenger, the racket, the gold thread, the tuning fork, the fruit that falls, the orchard, the cusp, the circle, the score. The vault holds them as image-category claims and in the figure glossary, each quoting its equation and its executed prose. It has never sorted them by what each figure does to a reader — whether a place to walk, a character to meet, an object to hold, or a movement to make — nor asked which carry a mechanism and which a mood. The naming directive holds throughout: each figure is a candidate label for a concern, and the survey sorts the concerns.
@@ -16,7 +18,7 @@ The author's own figures, and his one figure for recognition. His organizing ima
 
 ## Provisional families (proposals, not filings)
 
-By what the figure is to a reader: places to walk (the house, the rooms, the threshold, the orchard, the valley), which carry sequence and position; characters to meet (the gatekeeper, the messenger, the poems' animals), which carry relation and address; objects to hold or be struck by (the tuning fork, the score, the ink, the gold thread), which carry the book's relation to its reader; movements to make (the bow, the catch, the fruit falling, the sending), which carry the participation law; conditions to recognize (the racket, the hollow interaction, the cusp), which carry diagnosis. By whether the figure works: figures that carry a mechanism (the racket's payoff; the gatekeeper's bow as the parts model's operating rule; the tuning fork's striking surface as the reader's move) and figures that carry a mood (candidates, to be tested rather than assumed). The hypothesis to test is that the figures from the author's own seed carry mechanisms and the figures the compiled month added carry moods, which the making's record would predict and the craft-evidence rule can check against the executed prose.
+The families below are the groups this survey would sort its instances into, proposed rather than filed. By what the figure is to a reader: places to walk (the house, the rooms, the threshold, the orchard, the valley), which carry sequence and position; characters to meet (the gatekeeper, the messenger, the poems' animals), which carry relation and address; objects to hold or be struck by (the tuning fork, the score, the ink, the gold thread), which carry the book's relation to its reader; movements to make (the bow, the catch, the fruit falling, the sending), which carry the participation law; conditions to recognize (the racket, the hollow interaction, the cusp), which carry diagnosis. By whether the figure works: figures that carry a mechanism (the racket's payoff; the gatekeeper's bow as the parts model's operating rule; the tuning fork's striking surface as the reader's move) and figures that carry a mood (candidates, to be tested rather than assumed). The hypothesis to test is that the figures from the author's own seed carry mechanisms and the figures the compiled month added carry moods, which the making's record would predict and the craft-evidence rule can check against the executed prose.
 
 ## Empty cells
 
@@ -24,7 +26,7 @@ The vault has no figure for the second person the book lacks; the two-chair room
 
 ## Tensions it would consolidate
 
-The figures the treatment designed against the figures the executed draft kept. The author's figures against the compiled month's. Places that imply an arc against conditions the Stance says are simultaneous. And the naming directive's rule that a figure never carries a sentence alone against a survey whose subject is the figures.
+This section names the tensions the survey would consolidate, each a disagreement inside the book's doctrine that stays open in a note rather than being resolved. The figures the treatment designed against the figures the executed draft kept. The author's figures against the compiled month's. Places that imply an arc against conditions the Stance says are simultaneous. And the naming directive's rule that a figure never carries a sentence alone against a survey whose subject is the figures.
 
 ## Candidate claims (springboards)
 
