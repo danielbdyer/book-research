@@ -51,6 +51,9 @@ def strip_noise(text):
     text = re.sub(r'`[^`\n]*`', ' ', text)                             # inline code and paths
     text = re.sub(r'\[\[[^\]]*\]\]', ' ', text)                        # wiki-link targets
     text = re.sub(r'https?://\S+', ' ', text)
+    # Quotations keep their words, and a word mentioned inside quotation marks is a mention, not a use.
+    text = re.sub(r'"[^"\n]{1,300}"', ' ', text)
+    text = re.sub(r'\u201c[^\u201d\n]{1,300}\u201d', ' ', text)
     return text
 
 def scan_text(text, lexicon, tiers=('hard',)):
