@@ -4,6 +4,8 @@
 
 *The author set the task on 2026-09-25. It has three parts: map the whole conversation; clarify it against its intent and against how the books will actually function; and design the system it points toward, as "an enumerable surface that would be a legible profile of the definable need of the content of the book itself." He framed the mapping itself as one pole of a swing "between the two poles of collapse and oneness." That framing applies the conversation's own founding observation to the work on the book: two poles, neither "fundamentally less than the other" (line 156). Numbers in parentheses are transcript line numbers. Everything here stands at the lowest standing the system below defines, surfaced material, which only the author raises.*
 
+*Corrections from the repository reading, 2026-09-25. This map was built from the transcript alone. A later reading of the vault against it, recorded in `system-and-vault-beyond-the-design-2026-09-25.md` (Part II), found places where the vault or the author's recorded decisions show it wrong. Three are corrected in place. The aim in Part X now rests on the author's own words at line 770, not on the model's sentence at line 3704. The rows on the manuscript's spine in Part VIII now carry the author's decision of 2026-08-16 that the four movements are Book I's dramaturgy and the psychedelic arc is Book II's. And Part III's paragraph on the aim now describes the letter's relation accurately. The other corrections stand as recorded in that document. Among them: the Form question at line 1183 is the model's words, which the author claimed as his life-question at line 1190. The author settled on 2026-08-20 how the Sanskrit terms pair, which leaves no basis for Part IV's reading of reflexive awareness and for Part VII's "One shape at four scales" table. And the vault's `state:` field is not the standing ladder.*
+
 ## How to read this
 
 - **Part I** describes the conversation as a whole: what it was for, its shape, where it turned, and who said what.
@@ -17,6 +19,8 @@
 - **Part IX** populates the design from the transcript alone, as a first enumeration.
 - **Part X** enumerates the 146 axiom statements in the transcript, asks what system they form and what it points at, and writes each family of axioms onto the design as the condition on one of its relations.
 - **Part XI** lists the questions to carry into the repository phase.
+
+A few words recur in their vault senses. *Company* means thinkers who reached the same finding independently, held as company rather than proof. A *tension* is a disagreement inside the book's doctrine, kept open rather than resolved. A *sounding* is a question only the author can answer. A *topic map* is a page gathering the claims of one concern. "The register" means the reconciliation register, `reframe-reconciliation-register-2026-08-13.md`, the analysis's own list of the conversation's twenty-five forks, unless the text names the Commitments register or the Remainder. "Polyphony" is the author's own word at line 436, not the vault's name for its family files.
 
 ---
 
@@ -178,7 +182,7 @@ The conversation declines to name one center: "We have not chosen a final term. 
 | Entry condition | sufficiency | "the more that you allow that sufficiency to exist... it's one of the core conditions for being able to enter into this sort of reality to begin with" (446) |
 | Horizon | flourishing | "Flourishing need not be the doctrine. It can be the horizon" (7373) |
 
-The aim and the constraint need each other. The constraint says what the books must not do: take the reader's place as the author of what the reader recognizes. The aim says what the books are for. The letter the author carried made its reader belong more to herself, and he names that as "exactly the source of what I'm looking to give back" (770). The cartography states both at once in its twelfth axiom, "Relationship can increase sovereignty" (3828). A book that kept only the constraint would be safe and would change nothing. The late architectures lean that way (drift 3 above), and the author's own turns correct them.
+The aim and the constraint need each other. The constraint says what the books must not do: take the reader's place as the author of what the reader recognizes. The aim says what the books are for. The relationship his first love described in her letter made each of them belong more to themselves: it "inspires patriotism in herself... And she did the same thing for me", and he names it as "exactly the source of what I'm looking to give back" (770). The cartography states both at once in its twelfth axiom, "Relationship can increase sovereignty" (3828). A book that kept only the constraint would be safe and would change nothing. The late architectures lean that way (drift 3 above), and the author's own turns correct them.
 
 ---
 
@@ -253,7 +257,7 @@ At 7:30 the model named five conditions under which recognition tends to occur (
 | 2. Arrange the conditions for recognition | supplies the five conditions above | 311; 271 |
 | 3. Direct attention and leave meaning free | steers where the reader looks and never tells the reader what they found | 214; 1484; 1709; 15217–15227 |
 | 4. Hold the poles unranked | invites the reader to see both poles as their own movement | 156; 166; 391 |
-| 5. Keep company without collapsing it | brings in the traditions and thinkers who noticed the same thing, with their differences intact | 224; 2594; 3164; 3344 |
+| 5. Keep company without collapsing it | brings in the traditions and thinkers who noticed the same thing, held as company rather than as proof, with their differences intact | 224; 2594; 3164; 3344 |
 | 6. Show the author's crossing as an exemplar | offers what the author came to see, marked by how firmly he holds it | 3322–3326; 12415–12429 |
 | 7. Teach its own exit | says what its own frame hides, and how to set the frame down | 2610–2618; 16034; 16739; 10271 |
 | 8. Offer a contract and keep it | states what it will and will not do for this reader | 17060; 17077; 1590–1594 |
@@ -538,10 +542,10 @@ The reconciliation register lists twenty-five forks. The design settles or place
 | 15. The generated architectures | read as surfaced material whose variation reveals the invariants (Part II) |
 | 16. Private and public fields | the note and the standing levels hold the author's interior; everything else is relational |
 | 17. Whether synthesis can be delegated | correlative synthesis may be surfaced by an AI; authorial synthesis is a Crossing the author holds |
-| 18. Four competing spines | placed at four levels: the pulse is the work's rhythm and a polarity's movement; the five questions are the way through the system; the four movements are each Book's dramaturgy; the eleven types are the ontology |
-| 19. The spine of the manuscript | the four movements, from the transcript; any peak-shaped arc carries the false-peak condition (Part IV) |
+| 18. Four competing spines | placed at four levels: the pulse is the work's rhythm and a polarity's movement; the five questions are the way through the system; the four movements are each Book's dramaturgy; the eleven types are the ontology. *Corrected by the vault:* the author allocated the dramaturgies on 2026-08-16, the four movements to Book I and the psychedelic arc to Book II (`ops/decisions.md`) |
+| 19. The spine of the manuscript | the four movements, from the transcript; any peak-shaped arc carries the false-peak condition (Part IV). *Corrected by the vault:* Book II's spine is the psychedelic arc by the author's decision of 2026-08-16, and his pick of 2026-08-20, "peak resolves into return", already answers the false-peak condition (`ops/decisions.md`) |
 | 20. The house or the field as the governing image | the transcript supplies almost no house imagery (harvest, §3), so it cannot decide this; Figures can hold either |
-| 21. Vervaeke's load | Locus fields: what he discloses, and his wisdom test as the caution he brings (2316) |
+| 21. Vervaeke's load (what he carries for the book's argument) | Locus fields: what he discloses, and his wisdom test as the caution he brings (2316) |
 | 22. The sense of "recognition" | the doctrinal sense, recognition of what already is (2161), is a Concern; the generic event is the note |
 | 23. Which scheme organizes the thinkers | the relations among Loci; quadrants and ontological roots are fields, not taxonomies |
 | 24. Tradition as its own node | Locus holds traditions as well as thinkers |
@@ -582,7 +586,7 @@ Everything below is surfaced material with its transcript line, except where the
 
 ### The profile, as the transcript leaves it
 
-In this grid, **A** means the author's own words supply the column, **m** means only the model's words do, and **·** means the transcript supplies nothing. The anchors are in the tables above and below; the grid is a first pass for the repository phase to correct and extend.
+In this grid, **A** means the author's own words supply the column, **m** means only the model's words do, and **·** means the transcript supplies nothing. The anchors are in the tables above and below; the profile grid is a first pass for the repository phase to correct and extend.
 
 | Concern | Question | Book I | Book II | Pair | Practice | Encounter | Company | Crossing | Durable perspective | Exit |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -602,7 +606,7 @@ In this grid, **A** means the author's own words supply the column, **m** means 
 | Company | m | m | m | m | m | A | A | m | A | m |
 | Power | m | m | m | m | · | A | m | · | A | · |
 
-The grid shows three things. First, the model's turns supplied the question for all but one concern, the two book forms for every concern, and most of the pairs, while the author's turns supplied lived material (an encounter, a statement in his own words, or both) for twelve of the fifteen. Second, the two columns the transcript leaves nearly empty are Crossing (two entries, both surfaced by the model) and Exit (three). These are the kinds of content only the author's own comparative reading and his honest statement of each frame's limits can supply, and they are the clearest need the profile shows. Third, four concerns (Attention, Meaning, Transformation, Integration) have no statement in the author's words, and Integration has the thinnest row.
+The profile grid shows three things. First, the model's turns supplied the question for all but one concern, the two book forms for every concern, and most of the pairs, while the author's turns supplied lived material (an encounter, a statement in his own words, or both) for twelve of the fifteen. Second, the two columns the transcript leaves nearly empty are Crossing (two entries, both surfaced by the model) and Exit (three). These are the kinds of content only the author's own comparative reading and his honest statement of each frame's limits can supply, and they are the clearest need the profile shows. Third, four concerns (Attention, Meaning, Transformation, Integration) have no statement in the author's words, and Integration has the thinnest row.
 
 ### Pairs: distinctions the books offer the reader
 
@@ -923,7 +927,7 @@ The seventh is the one demand: "Relationship should enlarge agency rather than r
 It points at three things.
 
 1. **A relation.** The relation is facilitation in its widest sense: an influence that increases the other's capacity for participation instead of taking it (14934). Every restraint rules out one way the relation fails, and every enlargement names what the relation is for.
-2. **An aim.** The aim is the letter's relation, carried to every pair of parties in the ecology: "My participation with you makes it more possible for you to belong to yourself" (3704). Each of the 21 enlargements names something that belongs to the other party's own life, such as the capacity to participate consciously, their own authorship, their own center, their flourishing, or the diversity of what people find. None names a content, something the reader should believe or conclude.
+2. **An aim.** The aim is the relation the author found in his first love's letter, carried to every pair of parties in the ecology. He described it at line 770: "our relationship inspires patriotism in herself... And she did the same thing for me". The model later put the same relation as "My participation with you makes it more possible for you to belong to yourself" (3704); that sentence is the model's articulation and stands at surfaced. Each of the 21 enlargements names something that belongs to the other party's own life, such as the capacity to participate consciously, their own authorship, their own center, their flourishing, or the diversity of what people find. None names a content, something the reader should believe or conclude.
 3. **A center it leaves unnamed.** None of the 146 statements says what the reader, the participant, or the author should recognize, conclude, or become. The model said as much of its first axioms: they "don't tell people what to think but describe conditions that keep inquiry alive" (391). The reweave makes the division explicit. It lists axioms among the things that "can be named" in the explicit architecture (10613–10625), and sets beside it an implicit architecture of what "cannot—or should not—be completely named": "resonance, recognition, embodiment, mystery, transformation, aliveness, intuition, significance, emergence" (10629–10641). Read against that division, every axiom is a named rule about how what can be named may bear on what cannot. The implicit architecture is what Part VII leaves unmodeled on purpose. So the design and the axioms divide the work: the design holds what can be named and enumerated, and the axioms govern how everything the design holds may bear on what it deliberately does not name.
 
 The relation applies to this document as well: a model wrote it, as a model produced the architectures it maps. Both are influences on the author, and the transcript's recursive test applies to both: whether the whole system leaves "the human being more capable of participating in their own life" (14957).
