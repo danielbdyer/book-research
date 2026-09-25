@@ -15,7 +15,8 @@
 - **Part VII** designs the system that holds that content.
 - **Part VIII** places every earlier entity model and every recorded fork in the design.
 - **Part IX** populates the design from the transcript alone, as a first enumeration.
-- **Part X** lists the questions to carry into the repository phase.
+- **Part X** enumerates the 146 axiom statements in the transcript, asks what system they form and what it points at, and writes each family of axioms onto the design as the condition on one of its relations.
+- **Part XI** lists the questions to carry into the repository phase.
 
 ---
 
@@ -432,6 +433,8 @@ The two-book handoff says the graph "should primarily express: what illuminates 
 | Structure serves encounter. | the system | Is maintaining this more interesting than using it? | 4605; 9447 |
 | Relationship can increase sovereignty. | the aim | Does this leave the reader belonging more to themselves? | 3828; 770 |
 
+Part X enumerates all 146 axiom statements in the transcript and finds each of these nine commitments to be the condition on one of the relations above.
+
 **The Remainder** holds the open questions and unresolved forks, kept visible rather than closed (Part IX), because "What resists synthesis should not be treated as failure" (9987).
 
 ### One shape at four scales
@@ -528,7 +531,7 @@ The reconciliation register lists twenty-five forks. The design settles or place
 | 8. How deep the Śaiva underpinning is stated | an entry in the Remainder; the Locus fields keep the tradition's vocabulary quoted and its texts named |
 | 9. Whether saṅkoca is bondage or a productive standpoint | an entry in the Remainder, for the texts; the unranked poles are the author's own commitment (156) either way |
 | 10. Four models called "three layers" | four separate axes: standing, roles (the Book fields), direction (life, corpus, book), and scale |
-| 11. The competing axiom lists | nine commitments, each tied to a function and a test |
+| 11. The competing axiom lists | nine commitments, each tied to a function and a test; Part X enumerates every list and writes each family onto the relation it conditions |
 | 12. The senses of "locus" | Locus for the standpoint; the scale field for self, relation, and ecology |
 | 13. Three scales or seven | three: self, relation, and ecology |
 | 14. Proposition or concept as the unit | the Pair for concepts; the Durable perspective and the Passage for propositions; standing for how firmly each is held |
@@ -699,7 +702,7 @@ The system is built from the same form of thought as the books, which is one sig
 | noticing moments of contraction and expansion | 1037 | the unranked poles |
 | "observe, name the constraint, notice what emerges, record the questions that open" | 1081 | Form |
 | "try this on"... "see whether it fits" (the author) | 176; 1190 | Recognition; Authorship |
-| "what remains?" (the author) | 974 | Company |
+| "what remains here" (the author) | 974 | Company |
 | the five questions | 7424–7442 | the whole system |
 | the comparative method, from "Enter a tradition/locus" to "Return to life and see whether it continues to disclose" | 5259–5285 | Company |
 | the three questions put to each forebear | 2024–2032 | Company |
@@ -829,7 +832,305 @@ These stand at believed: the author said them as his own view.
 
 ---
 
-## X. What this carries into the repository phase
+## X. The axiom system, enumerated
+
+The author asked what system the axioms and lists form when they are enumerated, how it meets the design, and what it points at (author direction, 2026-09-25). This part answers from the transcript alone.
+
+### What was enumerated
+
+The transcript states axioms in the voice half, in the three layers of practice that open the text half, and in six of the seven late architectures. Several further lists do the same work: the paradoxes and their common principle, the list of what not to build, the red-team questions, and the recursive test. Together they hold 146 statements:
+
+| Where | Lines | Statements |
+|---|---|---|
+| the voice half, the model answering the author | 381–927 | 30 |
+| the three layers of practice, at 9:57 PM | 1455–1490 | 19 |
+| the cartography: twelve axioms, the paradoxes and master axioms, what not to build | 3774–7255 | 33 |
+| the reweave: thirteen axioms, the constitutional principle, nine named axioms | 8413–10044 | 24 |
+| the agent handoff: ten working axioms, the meta-question, eight principles | 11315–12473 | 19 |
+| the two-book handoff: eight axioms, the authorial gate, five red-team questions, the recursive test | 13326–14957 | 17 |
+| the chapter outlines and the hierarchy | 17197–18120 | 4 |
+
+Each statement is coded three ways. The first code records the party with influence that the statement constrains. The second records whose activity the statement protects or enlarges. The third records the statement's kind:
+
+- a **restraint** says what the party with influence must not do;
+- an **enlargement** says what that party should increase in the other;
+- a **claim** states something about knowing or about form;
+- a **self-applied** statement turns the rule back on the framework;
+- a **tension** holds two goods together.
+
+The coding is one reader's reading. It is set out in full at the end of this part so that it can be checked and corrected.
+
+### One relation, stated 146 times
+
+Every statement names something to protect or enlarge, and 127 of the 146 also name the party with influence over it; the other 19 are claims that name no party. The parties with influence are these:
+
+| The party with influence | Statements |
+|---|---|
+| the framework or system | 52 |
+| the book | 19 |
+| delegation to research or to an AI | 18 |
+| the facilitator | 15 |
+| the author | 8 |
+| a relationship | 7 |
+| technology | 4 |
+| traditions | 2 |
+| every influence at once | 2 |
+| a claim with no party named | 19 |
+
+What they protect or enlarge is, in every case, someone's own activity:
+
+| What the statement protects or enlarges | Statements |
+|---|---|
+| the reader's recognition and authorship | 44 |
+| the openness of the inquiry | 31 |
+| the author's own authorship | 23 |
+| lived experience | 18 |
+| a life | 14 |
+| the framework's own openness | 8 |
+| difference among traditions and voices | 6 |
+| everyone at once | 2 |
+
+The first five rows of the second table account for 130 of the 146 statements. The axiom system therefore states one relation many times over: something with influence, and someone's own participation, which the influence can enlarge or take away. The two-book handoff names the relation and its test outright. It lists seven instances — "The facilitator facilitates the participant. The practitioner learns to facilitate themselves. The author facilitates the reader through the book. The AI facilitates the author through conversation. The Tana system facilitates the author's future inquiry. The traditions facilitate recognition across generations. The ecology facilitates participation at the civilizational level" (14918–14930) — and says that "every one of these relationships raises the same question: Does the thing doing the facilitating increase the other's capacity for participation, or does it gradually take participation away?" (14932–14934).
+
+### Restraint and enlargement, counted
+
+| | Restraints | Enlargements | Claims | Self-applied | Tensions |
+|---|---|---|---|---|---|
+| the voice half (30 statements) | 4 (13%) | 12 (40%) | 11 (37%) | 3 (10%) | 0 |
+| the later lists (116 statements) | 57 (49%) | 9 (8%) | 34 (29%) | 6 (5%) | 10 (9%) |
+| all 146 | 61 (42%) | 21 (14%) | 45 (31%) | 9 (6%) | 10 (7%) |
+
+Two in five of the statements the model made during the spoken exchange enlarge something. In the lists produced after the voice exchange ended, about one in thirteen does, and half are restraints. The count measures the tilt toward restraint named in Part II (drift 3). It cannot say whether the difference follows the author's voice or the hour, because the voice half was also the conversation's first two hours.
+
+### The influence the axioms describe rather than restrain
+
+Six of the eight named parties with influence are restrained somewhere, and the most restrained are the ones that could take a person's place: 17 of the 18 statements about delegation are restraints, as are 12 of the 15 about the facilitator and 25 of the 52 about the framework. Two parties are never restrained, and the statements about them differ in kind.
+
+Technology's four statements are all demands. Each says what technology, or the work done in a world full of it, should do: "technology should increase rather than diminish human capacity" (11327); "Technology should increase participation rather than merely increase throughput" (13340).
+
+Relationship's seven statements, all but one, say what relationship already does or can do:
+
+- "Love expands authorship." (785)
+- "The gift is not replacing someone's center, but helping them inhabit it." (785)
+- "Relationship can increase sovereignty," because "Good participation does not consume agency; it can increase one's capacity to belong to oneself." (3828–3830)
+- "Relationship need not require surrender of agency." (8433)
+- "sovereignty can exist within relationship" (11323), and "Sovereignty is compatible with relationship" (13336).
+
+The seventh is the one demand: "Relationship should enlarge agency rather than replace it" (9955). The first two came less than a minute after the author told the model about his first love's letter: "our relationship inspires patriotism in herself... And she did the same thing for me" (770; the author's turn is stamped 8:06, the model's answer 8:07). Enumerated, the axiom system keeps relationship as the one influence it mostly describes rather than restrains or instructs, and it holds every other influence to the standard of becoming that kind of relationship: the book, the facilitator, the framework, technology, the model, and the system that holds the research.
+
+### What the system points at
+
+It points at three things.
+
+1. **A relation.** The relation is facilitation in its widest sense: an influence that increases the other's capacity for participation instead of taking it (14934). Every restraint rules out one way the relation fails, and every enlargement names what the relation is for.
+2. **An aim.** The aim is the letter's relation, carried to every pair of parties in the ecology: "My participation with you makes it more possible for you to belong to yourself" (3704). Each of the 21 enlargements names something that belongs to the other party's own life, such as the capacity to participate consciously, their own authorship, their own center, their flourishing, or the diversity of what people find. None names a content, something the reader should believe or conclude.
+3. **A center it leaves unnamed.** None of the 146 statements says what the reader, the participant, or the author should recognize, conclude, or become. The model said as much of its first axioms: they "don't tell people what to think but describe conditions that keep inquiry alive" (391). The reweave makes the division explicit. It lists axioms among the things that "can be named" in the explicit architecture (10613–10625), and sets beside it an implicit architecture of what "cannot—or should not—be completely named": "resonance, recognition, embodiment, mystery, transformation, aliveness, intuition, significance, emergence" (10629–10641). Read against that division, every axiom is a named rule about how what can be named may bear on what cannot. The implicit architecture is what Part VII leaves unmodeled on purpose. So the design and the axioms divide the work: the design holds what can be named and enumerated, and the axioms govern how everything the design holds may bear on what it deliberately does not name.
+
+The relation applies to this document as well: a model wrote it, as a model produced the architectures it maps. Both are influences on the author, and the transcript's recursive test applies to both: whether the whole system leaves "the human being more capable of participating in their own life" (14957).
+
+### Where the axioms came from
+
+Nearly every family of axioms first appears after a turn of the author's that had already stated its substance in his own words, sometimes minutes before and sometimes hours:
+
+| The author's turn | Line and time | The family that followed it | First appears |
+|---|---|---|---|
+| "neither of those is actually looked at as being fundamentally less than the other" | 156, 7:13 | contraction is information, not failure; wholeness as the capacity to participate consciously | 391; 401 |
+| "the framing of the book is meant to facilitate and not like change, fix or heal or like proclaim righteousness" | 244, 7:23 | the author's experience is an offering, not an authority; do not colonize experience; invitation is different from direction | 521; 1471 and 3784; 1483 |
+| "the book can't verify that you've done the work" | 266, 7:27 | recognition is participatory, not transmissible; recognition cannot be prescribed; the participant's recognition belongs to the participant | 391; 3824; 1489 |
+| "it's not me it's what's moving through me right now," against the trap of "look at me, look what I found" | 376, 7:38 | the framework never exempts itself from inquiry; no locus becomes sovereign; let what is encountered transform the framework | 381; 3792 and 6089; 7121 |
+| "that polyphony"; "Yes, you too... also have a way of recognizing the world that is genuinely useful" | 436–446, 7:44–7:46 | a framework succeeds when it increases the diversity of authentic insights; aim for polyphony, not unanimity; facilitation preserves authorship in the participant | 521 |
+| the axioms of authorship kept apart from "the axioms of what the book portends itself" | 526, 7:51 | the three layers of practice: the author's, the facilitator's, the participant's | 1455–1510 |
+| "held easily" | 616, 7:54 | the framework "stays light enough to move with people rather than over them" | 877 |
+| the first love's letter | 770, 8:06 | love expands authorship; the gift is helping them inhabit their center; relationship can increase sovereignty; relationship should enlarge agency rather than replace it | 785; 3828; 9955 |
+| "a delegated practice"; "it has to be mine at its... authorial... basis" | 810–820, 8:11–8:15 | don't outsource meaning-making; authorship requires participation; experience cannot be delegated; "AI facilitates. Human authors."; the authorial gate | 887; 3804; 11325; 12373; 14414 |
+| the attention economy's "fundamental lack of sufficiency... or sovereignty" | 862, 8:19 | in a world where information is abundant, the work is to deepen participation; technology should increase rather than diminish human capacity | 927; 11327; 12447 |
+| "these same axioms also relate to my own authorship of the book" | 882, 8:21 | the author is the first participant | 887 |
+| "what remains" | 974, 8:26 | what cannot yet be integrated is meaningful information; what resists synthesis should not be treated as failure | 8466; 9987 |
+| things "lived inside" and "informational... roots" | 1012, 8:29 | experience precedes its representation; information and realization are different; understanding that has not passed through participation is provisional | 3796; 11326; 9935 |
+| "constraints are... exactly what gives fluency" | 1074, 8:40 | constraints produce fluency; constraint reveals form; let constraints reveal what is essential | 3808; 10029; 1470 |
+| "the providence in that that data is not yet tracked" (provenance) | 1096, 8:44 | meaning gains depth when its ancestry remains visible; distinguish what was encountered, inferred, believed, and claimed | 9963; 12415 |
+| "already over engineering the system again"; "emergent reality is the only way" | 1138, 1210 (8:47–8:53) | the constitutional principle; do not capture what must remain alive; do not predict the ontology; the system stays smaller than the inquiry; what not to build | 9447; 9913; 12409; 13344; 7224 |
+| "collecting other traditions... the durable perspective I can acquire from it" | 2975, 10:19 | durable perspectives are acquired through encounter; preserve difference before synthesizing; traditions illuminate a concern without being collapsed into sameness | 3816; 3812; 8463 |
+
+A few statements have no earlier turn of the author's behind them and are the model's own contributions: "reality is encountered through relationship" (391), "Inquiry before certainty" (401), "Articulation reveals and reduces" and "a good question scales better than a good answer" (521), and the reweave's claims about attention, embodiment, relationality, and recursion (8436–8448).
+
+### How the axioms meet the design
+
+The nine commitments in Part VII are this system reduced to what the books' functions need. The enumeration shows a more exact fit: each family of axioms is the condition under which one of the design's relations holds, stating what the relation must not take from the other party, what it is for, or what it depends on. The last three rows govern the design's own conduct rather than a relation among its types.
+
+| Relation (Part VII) | Its condition | Anchors |
+|---|---|---|
+| A Locus illuminates a Concern | without becoming sovereign over it, and admitting what it obscures as well as what it discloses | 7117; 3788; 2626 |
+| A Crossing yields a Durable perspective | only after the difference is understood, so that what survives is what remains after difference was preserved, not after it was erased | 3344–3346; 3812 |
+| A Pair articulates a Concern | as a difference the reader can find in their own experience, with neither pole ranked above the other, and never as a verdict about the reader | 311; 156; 15217–15227 |
+| A Practice opens a Pair | as an invitation rather than a direction, leaving the finding to the reader | 1483; 1489 |
+| A Figure carries a Pair or a Concern | knowing that "Articulation reveals and reduces" | 521 |
+| A Craft move carries content onto the page | guiding attention without dictating interpretation, and never explaining the reader out of an encounter | 1484; 17197 |
+| An Encounter grounds a Durable perspective | because experience precedes its representation | 3796 |
+| A Passage realizes content | only through the author's own participation, the author being the first participant | 887; 3804; 10019 |
+| A Book projects a Concern | as an offering and not an authority, completed by the reader's participation, so that the reader belongs more to themselves | 1465; 521; 3828–3830 |
+| An AI surfaces material | facilitating, and never raising standing | 12373; 14414 |
+| The system holds traces | without capturing what must remain alive, staying smaller than the inquiry, and failing if maintaining it becomes more interesting than participating | 9913; 13344; 9447 |
+| The whole design | subject to itself, and changed by what it lets be encountered | 3820; 7121 |
+
+This table is the design's working form of its ethics. An axiom is not a separate object to maintain; it is the condition written on a relation. The commitments table in Part VII remains as the short list, and each of its nine rows appears here as one of these conditions. This refines one relation in Part VII: a Commitment protects a function of the books by conditioning the relations that serve that function.
+
+### The full enumeration
+
+The table below lists all 146 statements in transcript order. Where a statement is condensed, the cited line holds the original wording.
+
+| Line | Where | Statement | Constrains | Protects or enlarges | Kind |
+|---|---|---|---|---|---|
+| 381 | voice half | The framework never exempts itself from inquiry | the framework or system | the framework itself | self-applied |
+| 391 | voice half | recognition is participatory, not transmissible | the book | the reader | claim |
+| 391 | voice half | contraction is information, not failure | the framework or system | experience | claim |
+| 391 | voice half | reality is encountered through relationship | — (a claim) | experience | claim |
+| 391 | voice half | the framework is subject to the framework | the framework or system | the framework itself | self-applied |
+| 401 | voice half | Inquiry before certainty | the framework or system | the inquiry's openness | claim |
+| 401 | voice half | Wholeness is not the elimination of polarity but the capacity to participate consciously | — (a claim) | the reader | enlargement |
+| 521 | voice half | the author's experience is an offering, not an authority | the author | the reader | restraint |
+| 521 | voice half | a framework succeeds when it increases the diversity of authentic insights | the framework or system | the reader | enlargement |
+| 521 | voice half | Measure by aliveness and faithfulness to one's own experience | the book | the reader | enlargement |
+| 521 | voice half | facilitation preserves authorship in the participant | the facilitator | the reader | restraint |
+| 521 | voice half | A work is completed by participation | the book | the reader | claim |
+| 521 | voice half | Articulation reveals and reduces | the book | experience | claim |
+| 521 | voice half | The participant is irreducibly unique | — (a claim) | the reader | claim |
+| 521 | voice half | Aim for polyphony, not unanimity | the framework or system | difference | enlargement |
+| 521 | voice half | a good question scales better than a good answer | the book | the inquiry's openness | claim |
+| 521 | voice half | Each articulation is provisional | the book | the inquiry's openness | claim |
+| 521 | voice half | the medium should embody the message | the book | the reader | claim |
+| 785 | voice half | Return to self, without isolating from others | — (a claim) | the reader | enlargement |
+| 785 | voice half | Love expands authorship | a relationship | the reader | enlargement |
+| 785 | voice half | The gift is not replacing someone's center, but helping them inhabit it | a relationship | the reader | enlargement |
+| 795 | voice half | the measure of a framework is what it makes possible, not what it explains | the framework or system | the reader | enlargement |
+| 805 | voice half | whatever we build should amplify a person's capacity to participate consciously in their own life | the framework or system | a life | enlargement |
+| 877 | voice half | the work serves participation in life | the book | a life | enlargement |
+| 877 | voice half | the measure of success is whether participants find their own authorship | the book | the reader | enlargement |
+| 887 | voice half | don't outsource meaning making | delegation or AI | the author's authorship | restraint |
+| 887 | voice half | Let research be collaborative but understanding be lived | delegation or AI | the author's authorship | restraint |
+| 887 | voice half | Write from transformed experience, not just accumulated knowledge | the author | experience | claim |
+| 887 | voice half | the author is the first participant | the author | the author's authorship | self-applied |
+| 927 | voice half | in a world where information is abundant, the work is to deepen participation | technology | a life | enlargement |
+| 1463 | three layers | The author is the first participant | the author | the author's authorship | self-applied |
+| 1464 | three layers | Don't outsource meaning-making | delegation or AI | the author's authorship | restraint |
+| 1465 | three layers | The author's experience is an offering, not an authority | the author | the reader | restraint |
+| 1466 | three layers | The framework remains subject to its own inquiry | the framework or system | the framework itself | self-applied |
+| 1467 | three layers | Research serves lived inquiry rather than replacing it | delegation or AI | the inquiry's openness | restraint |
+| 1468 | three layers | The structure must embody the message | the book | the reader | claim |
+| 1469 | three layers | Preserve surprise | the framework or system | the inquiry's openness | restraint |
+| 1470 | three layers | Let constraints reveal what is essential | the framework or system | the inquiry's openness | claim |
+| 1471 | three layers | Don't colonize the reader's experience | the book | the reader | restraint |
+| 1481 | three layers | Facilitation preserves participant authorship | the facilitator | the reader | restraint |
+| 1482 | three layers | Don't confuse emergence with compliance | the facilitator | the reader | restraint |
+| 1483 | three layers | Invitation is different from direction | the facilitator | the reader | restraint |
+| 1484 | three layers | Attention can be guided without interpretation being dictated | the facilitator | the reader | restraint |
+| 1485 | three layers | Contraction is information | the facilitator | experience | claim |
+| 1486 | three layers | Difference is generative | the facilitator | difference | claim |
+| 1487 | three layers | The facilitator participates without becoming the center | the facilitator | the reader | restraint |
+| 1488 | three layers | The facilitator's framework must remain permeable | the facilitator | the framework itself | restraint |
+| 1489 | three layers | The participant's recognition belongs to the participant | the facilitator | the reader | restraint |
+| 1490 | three layers | The facilitator is responsible for conditions, not conclusions | the facilitator | the reader | restraint |
+| 3784 | cartography | Do not colonize experience | the framework or system | experience | restraint |
+| 3788 | cartography | Every locus is revelatory and partial | traditions | the inquiry's openness | claim |
+| 3792 | cartography | No locus becomes sovereign | the framework or system | the framework itself | self-applied |
+| 3796 | cartography | Experience precedes its representation | the book | experience | claim |
+| 3800 | cartography | Participation matters | — (a claim) | the reader | claim |
+| 3804 | cartography | Authorship requires participation | delegation or AI | the author's authorship | restraint |
+| 3808 | cartography | Constraints produce fluency | the framework or system | the inquiry's openness | claim |
+| 3812 | cartography | Preserve difference before synthesizing | the framework or system | difference | restraint |
+| 3816 | cartography | Durable perspectives are acquired through encounter | — (a claim) | the author's authorship | claim |
+| 3820 | cartography | The framework is subject to itself | the framework or system | the framework itself | self-applied |
+| 3824 | cartography | Recognition cannot be prescribed | the facilitator | the reader | restraint |
+| 3828 | cartography | Relationship can increase sovereignty | a relationship | the reader | enlargement |
+| 6077 | cartography | The system must itself avoid becoming a substitute for participation | the framework or system | a life | restraint |
+| 6089 | cartography | No framework should become sovereign over the reality it describes | the framework or system | the framework itself | self-applied |
+| 7049 | cartography | authoritative enough to be useful, non-sovereign enough to leave the reader free | the book | the reader | tension |
+| 7061 | cartography | a durable perspective, still open to revision | the author | the author's authorship | tension |
+| 7071 | cartography | an ontology, never mistaken for reality | the framework or system | experience | tension |
+| 7079 | cartography | influence the conditions, relinquish the outcome | the facilitator | the reader | tension |
+| 7087 | cartography | use synthesis without letting it replace one's own discovery | delegation or AI | the author's authorship | tension |
+| 7095 | cartography | structure enough to be usable, not enough to prevent emergence | the framework or system | the inquiry's openness | tension |
+| 7103 | cartography | Participatory sovereignty requires influence without domination | every influence | everyone | tension |
+| 7113 | cartography | Create conditions for recognition without claiming sovereignty over what is recognized | the facilitator | the reader | restraint |
+| 7117 | cartography | Allow every locus to disclose without allowing any locus to become sovereign | traditions | difference | restraint |
+| 7121 | cartography | Let what is encountered transform the framework that made the encounter possible | the framework or system | the framework itself | self-applied |
+| 7228 | cartography | do not build an exhaustive universal ontology | the framework or system | the inquiry's openness | restraint |
+| 7229 | cartography | do not build a rigid taxonomy of all experience | the framework or system | experience | restraint |
+| 7230 | cartography | do not build a linked-list history for every concept | the framework or system | the inquiry's openness | restraint |
+| 7231 | cartography | do not build a mandatory relationship schema | the framework or system | the inquiry's openness | restraint |
+| 7232 | cartography | do not build a giant hierarchy of philosophical truth | the framework or system | the inquiry's openness | restraint |
+| 7233 | cartography | do not build a machine-generated synthesis of traditions | delegation or AI | difference | restraint |
+| 7234 | cartography | do not build a system that requires every encounter to be fully classified | the framework or system | experience | restraint |
+| 7235 | cartography | do not build an AI-authored interpretation layer that becomes canonical | delegation or AI | the author's authorship | restraint |
+| 7255 | cartography | build enough to preserve provenance and what changed, and then stop | the framework or system | the inquiry's openness | restraint |
+| 8430 | reweave | Meaning is generated through participation, not merely received | — (a claim) | the reader | claim |
+| 8433 | reweave | Relationship need not require surrender of agency | a relationship | the reader | claim |
+| 8436 | reweave | Where attention goes, the lived world becomes constituted | — (a claim) | experience | claim |
+| 8439 | reweave | Flourishing requires the capacity to experience enoughness | — (a claim) | a life | claim |
+| 8442 | reweave | Understanding becomes more complete through lived enactment | — (a claim) | experience | claim |
+| 8445 | reweave | Meaning arises between things as well as within them | — (a claim) | experience | claim |
+| 8448 | reweave | Encounter changes the conditions of future encounter | — (a claim) | the inquiry's openness | claim |
+| 8451 | reweave | let meanings become visible without prematurely defining them | the framework or system | the inquiry's openness | restraint |
+| 8454 | reweave | Not everything valuable should be reduced to explicit structure | the framework or system | experience | restraint |
+| 8457 | reweave | What is offered as one's own must pass through one's own participation | delegation or AI | the author's authorship | restraint |
+| 8460 | reweave | Constraint makes style and recognition possible | the framework or system | the inquiry's openness | claim |
+| 8463 | reweave | traditions illuminate a shared concern without being collapsed into sameness | the framework or system | difference | restraint |
+| 8466 | reweave | What cannot yet be integrated is itself meaningful information | the framework or system | the inquiry's openness | claim |
+| 9447 | reweave | If maintaining the model becomes more interesting than participating, the model has failed | the framework or system | a life | restraint |
+| 9903 | reweave | enough structure for emergence to become visible, not enough to predetermine it | the framework or system | the inquiry's openness | tension |
+| 9913 | reweave | Do not capture what must remain alive | the framework or system | experience | restraint |
+| 9935 | reweave | Understanding that has not passed through participation is provisional | — (a claim) | the author's authorship | claim |
+| 9955 | reweave | Relationship should enlarge agency rather than replace it | a relationship | the reader | enlargement |
+| 9963 | reweave | Meaning gains depth when its ancestry remains visible | the framework or system | the inquiry's openness | claim |
+| 9987 | reweave | What resists synthesis should not be treated as failure | the framework or system | the inquiry's openness | claim |
+| 9995 | reweave | complete enough to support participation, never so complete that it is unnecessary | the framework or system | the author's authorship | tension |
+| 10003 | reweave | support recurrence without requiring repetition | the framework or system | the inquiry's openness | claim |
+| 10019 | reweave | The final meaning must pass through the author rather than merely the authoring system | delegation or AI | the author's authorship | restraint |
+| 10029 | reweave | Constraint reveals form | the framework or system | the inquiry's openness | claim |
+| 11321 | agent handoff | human flourishing matters | — (a claim) | a life | enlargement |
+| 11322 | agent handoff | authorship must remain embodied | delegation or AI | the author's authorship | restraint |
+| 11323 | agent handoff | sovereignty can exist within relationship | a relationship | the reader | claim |
+| 11324 | agent handoff | AI should facilitate rather than replace participation | delegation or AI | the author's authorship | restraint |
+| 11325 | agent handoff | experience cannot be delegated | delegation or AI | experience | restraint |
+| 11326 | agent handoff | information and realization are different | — (a claim) | experience | claim |
+| 11327 | agent handoff | technology should increase rather than diminish human capacity | technology | a life | enlargement |
+| 11328 | agent handoff | constraints can reveal essence | the framework or system | the inquiry's openness | claim |
+| 11329 | agent handoff | the ecology matters as much as the individual | — (a claim) | a life | claim |
+| 11330 | agent handoff | the system should serve the inquiry rather than become the inquiry | the framework or system | the inquiry's openness | restraint |
+| 12137 | agent handoff | use systems without letting them replace the human capacity they serve | the framework or system | a life | restraint |
+| 12313 | agent handoff | reject a more sophisticated database that makes encounter less likely | the framework or system | the author's authorship | restraint |
+| 12338 | agent handoff | invite participation through form; let the author experience more | the book | the reader | enlargement |
+| 12361 | agent handoff | AI is a participant in the inquiry, not its owner: AI facilitates, human authors | delegation or AI | the author's authorship | restraint |
+| 12379 | agent handoff | the entity model stays minimal; other entities earn their existence | the framework or system | the inquiry's openness | restraint |
+| 12409 | agent handoff | Don't predict the future ontology. Let use reveal it | the framework or system | the inquiry's openness | restraint |
+| 12415 | agent handoff | distinguish what I encountered, inferred, believe, and will claim | the author | the reader | claim |
+| 12447 | agent handoff | technological civilization more participatory rather than more substitutive | technology | a life | enlargement |
+| 12473 | agent handoff | The process is part of the artifact's meaning | — (a claim) | the author's authorship | claim |
+| 13332 | two-book handoff | Human flourishing matters | — (a claim) | a life | enlargement |
+| 13334 | two-book handoff | Experience cannot be delegated | delegation or AI | experience | restraint |
+| 13336 | two-book handoff | Sovereignty is compatible with relationship | a relationship | the reader | claim |
+| 13338 | two-book handoff | Facilitation should preserve the participant's authorship | the facilitator | the reader | restraint |
+| 13340 | two-book handoff | Technology should increase participation rather than merely increase throughput | technology | a life | enlargement |
+| 13342 | two-book handoff | Structure should serve emergence | the framework or system | the inquiry's openness | restraint |
+| 13344 | two-book handoff | The system should remain smaller than the inquiry | the framework or system | the inquiry's openness | restraint |
+| 13346 | two-book handoff | The author must remain the author | delegation or AI | the author's authorship | restraint |
+| 14414 | two-book handoff | Nothing becomes part of the author's philosophy merely because the AI said it | delegation or AI | the author's authorship | restraint |
+| 14439 | two-book handoff | the field note, in the author's words, as the gate | the author | the author's authorship | claim |
+| 14572 | two-book handoff | more inhabitable, or merely more precise? | the framework or system | the inquiry's openness | restraint |
+| 14582 | two-book handoff | encountered, or merely recognized as sounding true? | delegation or AI | the author's authorship | restraint |
+| 14592 | two-book handoff | Who actually needs this explanation? | the book | the reader | restraint |
+| 14606 | two-book handoff | deeper participation, or another performance target? | the book | the reader | restraint |
+| 14614 | two-book handoff | What recurring lived problem does this new entity solve? | the framework or system | the inquiry's openness | restraint |
+| 14934 | two-book handoff | increase the other's capacity for participation, or take it away? | every influence | everyone | tension |
+| 14957 | two-book handoff | Does the whole system leave the human being more capable of participating in their own life? | the framework or system | a life | enlargement |
+| 17197 | chapter outlines | Do not explain the reader out of an encounter | the book | the reader | restraint |
+| 17215 | chapter outlines | a book about facilitation made an act of facilitation | the book | the reader | claim |
+| 17219 | chapter outlines | a book about self-facilitation made an occasion to practice it | the book | the reader | claim |
+| 18120 | hierarchy | awareness participates; recognition makes it conscious; sovereignty preserves authorship; stewardship asks what conditions we are responsible for | — (a claim) | the reader | claim |
+
+---
+
+## XI. What this carries into the repository phase
 
 The next phase reads the vault against this design. These are the questions to bring to it, in the order they matter to the books:
 
@@ -839,3 +1140,4 @@ The next phase reads the vault against this design. These are the questions to b
 4. Where the pairs in Part IX already live as claims, and which of them have no home.
 5. Where the vault holds material that no function in Part V needs, which is where coalescing would begin.
 6. Whether the per-concern profile can be generated from what the vault holds, so that it stays current without being maintained by hand.
+7. Whether the vault's own standing rules, its methodology directives and the stance its prose keeps, already state the axiom system of Part X in another form, and which relation of the design each rule conditions.
