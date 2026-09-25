@@ -35,7 +35,7 @@
 - Missing fields: `rg --files-without-match '^discipline:'` returns 12, and `^recommendation:` is present on 58.
 - Archive kinds: `ls archive | grep -c '^reading — '` returns 47; the same count gives 3 research records, 8 source notes and 1 encounter record.
 - Read-only query scripts: `bash scripts/queries/lineage-sort.sh`, `candidate-seats.sh`, `link-check.sh` and `decided.sh`. I checked each script for write operations before running it.
-- Inbound links: `rg -o -F "[[name]]" the-*.md` and `rg -l -F "[[name]]" notes/`.
+- Inbound links: a fixed-string ripgrep for each thinker's wiki link over the-*.md and the same search over notes/.
 - I state every other count where it is used, with its search terms.
 
 ## 1. Collation
