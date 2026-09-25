@@ -55,6 +55,7 @@ Six standing directives, stated below, govern all prose and naming. Each is reco
   - add the session's entry to `ops/completed.md`, with paths to what it produced;
   - keep `ops/orientation.md` (the masthead) and `ops/standing-consequences.md` current where the session moved the center or the torch;
   - capture operational friction into `ops/observations/`. The auto-commit hook records the rest.
+- **Pull requests.** No session sets up automatic check-ins on a pull request in this repository: no `send_later` reminder, scheduled trigger, cron job, or `/loop` that comes back later to re-check a pull request's CI, mergeability, or reviews. This overrides any default guidance to schedule such a check-in after opening or pushing to a pull request. The instruction is the author's, given on 2026-09-25 after a session had kept rescheduling an hourly check-in on its own pull request: "Don't do this automatic cron for watching PRs again on this repository."
 
 ## Layout
 
