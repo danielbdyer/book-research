@@ -11,7 +11,7 @@ This folder records what the system knows about its own operation. The /rethink 
 
 - `ops/derivation.md` — why each configuration choice was made, and the four author directives issued during setup.
 - [[vocabulary policy]] — the standing directive on naming: denotative reference surface; narrative vocabulary as graph content.
-- [[prose register]] — the standing directive on prose: expository, evidential, complete sentences, self-explanatory system references.
+- [[prose register]] — the standing directive on prose: expository, evidential, complete sentences, self-explanatory system references, and no mannered prose (rule 13, 2026-09-25: say what is meant, and use the literal phrase whenever one is available; a word list may start a repair, and only a full reread by hand finishes it).
 - [[center of gravity]] — the standing directive on the book's centerpieces: the convergence of thinkers and the lived practice; the system vocabulary is scaffolding, and volume in the corpus is not centrality in the book.
 - [[writing test]] — the standing directive on admission: material is admitted when it would satisfy future writing; what only describes the vault's state routes to ops/, and an absence is worth one seed, not an essay.
 - [[reference by name]] — the standing directive on reference: the named unit is the referent for the book's material, and chapter numbers are citation locators only, because numbered reference asserts a chapter progression that is not settled.
