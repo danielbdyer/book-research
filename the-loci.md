@@ -127,4 +127,4 @@ My recommendation: **stay hands-on for one more family**, watch the output volum
 
 ---
 <!-- baseline notes=516 decisions=121 derived=2026-09-02 -->
-<!--cache id=LOC-src crc=2445a968 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md derived=2026-09-04-->
+<!--cache id=LOC-src crc=491dd846 src=reframe-conversation-full-2026-08-13.md|the-conversation-catalog.md|ops/scaffold.md derived=2026-09-04-->
