@@ -1,6 +1,6 @@
 # The reframe conversation: what it says, how the two books are meant to work, and a design for the material they need
 
-**What this document is.** On the evening of 2026-08-12 the author talked with a language model for about four hours. The full transcript is `reframe-conversation-full-2026-08-13.md`, which runs to 19,087 lines. On 2026-09-25 the author asked a session (the model, working in this repository) to do three things with it: summarize the whole conversation; check the conversation against what it was trying to do and against how the books will actually work; and design the system the conversation points toward. His words for that system were "an enumerable surface that would be a legible profile of the definable need of the content of the book itself." In plain terms, he asked for a list of the kinds of material the books need, short enough to count, from which anyone can see what material exists and what is missing.
+**What this document is.** On the evening of 2026-08-12 the author talked with a language model for about four hours. The full transcript is `reframe-conversation-full-2026-08-13.md`, which runs to 19,087 lines. On 2026-09-25 the author asked a session (the model, working in this repository) to do three things with it: summarize the whole conversation; check the conversation against what it was trying to do and against how the books will actually work; and design the system that the conversation suggests. His words for that system were "an enumerable surface that would be a legible profile of the definable need of the content of the book itself." In plain terms, he asked for a list of the kinds of material the books need, short enough to count, from which anyone can see what material exists and what is missing.
 
 **What it is based on.** The session read the transcript from start to finish. It also read three earlier analyses of the transcript and the vault's record of the conversation, and nothing else in the repository. The three analyses are `reframe-exploration-2026-08-13.md` (called "the exploration" below), `reframe-harvest-2026-08-13.md` ("the harvest"), and `reframe-reconciliation-register-2026-08-13.md` ("the reconciliation register"), which lists twenty-five choices the conversation left open. The vault's record is `archive/encounter — the reframe conversation (2026-08-13).md`. Numbers in parentheses are line numbers in the transcript.
 
@@ -12,16 +12,16 @@
 - The question the author called "the question of my life" (1190) was put to him by the model at line 1183. He took the question as his own, but the words are the model's, and the text now says so.
 - On 2026-08-16 the author decided that four movements (recognition, relation, participation, and stewardship) give Book I its order, and that the arc of the psychedelic experience gives Book II its order. An earlier version gave both books the four movements.
 - On 2026-08-20 the author decided that contraction pairs with expansion (saṅkoca with vikāsa), and that reflexive awareness (vimarśa) is a separate idea rather than one half of a pair. An earlier version of Part 4 built a four-step reading on the other pairing, and a table in Part 7 depended on that reading. Both are removed.
-- The vault's `state:` field records how well supported a note is. It does not record how far the author has taken an idea, which is what the design's "author's level" (Part 7) records.
+- The vault's `state:` field records how well supported a note is. It does not record the author's own relation to an idea, which is what the design's "author's level" (Part 7) records.
 - The author's typed turns number 13, with 512 words, not 12 with 418. The turn at 9:57 PM comes after the pause, and an earlier count placed it with the spoken turns.
 
-**A note on names.** The design needs short names for the kinds of material it lists. Each name below is an ordinary word, and each is defined where it first appears. The book's own words (recognition, participation, sovereignty, authorship, facilitation, and the Sanskrit terms) are used as the transcript uses them. "Polyphony" is the author's word at line 436 for many voices speaking at once; it is not used here as the vault's name for its family files, which each read the whole graph by one organizing idea. Where an earlier version of this document used an invented label, the plain name replaces it, and the old label is mentioned once so that the companion documents can still be matched to this one.
+**A note on names.** The design needs short names for the kinds of material it lists. Each name below is an ordinary word, and each is defined where it first appears. The book's own words (recognition, participation, sovereignty, authorship, facilitation, and the Sanskrit terms) are used as the transcript uses them. "Polyphony" is the author's word at line 436 for many voices speaking at once; it is not used here as the vault's name for its family files, which each read the whole collection of notes by one organizing idea. Where an earlier version of this document used an invented label, the plain name replaces it, and the old label is mentioned once so that the companion documents can still be matched to this one.
 
 ## How this document is organized
 
 1. The conversation: what it was for, how it went, where it changed direction, and who said what first.
 2. The seven outlines the model wrote late in the evening: what stays the same across them, and what changes.
-3. The conversation's center, described as a set of roles.
+3. The conversation's center, meaning the idea the whole inquiry is organized around, described as a set of roles.
 4. The author's founding insight, and why the books present their ideas in pairs.
 5. How the two books are meant to work on their readers.
 6. What material each of the books' functions needs.
@@ -71,24 +71,24 @@ At eleven moments the conversation changes direction, and at each one the author
 
 ### How the thinking moved
 
-The conversation follows a steady pattern. The author names something or asks a question, and the model puts it into words at length. The author then does one of four things with what the model wrote: he takes it in ("letting that land," 316), accepts it ("that's my book," 934), corrects it ("you're actually missing a core ingredient here," 882), or changes its scope (the two books, 12554). The pattern is itself an instance of the books' subject, facilitation. At 10:13 the author said he had "offered you this question as a way to explore and facilitate your natural conclusion" (2509). At 8:49, having said he felt complete, he asked the model for "your own... desire for what's next here" (1178), and the question the model gave back is the one he then called the question of his life (1183, 1190).
+The conversation follows a steady pattern. The author names something or asks a question, and the model puts it into words at length. The author then does one of four things with what the model wrote: he considers it ("letting that land," 316), accepts it ("that's my book," 934), corrects it ("you're actually missing a core ingredient here," 882), or changes its scope (the two books, 12554). The pattern is itself an instance of the books' subject, facilitation. At 10:13 the author said he had "offered you this question as a way to explore and facilitate your natural conclusion" (2509). At 8:49, having said he felt complete, he asked the model for "your own... desire for what's next here" (1178), and the question the model gave back is the one he then called the question of his life (1183, 1190).
 
-Who said something first matters here as a record of how the thinking developed, not as a test of whether it is right. The table below also corrects a mistake in the harvest. The harvest's marker for the author's voice covers the whole early part of the file, so it credits several of the model's sentences to the author. The sentences at lines 311, 391, 401, 481, 521, 795, 825, and 887 are the model's.
+Who said something first matters here as a record of how the thinking developed, not as a test of whether it is right. The table below also corrects a mistake in the harvest. The harvest marks the whole early part of the file as the author speaking, so it credits several of the model's sentences to the author. The sentences at lines 311, 391, 401, 481, 521, 795, 825, and 887 are the model's.
 
 | Wording | First said by | Line | What followed |
 |---|---|---|---|
 | spanda as the bodily "catch": "whoa, like I can't do anything but do this in this moment" | the author | 52 | — |
-| neither of the two poles ranked above the other; the bubble that contains both | the author | 156, 166 | the model later names the two poles differently (2982, 8222) |
+| neither of the two poles ranked above the other; "a bubble that contains the two parts" | the author | 156, 166 | the model later names the two poles differently (2982, 8222) |
 | "the book can't verify that you've done the work" | the author | 266 | — |
-| "ecology of recognition" | the model | 311 | the author takes it in (316) |
-| the framework never exempts itself from inquiry | the model, answering the author's worry about Wilber (376) | 381 | — |
-| "facilitation of facilitation" | the author | 476 | the model builds Book I on it (1390) |
-| the book as the score, not the performance | the model | 501 | the author builds on it (526) |
+| "ecology of recognition" | the model | 311 | the author considers it (316) |
+| "The framework never exempts itself from inquiry" | the model, answering the author's worry about Wilber (376) | 381 | — |
+| "facilitation of facilitation" | the author | 476 | the model makes it the basis of Book I (1390) |
+| the book as "the score of a piece of music rather than the performance itself" | the model | 501 | the author extends it (526) |
 | the author's own rules for his authorship kept separate from "the axioms of what the book portends itself" | the author | 526 | the model compares the author's rules to the load calculations for a bridge, which the people who cross it need not study (531) |
 | "upper ontology" | the author | 546 | — |
 | the axioms "fall away from the book," except for certain readers | the author | 576 | writing for facilitators makes them "legitimate material" (1414) |
 | refusing "to colonize the reader's experience" | the model | 725 | the author: "I think that's spot on" (730) |
-| patriotism for oneself | the author | 770 | the model expands on it (3674–3714) |
+| "inspiring patriotism for oneself" | the author | 770 | the model expands on it (3674–3714) |
 | the delegated practice that "unmoored me" | the author | 810 | the model separates delegating production from delegating exploration (825) |
 | "sovereignty in relationship" | the model | 825 | the author asks, "Relationship to to what exactly" (830) |
 | the author as "the first participant" | the model, after the author's correction (882) | 887 | — |
@@ -96,9 +96,9 @@ Who said something first matters here as a record of how the thinking developed,
 | "conspire," to breathe together | the author | 944 | the model traces the Latin (957) |
 | "what remains" | the author | 974 | — |
 | things "lived inside" and "informational roots" | the author | 1012 | — |
-| constraint gives fluency, and deprivation reveals what is essential | the author | 1074 | — |
+| constraints give fluency, and deprivation "leads to recognition of that which stands essential" | the author | 1074 | — |
 | field notes as events with their own "realization arc," taken "one thing at a time" | the author | 1086 | — |
-| how to hold just enough form that surprise can still happen | the model | 1183 | the author: "the question of my life" (1190) |
+| "how do we hold just enough form so that surprise can still happen?" | the model | 1183 | the author: "the question of my life" (1190) |
 | the encounter as the basic unit of the research record | the author, with the model | 1255–1265 | — |
 | facilitators as the first readers | the author | 1358 | — |
 | "self-facilitation" | the model, answering the author's question (346) | 351 | — |
@@ -134,7 +134,7 @@ The conversation supplies its own test for what lasts: "What survives movement?"
 | Sovereignty as a quality of relationship, not independence and not control | 3640–3670; 7748; 10894; 12777; 15173; 17266–17271; 18405–18421 |
 | Facilitation sets up conditions and does not produce outcomes | 3598–3612; 9146–9157; 11690–11700; 12817; 15475–15479; 17273–17277; 18773 |
 | The encounter, a lived event, as the basic unit of the inquiry | 4729–4747; 10417–10439; 11206–11230; 13380–13398; 17475–17491; 19030 |
-| Traditions as developed ways of seeing, whose differences are kept, and whose parts that fit no synthesis are valued | 4236–4258; 8323–8383; 11086–11119; 13235–13277; 15787–15850; 17857–17907; 18670–18706 |
+| Traditions as developed ways of understanding, whose differences are kept, and whose parts that fit no synthesis are valued | 4236–4258; 8323–8383; 11086–11119; 13235–13277; 15787–15850; 17857–17907; 18670–18706 |
 | Two settings for practice, with another person and with oneself, and facilitators as the first readers | 3544–3582; 7957–8018; 11599–11631; 12683–12742; 14997–16762; 17706–17806; 18922–18989 |
 | The book's form is itself an example of what the book describes | 6395–6413; 10393–10413; 11686–11702; 14363–14377; 17213–17221 |
 | Finding information may be delegated, and authorship may not | 4402–4451; 8756–8784; 10823–10869; 14381–14444; 16561–16592; 17632–17702; 18823–18857 |
@@ -147,7 +147,7 @@ The conversation supplies its own test for what lasts: "What survives movement?"
 
 - **The list of basic kinds of thing changes six times.** The model calls this list the entity model. The big outline lists thirteen kinds (4632), and then a ten-item "minimal viable ontology" (7259). The reorganized outline lists eight, plus six possible ones (8572; 9461). The handoff to another agent lists nine, plus four, and adds Value and Book (11860). The two-book handoff lists twelve, with the two books as two instances of Book (13735; 14622). The hierarchy has a level of person, encounter, field, practice, and tradition, a level concerned with knowing, a level concerned with authorship, and an Author (17456–18061). The content outline draws a chain from Concern to Book (19013–19060).
 - **The list of axioms changes four times.** It has twelve items (3784), then thirteen (8413), ten (11315), and eight (13326), with three candidates for a "master axiom" (7113–7121).
-- **The name of the center changes six times.** The names are "ecology of recognition" (311), "a living ecology of loci, encounters, recognition, and durable perspectives" (3418), "The Ecology of Flourishing" (7642), "the ecology of human participation" (12594), "participatory stewardship" (16910), and ecology and participation described as constituting each other (17911–17961).
+- **The name of the center changes six times.** The center is the idea the whole inquiry is organized around. The names are "ecology of recognition" (311), "a living ecology of loci, encounters, recognition, and durable perspectives" (3418), "The Ecology of Flourishing" (7642), "the ecology of human participation" (12594), "participatory stewardship" (16910), and ecology and participation described as constituting each other (17911–17961).
 - **The structure of the book changes four times.** It is one book in nine parts (10127–10261), then two books in nine and ten parts (13460–13529), then two books in 45 and 34 chapters (14997–16762), and then no chapters at all (from 17237).
 - **The basic unit of content changes once.** "Concept" is the unit throughout, until the hierarchy introduces "Claim" and "Passage" (17664–17702).
 
@@ -158,7 +158,7 @@ The conversation supplies its own test for what lasts: "What survives movement?"
 3. **The later outlines emphasize restraint.** They say at length what facilitation must not do: take over the other person's experience, "colonize" it, or supply its meaning. They say too little about two things the author said. His own facilitation includes "guiding, directing, moving... having a... certain agency or telos" (214), and the aim is positive: a reader whose own reality becomes more alive to them (770).
 4. **The word "concept" is made to cover too much.** The big outline's examples of a concept (5884–5899) include questions the books are about (sovereignty, recognition), a tradition's vocabulary (spanda, vimarśa, relevance realization, felt sense), a practice (dialogue), and a method (polyphony, meaning many voices). Because the word covers so much, each outline redrew its list of basic kinds.
 5. **The ecology is put at the top.** The hierarchy puts ECOLOGY above everything (17241). The conversation's own rule makes the book "another locus" (2602), one standpoint among many, and says that no standpoint has authority over the others, including "your ecology" and "the book" (6089–6097).
-6. **Technology moves toward becoming the subject.** The content outline itself warns that AI "shouldn't become *the book about AI*" (18575).
+6. **Technology begins to become the subject.** The content outline itself warns that AI "shouldn't become *the book about AI*" (18575).
 
 ### Where this reading differs from the earlier analyses
 
@@ -174,9 +174,9 @@ The earlier analyses also tied the reframe to the pace of work on the manuscript
 
 ## 3. The center, described as roles
 
-The conversation declines to name one center: "We have not chosen a final term. And perhaps we shouldn't yet" (6360–6362). The reconciliation register keeps the candidate names "as layers, name none finally yet" (register, Fork 6). The transcript supports a more exact statement: the candidate centers do not compete for one place, because each one fills a different role.
+The conversation declines to name one center: "We have not chosen a final term. And perhaps we shouldn't yet" (6360–6362). The reconciliation register keeps the candidate names "as layers, name none finally yet" (register, Fork 6). The transcript supports a more exact statement: the candidate names for the center are not alternatives to one another, because each one names a different role.
 
-| Role | What fills it | The transcript's words |
+| Role | What the conversation names for it | The transcript's words |
 |---|---|---|
 | The master question | how to be changed deeply while remaining the author of what one becomes | "How can something influence me deeply without taking my place as the author of what I become?" (7567) |
 | The question about form | how much form is enough for surprise to still happen; the model asked it, and the author took it as his own | "how do we hold just enough form so that surprise can still happen?" (1183); "that is that is the question of my life" (1190) |
@@ -189,7 +189,7 @@ The conversation declines to name one center: "We have not chosen a final term. 
 | The entry condition | sufficiency | "the more that you allow that sufficiency to exist... it's one of the core conditions for being able to enter into this sort of reality to begin with" (446) |
 | The direction, not a doctrine | flourishing | "Flourishing need not be the doctrine. It can be the horizon" (7373) |
 
-The aim and the limit depend on each other. The limit says what the books must not do: take the reader's place as the author of what the reader recognizes. The aim says what the books are for. The author found the aim in a letter from his first love. By his account, their relationship made each of them belong more to themselves: it "inspires patriotism in herself... And she did the same thing for me", and he calls this "exactly the source of what I'm looking to give back" (770). The big outline states the aim and the limit together in its twelfth axiom, "Relationship can increase sovereignty" (3828). A book that kept only the limit would be safe and would change nothing. The later outlines come close to this (the third item in the list above), and the author's own turns correct them.
+The aim and the limit depend on each other. The limit says what the books must not do: take the reader's place as the author of what the reader recognizes. The aim says what the books are for. The author found the aim in a letter from his first love. By his account, the relationship made each of them more loyal to themselves and more alive to their own lives: it "inspires patriotism in herself. And um kind of in enlivens her own reality. And she did the same thing for me", and he calls this "exactly the source of what I'm looking to give back" (770). The big outline states the aim and the limit together in its twelfth axiom, "Relationship can increase sovereignty" (3828). A book that kept only the limit would be safe and would change nothing. The later outlines come close to this (the third item in Part 2's list of departures), and the author's own turns correct them.
 
 ---
 
@@ -203,7 +203,7 @@ The transcript names the two poles in two ways. In the spoken part, the model of
 
 The author settled the pairing on 2026-08-20, after the conversation. Contraction pairs with expansion (saṅkoca with vikāsa) as the two phases of spanda, the pulse, and reflexive awareness (vimarśa) is a separate idea that matters on its own. He said he had "got confused with vimarsa/vikasa" in the conversation, and that "both hold relevance to our ecology but [I am] not necessarily interested in pairing together vocabulary terms that don't necessarily go together just because" (the decisions register, `ops/decisions.md`, the table of questions the author has settled). So in this document the two poles inside the bubble are contraction and expansion, the movement between them is the pulse, and the transcript's word for what happens when a person sees both as their own is recognition, pratyabhijñā: "Recognition of what one already is" (2161). This document does not give vimarśa a step in that sequence. Whether the tradition's own texts pair the terms this way is a question for the texts, and the model said it was speaking "deliberately without pretending to settle the Śaiva technical vocabulary here" (2988).
 
-For the books, the insight fixes the basic move. The books do not move the reader from contraction toward expansion, because that would rank one pole above the other. They invite the reader to see both as movements of the reader's own awareness. The big outline's axiom "contraction is information, not failure" (391) states the same commitment as a rule for writing.
+For the books, the insight determines their basic approach. The books do not move the reader from contraction toward expansion, because that would rank one pole above the other. They invite the reader to see both as movements of the reader's own awareness. The big outline's axiom "contraction is information, not failure" (391) states the same commitment as a rule for writing.
 
 ### Why the books present ideas in pairs
 
@@ -218,7 +218,7 @@ The chapter lists confirm the form, because most of their chapter titles name a 
 
 At 7:29 the author named a worry the conversation never returned to: "there's many many ways to bake... the acceptance of that invitation very human. And so there's sort of like this false peak that I see is very possible" (286). He raised it two minutes after saying "the book can't verify that you've done the work" (266). The word "peak" appears nowhere else in the transcript.
 
-Keeping the two poles unranked answers the worry. A book that places expansion above contraction invites the reader to chase a high point and mistake it for arrival. A book that lets the reader see both poles as their own movement has no high point for the reader to mistake for arrival. The chapter lists end the same way: "You do not graduate from self-facilitation" (16743); the practitioner becomes "better at meeting what arrives" (16762); the facilitator "disappears" (16034). So any arc for either book that includes a peak has to meet a condition: the peak is the reader recognizing the movement between the poles as their own, and not a height the reader reaches. Book II does follow an arc with a peak, the arc of the psychedelic experience, and the author's decision of 2026-08-20 for it, "peak resolves into return", meets this condition (`ops/decisions.md`).
+Keeping the two poles unranked answers the worry. A book that places expansion above contraction invites the reader to seek a high point and mistake it for arrival. A book that lets the reader see both poles as their own movement has no high point for the reader to mistake for arrival. The chapter lists end the same way: "You do not graduate from self-facilitation" (16743); the practitioner becomes "better at meeting what arrives" (16762); the facilitator "disappears" (16034). So any arc for either book that includes a peak has to meet a condition: the peak is the reader recognizing the movement between the poles as their own, and not a state of greater intensity that the reader attains. Book II does follow an arc with a peak, the arc of the psychedelic experience, and the author's decision of 2026-08-20 for it, "peak resolves into return", meets this condition (`ops/decisions.md`).
 
 ---
 
@@ -235,7 +235,7 @@ Four passages describe one way of working:
 - The author described his own facilitation as "being present and welcoming what is and then also guiding, directing, moving... following that, tracking that, not getting attached to the impartiality, but also having a... certain agency or telos" (214).
 - The model listed among the facilitator's principles "Attention can be guided without interpretation being dictated" (1484).
 - Drawing on David Grove's Clean Language, the model stated that "the facilitator can constrain the form of inquiry while remaining radically unconstrained about its content" (1709).
-- The author held that "constraints are... in design... exactly what gives fluency" (1074).
+- The author said that "constraints are... in design... exactly what gives fluency" (1074).
 
 Together these answer the question about form. Enough form is form that directs the reader's attention with a purpose and leaves to the reader what they find and what it means. The model's own answer to the same question is short: "structure should preserve the possibility of surprise" (1195). This way of working also restores the purpose that the later outlines say too little about. The books are not passive: they direct attention firmly, and they claim nothing about what the reader finds.
 
@@ -245,8 +245,8 @@ At 7:30 the model named five conditions under which recognition tends to happen 
 
 | Condition (311) | What the books need in order to meet it |
 |---|---|
-| "interruption of automaticity" | scenes, images, and questions that interrupt the reader's habitual way of seeing |
-| "safety with enough friction to notice what was hidden before" | a voice and a stated promise the reader can trust, which still offer the reader real resistance |
+| "interruption of automaticity" | scenes, images, and questions that interrupt the reader's automatic habits of attention |
+| "safety with enough friction to notice what was hidden before" | a narrator and a stated promise the reader can trust, together with enough difficulty that the reader notices what they had not noticed before |
 | "participatory practices rather than just ideas" | practices small enough to do while reading |
 | "language that gives distinctions" | pairs, named precisely |
 | "permission not to solve the experience" | poles left unranked, and contraction treated as information |
@@ -262,22 +262,22 @@ The rest of this document calls these the books' nine functions.
 | 3. Direct attention and leave meaning to the reader | directs where the reader looks and never tells the reader what they found | 214; 1484; 1709; 15217–15227 |
 | 4. Keep the two poles unranked | invites the reader to see both poles as their own movement | 156; 166; 391 |
 | 5. Bring in others who noticed the same thing, without merging them | brings in the traditions and thinkers who reached the same finding independently, as company rather than as proof, with their differences left intact | 224; 2594; 3164; 3344 |
-| 6. Offer the author's own view as an example | offers what the author came to see, with a statement of how firmly he holds it | 3322–3326; 12415–12429 |
+| 6. Offer the author's own view as an example | offers what the author came to understand, with a statement of how certain he is of it | 3322–3326; 12415–12429 |
 | 7. Say what the book's own framework hides | says what its framework leaves out, and how a reader can set the framework aside | 2610–2618; 16034; 16739; 10271 |
 | 8. State a promise to the reader and keep it | states what the book will and will not do for this reader | 17060; 17077; 1590–1594 |
 | 9. Explain why the books are needed now | describes the conditions of the present (the attention economy, a manufactured sense of not having enough, and the habit of delegating) as the reason the books are needed now | 862; 927; 5456–5466; 18561–18567 |
 
-"Company" in function 5 has its vault meaning: thinkers who reached the same finding independently, held as company rather than as proof that the finding is true.
+"Company" in function 5 has its vault meaning: thinkers who reached the same finding independently, whom the book cites as others who noticed the same thing rather than as proof that the finding is true.
 
 ### Book I: how it works on a facilitator
 
-Deciding to write first for facilitators chose a reader for whom the book's working method is part of its content. At 7:53 the author said the book's own axioms "fall away from the book." In the same breath he named who still wants them: "the astute reader of the book," "The person who is facilitating, the facilitation of facilitation," someone "getting skilled" in a workshop, and the author himself, for his own orientation (576). At 9:57 he made that reader the first audience. So Book I is the book that can "show the score to the musicians" (1516): its reader needs to see why each invitation was built as it was. The model's questions for that reader are "Why did you choose this invitation? What were you watching for? What could go wrong? What did you notice in yourself?" (1524–1527). Book I teaches facilitation by being an example of it: "The book teaches the facilitator to facilitate in the same way that the book itself was created" (9163).
+Deciding to write first for facilitators chose a reader for whom the book's working method is part of its content. At 7:53 the author said the book's own axioms "fall away from the book." In the same turn he named who still wants them: "the astute reader of the book," "The person who is facilitating, the facilitation of facilitation," someone "getting skilled" in a workshop, and the author himself, for his own orientation (576). At 9:57 he made that reader the first audience. So Book I is the book that can "show the score to the musicians" (1516): its reader needs to see why each invitation was built as it was. The model's questions for that reader are "Why did you choose this invitation? What were you watching for? What could go wrong? What did you notice in yourself?" (1524–1527). Book I teaches facilitation by being an example of it: "The book teaches the facilitator to facilitate in the same way that the book itself was created" (9163).
 
 Book I's authority comes from its method rather than from claims about its subject. The model's sentence "Become authoritative about the conditions under which authority itself can be relinquished" (1584) lets the book say "I have something substantial to teach you" and "What you discover here belongs to you" together (1590–1594). Book I's promise to its reader is "I will not give you a bag of techniques. I will invite you to examine what you think you are doing when you facilitate another human being" (17060), and its authority comes from "discernment and synthesis" (17038). Technique enters late, "Because technique without ontology becomes manipulation" (15577). The book's four movements are "Recognition → Relation → Participation → Stewardship of the field" (16970). Its ten steps run from "I want to help" to "I become a steward of another person's conditions for becoming" (16818–16854). It ends with the facilitator stepping back: "The facilitator succeeds by increasing the other's capacity to facilitate themselves" (16050).
 
 ### Book II: how it works on a reader practicing alone
 
-Book II is arranged so that the reader recognizes something about themselves. Its prologue says "You are already participating" (16084), and it names its method only at the end: "Now the book finally names what the reader has been learning" (16658). The reader meets the name of something they have already been doing. That is the structure of the fable the author called "amazing," about a woman who meets the lover who has "always known her" (156). It is also the structure of "Recognition of what one already is" (2161), used as the plan of a whole book. The text of the fable is not in the transcript, so if the books use it, it has to be read in its source.
+Book II is arranged so that the reader recognizes something about themselves. Its prologue says "You are already participating" (16084), and it names its method only at the end: "Now the book finally names what the reader has been learning" (16658). The reader learns the name of something they have already been doing. That is the structure of the fable the author called "amazing," about a woman who meets the lover who has "always known her" (156). It is also the structure of "Recognition of what one already is" (2161), used as the plan of a whole book. The text of the fable is not in the transcript, so if the books use it, it has to be read in its source.
 
 Book II's promise to its reader is "I will not tell you how to become a better version of yourself. I will invite you to develop a different relationship with the fact that you are already becoming" (17077). Its authority comes from "embodied realization": "I have actually lived the questions I'm inviting you to inhabit" (17048–17050). Its typical danger is that it becomes "another performance target" (14606). The chapter lists give it the movements "Recognition → Relation → Participation → Stewardship of the self" (16974); by the author's decision of 2026-08-16, Book II follows the arc of the psychedelic experience instead (see "What changed" at the top). Its ten steps run from "I want to improve myself" to "I become a steward of my own becoming" (16862–16898). It ends in return rather than arrival: "The practitioner does not finally arrive. They become better at meeting what arrives" (16760–16762).
 
@@ -305,9 +305,9 @@ Each of the nine functions in Part 5 needs certain kinds of material to exist, i
 | 8. State a promise and keep it |  |  |  |  |  |  |  |  | ● | ● | ● |
 | 9. Explain why the books are needed now | ● | ○ |  |  | ● | ○ |  |  |  | ● |  |
 
-Book I needs three further things of its own: cases from rooms the author has facilitated (encounters), its own writing techniques shown openly and taught as content, and material on the practice of facilitation and on power (topics in their Book I form). Book II needs three: practices small enough to "remain alive" (16499), the questions a person asks when acting as their own facilitator (13616–13632; 16136–16154), and the author's lived encounters, on which its authority depends.
+Book I needs three further things of its own: cases from groups the author has facilitated (encounters), its own writing techniques shown openly and taught as content, and material on the practice of facilitation and on power (topics in their Book I form). Book II needs three: practices small enough to "remain alive" (16499), the questions a person asks when acting as their own facilitator (13616–13632; 16136–16154), and the author's lived encounters, on which its authority depends.
 
-Every column is needed by at least one function, and no kind of material appears that no function needs. The design follows that rule throughout: every kind of material, every field, and every connection names what it does for the books, or it is not built. The rule is the author's direction for this design. It sharpens a question the two-book handoff already asks of any new kind of thing: "What recurring lived problem does this new entity solve?" (14614).
+Every column is needed by at least one function, and no kind of material appears that no function needs. The design follows that rule throughout: every kind of material, every field, and every connection names what it does for the books, or it is not built. The rule is the author's direction for this design. It states more strictly a question the two-book handoff already asks of any new kind of thing: "What recurring lived problem does this new entity solve?" (14614).
 
 ---
 
@@ -329,7 +329,7 @@ Each name below is a working name that the author may change, as every name in t
 **Topic.** A topic is a question the books are about, stated as a question, with the form it takes in each book. The earlier version of this document, and the vault, call it a "concern."
 - It serves functions 2, 5, 7, and 9, and the other kinds of material are organized by topic.
 - It records the question; what is at stake (which replaces the earlier kind "Value"); its form in Book I, with another person; its form in Book II, with oneself; where it happens, by Wilber's quadrant (I, We, It, Its); and what treating it as a topic leaves out.
-- Pairs state parts of it, traditions and thinkers speak to it, comparisons set their views of it side by side, practices let a reader try it, encounters are where the author met it, drafted passages write it into a book, and each book takes it up in its own form.
+- Pairs state parts of it, traditions and thinkers say something about it, comparisons set their views of it side by side, practices let a reader try it, encounters are where the author met it, drafted passages put it into the words of a book, and each book takes it up in its own form.
 - Six outlines propose it (5852; 8572; 11378; 13281; 17572; 19024). The table in the two-book handoff that sets the books side by side supplies its two forms (13854–13871).
 
 **Pair.** A pair is two ideas stated together, and it is the basic unit of the books' ideas. It is either a distinction or a polarity (Part 4).
@@ -352,14 +352,14 @@ Each name below is a working name that the author may change, as every name in t
 
 **Encounter.** An encounter is a dated event from the author's life in which something happened, with his note on it. "Encounter" is the author's own word for it.
 - It serves functions 1, 2, 6, and 9. It supplies Book I's cases, and Book II's authority depends on it.
-- It records when, where, and who (personal material, held with care); the conditions it happened in; the standpoint the author came to it from, which is a tradition or thinker; what happened; his note, "This is what I currently notice about what happened" (8649), dated and provisional; what changed; what remains; and which topics and pairs it involves.
+- It records when, where, and who (personal material, recorded with care); the conditions it happened in; the standpoint the author came to it from, which is a tradition or thinker; what happened; his note, "This is what I currently notice about what happened" (8649), dated and provisional; what changed; what remains; and which topics and pairs it involves.
 - It is where the author met a pair, a practice, or a tradition. It is the evidence for his views, and drafted passages draw on it.
 - It is the one kind of thing every outline proposes (4636; 8604; 11206; 13380; 17475; 19030). The author named it first: "it would just be encounter as the entity" (1260).
 
-**Tradition or thinker.** This kind covers a developed way of seeing: a tradition, a thinker, or a lineage of practice. The transcript's word for it is "locus," a standpoint.
+**Tradition or thinker.** This kind covers a developed way of understanding: a tradition, a thinker, or a lineage of practice. The transcript's word for it is "locus," a standpoint.
 - It serves functions 5 and 7.
 - It records its own vocabulary, quoted in its own terms before any translation (9244); what it shows; what it leaves out; what it would object to in the books; the answers to the three questions the model asked of each of the books' forebears (2024–2032), which are "What did this person discover about the conditions under which recognition becomes possible?", "What did they mistake for the whole?", and "What does their work make available that my emerging ecology doesn't yet know how to make available?"; its sources, with page-level addresses; and whether it reached its finding independently of the others or learned it from them.
-- It speaks to topics, it drew pairs, it supplies practices, and comparisons set it beside others.
+- It says something about topics, it drew pairs, it supplies practices, and comparisons set it beside others.
 - It replaces the earlier kinds Tradition, Person, Work, and Source (4640; and 3210, "a cultivated locus of recognition").
 
 **Comparison.** A comparison looks at one topic from two or more traditions or thinkers and records what the author still holds once their differences are taken into account. The earlier version called it a "crossing," after the model's sentence "you have to perform the crossing" (3144).
@@ -368,7 +368,7 @@ Each name below is a working name that the author may change, as every name in t
 - It sets traditions or thinkers side by side on one topic. What the author still holds afterward becomes one of his views, and what fits nowhere goes on the list of open questions.
 - No outline proposes it as a kind of thing. The method is stated three times (5255–5287; 9248–9270; 18670–18706), and a comparison is the unit of the author's "explorable composite" (2975). The model's question for it is "What survives the difference?" (3164).
 
-**The author's view.** An author's view is something the author has come to see that still holds after comparison, stated in his own words. His phrase for it is "durable perspective" (2975).
+**The author's view.** An author's view is something the author has come to understand that remains true for him after comparison, stated in his own words. His phrase for it is "durable perspective" (2975).
 - It serves function 6. These are the books' main claims, offered as the author's example rather than as doctrine.
 - It records the statement, in the author's words; the comparisons it was tested against; the encounters it comes from; and what it still cannot see.
 - Comparisons produce it, encounters are its evidence, and drafted passages state it.
@@ -385,7 +385,7 @@ Each name below is a working name that the author may change, as every name in t
 - It records which book it belongs to; a possible position in that book; what it puts into words (a topic, pairs, a practice, an encounter, or one of the author's views); and the writing techniques it uses.
 - The hierarchy and the content outline propose it (17672; 19036).
 
-**Book.** A book takes the shared material through one setting of practice.
+**Book.** A book presents the shared material in one setting of practice.
 - It serves function 8, and it records each book's decisions about the whole.
 - It records its setting of practice (with another person, or with oneself); its first reader; its promise to the reader; what its authority rests on; the order of its movements and its developmental steps; how it opens; how it ends; and how much of its own method it shows (Book I shows its working method; Book II names its method at the end).
 - There are two: Book I and Book II. A third book, about society as a whole, stays a possibility and is not planned ("I would not write that book yet," 17152).
@@ -393,18 +393,18 @@ Each name below is a working name that the author may change, as every name in t
 
 ### What every kind of material records
 
-**The author's level.** This field records how far the author has taken a piece of material. The transcript supplies four levels (12415–12429) and implies two more. The earlier version called this field "standing," and its lowest level "surfaced."
+**The author's level.** This field records the author's own relation to a piece of material: whether it has only been proposed to him, or whether he has experienced it, inferred it, believed it, claimed it, or written it. The transcript supplies four levels (12415–12429) and implies two more. The earlier version called this field "standing," and its lowest level "surfaced."
 
 | Level | Meaning | Who may set it | Line |
 |---|---|---|---|
-| proposed | brought in by research, by a conversation, or by an AI, and not yet taken up by the author | anyone | 11524–11534 ("AI identifies something worth investigating") |
-| experienced | the author met it himself | the author | 12417 |
+| proposed | brought in by research, by a conversation, or by an AI, and not yet adopted by the author | anyone | 11524–11534 ("AI identifies something worth investigating") |
+| experienced | the author experienced it himself | the author | 12417 |
 | inferred | the author drew it from what he experienced | the author | 12421 |
-| believed | the author holds it | the author | 12425 |
-| claimed | the author will stand behind it in public | the author | 12429; 17664 |
+| believed | the author believes it | the author | 12425 |
+| claimed | the author will state and defend it in public | the author | 12429; 17664 |
 | written | it is in a drafted passage | the author | 17672 |
 
-The levels make one rule easy to check: "Nothing becomes part of the author's philosophy merely because the AI said it" (14414). They also let the whole transcript count as valid material without taking authorship away from the author. Every sentence of the transcript is valid material at the level "proposed" or higher; the author's own turns already stand at "experienced" or "believed"; and only the author raises anything further. This document stands at "proposed."
+The levels make one rule easy to check: "Nothing becomes part of the author's philosophy merely because the AI said it" (14414). They also let the whole transcript count as valid material without taking authorship away from the author. Every sentence of the transcript is valid material at the level "proposed" or higher; the author's own turns are already at the level "experienced" or "believed"; and only the author raises anything further. This document is at the level "proposed."
 
 The vault's `state:` field does something different. It records how well supported a note is, which, in the words of `ops/methodology/vocabulary policy.md`, informs "which pass to run next and nothing the book asserts." So it cannot record the author's level.
 
@@ -477,17 +477,17 @@ The design's countable list, the "enumerable surface" the author asked for, is a
 | Book II | Is its form with oneself stated? | Book II |
 | Pair | Does it have a pair, with a way in? | 2, 3, 4 |
 | Practice | Can a reader try it? | 2, 3 |
-| Encounter | Did the author meet it himself? | 1, 6 |
-| Company | Do two or more traditions or thinkers speak to it? | 5 |
-| Comparison | Has the author compared them and recorded what holds? | 5, 6 |
-| Author's view | Does the author hold a statement about it, in his own words? | 6 |
+| Encounter | Did the author encounter it himself? | 1, 6 |
+| Company | Do two or more traditions or thinkers say something about it? | 5 |
+| Comparison | Has the author compared them and recorded what he still believes afterward? | 5, 6 |
+| Author's view | Has the author stated a view about it in his own words? | 6 |
 | What it hides | Is what the topic leaves out stated? | 7 |
 
 Part 9 fills this table from the transcript alone.
 
 ### What the design leaves out on purpose
 
-The reorganized outline separates two kinds of structure and warns against letting the first absorb the second. The explicit structure contains what can be named. The implicit structure contains "resonance, recognition, embodiment, mystery, transformation, aliveness, intuition, significance, emergence" (10629–10641), and "The temptation will always be to make the explicit architecture large enough to contain the implicit one. Don't." (10643–10645). The design records what participation leaves behind. Recognition itself, the reader's and the author's, stays outside it.
+The reorganized outline separates two kinds of structure and warns against making the first large enough to contain the second. The explicit structure contains what can be named. The implicit structure contains "resonance, recognition, embodiment, mystery, transformation, aliveness, intuition, significance, emergence" (10629–10641), and "The temptation will always be to make the explicit architecture large enough to contain the implicit one. Don't." (10643–10645). The design records what participation leaves behind. Recognition itself, the reader's and the author's, stays outside it.
 
 ---
 
@@ -525,21 +525,21 @@ The seven outlines proposed many basic kinds of thing between them. The table sa
 
 The reconciliation register lists twenty-five choices the conversation left open, which it calls forks. The design settles or places each one, and every decision among them remains the author's.
 
-| Open choice in the register | What the design does with it |
+| Open choice in the reconciliation register | What the design does with it |
 |---|---|
 | 1. Which list of basic kinds is authoritative | derives the list from the books' functions, and places every earlier kind (the table above) |
-| 2. Ecology or ontology | keeps both, at different levels: a list of what the books need, kept inside the wider inquiry it serves. The ecology is stated once, in the opening statement, and is not a classification. |
+| 2. Ecology or ontology | keeps both, at different levels: the design is a list of what the books need, and it serves the wider inquiry. The ecology is stated once, in the opening statement, and is not a classification. |
 | 3. One, two, or three works | two books, with the third kept as a possibility |
 | 4. The two ways of dividing the books, by audience and by setting of practice | a book is defined by its setting of practice, and its first reader is a separate field |
 | 5. Which book first | records the transcript's reasons for writing Book I first as reasons about how the books work (Part 5); the decision is the author's |
-| 6 and 7. The center, and flourishing | the opening statement holds the master question and the aim; flourishing is the direction, not a doctrine (7373) |
+| 6 and 7. The center, and flourishing | the opening statement contains the master question and the aim; flourishing is the direction, not a doctrine (7373) |
 | 8. How much the books say about their basis in Kashmir Śaivism | an item on the list of open questions; the tradition's vocabulary is recorded in quotation, and its texts are named |
 | 9. Whether saṅkoca (contraction) is bondage or a useful standpoint | an item on the list of open questions, for the texts to settle; the unranked poles are the author's own commitment (156) either way |
 | 10. Four different models, each called "three layers" | treats them as four separate things: the author's level; the roles recorded in each book's fields; the direction from life to research to book; and scale |
 | 11. The competing lists of axioms | nine commitments, each tied to a function and a question; Part 10 counts every list and states each group of rules as the condition on one connection |
 | 12. The different senses of "locus" | "tradition or thinker" for a standpoint; the scale field for self, relation, and ecology |
 | 13. Three scales or seven | three: oneself, people together, and the surrounding conditions |
-| 14. Whether the unit is a proposition or a concept | the pair for ideas; the author's view and the drafted passage for propositions; the author's level for how firmly each is held |
+| 14. Whether the unit is a proposition or a concept | the pair for ideas; the author's view and the drafted passage for propositions; the author's level for the author's relation to each |
 | 15. The outlines the model generated | read as proposed material, whose differences show what stays the same (Part 2) |
 | 16. Private and public fields | the author's note and his level record his inner life; everything else records relations among materials |
 | 17. Whether synthesis can be delegated | an AI may propose a synthesis by finding connections; the author's own synthesis is a comparison he makes |
@@ -563,7 +563,7 @@ Everything below is at the level "proposed," with its transcript line, except wh
 - **Master question:** "How can something influence me deeply without taking my place as the author of what I become?" (7567).
 - **Aim:** a reader whose own reality becomes more alive to them. The author's source for it is "patriotism for oneself" (770), and the model's wording of the test is "Did their own reality become more alive to them?" (3714).
 - **Direction:** "from more to richer" (927), which the author claimed with "that's my book" (934).
-- **What the books point toward without making it a doctrine:** flourishing (7373).
+- **The outcome the books hope for, without making it a doctrine:** flourishing (7373).
 
 ### Topics
 
@@ -603,11 +603,11 @@ In this table, **A** means the author's own words supply the column, **m** means
 | Technology | m | m | m | A | m | A | m | · | A | · |
 | Transformation | m | m | m | m | · | · | m | · | · | · |
 | Integration | m | m | m | m | · | · | · | · | · | · |
-| Form | A | m | m | A | m | A | m | · | A | · |
+| Form | m | m | m | A | m | A | m | · | A | · |
 | Company | m | m | m | m | m | A | A | m | A | m |
 | Power | m | m | m | m | · | A | m | · | A | · |
 
-The table shows three things. First, the model's turns supplied the question for all but one topic, both book forms for every topic, and most of the pairs, while the author's turns supplied lived material (an encounter, a statement in his own words, or both) for twelve of the fifteen topics. Second, two columns are nearly empty. The Comparison column has two entries, both proposed by the model, and the column for what a topic hides has three. Only the author can fill these columns, by making his own comparisons and by stating plainly what each framework leaves out, and they are the clearest need the table shows. Third, four topics (Attention, Meaning, Transformation, and Integration) have no statement in the author's own words, and Integration has the fewest entries of any topic.
+The table shows three things. First, the model's turns supplied the question for every topic (the question on form is the model's wording, which the author took as his own at line 1190), both book forms for every topic, and most of the pairs, while the author's turns supplied lived material (an encounter, a statement in his own words, or both) for twelve of the fifteen topics. Second, two columns are nearly empty. The Comparison column has two entries, both proposed by the model, and the column for what a topic hides has three. Only the author can fill these columns, by making his own comparisons and by stating plainly what each framework leaves out, and they are the clearest need the table shows. Third, four topics (Attention, Meaning, Transformation, and Integration) have no statement in the author's own words, and Integration has the fewest entries of any topic.
 
 ### Pairs the books offer the reader: distinctions
 
@@ -673,7 +673,7 @@ The table shows three things. First, the model's turns supplied the question for
 | correlation / authorship | 6548 |
 | "Tradition X contains concept Y" / "The user experienced an encounter through Tradition X that altered their understanding of Y" | 11370–11374 |
 
-The design is built from the same form of thought as the books, which is one sign that it describes what the books need rather than being a second project beside them.
+The design is built from the same form of thought as the books, which is one sign that it describes what the books need rather than being a separate, second project.
 
 ### Pairs the books offer the reader: polarities
 
@@ -739,7 +739,7 @@ The design is built from the same form of thought as the books, which is one sig
 | the amino acid and the protein | 1240 | the author | going from separate parts to a working, folded form |
 | "A constellation rather than a pyramid" | 6776 | the model | no single part placed above the others |
 | "There Is No Empty Room" | 15489 | the model | the facilitator is always inside the situation, never outside it |
-| an interaction "highly fluent and completely non-generative" | 15918 | the model | the books' concern as it shows up in technology |
+| an interaction "highly fluent and completely non-generative" | 15918 | the model | the books' concern as it appears in technology |
 | the facilitator disappears; the practitioner returns | 16034; 16802 | the model | the books' two endings |
 
 The harvest left out the amino acid and the protein, with the note "log as an author idiom" (harvest, §3). This document keeps it, because it is the most exact image in the transcript for what Parts 5 to 7 try to do: at 8:54 the author asked the model to "think through what the protein feels like from here" (1240), meaning to go from the separate parts to a form that works.
@@ -748,19 +748,19 @@ The harvest left out the amino acid and the protein, with the note "log as an au
 
 | Technique | What it does to the reader's attention | What it leaves to the reader | Line |
 |---|---|---|---|
-| the encounter before the explanation, with the idea's name held back | puts the reader in contact with the thing first | what the contact means | 17197–17209 |
+| the encounter before the explanation, with the idea's name withheld | puts the reader in contact with the thing first | what the contact means | 17197–17209 |
 | a distinction felt before it is named | points at a difference in experience | the name the reader gives it | 17203 |
 | a question asked to "create space for recognition" rather than to get an answer | redirects the reader's attention | the answer | 15597–15601 |
 | a tentative reflection, "I wonder if..." | offers a possibility | whether it fits | 15613–15621 |
-| creating space, in the transcript's words: not answering, slowing down, tolerating silence, refusing premature interpretation, allowing contradiction | keeps the reader inside the question | how it is resolved | 15558–15565 |
-| regular openings: "questions; invitations; experiments; pauses; contradictions; reflective openings" | turns the reader toward themselves | what they notice | 14350–14357 |
+| creating space, in the transcript's words: not answering, slowing down, tolerating silence, refusing premature interpretation, allowing contradiction | keeps the reader's attention on the question | how it is resolved | 15558–15565 |
+| regular openings: "questions; invitations; experiments; pauses; contradictions; reflective openings" | directs the reader's attention to themselves | what they notice | 14350–14357 |
 | the author's experience offered as one case, not as a conclusion | shows one instance | the reader's own instance | 481 |
 | showing the working method (Book I) | shows why an invitation was built as it was | whether to build the same | 1522–1530 |
 | opening with what the reader can already do | recognizes what the reader brings | what they do with it | 3576; 16084 |
 | naming the method at the end (Book II) | lets the reader do the thing before learning its name | the recognition | 16658 |
 | saying what the framework hides | names what the framework leaves out | whether to set the framework aside | 2610–2618 |
-| letting a tradition speak in its own vocabulary first | keeps the difference audible | the translation | 9244 |
-| showing the author's uncertainty and revisions | shows how to hold a view provisionally | how certain the reader is | 6407–6408 |
+| letting a tradition speak in its own vocabulary first | keeps the difference evident | the translation | 9244 |
+| showing the author's uncertainty and revisions | shows how to keep a view open to revision | how certain the reader is | 6407–6408 |
 | keeping two goods in play without resolving them, "a design tension to inhabit" | keeps both goods in view | how the reader balances them | 7053 |
 | ending by handing attention back to the reader: "Now notice what happens when you participate" | returns the reader's attention to their own life | everything after the book | 10271 |
 
@@ -839,7 +839,7 @@ These are at the level "believed": the author said each one as his own view.
 
 ## 10. The 146 rules stated in the transcript
 
-The author asked what system the transcript's axioms and lists form when they are all written out, how that system meets the design, and what it points toward (author direction, 2026-09-25). This part answers from the transcript alone. The transcript calls these statements axioms; this part calls them rules.
+The author asked what system the transcript's axioms and lists form when they are all written out, how that system relates to the design, and what it indicates (author direction, 2026-09-25). This part answers from the transcript alone. The transcript calls these statements axioms; this part calls them rules.
 
 ### What was counted
 
@@ -861,7 +861,7 @@ The session sorted each statement in three ways: which party with influence the 
 - an **enlargement** says what that party should increase in the other;
 - a **claim** states something about knowing or about form;
 - a **self-applied** rule applies the rule to the framework itself;
-- a **balance** keeps two goods together. An earlier version called this kind a "tension," but the vault uses that word for a disagreement inside the book's doctrine, so it is not used here.
+- a **balance** names two things the framework values and asks that neither be given up for the other. An earlier version called this kind a "tension," but the vault uses that word for a disagreement inside the book's doctrine, so it is not used here.
 
 The sorting is one reader's judgment. The full list at the end of this part shows every decision, so that it can be checked and corrected.
 
@@ -909,7 +909,7 @@ Two in five of the rules the model stated during the spoken exchange enlarge som
 
 ### The influences the rules describe rather than restrain
 
-Six of the eight named parties with influence are restrained somewhere, and the most restrained are the ones that could take a person's place. Of the 18 statements about delegation, 17 are restraints, as are 12 of the 15 about the facilitator and 25 of the 52 about the framework. Two parties are never restrained, and the statements about them are of a different kind.
+Six of the eight named parties with influence are restrained somewhere, and the most restrained are the ones that could do for a person what the person needs to do for themselves. Of the 18 statements about delegation, 17 are restraints, as are 12 of the 15 about the facilitator and 25 of the 52 about the framework. Two parties are never restrained, and the statements about them are of a different kind.
 
 Technology's four statements are all demands. Each says what technology, or the work done in a world full of it, should do: "technology should increase rather than diminish human capacity" (11327); "Technology should increase participation rather than merely increase throughput" (13340).
 
@@ -923,13 +923,13 @@ Six of relationship's seven statements say what relationship already does or can
 
 The seventh is the one demand: "Relationship should enlarge agency rather than replace it" (9955). The first two came less than a minute after the author told the model about his first love's letter: "our relationship inspires patriotism in herself... And she did the same thing for me" (770; the author's turn is stamped 8:06 PM, and the model's answer 8:07). Taken together, the rules treat relationship as the one influence they mostly describe rather than restrain or instruct, and they ask every other influence to become that kind of relationship: the book, the facilitator, the framework, technology, the model, and the system that stores the research.
 
-### What the rules point to
+### What the rules indicate
 
-The rules point to three things.
+The rules indicate three things.
 
 1. **A relationship.** The relationship is facilitation in its widest sense: an influence that increases the other's capacity for participation instead of taking it (14934). Every restraint rules out one way the relationship can fail, and every enlargement names what the relationship is for.
-2. **An aim.** The aim is the relationship the author found in his first love's letter, extended to every pair of parties the rules name. He described it at line 770: "our relationship inspires patriotism in herself... And she did the same thing for me". The model later put the same relationship as "My participation with you makes it more possible for you to belong to yourself" (3704). That sentence is the model's wording, and it is at the level "proposed." Each of the 21 enlargements names something that belongs to the other party's own life, such as the capacity to participate consciously, their own authorship, their own center, their flourishing, or the diversity of what people find. None names a content, meaning something the reader should believe or conclude.
-3. **A center left unnamed.** None of the 146 statements says what the reader, the participant, or the author should recognize, conclude, or become. The model said as much of its first axioms: they "don't tell people what to think but describe conditions that keep inquiry alive" (391). The reorganized outline makes the division explicit. It lists axioms among the things that "can be named" in the explicit structure (10613–10625), and beside it sets an implicit structure of what "cannot—or should not—be completely named": "resonance, recognition, embodiment, mystery, transformation, aliveness, intuition, significance, emergence" (10629–10641). Read against that division, every rule says how what can be named may affect what cannot be named. The implicit structure is what Part 7 leaves out on purpose. So the design and the rules divide the work: the design contains what can be named and counted, and the rules govern how everything in the design may affect what the design deliberately does not name.
+2. **An aim.** The aim is the relationship the author found in his first love's letter, extended to every pair of parties the rules name. He described it at line 770: "our relationship inspires patriotism in herself... And she did the same thing for me". The model later put the same relationship as "My participation with you makes it more possible for you to belong to yourself" (3704). That sentence is the model's wording, and it is at the level "proposed." Each of the 21 enlargements names something that belongs to the other party's own life, such as the capacity to participate consciously, their own authorship, what the rules call their "center" (785), their flourishing, or the diversity of what people find. None names something the reader should believe or conclude.
+3. **An outcome left unstated.** None of the 146 statements says what the reader, the participant, or the author should recognize, conclude, or become. The model said this of its first axioms: they "don't tell people what to think but describe conditions that keep inquiry alive" (391). The reorganized outline makes the division explicit. It lists axioms among the things that "can be named" in the explicit structure (10613–10625), and beside it sets an implicit structure of what "cannot—or should not—be completely named": "resonance, recognition, embodiment, mystery, transformation, aliveness, intuition, significance, emergence" (10629–10641). In terms of that division, every rule says how what can be named may affect what cannot be named. The implicit structure is what Part 7 leaves out on purpose. So the design and the rules do different things: the design records what can be named and counted, and the rules govern how everything in the design may affect what the design deliberately does not name.
 
 The same relationship applies to this document. A model wrote it, as a model wrote the outlines it describes. Both are influences on the author, and the transcript's own test applies to both: whether the whole system leaves "the human being more capable of participating in their own life" (14957).
 
@@ -957,23 +957,23 @@ Nearly every group of rules first appears after a turn in which the author had a
 | "already over engineering the system again"; "emergent reality is the only way" | 1138, 1210 (8:47–8:53) | the constitutional principle; do not capture what must remain alive; do not predict the ontology; the system stays smaller than the inquiry; what not to build | 9447; 9913; 12409; 13344; 7224 |
 | "collecting other traditions... the durable perspective I can acquire from it" | 2975, 10:19 | durable perspectives are acquired through encounter; preserve difference before synthesizing; traditions illuminate a concern without being collapsed into sameness | 3816; 3812; 8463 |
 
-A few statements have no earlier turn of the author's behind them and are the model's own contributions: "reality is encountered through relationship" (391), "Inquiry before certainty" (401), "Articulation reveals and reduces" and "a good question scales better than a good answer" (521), and the reorganized outline's claims about attention, embodiment, relationality, and recursion (8436–8448).
+A few statements follow no earlier turn of the author's and are the model's own contributions: "reality is encountered through relationship" (391), "Inquiry before certainty" (401), "Articulation reveals and reduces" and "a good question scales better than a good answer" (521), and the reorganized outline's claims about attention, embodiment, relationality, and recursion (8436–8448).
 
 ### How the rules fit the design
 
-The nine commitments in Part 7 are these rules reduced to what the books' functions need. The full count shows a more exact fit: each group of rules is the condition under which one of the design's connections works as intended. The condition states what the connection must not take from the other party, what it is for, or what it depends on. The last three rows govern how the design itself behaves, rather than a connection between two kinds of material.
+The nine commitments in Part 7 are these rules reduced to what the books' functions need. The full count shows a more exact relation: each group of rules is the condition under which one of the design's connections works as intended. The condition states what the connection must not take from the other party, what it is for, or what it depends on. The last three rows govern how the design itself behaves, rather than a connection between two kinds of material.
 
 | Connection (Part 7) | Its condition | Lines |
 |---|---|---|
-| A tradition or thinker speaks to a topic | without claiming authority over it, and admitting what it leaves out as well as what it shows | 7117; 3788; 2626 |
-| A comparison produces one of the author's views | only after the difference is understood, so that what survives is what remains after the difference was kept, not after it was erased | 3344–3346; 3812 |
+| A tradition or thinker says something about a topic | without claiming authority over it, and admitting what it leaves out as well as what it shows | 7117; 3788; 2626 |
+| A comparison produces one of the author's views | only after the difference between the traditions is understood, so that the view keeps the difference rather than erasing it | 3344–3346; 3812 |
 | A pair states part of a topic | as a difference the reader can find in their own experience, with neither pole ranked above the other, and never as a verdict about the reader | 311; 156; 15217–15227 |
 | A practice lets the reader feel a pair | as an invitation rather than a direction, leaving the finding to the reader | 1483; 1489 |
-| An image presents a pair or a topic | knowing that "Articulation reveals and reduces" | 521 |
-| A writing technique presents material on the page | guiding attention without dictating interpretation, and never explaining the reader out of an encounter | 1484; 17197 |
+| An image helps the reader keep a pair or a topic in mind | knowing that "Articulation reveals and reduces" | 521 |
+| A writing technique presents material on the page | guiding attention without dictating interpretation, and never putting an explanation where the reader's own encounter should be ("Do not explain the reader out of an encounter") | 1484; 17197 |
 | An encounter is the evidence for one of the author's views | because experience comes before its representation | 3796 |
 | A drafted passage puts material into words | only through the author's own participation, the author being the first participant | 887; 3804; 10019 |
-| A book takes up a topic | as an offering and not an authority, completed by the reader's participation, so that the reader belongs more to themselves | 1465; 521; 3828–3830 |
+| A book takes up a topic | as an offering and not an authority, completed by the reader's participation, so that it increases what the rules call the reader's "capacity to belong to oneself" | 1465; 521; 3828–3830 |
 | An AI proposes material | acting as a facilitator, and never raising the author's level | 12373; 14414 |
 | The design records what participation leaves behind | without capturing what must remain alive, staying smaller than the inquiry, and counting itself a failure if maintaining it becomes more interesting than participating | 9913; 13344; 9447 |
 | The whole design | subject to its own rules, and changed by the encounters it makes possible | 3820; 7121 |
@@ -982,7 +982,7 @@ This table is how the design applies its ethics. A rule is not a separate thing 
 
 ### The full list
 
-The table below lists all 146 statements in the order they appear in the transcript. Where a statement is shortened, the cited line has the original wording. "Limits" names the party with influence that the statement limits.
+The table below lists all 146 statements in the order they appear in the transcript. Each statement is given in the transcript's own words; where it is shortened, the cited line has the full wording. "Limits" names the party with influence that the statement limits.
 
 | Line | Where | Statement | Limits | Protects or enlarges | Kind |
 |---|---|---|---|---|---|
@@ -1122,7 +1122,7 @@ The table below lists all 146 statements in the order they appear in the transcr
 | 14414 | two-book handoff | Nothing becomes part of the author's philosophy merely because the AI said it | delegation or AI | the author's authorship | restraint |
 | 14439 | two-book handoff | the field note, in the author's words, as the gate | the author | the author's authorship | claim |
 | 14572 | two-book handoff | more inhabitable, or merely more precise? | the framework or system | the inquiry's openness | restraint |
-| 14582 | two-book handoff | encountered, or merely recognized as sounding true? | delegation or AI | the author's authorship | restraint |
+| 14582 | two-book handoff | encountered, or merely recognized that it sounds true? | delegation or AI | the author's authorship | restraint |
 | 14592 | two-book handoff | Who actually needs this explanation? | the book | the reader | restraint |
 | 14606 | two-book handoff | deeper participation, or another performance target? | the book | the reader | restraint |
 | 14614 | two-book handoff | What recurring lived problem does this new entity solve? | the framework or system | the inquiry's openness | restraint |
@@ -1137,14 +1137,14 @@ The table below lists all 146 statements in the order they appear in the transcr
 
 ## 11. The questions this document left for the reading of the vault
 
-When this document was first written, the next step was to read the vault against the design. These were the questions for that reading, in the order they matter to the books:
+When this document was first written, the next step was to read the vault against the design. These were the questions for that reading, in order of their importance to the books:
 
-1. Which of the eleven kinds of material the vault already contains under other names, and where its existing records (its claims, its thinker pages, its records of readings and encounters, its topic maps (pages gathering the claims of one concern), and its drafts) already serve one of the functions in Part 5.
-2. Whether the vault contains the two kinds of material the transcript leaves most nearly empty, comparisons made in the author's own judgment and statements of what each framework hides, and where it contains them.
-3. How the author's level relates to the vault's existing ways of recording how developed a piece of material is and how firmly it is held.
+1. Which of the eleven kinds of material the vault already contains under other names, and where its existing records already serve one of the functions in Part 5. Those records are its claims, its thinker pages, its records of readings and encounters, its topic maps (pages that each gather the claims of one concern), and its drafts.
+2. Whether the vault contains the two kinds of material for which the transcript supplies the least, and where it contains them. The two are comparisons made in the author's own judgment and statements of what each framework hides.
+3. How the author's level relates to the fields the vault already uses to record how developed a piece of material is and how certain it is.
 4. Where the pairs in Part 9 already exist as claims in the vault, and which of them are not recorded anywhere.
 5. Where the vault contains material that no function in Part 5 needs, which is where combining or removing material would begin.
-6. Whether the topic table can be generated from what the vault contains, so that it stays current without being kept up by hand.
+6. Whether the topic table can be generated from what the vault contains, so that it stays current without being maintained by hand.
 7. Whether the vault's own standing rules (its methodology directives, and the way its prose is required to be written) already state the rules of Part 10 in another form, and which connection in the design each of those rules sets conditions on.
 
 The reading took place on 2026-09-25, and its answers are in three documents at the repository root:
