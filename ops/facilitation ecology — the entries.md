@@ -10,6 +10,8 @@ This file holds the reference material behind the survey at `ops/facilitation ec
 - Part 5 lists the vault's 264 holdings by the first scale at which each works;
 - Part 6 holds the 58 entries from management theory, organizational psychology, and adjacent fields gathered for the supplement at `ops/facilitation ecology — management and organizational psychology.md`, grouped by field of study.
 
+The entries of the second supplement, `ops/facilitation ecology — six surrounding territories.md`, are in two separate files: `ops/facilitation ecology — six surrounding territories, the entries.md` for living systems, the body, psychedelic guides, texts and art, and the pointing-out traditions, and `ops/facilitation ecology — the coaches' moves.md` for the coaches.
+
 Each technique has a table of its coordinates and, where the researchers recorded them, a second table of its practitioners' own words with plain meanings. Those words are the vocabulary the author asked for. The last rows of each table say where the entry came from and whether it was verified there. The row "In the vault" names the vault file where the technique appears, and a technique counts as met when the vault names it anywhere, including in a working file such as the reading queue.
 
 The row "Who decides" uses the survey's five positions. At A the person decides all the content; at B the facilitator shapes the process and the people supply the content; at C the facilitator offers content as an option the person may take or leave; at D the facilitator directs or interprets with authority; and at E no live facilitator is present, and a structure, a text, or a custom does the work.
