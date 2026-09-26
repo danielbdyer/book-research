@@ -1,19 +1,20 @@
-<!-- The reference entries behind `ops/facilitation ecology.md`: every outside technique, single move, stance, and mental model the survey gathered, each with its sources, and every vault holding the survey placed. Built 2026-09-26 at the author's request, recorded in ops/decisions.md. The entries were generated from the researchers' records, checked for systematic errors, and read in samples rather than line by line; the survey file carries the findings and this file carries the reference. Quoted phrases inside an entry are the practitioners' own words as the researchers recorded them from the sources listed in the same entry. The coordinates are the judgment of the researcher who gathered each entry. Filed under ops/ as a survey's reference, not as propositions of the book. -->
+<!-- The reference entries behind `ops/facilitation ecology.md`: every outside technique, single move, stance, and mental model the survey gathered, each with its sources, and every vault holding the survey placed. Built 2026-09-26 at the author's request, recorded in ops/decisions.md. The entries were generated from the researchers' records, checked for systematic errors, and read in samples rather than line by line; the survey file carries the findings and this file carries the reference. Quoted phrases inside an entry are the practitioners' own words as the researchers recorded them from the sources listed in the same entry. The coordinates are the judgment of the researcher who gathered each entry. Filed under ops/ as a survey's reference, not as propositions of the book. Part 6 was added the same day for the supplement at `ops/facilitation ecology — management and organizational psychology.md`, written at the author's further request; its quotations were each compared with the raw text of the page named beside them, and the pages include encyclopedia articles and later studies as well as the originators' own texts. -->
 
 # The facilitation ecology — the entries
 
-This file holds the reference material behind the survey at `ops/facilitation ecology.md`, in five parts:
+This file holds the reference material behind the survey at `ops/facilitation ecology.md` and its supplement on management theory and organizational psychology, in six parts:
 - Part 1 holds the 299 outside techniques, grouped by their main scale and sorted by name within each scale;
 - Part 2 holds the 61 single moves, grouped by what they do, as in section 7 of the survey;
 - Part 3 holds the 37 stances a facilitator can hold;
 - Part 4 holds the 24 mental models;
-- Part 5 lists the vault's 264 holdings by the first scale at which each works.
+- Part 5 lists the vault's 264 holdings by the first scale at which each works;
+- Part 6 holds the 58 entries from management theory, organizational psychology, and adjacent fields gathered for the supplement at `ops/facilitation ecology — management and organizational psychology.md`, grouped by field of study.
 
 Each technique has a table of its coordinates and, where the researchers recorded them, a second table of its practitioners' own words with plain meanings. Those words are the vocabulary the author asked for. The last rows of each table say where the entry came from and whether it was verified there. The row "In the vault" names the vault file where the technique appears, and a technique counts as met when the vault names it anywhere, including in a working file such as the reading queue.
 
 The row "Who decides" uses the survey's five positions. At A the person decides all the content; at B the facilitator shapes the process and the people supply the content; at C the facilitator offers content as an option the person may take or leave; at D the facilitator directs or interprets with authority; and at E no live facilitator is present, and a structure, a text, or a custom does the work.
 
-The same entries can be filtered by scale, subject, mental model, and who decides on the explorable page at https://claude.ai/artifact/DuVyj9ecaSZuBzXXgBEXHG.
+The same entries can be filtered by scale, subject, mental model, and who decides on the explorable page at https://claude.ai/artifact/DuVyj9ecaSZuBzXXgBEXHG, where the entries of Part 6 have their own tab, "Management and organizations."
 
 ## Part 1. The techniques, by main scale
 
@@ -9832,3 +9833,1887 @@ Each row is one thing the vault holds, placed on the survey's coordinates by one
 | Schwitzgebel — the unreliability of naive introspection | reading record | archive/reading — schwitzgebel, the unreliability of naive introspection (2008).md | E | other | read at the primary source | Schwitzgebel argues that people are often grossly wrong about their current emotional and bodily experience even on careful reflection, holds introspection necessary for a full life all the same, and finds no robust evidence yet that training fixes it. (Basis: thinker's words (paper read complete).) |
 | Steven Wasserstrom — the Eranos charge | thinker | `notes/steven wasserstrom.md` | E | critical and liberatory | held at second hand | Wasserstrom charges that the Eranos circle lifted visionary content out of the law, ritual, and community that gave it content, which the vault holds as the charge available against the book's own use of Trika. (Basis: vault summary (Religion after Religion unread).) |
 | The Kyoto School (Nishida, Nishitani, Ueda) | thinker | `notes/the kyoto school.md` | E | contemplative, nondual | held at second hand | The Kyoto School worked between Western philosophy and Zen at professional depth, and Ueda's close comparison of Eckhart and Zen ended by recording a difference, which the vault holds as a model for keeping refusals intact. (Basis: vault summary of a web-verified survey.) |
+
+## Part 6. What management theory and organizational psychology add
+
+This part holds the entries behind `ops/facilitation ecology — management and organizational psychology.md`, the supplement written at the author's request of 2026-09-26. Each entry is a technique, an empirical finding, or a theory, grouped by its field of study and sorted by name. Beside the survey's coordinates, each carries the kind and strength of its evidence, a researcher's reading of how it bears on the book's concerns, and where its aims part from the book's. Each quotation was compared with the raw text of the page named beside it and found there. Those pages include encyclopedia articles and later studies as well as the originators' own texts, so a quotation is an originator's own words only where its page is the originator's, and the entry's prose says whose words it gives where that matters.
+
+### Management theory
+
+#### Andon (stopping the line) and respect for people (Toyota Production System and the Toyota Way)
+
+| Field | Entry |
+|---|---|
+| Type | a technique |
+| Field of study | management theory |
+| Originators | Toyota; the Toyota Production System developed by Taiichi Ohno and Eiji Toyoda; the Toyota Way formalized by the company; Jeffrey Liker's fourteen principles |
+| Date | 1948–1975 (development of the Toyota Production System); 2001 (the Toyota Way formalized); 2004 (Liker, The Toyota Way) |
+| Scale | an organization, a small group |
+| Who decides | E, no live facilitator; a structure, text, or custom does the work. The andon is a standing rule and device, a pullcord or button, that gives workers the ability and the empowerment to stop production when they find a defect, and its alert calls managers, maintenance staff, and other workers to the problem. |
+| What happens | An andon is a system that notifies managers, maintenance staff, and other workers of a quality or process problem; a worker activates it with a pullcord or button, or the equipment activates it automatically, and all work on the line stops until a solution has been found. It is one of the principal elements of jidoka, Toyota's quality method, which one of the Toyota Way principles states as building 'a culture of stopping to fix problems to get quality right the first time'. The Toyota Way names respect for people, alongside continuous improvement, as one of its two pillars, and the Toyota Production System states respect as a commitment to understand each other, take responsibility, and build mutual trust. |
+| The evidence | The andon and respect for people are documented features of Toyota's production system rather than tested interventions. The Wikipedia articles record that many Western businesses copied visible parts of the system 'without understanding what made these reductions possible', and that Toyota's 2009–2011 recalls raised questions about whether the company had lost sight of its principles. |
+| Where it locates change | Toyota locates quality and improvement in the workers at the place of work, who are given the power to stop production and are expected to solve problems together. |
+| How it bears on the book (the researcher's reading) | Who decides the content: The andon gives a worker on the line the authority to stop the whole line, which places one consequential decision with the person closest to the problem. The container that holds people while they change: A standing permission to stop, built into the structure, resembles a group's rule that anyone may call a pause. Harm and its conditions: The Wikipedia article reports that the Toyota Way rewards intense company loyalty that reduces the voice of those who challenge authority, which shows that a formal right to stop can exist beside a culture that discourages dissent. |
+| Where it differs from the book | The andon serves production quality in a factory, and the person who pulls it stops the work of others for the sake of the product, not for their own change. Respect for people in the Toyota Way is tied to loyalty to the company, while the book's concern is a person's authorship of their own life. |
+| Quoted from its sources | "All work in production line is stopped until a solution has been found." (https://en.wikipedia.org/wiki/Andon_(manufacturing)) "It gives workers the ability, and moreover the empowerment, to stop production when a defect is found." (https://en.wikipedia.org/wiki/Andon_(manufacturing)) "The two pillars of the Toyota Way are respect for people and continuous improvement." (https://en.wikipedia.org/wiki/The_Toyota_Way) "We respect others, make every effort to understand each other, take responsibility and do our best to build mutual trust." (https://en.wikipedia.org/wiki/Toyota_Production_System) "The Toyota Way thus rewards intense company loyalty that at the same time invariably reduces the voice of those who challenge authority." (https://en.wikipedia.org/wiki/The_Toyota_Way) "Although one of the Toyota Way principles is to "build a culture of stopping to fix problems to get quality right the first time", Akio Toyoda, President and CEO, stated during Congressional hearings that the reason for the problems was that his "company grew too fast."" (https://en.wikipedia.org/wiki/The_Toyota_Way) "Many Western businesses, having observed Toyota's factories, set out to attack high inventory levels directly without understanding what made these reductions possible." (https://en.wikipedia.org/wiki/Toyota_Production_System) |
+| Mental model | organizational |
+| Structure | none of the families; a single move |
+| Subjects | task work, justice power, learning skill |
+| In the survey | Kaizen and the kaizen event; this entry adds the survey holds kaizen, gemba, and PDCA from the same production system; this entry adds the andon, jidoka, respect for people as the Toyota Way's second pillar, and the critiques about loyalty and imitation. |
+| In the vault | not yet met |
+| Sources | https://en.wikipedia.org/wiki/Andon_(manufacturing); https://en.wikipedia.org/wiki/The_Toyota_Way; https://en.wikipedia.org/wiki/Toyota_Production_System |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *andon* | Andon is a Japanese loanword originally meaning paper lantern, used for the signal system by which a problem on the production line is made visible and work is stopped. |
+| *jidoka* | Jidoka, translated as 'automation with a human touch', is Toyota's quality method of stopping production to fix problems when they occur. |
+| *respect for people* | Respect for people is one of the two pillars of the Toyota Way, covering respect for individuals and teamwork. |
+| *genchi genbutsu* | Genchi genbutsu is the principle that managers personally evaluate operations in order to understand situations and problems firsthand. |
+
+#### Complex responsive processes of relating
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | management theory |
+| Originators | Ralph D. Stacey (Hertfordshire Business School, University of Hertfordshire) |
+| Date | 2001 (Complex Responsive Processes in Organizations: Learning and Knowledge Creation, Routledge) |
+| Scale | an organization, a small group, two people as equals |
+| Who decides | not applicable. Stacey describes what an organization is and offers no method; on his account patterns emerge unpredictably from everyone's interaction, so no one outside the conversation decides its content. |
+| What it holds | Stacey holds that an organization is not a system or a thing but the ongoing patterns of conversation and power relations among interdependent people, who respond to one another so that their choices and intentions play into each other and produce unpredictable, emergent patterns over time. Drawing on George Herbert Mead's account of communication as conversation, on Norbert Elias, and on the complexity sciences, he rejects applying the model of complex adaptive systems, or systems thinking generally, directly to organizations, arguing that it is invalid simply to apply the natural sciences to human action. On this view organizing is 'the ordinary politics of everyday life', and change happens in local interaction rather than through a plan imposed on the whole. |
+| The evidence | The theory is a conceptual argument, and the sources read report no measurement-based tests. Luoma, Hämäläinen, and Saarinen (Journal of the Operational Research Society, 2010) argue that complex responsive processes and systems thinking are complementary and that Stacey's theory misses the mark in its criticism of systems thinking. |
+| Where it locates change | It locates change in the local patterns of conversation and power among the people who make up an organization, which no one controls from outside. |
+| How it bears on the book (the researcher's reading) | Change at the scale of a team or organization: Stacey places organizational change in ordinary conversations and power relations rather than in plans for the whole, which denies the premise of leader-designed change programs. Who decides the content: If patterns emerge from everyone's interdependent responses, no leader or facilitator decides the content alone, and the facilitator is one participant among others. Whether the cause lies in the person or the system: Stacey rejects treating an organization as a system with causes apart from people's interaction, which moves both the person and the system into the pattern of relating. |
+| Where it differs from the book | Stacey's theory describes organizations and offers no practice for personal change. It treats people as fundamentally interdependent and responsive to one another, which conflicts with a book addressed to a reader alone. |
+| Quoted from its sources | "Human agents are basically interdependent, they respond to each other and their choices and intentions play into each other producing unpredictable, emergent patterns over time." (https://en.wikipedia.org/wiki/Ralph_D._Stacey) "the ordinary politics of everyday life" (https://en.wikipedia.org/wiki/Ralph_D._Stacey) "it is easily interpreted in a way that collapses the paradox of certainty and uncertainty" (https://en.wikipedia.org/wiki/Ralph_D._Stacey) "CRP misses the mark in its criticism of systems thinking" (https://api.openalex.org/works/doi:10.1057/jors.2009.175) |
+| Mental model | participatory and emergent. Complexity thinking combined with George Herbert Mead's account of communication as conversation and Norbert Elias's sociology |
+| Structure | none of the families; a model of what a person or group is made of |
+| Subjects | group process, relationship present, justice power, identity self |
+| In the survey | no |
+| In the vault | notes/an ecology is a bounded but permeable domain of multiple irreducible loci of participation, none sovereign.md; The vault holds no Stacey note; this claim, that an ecology has many places of participation with none in control, is the nearest neighbor to Stacey's view that no one controls the pattern. |
+| Sources | https://en.wikipedia.org/wiki/Ralph_D._Stacey; https://api.openalex.org/works?search=Stacey%20complex%20responsive%20processes%20in%20organizations&per-page=6; https://api.openalex.org/works/doi:10.1057/jors.2009.175 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *complex responsive processes of relating* | Stacey's name for the ongoing local interaction among interdependent people from which organizational patterns emerge |
+| *emergent patterns* | regularities of behavior and meaning that arise from many local interactions without being designed by anyone |
+| *the ordinary politics of everyday life* | Stacey's phrase for what organizing consists of, including the power relations in everyday interaction |
+| *Stacey matrix* | a contingency diagram Stacey devised and later abandoned because it is easily read in a way that collapses the paradox of certainty and uncertainty |
+
+#### Deming's fourteen points and the System of Profound Knowledge
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | management theory |
+| Originators | W. Edwards Deming |
+| Date | 1950 onward (teaching in Japan); 1986 (Out of the Crisis); 1993 (The New Economics for Industry, Government, Education) |
+| Scale | an organization, a small group |
+| Who decides | not applicable. Deming addresses management, which he holds responsible for the system in which people work, and his fourteenth point asks everyone in the company to take part in the transformation. |
+| What it holds | Deming taught that most problems of quality and productivity come from the system that management designs rather than from the workers inside it, and he told Ford that management actions were responsible for 85% of all problems in developing better cars. His fourteen points ask management to 'drive out fear, so that everyone may work effectively for the company', to eliminate slogans, exhortations, and numerical targets for the work force because the bulk of the causes of low quality belong to the system and lie beyond the workers' power, and to remove barriers to pride of workmanship, including the annual or merit rating and management by objectives. His System of Profound Knowledge names four kinds of knowledge that every manager needs: appreciation of a system, knowledge of variation, theory of knowledge, and knowledge of psychology. |
+| The evidence | Deming's claims draw on statistical quality control and on the record of Japanese industry after his teaching there in 1950. The Wikipedia articles on Deming and on total quality management record no criticism, so the sources I opened give no independent test of the fourteen points. |
+| Where it locates change | Deming locates most causes of poor work in the system that management designs, so change has to come from management changing the system. |
+| How it bears on the book (the researcher's reading) | Whether the cause lies in the person or the system: Deming's statement that the bulk of the causes of poor work 'belong to the system and thus lie beyond the power of the work force' is a strong management statement that a difficulty often does not belong to the individual. The container that holds people while they change: His point to drive out fear treats fear as a condition that prevents people from working and learning, which management has to remove. Harm and its conditions: He held that exhortations 'only create adversarial relationships' and that merit rating robs people of pride in their work, so common management methods are named as sources of harm. |
+| Where it differs from the book | Deming's aim is quality and productivity in organizations, and he assigns the remedy to management. On his view, a book of inward practice offered to a worker for a problem that belongs to the system would put the remedy in the wrong place. |
+| Quoted from its sources | "Drive out fear, so that everyone may work effectively for the company." (https://en.wikipedia.org/wiki/W._Edwards_Deming) "Such exhortations only create adversarial relationships, as the bulk of the causes of low quality and low productivity belong to the system and thus lie beyond the power of the work force." (https://en.wikipedia.org/wiki/W._Edwards_Deming) "He told Ford that management actions were responsible for 85% of all problems in developing better cars." (https://en.wikipedia.org/wiki/W._Edwards_Deming) |
+| Mental model | organizational |
+| Structure | tending conditions; a model of what a person or group is made of |
+| Subjects | task work, learning skill, emotion, justice power |
+| In the survey | Kaizen and the kaizen event (which names Deming as an influence); this entry adds the survey names Deming only as an influence on kaizen; this entry adds his claim that most causes belong to the system, the point to drive out fear, his opposition to merit rating and management by objectives, and the System of Profound Knowledge. |
+| In the vault | `notes/sovereignty occupies the middle between everything happens to me and everything is my responsibility.md`; The vault places sovereignty between 'everything happens to me' and 'everything is my responsibility'; Deming supplies a management argument about which difficulties lie beyond the individual. The vault does not name Deming. |
+| Sources | https://en.wikipedia.org/wiki/W._Edwards_Deming; https://en.wikipedia.org/wiki/Total_quality_management |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *drive out fear* | Driving out fear is Deming's eighth point: management must remove fear so that everyone may work effectively. |
+| *appreciation of a system* | Appreciation of a system is understanding the overall processes that involve suppliers, producers, and customers of goods and services. |
+| *knowledge of variation* | Knowledge of variation is understanding the range and causes of variation in quality and using statistical sampling in measurement. |
+| *pride of workmanship* | Pride of workmanship is what Deming says barriers such as the annual or merit rating take from workers and managers, and his points ask management to remove those barriers. |
+
+#### Eight-step process for leading change
+
+| Field | Entry |
+|---|---|
+| Type | a technique |
+| Field of study | management theory |
+| Originators | John P. Kotter (Harvard Business School) |
+| Date | 1995 ('Leading Change: Why Transformation Efforts Fail', Harvard Business Review, March–April); 1996 (Leading Change, Harvard Business School Press); 2014 (Accelerate, which recasts the steps as eight 'accelerators') |
+| Scale | an organization, a large group |
+| Who decides | D, the facilitator directs or interprets with authority. Leaders create the urgency, form the coalition, and set the vision, and others are then enlisted to carry it out. |
+| What happens | Kotter's model sets out eight steps for leaders of organizational transformation, which his firm's current page lists as: create a sense of urgency, build a guiding coalition, form a strategic vision, enlist a volunteer army, enable action by removing barriers, generate short-term wins, sustain acceleration, and institute change. The model grew from his 1995 article on why transformation efforts fail and his 1996 book Leading Change, and in 2014 he evolved the linear eight steps into the eight 'accelerators' of his book Accelerate. The model places the initiative with leaders, who establish urgency, assemble a coalition, and set the vision that others are enlisted to pursue. |
+| The evidence | Appelbaum and colleagues (Journal of Management Development, 2012) reviewed 15 years of literature on each step and found support for most steps but no formal study covering the whole model, concluding that its popularity derives more from its direct and usable format than from any scientific consensus on its results. The change literature often repeats that 70 percent of change initiatives fail, and Mark Hughes (Journal of Change Management, 2011) reviewed five published sources of that figure and found no valid, reliable empirical evidence for it. |
+| Where it locates change | It locates change in leaders' deliberate sequence of creating urgency, building a coalition, setting a vision, and embedding the new practices in the organization. |
+| How it bears on the book (the researcher's reading) | Who decides the content: In Kotter's sequence leaders form the vision before others are enlisted, which is the leader-driven contrast to participative methods in which the people affected supply the content. Change at the scale of a team or organization: The model gives organizations a checklist of what planned change needs, and its reviewers show that its popularity rests more on its usable format than on evidence. Timing and pacing: The sequence begins by creating urgency and uses short-term wins for momentum, so its pacing follows the leaders' plan rather than the people's own transition. |
+| Where it differs from the book | Kotter's model serves organizational performance and places authority over the direction of change with leaders, while the book asks that people remain the authors of their own change. Its first step raises the pressure to change, whereas Schein advises lowering learning anxiety by creating psychological safety. |
+| Limits and critiques | Appelbaum and colleagues identify several limitations of the model and recommend adapting it to context and complementing it with other tools. |
+| Quoted from its sources | "Create A Sense of Urgency" (https://www.kotterinc.com/methodology/8-steps/) "Enlist A Volunteer Army" (https://www.kotterinc.com/methodology/8-steps/) "In each instance, the review highlights the absence of valid and reliable empirical evidence in support of the espoused 70 per cent failure rate." (https://api.openalex.org/works/doi:10.1080/14697017.2011.630506) |
+| Mental model | organizational |
+| Structure | moving through stages; a sequence of phases |
+| Subjects | task work, future vision, group process, decision choice |
+| In the survey | no |
+| In the vault | not yet met |
+| Sources | https://en.wikipedia.org/wiki/John_Kotter; https://www.kotterinc.com/methodology/8-steps/; https://hbr.org/1995/05/leading-change-why-transformation-efforts-fail-2; https://api.openalex.org/works/doi:10.1108/02621711211253231; https://api.openalex.org/works/doi:10.1080/14697017.2011.630506; https://api.openalex.org/works/doi:10.1177/0018726715577707 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *sense of urgency* | the first step, in which leaders make the need for change felt across the organization |
+| *guiding coalition* | the group assembled to lead the change effort |
+| *short-term wins* | visible early results used to build momentum for the change |
+| *accelerators* | Kotter's 2014 revision of the linear eight steps, set out in the book Accelerate |
+
+#### Integration, power-with, and the law of the situation
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | management theory |
+| Originators | Mary Parker Follett |
+| Date | 1918–1926 (The New State, 1918; Creative Experience, 1924; 'The Giving of Orders', 1926); 'Constructive Conflict' collected in Dynamic Administration, edited by Henry Metcalf and Lyndall Urwick, 1940 |
+| Scale | an organization, a small group, two people as equals |
+| Who decides | B, the facilitator shapes the process; the people supply the content. Follett has the person who gives orders bring everyone concerned into a joint study of the situation, so that the order follows from the facts of the situation rather than from one person's will. |
+| What it holds | Follett held that there are three main ways of dealing with conflict: domination, in which one side wins; compromise, in which each side gives up part of what it wanted; and integration, in which the different perspectives interact in the face of the common situation and produce a solution that is not a compromise. She distinguished power-over, which she called coercive, from power-with, which she called co-active, and she held that power is not something that can be handed to someone or taken from them. In 'The Giving of Orders' she proposed depersonalizing orders: everyone concerned studies the situation together, discovers what she called the law of the situation, and obeys that rather than a person. |
+| The evidence | The support is conceptual and illustrative, and the sources I opened record Follett's influence on later management writers but no empirical test of her claims. Her writings were popular in her lifetime but 'nearly forgotten within ten years of her death' until Pauline Graham's 1995 book Mary Parker Follett: Prophet of Management brought them back into circulation. |
+| Where it locates change | Follett locates change in the interaction among people who face a shared situation, where differing desires can be combined into a solution that is not a compromise. |
+| How it bears on the book (the researcher's reading) | Conflict: Follett's distinction among domination, compromise, and integration names a third course between one person winning a disagreement and both people splitting the difference. Who decides the content: The law of the situation moves the source of a decision from the person with authority to a joint study of the facts, which shares the decision without abolishing the role of the person who gives orders. Remaining the author of one's own change: Follett's claim that power cannot be handed to someone or taken from them treats a person's capacity as something developed with others rather than received from them. |
+| Where it differs from the book | Follett wrote to managers and citizens about running organizations and settling industrial and political conflict, not about a person's inner change. Her integration requires the parties to meet and examine their desires together, which a book read alone cannot arrange. |
+| Quoted from its sources | "There are three main ways of dealing with conflict; domination, compromise and integration." (https://en.wikiquote.org/wiki/Mary_Parker_Follett) "My solution is to depersonalize the giving of orders, to unite all concerned in a study of the situation, to discover the law of the situation, and obey that." (https://en.wikipedia.org/wiki/The_Giving_of_Orders) "Follett developed the circular theory of power, distinguishing between "power-over" and "power-with" (coercive vs. co-active power)" (https://en.wikipedia.org/wiki/The_Giving_of_Orders) "Power is not a pre-existing thing which can be handed out to someone, or wrenched from someone." (https://en.wikiquote.org/wiki/Mary_Parker_Follett) "they were nearly forgotten within ten years of her death" (https://en.wikipedia.org/wiki/The_Giving_of_Orders) |
+| Mental model | organizational. Follett worked as a social worker, political scientist, and philosopher as well as a management consultant, and her books on democracy (1918) and on group experience (1924) came before her management papers, so the fit to management alone is loose |
+| Structure | holding two poles; a method |
+| Subjects | conflict, justice power, decision choice, relationship present |
+| In the survey | no |
+| In the vault | `notes/harmony is the joining of differences rather than a collapse into agreement.md`; The vault does not name Follett; this note holds that two people can share one field of meaning while each keeps their own view, a claim close to her integration. |
+| Sources | https://en.wikipedia.org/wiki/Mary_Parker_Follett; https://en.wikiquote.org/wiki/Mary_Parker_Follett; https://en.wikipedia.org/wiki/The_Giving_of_Orders; https://www.britannica.com/biography/Mary-Parker-Follett; https://en.wikipedia.org/w/index.php?search=%22Constructive+Conflict%22+Follett&ns0=1&fulltext=1 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *power-with* | Power-with is power that people develop jointly with one another, which Follett called co-active power. |
+| *power-over* | Power-over is power that one party holds over another, which Follett called coercive power. |
+| *integration* | Integration is Follett's third way of dealing with conflict, in which differing perspectives interact in the face of a shared situation and produce a solution that is neither one side's victory nor a compromise. |
+| *the law of the situation* | The law of the situation is Follett's name for what the facts of a shared situation require once everyone concerned has studied them, so that people obey the situation rather than a person. |
+| *depersonalizing orders* | Depersonalizing orders means making an order the composite conclusion of those who give it and those who receive it. |
+
+#### Scientific management (Taylorism) and the Hawthorne studies: the field's founding contrast
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | management theory |
+| Originators | Frederick Winslow Taylor; the Hawthorne studies at Western Electric's Hawthorne Works, with Elton Mayo among the researchers; the term 'Hawthorne effect' coined by John R. P. French |
+| Date | 1911 (Taylor, The Principles of Scientific Management); 1924–1928 and after (the Hawthorne experiments); 1953 (the term 'Hawthorne effect') |
+| Scale | an organization, a small group |
+| Who decides | D, the facilitator directs or interprets with authority. Scientific management gives the planning of work to managers and its execution to workers; the Hawthorne studies were research carried out on workers, and the human relations movement that drew on them attended to workers' psychology without, in the sources I opened, changing who planned the work. |
+| What it holds | Taylor held that time and motion studies combined with rational analysis could uncover one best method for performing any task, and his system divided work so that managers are responsible for planning, supervision, and training while workers carry out standardized tasks and are rewarded when they accomplish the set task. The Hawthorne studies at Western Electric's plant in Cicero, Illinois, began with illumination experiments (1924–1927) that compared an experiment room, where light levels varied, with a control room under normal conditions, and continued with Elton Mayo's study of changes in work structure (1927–1928); the human relations movement that drew on them viewed workers in terms of their psychology and fit with companies rather than as interchangeable parts. The term 'Hawthorne effect' names a change people make in their behavior because they are aware of being observed. |
+| The evidence | The Hawthorne interpretation is contested: Richard Nisbett called the effect 'a glorified anecdote', H. McIlvaine Parsons redefined it as a confounding in which experimenters fail to see how the consequences of subjects' performance affect what they do, and Steven Levitt and John List, re-analysing the illumination data, found only slight evidence for it over the long run. The standard account of the human relations school rising out of scientific management is itself argued to be a rhetorical distortion, and Bruce and Nyland suggest that others, Taylor among them, identified similar findings before Mayo. |
+| Where it locates change | Scientific management locates efficiency in the method that experts design and managers impose, while the human relations reading of Hawthorne locates productivity in workers' social relations and in the attention they receive. |
+| How it bears on the book (the researcher's reading) | Who decides the content: Taylor's division of planning, done by managers, from doing, done by workers, is management's clearest case of position D, and a 1912 House committee's refusal to endorse stop-watch time study 'without consent of workmen' is an early demand for the consent of the people directed. Knowing that something happened: The Hawthorne dispute shows how a change produced by being observed, by novelty, or by feedback can be mistaken for the effect of an intervention. Being seen and recognized by another: Henry Landsberger's interpretation, that the novelty of being research subjects and the increased attention could raise productivity temporarily, is a caution that the effect of being attended to may fade. |
+| Where it differs from the book | Both sides of the contrast serve factory productivity and leave the design of work with managers or researchers, and the Hawthorne workers were studied rather than invited to author their own change. |
+| Limits and critiques | Taylorism was criticized for turning the worker into an 'automaton' or 'machine', and workers resisted it: when the bonus system was introduced at the government's Watertown Arsenal foundry in the summer of 1911, the entire force walked out for a few days. |
+| Quoted from its sources | "He posited that time and motion studies combined with rational analysis and synthesis could uncover one best method for performing any particular task" (https://en.wikipedia.org/wiki/Scientific_management) "A committee of the U.S. House of Representatives investigated and reported in 1912, advocating standardization and systematizing, but not a stop-watch time study without consent of workmen." (https://en.wikipedia.org/wiki/Scientific_management) "Richard Nisbett has described the Hawthorne effect as "a glorified anecdote", saying that "once you have got the anecdote, you can throw away the data."" (https://en.wikipedia.org/wiki/Hawthorne_effect) "Re-analysing it, they found slight evidence for the Hawthorne effect over the long-run, but in no way as drastic as suggested initially." (https://en.wikipedia.org/wiki/Hawthorne_effect) "However, the conventional depiction of the human relations "school" of management, rising out of the ashes of scientific management is argued to be a rhetorical distortion of events." (https://en.wikipedia.org/wiki/Human_relations_movement) "Taylorism was criticized for turning the worker into an "automaton" or "machine"" (https://en.wikipedia.org/wiki/Scientific_management) |
+| Mental model | organizational |
+| Structure | holding two poles; a model of what a person or group is made of |
+| Subjects | task work, justice power, attention awareness, relationship present |
+| In the survey | no |
+| In the vault | not yet met |
+| Sources | https://en.wikipedia.org/wiki/Scientific_management; https://en.wikipedia.org/wiki/Hawthorne_effect; https://en.wikipedia.org/wiki/Human_relations_movement |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *one best method* | The one best method is Taylor's claim that time and motion study with rational analysis can find a single best way to perform any particular task. |
+| *Hawthorne effect* | The Hawthorne effect is a change people make in some part of their behavior because they are aware of being observed. |
+| *human relations movement* | The human relations movement is the study of people's behavior in workplace groups that viewed workers in terms of their psychology and fit with companies rather than as interchangeable parts. |
+
+#### Sociotechnical systems: joint optimization, responsible autonomy, and minimal critical specification
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | management theory |
+| Originators | Eric Trist, Ken Bamforth, and Fred Emery (Tavistock Institute, London); Albert Cherns (principles of sociotechnical design) |
+| Date | 1951 (Trist and Bamforth, 'Some Social and Psychological Consequences of the Longwall Method of Coal-Getting'); 1976 (Cherns, 'The Principles of Sociotechnical Design') |
+| Scale | an organization, a small group |
+| Who decides | D, the facilitator directs or interprets with authority. In the classic method, experts or a trained design team analyze and redesign the work system, which Merrelyn Emery criticized; Cherns's principle of minimal critical specification limits what the designers should specify. |
+| What it holds | Sociotechnical theory holds that a work system is made of a social system and a technical system and that the two should be designed together, which it calls joint optimization. Its central principles were set out in Trist and Bamforth's 1951 study of English coal miners, which examined the psychological situation and defences of a work group in relation to the social structure and technology of the longwall method, and the theory gives particular attention to supervision and leadership inside the group, which it calls responsible autonomy. Albert Cherns's 1976 principles of sociotechnical design include minimal critical specification: designers may need to be precise about what has to be done but rarely about how it is done. |
+| The evidence | The theory began with field studies in British coal mines and became a design method; the Wikipedia article reports Alter's view that sociotechnical analysis and design methods are not a strong point in information systems practice, and a finding that users found it difficult to see beyond their current practices. Merrelyn Emery, from within the same tradition, describes the method as practiced in the United States as 'basically the same arduous, expert based procedure as it was in the 50s and 60s'. |
+| Where it locates change | The theory locates a group's working life, including its defences, in the fit between the group's social organization and its technology, so change comes from redesigning both together. |
+| How it bears on the book (the researcher's reading) | Whether the cause lies in the person or the system: The 1951 study read a work group's psychological situation and defences in relation to the structure and technology of its work, which places the group's difficulties partly in the design of the work. Who decides the content: Minimal critical specification separates what must be specified from how it is done and leaves the how to the people doing the work. Protection and defense: The coal-mining paper studied a work group's defences as responses to the work system, an early organizational account of protective behavior produced by structure. |
+| Where it differs from the book | Sociotechnical design serves productivity and the quality of working life in organizations, and in its classic form experts design for the workers. The book is concerned with a person's own change rather than with the design of jobs. |
+| Limits and critiques | Merrelyn Emery criticized the classic method because its design teams produced structures within which other people had to fit, so people lacked ownership of the designs and some designs were rejected outright. |
+| Quoted from its sources | "Some of the central principles of sociotechnical theory were elaborated in a seminal paper by Eric Trist and Ken Bamforth in 1951." (https://en.wikipedia.org/wiki/Sociotechnical_system) "While it may be necessary to be quite precise about what has to be done, it is rarely necessary to be precise about how it is done" (https://en.wikipedia.org/wiki/Sociotechnical_system) "Sociotechnical theory pays particular attention to internal supervision and leadership at the level of the "group" and refers to it as "responsible autonomy"." (https://en.wikipedia.org/wiki/Sociotechnical_system) "It is however, basically the same arduous, expert based procedure as it was in the 50s and 60s." (https://www.socialsciencethatactuallyworks.com/wp-content/uploads/documents/the-genotypical-design-principles-and-democratizing-organizations/Sociotechnical%20System.pdf) |
+| Mental model | organizational. The approach came from the Tavistock Institute, and the full title of the 1951 paper refers to 'the Psychological Situation and Defences of a Work Group', so it joins the social science of work with attention to a group's defences |
+| Structure | holding two poles; a model of what a person or group is made of |
+| Subjects | task work, group process, justice power |
+| In the survey | Search Conference; this entry adds the survey's Search Conference entry mentions Fred Emery's open systems theory and democratic design principle; this entry adds the sociotechnical concept itself, the 1951 coal-mining study, joint optimization, responsible autonomy, and Cherns's minimal critical specification. |
+| In the vault | `notes/how much structure makes recognition possible without determining what is recognized.md`; The vault holds the question of how much structure makes recognition possible without determining what is recognized; Cherns's minimal critical specification is a design rule for the same question in work systems. The vault does not name Trist, Bamforth, or Cherns. |
+| Sources | https://en.wikipedia.org/wiki/Sociotechnical_system; https://www.socialsciencethatactuallyworks.com/wp-content/uploads/documents/the-genotypical-design-principles-and-democratizing-organizations/Sociotechnical%20System.pdf; https://www.socialsciencethatactuallyworks.com/wp-content/uploads/documents/the-genotypical-design-principles-and-democratizing-organizations/The%20Real%20Participative%20Design%20Workshop%20-%201998.pdf |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *joint optimization* | Joint optimization is designing the social and technical systems together so that the work achieves both technical excellence and quality in people's working lives. |
+| *responsible autonomy* | Responsible autonomy is the theory's name for supervision and leadership carried out inside the work group itself. |
+| *minimal critical specification* | Minimal critical specification is Cherns's principle that designers should be precise about what has to be done but rarely about how it is done. |
+| *sociotechnical system* | A sociotechnical system is a unit of analysis that treats the social structure and the technology of a workplace together as one system, and Merrelyn Emery stresses that the term names this unit rather than any particular form of organization. |
+
+#### Teal organizations: self-management, wholeness, and evolutionary purpose (Reinventing Organizations)
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | management theory |
+| Originators | Frederic Laloux |
+| Date | 2014 (Reinventing Organizations) |
+| Scale | an organization, a small group |
+| Who decides | E, no live facilitator; a structure, text, or custom does the work. In Laloux's account, structures and agreed practices such as the advice process, explicit ground rules, and check-in rounds do the work that managers did in earlier forms, so no single facilitator holds the process. |
+| What it holds | Laloux describes types of organization by colors that he treats as developmental stages (red, amber, orange, green, and teal) and names three breakthroughs of the teal type: self-management, wholeness, and evolutionary purpose. Wholeness asks an organization to support people in bringing all of who they are to work instead of hiding behind a professional mask, through practices such as explicit ground rules for a safe workplace, reflective spaces, storytelling, a minute of silence and rounds of check-in and check-out at meetings, trained practices for resolving conflict, and each person's responsibility for their own self-awareness and development. The Reinventing Organizations wiki cautions that it is a mistake to believe later stages are better than earlier ones and describes each stage as including and transcending the previous one. |
+| The evidence | The model is based on case studies of organizations such as Buurtzorg, AES, and Morning Star and on stage theories from developmental psychology. Spiral Dynamics, one of its sources, 'lacks mainstream academic validity or support' according to its Wikipedia article, and the Wikipedia article on teal organizations is flagged for promotional content. |
+| Where it locates change | Laloux locates organizational change in a move to a later developmental stage, which new structures and practices then express. |
+| How it bears on the book (the researcher's reading) | The container that holds people while they change: The wholeness practices, including ground rules for a safe workplace, check-in and check-out rounds, silence, and trained conflict practices, are an organizational catalogue of conditions for a container. Change at the scale of a team or organization: Laloux reports case organizations in which management's decisions were redistributed through structures, which bears on what makes an institution change. Harm and its conditions: Arranging organizations as developmental stages invites ranking people and groups as more or less developed, the risk the author himself named by comparing a synthesis of this kind to Ken Wilber's, and one that the Reinventing Organizations wiki itself warns against. |
+| Where it differs from the book | Laloux serves organizational design and presents later stages as more complex, so his model arranges forms in levels, while the survey's rule treats its coordinates as ways to find a technique and not as a ranking. Wholeness in Laloux is also a feature of workplaces that employers provide, not a person's own practice. |
+| Limits and critiques | The developmental framing borrows from Spiral Dynamics, whose Wikipedia article reports that it lacks mainstream academic validity and has been criticized as appearing to be like a cult; the vault records that Wilber's stage scheme came to be used as a status ranking among his readers. |
+| Quoted from its sources | "The organizational theory term was coined in 2014 by Frederic Laloux in his book Reinventing Organizations." (https://en.wikipedia.org/wiki/Teal_organisation) "We get into trouble when we believe that later stages are "better" than earlier stages; a more helpful interpretation is that they are "more complex" ways of dealing with the world." (https://reinventingorganizationswiki.com/en/theory/developmental-perspective-on-organizations/) "Two thinkers in particular―Ken Wilber and Jenny Wade―have done substantial work comparing and contrasting all the major stage models and have discovered strong convergence." (https://reinventingorganizationswiki.com/en/theory/developmental-perspective-on-organizations/) "Every stage includes and transcends the previous." (https://reinventingorganizationswiki.com/en/theory/developmental-perspective-on-organizations/) "It lacks mainstream academic validity or support, although it has been applied in management consulting and some academic literature." (https://en.wikipedia.org/wiki/Spiral_Dynamics) |
+| Mental model | developmental. Laloux arranges organizational forms as developmental stages named by colors, drawing on stage theorists including Ken Wilber, Jenny Wade, Clare Graves, and Jean Gebser, while his practices are organizational |
+| Structure | nested levels; a model of what a person or group is made of |
+| Subjects | identity self, meaning purpose, justice power, group process |
+| In the survey | Advice process; this entry adds the survey holds the advice process by way of Laloux; this entry adds the wholeness practices, evolutionary purpose, the colored developmental stages with their sources, and the Reinventing Organizations wiki's own caution against ranking the stages. |
+| In the vault | `notes/the nearest prior attempts are case histories rather than interlocutors.md`; The vault holds Wilber and others as case histories whose value is what happened to their syntheses; the author's remark 'It feels very Ken Wilber' is recorded in ops/facilitation ecology.md, section 12. |
+| Sources | https://en.wikipedia.org/wiki/Teal_organisation; https://reinventingorganizationswiki.com/en/; https://reinventingorganizationswiki.com/en/theory/developmental-perspective-on-organizations/; https://reinventingorganizationswiki.com/en/theory/wholeness/; https://en.wikipedia.org/wiki/Spiral_Dynamics |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *self-management* | Self-management is Laloux's name for replacing hierarchy with a system in which employees manage themselves and make decisions together, for example through the advice process. |
+| *wholeness* | Wholeness is the practice of letting people bring all of who they are to work by joining their personal and professional identities. |
+| *evolutionary purpose* | Evolutionary purpose is Laloux's view of the organization as a living entity that adapts and develops under its own direction. |
+| *teal* | Teal is the color Laloux gives to the organizational stage he places after green, which he associates with the three breakthroughs. |
+
+#### The acceptance theory of authority and the zone of indifference
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | management theory |
+| Originators | Chester I. Barnard (president of the New Jersey Bell Telephone Company from 1927) |
+| Date | 1938 (The Functions of the Executive) |
+| Scale | an organization |
+| Who decides | D, the facilitator directs or interprets with authority. The executive issues the orders, but Barnard holds that whether an order has authority is decided by the person who receives it. |
+| What it holds | Barnard, a telephone company president, held that an organization comes into being when people who can communicate with each other are willing to contribute action to a common purpose. He argued that authority lies in the acceptance of the person who receives an order: a person accepts a communication as authoritative only when four conditions hold at once, namely that the person understands it, believes at the time that it is consistent with the organization's purpose, believes at the time that it is compatible with their personal interest as a whole, and is mentally and physically able to comply. Within each person's 'zone of indifference' orders are accepted without conscious questioning, and the zone is wider or narrower according to how far the inducements the organization offers exceed the burdens and sacrifices it asks. |
+| The evidence | The theory is a conceptual account drawn from Barnard's experience as an executive, and the sources I opened record no empirical test of it. The Wikipedia article on the book describes the zone of indifference as 'perhaps the most well-known idea in the book'. |
+| Where it locates change | Barnard locates the working of authority in each member's decision to accept or refuse an order, a decision the executive can influence by offering inducements and by communicating a common purpose. |
+| How it bears on the book (the researcher's reading) | Who decides the content: Barnard's account holds that even inside a hierarchy the receiver decides whether an order has authority, which gives the survey's coordinate a precedent for authority that is granted by the person directed. Remaining the author of one's own change: His four conditions describe accepting direction without giving up judgment, since the person checks each condition at the time of the decision. Decisions: Barnard wrote that the fine art of executive decision includes 'not making decisions that others should make', which names restraint as part of a leader's decision work. |
+| Where it differs from the book | Barnard wrote for executives whose task is to secure cooperation for the organization's purpose, and he counted 'the inculcation of belief in the real existence of a common purpose' among the executive's functions. The book is concerned with a person's authorship of their own change, whereas Barnard treats shaping members' beliefs as part of the executive's job. |
+| Quoted from its sources | "Thus, what makes a communication authoritative, rests with the subordinate, rather than with his superior." (https://en.wikipedia.org/wiki/Chester_Barnard) "A person can and will accept a communication as authoritative only when four conditions simultaneously obtain: (a) he can and does understand the communication; (b) at the time of his decision he believes that it is not inconsistent with the purpose of the organization; (c) at the time of his decision, he believes it to be compatible with his personal interest as a whole; and (d) he is able mentally and physically to comply with it." (https://en.wikipedia.org/wiki/The_Functions_of_the_Executive) "The zone of indifference will be wider or narrower depending upon the degree to which the inducements exceed the burdens and sacrifices which determine the individual's adhesion to the organization." (https://en.wikipedia.org/wiki/The_Functions_of_the_Executive) "The fine art of executive decision consists in not deciding questions that are not now pertinent, in not deciding prematurely, in not making decision that cannot be made effective, and in not making decisions that others should make." (https://en.wikiquote.org/wiki/Chester_Barnard) "The inculcation of belief in the real existence of a common purpose is an essential executive function." (https://en.wikiquote.org/wiki/Chester_Barnard) "Barnard discusses the concept of "zone of indifference," which is "perhaps the most well-known idea in the book," as follows:" (https://en.wikipedia.org/wiki/The_Functions_of_the_Executive) |
+| Mental model | organizational |
+| Structure | tending conditions; a model of what a person or group is made of |
+| Subjects | justice power, decision choice, task work |
+| In the survey | no |
+| In the vault | `notes/the book can only be auxiliary to a sovereign reader.md`; The vault does not name Barnard; this note holds that the book can serve its reader only as an instrument and never as an authority, which parallels Barnard's claim that authority rests with the one who accepts it. |
+| Sources | https://en.wikipedia.org/wiki/Chester_Barnard; https://en.wikipedia.org/wiki/The_Functions_of_the_Executive; https://en.wikiquote.org/wiki/Chester_Barnard |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *acceptance theory of authority* | The acceptance theory of authority holds that what makes a communication authoritative rests with the subordinate who receives it rather than with the superior who issues it. |
+| *zone of indifference* | The zone of indifference is the range of orders a person accepts without consciously questioning their authority. |
+| *inducements* | Inducements are what an organization offers its members in return for their contributions, and Barnard held that providing adequate incentives is the task organizations emphasize most. |
+| *formal organization* | Barnard defines formal organization as a system of consciously coordinated activities or forces of two or more persons. |
+| *informal organization* | Informal organization is the groups of people who interact outside the formal structure, which Barnard held exist alongside every formal organization. |
+
+#### Theory X and Theory Y
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | management theory |
+| Originators | Douglas McGregor (MIT Sloan School of Management) |
+| Date | 1960 (The Human Side of Enterprise); developed in the 1950s |
+| Scale | an organization, a small group |
+| Who decides | not applicable. The theory describes two sets of assumptions a manager can hold: a Theory X manager supervises closely and uses rewards and penalties, while a Theory Y manager encourages workers to approach tasks without direct supervision. |
+| What it holds | McGregor described two contrasting sets of assumptions that managers hold about workers. Theory X assumes that the typical worker lacks ambition, avoids responsibility, and works mainly for income, so it stresses heightened supervision, external rewards, and penalties; Theory Y assumes that the typical worker is internally motivated, enjoys the work, and will take responsibility for it, so it stresses job satisfaction and work without direct supervision. The two theories describe contrasting models of motivation that managers apply when they manage people. |
+| The evidence | The theory is a conceptual model based on Maslow's motivation theory, and the sources I opened record no direct empirical test. Edgar Schein recalled that McGregor was 'discouraged by the degree to which theory Y had become as monolithic a set of principles as those of Theory X'. |
+| Where it locates change | McGregor locates change in the manager's assumptions about people, which determine how much supervision and responsibility the manager gives. |
+| How it bears on the book (the researcher's reading) | Who decides the content: The theory ties how much a leader directs to what the leader believes about people, so a facilitator's position on the survey's coordinate can be read as an expression of an assumption about the participant. Whether the cause lies in the person or the system: Read beside the book, the theory raises the question of whether a person's apparent lack of motivation belongs to the person or to the assumptions built into the way the person is managed. |
+| Where it differs from the book | McGregor wrote about managing employees for an organization's performance, so the manager, not the worker, chooses which assumptions govern the work. The theory also sorts people's treatment into two fixed types, and Schein reports that McGregor himself was discouraged when Theory Y hardened into a set of principles. |
+| Limits and critiques | The Wikipedia article on the theory notes that Theory Y's lack of standard practices can reduce consistency and uniformity, and that a system that is too soft could produce an entitled, low-output workforce. |
+| Quoted from its sources | "Theory X explains the importance of heightened supervision, external rewards, and penalties, while Theory Y highlights the motivating role of job satisfaction and encourages workers to approach tasks without direct supervision." (https://en.wikipedia.org/wiki/Theory_X_and_Theory_Y) "discouraged by the degree to which theory Y had become as monolithic a set of principles as those of Theory X" (https://en.wikipedia.org/wiki/Douglas_McGregor) |
+| Mental model | organizational. McGregor was a student of Abraham Maslow, and the Wikipedia article on him calls Theory Y the practical application of Maslow's humanistic psychology to management |
+| Structure | holding two poles; a model of what a person or group is made of |
+| Subjects | thought belief, task work, justice power |
+| In the survey | no |
+| In the vault | not yet met |
+| Sources | https://en.wikipedia.org/wiki/Theory_X_and_Theory_Y; https://en.wikipedia.org/wiki/Douglas_McGregor |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *Theory X* | Theory X is the set of assumptions that the typical worker lacks motivation, avoids responsibility, and works mainly for income, which leads a manager to rely on close supervision, external rewards, and penalties. |
+| *Theory Y* | Theory Y is the set of assumptions that the typical worker is internally motivated, enjoys the work, and will take full responsibility for it without close supervision. |
+
+### Leadership studies
+
+#### Adaptive leadership
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | leadership studies |
+| Originators | Ronald Heifetz (Harvard Kennedy School), with Marty Linsky and Alexander Grashow |
+| Date | 1994 (Leadership Without Easy Answers); 2002 (Leadership on the Line, with Marty Linsky; revised 2017 as Leadership on the Line: Staying Alive through the Dangers of Change); 2009 (The Practice of Adaptive Leadership, with Alexander Grashow and Marty Linsky) |
+| Scale | an organization, a community or public, a small group, one person alone |
+| Who decides | B, the facilitator shapes the process; the people supply the content. The leader creates a holding environment, regulates the level of tension, and gives the work back to the people, because the adaptive work is work that only the people facing the challenge can do. |
+| What it holds | Heifetz distinguishes technical problems, which existing expertise or programmatic solutions can manage, from adaptive challenges, which require the people involved to change their ways of thinking and acting and which no expert can solve for them. One study summarizes the leader's work on an adaptive challenge as 'create a holding environment, select participants, control the temperature, give the work back to the people', while the leader repeatedly observes, interprets, and intervenes and treats each intervention as a trial that may need revising. Heifetz and Linsky describe the step back from the action to see the broader context as 'getting off the dance floor and onto the balcony', and Heifetz distinguishes leadership from authority. |
+| The evidence | Adaptive leadership is a practitioner and teaching model from the Harvard Kennedy School, and the published applications I found are qualitative, such as a study of introducing Open Dialogue into mental health services and an interview study of twelve patients with colorectal or pancreatic cancer. The Wikipedia article on Heifetz is flagged for relying on sources closely associated with him, and one applied commentary describes itself as a rapid scan of the literature rather than a systematic review. |
+| Where it locates change | Heifetz locates change in the people who face an adaptive challenge, who must themselves learn new ways of thinking and acting, while the leader's work is to maintain the conditions and the level of tension under which they can do so. |
+| How it bears on the book (the researcher's reading) | Remaining the author of one's own change: The rule to give the work back treats adaptive change as work only the people facing it can do, and in the patient study some patients deliberately chose not to adapt in certain areas in order to keep their autonomy and stability. The container that holds people while they change: The holding environment and the regulation of temperature describe a container that is safe and controlled while it still confronts people with the issue. Timing and pacing: Controlling the temperature makes the pace of change depend on how much tension people can work with, and each intervention is treated as a trial that may be revised. |
+| Where it differs from the book | Heifetz wrote for people exercising leadership in organizations and public life who mobilize groups to face shared challenges, so the unit of change is usually a group or institution, and the leader decides when to raise or lower the tension. The book addresses a person's own change, in which the same person would have to maintain the holding environment, regulate the tension, and do the work. |
+| Limits and critiques | In the patient interview study, the authors added categories of 'adaptive work avoidance' that were 'not part of original framework', because some patients chose not to adapt as a way of coping, which shows that the framework's assumption that adaptation is the aim does not always fit a person's own choice. |
+| Quoted from its sources | "An adaptive challenge is different in that it may have many inputs and require changes in the ways of thinking and doing that cannot be solved by improving technical expertise alone." (https://pmc.ncbi.nlm.nih.gov/articles/PMC8077079/) "Heifetz and Linsky use the analogy of 'getting off the dance floor and onto the balcony'." (https://pmc.ncbi.nlm.nih.gov/articles/PMC8077079/) "Create a holding environment, select participants, control the temperature, give the work back to the people" (https://pmc.ncbi.nlm.nih.gov/articles/PMC13400203/) "Adaptive work avoidance: passive stance (not part of original framework)" (https://pmc.ncbi.nlm.nih.gov/articles/PMC13400203/) |
+| Mental model | organizational. Heifetz trained in surgery and psychiatry, and his term 'holding environment' is the one the survey records as Donald Winnicott's, so the fit to a single paradigm is loose |
+| Structure | tending conditions; a method |
+| Subjects | learning skill, conflict, emotion, group process, justice power |
+| In the survey | the holding environment; this entry adds the survey holds Winnicott's holding environment as a stance; this entry adds Heifetz's use of the term for groups and organizations, together with the distinction between technical and adaptive work, giving the work back, controlling the temperature, and getting on the balcony. |
+| In the vault | `notes/donald winnicott.md`; The vault holds Winnicott, read at primary texts, including his holding environment; it does not name Heifetz. |
+| Sources | https://en.wikipedia.org/wiki/Ronald_Heifetz; https://www.hks.harvard.edu/faculty/ronald-heifetz; https://en.wikipedia.org/wiki/Marty_Linsky; https://hbr.org/2001/12/the-work-of-leadership; https://pmc.ncbi.nlm.nih.gov/articles/PMC8077079/; https://pmc.ncbi.nlm.nih.gov/articles/PMC13400203/; https://pmc.ncbi.nlm.nih.gov/articles/PMC9813114/ |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *adaptive challenge* | An adaptive challenge is a problem that requires changes in the ways people think and act and that cannot be solved by improving technical expertise alone. |
+| *holding environment* | A holding environment, in Heifetz's use, is a setting that is safe and controlled while the people in it are still confronted with the issue. |
+| *giving the work back* | Giving the work back means returning the adaptive work to the people who face the challenge instead of solving it for them. |
+| *getting on the balcony* | Getting on the balcony means stepping out of the action in order to see the broader context and the pattern of what is happening. |
+| *controlling the temperature* | Controlling the temperature means regulating how much tension and disequilibrium people experience while they work on the challenge. |
+
+#### Intent-based leadership ('I intend to...') and mission command (Auftragstaktik)
+
+| Field | Entry |
+|---|---|
+| Type | a technique |
+| Field of study | leadership studies |
+| Originators | L. David Marquet (US Navy, commander of USS Santa Fe); mission-type tactics from the Prussian and German armies, with Helmuth von Moltke among its principal advocates |
+| Date | 2013 (Turn the Ship Around!, per the Wikipedia article on Marquet; another Wikipedia article cites a 2012 edition); mission-type tactics since the 19th century; US Army Field Manual 6-0, Mission Command, 2003 |
+| Scale | an organization, a small group |
+| Who decides | B, the facilitator shapes the process; the people supply the content. The superior states the objective and the intent behind it and the subordinate decides the method; in Marquet's form the subordinate announces the decision with 'I intend to...' instead of asking permission, so authority over the goal stays with the superior while authority over the means moves to the subordinate. |
+| What happens | In mission command a commander gives subordinate leaders a clearly defined objective, a timeframe, and the forces needed, and leaves the method to them; the doctrine depends on the subordinate understanding the intent of whoever issues the orders and acting to achieve the goal, even against other guidance. Marquet took command of a submarine that was ranked last in retention and operational standing and, instead of taking control and giving orders, treated the crew as leaders: a crew member states what they intend to do ('I intend to...') rather than asking permission. Marquet calls the result a leader-leader team, in contrast to leader and followers, and his organization describes the approach as giving more control and creating clarity. |
+| The evidence | The support for Marquet's form is one case history: the Wikipedia article reports that the Santa Fe went from 'worst to first', reaching the highest retention and operational standings in the Navy, and later produced ten submarine captains. Mission command is long-standing military doctrine, but armies adopting it have found it hard to practice: a 2004 British Army review found orders 'substantially more detailed, and subordinates more constrained than twenty years prior'. |
+| Where it locates change | Both locate better decisions in giving authority over methods to the people closest to the situation, provided that they understand the purpose and have the competence and trust to act on it. |
+| How it bears on the book (the researcher's reading) | Who decides the content: Both divide a decision into its purpose, which the superior sets, and its method, which the subordinate chooses, a precise intermediate position on the survey's coordinate. Remaining the author of one's own change: The phrase 'I intend to...' turns a request into a statement of one's own decision, a small speech act by which a person states what they will do instead of waiting to be told. Change at the scale of a team or organization: The Wikipedia article on liberated companies reports that such arrangements can quickly dissolve when the leader who granted them is replaced, so the change depends on the person who granted it. |
+| Where it differs from the book | Both serve operational performance in hierarchies in which the superior sets the goal and can take control back, so the subordinate's authorship is bounded by the commander's intent. The book is concerned with a person whose goal is their own rather than assigned by a superior. |
+| Limits and critiques | The Wikipedia article on liberated companies records that such forms are maintained by company heads and can quickly dissolve when those heads are replaced, and that some companies that sought liberation reverted to command-and-control forms. |
+| Quoted from its sources | "The success of the doctrine rests upon the recipient of orders understanding the intent of whoever issues the orders and acting to achieve the goal, even if their actions violate other guidance or orders they have received." (https://en.wikipedia.org/wiki/Mission-type_tactics) "He "turned his ship around" by treating the crew as leaders, not followers, and giving control, not taking control." (https://en.wikipedia.org/wiki/David_Marquet) "British orders were substantially more detailed, and subordinates more constrained than twenty years prior." (https://en.wikipedia.org/wiki/Mission-type_tactics) "Since liberated organizational forms are maintained by company heads, if they are replaced by new ones who aren't liberating leaders, the liberated form can quickly dissolve, despite declining performance." (https://en.wikipedia.org/wiki/Liberated_company) "This approach took the Santa Fe from "worst to first," achieving the highest retention and operational standings in the Navy." (https://en.wikipedia.org/wiki/David_Marquet) "with intent, the default is action absent a veto whereas with permission the default is stasis absent approval" (https://davidmarquet.com/) |
+| Mental model | organizational. Both come from military command practice, one naval and one army |
+| Structure | a word said aloud that acts; a single move |
+| Subjects | decision choice, justice power, task work, learning skill |
+| In the survey | no |
+| In the vault | `notes/delegation can deepen participation or destroy it.md`; The vault holds that delegation can free a person for the meaningful part of a task or take that part away; it does not name Marquet or mission command. |
+| Sources | https://en.wikipedia.org/wiki/David_Marquet; https://intentbasedleadership.com/; https://en.wikipedia.org/wiki/Mission-type_tactics; https://en.wikipedia.org/wiki/Liberated_company; https://davidmarquet.com/ |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *intent* | The intent is the purpose behind an order, which subordinates must understand so that they can act toward the goal when the situation changes. |
+| *Auftragstaktik* | Auftragstaktik, German for mission tactics, is the command method of giving subordinates a defined objective and leaving the method to them; the modern German army, the Bundeswehr, uses the term Führen mit Auftrag, which means leading by mission. |
+| *'I intend to...'* | 'I intend to...' is the phrase with which a subordinate states a planned action instead of asking for permission, which Marquet's organization says 'replaces permission-and-compliance'. |
+| *leader-leader* | Leader-leader is Marquet's name for a team in which people at every level act as leaders, as opposed to a team of one leader and followers. |
+
+#### Servant leadership ('The Servant as Leader')
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | leadership studies |
+| Originators | Robert K. Greenleaf; ten characteristics later listed by Larry Spears |
+| Date | 1970 ('The Servant as Leader') |
+| Scale | an organization, two people, one helping, a community or public |
+| Who decides | C, the facilitator offers content as an option. On my reading the servant-leader offers direction that others may take up, since Spears's list includes persuasion and Greenleaf's test judges the leader by whether those served become more autonomous. |
+| What it holds | Greenleaf held that the servant-leader is 'servant first': the feeling of wanting to serve comes first and a conscious choice to lead follows, and he contrasted this person with one who is leader first, calling the two 'two extreme types'. His test asks whether those served grow as persons and become healthier, wiser, freer, more autonomous, and more likely to become servants themselves, and it adds a second question about the effect on the least privileged in society. Greenleaf credited Hesse's 1932 novel Journey to the East, in which the servant Leo turns out to have been the group's leader, as the source of the idea, and Larry Spears later listed ten characteristics: empathy, listening, healing, awareness, persuasion, conceptualization, foresight, stewardship, commitment to the growth of people, and building community. |
+| The evidence | Research on the construct is contested: the Wikipedia article reports that there was no consensus on empirical research until a state-of-the-art review in 2020, and that one researcher made no distinctions among charismatic, transformational, and servant leadership. |
+| Where it locates change | Greenleaf locates the source of good leadership in the leader's prior wish to serve and measures it by the growth and autonomy of the people served. |
+| How it bears on the book (the researcher's reading) | Remaining the author of one's own change: Greenleaf's test measures a leader by whether those served become freer and more autonomous, a test the book could apply to any facilitator, itself included. Knowing that something happened: The test directs attention to observable changes in the people served rather than to the leader's intentions, and the servant-first and leader-first distinction separates a real wish to serve from its imitation. Harm and its conditions: The critiques the Wikipedia article records, that the servant image leaves out the historical subjugation of servants and rests on patriarchal assumptions, warn that the language of service can hide unequal power. |
+| Where it differs from the book | Servant leadership keeps a designated leader in place, while the book's facilitator aims to become unnecessary to the person. Greenleaf addressed leaders of institutions, so his measure of success is the growth of the people an institution serves rather than a person's own practice. |
+| Limits and critiques | The Wikipedia article records that Greenleaf's definition 'lacks specifics', that feminist scholars see the model as based on patriarchal approaches to leadership, and that Black scholars have pointed out that the subjugation and mistreatment of servants is largely absent from servant-leadership discourse. |
+| Quoted from its sources | "The servant-leader is servant first… It begins with the natural feeling that one wants to serve, to serve first." (https://www.greenleaf.org/what-is-servant-leadership/) "The leader-first and the servant-first are two extreme types." (https://www.greenleaf.org/what-is-servant-leadership/) "And, what is the effect on the least privileged in society?" (https://www.greenleaf.org/what-is-servant-leadership/) "Similarly, Black scholars have pointed out how notions of servants as being subjugated and mistreated is largely absent from servant leadership discourse." (https://en.wikipedia.org/wiki/Servant_leadership) "Greenleaf's definition left much room for speculation because it lacks specifics." (https://en.wikipedia.org/wiki/Servant_leadership) |
+| Mental model | organizational. Greenleaf credited Hermann Hesse's novel Journey to the East as his inspiration, so the model joins management with a literary and ethical source |
+| Structure | telling the real thing from its counterfeit; a model of what a person or group is made of |
+| Subjects | meaning purpose, justice power, relationship present, identity self |
+| In the survey | servant leadership; this entry adds the survey holds the stance and the first half of Greenleaf's test; this entry adds the servant-first and leader-first distinction, the test's second question about the least privileged, the Hesse source, Spears's ten characteristics, and the research and ethical critiques. |
+| In the vault | notes/the facilitator disappears, success is increasing the other's capacity to facilitate themselves.md; The vault does not name Greenleaf; this note holds that a facilitator succeeds by increasing the other person's capacity to facilitate themselves, which is close to Greenleaf's test. |
+| Sources | https://www.greenleaf.org/what-is-servant-leadership/; https://en.wikipedia.org/wiki/Servant_leadership |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *servant first* | Servant first is Greenleaf's name for a leader whose first feeling is the wish to serve and who then consciously chooses to lead. |
+| *leader first* | Leader first is Greenleaf's name for the opposite type, whose wish to lead comes first, which he associated with a need to assuage an unusual power drive or to acquire material possessions. |
+| *the best test* | The best test is Greenleaf's measure of servant leadership: whether those served grow as persons and become more autonomous, and what the leadership does to the least privileged in society. |
+
+#### Situational Leadership (Hersey and Blanchard) and Blanchard's SLII
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | leadership studies |
+| Originators | Paul Hersey and Ken Blanchard; Blanchard's variant SLII |
+| Date | 1969 (Management of Organizational Behavior, introduced as the 'Life Cycle Theory of Leadership'); renamed in the mid-1970s; SLII 1985 |
+| Scale | two people, one helping, a small group |
+| Who decides | D, the facilitator directs or interprets with authority. The leader judges the follower's readiness and chooses the style, so the leader decides how much direction to give even when the chosen style is delegating. |
+| What it holds | The model holds that there is no single best leadership style and that leaders should adapt their style to the readiness of the person or group they lead for a specific task. It combines two kinds of leader behavior, task behavior and relationship behavior, into four styles, telling, selling, participating, and delegating, which the Wikipedia table pairs with directing, coaching, and supporting. Readiness runs from R1 (unable and unwilling or insecure) to R4 (able, confident, and willing), and Blanchard's SLII variant describes four development levels (D1 to D4) in terms of competence and commitment. |
+| The evidence | The Wikipedia article states that 'Several studies do not support all of the prescriptions offered by situational leadership theory', citing Vecchio (1987) and Fernandez and Vecchio (1997). Hersey and Blanchard later developed divergent versions and separate companies, so the model now exists in two commercial forms. |
+| Where it locates change | The model locates good leadership in the leader's accurate reading of each follower's readiness for a specific task and in matching direction and support to that reading. |
+| How it bears on the book (the researcher's reading) | Timing and pacing: The model treats stepping back as a skill timed to a person's growing readiness, moving from telling to delegating as ability and willingness increase. Who decides the content: It shows one leader taking different positions on the survey's coordinate with different people, or with one person at different stages of a task. Being seen and recognized by another: The model depends on the leader seeing a person's readiness for a given task accurately, and a misreading leads to the wrong style. |
+| Where it differs from the book | The leader diagnoses the follower and chooses the style, so the follower does not decide how far to be led, and the model serves task performance in organizations. The book is concerned with a person remaining the author of their own change, which a diagnosis made by someone else can support but not replace. |
+| Limits and critiques | The research support is mixed, and the model's prescriptions are not all confirmed by the studies the Wikipedia article cites. |
+| Quoted from its sources | "Several studies do not support all of the prescriptions offered by situational leadership theory." (https://en.wikipedia.org/wiki/Situational_leadership_theory) "In later editions of Management of Organizational Behavior, the follower's development continuum was changed from Maturity levels to Follower Readiness, indicative of how ready a person is to perform a specific task, not a personal characteristic." (https://en.wikipedia.org/wiki/Situational_leadership_theory) |
+| Mental model | organizational |
+| Structure | moving through stages; a method |
+| Subjects | learning skill, task work, decision choice |
+| In the survey | hierarchical, cooperative, and autonomous modes of facilitation (a related stance, not the same model); this entry adds the survey's Heron entry has the facilitator move among modes as a group develops but lacks a verified source; this entry adds a management model of the same move, keyed to a person's readiness for a specific task, together with its mixed research record. |
+| In the vault | `notes/stepping back as the person grows able to carry more is itself an act of care timed to their capacity.md`; The vault holds that good help is calibrated withdrawal, doing less as a person can bear more; it does not name Hersey and Blanchard. |
+| Sources | https://en.wikipedia.org/wiki/Situational_leadership_theory; https://en.wikipedia.org/wiki/History_of_contingency_theories_of_leadership |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *performance readiness* | Performance readiness is how ready a person is to perform a specific task, judged by ability and willingness, and the model treats it as belonging to the task rather than as a personal characteristic. |
+| *telling (directing)* | Telling is the style of high task direction and low relationship behavior, used for a person who is not yet able or willing. |
+| *selling (coaching)* | Selling is the style of high task direction combined with high relationship behavior, in which the leader persuades people to accept ideas. |
+| *participating (supporting)* | Participating is the style of low task direction and high relationship behavior, in which the leader shares decisions. |
+| *delegating* | Delegating is the style of low task direction and low relationship behavior, in which the leader gives most of the responsibility to the person or group. |
+
+#### The continuum of leadership behavior ('How to Choose a Leadership Pattern')
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | leadership studies |
+| Originators | Robert Tannenbaum and Warren H. Schmidt (UCLA Graduate School of Management) |
+| Date | 1958 (Harvard Business Review 36, pp. 95–101; one Wikipedia article dates the model to 1957); reprinted in the May 1973 issue |
+| Scale | a small group, an organization |
+| Who decides | not applicable. The continuum covers the same range as the survey's coordinate: at one end the manager decides and announces (D), and at the other the team identifies the problem and decides inside limits the manager sets, which is close to A inside a frame set at B. |
+| What it holds | Tannenbaum and Schmidt arranged the ways a manager can reach decisions with subordinates along one continuum, defined by 'the degree of authority used by the boss' and 'the amount of freedom available to subordinates in reaching decisions', from managers who 'maintain a high degree of control' to managers who 'release a high degree of control'. The article offered this as a framework for managers deciding, case by case, when to exert strong leadership and when to exercise permissive leadership. A widely used adaptation (businessballs) lists seven points: the manager decides and announces the decision; decides and then 'sells' it; presents the decision with background ideas and invites questions; suggests a provisional decision and invites discussion; presents the situation or problem, gets suggestions, then decides; explains the situation, defines the parameters, and asks the team to decide; and allows the team to identify the problem, develop options, and decide on the action within the manager's received limits. |
+| The evidence | The model is a practitioner framework published in the Harvard Business Review and reproduced in training materials such as the businessballs site, and the sources I opened record no empirical test of it. The seven-point wording above is the businessballs adaptation; I did not see the 1958 wording of the points, only the sentences Wikiquote reproduces from pages 97 and 99 and the five manager statements that open the HBR page. |
+| Where it locates change | The model locates good leadership in the manager's choice of how much authority to keep for a particular decision, not in one fixed style. |
+| How it bears on the book (the researcher's reading) | Who decides the content: The continuum is a published precedent from 1958 for the survey's own coordinate, with named positions between deciding alone and delegating, such as selling a decision and consulting before deciding. Decisions: The model separates proposing, discussing, and deciding, so a group can see that being consulted is not the same as deciding. Remaining the author of one's own change: Even at the end of the continuum that gives the most freedom, the manager sets the limits and keeps accountability, which marks the difference between a person deciding inside someone else's frame and a person setting the frame. |
+| Where it differs from the book | The continuum is written for a manager choosing how much authority to share for the sake of the organization's decisions, so the manager always chooses the position. The book asks what happens when the person, not the leader, decides how far to be led. |
+| Limits and critiques | The businessballs adaptation states that 'Delegating freedom and decision-making responsibility to a team does not absolve the manager of accountability.' A 2023 review of power sharing warns that consultation risks being seen as power sharing on a pseudo-level, in which managers seek acceptance for decisions they have already made. |
+| Quoted from its sources | "Each type of action is related to the degree of authority used by the boss and to the amount of freedom available to subordinates in reaching decisions." (https://en.wikiquote.org/wiki/Robert_Tannenbaum) "The actions seen on the extreme left characterize managers who maintain a high degree of control while those seen on the extreme right characterize managers who release a high degree of control." (https://en.wikiquote.org/wiki/Robert_Tannenbaum) "I put most problems into my group's hands and leave it to them to carry the ball from there. I serve merely as a catalyst, mirroring back the people's thoughts and feelings so that they can better understand them." (https://hbr.org/1973/05/how-to-choose-a-leadership-pattern) "7. The manager allows the team to identify the problem, develop options, and decide on the action, within the manager's received limits" (https://www.businessballs.com/delegation-and-empowerment/delegating-tannenbaum-and-schmidt-continuum/) "consultation risks being viewed as power sharing on a pseudo-level, with managers seeking acceptance and justification for their own decisions rather than employee participation in decisions" (https://pmc.ncbi.nlm.nih.gov/articles/PMC10372622/) "Delegating freedom and decision-making responsibility to a team does not absolve the manager of accountability." (https://www.businessballs.com/delegation-and-empowerment/delegating-tannenbaum-and-schmidt-continuum/) |
+| Mental model | organizational |
+| Structure | holding two poles; a method |
+| Subjects | decision choice, justice power, group process |
+| In the survey | hierarchical, cooperative, and autonomous modes of facilitation (a related stance, not the same model); this entry adds the survey holds John Heron's three modes without a verified source or date; this entry adds a dated, published precedent from management (1958) with named positions between deciding alone and delegating, and it opens with a manager who describes himself as 'a catalyst, mirroring back the people's thoughts and feelings'. |
+| In the vault | `notes/delegation can deepen participation or destroy it.md`; The vault holds that delegation can free a person for the meaningful part of a task or take that part away; it does not name Tannenbaum and Schmidt. |
+| Sources | https://en.wikiquote.org/wiki/Robert_Tannenbaum; https://hbr.org/1973/05/how-to-choose-a-leadership-pattern; https://www.businessballs.com/delegation-and-empowerment/delegating-tannenbaum-and-schmidt-continuum/; https://en.wikipedia.org/wiki/History_of_contingency_theories_of_leadership; https://eric.ed.gov/?q=%22Tannenbaum%22+%22Schmidt%22+%22leadership+pattern%22; https://pmc.ncbi.nlm.nih.gov/articles/PMC10372622/ |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *continuum of leadership behavior* | The continuum of leadership behavior is the range of decision patterns from the manager deciding alone to the subordinates deciding within limits the manager sets. |
+| *degree of authority used by the boss* | The degree of authority used by the boss is the share of a decision that the manager keeps. |
+| *freedom available to subordinates* | The freedom available to subordinates is the share of a decision that the group, rather than the manager, determines. |
+| *'selling' a decision* | Selling a decision means that the manager decides alone and then persuades the group to accept the decision instead of simply announcing it. |
+| *within the manager's received limits* | The phrase means that even at the far end of the continuum the team decides inside limits that bind the manager. |
+
+#### The Vroom–Yetton (later Vroom–Jago) normative decision model
+
+| Field | Entry |
+|---|---|
+| Type | a technique |
+| Field of study | leadership studies |
+| Originators | Victor Vroom with Philip Yetton, and later with Arthur Jago |
+| Date | 1973 (Vroom and Yetton, Leadership and Decision-Making); 1988 (Vroom and Jago, The New Leadership) |
+| Scale | a small group, an organization |
+| Who decides | D, the facilitator directs or interprets with authority. The leader answers the model's questions and so decides how far to involve others; the chosen style ranges from deciding alone with the information at hand (AI) to discussing the problem with the whole group and seeking their ideas together (GII). |
+| What happens | The model gives a leader a set of yes-or-no questions about a particular decision, and the answers point to one of five decision styles. The questions ask whether the decision has a quality requirement, whether the leader has enough information, whether the problem is structured, whether subordinates' acceptance is critical to carrying the decision out, whether they would accept a decision the leader made alone, whether they share the organizational goals at stake, and whether conflict among them is likely. The five styles run from two autocratic ones (AI, deciding alone with information at hand; AII, collecting information from followers and then deciding alone), through two consultative ones (CI and CII, sharing the problem with followers individually or as a group and seeking their ideas before deciding alone), to a group style (GII, discussing the problem with the followers as a group and seeking their ideas together). |
+| The evidence | The Wikipedia article on the model records no test of it. A 2022 study of firefighters (a scenario experiment with 125 participants and a field survey of 165) found that autocratic leadership raised trust in the leader during the action phase of an emergency by raising the leader's perceived ability, while democratic leadership raised trust during the transition phase by raising perceived benevolence, and the authors connect this to Vroom and Yetton's claim that time pressure favors deciding alone. |
+| Where it locates change | The model locates good decisions in matching the degree of others' participation to features of the problem, chiefly its quality requirement, the information available, and the need for others' acceptance. |
+| How it bears on the book (the researcher's reading) | Who decides the content: The five styles give precise names to positions on the survey's coordinate and separate being asked for information (AII) from being asked for ideas (CI, CII) and from shared discussion (GII). Timing and pacing: The model and the firefighter study treat the right degree of participation as something that changes with time pressure and with the phase of the work, which bears on when a facilitator should lead and when step back. Decisions: The question of whether acceptance is critical to implementation names a practical reason for involving people: a decision they did not help make may not be carried out. |
+| Where it differs from the book | The leader runs the model alone and chooses how much to involve others, so participation is a means to decision quality and acceptance rather than a right of the people affected. The book is concerned with a person remaining the author of their own change, which a leader's diagnostic can neither grant nor withhold. |
+| Limits and critiques | A 2023 review of power sharing warns that consultation risks being seen as power sharing on a pseudo-level, in which managers seek acceptance for decisions they have already made. |
+| Quoted from its sources | "Is acceptance of the decision by subordinates critical to its implementation?" (https://en.wikipedia.org/wiki/Vroom%E2%80%93Yetton_decision_model) "Vroom and Yetton (1973) emphasized that when the timing is critical, a leader should make decisions alone rather than delegate to team members." (https://pmc.ncbi.nlm.nih.gov/articles/PMC9382123/) |
+| Mental model | organizational |
+| Structure | none of the families; a method |
+| Subjects | decision choice, group process, justice power, conflict |
+| In the survey | no |
+| In the vault | notes/participation is not sovereignty, influence is not authorship, information is not recognition.md; The vault holds that taking part in, affecting, or being informed by a system each fall short of authoring what it means; the model's consultative styles give influence without authorship. The vault does not name Vroom. |
+| Sources | https://en.wikipedia.org/wiki/Vroom%E2%80%93Yetton_decision_model; https://en.wikipedia.org/wiki/Victor_Vroom; https://pmc.ncbi.nlm.nih.gov/articles/PMC9382123/; https://pmc.ncbi.nlm.nih.gov/articles/PMC10372622/ |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *AI* | AI, the first autocratic style, is the leader deciding alone with the information available at the time. |
+| *CII* | CII, the second consultative style, is the leader sharing the problem with the followers as a group, seeking their ideas and suggestions, and then deciding alone. |
+| *GII* | GII, the group style, is the leader discussing the problem with the followers as a group and seeking their ideas and suggestions together. |
+| *acceptance* | Acceptance is the model's question of whether subordinates' acceptance of the decision is critical to its implementation, which pushes the model toward involving them. |
+| *contingency model* | A contingency model holds that the right degree of involvement depends on features of the situation rather than being fixed. |
+
+### Organizational psychology
+
+#### Burnout: the three dimensions, the Maslach Burnout Inventory, and the six areas of worklife
+
+| Field | Entry |
+|---|---|
+| Type | a finding |
+| Field of study | organizational psychology |
+| Originators | Christina Maslach, with Jackson (the inventory) and with Wilmar B. Schaufeli and Michael P. Leiter (the 2001 review) |
+| Date | 1981 (Maslach Burnout Inventory, with Jackson); 1997 (The Truth About Burnout); 2001 (Annual Review of Psychology) |
+| Scale | an organization, two people, one helping, one person alone |
+| Who decides | not applicable. The finding describes a condition of workers, and on this account prevention is mainly the organization's work. |
+| What it holds | Maslach and colleagues define burnout as a prolonged response to chronic emotional and interpersonal stressors on the job, marked by three dimensions: exhaustion, cynicism or depersonalization (low empathy toward the people one works with), and inefficacy or reduced accomplishment. The Maslach Burnout Inventory, published with Jackson in 1981, remains by far the most used instrument for measuring it. The account holds that burnout arises from a mismatch between the worker and the job in six areas of worklife: workload, control, reward, community, fairness, and values. The World Health Organization's ICD-11 describes burn-out as a syndrome resulting from chronic workplace stress that has not been successfully managed, classifies it under problems associated with employment, and restricts it to the occupational context. |
+| The evidence | The construct is supported by decades of survey research with the inventory, and critics report that about 90% of workers with very high inventory scores met diagnostic criteria for depression in one study (Bianchi and colleagues, 2014), that one review counted 142 definitions of burnout (Rotenstein and colleagues, 2018), and that some authors recommend abandoning the concept. On interventions, a 2016 meta-analysis found that both individual-focused and organizational strategies produced clinically meaningful reductions in physician burnout, and a 2017 meta-analysis of 19 studies found larger effects for organization-directed interventions (SMD −0.45) than for physician-directed ones (SMD −0.18). |
+| Where it locates change | Change is located mainly in the fit between the person and the job, so prevention works on the job's structure, which Maslach recommended combining with educating workers. |
+| How it bears on the book (the researcher's reading) | Whether the cause lies in the person or the system: The six-area account places burnout in the relationship between a person and a job, and the physician meta-analyses give measured support for working on the organization while showing that individual interventions also help, if less. What care costs the one who gives it: The three dimensions name the helper's cost as exhaustion, detachment from the people served, and a lost sense of accomplishment. Harm and its conditions: On this account a mismatch in workload, control, reward, community, fairness, or values is the condition that produces burnout. |
+| Where it differs from the book | Maslach's research serves occupational health and locates burnout's main causes in the job, and the vault's panel of proposed thinkers of 2026-08-08 (`ops/queue/forest panel, 2026-08-08.md`) records the objection that follows: offered a book of inward practice for a reader whose distress lies in the job, she would count the offer as the individualizing error her research attacks. The research measures burnout by questionnaire rather than by a person's own account of what is missing. |
+| Limits and critiques | Burnout's distinctness from depression is disputed, and the field works with many competing definitions of the syndrome. |
+| Quoted from its sources | "Burnout is a prolonged response to chronic emotional and interpersonal stressors on the job, and is defined by the three dimensions of exhaustion, cynicism, and inefficacy." (https://api.crossref.org/works/10.1146/annurev.psych.52.1.397) "Burnout can occur in connection to six areas of work life: workload, control, reward, community, fairness, and values." (https://en.wikipedia.org/wiki/Occupational_burnout) "Maslach suggested that preventing burnout requires a combination of organizational change and worker education." (https://en.wikipedia.org/wiki/Occupational_burnout) "The literature indicates that both individual-focused and structural or organisational strategies can result in clinically meaningful reductions in burnout among physicians." (https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22Interventions%20to%20prevent%20and%20reduce%20physician%20burnout%22&format=json&resultType=core&pageSize=2) "Subgroup analyses suggested significantly improved effects for organization-directed interventions (SMD = -0.45; 95% CI, -0.62 to -0.28) compared with physician-directed interventions (SMD = -0.18; 95% CI, -0.32 to -0.03)." (https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22Controlled%20Interventions%20to%20Reduce%20Burnout%20in%20Physicians%22&format=json&resultType=core&pageSize=2) |
+| Mental model | organizational. The research is social and occupational psychology, and it measures burnout by survey |
+| Structure | holding two poles; a model of what a person or group is made of |
+| Subjects | task work, emotion, justice power, meaning purpose |
+| In the survey | no |
+| In the vault | `notes/burnout is obligation minus sanctuary.md`; The vault note reads burnout as a single privation: the obligation is intact, and what is missing is the place where the obligated person is held and restored. It quotes the first-telling that burnout is not 'too much work' and that the cure is restoring sanctuary rather than necessarily reducing obligation. Maslach's account differs in four ways. First, it names workload itself as one of the six areas of mismatch, so on her account reducing excess demand is a legitimate remedy, which the note treats as insufficient without restored sanctuary. Second, it is plural: control, reward, fairness, and values are sources of burnout with no counterpart in a missing sanctuary, and only community comes close to what the first-telling calls 'the holding place'. Third, it defines burnout by three dimensions, exhaustion, cynicism, and inefficacy, while the note's formula names a missing element and describes nothing that corresponds to cynicism toward the people served or to a lost sense of efficacy. Fourth, it locates the problem in the relationship between person and job and measures it by questionnaire. For reading-queue entry 29 (ops/reading queue.md), the sources opened here show Maslach recommending organizational change combined with worker education rather than structure alone, and two physician meta-analyses (West and colleagues 2016; Panagioti and colleagues 2017) found that both individual and organizational interventions reduce burnout, with organization-directed ones larger in the second; so the claim that the individual is the wrong unit of intervention is supported as a difference in size of effect, not as a finding that individual work fails. |
+| Sources | https://en.wikipedia.org/wiki/Occupational_burnout; https://api.crossref.org/works/10.1146/annurev.psych.52.1.397; https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22Controlled%20Interventions%20to%20Reduce%20Burnout%20in%20Physicians%22&format=json&resultType=core&pageSize=2; https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22Interventions%20to%20prevent%20and%20reduce%20physician%20burnout%22&format=json&resultType=core&pageSize=2; https://openlibrary.org/search.json?q=the+truth+about+burnout+maslach+leiter&fields=title,subtitle,author_name,first_publish_year,publisher&limit=3 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *exhaustion* | Exhaustion is the first dimension of burnout, being depleted by the emotional and interpersonal demands of the job. |
+| *cynicism or depersonalization* | Cynicism, which the Wikipedia account of Maslach's dimensions calls depersonalization, is the second dimension, a detached, low-empathy stance toward the people one works with. |
+| *inefficacy* | Inefficacy is the third dimension, a reduced sense of accomplishment at work. |
+| *six areas of worklife* | The six areas of worklife are workload, control, reward, community, fairness, and values, the areas in which a mismatch between person and job produces burnout. |
+| *engagement* | Engagement is the 2001 review's name for the positive antithesis of burnout. |
+
+#### Compassion in organizational life (organizational compassion)
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | organizational psychology |
+| Originators | Jason M. Kanov, Sally Maitlis, Monica C. Worline, Jane E. Dutton, Peter J. Frost, and Jacoba M. Lilius; later Monica C. Worline and Jane E. Dutton |
+| Date | 2004 (American Behavioral Scientist); 2017 (Awakening Compassion at Work, Berrett-Koehler) |
+| Scale | an organization, two people, one helping, a small group |
+| Who decides | not applicable |
+| What it holds | Kanov and colleagues argued that pain is prevalent and costly in organizational life and that compassion is a process that can occur in response to suffering. At the level of one person, compassion has three subprocesses: noticing another's pain, experiencing an emotional reaction to it, and acting in response to it. Compassion becomes organizational when members of a system collectively notice, feel, and respond to the pain of other members, and it becomes collective when features of the organization's context legitimate these processes, propagate them among members, and coordinate them across people. Worline and Dutton's 2017 book adds attention to how people interpret suffering, since judging a sufferer undeserving can lead people to turn away from the suffering. |
+| The evidence | The 2004 paper is a conceptual article, and the sources opened here, its abstract and a later study that uses the 2017 book, report no controlled test of the framework. |
+| Where it locates change | Change is located in whether the people and structures of an organization notice suffering, allow a feeling response to it, and coordinate action on it. |
+| How it bears on the book (the researcher's reading) | What care costs the one who gives it: The framework treats compassion as a capability of the organization, so the work of noticing and responding need not rest on one caregiver alone. The container that holds people while they change: It names the organizational features that make a response to suffering accepted, spread among members, and coordinated, which is an account of a container at the scale of an institution. Being seen and recognized by another: Noticing another's pain is the first step of the process, so compassion begins with a person's suffering being seen. |
+| Where it differs from the book | The framework describes how helpers and organizations respond to suffering, while the book is concerned with whether the person helped remains the author of their own change. |
+| Quoted from its sources | "At the individual level, compassion takes place through three subprocesses: noticing another's pain, experiencing an emotional reaction to the pain, and acting in response to the pain." (https://api.crossref.org/works/10.1177/0002764203260211) "The authors build on this framework to argue that organizational compassion exists when members of a system collectively notice, feel, and respond to pain experienced by members of that system." (https://api.crossref.org/works/10.1177/0002764203260211) "These processes become collective as features of an organization's context legitimate them within the organization, propagate them among organizational members, and coordinate them across individuals." (https://api.crossref.org/works/10.1177/0002764203260211) |
+| Mental model | organizational. The work comes from positive organizational scholarship |
+| Structure | tending conditions; a model of what a person or group is made of |
+| Subjects | emotion, relationship present, grief, trauma healing, group process |
+| In the survey | no |
+| In the vault | `notes/grief cannot complete alone.md`; The vault's nearest holding is the claim that grief needs a witness and a ceremony, credited in the corpus to Karla McLaren; the vault does not name the compassion research, Kanov, Worline, or Dutton. |
+| Sources | https://api.crossref.org/works/10.1177/0002764203260211; https://openlibrary.org/search.json?q=title%3A%22awakening+compassion+at+work%22&fields=key,title,subtitle,author_name,first_publish_year,first_sentence,publisher,isbn&limit=3; https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9010240/fullTextXML |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *noticing* | Noticing is the first subprocess of compassion, becoming aware of another person's pain. |
+| *feeling* | Feeling is the second subprocess, experiencing an emotional reaction to the pain. |
+| *responding* | Responding is the third subprocess, acting in response to the pain. |
+| *organizational compassion* | Organizational compassion exists when members of a system collectively notice, feel, and respond to pain experienced by members of that system. |
+| *legitimate, propagate, coordinate* | These are the three things that features of an organization's context do to make compassion collective: they make it acceptable, spread it among members, and organize it across people. |
+
+#### Emotional labor (surface acting, deep acting, feeling rules)
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | organizational psychology |
+| Originators | Arlie Russell Hochschild |
+| Date | 1983 (The Managed Heart: Commercialization of Human Feeling) |
+| Scale | an organization, two people, one helping, a society's customs |
+| Who decides | not applicable. The theory describes jobs in which the employer's feeling rules decide which feelings a worker must display. |
+| What it holds | Hochschild described emotional labor as managing one's own emotions, and the emotions of others, to meet the expectations of a job, with flight attendants and bill collectors as her main examples. In surface acting a worker displays the emotions a job requires without changing how they actually feel, largely through body language; in deep acting a worker makes an effortful attempt to change their inner feelings to match what the organization expects. Feeling rules are the shared norms about which feelings are appropriate in a situation, and they differ between social groups. The book's subtitle names its concern, the commercialization of human feeling. |
+| The evidence | Hochschild's 1983 book is a sociological study, and a later quantitative literature, reported in the Wikipedia article, finds that more emotion regulation on the job goes with more emotional exhaustion and that surface acting is generally more harmful to employee health than deep acting. Hochschild has said that the term's later extension beyond paid work amounts to concept creep that has made it blurrier. |
+| Where it locates change | Change is located in the gap between what a worker feels and what the job requires the worker to show, and in the work done to close or to conceal that gap. |
+| How it bears on the book (the researcher's reading) | What care costs the one who gives it: Emotional labor names the work a facilitator or helper does on their own feelings to meet the expectations of the role, and the research links that work, especially surface acting, to exhaustion. Knowing that something happened: The distinction between surface and deep acting is a distinction between a displayed feeling and a felt one, which bears on telling a real change from a performed one. Harm and its conditions: Feeling rules set by an employer or a group can require people to display feelings they do not have, and the research finds such display, when the feeling is not felt, harmful to health. |
+| Where it differs from the book | Hochschild writes as a sociologist criticizing the commercial use of workers' feelings, not as a guide to changing one's inner life, and her account treats deliberate changes of feeling made to meet an institution's expectations as labor that has a cost. |
+| Limits and critiques | Hochschild has described uses of the term beyond workplace contexts as concept creep that has made the concept blurrier. |
+| Quoted from its sources | "Surface acting occurs when employees display the emotions required for a job without changing how they actually feel." (https://en.wikipedia.org/wiki/Emotional_labor) "Deep acting is an effortful process through which employees change their internal feelings to align with organizational expectations." (https://en.wikipedia.org/wiki/Emotional_labor) "Research generally has shown surface acting is more harmful to employee health." (https://en.wikipedia.org/wiki/Emotional_labor) |
+| Mental model | other. Emotional labor comes from the sociology of emotions, and the Wikipedia article places the book within symbolic interactionism |
+| Structure | telling the real thing from its counterfeit; a model of what a person or group is made of |
+| Subjects | emotion, task work, identity self, justice power |
+| In the survey | no |
+| In the vault | `notes/burnout is obligation minus sanctuary.md`; The vault does not name Hochschild, emotional labor, surface acting, deep acting, or feeling rules; the burnout note is the nearest holding on what care costs the one who gives it. |
+| Sources | https://en.wikipedia.org/wiki/Emotional_labor; https://en.wikipedia.org/wiki/The_Managed_Heart |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *emotional labor* | Emotional labor is managing one's own emotions, and the emotions of others, to meet the expectations of a job. |
+| *surface acting* | Surface acting is displaying the emotions a job requires without changing how one actually feels. |
+| *deep acting* | Deep acting is an effortful process by which a worker changes their internal feelings to match what the organization expects. |
+| *feeling rules* | Feeling rules are the shared norms about which feelings are appropriate to have and to show in a situation, and they vary with social group membership. |
+
+#### Feedback intervention theory
+
+| Field | Entry |
+|---|---|
+| Type | a finding |
+| Field of study | organizational psychology |
+| Originators | Avraham Kluger and Angelo DeNisi |
+| Date | 1996 (Psychological Bulletin, 'The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary feedback intervention theory') |
+| Scale | two people, one helping, an organization, a small group |
+| Who decides | not applicable. The finding concerns feedback that another person or a system gives about a person's performance. |
+| What it holds | Kluger and DeNisi's 1996 review and meta-analysis found that feedback interventions improved performance on average, but that more than one third of them decreased performance. Their feedback intervention theory proposes that feedback directs attention among levels: task learning, which links the feedback to details of the task; task motivation, which compares the feedback with a standard and adjusts effort; and meta-task processes, which concern the self. Feedback that draws attention up toward the self tends to lower performance, because it diverts attention from the task, while feedback that keeps attention on the task tends to raise it. |
+| The evidence | The finding comes from a meta-analysis published in Psychological Bulletin and is reported here through later studies that cite it, because the paper's abstract was not reachable. A later study notes that the meta-analysis showed large variability in effects and included very different kinds of feedback and tasks. |
+| Where it locates change | Change in performance is located in where the feedback directs the person's attention, toward the task or toward the self. |
+| How it bears on the book (the researcher's reading) | Being seen and recognized by another: The finding warns that being evaluated by another, when the evaluation turns attention to the self, can lower performance, which separates being assessed from being seen. Harm and its conditions: More than one third of the feedback interventions studied made performance worse, so feedback is a method with a measured rate of harm. |
+| Where it differs from the book | The theory concerns performance on tasks and treats attention to the self as a cost, while the book concerns a person's recognition of themselves, where the self is the subject rather than a distraction from it. |
+| Limits and critiques | The one-third figure is a proportion across very different tasks and kinds of feedback, and the effects vary widely. |
+| Quoted from its sources | "These authors suggested that feedback intervention improved performance on average but that over one-third of the feedback interventions decreased performance." (https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3508272/fullTextXML) "Furthermore, results suggest that the effectiveness of feedback intervention decreases as attention moves up the hierarchy closer to the self and away from the task." (https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3508272/fullTextXML) "According to feedback intervention theory, meta-task processes lead to decreases in performance, because they divert the attention away from the task." (https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13251835/fullTextXML) |
+| Mental model | other. The work is industrial and organizational psychology: a historical review and meta-analysis joined to a theory of where feedback directs attention |
+| Structure | nested levels; a model of what a person or group is made of |
+| Subjects | learning skill, task work, identity self, attention awareness |
+| In the survey | no |
+| In the vault | `notes/deci and ryan measured that instrumentalizing an intrinsic activity corrupts it.md`; The vault does not name Kluger, DeNisi, or feedback intervention theory. Its one measured finding about feedback is in this note, where positive verbal feedback enhanced free-choice intrinsic motivation (d = 0.33), which contrasts with Kluger and DeNisi's warning about feedback aimed at the self. |
+| Sources | https://api.semanticscholar.org/graph/v1/paper/DOI:10.1037/0033-2909.119.2.254?fields=title,abstract,year,venue,authors; https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3508272/fullTextXML; https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13251835/fullTextXML; https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8696015/fullTextXML |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *feedback intervention* | A feedback intervention is giving a person information about their performance on a task as a deliberate attempt to change that performance. |
+| *meta-task processes* | Meta-task processes are attention to the self rather than to the task, and the theory holds that feedback which triggers them lowers performance. |
+| *task-motivation processes* | Task-motivation processes compare the feedback with a standard of performance and adjust effort to close any gap. |
+| *task-learning processes* | Task-learning processes link the feedback to details of the task and form hypotheses about how to do it better. |
+
+#### High-quality connections
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | organizational psychology |
+| Originators | Jane E. Dutton and Emily D. Heaphy; later elaborated by Stephens, Heaphy, and Dutton |
+| Date | 2003; 2011 (Stephens, Heaphy, and Dutton) |
+| Scale | two people as equals, an organization |
+| Who decides | not applicable |
+| What it holds | Dutton and Heaphy described high-quality connections as short, subjectively positive experiences of connection between two people that generate beneficial outcomes, which can occur between strangers as well as within established relationships. The people in such a connection experience three things: feeling alive, positive regard, and mutuality. The theory also introduced emotional carrying capacity, which a later study defines at the level of a team as the degree to which members express both positive and negative emotions constructively, and later work named cognitive, emotional, and behavioral mechanisms that build connections, such as perspective taking, empathy, and respectful engagement. |
+| The evidence | The 2003 chapter is a theoretical proposal, and the sources opened here are later studies that cite it rather than the chapter itself. One of them reports that high-quality relationships have been shown to contribute to perceived psychological safety and learning behaviors. |
+| Where it locates change | Change is located in the quality of brief interactions between two people, which affects their energy, well-being, and learning. |
+| How it bears on the book (the researcher's reading) | Being seen and recognized by another: Positive regard and mutuality are the theory's names for being regarded well and responded to in return, even within a brief interaction. Participation rather than watching: The theory places the benefit in an exchange that both people take part in, since mutuality is one of its defining experiences. |
+| Where it differs from the book | The theory serves well-being and effectiveness at work and describes brief positive connections rather than the deep change the book concerns. It asks what makes a connection energizing, not what makes a person recognize themselves. |
+| Quoted from its sources | "High-quality connections are marked by three subjective experiences: feeling alive, positive regard, and mutuality" (https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9051372/fullTextXML) "High-quality relationships have been shown to contribute to perceived psychological safety and learning behaviors" (https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8595118/fullTextXML) |
+| Mental model | organizational. The theory comes from positive organizational scholarship |
+| Structure | tending conditions; a model of what a person or group is made of |
+| Subjects | relationship present, emotion, task work |
+| In the survey | no |
+| In the vault | `notes/the field between two people does work.md`; The vault claims that two people in genuine contact generate a third participant that does work; high-quality connections describe brief contact between two people in measurable terms, without any claim of a third participant. The vault does not name Dutton, Heaphy, or high-quality connections. |
+| Sources | https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9051372/fullTextXML; https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8595118/fullTextXML |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *high-quality connection* | A high-quality connection is a short, subjectively positive experience of connection between two people that generates beneficial outcomes. |
+| *feeling alive* | Feeling alive is one of the three subjective experiences that mark a high-quality connection. |
+| *positive regard* | Positive regard is the experience, within the connection, of being regarded well by the other person. |
+| *mutuality* | Mutuality is the experience that both people are engaged with and responsive to each other. |
+| *emotional carrying capacity* | Emotional carrying capacity is the degree to which the people in a connection, or later the members of a team, express both positive and negative emotions constructively. |
+
+#### Organizational silence and employee voice
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | organizational psychology |
+| Originators | Elizabeth Wolfe Morrison and Frances J. Milliken |
+| Date | 2000 (Academy of Management Review, 'Organizational Silence: A Barrier to Change and Development in a Pluralistic World') |
+| Scale | an organization, a small group, two people, one helping |
+| Who decides | not applicable |
+| What it holds | Morrison and Milliken proposed that organizations can develop a collective silence, in which employees withhold their views and concerns about problems in the organization, and their title calls this silence a barrier to change and development. A climate of silence is marked by two shared beliefs: that speaking up about problems is not worth the effort, and that speaking up is dangerous. |
+| The evidence | The 2000 article is a theoretical model. A 2014 interview study of oncology staff found that fear of negative consequences, the wish to protect relationships and to avoid exposing a colleague in front of others, hierarchy, and a sense of futility kept staff from voicing safety concerns. |
+| Where it locates change | Change is located in the shared beliefs and managerial assumptions of an organization, which make speaking up seem futile or dangerous. |
+| How it bears on the book (the researcher's reading) | Protection and defense: Silence is a protective choice by employees who believe that speaking up is dangerous, and the 2014 study found staff staying silent to protect relationships and to avoid humiliating a colleague. Whether the cause lies in the person or the system: The theory places silence in collective beliefs and managerial assumptions rather than in individual timidity. Change at the scale of a team or organization: The article's title names silence as a barrier to change and development, because an organization that does not hear its members' concerns cannot correct its problems. |
+| Where it differs from the book | The theory serves organizational learning and decision quality and places both the problem and the remedy mainly with management, whereas the book addresses a person's own voice and authorship. |
+| Limits and critiques | The causes are proposed rather than measured in the 2000 article, and the sources opened here reach its content through later studies rather than through the article itself. |
+| Quoted from its sources | "Morrison and Milliken define a climate of silence as one characterized by two shared beliefs: (1) speaking up about problems is not worth the efforts, and (2) speaking up is dangerous" (https://pmc.ncbi.nlm.nih.gov/articles/PMC4105519/) |
+| Mental model | organizational |
+| Structure | reading a difficulty by what it lacks; a model of what a person or group is made of |
+| Subjects | group process, justice power, relationship present, decision choice |
+| In the survey | no |
+| In the vault | not yet met |
+| Sources | https://api.crossref.org/works/10.5465/amr.2000.3707697; https://pmc.ncbi.nlm.nih.gov/articles/PMC13422366/; https://pmc.ncbi.nlm.nih.gov/articles/PMC4105519/ |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *organizational silence* | Organizational silence is a collective pattern in which employees withhold their views and concerns about problems in the organization. |
+| *climate of silence* | A climate of silence is one in which employees share the beliefs that speaking up about problems is not worth the effort and that speaking up is dangerous. |
+
+#### Personal engagement and disengagement at work; holding environments at work
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | organizational psychology |
+| Originators | William A. Kahn (Boston University) |
+| Date | 1990 (Academy of Management Journal); 2001 (Journal of Applied Behavioral Science, 'Holding Environments at Work'); 2004 (Holding Fast: The Struggle to Create Resilient Caregiving Organizations) |
+| Scale | an organization, two people, one helping, a small group |
+| Who decides | not applicable. The theory describes the conditions under which people bring or withhold themselves, and its holding environments are relationships among colleagues rather than a facilitator's method. |
+| What it holds | Kahn defined personal engagement as people harnessing their selves to their work roles, so that they employ and express themselves physically, cognitively, and emotionally while performing them, and he described personal disengagement as people remaining in a role while withdrawing from it physically, cognitively, or emotionally. He proposed that people engage when three psychological conditions hold: meaningfulness, the sense of being valued, worthwhile, and not taken for granted; safety, the sense that one can express oneself without fear of negative consequences to self-image or career; and availability, having the physical and emotional energy and the security to engage given the other demands of one's life. In 2001 he described holding environments at work: relationships with a person or a group that enable self-reliant workers to manage situations that trigger potentially debilitating anxiety, together with the conditions that create them and the points at which they fail. |
+| The evidence | The 1990 definitions and the three conditions are confirmed here at Wikipedia and two later secondary accounts rather than at the paper itself, and the paper's method and research settings were not confirmed. The Wikipedia article on employee engagement reports critiques of the later engagement field: that its assumptions are normative and aspirational rather than analytic, and that its measures invite mistaking correlation for causation. |
+| Where it locates change | Change is located in each person's moment-to-moment choice to bring or withhold the self in a role, which depends on whether the work, the relationships, and the person's own resources make engagement meaningful, safe, and possible. |
+| How it bears on the book (the researcher's reading) | The container that holds people while they change: Kahn's holding environments are relationships at work that let adults manage disabling anxiety, which applies the developmental idea of holding to colleagues and groups. Remaining the author of one's own change: Kahn's holding serves self-reliant workers, so the relationship supports a person's own management of anxiety rather than taking it over. Protection and defense: The theory names the conditions of both engagement and disengagement, so withholding the self appears as a response to work that is not meaningful, safe, or possible rather than as a defect of the person. |
+| Where it differs from the book | Kahn's framework serves the quality of work and working lives inside organizations, and the literature built on it turned engagement into a survey measure that managers seek to raise. The book's concern is a person's own recognition rather than their investment in a work role. |
+| Limits and critiques | The Wikipedia article asks whether it is ethical for organizations to alter employees' attitudes and behaviors in the way engagement programs intend, even if the programs work. |
+| Quoted from its sources | "the harnessing of organisation members' selves to their work roles; in engagement, people employ and express themselves physically, cognitively, and emotionally during role performances." (https://en.wikipedia.org/wiki/Employee_engagement) "Holding environments are interpersonal or group-based relationships that enable self-reliant workers to manage situations that trigger potentially debilitating anxiety." (https://api.crossref.org/works/10.1177/0021886301373001) "Meaningfulness is experienced when people feel they are valued, worthwhile, and not taken for granted" (https://pmc.ncbi.nlm.nih.gov/articles/PMC9121175/) |
+| Mental model | organizational. Kahn's 2001 paper says it works from concepts in developmental and clinical psychology, group dynamics, and organizational behavior |
+| Structure | tending conditions; a model of what a person or group is made of |
+| Subjects | identity self, relationship present, emotion, task work, meaning purpose |
+| In the survey | the holding environment; this entry adds the survey's holding-environment entry is Winnicott's account of a parent and infant, with Kegan's extension to development; Kahn's 2001 paper applies holding to adults at work, as relationships with colleagues or groups, and names the conditions that create holding environments and the points at which they fail. |
+| In the vault | `notes/donald winnicott.md`; The vault holds Winnicott's holding environment in this note, in the Winnicott reading record, and in notes/container-anatomy.md, but it does not name Kahn, personal engagement, or holding environments at work. |
+| Sources | https://en.wikipedia.org/wiki/Employee_engagement; https://en.wikipedia.org/wiki/Work_engagement; https://api.crossref.org/works/10.5465/256287; https://api.crossref.org/works/10.1177/0021886301373001; https://pmc.ncbi.nlm.nih.gov/articles/PMC9121175/; https://pmc.ncbi.nlm.nih.gov/articles/PMC13411971/; https://openlibrary.org/search.json?q=holding+fast+resilient+caregiving+organizations+kahn&fields=title,subtitle,author_name,first_publish_year,publisher&limit=3 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *personal engagement* | Personal engagement is the harnessing of one's self to one's work role, so that one employs and expresses oneself physically, cognitively, and emotionally while performing it. |
+| *psychological meaningfulness* | Psychological meaningfulness is, in a 2022 secondary account of Kahn, the experience of feeling valued, worthwhile, and not taken for granted. |
+| *psychological safety (Kahn's sense)* | Psychological safety, in Kahn's sense, is the feeling that one can express oneself without fear of negative consequences to one's career or self-image. |
+| *psychological availability* | Psychological availability is having the physical and emotional energy and the security to engage, which depletion, insecurity, and the demands of life outside work can reduce. |
+| *holding environment* | A holding environment, in Kahn's 2001 usage, is an interpersonal or group-based relationship at work that enables a self-reliant worker to manage a situation that triggers potentially debilitating anxiety. |
+
+#### Power distance (Hofstede's cultural dimensions)
+
+| Field | Entry |
+|---|---|
+| Type | a finding |
+| Field of study | organizational psychology |
+| Originators | Geert Hofstede |
+| Date | 1967–1973 (IBM survey data); 1980 (Culture's Consequences) |
+| Scale | a society's customs, an organization |
+| Who decides | not applicable. Power distance describes a cultural expectation about who decides: where it is high, subordinates expect superiors to give orders, and where it is low, superiors are more open to discussion and participation. |
+| What it holds | Hofstede analyzed survey data on values from about 117,000 matched samples of IBM employees in the company's national subsidiaries, collected between 1967 and 1973, and derived dimensions on which national cultures differ. The power distance index measures the extent to which the less powerful members of organizations and institutions, such as the family, accept and expect that power is distributed unequally. Where power distance is high, subordinates acknowledge their lesser standing and superiors are more likely to give orders than to consult, and where it is low, superiors are more open to employee discussion and participation. |
+| The evidence | The dimension is based on a very large survey from one company, and the Wikipedia article states that its validity and limitations have been extensively criticized, noting a prominent critique by McSweeney and the objection that sales and engineering staff, with few women and minorities, cannot represent whole nations. The article on power distance adds that the study applied a Western method to non-Western countries and attended only to the relation between boss and subordinate, leaving out racial, colonial, and class inequality. |
+| Where it locates change | Hofstede locates expectations about authority in national culture rather than in individual preference or organizational design. |
+| How it bears on the book (the researcher's reading) | Who decides the content: The dimension suggests that a facilitator who leaves the content to participants may be read as helpful where power distance is low and as failing to lead where it is high, so the same position on the survey's coordinate has different meanings in different cultures. Whether the cause lies in the person or the system: It locates a person's deference toward authority, or their readiness to question it, partly in shared cultural expectations rather than in individual character. |
+| Where it differs from the book | Hofstede measures national averages by questionnaire and compares nations, so the unit is a country, not a person or a group in a room, and the dimension cannot say how any one person will respond. The critiques also question whether a narrow sample of one company's staff can represent a whole nation. |
+| Limits and critiques | The sources I opened record objections that the sample was narrow and that a Western method was applied to non-Western countries, so national scores are a weak guide to any individual. |
+| Quoted from its sources | "The power distance index is defined as "the extent to which the less powerful members of organizations and institutions (like the family) accept and expect that power is distributed unequally"." (https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory) "Hofstede's study is limited by two factors: neutralization and analyzing non-Western countries with a Western methodology." (https://en.wikipedia.org/wiki/Power_distance) |
+| Mental model | other. The dimension comes from cross-cultural psychology based on survey data from the employees of one multinational company |
+| Structure | holding two poles; a model of what a person or group is made of |
+| Subjects | justice power, decision choice |
+| In the survey | no |
+| In the vault | not yet met |
+| Sources | https://en.wikipedia.org/wiki/Hofstede%27s_cultural_dimensions_theory; https://en.wikipedia.org/wiki/Power_distance; https://openlibrary.org/search.json?q=culture%27s+consequences&author=Hofstede&fields=title,subtitle,first_publish_year,publisher,publish_year&limit=5 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *power distance index (PDI)* | The power distance index measures how far the less powerful members of organizations and institutions accept and expect that power is distributed unequally. |
+| *cultural dimension* | A cultural dimension is one of the scales on which Hofstede compares the values of national cultures. |
+| *high and low power distance* | High power distance is a culture's acceptance that superiors give orders and subordinates defer, and low power distance is an expectation of consultation and participation. |
+
+#### Premortem (project premortem), with the recognition-primed decision model
+
+| Field | Entry |
+|---|---|
+| Type | a technique |
+| Field of study | organizational psychology |
+| Originators | Gary A. Klein |
+| Date | 1986 (Klein, Calderwood, and Clinton-Cirocco, 'Rapid Decision Making on the Fire Ground'); 1998 (Sources of Power: How People Make Decisions); 2007 ('Performing a Project Premortem', Harvard Business Review, September); 2009 (Kahneman and Klein, 'Conditions for Intuitive Expertise: A Failure to Disagree', American Psychologist) |
+| Scale | a small group, an organization, one person alone |
+| Who decides | B, the facilitator shapes the process; the people supply the content. The leader sets the frame, that the project has already failed, and the team members supply the reasons. |
+| What happens | In a premortem, a team planning a project imagines that the project has already failed and then generates plausible reasons for the failure, which makes it safe for knowledgeable dissenters to voice reservations they would otherwise keep to themselves during planning. The technique rests on research on prospective hindsight (Mitchell, Russo, and Pennington, 1989), in which people explain a future event as if it had already happened. His recognition-primed decision model, from studies of fireground commanders, holds that experienced decision makers rarely compare options: they recognize a situation as typical of a kind they have met before, which brings a workable course of action to mind, and they check that action by simulating it in imagination. In this model 'recognition' means an expert matching a situation to a familiar prototype, which is not the book's sense of recognizing what a person already knows about themselves. |
+| The evidence | The recognition-primed model rests on field studies such as the 1986 fireground study, in which fewer than 12 percent of decision points showed any comparison of two or more options, and Kahneman and Klein (2009) jointly concluded that intuition deserves trust only where the environment is predictable enough and people have had the chance to learn its regularities, adding that subjective experience is not a reliable indicator of judgment accuracy. The premortem is supported mainly by practice reports and by the 1989 prospective-hindsight experiments of Mitchell, Russo, and Pennington, whose abstract reports that the certainty of an outcome, more than its placement in the future or the past, shaped the explanations people gave. |
+| Where it locates change | It locates better decisions in drawing out what experienced people already sense about a plan's weaknesses, by changing the frame so that voicing doubt becomes the assigned task rather than disloyalty. |
+| How it bears on the book (the researcher's reading) | Knowing that something happened: Kahneman and Klein's conclusion that subjective experience is not a reliable indicator of judgment accuracy warns that a felt sense of certainty does not by itself show that a judgment, or a change, is real. The future: The premortem treats a failed future as already past, a disciplined way of planning for what has not happened by asking how it could go wrong. Conflict: By making the search for reasons for failure the assigned task, the premortem lets dissent be spoken without being heard as opposition to the plan or its leader. |
+| Where it differs from the book | The premortem serves project success and risk reduction for a planning team, and the recognition-primed model describes expert judgment, not personal change. Klein's 'recognition' is pattern-matching by an expert who has seen many similar cases, a different sense from the book's recognition of what a person already knows but had forgotten. |
+| Limits and critiques | Wikipedia's article on the pre-mortem notes that if the presumption of near-future failure is incorrect, the analysis may identify threats and weaknesses that are not real, and the recognition-primed model requires extensive experience and breaks down in unusual or misidentified circumstances. |
+| Quoted from its sources | "Subjective experience is not a reliable indicator of judgment accuracy." (https://api.openalex.org/works/doi:10.1037/a0016755) "Instead the FGCs most commonly relied on their experience to directly identify the situation as typical" (https://api.openalex.org/works/doi:10.1177/154193128603000616) "making it safe for dissenters who are knowledgeable about the undertaking and worried about its weaknesses to speak up" (https://hbr.org/2007/09/performing-a-project-premortem) "Prospective hindsight involves generating an explanation for a future event as if it had already happened" (https://api.openalex.org/works/doi:10.1002/bdm.3960020103) |
+| Mental model | other. Naturalistic decision making, a field of cognitive psychology that studies experienced people deciding in real settings |
+| Structure | none of the families; a single move |
+| Subjects | future vision, decision choice, conflict, task work |
+| In the survey | Praemeditatio malorum (premeditation of future evils); this entry adds the survey holds the Stoic premeditation of future evils, which rehearses possible losses for one person to lessen their impact; the premortem is the team version from decision research, aimed at finding a plan's weaknesses, and this entry adds the recognition-primed decision model and Kahneman and Klein's conditions for trusting intuition. |
+| In the vault | `notes/the felt sense of truth has a documented counterfeit catalogue.md`; This vault claim catalogues ways a feeling of truth arises without truth; Kahneman and Klein's finding that subjective experience does not indicate judgment accuracy belongs beside it. The vault holds no Klein note. |
+| Sources | https://hbr.org/2007/09/performing-a-project-premortem; https://en.wikipedia.org/wiki/Pre-mortem; https://en.wikipedia.org/wiki/Recognition-primed_decision; https://api.openalex.org/works/doi:10.1177/154193128603000616; https://api.openalex.org/works/doi:10.1037/a0016755; https://api.openalex.org/works/doi:10.1002/bdm.3960020103 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *premortem* | a planning session in which the team assumes the project has failed and works backward to the reasons |
+| *prospective hindsight* | generating an explanation for a future event as if it had already happened, by going forward in time and then looking back |
+| *recognition-primed decision* | a decision in which an experienced person identifies the situation as typical and acts on the course of action that fits that type, without comparing options |
+| *mental simulation* | imagining how a course of action would play out in order to check whether it will work |
+
+#### Procedural justice, the voice effect, and fair process
+
+| Field | Entry |
+|---|---|
+| Type | a finding |
+| Field of study | organizational psychology |
+| Originators | John Thibaut and Laurens Walker (procedural justice); W. Chan Kim and Renée Mauborgne (fair process) |
+| Date | 1975 (Thibaut and Walker, Procedural Justice); 1998 (Kim and Mauborgne, 'Procedural justice, strategic decision making, and the knowledge economy', Strategic Management Journal); 'Fair Process: Managing in the Knowledge Economy', Harvard Business Review, whose HBR page shows the January 2003 issue |
+| Scale | an organization, two people, one helping, a small group, a community or public |
+| Who decides | not applicable. The procedural-justice literature separates process control, or voice, from outcome control; fair process gives people voice, an explanation, and clear expectations while the decision may stay with the manager. |
+| What it holds | Thibaut and Walker found that just procedures allow people some control over the decision-making process and over some of the eventual outcome through voice and decision influence, and the literature distinguishes process control, which is control over the presentation of disputants' arguments, from outcome control, which is control over the actual outcome of a decision process. Later research found that the opportunity to participate raises people's judgment that a procedure is fair even when the decision goes against them, which the literature calls the voice effect. Kim and Mauborgne, who also wrote on procedural justice in strategic decision making (1998), set out fair process as three principles: engagement, which involves people in the decisions that affect them by asking for their input and allowing them to challenge one another's ideas and assumptions; explanation, which makes sure everyone involved and affected understands why the final decisions were made; and expectation clarity, which requires managers to state the new rules clearly once a strategy is set. They argue that when people trust that the process was fair, they cooperate voluntarily in carrying the decision out. Leventhal proposed six rules for fair procedures: consistency, bias suppression, accuracy, correctability, representativeness, and ethicality. |
+| The evidence | Procedural justice is a measured construct in organizational psychology, and the Wikipedia article reports Colquitt's finding that a four-factor model of organizational justice (procedural, distributive, interpersonal, and informational) fits the data significantly better than a two- or three-factor model. Fair process is a management prescription, and the sources I opened give no test of it separate from the procedural-justice research. Tom R. Tyler found that giving disgruntled group members a voice, whether or not it is instrumental, is sometimes enough for a process to be seen as fair, and a 2023 survey experiment in Belgium (n = 3,102) found that a citizens' panel raised political support when the government fully adopted its recommendations but lowered it, below a decision made by representatives alone, when they were not adopted. |
+| Where it locates change | The research locates people's acceptance of a decision partly in how the decision was made, especially in whether they had a voice, and not only in whether the outcome favored them. |
+| How it bears on the book (the researcher's reading) | Who decides the content: The distinction between process control and outcome control shows that people can value a voice even when they do not decide, which names a position between deciding and being told. Knowing that something happened: The critique the Wikipedia article records, the danger of mistaking a worker's perception of just treatment for the worker being treated fairly, applies to any practice that measures its success by participants' feeling of having been heard. Decisions: Fair process's principle of explanation asks the person who decides to tell everyone affected why the decision was made, which gives them grounds to accept or dispute it. Participation rather than watching: The finding shows that taking part by speaking changes how people relate to a decision even when their speaking does not change the decision. Harm and its conditions: The Belgian experiment shows that inviting people's views and then disregarding them can leave people less supportive than a process that did not ask them. |
+| Where it differs from the book | Fair process serves the execution of an organization's strategy, and its measure of success is voluntary cooperation with decisions that managers may still make alone. The book is concerned with a person deciding the content of their own change, which voice without outcome control does not provide. |
+| Limits and critiques | Voice can be used to win acceptance for decisions already made, and the Wikipedia article on participative decision-making states that 'participation without redistribution of power is an empty and frustrating process for the powerless'. |
+| Quoted from its sources | "In the literature, the effect of process control is often referred to as the "voice" effect" (https://pmc.ncbi.nlm.nih.gov/articles/PMC8055055/) "Thibaut and Walker (1975) found that just procedures allow individuals some control over the decision-making process and over some of the eventual outcome through voice input and decision influence" (https://pmc.ncbi.nlm.nih.gov/articles/PMC8055055/) "Thereby, process control represents control over the presentation of disputants' arguments." (https://pmc.ncbi.nlm.nih.gov/articles/PMC8055055/) "The opportunity or ability to participate in decision making improves an individual's perceptions of procedural justice, even when the decision is unfavorable to the individual." (https://en.wikipedia.org/wiki/Organizational_justice) "Recent criticism of the conception of organizational justice as an attitudinal perception note the danger of mistaking a worker's perception of just treatment with a worker being treated fairly." (https://en.wikipedia.org/wiki/Organizational_justice) "Explanation means that everyone involved and affected should understand why final strategic decisions are made." (https://www.blueoceanstrategy.com/tools/fair-process/) "participation without redistribution of power is an empty and frustrating process for the powerless." (https://en.wikipedia.org/wiki/Participative_decision-making_in_organizations) "Allowing individuals to express voice enhances their perception of procedural justice, even if they cannot directly influence the outcome by doing so" (https://pmc.ncbi.nlm.nih.gov/articles/PMC8055055/) "When the government disregards a minipublic's recommendations, this could lead to more dissatisfaction than not asking for its advice in the first place." (https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22Can%20the%20use%20of%20minipublics%20backfire%22&format=json&resultType=core&pageSize=2) |
+| Mental model | other. Procedural justice comes from the social psychology of law, since Thibaut was a social psychologist who wrote with the legal scholar Walker, and fair process applies it to management strategy |
+| Structure | tending conditions; a method |
+| Subjects | justice power, decision choice, conflict |
+| In the survey | no |
+| In the vault | notes/participation is not sovereignty, influence is not authorship, information is not recognition.md; The vault holds that affecting a system falls short of authoring what it means; the voice effect measures the value people place on influence without outcome control. The vault does not name Thibaut and Walker or Kim and Mauborgne. |
+| Sources | https://en.wikipedia.org/wiki/Procedural_justice; https://en.wikipedia.org/wiki/Organizational_justice; https://en.wikipedia.org/wiki/John_Thibaut; https://openlibrary.org/search.json?q=procedural+justice+psychological+analysis&author=Thibaut&fields=title,subtitle,first_publish_year,publisher,author_name&limit=5; https://pmc.ncbi.nlm.nih.gov/articles/PMC8055055/; https://www.blueoceanstrategy.com/tools/fair-process/; https://hbr.org/2003/01/fair-process-managing-in-the-knowledge-economy; https://api.crossref.org/works?query.bibliographic=Fair+Process+Managing+in+the+Knowledge+Economy+Kim+Mauborgne&rows=5&select=title,issued,container-title,author; https://en.wikipedia.org/wiki/Participative_decision-making_in_organizations; https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22Can%20the%20use%20of%20minipublics%20backfire%22&format=json&resultType=core&pageSize=2; https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22fair%20process%20effect%22%20AND%20(voice%20OR%20Folger)&format=json&resultType=core&pageSize=8 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *process control* | Process control is control over the presentation of one's arguments in a decision process, which the literature also calls voice. |
+| *outcome control* | Outcome control is control over the actual outcome of a decision process. |
+| *voice effect* | The voice effect is the finding that having process control increases people's judgment that a procedure is fair. |
+| *engagement* | Engagement is involving people in the decisions that affect them by asking for their input and allowing them to challenge one another's ideas. |
+| *expectation clarity* | Expectation clarity is stating clearly, once a decision is made, the new rules and what is expected of people. |
+
+#### Reflected Best Self Exercise (RBS)
+
+| Field | Entry |
+|---|---|
+| Type | a technique |
+| Field of study | organizational psychology |
+| Originators | Laura Morgan Roberts, Gretchen M. Spreitzer, Jane E. Dutton, Robert E. Quinn, Emily D. Heaphy, and Brianna Barker Caza (Harvard Business Review); Roberts, Dutton, Spreitzer, Heaphy, and Quinn (Academy of Management Review) |
+| Date | 2005 (Harvard Business Review, January, 'How to Play to Your Strengths'; Academy of Management Review, 'Composing the Reflected Best-Self Portrait') |
+| Scale | one person alone, a text or tool, no one present, two people as equals |
+| Who decides | A, the person decides all content. The content comes from the stories the person's own contacts write and from the person's own reading of them, and no facilitator interprets them. |
+| What happens | The person first asks family, friends, colleagues, and teachers to give specific examples of times when the person's strengths were particularly beneficial. The person then searches the replies for common themes and organizes them in a table, writes a self-portrait that summarizes and distills what was gathered, and finally redesigns their personal job description to build on what they are good at. The authors present the exercise as a feedback experience that counterbalances the usual focus of evaluations on weaknesses. |
+| The evidence | The 2005 papers describe the exercise and a theory of how the portrait changes people. A 2024 feasibility study with medical interns found that 19 of 35 interns completed the exercise at $75 each and that impostor-phenomenon scores were lower in participants at one and six months, though not significantly, and a 2013 field experiment in an Indian outsourcing company found that onboarding focused on newcomers' authentic best selves led to greater customer satisfaction and employee retention after six months than onboarding focused on organizational identity or on the company's traditional skills training, a result the authors replicated in a laboratory experiment. |
+| Where it locates change | Change is located in the person's encounter with concrete accounts of their best moments, written by people who know them, which the person then composes into a portrait and acts on. |
+| How it bears on the book (the researcher's reading) | Being seen and recognized by another: The exercise gathers real, written accounts of how others have seen a person at their best, while the author's own event prompt, 'Think of someone who loves you. Describe how they see you,' asks the person to imagine that view and speak it aloud. Remaining the author of one's own change: The person, not a facilitator, finds the themes and writes the portrait, so others supply the material and the person composes the description of themselves. Knowing that something happened: The stories must be specific examples, so the person receives evidence of particular moments rather than general praise. |
+| Where it differs from the book | The exercise ends in redesigning a job description around one's strengths, so it serves career development and performance, and it asks only about strengths. The author's prompt asks how a person who loves you sees you, which is not limited to strengths or to work. |
+| Limits and critiques | Direct evidence for the exercise is thin: the one comparative study found here is a small feasibility study with non-significant results. A co-author of the 2013 onboarding study, Francesca Gino, was found by Harvard to have committed research misconduct in other papers, four of which were retracted; the Wikipedia article on her does not list the 2013 study among them. |
+| Quoted from its sources | "To begin the RBS exercise, you first need to solicit comments from family, friends, colleagues, and teachers, asking them to give specific examples of times in which those strengths were particularly beneficial." (https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A15697115%20AND%20SRC%3AMED&format=json&resultType=core) "Next, you need to search for common themes in the feedback, organizing them in a table to develop a clear picture of your strong suits." (https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A15697115%20AND%20SRC%3AMED&format=json&resultType=core) "Third, you must write a self-portrait--a description of yourself that summarizes and distills the accumulated information." (https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A15697115%20AND%20SRC%3AMED&format=json&resultType=core) "And finally, you need to redesign your personal job description to build on what you're good at." (https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A15697115%20AND%20SRC%3AMED&format=json&resultType=core) |
+| Mental model | organizational. The exercise comes from positive organizational scholarship and works through stories that other people write about the person |
+| Structure | awareness turned back on itself; a method |
+| Subjects | identity self, relationship absent, memory past, meaning purpose, learning skill |
+| In the survey | Appreciative interview (the Discovery phase of Appreciative Inquiry); this entry adds the survey's appreciative interview has pairs interview each other about times when they or their organization were at their best; the Reflected Best Self Exercise instead has several people write stories about one person, which that person turns into a written self-portrait and a changed job description. |
+| In the vault | `notes/the book's native genre is the letter from a friend read alone.md`; This note records the one dated recognition event in the author's life: reading alone, at 4am, a letter a friend had written him roughly a decade earlier, which has the exercise's form of another person's written words read by their subject. The prompt the author used at the 16 May 2026 event is recorded in ops/system readings — 2026-09-25/O2 — the relational field and the call and the answering.md. The vault does not name the exercise. |
+| Sources | https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3A15697115%20AND%20SRC%3AMED&format=json&resultType=core; https://hbr.org/2005/01/how-to-play-to-your-strengths; https://api.crossref.org/works/10.5465/amr.2005.18378874; https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Best%20Self%22%20Exercise%20Imposter%20Phenomenon%20Residents&format=json&resultType=core&pageSize=2; https://api.crossref.org/works/10.1177/0001839213477098; https://en.wikipedia.org/wiki/Francesca_Gino |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *reflected best self* | The reflected best self is the picture of who a person is at their best as it appears in the stories told by people who know them. |
+| *self-portrait* | The self-portrait is the description of oneself, written in the third step, that summarizes and distills the stories received. |
+| *common themes* | The common themes are the recurring strengths the person finds across the stories and organizes in a table in the second step. |
+| *authentic best self* | Authentic best self is the phrase Cable, Gino, and Staats (2013) used for the identity that newcomers were invited to express in an onboarding experiment built on the same idea. |
+
+#### Self-determination theory applied to work motivation
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | organizational psychology |
+| Originators | Edward L. Deci and Richard M. Ryan; applied to work by Marylène Gagné and Edward L. Deci |
+| Date | 1985 (Intrinsic Motivation and Self-Determination in Human Behavior); 1989 (Deci, Connell and Ryan, 'Self-determination in a work organization', Journal of Applied Psychology); 2005 (Gagné and Deci, Journal of Organizational Behavior) |
+| Scale | an organization, two people, one helping, one person alone |
+| Who decides | not applicable. The theory describes conditions, and applied to work it asks managers to support autonomy, which leaves the person's reasons for acting with the person. |
+| What it holds | Self-determination theory holds that people have three basic psychological needs, autonomy, competence, and relatedness, and that conditions supporting these needs foster the most volitional and highest-quality forms of motivation. It distinguishes kinds of extrinsic motivation by how far a person has internalized the reason for an action, along a continuum that runs from external regulation through introjection and identification to integration. Gagné and Deci (2005) presented it as a theory of work motivation, arguing that the older split between intrinsic and extrinsic motivation had made the earlier theory hard to apply to work settings. Applied to managers, the theory contrasts controlling environments with autonomy-supportive ones. |
+| The evidence | The theory is supported by a large experimental and field literature, including the 1999 meta-analysis of 128 experiments that the vault has read. Steven Reiss (2017) criticized it for lacking a clear definition of intrinsic and extrinsic motivation, for unreliable measurement, and for inadequately designed experiments. |
+| Where it locates change | Change is located in the social conditions that support or thwart the three needs, and in a person's internalization of the reasons for what they do. |
+| How it bears on the book (the researcher's reading) | Remaining the author of one's own change: The continuum from external regulation through introjection and identification to integration gives the book terms for how far a reason for changing has become the person's own. Who decides the content: Autonomy support is an account of how a leader or helper can influence a person while supporting that person's experience of choosing. Harm and its conditions: The theory's cognitive evaluation branch addresses how rewards, interpersonal controls, and ego-involvements affect intrinsic motivation, and the 1999 meta-analysis the vault has read found that contingent tangible rewards reduced it, which names controlling conditions as a source of harm to an activity a person valued for itself. |
+| Where it differs from the book | Applied to work, the theory serves motivation, well-being, and performance inside organizations, and it treats the three needs as ends, which the vault's reading already notes makes it a theory of motivation rather than of realization. |
+| Limits and critiques | Reiss's critique concerns the definitions and experiments beneath the whole theory, not only its applications to work. |
+| Quoted from its sources | "Differentiating extrinsic motivation into types that differ in their degree of autonomy led to self‐determination theory" (https://api.crossref.org/works/10.1002/job.322) "Conditions supporting the individual's experience of autonomy, competence, and relatedness are argued to foster the most volitional and high quality forms of motivation." (https://selfdeterminationtheory.org/theory/) "Desire to be causal agents of one's own life and act in harmony with one's integrated self" (https://en.wikipedia.org/wiki/Self-determination_theory) |
+| Mental model | other. Self-determination theory is an empirical theory of human motivation and personality from social and experimental psychology, and its account of an integrated self is close to humanistic psychology |
+| Structure | tending conditions; a model of what a person or group is made of |
+| Subjects | meaning purpose, task work, identity self, relationship present |
+| In the survey | no |
+| In the vault | `notes/deci and ryan measured that instrumentalizing an intrinsic activity corrupts it.md`; The vault holds Deci and Ryan's undermining effect as an independent arrival at the book's clause that a practice is not a means to an end, with a reading record in archive/ of the 1999 meta-analysis, and this note names the three needs. The one note that uses the phrase self-determination, notes/relationship can increase sovereignty rather than consume it.md, uses it in its everyday sense, as the self-determination that influence is assumed to cost, and neither names nor cites the theory. The internalization continuum, autonomy support, and the 2005 work application are not in the vault. |
+| Sources | https://en.wikipedia.org/wiki/Self-determination_theory; https://selfdeterminationtheory.org/theory/; https://api.crossref.org/works/10.1002/job.322; https://api.crossref.org/works/10.1037/0021-9010.74.4.580 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *autonomy* | Autonomy is, in the Wikipedia article's gloss, the desire to be the causal agent of one's own life and to act in harmony with one's integrated self. |
+| *competence* | Competence is the need to experience mastery and to affect outcomes. |
+| *relatedness* | Relatedness is the need to interact with, be connected to, and experience caring for others. |
+| *internalization* | Internalization is the process by which a person takes an external reason for acting in as their own, and the theory names external regulation, introjection, identification, and integration as points along it. |
+| *autonomy support* | Autonomy support is a manager's or helper's way of relating that supports the other person's experience of choosing, in contrast with a controlling way of relating. |
+
+#### Self-efficacy and its four sources
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | organizational psychology |
+| Originators | Albert Bandura |
+| Date | 1977 (Psychological Review, 'Self-efficacy: Toward a unifying theory of behavioral change'); 1997 (Self-Efficacy: The Exercise of Control, W. H. Freeman) |
+| Scale | one person alone, two people, one helping, a small group |
+| Who decides | not applicable |
+| What it holds | Self-efficacy is a person's belief in their capacity to act in the ways necessary to reach specific goals, a concept Bandura proposed in 1977. The theory names four sources of these beliefs: mastery experiences, a person's own experience of success; vicarious experience, seeing someone one views as similar succeed at something difficult; social persuasion, direct encouragement or discouragement from another person; and one's physiological and emotional states. According to Bandura, engaging in mastery experiences is the most effective way to build self-efficacy. |
+| The evidence | Hundreds of studies find a positive relationship between self-efficacy and performance across people, but Vancouver and colleagues (2002) found in two experiments that, within one person over time, higher self-efficacy led to overconfidence and more errors on the next attempt. The Wikipedia article also reports a language-learning study in which students with inflated self-efficacy showed less motivation to study. |
+| Where it locates change | Change is located in a person's beliefs about their own capacity, which are built mostly by doing and succeeding, and also by watching similar others, by others' encouragement, and by one's reading of one's own bodily and emotional states. |
+| How it bears on the book (the researcher's reading) | Participation rather than watching: Bandura ranks a person's own mastery experience as the strongest source of self-efficacy, which agrees with the book's rule that nothing transforms from the audience; but he also counts watching a similar person succeed as a real, if weaker, source, which the rule does not allow. Remaining the author of one's own change: Mastery experience makes the person's own successful action the main source of their belief in themselves, so the change is credited to what they did. Being seen and recognized by another: Social persuasion, another person's encouragement, is one of the four sources, though not the strongest. |
+| Where it differs from the book | The theory concerns beliefs about one's capacity to reach specific goals and serves performance, while the book concerns recognition of what a person already is. It also treats observing others as a legitimate source of change, where the book holds that nothing transforms from the audience. |
+| Limits and critiques | Within-person studies show that high self-efficacy can produce overconfidence and lower performance on the next attempt. |
+| Quoted from its sources | "According to Bandura, the most effective way to build self-efficacy is to engage in mastery experiences." (https://en.wikipedia.org/wiki/Self-efficacy) "Although hundreds of studies have found a positive relationship between self-efficacy and performance, several studies have found a negative relationship when the analysis is done across time (repeated measures) rather than across individuals." (https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=Vancouver%20AND%20TITLE%3A%22negative%20effect%20of%20self-efficacy%20on%20performance%22&format=json&resultType=core&pageSize=3) |
+| Mental model | learning theory |
+| Structure | combining elements; a model of what a person or group is made of |
+| Subjects | thought belief, learning skill, body, emotion |
+| In the survey | no |
+| In the vault | `notes/nothing transforms from the audience.md`; The vault holds 'nothing transforms from the audience' as the one law the corpus reports its practice lineages agree on, and elsewhere records that this agreement reflects how the lineages were selected. Bandura's vicarious experience is a measured case in which watching changes the watcher's beliefs about themselves, though less than doing. The vault does not name Bandura or self-efficacy. |
+| Sources | https://en.wikipedia.org/wiki/Self-efficacy; https://api.crossref.org/works/10.1037/0033-295X.84.2.191; https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=Vancouver%20AND%20TITLE%3A%22negative%20effect%20of%20self-efficacy%20on%20performance%22&format=json&resultType=core&pageSize=3; https://openlibrary.org/search.json?q=%22exercise+of+control%22+bandura&fields=title,subtitle,author_name,first_publish_year,publish_year,publisher&limit=5 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *self-efficacy* | Self-efficacy is a person's belief in their capacity to act in the ways necessary to reach specific goals. |
+| *mastery experience* | A mastery experience is a person's own experience of succeeding at something, and Bandura counts it the most effective source of self-efficacy. |
+| *vicarious experience* | Vicarious experience is seeing someone one views as similar to oneself succeed at something difficult. |
+| *social persuasion* | Social persuasion is direct encouragement or discouragement from another person. |
+
+#### Sensemaking in organizations, with the collapse of sensemaking at Mann Gulch, and sensegiving
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | organizational psychology |
+| Originators | Karl E. Weick; sensegiving named by Dennis A. Gioia and Kumar Chittipeddi |
+| Date | 1969 (The Social Psychology of Organizing; second edition 1979); 1991 (Gioia and Chittipeddi, 'Sensemaking and Sensegiving in Strategic Change Initiation', Strategic Management Journal 12(6)); 1993 ('The Collapse of Sensemaking in Organizations: The Mann Gulch Disaster', Administrative Science Quarterly 38(4)); 1995 (Sensemaking in Organizations) |
+| Scale | an organization, a small group, one person alone |
+| Who decides | not applicable. Sensemaking describes how people construct meaning with no facilitator; sensegiving names the attempt by a leader or stakeholder to shape that construction, which would be stance C or D. |
+| What it holds | Weick holds that people in organizations construct the meaning of events after the fact, by acting, noticing a few cues in what their action produced, and settling on a plausible account, and that this construction is social, ongoing, and shaped by the identity of the one making sense. He lists seven properties of sensemaking (identity, retrospection, enactment, social activity, ongoing process, cue extraction, and plausibility over accuracy) and states its recipe with a saying he quotes: 'How can I know what I think until I see what I say?' His 1993 analysis of the 1949 Mann Gulch fire, in which 13 men died after the crew ran past its foreman instead of following him into the escape fire he had lit, argues that the crew's understanding of the situation and its role structure broke down together; he called such a moment a 'cosmology episode'. Gioia and Chittipeddi's 1991 ethnography of the first year of strategic change at a large public university described its chief executive's role as sensemaking and sensegiving, the second naming the effort to shape how others understand the change, and Maitlis and Lawrence (2007), studying stakeholders and leaders alike, found the perception or anticipation of a gap in an organization's sensemaking processes among the conditions that trigger sensegiving. |
+| The evidence | The theory rests on case analyses such as the Mann Gulch reconstruction and on qualitative field studies; sensegiving came from a single ethnography, extended by Maitlis and Lawrence's longitudinal study, and the sources read report no experimental tests. Thomas Basbøll and Henrik Graham documented that Weick republished a story from Miroslav Holub's poem 'Brief thoughts on maps' with minor differences, sometimes without quotation or attribution; Weick disputed the charge of plagiarism. |
+| Where it locates change | It locates change in the accounts people construct together about what is happening, which shift when action produces new cues or when an interruption breaks the old account. |
+| How it bears on the book (the researcher's reading) | Knowing that something happened: Weick's property of plausibility over accuracy says that the account a person or group settles on is judged by whether it lets them act, not by whether it is true, which warns any method against treating a coherent story as proof that a change occurred. Who decides the content: Sensegiving names the moment when a leader or facilitator offers others an interpretation of what is happening, which marks where a facilitator begins to decide content. The container that holds people while they change: The Mann Gulch analysis ties the collapse of a group's shared understanding to the collapse of its role structure, so a group's structure and its capacity to make sense of events fail together. |
+| Where it differs from the book | Weick describes how organizing works rather than offering a method for helping anyone change, and his concern is how organizations act and stay reliable, not a person's inner development. Sensegiving research treats leaders shaping followers' interpretations as a normal part of strategic change, which the book would treat as the point where a facilitator takes over the content. |
+| Limits and critiques | Because sensemaking favors a plausible account over an accurate one, a group can make confident sense of a situation that is wrong. |
+| Quoted from its sources | "How can I know what I think until I see what I say" (https://en.wikiquote.org/wiki/Karl_E._Weick) "The ongoing retrospective development of plausible images that rationalize what people are doing" (https://en.wikipedia.org/wiki/Sensemaking) "a challenge to assumptions that causes participants to question their own capacity to act" (https://en.wikipedia.org/wiki/Karl_E._Weick) |
+| Mental model | narrative and constructionist. Weick works from social psychology and organization theory; sensemaking treats meaning as constructed after the fact in social activity |
+| Structure | a repeating cycle; a model of what a person or group is made of |
+| Subjects | thought belief, meaning purpose, group process, identity self, memory past |
+| In the survey | no |
+| In the vault | `notes/a framework for what is happening is itself a protective factor.md`; The vault holds no Weick note; this claim, that having no framework for an experience predicts a difficult one, is the nearest neighbor to Weick's cosmology episode, and notes/the drive to closure has measurable costs.md is the nearest neighbor to plausibility over accuracy. |
+| Sources | https://en.wikipedia.org/wiki/Sensemaking; https://en.wikipedia.org/wiki/Karl_E._Weick; https://en.wikiquote.org/wiki/Karl_E._Weick; https://en.wikipedia.org/wiki/Mann_Gulch_fire; https://api.openalex.org/works/doi:10.2307/2393339; https://api.openalex.org/works/doi:10.1002/smj.4250120604; https://api.semanticscholar.org/graph/v1/paper/DOI:10.1002/smj.4250120604?fields=title,authors,year,venue,abstract,citationCount; https://api.openalex.org/works/doi:10.5465/amj.2007.24160971 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *sensemaking* | the ongoing, social, retrospective construction of plausible accounts that explain what people are doing |
+| *enactment* | the way people, by acting, construct, rearrange, single out, and demolish features of the environment they then try to understand |
+| *plausibility over accuracy* | the property that sensemaking settles on an account good enough to act on rather than one shown to be correct |
+| *cosmology episode* | a challenge to assumptions that causes participants to question their own capacity to act |
+| *sensegiving* | a leader's or stakeholder's attempt to influence how others make sense of a change; Gioia and Chittipeddi tracked it through four phases they labeled envisioning, signaling, re-visioning, and energizing |
+
+#### Social systems as a defence against anxiety
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | organizational psychology |
+| Originators | Isabel Menzies Lyth (Tavistock Institute), building on Elliott Jaques |
+| Date | 1959 (the study, as the Wikipedia article dates it); 1960 (Human Relations 13(2): 95-121, 'A Case-Study in the Functioning of Social Systems as a Defence against Anxiety') |
+| Scale | an organization, a small group, a society's customs |
+| Who decides | not applicable. The theory describes how an institution's structures shape the way its members meet anxiety. |
+| What it holds | Menzies Lyth studied the nursing service of a general hospital and argued that its structures and routines served to defend nurses against the anxieties raised by caring for people in life-and-death situations, and not only to do the work. She identified ten ways in which student nurses reduced their anxiety through particular practices, among them splitting up the nurse-patient relationship, depersonalization and categorization of patients, and reducing the weight of responsibility for decisions through checks and counter-checks; the hospital's rigid hierarchy, fixed roles, and routinized work diffused responsibility and anxiety. She concluded that these primitive defences of splitting, denial, and projection prevented more mature ways of coping with anxiety from developing and stifled individual growth. |
+| The evidence | The study is a psychoanalytic case study of one hospital's nursing service, and later research, such as a 2020 ethnography of neonatal nursing in Kenya, found routines that fit her account. In a late interview Menzies Lyth said her paper had been misread and that she had not meant it to lead to a focus on individuals' emotional needs but on how anxiety is contained and mitigated through nursing practice, and she conceded that institutional structures remained largely resistant to change by psychoanalytic means. |
+| Where it locates change | Change is located in an institution's structures, which can be arranged to contain anxiety in ways that let the work and the people doing it develop, rather than to defend against anxiety in ways that prevent both. |
+| How it bears on the book (the researcher's reading) | Protection and defense: Menzies Lyth shows that an institution's own routines can act as defences that protect its members from anxiety at the cost of their growth and of the work, which is the organizational form of the book's concern with protective parts. Whether the cause lies in the person or the system: She placed the defence in the social system rather than in individual nurses, and she later said the paper had been misread when it was used to focus on individuals' emotional needs. What care costs the one who gives it: Her study describes the anxiety that caring for the sick and dying produces in caregivers, and the institutional ways they are protected from it at a cost to their development. |
+| Where it differs from the book | Her analysis is psychoanalytic and institutional and is addressed to organizations and their consultants, and she held that anxiety should be contained through changes in practice rather than through attention to the individual, which differs from a book of inward practice for one person. |
+| Limits and critiques | Menzies Lyth herself conceded that institutional structures remained largely resistant to psychoanalytic change. |
+| Quoted from its sources | "Menzies produced in 1959 a classic study of hospital systems as defences against the anxieties raised by caring for people in life and death situations." (https://en.wikipedia.org/wiki/Isabel_Menzies_Lyth) "Menzies in a late interview suggested that her famous paper had been misread and she had not intended it to lead to a focus on addressing the emotional needs of individuals." (https://pmc.ncbi.nlm.nih.gov/articles/PMC6983929/) "she had not intended it to lead to a focus on addressing the emotional needs of individuals, but rather for work to concentrate on how stress and anxiety are contained and mitigated through nursing practice" (https://pmc.ncbi.nlm.nih.gov/articles/PMC6983929/) |
+| Mental model | psychodynamic. Menzies Lyth was a psychoanalyst in the Kleinian tradition and applied it to institutions |
+| Structure | telling the real thing from its counterfeit; a model of what a person or group is made of |
+| Subjects | emotion, death finitude, task work, group process, trauma healing |
+| In the survey | no |
+| In the vault | `notes/the gatekeeper has a lived referent in the author's own protective structure.md`; The vault holds protection at the scale of one person, as a guarding part met with a bow, and holds the claim candidate 'the cure for a structure is structural' in ops/queue/claim candidates.md (entry 20); it does not name Menzies Lyth or social defences, which apply the idea of protection to an institution. |
+| Sources | https://en.wikipedia.org/wiki/Isabel_Menzies_Lyth; https://api.crossref.org/works/10.1177/001872676001300201; https://pmc.ncbi.nlm.nih.gov/articles/PMC6983929/ |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *social systems as a defence against anxiety* | This phrase names Menzies Lyth's thesis that an institution's structures, routines, and shared practices can serve to protect its members from anxiety rather than only to do the work. |
+| *splitting up the nurse-patient relationship* | Splitting up the nurse-patient relationship is dividing a patient's care into tasks, one of the defences Menzies Lyth described. |
+| *depersonalization* | Depersonalization is treating patients as categories, which Menzies Lyth saw as a mechanism that reduces nurses' stress. |
+| *checks and counter-checks* | Checks and counter-checks are repeated verifications of decisions that reduce the weight of responsibility any one nurse carries. |
+
+#### The Pygmalion and Galatea effects in management
+
+| Field | Entry |
+|---|---|
+| Type | a finding |
+| Field of study | organizational psychology |
+| Originators | J. Sterling Livingston ('Pygmalion in Management'); Dov Eden, with Shani and with Ravid (field experiments); from Rosenthal and Jacobson's classroom study |
+| Date | 1968 (Rosenthal and Jacobson); 1969 (Livingston, Harvard Business Review, reprinted 2003); 1982 (Eden and Shani; Eden and Ravid); 1990 (Eden, Pygmalion in Management, Lexington Books) |
+| Scale | two people, one helping, an organization, a small group |
+| Who decides | not applicable. In Eden's experiments the researchers induced the expectations, telling instructors, or in the Galatea condition the trainees themselves, that certain trainees had high potential. |
+| What it holds | The Pygmalion effect is the finding that high expectations held by a leader or teacher lead to improved performance by the people they lead. Livingston's 1969 Harvard Business Review article applied the idea to management, and Eden and Shani's 1982 field experiment with Israel Defense Forces trainees found that trainees whose instructors were led to expect high performance outperformed control groups on four objective tests. The Galatea effect, named by Eden and Ravid, is the improvement that follows from raising trainees' expectations of themselves directly, by telling the trainees rather than their instructors that they have high potential. |
+| The evidence | A 2000 meta-analysis of 17 studies in management contexts (58 effect sizes, N = 2,874) found average effects that can be fairly strong (d = 1.13) but vary widely, being stronger in the military, with men, and for people of whom low expectations were initially held. The original classroom study is heavily criticized: Thorndike judged its IQ instrument seriously flawed, Raudenbush (1984) found the effect reduced to virtually zero once teachers had known their students for two weeks, and Jussim and Harber (2005) concluded that the effects are usually small and temporary. |
+| Where it locates change | Change is located in the expectations a leader or a person holds, which shape behavior and then performance. |
+| How it bears on the book (the researcher's reading) | Being seen and recognized by another: The effect shows that how a leader sees a person, even when a researcher induced the expectation, can change what the person does. Knowing that something happened: Because expectations alone can raise measured performance, a change that follows a facilitator's confident expectation is not by itself evidence that the method worked. Remaining the author of one's own change: The Galatea effect places the change in the person's own expectations of themselves, which can be raised directly rather than only through a leader's belief. |
+| Where it differs from the book | The research serves training and productivity, and in the Pygmalion design the leader is told about a person's potential while the person is not told, which is influence the person cannot see or answer. |
+| Limits and critiques | The effect is contested: the classroom original drew strong methodological critiques and later reviews found it small and temporary, and the organizational effects vary widely by setting. |
+| Quoted from its sources | "Results indicate that Pygmalion effects can be fairly strong within some management contexts (average d = 1.13) but may vary widely depending on moderating variables." (https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Ancient%20Pygmalion%20joins%20contemporary%20management%22&format=json&resultType=core&pageSize=2) "Specifically, results were stronger in the military, with men, and when involving persons for whom low expectations were initially held." (https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Ancient%20Pygmalion%20joins%20contemporary%20management%22&format=json&resultType=core&pageSize=2) "When teachers had gotten to know their students for two weeks, the effect of a prior expectancy induction was reduced to virtually zero." (https://en.wikipedia.org/wiki/Pygmalion_effect) "Improving these trainees' performance levels may be accomplished by directly raising their expectations by telling them—rather than their instructors—that they had high potential." (https://en.wikipedia.org/wiki/Galatea_effect) |
+| Mental model | organizational. The work applies the social psychology of expectancy effects to management and training |
+| Structure | a repeating cycle; a single move |
+| Subjects | thought belief, learning skill, relationship present, identity self |
+| In the survey | no |
+| In the vault | notes/response expectancy is a two-sided coin, the mechanism of the manufactured artifact and of genuine change alike.md; The vault holds response expectancy as a mechanism that can manufacture a felt shift and can also produce genuine change, with the author's own account of overcoming a stutter by acting as a different character; the Galatea effect is a measured case of the productive side. The vault's counterpoint research (archive/research — counterpoint round background.md) cites Rosenthal and Fode (1963) on experimenter expectancy. The vault does not name the Pygmalion or Galatea effects. |
+| Sources | https://en.wikipedia.org/wiki/Pygmalion_effect; https://en.wikipedia.org/wiki/Galatea_effect; https://hbr.org/2003/01/pygmalion-in-management; https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22Pygmalion%20in%20management%22&format=json&resultType=core&pageSize=5; https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22Ancient%20Pygmalion%20joins%20contemporary%20management%22&format=json&resultType=core&pageSize=2; https://openlibrary.org/search.json?title=pygmalion+in+management&author=eden&fields=title,subtitle,author_name,first_publish_year,publisher&limit=5 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *Pygmalion effect* | The Pygmalion effect is the improvement in performance that follows from high expectations held by another person, such as a leader or teacher. |
+| *Galatea effect* | The Galatea effect is the improvement in performance that follows from directly raising a person's expectations of themselves. |
+| *expectancy induction* | An expectancy induction is the experimental step of telling a teacher, leader, or trainee that particular people are expected to do well. |
+
+### Team science
+
+#### Conditions for team effectiveness and the theory of team coaching
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | team science |
+| Originators | J. Richard Hackman; the coaching theory with Ruth Wageman |
+| Date | 2002 (Leading Teams, Harvard Business School Press); 2005 (Academy of Management Review, 'A theory of team coaching') |
+| Scale | a small group, an organization |
+| Who decides | B, the facilitator shapes the process; the people supply the content. The leader or coach designs the team's conditions and intervenes in its task processes, and the team does the work. |
+| What it holds | Hackman proposed that a team is most likely to be effective when it is a real team with stable membership, has a compelling direction and an enabling structure, works in a supportive context (which the Wikipedia article labels social support), and has coaching available to it. With Wageman he defined team coaching as direct interaction with a team intended to help members make coordinated and task-appropriate use of their collective resources, and named three coaching functions, motivational, consultative, and educational, directed at the team's task rather than at members' interpersonal relationships. The theory holds that coaching is more effective when it addresses issues a team is ready for at the time it is made, names the beginning, the midpoint, and the end of a team's work as such times, and warns that ill-timed interventions may do more harm than good. |
+| The evidence | The coaching theory is a theoretical article, reported here through later reviews that quote it. The site of the six-conditions framework based on Wageman's and Hackman's research states that the conditions account for up to 80% of team performance, with 60% due to structural design, 30% to how the team is launched, and 10% to ongoing coaching; that breakdown is a claim on a commercial site and was not traced to a study here. |
+| Where it locates change | Change in a team's performance is located mostly in the conditions designed around the team, with coaching a smaller factor that helps only when well timed. |
+| How it bears on the book (the researcher's reading) | Timing and pacing: The theory ties the usefulness of an intervention to the moment in a team's life when the team is ready for it, and it warns that ill-timed coaching may do more harm than good. The container that holds people while they change: Hackman's emphasis on designing conditions, with coaching a minor factor, parallels the vault's claim that facilitation is stewardship of conditions rather than causing an outcome. Change at the scale of a team or organization: The model locates a team's effectiveness mainly in its design and its organizational context, which a leader sets before and around the team's work. |
+| Where it differs from the book | The theory serves team performance on a task an organization defines, and it deliberately keeps coaching on the task rather than on members' relationships, while the book's facilitation is concerned with relationships and with each person's own change. |
+| Limits and critiques | The sources opened here confirm the three coaching functions and the three times in a team's life, but not which function belongs to which time. |
+| Quoted from its sources | "Coaching interventions are more effective when they address issues a team is ready for at the time they are made" (https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5550699/fullTextXML) "Ill-timed interventions may actually do more harm than good" (https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5550699/fullTextXML) "10% of team effectiveness is due to the ongoing coaching it receives." (https://www.6teamconditions.com/) |
+| Mental model | organizational |
+| Structure | tending conditions; a method |
+| Subjects | group process, task work, learning skill, decision choice |
+| In the survey | no |
+| In the vault | `notes/facilitation is stewardship of conditions.md`; This note names the facilitator as a steward of conditions who claims to have helped make a field in which something became possible, not to have caused a transformation; Hackman's conditions and his low weighting of coaching are an organizational parallel. The vault does not name Hackman or Wageman. |
+| Sources | https://en.wikipedia.org/wiki/Team_effectiveness; https://api.semanticscholar.org/graph/v1/paper/DOI:10.5465/amr.2005.16387885?fields=title,abstract,year,venue,authors,tldr; https://pmc.ncbi.nlm.nih.gov/articles/PMC6438631/; https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11200866/fullTextXML; https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5550699/fullTextXML; https://www.6teamconditions.com/; https://openlibrary.org/search.json?q=leading+teams+setting+the+stage+hackman&fields=title,subtitle,author_name,first_publish_year,publisher&limit=3 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *real team* | A real team, in Hackman's model, is a team whose membership is stable over time. |
+| *compelling direction* | A compelling direction is a clear purpose defined by the team's end goals. |
+| *team coaching* | Team coaching is direct interaction with a team intended to help members make coordinated and task-appropriate use of their collective resources in accomplishing the team's work. |
+| *motivational, consultative, and educational coaching* | These are the three coaching functions: building shared commitment and reducing social loafing, helping the team create work processes suited to its task, and building members' knowledge and skills. |
+
+#### Psychological safety (team psychological safety)
+
+| Field | Entry |
+|---|---|
+| Type | a finding |
+| Field of study | team science |
+| Originators | Amy C. Edmondson (the team construct and its studies); earlier, Edgar Schein and Warren Bennis; Google's Project Aristotle (a Google initiative) |
+| Date | 1965 (Schein and Bennis); 1996 (Journal of Applied Behavioral Science, hospital study); 1999 (Administrative Science Quarterly); 2018 (The Fearless Organization) |
+| Scale | a small group, an organization, two people as equals |
+| Who decides | not applicable. Psychological safety is a belief a team shares, and the research treats the leader's behavior and the team's context as what shapes it. |
+| What it holds | Psychological safety is a team's shared belief that the team is safe for interpersonal risk taking, so that members can speak up with ideas, questions, concerns, or mistakes without expecting to be punished or humiliated. In a 1999 study of 51 teams in a manufacturing company, Edmondson found that psychological safety was associated with team learning behavior, that learning behavior mediated its relationship with team performance, and that team efficacy was not associated with learning once psychological safety was controlled. Her 1996 hospital study found that patient care groups differed not only in how often drug errors occurred but in how likely errors were to be detected and learned from. Google's Project Aristotle, a multi-year initiative to define the characteristics of an ideal team in the workplace, reported psychological safety as by far the most important of five factors, the others being dependability, structure and clarity, personal meaning, and each member feeling that they have an impact. |
+| The evidence | Support comes from field studies, including the 1999 multimethod study of 51 teams and the 1996 study of patient care groups in two hospitals, and from Google's initiative, which the sources opened here report only in a one-paragraph summary. The Wikipedia article reports a possible cost: Pearsall and Ellis (2011) found that teams with utilitarian members were more likely to cheat, and more so when psychological safety was high. |
+| Where it locates change | Change is located in a team's shared beliefs about what happens to people who speak, which leaders and context shape and on which the team's learning depends. |
+| How it bears on the book (the researcher's reading) | The container that holds people while they change: Psychological safety describes, at the level of a team and in measured terms, the condition under which people will say what is true in front of others, which is the condition the book's container is meant to supply. Change at the scale of a team or organization: The 1999 study makes a team's learning, and through its learning its performance, depend on whether members believe the team is safe for interpersonal risk. Knowing that something happened: The hospital findings show that a group in which people are not punished for reporting mistakes detects more errors, so a higher count of reported problems can indicate the healthier group rather than the worse one. |
+| Where it differs from the book | The research serves team learning and organizational performance, and it measures safety by questionnaire as a property of the group rather than as one person's inner state. It treats safety as a means to learning and work, while the book treats the held space as a condition for a person's own recognition. |
+| Limits and critiques | Safety can be misread as comfort, and the Wikipedia article reports research suggesting that past some point psychological safety may turn harmful and may make unethical behavior easier in some teams. |
+| Quoted from its sources | "the belief that one will not be punished or humiliated for speaking up with ideas, questions, concerns, or mistakes" (https://en.wikipedia.org/wiki/Psychological_safety) "an atmosphere where one can take chances (which experimentalism implies) without fear and with sufficient protection." (https://en.wikipedia.org/wiki/Psychological_safety) "team psychological safety—a shared belief held by members of a team that the team is safe for interpersonal risk taking" (https://api.semanticscholar.org/graph/v1/paper/DOI:10.2307/2666999?fields=title,abstract,year,venue,authors) "Findings from patient care groups in two hospitals show systematic differences not just in the frequency of errors, but also in the likelihood that errors will be detected and learned from by group members." (https://api.crossref.org/works/10.1177/0021886396321001) "They found that by far, most important factor is psychological safety." (https://en.wikipedia.org/wiki/Team_effectiveness) |
+| Mental model | organizational. The term predates Edmondson: the Wikipedia article credits Carl Rogers with coining it in the 1950s and quotes Schein and Bennis's 1965 definition |
+| Structure | tending conditions; a model of what a person or group is made of |
+| Subjects | group process, learning skill, relationship present, task work |
+| In the survey | no |
+| In the vault | notes/recognition arises from interruption of automaticity, safety-with-friction, participatory practice, distinction-giving language, and permission not to solve.md; The vault does not name psychological safety, Edmondson, or Project Aristotle. This note lists safety that carries enough friction for hidden things to be noticed as one of five conditions under which recognition tends to arise, which is the nearest vault holding and is itself close to the too-much-of-a-good-thing caution. |
+| Sources | https://en.wikipedia.org/wiki/Psychological_safety; https://en.wikipedia.org/wiki/Amy_Edmondson; https://en.wikipedia.org/wiki/Team_effectiveness; https://api.semanticscholar.org/graph/v1/paper/DOI:10.2307/2666999?fields=title,abstract,year,venue,authors; https://api.crossref.org/works/10.1177/0021886396321001; https://openlibrary.org/search.json?title=the+fearless+organization&author=edmondson&fields=title,subtitle,author_name,first_publish_year,publisher&limit=3 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *team psychological safety* | Team psychological safety is a belief shared by the members of a team that the team is safe for interpersonal risk taking. |
+| *interpersonal risk taking* | Interpersonal risk taking is speaking up with an idea, a question, a concern, or an admission of a mistake when doing so could bring embarrassment or punishment. |
+| *learning behavior* | Learning behavior is a team's activity of learning from its own work; in the 1999 study it mediated the association between safety and performance. |
+| *too-much-of-a-good-thing effect* | The too-much-of-a-good-thing effect is the general finding in management research that a factor which helps outcomes can, past some point, begin to harm them, which the Wikipedia article applies to psychological safety. |
+
+#### Stages of group development (forming, storming, norming, performing, adjourning)
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | team science |
+| Originators | Bruce W. Tuckman; the fifth stage with Mary Ann Jensen |
+| Date | 1965 (Psychological Bulletin, 'Developmental sequence in small groups'); 1977 (with Jensen, adjourning) |
+| Scale | a small group |
+| Who decides | not applicable |
+| What it holds | Tuckman reviewed about fifty published articles on group development, including groups in therapeutic and professional settings, and proposed that small groups pass through four stages: forming, in which members meet, learn the task, agree on goals, and begin work; storming, a stage of intragroup conflict in which the group starts to sort itself out and members begin to trust each other; norming, in which resolved disagreements give way to closer relationships and cooperation; and performing, in which established norms and roles let members focus on common goals. In 1977 Tuckman and Mary Ann Jensen added a fifth stage, adjourning, in which the group completes its task and breaks up. |
+| The evidence | The model is a review of published studies rather than a test, and the Wikipedia article reports that only 50% of the reviewed studies identified a stage of intragroup conflict and that some went directly from the first stage to the third. Gersick's 1988 study of naturally occurring groups proposed instead that groups form a framework for their work early, keep it, and revise it suddenly at their calendar midpoint, and Poole later rejected phase models in favor of intertwined tracks of activity. |
+| Where it locates change | Change in a group is located in a sequence of developmental stages that the group passes through as members settle their relationships and roles. |
+| How it bears on the book (the researcher's reading) | Timing and pacing: The model tells a facilitator that conflict early in a group's life can be a stage rather than a failure, and Gersick's alternative points to a group's calendar midpoint as the time it is most open to changing course. Conflict: Storming names conflict as a normal stage of development that comes before cooperation, although only half the studies Tuckman reviewed found such a stage. |
+| Where it differs from the book | The model describes groups in general and prescribes no method, and its fixed sequence is contested; the book's arc is a sequence for one reader's experience rather than for a group's development. |
+| Limits and critiques | Groups do not reliably pass through the stages in order, according to the studies the Wikipedia articles report. |
+| Quoted from its sources | "In 1977, Tuckman, jointly with Mary Ann Jensen, added a fifth stage to the four stages: adjourning" (https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development) "At their calendar midpoints, groups experience transitions – paradigmatic shifts in their approaches to their work." (https://en.wikipedia.org/wiki/Group_development) |
+| Mental model | developmental. The model is a stage model of group development drawn from a review of published studies |
+| Structure | moving through stages; a sequence of phases |
+| Subjects | group process, conflict, relationship present, task work |
+| In the survey | no |
+| In the vault | not yet met |
+| Sources | https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development; https://en.wikipedia.org/wiki/Group_development |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *forming* | Forming is the first stage, in which members meet, learn about the task, agree on goals, and begin work. |
+| *storming* | Storming is the second stage, a period of intragroup conflict in which the group sorts itself out and members begin to trust each other. |
+| *norming* | Norming is the third stage, in which resolved disagreements give way to closer relationships and cooperation. |
+| *performing* | Performing is the fourth stage, in which established norms and roles let members focus on common goals. |
+| *adjourning* | Adjourning is the fifth stage, added in 1977, in which the group completes its task and breaks up. |
+
+### Social psychology of groups
+
+#### Authentic dissent versus the devil's advocate (minority dissent)
+
+| Field | Entry |
+|---|---|
+| Type | a finding |
+| Field of study | social psychology of groups |
+| Originators | Charlan J. Nemeth, with Keith Brown and John Rogers |
+| Date | 1986 (Psychological Review, 'Differential contributions of majority and minority influence'); 2001 (European Journal of Social Psychology, 'Devil's advocate versus authentic dissent: stimulating quantity and quality'); 2018 (In Defense of Troublemakers, Basic Books) |
+| Scale | a small group, an organization |
+| Who decides | not applicable |
+| What it holds | Nemeth and colleagues compared two ways of bringing disagreement into a group: a devil's advocate, a person assigned to argue a view, and an authentic minority, a person who actually holds the dissenting view. An earlier study had found that a devil's advocate mainly led people to bolster their initial view rather than to think divergently. In the 2001 experiment, measured by the quantity and quality of solutions, the authentic minority did better than all three forms of devil's advocate, whether the advocate's own position was known and consistent with the assigned one, known and inconsistent, or unknown. |
+| The evidence | The findings come from experiments reported in social psychology journals, and the 2001 study repeated and extended an earlier comparison; the sources opened here give no sample sizes or settings. |
+| Where it locates change | Change in a group's thinking is located in the presence of real disagreement, because a person who actually holds a minority view prompts reconsideration that a role-played objection does not. |
+| How it bears on the book (the researcher's reading) | Knowing that something happened: The experiment tells a real disagreement from its counterfeit by its effect: role-played dissent led people to defend their first view, while authentic dissent improved their solutions. Conflict: The finding gives a reason to keep genuine dissenters in a group rather than replace them with assigned critics, and it bears on the survey's Lewis Method of Deep Democracy, which assumes that a minority's dissent carries information the majority needs. Decisions: It qualifies Janis's remedy for groupthink, since appointing a devil's advocate did not reproduce the benefit of a member who actually disagreed. |
+| Where it differs from the book | The research serves the quality of group decisions and creative solutions and values dissent for what it does for the majority, while the book is concerned with each person's authorship; it measures dissent by its effect on the group's solutions rather than on the dissenter. |
+| Limits and critiques | The sources opened here do not report sample sizes or settings, so the size and generality of the effect are not confirmed here. |
+| Quoted from its sources | "In a prior study comparing these two processes, devil's advocate appeared to foster thinking that was primarily aimed at cognitive bolstering of the initial viewpoint rather than stimulate divergent thought." (https://api.crossref.org/works/10.1002/ejsp.58) "Results indicated that the authentic minority was superior to all three forms of 'devil's advocate,' again underscoring the value and importance of authenticity." (https://api.crossref.org/works/10.1002/ejsp.58) |
+| Mental model | other. The research is experimental social psychology of majority and minority influence |
+| Structure | telling the real thing from its counterfeit; a single move |
+| Subjects | decision choice, conflict, group process, creativity play |
+| In the survey | no |
+| In the vault | `notes/the company's refusals converge unsought where its agreements were assembled.md`; The vault distinguishes the agreements its sources were selected for from the refusals that arrived unsought, against the gatherer's interest, and holds that the selection caveat applies only to the agreements; Nemeth's finding that authentic dissent does what a role-played objection does not is an experimental parallel. The vault does not name Nemeth. |
+| Sources | https://api.crossref.org/works/10.1002/ejsp.58; https://api.crossref.org/works/10.1037/0033-295X.93.1.23; https://openlibrary.org/search.json?q=in+defense+of+troublemakers+nemeth&fields=title,subtitle,author_name,first_publish_year,publisher&limit=3 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *authentic dissent* | Authentic dissent is disagreement voiced by a person who actually holds the dissenting view. |
+| *devil's advocate* | A devil's advocate is a person assigned to argue against the group's view whether or not they hold that position. |
+| *divergent thought* | Divergent thought is thinking that moves beyond the initial position to consider other options. |
+| *cognitive bolstering* | Cognitive bolstering is thinking aimed at reinforcing one's initial view, which the earlier study found a devil's advocate mainly produced. |
+
+#### Experimentally created social climates: authoritarian, democratic, and laissez-faire leadership
+
+| Field | Entry |
+|---|---|
+| Type | a finding |
+| Field of study | social psychology of groups |
+| Originators | Kurt Lewin, Ronald Lippitt, and Ralph K. White |
+| Date | 1939 ('Patterns of Aggressive Behavior in Experimentally Created Social Climates', Journal of Social Psychology); later reported by White and Lippitt (1960) |
+| Scale | a small group |
+| Who decides | not applicable. The study compared three positions on the survey's coordinate: the leader determining policy (authoritarian), policy determined collectively with the leader's help (democratic), and the group left to determine policy without any participation from the leader (laissez-faire). |
+| What it holds | Lewin, Lippitt, and White studied groups of eleven-year-old boys under three styles of adult leadership, which differed in how group decisions were made, how praise and criticism were given, and how tasks were managed. In the authoritarian climate the leader determined policy and dictated the techniques and steps of the work; in the democratic climate policy was determined through collective processes, with the leader assisting the decisions; and in the laissez-faire climate the group had freedom to determine policy without any participation from the leader. A later summary reports that the boys did not perform worse under an autocratic leader but became more dependent on him and showed more aggression and frustration once he became unavailable, and Merrelyn Emery cites the study for the finding that behavior under laissez-faire is more maladaptive still. |
+| The evidence | The study was a small experiment with boys' clubs, and the sources I opened describe its design and main behavioral findings but record no replication. Later leadership research still contrasts autocratic and democratic leadership, and a 2022 study of firefighters found that each raised trust in the leader in a different phase of the work. |
+| Where it locates change | The study locates group behavior, including aggression and dependence, in the social climate the leader creates rather than in the individual members. |
+| How it bears on the book (the researcher's reading) | Who decides the content: The study separates two positions that are easily confused: a group deciding with the leader's active help (democratic) and a group left to decide with no participation from the leader (laissez-faire). The container that holds people while they change: The laissez-faire result supports the vault's claim that space is a condition a facilitator makes rather than an absence, and Merrelyn Emery draws the same conclusion for organizations when she writes that laissez-faire is not DP2. Harm and its conditions: The reported dependence, aggression, and frustration when the autocratic leader became unavailable describe a harm that appears only when a controlling leader withdraws. |
+| Where it differs from the book | The study concerns children in clubs run by adults, and it measures group behavior rather than a person's inner change. Its democratic leader still assists the group's decisions, which is closer to the survey's position B than to a person deciding everything alone. |
+| Quoted from its sources | "Authoritarian environments are characterized where the leader determines policy with techniques and steps for work tasks dictated by the leader in the division of labor." (https://en.wikipedia.org/wiki/Kurt_Lewin) "Democratic climates are characterized where policy is determined through collective processes with decisions assisted by the leader." (https://en.wikipedia.org/wiki/Kurt_Lewin) "Laissez-faire environments give freedom to the group for policy determination without any participation from the leader." (https://en.wikipedia.org/wiki/Kurt_Lewin) "Boys in Lewin et al. (1939) camp did not perform worse under an autocratic supervisor" (https://pmc.ncbi.nlm.nih.gov/articles/PMC5994701/) "Remember that the behaviour which results from laissez faire is actually more maladaptive than that which results from DP1 structures (Lewin, Lippitt and White, 1960)." (https://www.socialsciencethatactuallyworks.com/wp-content/uploads/documents/the-genotypical-design-principles-and-democratizing-organizations/The%20Real%20Participative%20Design%20Workshop%20-%201998.pdf) |
+| Mental model | other. The study is experimental social psychology of small groups, from the Lewin circle whose members later began the T-group |
+| Structure | tending conditions; a model of what a person or group is made of |
+| Subjects | group process, justice power, decision choice, emotion |
+| In the survey | no |
+| In the vault | `notes/kurt lewin.md`; The vault holds Lewin as a precedent for action research, the T-group, and field theory; its note does not mention the 1939 leadership-climate experiments. |
+| Sources | https://en.wikipedia.org/wiki/Kurt_Lewin; https://en.wikipedia.org/wiki/Leadership; https://en.wikipedia.org/wiki/Leadership_style; https://en.wikipedia.org/wiki/Emotional_climate; https://pmc.ncbi.nlm.nih.gov/articles/PMC5994701/; https://pmc.ncbi.nlm.nih.gov/articles/PMC9382123/; https://www.socialsciencethatactuallyworks.com/wp-content/uploads/documents/the-genotypical-design-principles-and-democratizing-organizations/The%20Real%20Participative%20Design%20Workshop%20-%201998.pdf |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *authoritarian climate* | An authoritarian climate is one in which the leader determines policy and dictates the techniques and steps of the work. |
+| *democratic climate* | A democratic climate is one in which policy is determined through collective processes, with the leader assisting the decisions. |
+| *laissez-faire climate* | A laissez-faire climate is one in which the group has freedom to determine policy without any participation from the leader. |
+| *social climate* | A social climate, in the study's title, is the pattern of decision making, feedback, and task management that a leader creates in a group, which the experimenters varied deliberately. |
+
+#### Groupthink
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | social psychology of groups |
+| Originators | Irving Janis; the word first coined by William H. Whyte Jr. |
+| Date | 1952 (Whyte, Fortune); 1972 (Janis, Victims of Groupthink); 1982 (revised as Groupthink: Psychological Studies of Policy Decisions and Fiascoes) |
+| Scale | a small group, an organization |
+| Who decides | not applicable |
+| What it holds | Groupthink is a mode of group decision-making in which the desire for harmony or conformity produces an irrational or dysfunctional decision. Janis named high cohesiveness as its main antecedent, together with structural faults such as the group's insulation and directive leadership, and a situation of external threat and stress. He described eight symptoms in three types: overestimation of the group (illusions of invulnerability and an unquestioned belief in its morality), closed-mindedness (rationalizing warnings and stereotyping opponents), and pressures toward uniformity (self-censorship, illusions of unanimity, direct pressure on dissenters, and mindguards who shield the group from contrary information). His main case was the Bay of Pigs invasion, and he contrasted it with the Cuban Missile Crisis, in which, on his account, Kennedy avoided groupthink through vigilant appraisal and consultation with outside experts. |
+| The evidence | The theory was built from historical case studies, and later research gives it weak support: Park (1990) found only 16 empirical studies, which supported it only in part; Kramer (1998) argued that the presidents in Janis's cases sought outside advice more than he allowed; and cohesiveness alone does not reliably predict groupthink. |
+| Where it locates change | Change in a group's decisions is located in its structure and leadership, which can be arranged so that dissent is invited and the preferred option is tested. |
+| How it bears on the book (the researcher's reading) | Decisions: Groupthink names how a group's wish for agreement leads members to give up their own doubts, and Janis's remedies are structural: the leader withholds opinions, critical evaluators and devil's advocates are assigned, and outside experts are consulted. Conflict: The theory treats the absence of open disagreement in a cohesive group as a warning sign rather than as a sign of health. Knowing that something happened: The illusion of unanimity is a counterfeit of agreement, so a group's apparent consensus is not evidence that its members agree. |
+| Where it differs from the book | The theory concerns policy decisions by small elite groups and serves the quality of their decisions, not the change of the people in the group. |
+| Limits and critiques | Empirical support is weak, and the necessity of Janis's antecedents is disputed, including by Baron's (2005) proposal of a ubiquity model. |
+| Quoted from its sources | "The desire for harmony or conformity in the group results in an irrational or dysfunctional decision-making outcome." (https://en.wikipedia.org/wiki/Groupthink) |
+| Mental model | other. Groupthink belongs to the social psychology of group decision-making and was built from historical case studies of policy decisions |
+| Structure | telling the real thing from its counterfeit; a model of what a person or group is made of |
+| Subjects | decision choice, group process, conflict, thought belief |
+| In the survey | no |
+| In the vault | `notes/the unanimity claim is an artifact of how the lineages were selected.md`; The vault records its own case of apparent unanimity: the corpus's practice lineages agree on one law because the author selected them for that property. That is a selection effect rather than group pressure, but it carries the same caution, that agreement among people or sources is not by itself evidence. The vault does not name Janis or groupthink. |
+| Sources | https://en.wikipedia.org/wiki/Groupthink |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *groupthink* | Groupthink is decision-making in which the desire for harmony or conformity in a group produces an irrational or dysfunctional outcome. |
+| *illusion of unanimity* | The illusion of unanimity is members' belief that everyone in the group agrees when they do not. |
+| *self-censorship* | Self-censorship is members withholding their own doubts from the group. |
+| *mindguards* | Mindguards are members who shield the group from information that contradicts its views. |
+| *devil's advocate* | A devil's advocate is a member assigned to argue against the group's preferred view, one of the remedies Janis proposed. |
+
+#### The Abilene paradox (the management of agreement)
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | social psychology of groups |
+| Originators | Jerry B. Harvey |
+| Date | 1974 (Organizational Dynamics, 'The Abilene Paradox: The Management of Agreement'); 1988 (The Abilene Paradox and Other Meditations on Management) |
+| Scale | a small group, an organization, two people as equals |
+| Who decides | not applicable |
+| What it holds | The Abilene paradox occurs when a group collectively decides on a course of action that runs counter to the preferences of most or all of its members. Harvey's story tells of a family in Coleman, Texas, who drive fifty miles to Abilene for dinner on a hot afternoon and afterward discover that none of them had wanted to go. The paradox arises from a breakdown of communication in which each member mistakenly believes that their own preference runs counter to the group's, which Harvey's title calls a problem in the management of agreement. The Wikipedia article distinguishes it from groupthink: in groupthink people deceive themselves and distort their own views, while in the Abilene paradox people fail to perceive the views of the others. |
+| The evidence | The paradox is a management essay built on an illustrative story rather than an empirical study, and a 2023 study reported in the Wikipedia article found that being prosocial and caring about the effects of one's actions on others increased the likelihood of experiencing it. |
+| Where it locates change | Change is located in whether members say their actual preferences aloud, since the group's error comes from each member's mistaken belief about what the others want. |
+| How it bears on the book (the researcher's reading) | Decisions: The paradox shows a group deciding against the wishes of all its members because no one says what they actually want. Conflict: It shows that avoiding disagreement can itself produce a bad outcome, so the absence of stated conflict is not the same as agreement. Harm and its conditions: The 2023 finding names consideration for others as a condition under which considerate members make the choice that no one wanted. |
+| Where it differs from the book | The paradox concerns group decisions and is presented as a lesson for managers, with no method attached in the sources opened here. |
+| Limits and critiques | Harvey's evidence is an illustrative story, and the sources opened here report little direct empirical study of the paradox. |
+| Quoted from its sources | "A group of people collectively decide on a course of action that is counter to the preferences of most or all individuals in the group." (https://en.wikipedia.org/wiki/Abilene_paradox) "a breakdown of group communication in which each member mistakenly believes that their own preferences are counter to the group's." (https://en.wikipedia.org/wiki/Abilene_paradox) "In groupthink, individuals undergo self-deception and distortion of their own views ... whereas in the Abilene paradox, individuals are unable to perceive the views or preferences of others" (https://en.wikipedia.org/wiki/Abilene_paradox) |
+| Mental model | organizational |
+| Structure | telling the real thing from its counterfeit; a model of what a person or group is made of |
+| Subjects | decision choice, group process, relationship present |
+| In the survey | no |
+| In the vault | not yet met |
+| Sources | https://en.wikipedia.org/wiki/Abilene_paradox; https://api.crossref.org/works/10.1016/0090-2616(74)90005-9 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *Abilene paradox* | The Abilene paradox is a group's collective choice of an action that most or all of its members privately do not want. |
+| *management of agreement* | The management of agreement, in Harvey's title, is the problem of a group discovering and acting on the agreement its members privately share. |
+
+### Organization development
+
+#### Clear Leadership: the Experience Cube, interpersonal mush, and the learning conversation
+
+| Field | Entry |
+|---|---|
+| Type | a technique |
+| Field of study | organization development |
+| Originators | Gervase R. Bushe (with Michael Cody for the 2024 account of the Experience Cube) |
+| Date | 2001 (Clear Leadership: How Outstanding Leaders Make Themselves Understood, Cut Through the Mush, and Help Everyone Get Real at Work, Davies-Black); 2009 (revised edition, Clear Leadership: Sustaining Real Collaboration and Partnership at Work) |
+| Scale | two people as equals, a small group, an organization, one person alone |
+| Who decides | A, the person decides all content. The two people in a learning conversation supply all the content; a trainer teaches the model beforehand, and Bushe asks leaders to make sure the variety of experiences is voiced rather than to ensure everyone has the right experience. |
+| What happens | Bushe's Experience Cube models a person's moment-to-moment experience as four elements, Observations, Thoughts, Feelings, and Wants, and assumes that all four are present in all waking time, with some of each outside awareness, which is why he draws it as a cube. Observations are what a video would record; thoughts include every belief, story, interpretation, and prediction; feelings are all bodily sensations and emotions; and wants include needs, goals, aspirations, and things one does not want. 'Interpersonal mush' is his term for interaction shaped by stories about the other person that have not been checked out, and to clear it two people hold a learning conversation in which each describes their experience of a problem pattern through the four elements while the other listens and paraphrases it back, switching roles only when the speaker is satisfied with the paraphrase. |
+| The evidence | The support is Bushe's own work: field studies by Bushe and his students found that about four out of five strained work relationships were due to mush and improved when it was cleared, and a white-paper study of 32 healthcare managers after the Clear Leadership course found that all had changed how they thought about conflict. These are practitioner studies by the method's author and his colleagues, not independent trials. |
+| Where it locates change | It locates change in each person's awareness and honest description of their own present experience, which removes the unchecked stories that erode collaboration. |
+| How it bears on the book (the researcher's reading) | Being seen and recognized by another: In the learning conversation the listener must paraphrase the speaker's experience to the speaker's satisfaction before the roles switch, so being accurately understood is the explicit condition for moving on. Conflict: Bushe treats most strained work relationships as the product of unchecked negative stories and asks each person to be curious about their own part in the problem pattern rather than to argue about who is at fault. Remaining the author of one's own change: Bushe asks people to describe their wants without believing that others are responsible for fulfilling them, which keeps each person responsible for their own experience inside the relationship. |
+| Where it differs from the book | Clear Leadership is designed to sustain collaboration and partnership at work, and Bushe also presents the cube as a way to move adults from 'conventional' to 'post-conventional' developmental stages, a ranking the book does not use. The author's record describes Reveal Your Experience as first-person, present-tense, and bodily; the cube shares the first-person, present-tense frame and adds a fixed four-part checklist that includes thoughts and wants. |
+| Limits and critiques | Bushe notes that people can be afraid to check out their stories because they frame having different experiences as conflict, and that a successful learning conversation needs more skills than the cube alone. |
+| Quoted from its sources | "Experience comprises four elements: Observations, Thoughts, Feelings, and Wants." (https://clearleadership.com/wp-content/uploads/The-Experience-Cube-for-IDG-Formatted-1.pdf) "What a video would record; we could play it back and hear or see it." (https://clearleadership.com/wp-content/uploads/The-Experience-Cube-for-IDG-Formatted-1.pdf) "All bodily sensations are feelings." (https://clearleadership.com/wp-content/uploads/The-Experience-Cube-for-IDG-Formatted-1.pdf) "influenced by the sensemaking or stories about the other that have not been checked out" (https://clearleadership.com/wp-content/uploads/The-Experience-Cube-for-IDG-Formatted-1.pdf) "They switch roles once the listener can paraphrase the talker's experience to the talker's satisfaction." (https://clearleadership.com/wp-content/uploads/The-Experience-Cube-for-IDG-Formatted-1.pdf) |
+| Mental model | humanistic and person-centered. The fit is loose: Bushe draws on Weick's sensemaking and on Bowen's self-differentiation, and he notes both similarities to and differences from Nonviolent Communication |
+| Structure | combining elements; a method |
+| Subjects | relationship present, emotion, thought belief, conflict, attention awareness, body |
+| In the survey | no |
+| In the vault | `provenance/provenance of the corpus round two.md`; Lines 118–121 of this record list the Authentic Relating moves the author works with, including Reveal Your Experience (first-person, present-tense, somatic) and revealing impact; the vault holds no Bushe note. |
+| Sources | https://www.gervasebushe.ca/; https://clearleadership.com/research-and-writing/; https://clearleadership.com/wp-content/uploads/The-Experience-Cube-for-IDG-Formatted-1.pdf |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *Experience Cube* | Bushe's model of experience as four elements present in all waking time, some easy to know and some requiring more attention and intention to uncover |
+| *observations* | what a video would record; Bushe calls observation the only element with an objective reality and counts any interpretation of what was said or done as a thought |
+| *interpersonal mush* | interaction in which what people say and do is shaped by unchecked stories about each other; Bushe says it grows in any collaboration that lasts longer than a few weeks |
+| *learning conversation* | an exchange in which two people inquire into their pattern of relating, each describing their experience through the cube and paraphrasing the other's until the speaker is satisfied |
+| *interpersonal clarity* | the state in which I know what my experience is, what your experience is, and the difference between them |
+
+#### Dialogic Organization Development (dialogic versus diagnostic OD) and the generative image
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | organization development |
+| Originators | Gervase R. Bushe and Robert J. Marshak |
+| Date | 2009 ('Revisioning Organization Development: Diagnostic and Dialogic Premises and Patterns of Practice', Journal of Applied Behavioral Science 45(3)); 2013 (Bushe, 'Dialogic OD: A Theory of Practice', OD Practitioner 45(1)); 2015 (Bushe and Marshak, eds., Dialogic Organization Development, Berrett-Koehler) |
+| Scale | an organization, a large group, a community or public, a small group |
+| Who decides | B, the facilitator shapes the process; the people supply the content. Sponsors and change agents reframe the concern and design the events; community members generate the ideas and choose what they will act on, though Bushe notes that generative images are sometimes supplied by leaders or consultants. |
+| What it holds | Bushe and Marshak identified a split in organization development between the original, diagnostic form, which follows the key assumptions and prescriptions of the field's founders, and dialogic forms, which are based in social constructionism and change a social system by changing the narratives and conversations that hold its reality in place. Bushe's generic dialogic process has three steps: sponsors reframe the concern driving change as a future-focused, possibility-centered question; in one or more events community members hold conversations unlike their usual ones, where generative images elicit new ideas; and afterward sponsors track and amplify the changes people choose to make on their own. He defines generative images as ideas, phrases, objects, pictures, manifestos, stories, or new words that let people see new alternatives for decisions and actions and that are compelling enough that people want to use them, with 'sustainable development' as his main example. |
+| The evidence | The support is practitioner case material and conceptual argument; Bushe lists the conditions his own projects needed in order to succeed, and the sources read report no comparative trials. Bushe states from his experience that attempts to transform a system toward a predetermined end almost never work and most often have negative, unforeseen consequences. |
+| Where it locates change | It locates change in a community's everyday conversations and narratives, which shift when a generative image lets people think differently and they then choose new actions on their own. |
+| How it bears on the book (the researcher's reading) | Who decides the content: Bushe says that in dialogic OD he does not facilitate convergence or collective decisions about which ideas to implement, but encourages people to act on what they find most personally relevant and meaningful, which keeps the content with the participants. The container that holds people while they change: Bushe concludes that a container's important qualities come mainly from the character and psychological maturity of the person hosting the event, whom he describes as knowing when to hold on to an agenda and when to let go and as a non-anxious presence. Change at the scale of a team or organization: The model claims that most organizational change comes from many people talking and thinking differently in daily work rather than from planned projects, with sponsors supplying resources and embedding what works. |
+| Where it differs from the book | Dialogic OD serves leaders who want to transform an organization or community and requires a sponsor with authority over resources, so its events take place within an organizational hierarchy. It works with collective narratives rather than with a person's inner experience. |
+| Limits and critiques | Bushe states that a sponsor with the authority to commandeer resources and support emergent change is required, or people are left with good ideas they cannot act on. |
+| Quoted from its sources | "Generative images allow us to see new alternatives for decisions and actions." (https://www.gervasebushe.ca/otherdocs/DOD_theory_of_practice.pdf) "I find attempts to transform to some predetermined end almost never work and most often result in negative, unforeseen consequences" (https://www.gervasebushe.ca/otherdocs/DOD_theory_of_practice.pdf) "the really important qualities of containers arise from the qualities and character of the leader in relation to the group being contained" (https://www.gervasebushe.ca/otherdocs/DOD_theory_of_practice.pdf) "Generally, when I use Dialogic OD I am not trying to facilitate convergence, or collective decisions, about which ideas or projects ought to be chosen or implemented." (https://www.gervasebushe.ca/otherdocs/DOD_theory_of_practice.pdf) "Forms of OD practice exist that do not adhere to key assumptions and prescriptions of the founders of OD." (https://api.openalex.org/works/doi:10.1177/0021886309335070) |
+| Mental model | dialogic. Bushe grounds it in social constructionism and complexity, and it gathers practices such as Open Space, World Café, and Appreciative Inquiry under one model of change |
+| Structure | tending conditions; a method |
+| Subjects | group process, meaning purpose, future vision, creativity play, relationship present |
+| In the survey | Appreciative Inquiry; this entry adds the survey cites Bushe only as a critic of Appreciative Inquiry; it lacks the distinction between diagnostic and dialogic OD, the generative image, and Bushe's generic dialogic change process with its conditions for success. |
+| In the vault | `notes/the facilitator tends conditions under which recognition might occur rather than transmitting a destination.md`; The vault holds no Bushe or Marshak note; this claim, that the facilitator arranges circumstances rather than handing over a fixed discovery, parallels Bushe's refusal to transform toward a predetermined end. |
+| Sources | https://api.openalex.org/works/doi:10.1177/0021886309335070; https://www.gervasebushe.ca/generativity.html; https://www.gervasebushe.ca/otherdocs/DOD_theory_of_practice.pdf |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *dialogic OD* | forms of organization development, based in social constructionism, that change a social system by changing the narratives and conversations that underpin its reality |
+| *diagnostic OD* | Bushe and Marshak's name for the original form of organization development, which follows the key assumptions and prescriptions of the field's founders |
+| *generative image* | an idea, phrase, object, picture, manifesto, story, or new word that lets people see new alternatives for decisions and actions and that they find compelling |
+| *container* | the bounded setting of a dialogic event; Bushe concluded that its most important qualities come from the character of the person convening and holding the event in relation to the group |
+| *probe* | an action people launch after the events to try out a new idea, which sponsors watch and amplify if it succeeds |
+
+#### Flawless Consulting
+
+| Field | Entry |
+|---|---|
+| Type | a technique |
+| Field of study | organization development |
+| Originators | Peter Block; taught through Designed Learning, the training company he founded |
+| Date | 1981 (Flawless Consulting: A Guide to Getting Your Expertise Used); later editions from 1999 |
+| Scale | two people, one helping, an organization, a small group |
+| Who decides | B, the facilitator shapes the process; the people supply the content. The consultant contracts for how the work will be done and reports what they see, while the client keeps responsibility for decisions and for the outcome. |
+| What happens | Flawless Consulting treats consulting as a partnership in which the consultant helps a client act without taking over the client's responsibility. Designed Learning, the training company Block founded, lists its phases as contracting (clarifying wants, expectations, roles, and how the two parties will work together), discovery (understanding what is happening beneath the presenting problem), feedback (sharing what the consultant sees in a way that supports insight, ownership, and choice), implementation (supporting action without taking over responsibility for the outcome), and completion (closing the work clearly and learning from it). The approach also teaches the consultant to work with the client's resistance, and it states that the goal is not to become flawless but to become more authentic. |
+| The evidence | Flawless Consulting is a practitioner model spread through books and workshops, and its training company claims more than one million people use it. The sources I opened record no controlled study. |
+| Where it locates change | Block locates change in the client's own decisions and actions, which the consultant can support through an honest relationship but cannot make on the client's behalf. |
+| How it bears on the book (the researcher's reading) | Remaining the author of one's own change: The rule to support action without taking over responsibility for the outcome keeps the person who is helped as the author of what is done. The container that holds people while they change: Contracting at the start makes wants, expectations, and roles explicit, and that agreement is what holds the helping relationship. Protection and defense: The method's instruction to work with resistance rather than push past it is a management counterpart to meeting a person's protective responses with respect. |
+| Where it differs from the book | The method serves getting a consultant's expertise used in organizations, and the consultant is usually paid by the client organization, so the aim is organizational action rather than a person's inner change. |
+| Quoted from its sources | "Clarify wants, expectations, roles, and how you will work together." (https://designedlearning.com/consult/) "Support action without taking over responsibility for the outcome." (https://designedlearning.com/consult/) "The goal isn't to become flawless. It's to become more authentic." (https://designedlearning.com/) |
+| Mental model | organizational. Block works in organization development consulting, and his stress on authenticity in the helping relationship is close to humanistic practice |
+| Structure | moving through stages; a sequence of phases |
+| Subjects | task work, relationship present, decision choice |
+| In the survey | Process consultation and humble inquiry (overlapping aim); this entry adds the survey's Schein entry already leaves ownership of the problem with the client; this entry adds Block's explicit contracting phase, his five-phase sequence, the rule of supporting action without taking over responsibility for the outcome, and work with resistance. |
+| In the vault | notes/the facilitator can supply meaning where the participant might have discovered it, so do not solve what the participant has not yet had the opportunity to encounter.md; The vault holds that a facilitator must not solve what a participant has not yet had the chance to encounter; it does not name Block. |
+| Sources | https://designedlearning.com/; https://designedlearning.com/consult/; https://en.wikipedia.org/wiki/Peter_Block; https://www.peterblock.com/; https://openlibrary.org/search.json?q=flawless+consulting&author=Peter+Block&fields=title,first_publish_year,publisher,author_name,publish_year&limit=10 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *contracting* | Contracting is the first phase, in which consultant and client clarify their wants, expectations, and roles and how they will work together. |
+| *discovery* | Discovery is the phase of understanding what is happening beneath the problem the client first presents. |
+| *feedback* | Feedback is the phase of sharing what the consultant sees in a way that supports the client's insight, ownership, and choice. |
+| *resistance* | Resistance is the client's pushing back against the consultant's help, which the method teaches the consultant to work with. |
+
+#### Positive Deviance approach
+
+| Field | Entry |
+|---|---|
+| Type | a technique |
+| Field of study | organization development |
+| Originators | Jerry Sternin and Monique Sternin (Save the Children, Vietnam), building on nutrition research such as Marian Zeitlin's; Richard Pascale, Jerry Sternin, and Monique Sternin (The Power of Positive Deviance) |
+| Date | 1970s (the concept appears in nutrition research; Marian Zeitlin and colleagues, Positive Deviance in Child Nutrition, 1990); 1990s (first put into practice by the Sternins in Vietnam); 2010 (The Power of Positive Deviance: How Unlikely Innovators Solve the World's Toughest Problems, Harvard Business Press) |
+| Scale | a community or public, an organization, a small group |
+| Who decides | B, the facilitator shapes the process; the people supply the content. Facilitators design the inquiry; the practices that spread come from community members who already succeed. |
+| What happens | The positive deviance approach starts from the observation that in every community some individuals or groups, with the same resources and facing similar or worse challenges, find better solutions than their peers through uncommon behaviors and strategies. A facilitated inquiry helps the community define the problem, identify these positive deviants, discover their uncommon practices, and design ways for everyone concerned to adopt them, so the solution comes from inside the community rather than from outside experts. Jerry and Monique Sternin first put it into practice with Save the Children in Vietnam in the 1990s, where malnutrition fell by 85 percent over a two-year pilot, and it was later used in nutrition programs in over 40 countries and in hospitals against infections. |
+| The evidence | Evidence consists of program evaluations and case studies, including the Vietnam pilot and hospital pilots that the CDC evaluated, which reported infection reductions of 30 to 73 percent. A 2015 systematic review in BMJ Quality & Safety by Baxter and colleagues found 37 healthcare studies whose processes were poorly defined, whose research quality was low, which rarely included comparison groups, and which typically lacked staff or patient involvement. |
+| Where it locates change | It locates the solution to a community's problem in practices some of its own members already use, which spread best when members discover and adopt them themselves. |
+| How it bears on the book (the researcher's reading) | Who decides the content: The approach withholds outside expert solutions and makes the community's own successful members the source of the content, a strong form of stance B in which the facilitator shapes only the process. Participation rather than watching: The Baxter review found that many healthcare applications lacked staff or patient involvement, which shows the method losing its defining feature when the community watches experts identify its deviants instead of discovering them itself. Whether the cause lies in the person or the system: Positive deviance holds structural conditions constant by comparing people with the same resources and asks what some of them do differently, so it looks for solutions in behavior without denying the constraints. |
+| Where it differs from the book | Positive deviance is an outcome-driven method for measurable problems such as child malnutrition or hospital infections, and it spreads observable practices rather than tending a person's inward recognition. Its premise that the community already holds the answer parallels the book's claim that its reader already knows what the book says, but the approach concerns practices others can see, not remembered inner knowledge. |
+| Limits and critiques | The Baxter review found that applications often required extensive resources and involved patients little, and it calls for efficacy to be compared with other improvement approaches. |
+| Quoted from its sources | "Positive Deviance (PD) is based on the observation that in every community there are certain individuals or groups whose uncommon behaviors and strategies enable them to find better solutions to problems than their peers, while having access to the same resources and facing similar or worse challenges." (https://positivedeviance.org/) "Communities already have the solutions; they are the best experts in solving their problems." (https://en.wikipedia.org/wiki/Positive_deviance) "At the end of the two-year pilot, malnutrition fell by 85%." (https://en.wikipedia.org/wiki/Positive_deviance) "Research quality was low, articles lacked detail and comparison groups were rarely included." (https://api.openalex.org/works/doi:10.1136/bmjqs-2015-004386) |
+| Mental model | participatory and emergent. An asset-based, community-driven approach to behavioral and social change |
+| Structure | moving through stages; a method |
+| Subjects | task work, learning skill, group process, justice power |
+| In the survey | no |
+| In the vault | `notes/the facilitator tends conditions under which recognition might occur rather than transmitting a destination.md`; The vault holds no positive deviance note; this claim, that the facilitator arranges circumstances rather than handing over a discovery, is the nearest neighbor. |
+| Sources | https://en.wikipedia.org/wiki/Positive_deviance; https://positivedeviance.org/; https://api.openalex.org/works/doi:10.1136/bmjqs-2015-004386 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *positive deviant* | a member of the community whose uncommon behavior lets them solve a problem better than peers who have the same resources |
+| *positive deviance approach* | an asset-based, problem-solving, community-driven approach in which the community discovers these successful behaviors and plans how to spread them |
+| *uncommon practices* | the specific behaviors and strategies of positive deviants that the rest of the community does not yet use |
+
+#### The six conversations of community (invitation, possibility, ownership, dissent, commitment, gifts)
+
+| Field | Entry |
+|---|---|
+| Type | a technique |
+| Field of study | organization development |
+| Originators | Peter Block; presented by A Small Group, the initiative Block started with other volunteers |
+| Date | 2008 (Community: The Structure of Belonging; second edition 2018) |
+| Scale | a community or public, a small group, an organization |
+| Who decides | B, the facilitator shapes the process; the people supply the content. A Small Group states that 'the initial leadership task is to name the debate, issue the invitation and provide the space', so the convener shapes the process and the people supply the content. |
+| What happens | The six conversations are a method for changing the habitual ways a community or organization talks, each replacing one habit: invitation replaces mandate, policy, and alignment; possibility replaces problem solving; ownership and cause replace explanation, blame, and denial; dissent and refusal replace resignation and lip service; commitment replaces hedging and barter; and gifts replace a focus on deficiencies. An invitation must make attendance a real choice and must say what will be required of those who come, and the ownership conversation asks each person, 'How have I contributed to creating the current reality?' The dissent conversation allows people to say no and to state doubts without justifying them, on the principle that a yes has no meaning where no is not possible. |
+| The evidence | The six conversations are a practitioner method, and the sources I opened record no evaluation of their outcomes. The conversation pages I read are on the website of A Small Group, which the Wikipedia article says Block started with volunteers, and those pages do not name Block's book. |
+| Where it locates change | The method locates community change in the kind of conversations people choose to join, holding that 'transformation occurs through choice, not mandate'. |
+| How it bears on the book (the researcher's reading) | Participation rather than watching: The invitation conversation holds that 'transformation occurs through choice, not mandate' and that people 'need to self-enroll in order to experience their freedom of choice', so participation must be chosen as well as active. Remaining the author of one's own change: The ownership question asks a person to see themselves as a cause of their situation without being blamed for it, which A Small Group calls the question that 'really confronts people with their freedom'. Conflict: The dissent conversation treats a spoken no as the start of commitment rather than an obstacle to it, since 'No' is 'the beginning of the conversation for commitment'. |
+| Where it differs from the book | The method is written for citizens and leaders who want to build community and civic accountability, so the unit of change is a group gathered in a place, not a person working alone. The ownership conversation asks people to accept a share of cause for a situation they share, which is close to the book's concern but aims at collective action. |
+| Quoted from its sources | "Transformation occurs through choice, not mandate." (https://www.asmallgroup.net/the-6-conversations/invitation/) "If 'no' is not an option, then it is not an invitation." (https://www.asmallgroup.net/the-6-conversations/invitation/) "If we cannot say "no" then our "yes" has no meaning." (https://www.asmallgroup.net/the-6-conversations/dissent/) "How have I contributed to creating the current reality?" (https://www.asmallgroup.net/the-6-conversations/ownership/) "Accountability is the willingness to acknowledge that we have participated in creating, through commission or omission, the conditions that we wish to see changed." (https://www.asmallgroup.net/the-6-conversations/ownership/) "The initial leadership task is to name the debate, issue the invitation and provide the space." (https://www.asmallgroup.net/the-6-conversations/invitation/) "People need to self-enroll in order to experience their freedom of choice." (https://www.asmallgroup.net/the-6-conversations/invitation/) "It is the belief that I am cause, not effect. This is the question that really confronts people with their freedom." (https://www.asmallgroup.net/the-6-conversations/ownership/) ""No" is the beginning of the conversation for commitment." (https://www.asmallgroup.net/the-6-conversations/dissent/) |
+| Mental model | participatory and emergent |
+| Structure | a word said aloud that acts; a method |
+| Subjects | group process, meaning purpose, justice power, future vision |
+| In the survey | no |
+| In the vault | `notes/nothing transforms from the audience.md`; The vault records that its practice lineages agree that watching does not change the watcher; Block adds that participation must be chosen. The vault does not name Block. |
+| Sources | https://www.asmallgroup.net/; https://www.asmallgroup.net/the-6-conversations/; https://www.asmallgroup.net/the-6-conversations/ownership/; https://www.asmallgroup.net/the-6-conversations/dissent/; https://www.asmallgroup.net/the-6-conversations/invitation/; https://en.wikipedia.org/wiki/Peter_Block; https://openlibrary.org/search.json?q=community+the+structure+of+belonging&author=Peter+Block&fields=title,first_publish_year,publisher,author_name&limit=10; https://openlibrary.org/works/OL2347436W.json |
+| Verified at those sources | in part |
+
+| Its own word | What it means |
+|---|---|
+| *invitation* | An invitation is a call to take part in which refusal is acceptable and attendance is a choice, and which states the demand that accepting will bring. |
+| *ownership* | Ownership is the belief that one is a cause of the present situation and not only its effect. |
+| *dissent* | Dissent is the expression of doubts, reservations, and refusal without having to justify them or move quickly into problem solving. |
+| *gifts* | Gifts are the capacities people bring, which the conversation attends to in place of their deficiencies. |
+| *accountability* | Accountability is the willingness to acknowledge that one has taken part, by acting or by failing to act, in creating the conditions one wishes to see changed. |
+
+#### The two design principles (DP1 and DP2) and the Participative Design Workshop
+
+| Field | Entry |
+|---|---|
+| Type | a technique |
+| Field of study | organization development |
+| Originators | Fred Emery and Merrelyn Emery (open systems theory) |
+| Date | 1971 (the Participative Design Workshop's invention); 1993 (Participative Design for Participative Democracy, edited by Merrelyn Emery); 1998 (Merrelyn Emery, 'Would the Real Participative Design Workshop (PDW) Stand Up Please?') |
+| Scale | an organization, a small group |
+| Who decides | B, the facilitator shapes the process; the people supply the content. Workshop managers brief participants on the design principles and supply tools of analysis, and the people who do the work design their own structure under the rule that there must be no imposition of a design on anybody else. |
+| What happens | The Emerys held that every organization is built on one of two design principles: under the first, redundancy of parts (DP1), those above in the hierarchy have the right and the responsibility to tell those below them what to do, and under the second, redundancy of functions (DP2), responsibility for coordination and control of the work is located with the people doing it. In the Participative Design Workshop, invented in 1971, the people who work in a section learn the two principles, score and discuss their present work against six criteria for intrinsic motivation, record in a matrix how skills and knowledge are distributed among them, and draw a new DP2 structure with a full set of measurable goals, under a binding agreement made beforehand that the organization's design principle will be DP2. Merrelyn Emery insisted that the change must be a legal change of design principle, because informal or cosmetic versions, such as renaming the supervisor a coach, leave the old structure in force and people know it. |
+| The evidence | The workshop is a practitioner method documented mainly by its developers. Merrelyn Emery reports documented outcomes of changing the design principle, of doing it badly, and of doing it in name only 'since the early 1950s', and the sources I opened contain no independent controlled comparison. |
+| Where it locates change | The Emerys locate people's motivation and behavior at work largely in the design principle of their structure, and they hold that people own a design, psychologically, only when they made it themselves. |
+| How it bears on the book (the researcher's reading) | Who decides the content: The workshop's rule that no design may be imposed on anybody gives the people who do the work the design of their own structure, while the facilitators supply only the principles and the tools. Knowing that something happened: Emery's tests separate a real change of design principle from its counterfeits, such as informal self-management, renaming the supervisor a coach, and laissez-faire, and she writes that when the legal structure is unchanged people are going to know the change is not real. Harm and its conditions: She lists what individuals suffer when the workshop is done badly, including fear at being given work they lack the skills for, confusion about goals, overwork, blaming among colleagues, and anger at being deceived. |
+| Where it differs from the book | The workshop redesigns the structure of paid work, and its developers treat that structure, not the person's inner life, as the main determinant of behavior at work. On the Emerys' account, much of what a person suffers at work comes from the design principle, so inward practice alone would leave the cause in place. |
+| Limits and critiques | Merrelyn Emery warns that laissez-faire is not DP2 and that behavior under laissez-faire is more maladaptive than behavior under DP1, citing Lewin, Lippitt and White; she also rejects workshops in which a representative team designs for others, because that violates the rule against imposition. |
+| Quoted from its sources | "those above in the hierarchy have the right and the responsibility to tell those below them what to do" (https://www.socialsciencethatactuallyworks.com/publications/the-genotypical-design-principles-and-democratizing-organizations/) "PRINCIPLE: There must be NO imposition of a design on anybody else." (https://www.socialsciencethatactuallyworks.com/wp-content/uploads/documents/the-genotypical-design-principles-and-democratizing-organizations/The%20Real%20Participative%20Design%20Workshop%20-%201998.pdf) "If the change is not a legal change of design principle, people are going to know it is not real and they will continue to behave according to the legal reality." (https://www.socialsciencethatactuallyworks.com/wp-content/uploads/documents/the-genotypical-design-principles-and-democratizing-organizations/The%20Real%20Participative%20Design%20Workshop%20-%201998.pdf) "Changing from DP1 to DP2 means that the managerial prerogative of personal dominance is negotiated away." (https://www.socialsciencethatactuallyworks.com/wp-content/uploads/documents/the-genotypical-design-principles-and-democratizing-organizations/The%20Real%20Participative%20Design%20Workshop%20-%201998.pdf) "Laissez faire is not DP2. DP1 is not DP2." (https://www.socialsciencethatactuallyworks.com/wp-content/uploads/documents/the-genotypical-design-principles-and-democratizing-organizations/The%20Real%20Participative%20Design%20Workshop%20-%201998.pdf) "In PD however, all of the workers are the experts as nobody from the outside can have the same intimate and detailed knowledge of a given workplace." (https://www.socialsciencethatactuallyworks.com/wp-content/uploads/documents/the-genotypical-design-principles-and-democratizing-organizations/Sociotechnical%20System.pdf) "We have had documented outcomes of really changing the design principle, doing it badly and doing it in name only since the early 1950s." (https://www.socialsciencethatactuallyworks.com/wp-content/uploads/documents/the-genotypical-design-principles-and-democratizing-organizations/The%20Real%20Participative%20Design%20Workshop%20-%201998.pdf) |
+| Mental model | participatory and emergent. The method rests on Fred Emery's open systems theory, the same base as the Search Conference |
+| Structure | telling the real thing from its counterfeit; a method |
+| Subjects | task work, justice power, group process, learning skill |
+| In the survey | Search Conference; this entry adds the survey holds the Search Conference from the same open systems theory; this entry adds the two design principles, the Participative Design Workshop, the rule against imposing a design, and Merrelyn Emery's tests for counterfeit versions. |
+| In the vault | notes/creating space is a condition, not an absence.md; The vault holds that space is an active condition a facilitator makes; Emery's statement that laissez-faire is not DP2 makes the same distinction for organizations. The vault does not name the Emerys. |
+| Sources | https://www.socialsciencethatactuallyworks.com/publications/the-genotypical-design-principles-and-democratizing-organizations/; https://www.socialsciencethatactuallyworks.com/wp-content/uploads/documents/the-genotypical-design-principles-and-democratizing-organizations/The%20Real%20Participative%20Design%20Workshop%20-%201998.pdf; https://www.socialsciencethatactuallyworks.com/wp-content/uploads/documents/the-genotypical-design-principles-and-democratizing-organizations/Sociotechnical%20System.pdf; https://en.wikipedia.org/wiki/Merrelyn_Emery |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *DP1 (redundancy of parts)* | DP1 is the design principle under which those above in the hierarchy have the right and the responsibility to tell those below them what to do. |
+| *DP2 (redundancy of functions)* | DP2 is the design principle under which responsibility for coordination and control is located with the people doing the work. |
+| *genotypical design principle* | The genotypical design principle is the basic principle an organization is built on, written into documents such as duty statements, job specifications, conditions of employment, and pay systems. |
+| *the six criteria* | The six criteria, from Emery and Thorsrud (1969), measure the conditions for intrinsic motivation and creativity at work, and the sixth is a desirable future based on good career paths. |
+| *deep slice* | A deep slice is a smaller team that attends the workshop when not everyone can, and which must take the process and its draft design back to everyone else for their involvement. |
+
+#### Three levels of organizational culture, and learning anxiety versus survival anxiety in unfreezing
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | organization development |
+| Originators | Edgar H. Schein |
+| Date | 1984 ('Coming to a New Awareness of Organizational Culture', Sloan Management Review); 1995 ('Kurt Lewin's Change Theory in the Field and in the Classroom: Notes Toward a Model of Managed Learning', MIT Sloan working paper 3821, invited for Systems Practice) |
+| Scale | an organization, a small group, one person alone |
+| Who decides | D, the facilitator directs or interprets with authority. In Schein's 'managed learning' the change agent chooses the target of change and supplies disconfirming data and role models, while the learner's own anxieties decide whether learning happens. |
+| What it holds | Schein describes an organization's culture at three levels: artifacts, the visible and audible surface such as architecture, office layout, dress, and behavior patterns; espoused values, the organization's stated values and rules of behavior; and shared basic underlying assumptions, taken for granted and usually unconscious, and he defines culture itself as the pattern of basic assumptions a group has invented, discovered, or developed in learning to cope with its problems. In his account of change, disconfirming information has to arouse 'survival anxiety', the feeling that without change one will fail to meet one's needs or ideals, but a second fear, 'learning anxiety', the fear that admitting something is wrong will cost one's effectiveness, self-esteem, and perhaps identity, leads people to deny or dismiss the disconfirming data. Schein argues that unless enough psychological safety is created the disconfirming information will be defended against and no change will take place, so the change agent's skill lies in balancing the threat of disconfirmation with enough safety. |
+| The evidence | Both parts are conceptual frameworks rather than tested models; by Schein's account the anxiety model elaborates Kurt Lewin's unfreezing and grew from his studies (1956, 1961, 1968) of attitude change among military and civilian prisoners of the Chinese Communists during the Korean War and from decades of encounters with resistance to change. Cummings, Bridgman, and Brown (Human Relations, 2015) argue that Lewin never developed the unfreeze, change, refreeze model on which Schein builds and that it took form after Lewin's death. |
+| Where it locates change | It locates change in a group's deep shared assumptions, which move only when the fear of learning is lowered enough that disconfirming information can be accepted and connected to something the learner cares about. |
+| How it bears on the book (the researcher's reading) | Protection and defense: Learning anxiety names the protective reaction to disconfirming information as fear for one's competence, self-esteem, and identity, and Schein's remedy is to meet that fear with safety rather than to overpower it. The container that holds people while they change: Schein lists the tactics that create psychological safety, such as working in groups, parallel systems that relieve daily work pressure, practice fields where errors are embraced, manageable steps, and coaching, which is an itemized account of a container. Harm and its conditions: Schein built the model partly from studying the coercive persuasion of prisoners and notes that unfreezing creates motivation to learn without controlling its direction, so a learner held captive may learn from hostile role models. |
+| Where it differs from the book | Schein's model is written for change agents who choose the target of change and manage the learner's anxieties toward it, whereas the book asks that the person remain the author of what they become. His 'managed learning' is an organizational program in which someone other than the learner decides what should be learned. |
+| Limits and critiques | Schein himself warns that unfreezing does not control or predict the direction of learning: in the prisoner studies and in cases of identification with the aggressor, learners changed in a direction others judged undesirable. |
+| Quoted from its sources | "In order to become motivated to change, we must accept the information and connect it to something we care about." (https://dspace.mit.edu/handle/1721.1/2576) "unless sufficient psychological safety is created, the disconfirming information will be denied or in other ways defended against" (https://dspace.mit.edu/handle/1721.1/2576) "unfreezing creates motivation to learn, but does not necessarily control or predict the direction of learning" (https://dspace.mit.edu/handle/1721.1/2576) "the pattern of basic assumptions that a given group has invented, discovered, or developed in learning to cope with its problems of external adaptation" (https://sloanreview.mit.edu/article/coming-to-a-new-awareness-of-organizational-culture/) "Shared basic assumptions are the deeply embedded, taken-for-granted behaviours which are usually unconscious" (https://en.wikipedia.org/wiki/Edgar_Schein) |
+| Mental model | organizational. Kurt Lewin's group dynamics; Schein also cites psychoanalytic and Tavistock work on denial, splitting, and projection as the source of his understanding of resistance |
+| Structure | nested levels; a model of what a person or group is made of |
+| Subjects | thought belief, emotion, group process, learning skill, identity self |
+| In the survey | Process consultation and humble inquiry; this entry adds the survey holds process consultation and humble inquiry, and lists Lewin's unfreezing under action research, but it lacks the three levels of culture, the two anxieties of change, and Schein's three mechanisms of unfreezing (disconfirmation, survival anxiety or guilt, and psychological safety). |
+| In the vault | `notes/the maneuvers that change a person's frame require a live protected setting a book is not.md`; The vault holds no Schein note; this claim, that maneuvers which change a person's frame need a live protected setting, is the nearest neighbor to Schein's psychological safety. |
+| Sources | https://en.wikipedia.org/wiki/Edgar_Schein; https://sloanreview.mit.edu/article/coming-to-a-new-awareness-of-organizational-culture/; https://sloanreview.mit.edu/article/how-can-organizations-learn-faster-the-challenge-of-entering-the-green-room/; https://dspace.mit.edu/handle/1721.1/2576; https://dspace.mit.edu/server/api/core/bitstreams/d3876a83-35fd-444c-8ac0-f1e257d15bf8/content; https://api.openalex.org/works/doi:10.1177/0018726715577707; https://hbr.org/2002/03/the-anxiety-of-learning |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *artifacts* | the visible and audible surface of a culture, such as its architecture, technology, office layout, dress, and behavior patterns |
+| *espoused values* | the organization's stated values and rules of behavior |
+| *basic underlying assumptions* | the taken-for-granted, usually unconscious beliefs a group learned while coping with its problems and now teaches to new members as the correct way to perceive and respond |
+| *survival anxiety* | the feeling that if we do not change we will fail to meet our needs or fail to achieve goals or ideals we have set for ourselves |
+| *learning anxiety* | the feeling that if we enter a learning process and admit something is wrong we will lose our effectiveness, our self-esteem, and maybe our identity |
+
+#### Transition model: endings, the neutral zone, and new beginnings (change versus transition)
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | organization development |
+| Originators | William Bridges |
+| Date | 1980 (Transitions: Making Sense of Life's Changes); 1991 (Managing Transitions) |
+| Scale | an organization, one person alone, a small group |
+| Who decides | B, the facilitator shapes the process; the people supply the content. In Managing Transitions a manager or consultant shapes the process by which people name their losses and move through the neutral zone; in the 1980 book a person applies the model to their own life. |
+| What it holds | Bridges distinguishes change, the external event or situation that takes place, from transition, the inner psychological process people go through in response. He describes transition in three phases: an ending, in which people identify what they are losing and learn to manage those losses; a neutral zone after letting go, when the old is gone but the new is not yet fully operational; and a new beginning, which involves new understandings, values, and attitudes and is marked by a release of energy in a new direction. He developed the model from his own transitions after resigning a professorship of American literature at Mills College in 1974, published it for individuals in 1980, and applied it to organizational change in 1991. |
+| The evidence | The model is a practitioner framework drawn, by his organization's account, from Bridges's own transitions, and the sources read report no empirical tests. Whether Bridges credits Arnold van Gennep's three-part rite of passage could not be confirmed: the William Bridges Associates pages and the Wikipedia article on Bridges fetched here do not mention van Gennep, and full-text search of Bridges's books was unavailable. |
+| Where it locates change | It locates change in a person's inner process of letting go of an old situation or identity, staying in an uncertain interval, and taking up a new one, which does not follow the schedule of the external change. |
+| How it bears on the book (the researcher's reading) | Timing and pacing: Bridges separates the date of an external change from the slower inner transition, which gives a leader or facilitator a reason to wait through the neutral zone rather than to announce the new beginning on the change's schedule. Knowing that something happened: Because an organization can complete a change while its people have not completed the transition, the external event is not evidence that anything inward has happened. Remaining the author of one's own change: Since transition is the person's own inner process, the model places the real work with the person going through it, even when someone else decided the change. |
+| Where it differs from the book | Managing Transitions is written for managers who need people to adapt to a change the organization has already decided, so the destination is set by others, whereas the book asks that the person remain the author of what they become. The model is a practitioner framework rather than a tested theory. |
+| Quoted from its sources | "Change is the external event or situation that takes place" (https://wmbridges.com/about/what-is-transition/) "Transition is the inner psychological process that people go through" (https://wmbridges.com/about/what-is-transition/) "when the old is gone but the new isn't fully operational" (https://wmbridges.com/about/what-is-transition/) "In 1974, he resigned from Mills College to pursue this interest" (https://wmbridges.com/about/william-bridges-bio/) "Originally published in 1991, the book was updated and expanded" (https://wmbridges.com/about/william-bridges-bio/) |
+| Mental model | other. A practitioner model of the inner psychological process of change, written first for individuals (1980) and then for managers leading organizational change (1991) |
+| Structure | moving through stages; a sequence of phases |
+| Subjects | identity self, grief, meaning purpose, future vision, memory past |
+| In the survey | Rites of passage (rites de passage); this entry adds the survey's rites-of-passage entry holds van Gennep's and Turner's three phases; Bridges adds the management literature's version, the distinction between an external change and the inner transition, and the neutral zone as a named interval in working life. |
+| In the vault | `notes/the threshold is a place one can inhabit rather than only a passage one crosses.md`; This vault claim holds the in-between as an inhabitable interval, citing van Gennep and Turner, and notes/book-structure.md states that the book's stay follows van Gennep's three-part rite; the vault holds no Bridges note (its hits for 'Bridges' are the ordinary verb). |
+| Sources | https://wmbridges.com/about/what-is-transition/; https://wmbridges.com/about/; https://wmbridges.com/about/william-bridges-bio/; https://en.wikipedia.org/wiki/William_Bridges_(author); https://en.wikipedia.org/wiki/Liminality; https://openlibrary.org/search/inside?q=%22every+transition+begins+with+an+ending%22 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *change and transition* | change is the external event or situation; transition is the inner psychological process people go through in response to it |
+| *ending* | the first phase, in which people identify what they are losing and learn to manage the losses; on this model every transition starts with an ending |
+| *neutral zone* | the in-between phase after letting go, when the old is gone but the new is not yet fully operational |
+| *new beginning* | the phase of new understandings, values, and attitudes, marked by a release of energy in a new direction |
+
+### Organizational learning
+
+#### Action inquiry: first-, second-, and third-person research and practice, and the developmental action logics
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | organizational learning |
+| Originators | William R. Torbert (action inquiry; first-, second-, and third-person research and practice); David Rooke and William R. Torbert (action logics, developed in collaboration with psychologist Susanne Cook-Greuter); Peter Reason and Hilary Bradbury edited the Handbook of Action Research |
+| Date | 1997 (Torbert, 'Developing Wisdom and Courage in Organizing and Sciencing', a chapter in Organizational Wisdom and Executive Courage, pp. 222–253, dated 1997 in Torbert's online library); 2001 (Reason and Bradbury, eds., Handbook of Action Research: Participative Inquiry and Practice); 2004 (Torbert and associates, Action Inquiry); 2005 (Rooke and Torbert, 'Seven Transformations of Leadership', Harvard Business Review, April) |
+| Scale | one person alone, two people as equals, a small group, an organization |
+| Who decides | B, the facilitator shapes the process; the people supply the content. In action inquiry the person or group studies its own action, with a consultant at most shaping the process; the action logics add an assessment that assigns a person a stage from outside, which is interpretation with authority. |
+| What it holds | Torbert divides inquiry into three kinds that he wants integrated: first-person research and practice, which covers everything a person can do by oneself, such as journals, autobiographical writing, dream records, meditation, prayer, and awareness-widening movement; second-person research and practice, which covers all conversations where those present share an intent to learn about themselves, one another, a shared activity, or their relationships; and third-person research and practice, which builds impersonal structures for people the initiators do not know and which, in its rarer good form, invites first- and second-person inquiry among them. Action inquiry is his name for pursuing this integration as a lifelong way of acting with attention to the present moment. With David Rooke he sorted leaders into seven 'action logics' (Opportunist, Diplomat, Expert, Achiever, Individualist, Strategist, and Alchemist), each a way a leader interprets the surroundings and reacts when power or safety is challenged, and presented them as a developmental sequence along which a leader can move through work on self-awareness. |
+| The evidence | The three kinds of research and practice are a conceptual scheme argued from practice; Rooke and Torbert base the action logics on 25 years of consulting experience and collaboration with Susanne Cook-Greuter and associate the first three logics with below-average performance, and the sources read report no independent replication. Martyn Hammersley's article 'Action research: a contradiction in terms?' (Oxford Review of Education, 2004) questions action research as a research method. |
+| Where it locates change | It locates change in attention to one's own action while it happens, shared in conversation with peers and built into organizations that invite the same inquiry, and it assumes that people's ways of making meaning develop through a sequence of later stages. |
+| How it bears on the book (the researcher's reading) | Participation rather than watching: Torbert's second-person research and practice requires everyone present to share an intent to learn about themselves and the others, which leaves no place for an observer who is not also inquiring. Remaining the author of one's own change: First-person research and practice is inquiry a person conducts alone, such as autobiographical writing done first for oneself, then shared with trusted others, then with strangers, which is close to the book's reader facilitating themselves. Who decides the content: The action logics assign a person a stage from outside and rank the stages by performance, which the book would weigh against its aim of leaving the person the author of what they become. |
+| Where it differs from the book | Rooke and Torbert present the action logics as a ranked developmental sequence tied to leadership performance, which ranks people, while the book avoids ranking the people it addresses. Torbert's aims include organizational effectiveness and a changed social science, not only a person's inner life. |
+| Limits and critiques | A stage typology used in coaching or selection can label people, and Rooke and Torbert associate the first three logics with below-average performance. |
+| Quoted from its sources | "This transformational process integrates personal, interpersonal, and wider organizational and social change through what I call first-, second-, and third-person research and practice." (http://www.williamrtorbert.com/wp-content/uploads/2013/09/DevWisdomCourage.pdf) "In general this includes all of those forms of research and practice that one can do by oneself." (http://www.williamrtorbert.com/wp-content/uploads/2013/09/DevWisdomCourage.pdf) "second-person research and practice includes all conversations where those present share an intent to learn about themselves, about the others present, about a shared activity, or about the relationships that are forming, transforming, or dissolving." (http://www.williamrtorbert.com/wp-content/uploads/2013/09/DevWisdomCourage.pdf) "how they interpret their surroundings and react when their power or safety is challenged" (https://hbr.org/2005/04/seven-transformations-of-leadership) "1st-, to 2nd-, to 3rd-person research, that is, my research on my own action, aimed primarily at personal change" (https://en.wikipedia.org/wiki/Action_research) |
+| Mental model | participatory and emergent. Action research; the action logics are a developmental stage model |
+| Structure | awareness turned back on itself; a method |
+| Subjects | attention awareness, learning skill, identity self, group process, justice power |
+| In the survey | Action research; this entry adds the survey holds Lewin's action research and participatory action research and names co-operative inquiry (John Heron and Peter Reason) as a related name, but not Torbert's first-, second-, and third-person research and practice, action inquiry, or the action logics. |
+| In the vault | `ops/second person ecology.md`; The vault's survey of the second person, the jobs a second person does beside a practitioner, has no Torbert entry; his second-person research and practice is an action-research account of inquiry done with others that the survey does not include. The vault's notes hold no Torbert note. |
+| Sources | https://www.williamrtorbert.com/; https://www.williamrtorbert.com/action-inquiry/; https://www.williamrtorbert.com/resources/cdai-cyber-library/; http://www.williamrtorbert.com/wp-content/uploads/2013/09/DevWisdomCourage.pdf; https://hbr.org/2005/04/seven-transformations-of-leadership; https://api.openalex.org/works?search=Rooke%20Torbert%20seven%20transformations%20of%20leadership&per-page=5; https://en.wikipedia.org/wiki/Action_research; https://www.peterreason.net/action-research/ |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *first-person research and practice* | all the forms of inquiry a person can do alone, such as journals, autobiography, dream records, meditation, prayer, and movement done to widen awareness |
+| *second-person research and practice* | conversations in which those present share an intent to learn about themselves, the others, a shared activity, or their relationships, with feedback among them; Torbert says its normative direction is toward peer relations |
+| *third-person research and practice* | impersonal structures for people the initiators do not know; the common kind requires conformity, and the rarer kind invites first- and second-person inquiry among participants |
+| *action logic* | a leader's internal way of interpreting the surroundings and reacting when power or safety is challenged; Rooke and Torbert name seven, from Opportunist to Alchemist |
+| *action inquiry* | Torbert's term for a lifelong process of transformational learning that individuals, teams, and whole organizations can undertake |
+
+#### Communities of practice and legitimate peripheral participation (situated learning)
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | organizational learning |
+| Originators | Jean Lave and Etienne Wenger |
+| Date | 1991 (Situated Learning: Legitimate Peripheral Participation); 1998 (Wenger, Communities of Practice: Learning, Meaning, and Identity) |
+| Scale | a community or public, a small group, an organization, two people, one helping |
+| Who decides | A, the person decides all content. No facilitator directs the learning; the community's members and its ongoing practice decide what newcomers take part in, and old-timers control access. |
+| What it holds | Lave and Wenger hold that learning is not the transfer of knowledge into an individual but a newcomer's growing participation in a community of practice. Newcomers begin with simple, low-risk tasks that are nonetheless productive and necessary, and as they become old-timers with recognized mastery their participation takes forms more central to the community, so that learners reconstruct their identity as they change the form of their membership. They drew the idea from studies of apprenticeship among Yucatán midwives, Liberian tailors, navy quartermasters, and meat cutters, and Wenger's 1998 book extended it into a theory of learning, meaning, and identity. |
+| The evidence | The theory rests on ethnographic studies of apprenticeship and later case studies rather than on controlled tests. Andrew Cox's 2005 comparative review finds that the four founding works conceive community, learning, power, change, and informality differently, and that Wenger, McDermott, and Snyder's later managerial work redefined communities of practice as groups managers can foster for knowledge management; Wenger himself later abandoned the term legitimate peripheral participation in favor of the idea of duality. |
+| Where it locates change | It locates change in a person's changing participation in a community's actual practice, through which skill and identity develop together. |
+| How it bears on the book (the researcher's reading) | Participation rather than watching: Legitimate peripheral participation makes real but low-risk participation, not observation, the way into a practice, which gives the book's claim that watching does not change the watcher a detailed mechanism for newcomers. Remaining the author of one's own change: Situated learning describes identity change as the result of growing membership in a practice, a case of being changed by taking part without anyone prescribing what the learner should become. Who decides the content: Because old-timers can confer legitimacy and control a newcomer's access to the community's practices, authority over learning in this model sits in access rather than in instruction. |
+| Where it differs from the book | The model concerns learning a shared craft or trade inside a community, not a person's inner life, and it gives no role to a facilitator or to a book read alone. Its later managerial use treats communities of practice as tools organizations can cultivate, which Cox describes as a fundamental redefinition of the concept. |
+| Limits and critiques | Because old-timers control access and legitimacy, a community of practice can hold newcomers at the edge or exclude them. |
+| Quoted from its sources | "Newcomers become members of a community initially by participating in simple and low-risk tasks that are nonetheless productive and necessary." (https://en.wikipedia.org/wiki/Legitimate_peripheral_participation) "they reconstruct their identity (i.e., becoming a different person) and evolve the form of their membership in the community" (https://en.wikipedia.org/wiki/Situated_learning) "the old timer has both the power to confer legitimacy to the newcomer, and to control the newcomer's level of access to different community practices" (https://en.wikipedia.org/wiki/Legitimate_peripheral_participation) "share a concern or a passion for something they do and learn how to do it better as they interact regularly" (https://en.wikipedia.org/wiki/Community_of_practice) |
+| Mental model | learning theory. A social theory of learning drawn from the anthropology of apprenticeship |
+| Structure | tending conditions; a model of what a person or group is made of |
+| Subjects | learning skill, identity self, group process, justice power |
+| In the survey | no |
+| In the vault | `notes/nothing transforms from the audience.md`; The vault holds no Lave or Wenger note; this claim, that the practice lineages agree watching does not change the watcher, is the nearest neighbor. |
+| Sources | https://en.wikipedia.org/wiki/Legitimate_peripheral_participation; https://en.wikipedia.org/wiki/Community_of_practice; https://en.wikipedia.org/wiki/Situated_learning; https://api.openalex.org/works/doi:10.1177/0165551505057016 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *community of practice* | a group of people who share a concern or a passion for something they do and learn how to do it better as they interact regularly |
+| *legitimate peripheral participation* | the way newcomers join a community by taking part in simple, low-risk, but real tasks, with their participation moving toward full membership as they gain mastery |
+| *old-timers and newcomers* | the established members, who can confer legitimacy on newcomers and control their access to the community's practices, and the people entering it |
+| *domain, community, practice* | the three elements of a community of practice: the shared area of concern, the relationships among members, and the shared ways of doing things the community develops and keeps |
+
+#### Intervention theory (the interventionist's three primary tasks) and Model I and Model II theories-in-use, with organizational defensive routines and skilled incompetence
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | organizational learning |
+| Originators | Chris Argyris; Model I and Model II developed partly with Donald Schön |
+| Date | 1970 (Intervention Theory and Method: A Behavioral Science View, Addison-Wesley); 1974 (Theory in Practice, with Donald Schön); 1986 ('Skilled Incompetence', Harvard Business Review, September); 1990 (Overcoming Organizational Defenses) |
+| Scale | an organization, a small group, two people, one helping, one person alone |
+| Who decides | B, the facilitator shapes the process; the people supply the content. The interventionist is responsible for helping the client produce valid information, while the choice and the commitment stay with the client. |
+| What it holds | Argyris held that an interventionist must focus on three primary tasks whatever the client's substantive problem, and he named valid information, free choice, and internal commitment as integral parts of any intervention: the client acts on information that is valid, chooses freely, and is internally committed to what it chose. Partly with Donald Schön, he later set out two theories-in-use: Model I, governed by defining goals and achieving them unilaterally, maximizing winning and minimizing losing, minimizing negative feelings, and being rational; and Model II, governed by maximizing valid information, free and informed choice for all concerned, and high internal commitment to the choice. Organizational defensive routines, in his account, are actions or policies that keep people from experiencing embarrassment or threat and, in doing so, keep them from finding and removing its causes, and 'skilled incompetence' is his term for managers using practiced routine behavior to produce what they do not intend, for example by smoothly avoiding conflict. |
+| The evidence | The support comes from Argyris's case studies and observations reported in his books and articles, such as his study of a metropolitan newspaper (Behind the Front Page, 1974), not from controlled trials, and he reported in several books that many people espouse Model II but are not capable of acting on it. Evert van de Vliert published a critique titled 'Inconsistencies in the Argyris Intervention Theory' (Journal of Applied Behavioral Science, 1977), whose content was not read here. |
+| Where it locates change | It locates change in making the reasoning that actually governs action visible and testable, so that people choose freely on valid information and commit to what they chose. |
+| How it bears on the book (the researcher's reading) | Who decides the content: Argyris's three tasks make the interventionist responsible for the quality of the information and leave the choice and the commitment to the client, which is an exact statement of the division in stance B. Remaining the author of one's own change: Internal commitment, in Argyris's sense, follows from the client's own free choice on valid information, which is close to the book's condition that the person remain the author of what they become. Protection and defense: Defensive routines and skilled incompetence describe how an organization's protection against embarrassment also blocks the learning that would remove the causes of the embarrassment. |
+| Where it differs from the book | Argyris aimed at organizational effectiveness and learning, and his interventionist works on the quality of a client's reasoning and information rather than on the client's inner experience. His measure of success is better decisions and learning in the organization, not a person's recognition of what they already know. |
+| Limits and critiques | Argyris himself reported that many people who espouse Model II are not capable of behaving according to it, which means that training in its vocabulary does not by itself change what people do. |
+| Quoted from its sources | "Maximize valid information. Have free and informed choice for all concerned." (https://www.actionscience.com/actinq.htm) "Managers use practiced routine behavior (skill) to produce what they do not intend (incompetence)." (https://hbr.org/1986/09/skilled-incompetence) |
+| Mental model | learning theory. Argyris and Schön's action science, which studies the reasoning that actually governs action |
+| Structure | awareness turned back on itself; a model of what a person or group is made of |
+| Subjects | thought belief, learning skill, group process, decision choice, emotion |
+| In the survey | Double-loop learning; this entry adds the survey holds double-loop learning, the ladder of inference, and espoused theory versus theory-in-use, but not the interventionist's three primary tasks (1970), the governing values of Model I and Model II, organizational defensive routines, or skilled incompetence. |
+| In the vault | `notes/donald schon.md`; The vault's Schön note lists Theory in Practice (with Chris Argyris, 1974) among his works; the vault holds no Argyris note, and the survey's double-loop entry marks the vault as not yet met. |
+| Sources | https://en.wikipedia.org/wiki/Chris_Argyris; https://www.actionscience.com/actinq.htm; https://hbr.org/1986/09/skilled-incompetence; https://hbr.org/1991/05/teaching-smart-people-how-to-learn; https://eric.ed.gov/?id=ED054413; https://eric.ed.gov/?id=EJ188664; https://openlibrary.org/search/inside?q=%22three+primary+tasks%22; https://openlibrary.org/search/inside?q=%22free+choice%2C+and+internal+commitment%22; https://openlibrary.org/search/inside?q=%22free+choice%2C+and+internal+commitment+are+considered+integral+parts%22; https://openlibrary.org/search/inside?q=%22organizational+defensive+routines+are%22; https://openlibrary.org/search/inside?q=%22experiencing+embarrassment+or+threat%22; https://openlibrary.org/search/inside?q=%22espouse+Model+II%22 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *valid information, free choice, internal commitment* | the three conditions Argyris called integral parts of any intervention in 1970 and later made the governing values of Model II, where free choice is stated as free and informed choice |
+| *Model I* | a theory-in-use governed by defining goals and achieving them unilaterally, maximizing winning and minimizing losing, minimizing the expression of negative feelings, and being rational |
+| *Model II* | a theory-in-use governed by maximizing valid information, free and informed choice for all concerned, and high internal commitment to the choice with continued monitoring of how it is carried out |
+| *organizational defensive routines* | actions or policies that keep people from experiencing embarrassment or threat and at the same time keep them from identifying and removing its causes |
+| *skilled incompetence* | the use of practiced routine behavior (the skill) to produce what one does not intend (the incompetence) |
+
+#### SECI model of organizational knowledge creation (socialization, externalization, combination, internalization) and ba
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | organizational learning |
+| Originators | Ikujiro Nonaka and Hirotaka Takeuchi; ba with Noboru Konno |
+| Date | 1991 ('The Knowledge-Creating Company', Harvard Business Review 69(6)); 1994 ('A Dynamic Theory of Organizational Knowledge Creation', Organization Science); 1995 (The Knowledge-Creating Company, Oxford University Press); 1998 ('The Concept of "Ba": Building a Foundation for Knowledge Creation', California Management Review 40(3)) |
+| Scale | an organization, a small group, two people as equals |
+| Who decides | B, the facilitator shapes the process; the people supply the content. Managers design the settings (ba) and, in the authors' 'middle-up-down' model, middle managers bridge top management's ideals and frontline realities, while employees supply the knowledge. |
+| What it holds | Nonaka and Takeuchi hold that organizations create new knowledge through a spiral of four conversions between tacit knowledge, learned by experience, and explicit knowledge, which can be written down: socialization shares tacit knowledge through observation, imitation, and practice as in apprenticeship; externalization makes tacit knowledge explicit so it can be shared; combination merges pieces of explicit knowledge; and internalization turns explicit knowledge back into tacit know-how through doing. Their 1995 book describes tacit knowledge as learned only by experience and communicated only indirectly, through metaphor and analogy, and gives as an example a software programmer at Matsushita who apprenticed with a master baker to learn kneading and then conveyed that knowledge to the engineers of the Home Bakery machine. Nonaka and Konno later added ba, a shared physical, virtual, or mental space for emerging relationships, and argued that knowledge is embedded in ba and that each of the four conversion modes is promoted by its own kind of ba. |
+| The evidence | The model comes from case studies of Japanese companies such as Honda, Canon, and Matsushita, and later survey studies apply it; the sources read report no controlled tests. Stephen Gourlay (Journal of Management Studies, 2006) argues that none of the four modes is supported by evidence that cannot be explained more simply and that the framework omits inherently tacit knowledge, and Wikipedia records critiques that the model rests on Japanese organizations and that its fixed sequence of modes is questionable. |
+| Where it locates change | It locates change in shared settings where people's unspoken know-how is exchanged in practice, put into words and images, recombined, and learned again by doing. |
+| How it bears on the book (the researcher's reading) | The container that holds people while they change: Ba names the shared space, physical, virtual, or mental, that has to exist before knowledge can be created, and Nonaka and Konno match a kind of space to each kind of learning. Participation rather than watching: Socialization and internalization both require doing, through apprenticeship and learning by doing, so on this model tacit knowledge passes only to people who practice alongside those who hold it. Knowing that something happened: The model's claim that tacit knowledge can be converted into explicit statements is exactly what its critics dispute, which bears on whether a person can put a tacit change into words without the words leaving out part of it. |
+| Where it differs from the book | The model serves corporate innovation and treats knowledge creation as something management can organize, whereas the book is concerned with a person's own recognition. It also treats tacit knowledge as convertible into explicit form, while Wikipedia's article on tacit knowledge contrasts Nonaka's view with Polanyi's original view of tacit knowing. |
+| Limits and critiques | Critics such as Gourlay argue that the framework leaves out knowledge that is inherently tacit, so an organization that tries to capture practitioners' know-how in documents on this model may miss the part that cannot be stated. |
+| Quoted from its sources | "Externalization is the process of making tacit knowledge explicit, wherein knowledge is crystallized and is thus able to be shared." (https://en.wikipedia.org/wiki/SECI_model_of_knowledge_dimensions) "Nonaka's view may be contrasted with Polanyi's original view of tacit knowing." (https://en.wikipedia.org/wiki/Tacit_knowledge) "Each of the knowledge conversion modes is promoted by a specific ba." (https://api.openalex.org/works/doi:10.2307/41165942) |
+| Mental model | organizational. A theory of organizational knowledge creation built from Japanese firms, using Michael Polanyi's distinction between tacit and explicit knowing |
+| Structure | a repeating cycle; a model of what a person or group is made of |
+| Subjects | learning skill, creativity play, thought belief, group process, body |
+| In the survey | no |
+| In the vault | `notes/michael polanyi.md`; The vault's Polanyi note and its reading record of The Tacit Dimension hold tacit knowing ('we can know more than we can tell') but make no link to Nonaka; the SECI model is the best-known organizational use of Polanyi's term, and its critics say it departs from him. |
+| Sources | https://en.wikipedia.org/wiki/SECI_model_of_knowledge_dimensions; https://en.wikipedia.org/wiki/Tacit_knowledge; https://en.wikipedia.org/wiki/Ikujiro_Nonaka; https://global.oup.com/academic/product/the-knowledge-creating-company-9780195092691; https://api.openalex.org/works/doi:10.2307/41165942; https://api.openalex.org/works/doi:10.1287/orsc.5.1.14; https://api.openalex.org/works/doi:10.1111/j.1467-6486.2006.00637.x; https://hbr.org/2007/07/the-knowledge-creating-company |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *tacit knowledge* | knowledge learned only by experience that a person cannot fully state, which the authors say is communicated only indirectly, through metaphor and analogy |
+| *socialization* | sharing tacit knowledge from person to person through observation, imitation, and practice, as in apprenticeship |
+| *externalization* | the process of making tacit knowledge explicit so that it can be shared |
+| *ba* | a Japanese word the authors equate with 'place': a shared physical, virtual, or mental space for emerging relationships, in which knowledge is created |
+| *middle-up-down management* | the authors' model in which middle managers bridge top management's ideals and the realities of frontline work |
+
+### Safety science
+
+#### Blameless postmortem (incident debriefing), with Just Culture, the 'New View' of human error, and Safety-II
+
+| Field | Entry |
+|---|---|
+| Type | a technique |
+| Field of study | safety science |
+| Originators | John Allspaw and colleagues at Etsy (with Morgan Evans and Daniel Schauenberg for the 2016 guide); Google's Site Reliability Engineering teams (chapter by John Lunney and Sue Lueder); Sidney Dekker (the New View, Just Culture); Erik Hollnagel (Safety-II); James Reason's earlier theory of a just culture (1997) |
+| Date | 2002 (Dekker, 'Reconstructing Human Contributions to Accidents: The New View on Error and Performance', Journal of Safety Research 33(3)); 2012 (Allspaw, 'Blameless PostMortems and a Just Culture', Etsy's Code as Craft blog); 2014 (Hollnagel, Safety-I and Safety-II); 2016 (Site Reliability Engineering, O'Reilly, chapter 15, 'Postmortem Culture: Learning from Failure'; Etsy's Debriefing Facilitation Guide) |
+| Scale | a small group, an organization, two people, one helping |
+| Who decides | B, the facilitator shapes the process; the people supply the content. A facilitator who was not involved in the incident runs the timeline and asks the questions; the people involved supply the content, and the Etsy guide says the aim is to learn, not to merge the accounts into one story or to settle on a single fix. |
+| What happens | After an incident, the people involved meet with a facilitator who was not part of the event to reconstruct its timeline, talking through what happened for each person at each stage and what made their actions make sense at the time, on the assumption, in the words of Google's SRE book, that everyone involved had good intentions and did the right thing with the information they had. Etsy's 2016 guide tells facilitators to seek descriptions rather than explanations, to meet beforehand with the people who would usually be blamed so that they feel safe telling their story, to resist the urge to find a single cause and a single fix, and to count a debrief a success if at least one person learned something that will change their work and at least half would attend another. The practice rests on Sidney Dekker's 'New View', which holds that people do what makes sense to them at the time given their experience, tools, and understanding, and rejects labeling what people did not do as 'human error' and calling it the cause; on Just Culture, which asks 'What went wrong?' rather than 'Who caused the problem?' while keeping accountability for misconduct; and on Erik Hollnagel's Safety-II, which directs investigation toward how things usually go right. |
+| The evidence | The software practice rests on practitioner reports from Etsy and Google and on safety-science theory developed in aviation and healthcare, and Google's chapter states that blameless culture originated in those industries; the sources read report no controlled comparison of blameless and blaming reviews. M. D. Cooper published a critique in Safety Science titled 'The Emperor has no clothes: A critique of Safety-II', whose content was not read here. |
+| Where it locates change | It locates the causes of most failures in the conditions of work and locates learning in the honest accounts of the people closest to the work, which they give only when they do not fear punishment. |
+| How it bears on the book (the researcher's reading) | Whether the cause lies in the person or the system: Google's chapter states that you cannot fix people but can fix systems and processes to better support the choices people make, which places the cause of most failures in the system rather than the person. The container that holds people while they change: The Etsy guide makes safety the precondition of candid speech, says that fear of retribution, even the subtle social kind, silences participants, and closes by calling the debrief a container for learning. Knowing that something happened: The guide's two tests, whether at least one person learned something that will affect their future work and whether at least half would come to another debrief, give a modest, checkable criterion for telling a meeting in which something was learned from one in which nothing was. |
+| Where it differs from the book | The blameless postmortem serves the reliability of production systems and the learning of an organization, not a person's transformation. Just Culture still sorts behavior into honest error and punishable misconduct, which leaves the final judgment with the organization. |
+| Limits and critiques | The Etsy guide notes that not every organization is comfortable with open access to debriefing data and that without safety from retribution effective debriefings are nearly impossible, so the method fails where the wider culture punishes candor. |
+| Quoted from its sources | "A blamelessly written postmortem assumes that everyone involved in an incident had good intentions and did the right thing with the information they had." (https://sre.google/sre-book/postmortem-culture/) "Blameless culture originated in the healthcare and avionics industries where mistakes can be fatal." (https://sre.google/sre-book/postmortem-culture/) "The debriefing exists to hear (and ask about) people's descriptions, not their explanations." (https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf) "Fear of retribution or punishment (even the subtle social kind) will silence participants." (https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf) "you'll build a container for learning that enables people to bear witness to the complexity of the work being done around them every single day" (https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf) "The purpose of an investigation is to understand how things usually go right as a basis for explaining how things occasionally go wrong." (https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf) |
+| Mental model | other. Safety science and cognitive systems engineering, carried into software operations |
+| Structure | tending conditions; a method |
+| Subjects | task work, learning skill, memory past, emotion, decision choice, justice power |
+| In the survey | After-action review; Agile retrospective; this entry adds the survey holds the after-action review and the agile retrospective but not the blameless postmortem, the Etsy guide's rules for the debriefing facilitator, Just Culture, the New View of human error, or Safety-II; the guide also names Gary Klein's Critical Decision Method as the basis of its interviewing technique. |
+| In the vault | `notes/sovereignty occupies the middle between everything happens to me and everything is my responsibility.md`; The vault holds no note on incident review; Just Culture's position between blaming individuals and holding no one accountable parallels this claim, which places sovereignty between 'everything happens to me' and 'everything is my responsibility'. |
+| Sources | https://sre.google/sre-book/postmortem-culture/; https://en.wikipedia.org/wiki/Site_reliability_engineering; https://extfiles.etsy.com/DebriefingFacilitationGuide.pdf; https://en.wikipedia.org/wiki/Just_culture; https://en.wikipedia.org/wiki/Sidney_Dekker; https://en.wikipedia.org/wiki/Erik_Hollnagel; https://api.openalex.org/works/doi:10.1016/S0022-4375(02)00032-4; https://api.openalex.org/works?search=critique%20of%20Safety-II&per-page=5 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *blameless postmortem* | a written record and review of an incident that seeks its contributing causes without indicting any individual or team for bad or inappropriate behavior |
+| *New View (of human error)* | Dekker's view that people do what makes sense to them at the time, so an investigation reconstructs their perspective rather than listing what they failed to do |
+| *just culture* | an organizational culture that asks what went wrong rather than who caused the problem, while individuals may still be held accountable for misconduct or negligence |
+| *Safety-II* | Hollnagel's contrast to the traditional view he calls Safety-I: investigation seeks to understand how things usually go right as the basis for explaining how they occasionally go wrong |
+| *descriptions, not explanations* | the Etsy guide's rule that a debrief gathers people's accounts of what they saw and did, not their theories of why it happened |
+
+### Negotiation and conflict
+
+#### Difficult Conversations: the three conversations (the 'What Happened?' Conversation, the Feelings Conversation, the Identity Conversation)
+
+| Field | Entry |
+|---|---|
+| Type | a technique |
+| Field of study | negotiation and conflict |
+| Originators | Douglas Stone, Bruce Patton, and Sheila Heen (Harvard Negotiation Project) |
+| Date | 1999 (Difficult Conversations: How to Discuss What Matters Most) |
+| Scale | two people as equals, one person alone, a small group |
+| Who decides | A, the person decides all content. The book is written for the people in the conversation, who apply it themselves without a facilitator. |
+| What happens | Stone, Patton, and Heen hold that each difficult conversation is really three conversations. In the 'What Happened?' Conversation people disagree about what has happened or what should happen and who said what; in the Feelings Conversation each person asks and answers questions about feelings, such as whether their feelings are valid and appropriate; and in the Identity Conversation each person talks with themselves about what the situation means to them. The book advises moving from certainty to curiosity about the other person's view and presents its approach as based on fifteen years of work at the Harvard Negotiation Project and consultations with thousands of people. |
+| The evidence | The book is a practitioner synthesis based, in the publisher's description, on fifteen years of work at the Harvard Negotiation Project and consultations with thousands of people; no controlled trials or published critiques were found at the sources read. The three conversations were confirmed only through a book-search service whose pages could not be read as raw text, so this entry is marked as partly verified. |
+| Where it locates change | It locates the difficulty of hard conversations in three layers that run at once, especially the unspoken identity conversation inside each person, which people can learn to notice and handle. |
+| How it bears on the book (the researcher's reading) | Conflict: The three-conversations model separates the argument about facts from the feelings and from each person's sense of what the situation says about them, so a disagreement can be held without being settled on the facts alone. Protection and defense: The Identity Conversation names the inner conversation about what the situation means to me, which gives a person a place to look when they feel threatened in a disagreement. Being seen and recognized by another: Moving from certainty to curiosity asks each party to learn the other's view before judging it, which is a condition for being seen accurately during a conflict. |
+| Where it differs from the book | The book is a guide for people handling workplace and personal conflicts, aiming at better conversations and relationships rather than at transformation. It is addressed to the parties themselves rather than to a facilitator or a group. |
+| Quoted from its sources | "Based on fifteen years of work at Harvard Negotiation Project and consultations with thousands of people." (https://www.penguinrandomhouse.com/books/331191/difficult-conversations-by-douglas-stone-bruce-patton-and-sheila-heen/) |
+| Mental model | other. Negotiation and conflict research from the Harvard Negotiation Project |
+| Structure | combining elements; a method |
+| Subjects | conflict, emotion, identity self, relationship present |
+| In the survey | no |
+| In the vault | not yet met |
+| Sources | https://openlibrary.org/search/inside?q=%22difficult+conversation+is+really+three+conversations%22; https://openlibrary.org/search/inside?q=%22involve+disagreement+about+what+has+happened+or+what+should+happen%22; https://openlibrary.org/search/inside?q=%22also+asks+and+answers+questions+about+feelings%22; https://openlibrary.org/search/inside?q=%22the+conversation+we+each+have+with+ourselves+about+what+this+situation+means+to+us%22; https://openlibrary.org/search/inside?q=%22the+identity+conversation%22; https://openlibrary.org/search/inside?q=%22from+certainty+to+curiosity%22; https://www.penguinrandomhouse.com/books/331191/difficult-conversations-by-douglas-stone-bruce-patton-and-sheila-heen/; https://www.triadconsultinggroup.com/; https://en.wikipedia.org/wiki/Sheila_Heen |
+| Verified at those sources | in part |
+
+| Its own word | What it means |
+|---|---|
+| *the 'What Happened?' Conversation* | the part of a difficult conversation in which people disagree about what has happened or what should happen and who said what |
+| *the Feelings Conversation* | the part that asks and answers questions about feelings, such as whether one's feelings are valid and appropriate |
+| *the Identity Conversation* | the conversation each person has with themselves about what the situation means to them |
+| *move from certainty to curiosity* | the book's advice to exchange one's certainty about what happened for curiosity about how the other person sees it |
+
+#### Principled negotiation (Getting to Yes): interests, not positions
+
+| Field | Entry |
+|---|---|
+| Type | a technique |
+| Field of study | negotiation and conflict |
+| Originators | Roger Fisher and William Ury (Harvard Negotiation Project); Bruce Patton co-author from the second edition |
+| Date | 1981 (Getting to Yes); 1991 (second edition, with Bruce Patton); 2011 (third edition) |
+| Scale | two people as equals, a small group, an organization, a community or public |
+| Who decides | A, the person decides all content. The parties apply the method themselves; a mediator can use the same principles to shape the process, as the survey's facilitative mediation entry shows. |
+| What happens | Fisher and Ury propose principled negotiation as an alternative to bargaining over positions, built on four principles: separate the people from the problem; focus on interests, not positions; invent options for mutual gain; and insist on using objective criteria. The second principle asks negotiators to look behind the position each side states, what it says it wants, to the interests that lead it to hold that position, the needs and concerns that can often be met in more than one way. Each side should also know its BATNA, its best alternative to a negotiated agreement, which marks what it can achieve without negotiating. |
+| The evidence | The method is a practitioner synthesis from the Harvard Negotiation Project; James J. White's 1984 review argued that it relies on anecdotal evidence and oversimplifies many of the most troublesome problems in negotiation. Wikipedia also records critiques that it ignores power and distributive bargaining, assumes negotiators are rational unitary actors, overstates the case against positional bargaining, and lacks cultural sensitivity. |
+| Where it locates change | It locates agreement in the needs and concerns beneath what people demand, which can often be satisfied together once they are made visible. |
+| How it bears on the book (the researcher's reading) | Conflict: Separating interests from positions gives a disagreement a second layer, where the parties' needs can be discussed before either side gives up its stated demand. Decisions: Insisting on objective criteria and knowing one's BATNA give a group a way to decide that does not depend on who applies the most pressure. |
+| Where it differs from the book | Getting to Yes aims at wise agreements between parties with separate interests, not at changing the people involved. Its critics say it underplays power, which matters wherever a facilitator or leader holds authority over the participants. |
+| Limits and critiques | Critics argue the method is inadequate where power is unequal or the bargaining is distributive, and in high-stakes settings such as hostage negotiations. |
+| Quoted from its sources | "Separate the people from the problem" (https://en.wikipedia.org/wiki/Getting_to_Yes) "Focus on interests, not positions" (https://en.wikipedia.org/wiki/Getting_to_Yes) "relies on anecdotal evidence" (https://en.wikipedia.org/wiki/Getting_to_Yes) |
+| Mental model | other. Negotiation research from the Harvard Negotiation Project |
+| Structure | telling the real thing from its counterfeit; a method |
+| Subjects | conflict, decision choice, relationship present, justice power |
+| In the survey | Facilitative mediation; this entry adds the survey's facilitative mediation entry uses interests beneath positions as a term without naming its source; this entry adds Getting to Yes itself, its four principles, BATNA, and the critiques of the method. |
+| In the vault | not yet met |
+| Sources | https://en.wikipedia.org/wiki/Getting_to_Yes |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *principled negotiation* | the book's name for its method, built on four principles, as an alternative to bargaining over positions |
+| *interests, not positions* | the principle of attending to the needs and concerns behind each side's stated demands rather than to the demands themselves |
+| *BATNA* | best alternative to a negotiated agreement: what a party can achieve without negotiating |
+| *objective criteria* | the principle of judging a proposed agreement against agreed standards rather than by pressure |
+
+### Career and identity
+
+#### Job crafting; the job, career, and calling orientations to work
+
+| Field | Entry |
+|---|---|
+| Type | a technique |
+| Field of study | career and identity |
+| Originators | Amy Wrzesniewski and Jane E. Dutton (job crafting); Amy Wrzesniewski, Clark McCauley, Paul Rozin, and Barry Schwartz (the orientations) |
+| Date | 1997 (Journal of Research in Personality, 'Jobs, Careers, and Callings: People's Relations to Their Work'); 2001 (Academy of Management Review, 'Crafting a Job: Revisioning Employees as Active Crafters of Their Work') |
+| Scale | one person alone, an organization, two people as equals |
+| Who decides | A, the person decides all content. Job crafting is self-initiated: the worker decides which tasks, relationships, and meanings to change, within the limits of the job. |
+| What happens | Job crafting is a worker's own proactive change to the characteristics of their job so that it fits their needs, goals, and skills better. Wrzesniewski and Dutton named three forms: task crafting, which changes the type, scope, sequence, and number of tasks; relational crafting, which changes the nature of one's interactions at work; and cognitive crafting, which changes how one perceives the job so as to find more meaning in the work. The earlier 1997 study distinguished three orientations people hold toward their work: as a job, valued mainly for its material gains; as a career, a long-term path in which one is more invested; and as a calling, experienced as meaningful for oneself and beneficial for society and so as an end in itself. The study found that all three orientations occur in most occupations. |
+| The evidence | The 2001 paper is a theoretical model, and later studies, many of them surveys, link job crafting to engagement and well-being, including Tims and Bakker's (2010) version within the job demands-resources model. A 2023 critical review reports that people with a calling orientation showed higher well-being and job and life satisfaction, and also that secular callings were associated with personal sacrifices for work, overwork, and difficulty disconnecting from work. A 2017 meta-analysis by Rudolph and colleagues examined job crafting with individual differences, job characteristics, and work outcomes. |
+| Where it locates change | Change is located in the worker's own reshaping of tasks, relationships, and the meaning they give their work, inside a job whose formal design stays the same. |
+| How it bears on the book (the researcher's reading) | Remaining the author of one's own change: Job crafting treats the worker as the author of changes to their own job, including the meaning they give it, rather than as the recipient of a redesign. Whether the cause lies in the person or the system: Cognitive crafting changes the person's view of a job whose structure is unchanged, which can help and can also relabel a structural problem as a problem of perspective. What care costs the one who gives it: The calling orientation brings higher satisfaction and, in the 2023 review's account, sacrifice and overwork, which bears on helpers who experience their work as a calling. |
+| Where it differs from the book | The research serves meaningful work and performance inside organizations and assumes a job whose formal design the worker does not control. The book addresses a person's whole life rather than a work role. |
+| Limits and critiques | A 2023 critical review reports that secular callings were associated with personal sacrifices for work, overwork, and an inability to disconnect from work. |
+| Quoted from its sources | "self-initiated, proactive strategies to change the characteristics of one's job to better align the job with personal needs, goals, and skills." (https://en.wikipedia.org/wiki/Job_crafting) "People who view their work as calling see their work as meaningful for themselves and beneficial for society and thus an end in itself" (https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10451554/fullTextXML) "secular calling was associated with making personal sacrifices for work" (https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10451554/fullTextXML) "We propose that employees craft their jobs by changing cognitive, task, and/or relational boundaries to shape interactions and relationships with others at work." (https://api.openalex.org/works/doi:10.5465/amr.2001.4378011) "Job crafting that is beneficial for the job crafter may be harmful to the goals of the organization." (https://en.wikipedia.org/wiki/Job_crafting) |
+| Mental model | organizational |
+| Structure | combining elements; a method |
+| Subjects | meaning purpose, task work, identity self, relationship present |
+| In the survey | no |
+| In the vault | not yet met |
+| Sources | https://en.wikipedia.org/wiki/Job_crafting; https://en.wikipedia.org/wiki/Amy_Wrzesniewski; https://api.crossref.org/works/10.1006/jrpe.1997.2162; https://api.semanticscholar.org/graph/v1/paper/DOI:10.5465/amr.2001.4378011?fields=title,abstract,year,venue,authors; https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10451554/fullTextXML; https://api.openalex.org/works/doi:10.5465/amr.2001.4378011; https://api.openalex.org/works/doi:10.1016/j.jvb.2017.05.008 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *job crafting* | Job crafting is the set of self-initiated, proactive strategies by which a worker changes the characteristics of their job to fit their needs, goals, and skills. |
+| *task crafting* | Task crafting is changing the type, scope, sequence, and number of tasks that make up one's job. |
+| *relational crafting* | Relational crafting is changing the nature of one's interactions at work. |
+| *cognitive crafting* | Cognitive crafting is changing one's perception of the job so as to ascribe more meaning to the work. |
+| *calling orientation* | A calling orientation is experiencing one's work as meaningful for oneself and beneficial for society, and so as an end in itself. |
+
+#### Working identity, provisional selves, and outsight (act first, then think)
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | career and identity |
+| Originators | Herminia Ibarra |
+| Date | 1999 ('Provisional Selves: Experimenting with Image and Identity in Professional Adaptation', Administrative Science Quarterly); 2003 (Working Identity); 2015 (Act Like a Leader, Think Like a Leader; 'The Authenticity Paradox', Harvard Business Review, January–February) |
+| Scale | one person alone, an organization |
+| Who decides | A, the person decides all content. The person designs and runs their own experiments; role models and new networks supply material, but the person judges the results. |
+| What it holds | Ibarra argues that people change their professional identity by acting first and making sense of it afterward: they experiment with new professional activities, interact in new networks of people, and make sense of what is happening in light of emerging possibilities, rather than first working out through introspection who they are and then acting. Her 1999 study of professionals moving into more senior roles found that adaptation involves observing role models to identify possible identities, experimenting with 'provisional selves', and evaluating those experiments against internal standards and external feedback. In 2015 she named the external perspective gained from direct experience and experimentation 'outsight' and argued that the most effective way to change is through action rather than analysis and by learning from experience rather than introspection. |
+| The evidence | The support is qualitative research on professionals and managers in transition, including the 1999 study in Administrative Science Quarterly; the sources read report no experimental tests or published critiques. |
+| Where it locates change | It locates identity change in action and its aftermath: a person learns who they are becoming by trying new roles and relationships and then making sense of the results. |
+| How it bears on the book (the researcher's reading) | Remaining the author of one's own change: Ibarra's person chooses and runs their own experiments and judges them against internal standards and outside feedback, which is a model of being changed by one's own trials without an authority prescribing the new self. Participation rather than watching: Outsight holds that the knowledge needed for change comes from doing and from new relationships rather than from reflecting at a distance, which states for careers the book's claim that watching does not change the watcher. Knowing that something happened: 'The Authenticity Paradox' treats feeling like a fake as a possible sign of growth, which cautions against reading discomfort in a new role as proof that the change is false. |
+| Where it differs from the book | Ibarra writes for managers and professionals changing careers or growing into leadership roles, and success is judged by adaptation and effectiveness at work. Her preference for action over introspection runs against practices, including some the book draws on, that begin with inward attention. |
+| Quoted from its sources | "the most effective way to change is through action, not analysis, and by learning from experience, not introspection." (https://herminiaibarra.com/) "Knowing, she says, is the result of doing and experimenting." (https://herminiaibarra.com/working-identity-book/) "the valuable external perspective you gain from direct experiences and experimentation" (https://herminiaibarra.com/act-like-a-leader-think-like-a-leader-book/) "Why feeling like a fake can be a sign of growth." (https://hbr.org/2015/01/the-authenticity-paradox) "adaptation involves three basic tasks: (1) observing role models to identify potential identities, (2) experimenting with provisional selves, and (3) evaluating experiments against internal standards and external feedback" (https://api.openalex.org/works/doi:10.2307/2667055) |
+| Mental model | learning theory. Experiential learning applied to professional identity and career change |
+| Structure | a repeating cycle; a method |
+| Subjects | identity self, learning skill, future vision, task work, relationship present |
+| In the survey | no |
+| In the vault | notes/being genuinely changed and remaining the author of what you become are one event, not a trade-off.md; The vault holds no Ibarra note; this claim states the book's position that deep change and self-authorship are not opposed. |
+| Sources | https://en.wikipedia.org/wiki/Herminia_Ibarra; https://herminiaibarra.com/; https://herminiaibarra.com/working-identity-book/; https://herminiaibarra.com/act-like-a-leader-think-like-a-leader-book/; https://openlibrary.org/search.json?q=Herminia+Ibarra&fields=title,first_publish_year,author_name,publisher&limit=20; https://api.openalex.org/works/doi:10.2307/2667055; https://hbr.org/2015/01/the-authenticity-paradox |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *provisional selves* | trial versions of possible but not yet fully formed professional identities that a person experiments with while adapting to a new role |
+| *working identity* | identity worked out in action, through experimenting with new activities, interacting in new networks, and making sense of what happens |
+| *outsight* | the external perspective a person gains from direct experience and experimentation, which Ibarra sets against insight gained through introspection |
+| *authenticity paradox* | Ibarra's 2015 argument that a simplistic idea of being authentic can hinder growth and that feeling like a fake can be a sign of growth |
+
+### Behavioral economics
+
+#### Commitment devices (precommitment) and the planner–doer model of self-control
+
+| Field | Entry |
+|---|---|
+| Type | a technique |
+| Field of study | behavioral economics |
+| Originators | Thomas Schelling and Robert Strotz (precommitment); Jon Elster (Ulysses and the Sirens); Richard H. Thaler and Hersh M. Shefrin (the planner–doer model) |
+| Date | 1955–1956 (Strotz, time-inconsistent preferences); 1956 (Schelling, 'An Essay on Bargaining'); 1979 (Elster, Ulysses and the Sirens); 1981 (Thaler and Shefrin, 'An Economic Theory of Self-Control', Journal of Political Economy) |
+| Scale | one person alone, one person and their parts, a text or tool, no one present |
+| Who decides | A, the person decides all content. The person designs the constraint on their own future choices; a bank product, contract, or program may supply the mechanism, after which the structure does the work as in stance E. |
+| What happens | A commitment device is an arrangement by which a person deliberately restricts their own future options so that a present commitment becomes credible; Jon Elster's 1979 book made the story of Ulysses and the Sirens the central example. Thaler and Shefrin model the individual at any moment as both a farsighted planner and a myopic doer, whose conflict they compare to the agency conflict between a firm's owners and its managers, and they argue that individuals and firms use the same techniques to limit it. In a randomized trial in the Philippines, 28 percent of bank clients offered a savings account that restricted withdrawals until a self-chosen goal was reached opened one, and after a year the treatment group had increased its savings by about 80 percent relative to controls. |
+| The evidence | Randomized field experiments show effects for people who adopt commitment devices, such as the Philippine savings study (Ashraf, Karlan, and Yin, 2006), but voluntary take-up is typically only 10 to 30 percent of those offered. In another field experiment with low-income savers in the Philippines (John, 2020), 55 percent of those who adopted a commitment savings product defaulted and lost money. |
+| Where it locates change | It locates self-change in a present self arranging binding constraints for a future self whose preferences it expects to differ. |
+| How it bears on the book (the researcher's reading) | Remaining the author of one's own change: A commitment device is written by the person against their own future impulses, which makes it a precise case of self-authorship exercised through a constraint. Timing and pacing: The mechanism depends on acting before temptation arrives, because preferences shift over time and people in a calm state underestimate how their drives will act on them later. Harm and its conditions: The finding that a majority of adopters in one study defaulted and lost money shows that a person who misjudges their own future self can be harmed by the constraint they chose. |
+| Where it differs from the book | The planner–doer model treats one part of the self as the rightful governor of another and measures success by behavior such as saving or quitting smoking, whereas the vault holds that self-facilitation means neither controlling oneself as an object nor being captive to whatever arises. |
+| Limits and critiques | Only people who foresee their own self-control problems seek commitment, so those unaware of the problem do not use it, and adopters who underestimate their problem can end up worse off than before. |
+| Quoted from its sources | "The individual at a point in time is assumed to be both a farsighted planner and a myopic doer." (https://api.openalex.org/works/doi:10.1086/260971) "voluntary take-up of commitment contracts is low—typically between 10 and 30 percent of those offered—even when the contracts appear effective for those who adopt them" (https://en.wikipedia.org/wiki/Commitment_device) "One explanation is that only 'sophisticated' individuals will seek out commitment, while those unaware of their own self-control problems will not." (https://en.wikipedia.org/wiki/Commitment_device) "A field experiment with low-income savers in the Philippines found that 55 percent of those who adopted a commitment savings product defaulted and incurred monetary losses." (https://en.wikipedia.org/wiki/Commitment_device) |
+| Mental model | other. Behavioral economics |
+| Structure | the self or group as many; a single move |
+| Subjects | decision choice, future vision, identity self |
+| In the survey | no |
+| In the vault | `notes/self-facilitation requires facilitating oneself without becoming controller or captive.md`; This vault claim places self-facilitation between controlling oneself and being captive to what arises; the planner–doer model is an economist's version of the controlling side. The vault holds no note on commitment devices. |
+| Sources | https://en.wikipedia.org/wiki/Commitment_device; https://api.openalex.org/works/doi:10.1086/260971 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *commitment device* | a mechanism or arrangement that implements precommitment by deliberately restricting one's own future options in order to make a commitment credible |
+| *planner and doer* | Thaler and Shefrin's two parts of one person at a time: a farsighted planner and a myopic doer |
+| *time inconsistency* | the fact that a person's preferences at one time can conflict with their preferences at another |
+| *sophisticated and naive* | a sophisticated person anticipates their own self-control problems and seeks commitment; a naive person does not |
+
+#### Nudge, choice architecture, and libertarian paternalism
+
+| Field | Entry |
+|---|---|
+| Type | a theory |
+| Field of study | behavioral economics |
+| Originators | Richard H. Thaler and Cass R. Sunstein |
+| Date | 2003 (libertarian paternalism, American Economic Review and University of Chicago Law Review); 2008 (Nudge) |
+| Scale | a community or public, an organization, one person alone |
+| Who decides | E, no live facilitator; a structure, text, or custom does the work. No facilitator is present at the moment of choice; the arrangement of options, such as the default, does the work, and the choice architect who designed it has already decided which option is favored. |
+| What it holds | Thaler and Sunstein define a nudge as any aspect of choice architecture that alters people's behavior in a predictable way without forbidding options or significantly changing economic incentives, such as setting a default, placing healthy snacks next to the checkout, or etching the image of a fly in a urinal to improve aim. Whoever arranges the setting in which people choose is a choice architect, and the authors call their stance libertarian paternalism: paternalistic because it tries to influence choices in a way that will make choosers better off, as judged by themselves, and libertarian because people should be free to opt out. Governments took up the idea through nudge units, beginning with the UK Behavioural Insights Team in 2010. |
+| The evidence | A meta-analysis in PNAS by Mertens and colleagues (2021) found nudges effective on average but identified publication bias, and a reply by Maier and colleagues (PNAS, 2022) was titled 'No evidence for nudging after adjusting for publication bias'. Critics call nudging a euphemism for psychological manipulation, argue that it diminishes personal agency, and object that covert nudges lack transparency and accountability. |
+| Where it locates change | It locates change in the arrangement of the setting in which people decide, which shifts behavior without their deliberation and without a facilitator present. |
+| How it bears on the book (the researcher's reading) | Who decides the content: A nudge is stance E in its purest form: the structure does the work, and the choice architect, absent at the moment of choice, has already decided which option is favored. Remaining the author of one's own change: The critique that nudges bypass deliberation and diminish agency is the book's authorship question asked of structures, since a change the person did not notice choosing is hard for them to own. Harm and its conditions: The objection that covert nudges lack disclosure and accountability names secrecy about a design as the condition under which a structure that shapes choices becomes manipulation. |
+| Where it differs from the book | Nudges aim at predictable behavior change judged by the designer's idea of the chooser's own good, usually for policy or business, whereas the book asks for change the person recognizes and authors. A book is itself a choice architecture for its reader, so the transparency critique applies to the book's own design. |
+| Limits and critiques | Wikipedia's article on libertarian paternalism records the objection that it fails to appreciate the traditional libertarian concern with coercion and focuses instead on freedom of choice in a wider sense. |
+| Quoted from its sources | "any aspect of the choice architecture that alters people's behavior in a predictable way without forbidding any options or significantly changing their economic incentives" (https://en.wikipedia.org/wiki/Nudge_theory) "It is both possible and legitimate for private and public institutions to affect behavior while also respecting freedom of choice." (https://en.wikipedia.org/wiki/Libertarian_paternalism) "No evidence for nudging after adjusting for publication bias" (https://api.openalex.org/works/doi:10.1073/pnas.2200300119) |
+| Mental model | other. Behavioral economics applied to policy and organizational design |
+| Structure | none of the families; a method |
+| Subjects | decision choice, justice power, task work |
+| In the survey | no |
+| In the vault | `notes/how much structure makes recognition possible without determining what is recognized.md`; This open question, how much structure makes recognition possible without determining what is recognized, is the book's version of the choice-architecture problem; the vault holds no nudge note (its one hit for 'nudge' is the ordinary word). |
+| Sources | https://en.wikipedia.org/wiki/Nudge_theory; https://en.wikipedia.org/wiki/Libertarian_paternalism; https://api.openalex.org/works/doi:10.1073/pnas.2107346118; https://api.openalex.org/works/doi:10.1073/pnas.2200300119 |
+| Verified at those sources | yes |
+
+| Its own word | What it means |
+|---|---|
+| *nudge* | any aspect of choice architecture that alters behavior predictably without forbidding options or significantly changing economic incentives |
+| *choice architecture* | the design of the setting in which people choose, such as the order, defaults, and placement of options |
+| *choice architect* | the person or institution that designs that setting |
+| *libertarian paternalism* | influencing choices to make people better off as judged by themselves while leaving them free to opt out |
+| *default* | the option that takes effect if a person does nothing |
