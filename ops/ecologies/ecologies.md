@@ -20,6 +20,10 @@ A recipe file states, in this order: the collection in plain terms; what the vau
 8. `ops/ecologies/the devices.md` — the book's own apparatus, sorted by what each device does to the reader's position.
 9. `ops/ecologies/the addressees.md` — who each document speaks to and what it asks of them.
 
+## Run outside the nine
+
+- `ops/facilitation ecology.md` — the field of facilitative techniques outside the vault, from one person alone to a society's customs and the living world, sorted by scale, subject, mental model, and who decides the content, with the vault's own holdings placed on the same coordinates and the full entries in `ops/facilitation ecology — the entries.md`. **Run 2026-09-26** at the author's request, without a recipe file and ahead of the decision sitting by his exception (`ops/decisions.md`). It keeps the four safeguards, and its readings stay in its own section 14 rather than entering the reading queue.
+
 ## What is not here
 
 The loci, the axioms, the paradoxes, the arc as the reader undergoes it, the making, and the concerns are already lens families, the vault's name for the family files at the repository root that each read the whole graph through one organizing idea (`the-lenses.md`), and are read there. The six relations of descent are defined at [[the apparatus descends from the settlement the book positions itself against]]. The practice-models are surveyed. A collection graduates from this index to a survey document when a session runs the recipe; it graduates from a survey to the graph one claim at a time, through the pipeline.
