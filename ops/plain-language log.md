@@ -37,6 +37,7 @@
 | 2026-09-03 | `ops/clearing.md` | first uses expanded against the lexicon under the recompose one law; quotes, links, front matter, markers, and headings untouched | 9 → 0 | sonnet agent |
 | 2026-09-03 | `ops/chapter concordance.md` | first uses expanded against the lexicon under the recompose one law; quotes, links, front matter, markers, and headings untouched | 5 → 0 | sonnet agent |
 | 2026-09-03 | `ops/standing-consequences.md` | first uses expanded against the lexicon under the recompose one law; quotes, links, front matter, markers, and headings untouched | 19 → 0 | sonnet agent |
+| 2026-11-12 | `prototypes/the book as a site, in plain words (2026-11-12).html` (rewriting `prototypes/the book as a site (2026-11-12).html`) | the whole prototype rewritten in plain words after the author's flag: comparison explained once, the book's own names for its rooms, sources moved behind a switch, and nineteen lines corrected against the reader reports (overstatements, misattributions, quotations out of context) | 9 → 0 in the visible text (the scanner still reports 7: source lines hidden by default, and other senses of the word — a seat, "deep-sounding", physically sitting, the book's own "composting") | the session |
 
 ## Reply catches
 
