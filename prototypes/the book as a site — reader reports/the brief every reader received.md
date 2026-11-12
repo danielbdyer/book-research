@@ -1,3 +1,5 @@
+<!-- Kept as the record of what the six readers were told on 2026-11-12. The /tmp/… scratchpad paths below belonged to that session's container and no longer exist: the site capture they name is `accelerateinward.com as read (2026-11-12).md` in this folder, and each reader's output is the `reader report — …` file beside it. -->
+
 # Common brief for every subagent (read this first)
 
 ## The task you are part of
