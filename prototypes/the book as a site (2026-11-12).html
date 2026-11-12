@@ -1,0 +1,1705 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>The Ecology of Recognition</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,500;0,7..72,600;1,7..72,400;1,7..72,500&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a house walked in order. The walk is the ground floor; the sources sit beneath it; a gold thread runs down the margin of the house and breaks once, at the summit. Onionskin letter paper by day, the 4am room by night. */
+:root{
+  --paper:#EBEFEA; --paper-2:#E0E6E0; --paper-3:#D2DBD4;
+  --ink:#1B2333; --ink-2:#465063; --ink-3:#687284;
+  --rule:rgba(27,35,51,.15); --rule-2:rgba(27,35,51,.40);
+  --thread:#946A12; --thread-soft:rgba(148,106,18,.13);
+  --wax:#962C25; --wax-soft:rgba(150,44,37,.09);
+  --sky-top:#C6D4DC; --sky-bot:#EBEFEA;
+  --night:#0A0D13; --night-ink:#CBC7BB; --night-faint:rgba(203,199,187,.38);
+  --display:'IM Fell English',Georgia,'Times New Roman',serif;
+  --body:'Literata',Georgia,'Times New Roman',serif;
+  --mono:'IBM Plex Mono',ui-monospace,Menlo,Consolas,monospace;
+  --measure:66ch;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#0F131B; --paper-2:#151B26; --paper-3:#1D2533;
+  --ink:#E4E0D5; --ink-2:#B3B7C1; --ink-3:#8C92A1;
+  --rule:rgba(228,224,213,.13); --rule-2:rgba(228,224,213,.36);
+  --thread:#D6AA4E; --thread-soft:rgba(214,170,78,.14);
+  --wax:#E58773; --wax-soft:rgba(229,135,115,.11);
+  --sky-top:#04060A; --sky-bot:#0F131B;
+  --night:#030407; --night-ink:#CBC7BB; --night-faint:rgba(203,199,187,.34);
+  color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#0F131B; --paper-2:#151B26; --paper-3:#1D2533;
+  --ink:#E4E0D5; --ink-2:#B3B7C1; --ink-3:#8C92A1;
+  --rule:rgba(228,224,213,.13); --rule-2:rgba(228,224,213,.36);
+  --thread:#D6AA4E; --thread-soft:rgba(214,170,78,.14);
+  --wax:#E58773; --wax-soft:rgba(229,135,115,.11);
+  --sky-top:#04060A; --sky-bot:#0F131B;
+  --night:#030407; --night-ink:#CBC7BB; --night-faint:rgba(203,199,187,.34);
+  color-scheme:dark}
+
+*,*::before,*::after{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.62;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--sky-top)}
+a{color:inherit;text-decoration-color:var(--thread);text-underline-offset:3px;text-decoration-thickness:1px}
+a:hover{text-decoration-thickness:2px}
+:focus-visible{outline:2px solid var(--thread);outline-offset:3px;border-radius:2px}
+.wrap{max-width:1120px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.prose{max-width:var(--measure)}
+h1,h2,h3,h4{text-wrap:balance;margin:0}
+p{margin:0}
+.label{font-family:var(--mono);font-size:.7rem;letter-spacing:.09em;text-transform:uppercase;color:var(--ink-3)}
+.anchor{font-family:var(--mono);font-size:.72rem;line-height:1.5;color:var(--ink-3);letter-spacing:.01em;overflow-wrap:anywhere}
+.anchor::before{content:"↳ ";color:var(--thread)}
+q,.q{quotes:"\201C" "\201D" "\2018" "\2019"}
+.stack{display:flex;flex-direction:column;gap:14px}
+.muted{color:var(--ink-2)}
+
+/* header: open sky, no ceiling */
+.masthead{background:linear-gradient(var(--sky-top),var(--sky-bot) 92%)}
+.masthead .wrap{padding-block:22px 0}
+.topline{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;flex-wrap:wrap}
+.dateline{font-family:var(--mono);font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-2);line-height:1.6}
+.wordmark{text-align:center;padding-block:26px 6px}
+.wordmark a{text-decoration:none}
+.wordmark .name{font-family:var(--display);font-size:clamp(2.1rem,6.4vw,4.4rem);line-height:1;letter-spacing:-.005em;font-weight:400}
+.wordmark .name i{font-style:italic}
+.wordmark .candidate{display:block;margin-top:10px}
+.toggle{display:inline-flex;border:1px solid var(--rule-2);border-radius:999px;overflow:hidden}
+.toggle button{font-family:var(--mono);font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;background:transparent;color:var(--ink-2);border:0;padding:7px 11px;cursor:pointer}
+.toggle button[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+nav.doors{border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);margin-top:18px}
+nav.doors ul{list-style:none;margin:0;padding:10px 0;display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:4px 22px}
+nav.doors a{font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;text-decoration:none;color:var(--ink-2);padding:6px 0;border-bottom:1.5px solid transparent}
+nav.doors a[aria-current="page"]{color:var(--ink);border-bottom-color:var(--thread)}
+nav.doors .beneath{display:flex;gap:4px 16px;align-items:center;flex-wrap:wrap;justify-content:center;padding:2px 12px;border-left:1px dashed var(--rule-2);border-right:1px dashed var(--rule-2)}
+nav.doors .beneath .label{font-size:.62rem}
+
+/* names toggle */
+.n-corpus{display:none}
+.corpus-names .n-plain{display:none}
+.corpus-names .n-corpus{display:inline}
+.n-corpus{font-style:italic}
+.n-corpus::after{content:" · candidate name";font-family:var(--mono);font-style:normal;font-size:.62rem;letter-spacing:.06em;color:var(--ink-3);vertical-align:.25em}
+
+/* views */
+.view{display:none}
+.view.on{display:block}
+.page-head{padding-block:54px 34px}
+.page-head .label{display:block;margin-bottom:14px}
+.page-head h1{font-family:var(--display);font-weight:400;font-size:clamp(2.2rem,5.2vw,3.9rem);line-height:1.04}
+.page-head h1 i{font-style:italic}
+.page-head .promise{margin-top:18px;font-size:1.15rem;color:var(--ink-2);max-width:60ch}
+.statline{display:flex;flex-wrap:wrap;gap:10px 28px;padding-block:16px;border-top:1px solid var(--rule-2);border-bottom:1px solid var(--rule);margin-bottom:8px}
+.stat{display:flex;flex-direction:column;gap:2px}
+.stat b{font-family:var(--display);font-weight:400;font-size:1.9rem;line-height:1;font-variant-numeric:tabular-nums}
+.stat span{font-family:var(--mono);font-size:.64rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3)}
+.how{margin-top:8px}
+
+section.block{padding-block:46px;border-top:1px solid var(--rule)}
+section.block > .head{display:grid;grid-template-columns:minmax(0,1fr);gap:8px;margin-bottom:26px;max-width:72ch}
+section.block > .head h2{font-family:var(--display);font-weight:400;font-size:clamp(1.6rem,3.4vw,2.3rem);line-height:1.1}
+section.block > .head p{color:var(--ink-2)}
+.replaces{font-family:var(--mono);font-size:.66rem;letter-spacing:.06em;color:var(--ink-3)}
+.replaces s{text-decoration-color:var(--wax)}
+.page-head .replaces{font-family:var(--body);font-size:.95rem;letter-spacing:0;color:var(--ink-2);max-width:72ch;line-height:1.55}
+
+/* cards and grids */
+.grid{display:grid;gap:18px 26px;grid-template-columns:repeat(auto-fill,minmax(min(100%,320px),1fr))}
+.grid.two{grid-template-columns:repeat(auto-fill,minmax(min(100%,440px),1fr))}
+.card{display:flex;flex-direction:column;gap:10px;padding-top:14px;border-top:1px solid var(--rule-2);min-width:0}
+.card h3{font-family:var(--body);font-weight:600;font-size:1.04rem;line-height:1.35}
+.card p{font-size:.96rem}
+.card.filled{background:var(--paper-2);padding:18px 18px 16px;border-top:2px solid var(--ink)}
+.sheet{background:var(--paper-2);padding:22px 22px 18px;border-top:2px solid var(--ink);display:flex;flex-direction:column;gap:12px;min-width:0}
+.sheet h3{font-family:var(--display);font-weight:400;font-size:1.45rem;line-height:1.15}
+dl.fields{display:grid;grid-template-columns:minmax(0,9.5em) minmax(0,1fr);gap:8px 14px;margin:0;font-size:.94rem}
+dl.fields dt{font-family:var(--mono);font-size:.64rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3);padding-top:4px}
+dl.fields dd{margin:0}
+dl.fields dd.part{color:var(--wax)}
+@media (max-width:560px){dl.fields{grid-template-columns:minmax(0,1fr)}dl.fields dt{padding-top:6px}}
+
+.chip{display:inline-flex;align-items:center;gap:5px;font-family:var(--mono);font-size:.62rem;letter-spacing:.08em;text-transform:uppercase;padding:3px 8px;border-radius:2px;border:1px solid var(--rule-2);color:var(--ink-2);white-space:nowrap;line-height:1.4}
+.chip.kept{border-color:var(--ink);color:var(--ink)}
+.chip.turned{border-color:var(--thread);color:var(--thread);background:var(--thread-soft)}
+.chip.declined{border-color:var(--wax);color:var(--wax);background:var(--wax-soft)}
+.chip.personal{border-style:dashed}
+.chip.gradeb{border-style:dashed;color:var(--ink-3)}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+
+blockquote{margin:0;padding:2px 0 2px 16px;border-left:2px solid var(--thread);font-size:.98rem}
+blockquote.refusal{border-left-color:var(--wax)}
+.refusal-line{color:var(--wax)}
+.refusal-line b{font-family:var(--mono);font-weight:500;font-size:.62rem;letter-spacing:.08em;text-transform:uppercase;margin-right:6px}
+
+.tablebox{overflow-x:auto;border-top:1px solid var(--rule-2);border-bottom:1px solid var(--rule-2)}
+table{border-collapse:collapse;width:100%;font-size:.9rem}
+th,td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid var(--rule)}
+th{font-family:var(--mono);font-weight:500;font-size:.64rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3);background:var(--paper-2)}
+tr:last-child td{border-bottom:0}
+td.cell{font-family:var(--mono);font-size:.66rem;letter-spacing:.05em;text-transform:uppercase;white-space:nowrap}
+.c-surv{color:var(--thread)}.c-lin{color:var(--ink)}.c-narrow{color:var(--wax)}.c-with{color:var(--wax);text-decoration:line-through}.c-pend{color:var(--ink-2);font-style:italic}.c-none{color:var(--ink-3)}
+.legend{display:flex;flex-wrap:wrap;gap:6px 18px;margin-top:12px}
+
+button.plain,.btn{font-family:var(--mono);font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;background:var(--ink);color:var(--paper);border:1px solid var(--ink);padding:10px 16px;cursor:pointer;border-radius:2px;text-decoration:none;display:inline-block}
+.btn.ghost{background:transparent;color:var(--ink)}
+textarea,input[type=text]{font-family:var(--body);font-size:1.05rem;width:100%;background:var(--paper);color:var(--ink);border:1px solid var(--rule-2);border-radius:2px;padding:12px 14px;line-height:1.5}
+textarea{min-height:96px;resize:vertical}
+.note{font-size:.86rem;color:var(--ink-2)}
+
+/* the house */
+.house{position:relative}
+.thread{position:absolute;top:0;left:0;width:56px;height:100%;pointer-events:none;display:none}
+@media (min-width:1180px){.thread{display:block}}
+.lintel{padding-block:70px 54px;text-align:center}
+.lintel .over{display:block;margin-bottom:22px}
+.lintel h1{font-family:var(--display);font-weight:400;font-size:clamp(2rem,5.6vw,4.1rem);line-height:1.12;max-width:20ch;margin:0 auto}
+.lintel h1 span{display:block}
+.lintel h1 span:nth-child(3){font-style:italic}
+.threshold{max-width:54ch;margin:34px auto 0;display:flex;flex-direction:column;gap:12px;align-items:center}
+.threshold p{font-size:1.06rem}
+.nocount{margin-top:22px}
+.floors{position:sticky;top:calc(env(safe-area-inset-top,0px) + 12px);z-index:5;display:flex;justify-content:flex-end;align-items:flex-start;pointer-events:none;height:0}
+.floorpanel{pointer-events:auto;background:var(--paper);border:1px solid var(--rule-2);padding:10px 12px;width:220px;margin-top:8px;display:none}
+@media (min-width:1000px){.floorpanel{display:block}.house .room:not(.summit),.house .kitchen,.house .who,.house .lastline,.house .receipts-door{padding-right:250px}}
+.floorpanel ol{list-style:none;margin:8px 0;padding:0;display:flex;flex-direction:column;gap:3px}
+.floorpanel a{font-size:.82rem;text-decoration:none;color:var(--ink-3);display:block;padding:1px 0 1px 10px;border-left:2px solid transparent}
+.floorpanel a.here{color:var(--ink);border-left-color:var(--thread)}
+.floorpanel .keys{display:flex;gap:6px;flex-wrap:wrap}
+.floorpanel .keys button{font-family:var(--mono);font-size:.62rem;letter-spacing:.06em;text-transform:uppercase;background:transparent;color:var(--ink-2);border:1px solid var(--rule-2);padding:4px 7px;cursor:pointer;border-radius:2px}
+.room{padding-block:72px;border-top:1px solid var(--rule);scroll-margin-top:20px}
+.room .roomhead{display:flex;flex-direction:column;gap:6px;margin-bottom:22px}
+.room h2{font-family:var(--display);font-weight:400;font-size:clamp(1.7rem,3.8vw,2.6rem);line-height:1.1}
+.room .invite{font-size:1.14rem;line-height:1.6;max-width:var(--measure)}
+.room .said{margin-top:22px;max-width:var(--measure)}
+.room .said blockquote{font-size:1.04rem}
+.room .rests{margin-top:18px;display:flex;flex-direction:column;gap:4px}
+.room .contrast{margin-top:14px;font-size:.9rem;color:var(--ink-2);max-width:var(--measure)}
+.room .margin-word{position:absolute;right:0;top:96px;font-family:var(--display);font-style:italic;font-size:1.25rem;color:var(--ink-3);opacity:.5;letter-spacing:.04em;transform:rotate(-3deg);-webkit-mask-image:linear-gradient(90deg,#000 30%,transparent 85%);mask-image:linear-gradient(90deg,#000 30%,transparent 85%);display:none}
+@media (min-width:860px){.room .margin-word{display:block}}
+.room.rel{position:relative}
+.breath-full .invite{max-width:66ch}
+.breath-steady .invite{max-width:58ch}
+.breath-short .invite{max-width:46ch}
+.summit{background:var(--night);color:var(--night-ink);border-top:0;padding-block:150px 170px;text-align:center}
+.summit .label{color:var(--night-faint)}
+.summit h2{color:var(--night-ink);font-size:1.1rem;font-family:var(--mono);letter-spacing:.12em;text-transform:uppercase;font-weight:400;opacity:.55}
+.summit .unfinished{font-family:var(--display);font-style:italic;font-size:clamp(1.5rem,3.6vw,2.4rem);margin-top:80px;background:linear-gradient(90deg,var(--night-ink) 20%,transparent 92%);-webkit-background-clip:text;background-clip:text;color:transparent;display:inline-block;padding-right:2ch}
+.summit .after{margin-top:120px;font-family:var(--mono);font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--night-faint)}
+.summit details{margin:40px auto 0;max-width:60ch;text-align:left;color:var(--night-faint);font-size:.86rem}
+.summit details summary{cursor:pointer;font-family:var(--mono);font-size:.64rem;letter-spacing:.08em;text-transform:uppercase;text-align:center;list-style:none}
+.summit details[open]{color:var(--night-ink)}
+.summit details .anchor{color:var(--night-faint)}
+.summit details blockquote{border-left-color:var(--night-faint)}
+.kitchen{padding-block:90px 30px;text-align:center}
+.kitchen .doors2{display:flex;gap:12px;justify-content:center;flex-wrap:wrap;margin-top:26px}
+.kitchen .kline{font-family:var(--display);font-size:clamp(1.5rem,3.4vw,2.2rem);line-height:1.25;max-width:26ch;margin:0 auto}
+.kitchen .kline.k2{margin-top:40px;font-style:italic;font-size:clamp(1.2rem,2.6vw,1.6rem);color:var(--ink-2)}
+.who{padding-block:110px 40px;text-align:center}
+.who .w{font-family:var(--display);font-style:italic;font-size:clamp(4rem,14vw,9rem);line-height:1}
+.who .cannot{margin-top:18px}
+.lastline{padding-block:70px 30px;text-align:center}
+.lastline .placeholder{font-family:var(--display);font-size:clamp(1.3rem,3vw,1.9rem);color:var(--ink-3)}
+.leaf{margin:40px auto 0;max-width:520px;min-height:240px;border:1px dashed var(--rule-2);display:flex;align-items:flex-end;justify-content:center;padding:14px}
+.receipts-door{padding-block:46px 70px;text-align:center}
+.receipts-door a{font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase}
+
+/* the letter */
+.answer-list{display:flex;flex-direction:column}
+.answer{display:grid;grid-template-columns:minmax(0,13rem) minmax(0,1fr);gap:8px 30px;padding-block:24px;border-top:1px solid var(--rule)}
+.answer .their{display:flex;flex-direction:column;gap:8px}
+.answer .their .no{font-family:var(--display);font-size:1.6rem;line-height:1;color:var(--ink-3)}
+.answer .their .t{font-family:var(--mono);font-size:.7rem;letter-spacing:.04em;color:var(--ink-2)}
+.answer .ours{display:flex;flex-direction:column;gap:10px;min-width:0}
+.answer .ours h3{font-family:var(--body);font-weight:600;font-size:1.08rem;line-height:1.4}
+@media (max-width:720px){.answer{grid-template-columns:minmax(0,1fr)}}
+.hero-letter{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:30px;align-items:start}
+@media (max-width:820px){.hero-letter{grid-template-columns:minmax(0,1fr)}}
+.layers{display:flex;flex-direction:column;gap:0}
+.layer{display:grid;grid-template-columns:7.5rem minmax(0,1fr);gap:14px;padding-block:14px;border-top:1px solid var(--rule)}
+.layer .when{font-family:var(--mono);font-size:.66rem;letter-spacing:.06em;text-transform:uppercase;color:var(--thread);padding-top:4px}
+.layer p{font-family:var(--display);font-size:1.2rem;line-height:1.35}
+
+/* the reply */
+.letterpaper{position:relative;background:var(--paper-2);padding:30px 26px 24px;border:1px solid var(--rule-2)}
+.letterpaper::before{content:"";position:absolute;inset:-1px -1px auto -1px;height:7px;background:repeating-linear-gradient(-45deg,var(--wax) 0 10px,transparent 10px 20px,var(--ink-2) 20px 30px,transparent 30px 40px);opacity:.7}
+.kept-out{display:none;margin-top:16px;padding:16px;border:1px solid var(--rule-2);background:var(--paper)}
+.kept-out.on{display:block}
+.kept-out .date{font-family:var(--mono);font-size:.7rem;color:var(--ink-3)}
+.kept-out .s{font-family:var(--display);font-size:1.3rem;margin-top:8px}
+ol.qs{margin:0;padding-left:1.4em;display:flex;flex-direction:column;gap:14px;max-width:72ch}
+ol.qs li::marker{font-family:var(--mono);font-size:.8rem;color:var(--thread)}
+ol.qs li p{font-size:.92rem;color:var(--ink-2);margin-top:3px}
+
+/* the map */
+.map-table td:first-child{font-weight:600}
+.map-table td.k{white-space:nowrap}
+.finding{display:grid;grid-template-columns:minmax(0,1fr);gap:8px;padding-block:20px;border-top:1px solid var(--rule)}
+.finding h3{font-family:var(--body);font-weight:600;font-size:1.08rem;line-height:1.4;max-width:70ch}
+.finding p{max-width:72ch;font-size:.96rem}
+.finding .fi{font-size:.9rem;color:var(--ink-2)}
+.finding .fi b{font-family:var(--mono);font-weight:500;font-size:.62rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3);margin-right:6px}
+.diagram{overflow-x:auto;padding-block:8px}
+.diagram svg{display:block;min-width:720px;width:100%;height:auto}
+
+footer.foot{border-top:1px solid var(--rule-2);margin-top:30px}
+footer.foot .wrap{padding-block:30px 46px;display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,200px),1fr));gap:22px}
+footer.foot ul{list-style:none;margin:8px 0 0;padding:0;display:flex;flex-direction:column;gap:4px;font-size:.9rem}
+footer.foot a{text-decoration:none}
+footer.foot a:hover{text-decoration:underline}
+footer.foot .colophon{font-size:.84rem;color:var(--ink-2);max-width:42ch}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap">
+    <div class="topline">
+      <div class="dateline">Thursday, 12 November 2026<br>A prototype · private to the author</div>
+      <div class="toggle" role="group" aria-label="How names are shown">
+        <button type="button" id="names-plain" aria-pressed="true">Plain terms</button>
+        <button type="button" id="names-corpus" aria-pressed="false">The corpus's names</button>
+      </div>
+    </div>
+    <div class="wordmark">
+      <a href="#house" aria-label="The house, the ground floor"><span class="name">The Ecology <i>of</i> Recognition</span></a>
+      <span class="label candidate">Working title · the author's leading candidate since 16 August 2026 · his to choose</span>
+    </div>
+    <nav class="doors" aria-label="Rooms of the site">
+      <ul>
+        <li><a href="#house" data-route="house">The house</a></li>
+        <li><a href="#came-from" data-route="came-from">Where this came from</a></li>
+        <li class="beneath"><span class="label">Beneath ↓</span>
+          <a href="#readings" data-route="readings">The readings</a>
+          <a href="#noticed" data-route="noticed">Who noticed this too</a>
+          <a href="#company" data-route="company">The company</a>
+        </li>
+        <li><a href="#reply" data-route="reply">Reply</a></li>
+        <li><a href="#map" data-route="map">The map</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+<main>
+
+<!-- ===================== THE HOUSE (ground floor) ===================== -->
+<div class="view house" id="view-house" data-view="house">
+  <svg class="thread" id="thread" aria-hidden="true"></svg>
+  <div class="wrap">
+    <section class="lintel" aria-labelledby="lintel-h">
+      <span class="label over">Over the door</span>
+      <h1 id="lintel-h"><span>You already know everything in this book.</span> <span>You have just forgotten.</span> <span>Reading is remembering.</span></h1>
+      <div class="threshold">
+        <p>&ldquo;Notice whether you came to this with hunger or curiosity or skepticism or boredom &mdash; all of it is welcome here, and none of it needs to change.&rdquo;</p>
+        <p class="muted"><i>&ldquo;Take one breath at the threshold.&rdquo;</i></p>
+        <span class="anchor">abridged p. 1 (the three sentences); abridged p. 2 (the threshold). The corpus hangs an inscription over the entrance and never quotes it; putting the three sentences there is this prototype's choice (walked p. 21).</span>
+        <p class="label nocount">This floor has no counts, no sound of its own, and no promise about what you will find.</p>
+      </div>
+    </section>
+  </div>
+
+  <div class="wrap floors" aria-hidden="false">
+    <aside class="floorpanel" aria-label="Floors of the house">
+      <span class="label">Floors · named, not numbered</span>
+      <ol id="floorlist">
+        <li><a href="#room-here" data-room="room-here">The room you are already in</a></li>
+        <li><a href="#room-word" data-room="room-word">Where a word is checked</a></li>
+        <li><a href="#room-pantry" data-room="room-pantry">The pantry</a></li>
+        <li><a href="#room-chairs" data-room="room-chairs">The room with two chairs</a></li>
+        <li><a href="#room-orchard" data-room="room-orchard">The orchard</a></li>
+        <li><a href="#room-summit" data-room="room-summit">The silent room</a></li>
+        <li><a href="#room-return" data-room="room-return">The room you return to</a></li>
+        <li><a href="#room-kitchen" data-room="room-kitchen">The kitchen</a></li>
+      </ol>
+      <div class="keys">
+        <button type="button" id="floor-up">↑ Back</button>
+        <button type="button" id="floor-down">On ↓</button>
+        <button type="button" id="floor-return">Return</button>
+      </div>
+      <p class="note" style="margin-top:8px;font-size:.74rem">Walk in the book's order or return in any order. Nothing is marked done.</p>
+    </aside>
+  </div>
+
+  <div class="wrap">
+    <section class="room rel breath-full" id="room-here" aria-labelledby="h-here">
+      <span class="margin-word" aria-hidden="true">madhya&thinsp;&ndash;</span>
+      <div class="roomhead">
+        <span class="label">A room</span>
+        <h2 id="h-here"><span class="n-plain">The room you are already in</span><span class="n-corpus">The House with No Ceiling</span></h2>
+      </div>
+      <p class="invite">Look up from the page at the physical room you are reading in. Is it a room you can breathe in? You can skip this; the room will not ask again.</p>
+      <div class="said"><blockquote>&ldquo;Try to feel the difference between a room where you can breathe and a room where you cannot.&rdquo;</blockquote></div>
+      <div class="rests">
+        <span class="anchor">abridged p. 4</span>
+        <span class="anchor">rests on notes/the house with no ceiling is transcendence with plumbing.md</span>
+        <span class="anchor">the faded word in the margin is Kṣemarāja's madhya, planted here half-erased; atlas §IX.6c places it "beside the unlabeled room" and finishes it at a mirror. Which room holds it is not established; this placement is the prototype's.</span>
+      </div>
+      <p class="contrast">accelerateinward.com's Red Room builds an artificial field of light and noise. This room points at the one you are already sitting in.</p>
+    </section>
+
+    <section class="room breath-full" id="room-word" aria-labelledby="h-word">
+      <div class="roomhead">
+        <span class="label">A room · the lived practice</span>
+        <h2 id="h-word"><span class="n-plain">The room where a word is checked against the body</span><span class="n-corpus">Naming the Blood</span></h2>
+      </div>
+      <p class="invite">Pick one matter in your life. Find how it feels in the body as a whole, before it has words. Let a word come from that feeling, and keep the word only if it fits. If none fits, nothing more is asked.</p>
+      <div class="said">
+        <blockquote>&ldquo;A felt shift feels like a release. That is how you recognize it.&rdquo;</blockquote>
+        <p class="refusal-line" style="margin-top:10px"><b>He declines to promise it</b>&ldquo;It doesn't matter whether the body-shift came or not.&rdquo; &ldquo;Carrying forward is always something that might not happen.&rdquo;</p>
+      </div>
+      <div class="rests">
+        <span class="anchor">Gendlin, Focusing (1978) ch. 5; A Process Model (1997) ch. II — archive/reading — gendlin, focusing and a process model (1978, 1997).md</span>
+        <span class="anchor">rests on notes/the solo practice reaches the felt shift and the primitives then surface by themselves.md (the primitives clause left out: scaffolding)</span>
+      </div>
+      <p class="contrast">The site's Qualia Tuner adjusts the experience with sliders. Here the experience adjusts the word.</p>
+    </section>
+
+    <section class="room breath-steady" id="room-pantry" aria-labelledby="h-pantry">
+      <div class="roomhead">
+        <span class="label">A room</span>
+        <h2 id="h-pantry"><span class="n-plain">The pantry, where grief is not finished alone</span><span class="n-corpus">the pantry of grief's canning physics</span></h2>
+      </div>
+      <p class="invite">If a loss comes to mind, this room names it as something that may need another person present, and points off the page toward one. It offers no guided completion.</p>
+      <div class="said">
+        <blockquote>&ldquo;a witness is not a commentator. Being seen is a different event from being explained. Only one of them completes anything.&rdquo;</blockquote>
+        <p class="refusal-line" style="margin-top:10px"><b>Where McLaren parts</b>The corpus credits her with the witness rule. Her own text: &ldquo;Your grief process can be undertaken individually, or in a community or family group.&rdquo; &ldquo;Your body is a brilliant mourner.&rdquo; The required witness is the book's doctrine, not hers.</p>
+      </div>
+      <div class="rests">
+        <span class="anchor">first-telling p. 9</span>
+        <span class="anchor">archive/reading — the completion family (hudson's art of accomplishment, mclaren's language of emotions).md, finding 4</span>
+        <span class="anchor">rests on notes/grief cannot complete alone.md</span>
+      </div>
+      <p class="contrast">The site's Tonglen guides one person through eighteen minutes. This room hands the completion to someone who is not the page.</p>
+    </section>
+
+    <section class="room breath-steady" id="room-chairs" aria-labelledby="h-chairs">
+      <div class="roomhead">
+        <span class="label">A room</span>
+        <h2 id="h-chairs"><span class="n-plain">The room with two chairs</span><span class="n-corpus">the two-chair room, and the Second Chair</span></h2>
+      </div>
+      <p class="invite">There are two chairs here and you are in one. Notice whether someone comes to mind for the other. There is no box for their name. If a sentence goes anywhere, it goes to that person, off the page.</p>
+      <div class="said"><blockquote>&ldquo;A codex is a one-chair technology making a two-chair argument.&rdquo;</blockquote></div>
+      <div class="rests">
+        <span class="anchor">walked p. 14</span>
+        <span class="anchor">rests on notes/the reader's working posture is solitude held inside relationship.md; notes/the circle is the form in which the naked sentence gets met.md</span>
+      </div>
+      <p class="contrast">The site's Metta room asks you to type a first name. This page admits it holds only one chair.</p>
+    </section>
+
+    <section class="room breath-steady" id="room-orchard" aria-labelledby="h-orchard">
+      <div class="roomhead">
+        <span class="label">A room · before the summit</span>
+        <h2 id="h-orchard"><span class="n-plain">The orchard, before the summit</span><span class="n-corpus">the Orchard</span></h2>
+      </div>
+      <p class="invite">One question about what is ending in your life. Then a plain warning that the next room is stranger, so that you enter it knowing.</p>
+      <div class="said"><blockquote>&ldquo;What in your life is composting right now? Can you let it? What might it be feeding?&rdquo; &hellip; &ldquo;Pause. Breathe. You have come a long way. We are about to go deeper, and the prose will get stranger.&rdquo;</blockquote></div>
+      <div class="rests">
+        <span class="anchor">abridged p. 31; the treatment calls this unit "The safety briefing, disguised as an orchard" (arc-gloss p. 12)</span>
+        <span class="anchor">rests on notes/the orchard's koan is that composting is not death.md</span>
+      </div>
+    </section>
+  </div>
+
+  <section class="room summit" id="room-summit" aria-label="The silent room, at the summit">
+    <div class="wrap">
+      <span class="label">The summit</span>
+      <h2><span class="n-plain">The silent room</span><span class="n-corpus">the Psychedelic Moment</span></h2>
+      <div><span class="unfinished">from the unfolding of the center</span></div>
+      <p class="after">The page says nothing more here.</p>
+      <details>
+        <summary>The receipts for this room, if you want them</summary>
+        <div class="stack" style="margin-top:16px">
+          <blockquote>&ldquo;the prose form itself thins and breaks at altitude; the margins &mdash; the whole chattering faculty of them &mdash; go silent; &hellip; and the sentence that eleven chapters have been finishing finally completes at a mirror.&rdquo;</blockquote>
+          <span class="anchor">walked p. 22</span>
+          <p>The unfinished line is Kṣemarāja's formula madhya-vikāsāt, in the corpus's gloss &ldquo;from the unfolding of the center comes the bliss of consciousness&rdquo; (atlas §IX.6c; walked IX). The prototype leaves it unfinished and lets the dark screen hold your reflection, on the reading that the mirror is the reader. The page makes no reply, because being seen and being explained are different events.</p>
+          <p>The executed draft has not built this room yet. In the abridged edition the summit chapter runs 2,172 words, the second-longest of fifteen units against a mean of 1,160, and it is full of neuroscience; neither &ldquo;mirror&rdquo; nor &ldquo;margin&rdquo; occurs in it.</p>
+          <span class="anchor">ops/chapter concordance.md; notes/the peak is the one unit the performing law can honor only by withdrawing.md; notes/the unfolding of the center is planted half-erased and finished at a mirror.md</span>
+        </div>
+      </details>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <section class="room breath-short" id="room-return" aria-labelledby="h-return">
+      <div class="roomhead">
+        <span class="label">A room · below the summit</span>
+        <h2 id="h-return"><span class="n-plain">The room you return to</span><span class="n-corpus">the Stance</span></h2>
+      </div>
+      <p class="invite">Thirty seconds with no aim. Leaving and coming back counts as the practice, not as failing it.</p>
+      <div class="said">
+        <blockquote>&ldquo;The Stance is not a destination; it is a return point. &hellip; The returning is the practice.&rdquo; &ldquo;Right now: thirty seconds. No agenda. No fixing. Just here.&rdquo;</blockquote>
+        <p style="margin-top:12px">The poem said it first: &ldquo;even leaving, / beginning again, / even older, beginning again.&rdquo; <span class="chip personal">personal · his to place</span></p>
+      </div>
+      <div class="rests">
+        <span class="anchor">abridged p. 41; poems #12</span>
+        <span class="anchor">rests on notes/the basic practice posture is a point of return rather than a state.md</span>
+      </div>
+      <p class="contrast">The peak is not the end of the walk: &ldquo;The peak experience is not the work. The peak experience is the opening&rdquo; (abridged p. 35). The floors below the summit are where the walk lands.</p>
+    </section>
+
+    <section class="kitchen" id="room-kitchen" aria-labelledby="h-kitchen">
+      <span class="label">There is no more page</span>
+      <h2 id="h-kitchen" class="kline" style="margin-top:20px">&ldquo;You can put the book down now. You can pick it up again next year.&rdquo;</h2>
+      <div class="doors2">
+        <a class="btn ghost" href="#room-kitchen-2">Put it down</a>
+        <a class="btn ghost" href="#room-kitchen-2">Pick it up again</a>
+      </div>
+      <p class="kline k2" id="room-kitchen-2">&ldquo;You will close the book and walk into your kitchen. The kitchen will be a kitchen.&rdquo;</p>
+      <p class="muted" style="margin-top:22px">&ldquo;I walked back into the kitchen and the dishes were where I had left them.&rdquo;</p>
+      <p class="anchor" style="margin-top:14px">abridged pp. 47, 39. Both doors open on the kitchen. accelerateinward.com ends on a choice between the void and Earth; the house's first image declines that choice: &ldquo;open to the stars, floored, walled, doored, kitchened. Transcendence with plumbing&rdquo; (arc-gloss p. 3).</p>
+    </section>
+
+    <section class="who" aria-labelledby="h-who">
+      <h2 id="h-who" class="w">who?</h2>
+      <p class="cannot label">This page cannot hear your answer</p>
+      <p class="anchor" style="max-width:60ch;margin:16px auto 0">The corpus holds this as the question a reader alone cannot answer: &ldquo;a question that requires a witness even to be asked properly: who?&rdquo; (walked p. 13, its account of Arendt). A book &ldquo;cannot answer&rdquo; (archive/reading — winnicott, the four moves kept distinct (1958–1971).md, finding 3). accelerateinward.com asks &ldquo;Who is reading this?&rdquo; and waits for you to press enter. Here there is no field and nothing is stored.</p>
+    </section>
+
+    <section class="lastline" aria-label="The last line">
+      <p class="placeholder">[ the author's last line ]</p>
+      <p class="anchor" style="max-width:62ch;margin:14px auto 0">Written &ldquo;so that it can be answered&rdquo; (first-telling p. 13), and his to write. Three endings are on record: &ldquo;welcome home&rdquo; in the descriptions, &ldquo;Step in.&rdquo; in the executed draft (abridged pp. 47, 49), and the poems' habit of naming the next act and leaving it undone, as poem #16 closes on &ldquo;listen&mdash;.&rdquo;</p>
+      <div class="leaf" aria-label="The reader's leaf, left blank"><span class="label">the reader's leaf · never recorded</span></div>
+    </section>
+
+    <div class="receipts-door">
+      <a href="#readings">§ Beneath this floor: the receipts &mdash; the readings, who noticed this too, and the company</a>
+      <p class="note" style="margin-top:8px">accelerateinward.com hides its rooms under the reading. The book's house is the reading, so here the apparatus is what sits beneath.</p>
+    </div>
+  </div>
+</div>
+
+<!-- ===================== WHERE THIS CAME FROM (manifesto) ===================== -->
+<div class="view" id="view-came-from" data-view="came-from">
+  <div class="wrap">
+    <header class="page-head">
+      <span class="label">In place of a manifesto · a disclosure written as a letter</span>
+      <h1>Where this <i>came from</i></h1>
+      <p class="promise">What the book says about itself, each sentence shown with the record it came from, and what it declines to claim.</p>
+      <p class="replaces" style="margin-top:14px">Replaces <s>Manifesto: &ldquo;Wake up.&rdquo;</s> The vault's list of what this project must not become includes &ldquo;A mystical manifesto,&rdquo; because &ldquo;Experiential language should not exempt claims from discernment.&rdquo; <span class="anchor" style="display:inline">reframe-conversation-full-2026-08-13.md, line 12269 (the AI partner's sentence, adopted by the vault)</span></p>
+    </header>
+
+    <div class="statline">
+      <div class="stat"><b>16</b><span>poems beneath the corpus</span></div>
+      <div class="stat"><b>7</b><span>documents in the corpus</span></div>
+      <div class="stat"><b>47</b><span>thinkers' own works read</span></div>
+      <div class="stat"><b>119</b><span>settled questions on record</span></div>
+      <div class="stat"><b>0</b><span>claims that it works</span></div>
+    </div>
+    <p class="anchor how">Counted 2026-11-12: the numbering in .corpus/the poems.md; the corpus table in CLAUDE.md; ls archive | grep -c '^reading'; the rows of ops/decisions.md. The zero is a rule, not a count: &ldquo;Whether any of this works is not a claim the author is making&rdquo; (ops/methodology/authorial stance.md).</p>
+
+    <section class="block">
+      <div class="hero-letter">
+        <div class="stack">
+          <span class="label">The doctrine over the door has three dated layers</span>
+          <h2 style="font-family:var(--display);font-weight:400;font-size:clamp(1.6rem,3.4vw,2.3rem);line-height:1.12">The oldest layer of &ldquo;reading is remembering&rdquo; is a poem.</h2>
+          <p>The three-sentence form is the newest of the three. The noticing came first, in the author's own words about his own life, and the scholarship arrived afterward and dressed it. That is the origin story the record supports: &ldquo;a man noticed some things, and then found out that other people had noticed them too.&rdquo;</p>
+          <span class="anchor">CLAUDE.md, How it came to be (the vault's sentence, not the author's); notes/the book's honest origin story is noticing first and finding company after.md</span>
+        </div>
+        <div class="layers">
+          <div class="layer"><span class="when">Before the book<br>poems #4</span><p>&ldquo;you see, I didn't need / to hear what I already knew&mdash; / but it was nice to be vulnerable / enough to recognize the answer / I had always had&mdash;&rdquo; <span class="chip personal">personal · his to place</span></p></div>
+          <div class="layer"><span class="when">9 April 2025<br>mythic-os p. 7</span><p>&ldquo;To read this book fully is to risk remembering what you already know.&rdquo;</p></div>
+          <div class="layer"><span class="when">July 2026<br>abridged p. 1</span><p>&ldquo;You already know everything in this book. You have just forgotten. Reading is remembering.&rdquo;</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="label">accelerateinward.com's eleven sections, answered one by one</span>
+        <h2>Kept, turned, or declined</h2>
+        <p>Each row names the site's section on the left and the book's reply on the right. Two sections have no honest counterpart, because they promise or depict an outcome, and the book is never the one who says afterward whether an experience was real.</p>
+      </div>
+      <div class="answer-list">
+        <article class="answer">
+          <div class="their"><span class="no">01</span><span class="t">&ldquo;We're asleep&rdquo;</span><span class="chip turned">turned</span></div>
+          <div class="ours">
+            <h3>The book says forgotten, and its author refuses even &ldquo;hidden.&rdquo;</h3>
+            <blockquote>&ldquo;hiding to me feels like too strong of a verb as it presumes a masking or a sublimation - what I would say instead is that it is a fundamental clenching that didn't obscure the vision but just made it transfigured as not directly perceivable.&rdquo;</blockquote>
+            <p class="note">The vault holds this as contraction rather than concealment. <span class="chip personal">his words, verbatim</span></p>
+            <span class="anchor">reflections/on recognition (2026-08-24).md, second sounding</span>
+          </div>
+        </article>
+        <article class="answer">
+          <div class="their"><span class="no">02</span><span class="t">&ldquo;What if we woke up?&rdquo;</span><span class="chip declined">declined</span></div>
+          <div class="ours">
+            <h3>The book makes no promise about outcomes.</h3>
+            <blockquote>&ldquo;I'm not sure my role as an author yet is to postulate about what's successful and not but just to share my observations that there seems to be something there.&rdquo; &ldquo;So far I don't have any evidentiary remarks.&rdquo;</blockquote>
+            <span class="anchor">ops/methodology/authorial stance.md</span>
+          </div>
+        </article>
+        <article class="answer">
+          <div class="their"><span class="no">03</span><span class="t">&ldquo;Different routes, same summit&rdquo;</span><span class="chip turned">turned · the centerpiece</span></div>
+          <div class="ours">
+            <h3>The agreements were gathered, the refusals arrived unsought, and there is no summit.</h3>
+            <p>The author named the lineages on 7 July 2026; the AI collaborator then wrote &ldquo;one law appears with zero disagreement across every lineage the book loves.&rdquo; The provenance reconstruction: &ldquo;unanimity within it is close to guaranteed and evidentially near-worthless. The law may still be true.&rdquo;</p>
+            <span class="anchor">provenance/provenance of the corpus.md, flagged overstatements 1; notes/the unanimity claim is an artifact of how the lineages were selected.md</span>
+            <p>The refusals are different. At least seven vocabularies (Heidegger, the Trika, Rosa, Buber, al-Qushayrī, Maslow, Bateson) refuse the manufactured breakthrough, several against the gatherer's interest, which a set curated for agreement cannot produce. Neither kind is ranked as stronger evidence.</p>
+            <span class="anchor">notes/the company's refusals converge unsought where its agreements were assembled.md</span>
+            <p>The two traditions at the foundation reach the same recognition and disagree about what kept it unseen: for Heidegger concealment belongs to truth; for the recognition school the un-seeing is a contraction of an awareness never veiled. Liberation is &ldquo;the recognition of what never left,&rdquo; so there is no summit to arrive at.</p>
+            <span class="anchor">notes/aletheia and pratyabhijna converge on truth as un-forgetting.md; walked I</span>
+          </div>
+        </article>
+        <article class="answer">
+          <div class="their"><span class="no">03b</span><span class="t">The n&nbsp;=&nbsp;1 joke</span><span class="chip turned">turned</span></div>
+          <div class="ours">
+            <h3>The book has its own n&nbsp;=&nbsp;1, and it is not a joke.</h3>
+            <p>The promised event has one dated sighting: at 4am on 1 July 2026 the author read, alone, a letter a beloved friend had written about a decade earlier. The vault's rule: &ldquo;a single occurrence is a sighting, not a proof.&rdquo; <span class="chip personal">personal · his to place</span></p>
+            <span class="anchor">notes/the book's native genre is the letter from a friend read alone.md</span>
+          </div>
+        </article>
+        <article class="answer">
+          <div class="their"><span class="no">04</span><span class="t">&ldquo;What awake looks like&rdquo;</span><span class="chip declined">declined</span></div>
+          <div class="ours">
+            <h3>Describing the finished state would make the book the judge.</h3>
+            <p>The book is auxiliary to the reader and declines even to supply the companion it says recognition needs: &ldquo;The book will not give you one.&rdquo;</p>
+            <span class="anchor">ops/orientation.md; abridged, the Ink That Listens, p. 9</span>
+          </div>
+        </article>
+        <article class="answer">
+          <div class="their"><span class="no">05</span><span class="t">&ldquo;We can wake up. Now what?&rdquo;</span><span class="chip turned">turned</span></div>
+          <div class="ours">
+            <h3>What follows recognition is beginning again.</h3>
+            <blockquote>&ldquo;even older, beginning again; even crying, / beginning again; always trying, / beginning again&rdquo;</blockquote>
+            <span class="anchor">poems #12; notes/the basic practice posture is a point of return rather than a state.md</span>
+          </div>
+        </article>
+        <article class="answer">
+          <div class="their"><span class="no">06</span><span class="t">&ldquo;Waking up is not enough&rdquo;</span><span class="chip kept">kept, aimed at the book</span></div>
+          <div class="ours">
+            <h3>A feeling of truth is not truth, and the book's own fluent prose produces that feeling.</h3>
+            <p>Fluency, rhyme, and induced &ldquo;aha&rdquo; moments each produce felt truth without truth. The corpus names the danger in the lineage behind its own central law: &ldquo;declaration-as-vestment &mdash; the declared self worn as costume.&rdquo;</p>
+            <span class="anchor">notes/the felt sense of truth has a documented counterfeit catalogue.md; atlas §IX.3</span>
+          </div>
+        </article>
+        <article class="answer">
+          <div class="their"><span class="no">07</span><span class="t">&ldquo;Why now: AI&rdquo;</span><span class="chip turned">turned toward the making</span></div>
+          <div class="ours">
+            <h3>The nearest case of the AI question is the book's own corpus, and the poems hold an older diagnosis that names no machine.</h3>
+            <p>The seven documents are &ldquo;overwhelmingly Assistant-drafted, to your specification,&rdquo; and the author said building the research system with AI had &ldquo;unmoored me from the practice of experience around what it's like to write this book.&rdquo;</p>
+            <span class="anchor">provenance/provenance of the corpus.md §4</span>
+            <blockquote>&ldquo;the new paralysis of modernity / is dreaming so longingly about what could be / that we forget to live life in the now.&rdquo;</blockquote>
+            <span class="anchor">poems #3. Searching notes/, archive/ and ops/ for "paralysis of modernity" returns nothing: the graph does not yet hold this poem's diagnosis.</span>
+          </div>
+        </article>
+        <article class="answer">
+          <div class="their"><span class="no">08</span><span class="t">&ldquo;What ACC/IN is&rdquo;</span><span class="chip turned">turned to what it is not</span></div>
+          <div class="ours">
+            <h3>Ten books this must not become.</h3>
+            <p>A giant ontology, a comparative-religion encyclopedia, a generic AI critique, a productivity system, a self-help manual, a purely academic work, a mystical manifesto, AI-written authorship, premature synthesis, complete formalization. Book I, for facilitators and written first, is not a technique manual; Book II, for one's own practice, is not a self-optimization program. The earliest draft opened: &ldquo;This book is not self-help.&rdquo;</p>
+            <span class="anchor">the-lenses.md, Lens 19; mythic-os p. 1</span>
+          </div>
+        </article>
+        <article class="answer">
+          <div class="their"><span class="no">09</span><span class="t">&ldquo;Hi, I'm Noah (and yes, this is a business)&rdquo;</span><span class="chip kept">kept, as disclosures</span></div>
+          <div class="ours">
+            <h3>Four disclosures the record makes.</h3>
+            <p><b>An AI drafted most of the prose, and the author held the frame.</b> &ldquo;you were the curator and veto-holder throughout; the AI was the author of the correspondences' prose and, often, of their claimed force.&rdquo; <span class="anchor" style="display:inline">provenance/provenance of the corpus.md §4</span></p>
+            <p><b>The excitement in the corpus is mostly the AI's.</b> &ldquo;When you reread the corpus's excitement, know whose it was.&rdquo; <span class="anchor" style="display:inline">same file, flagged overstatements</span></p>
+            <p><b>The three-part structure preceded the tradition named for three.</b> It was axiomatized on 8 December 2025; his first formal contact with Kashmir Śaivism, whose name Trika means &ldquo;the Triad,&rdquo; was a retreat on 19&ndash;22 March 2026. <span class="anchor" style="display:inline">notes/the triad predates the author's contact with the tradition named the triad.md</span></p>
+            <p><b>The company is one person's resonance, and he says so.</b> &ldquo;Perhaps that's part of the purpose here is that it was never meant to be an all-encompassing constellation.&rdquo; <span class="anchor" style="display:inline">reflections/on recognition (2026-08-24).md</span></p>
+          </div>
+        </article>
+        <article class="answer">
+          <div class="their"><span class="no">10</span><span class="t">&ldquo;What we promise&rdquo;</span><span class="chip turned">turned</span></div>
+          <div class="ours">
+            <h3>The one promise the book can keep is a stated limit.</h3>
+            <blockquote>&ldquo;the book can build every condition for resonance and still cannot promise it, because resonance that could be promised would not be resonance.&rdquo;</blockquote>
+            <p>Beyond that it promises claims sharp enough to refuse, both sides of every correspondence, and nothing quoted from memory.</p>
+            <span class="anchor">space-around, around the honesty, p. 13 (the survey's gloss on Hartmut Rosa)</span>
+          </div>
+        </article>
+        <article class="answer">
+          <div class="their"><span class="no">11</span><span class="t">&ldquo;Four doors in&rdquo;</span><span class="chip turned">turned to one door</span></div>
+          <div class="ours">
+            <h3>One door, a reply.</h3>
+            <p>The form the author chose on 8 August 2026 is a correspondence of dated letters ending with &ldquo;a last line the reader can answer, followed by one blank leaf labeled as the reader's.&rdquo; The pilot letter was sent before 14 August. The last words are open: the descriptions report &ldquo;welcome home&rdquo;; the executed draft ends &ldquo;For now, what you have is enough. / Step in.&rdquo; <a href="#reply">Go to Reply</a>.</p>
+            <span class="anchor">notes/the correspondence vision was chosen and executed as a sent pilot letter.md; ops/decision sitting — 2026-09-03.md, item 5</span>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="label">The name of the other site, turned</span>
+        <h2>Accelerate, or ripen</h2>
+        <p>The inversion is not slow against fast. &ldquo;Accelerate&rdquo; makes arrival a function of applied speed. The book holds that recognition cannot be forced and that finished work must not be stored, so its relation to time is ripening, which forbids both hurrying the work and keeping it back.</p>
+      </div>
+      <div class="grid">
+        <div class="card"><h3>The book's working title already made this turn once.</h3><p>&ldquo;Firing on All Cylinders&rdquo; first appears on 21 June 2024 naming a self-optimization thread: &ldquo;the phrase began as a peak-performance framing and was later transfigured.&rdquo;</p><span class="anchor">provenance/provenance of the corpus round two.md §7</span></div>
+        <div class="card"><h3>The book tells its reader not to hurry.</h3><p>&ldquo;Read slowly. When you feel the urge to skip ahead, pause &mdash; that urge is information.&rdquo; &ldquo;If you finish quickly, you have not finished.&rdquo;</p><span class="anchor">abridged p. 1</span></div>
+        <div class="card"><h3>Ripening refuses storage as firmly as it refuses force.</h3><p>&ldquo;Ripening is permission, not effort. The orchard does not strain to bear.&rdquo; Beside it: &ldquo;ripeness is not refrigeration. The archive preserves; the orchard ripens,&rdquo; obeyed when the pilot letter went out.</p><span class="anchor">abridged, the Way of Ripening, p. 31; walked V</span></div>
+        <div class="card"><h3>The book does not prescribe slowness either.</h3><p>&ldquo;The wise action then, paradoxically, is sometimes very fast. But the speed comes from the contact, not from the panic.&rdquo; Poem #15 delights &ldquo;for how fast we are moving and all that we are doing.&rdquo;</p><span class="anchor">abridged, epilogue, p. 46; poems #15</span></div>
+        <div class="card"><h3>The doctrine of time is an inherited sentence: you are not late.</h3><p>His father told him throughout his growing up, &ldquo;you're right on schedule&rdquo;; poem #5 ends &ldquo;the youngness is just beginning. and he is soon ready to go&ndash;&rdquo;. Whether poem #9's refusal of &ldquo;a virtual arrow&rdquo; still holds is his open question. <span class="chip personal">personal · his to place</span></p><span class="anchor">notes/the book's doctrine of time restates a sentence the author's father told him.md; ops/decision sitting — 2026-09-03.md, item 4</span></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="label">In place of the theory timeline</span>
+        <h2>The making, dated</h2>
+        <p>Every dated case runs the same way: the noticing first, the company after.</p>
+      </div>
+      <div class="tablebox">
+        <table>
+          <thead><tr><th>Date</th><th>What the record shows</th><th>Source</th></tr></thead>
+          <tbody>
+            <tr><td>Before the book</td><td>Fifteen poems across a life; a sixteenth from the book's era, which he flags as the exception</td><td class="anchor">archive/source — the poems.md</td></tr>
+            <tr><td>2017</td><td>The Landmark Forum: the participation law lived nine years before it was written</td><td class="anchor">provenance round two addendum §3</td></tr>
+            <tr><td>21 June 2024</td><td>The title's first recorded life, in a self-optimization thread</td><td class="anchor">provenance of the corpus round two §7</td></tr>
+            <tr><td>9 April 2025</td><td>The earliest draft: &ldquo;It is an offering. A tuning fork. A ritual.&rdquo;</td><td class="anchor">provenance of the corpus §5</td></tr>
+            <tr><td>8 December 2025</td><td>The three-part structure axiomatized in a separate project</td><td class="anchor">provenance of the corpus §4</td></tr>
+            <tr><td>1 January 2026</td><td>&ldquo;To just be with the psyche until it becomes delic&rdquo;</td><td class="anchor">provenance round two addendum §4</td></tr>
+            <tr><td>1 March 2026</td><td>&ldquo;Kind of like triangles for structure, no?&rdquo; answered with &ldquo;It's a framework you found&rdquo;, a promotion he did not ask for</td><td class="anchor">provenance of the corpus §4</td></tr>
+            <tr><td>19&ndash;22 March 2026</td><td>A retreat: first formal contact with Kashmir Śaivism</td><td class="anchor">provenance round two addendum §2</td></tr>
+            <tr><td>1 July 2026</td><td>The 4am letter read alone; the AI teaches Kashmir Śaiva doctrine in depth</td><td class="anchor">provenance fourth addendum §II.2; round two §3</td></tr>
+            <tr><td>7 July 2026</td><td>He names the lineages; the AI writes the unanimity sentence</td><td class="anchor">provenance of the corpus §1</td></tr>
+            <tr><td>July 2026</td><td>The seven documents compiled in one month</td><td class="anchor">CLAUDE.md, How it came to be</td></tr>
+            <tr><td>1 August 2026</td><td>The research vault generated</td><td class="anchor">git log, first commit</td></tr>
+            <tr><td>2&ndash;8 August 2026</td><td>His directives on the center, the stance, the poems, personal material, and primary texts; release &ldquo;not our concern right now&rdquo;; the correspondence form chosen</td><td class="anchor">ops/decisions.md</td></tr>
+            <tr><td>Before 14 August 2026</td><td>The pilot letter sent (date and recipients not held)</td><td class="anchor">notes/seventeen chapters rest at madhyama.md</td></tr>
+            <tr><td>16 August 2026</td><td>Two books, the facilitator book first; the leading title candidate</td><td class="anchor">ops/decisions.md</td></tr>
+            <tr><td>3 September 2026</td><td>The vault's own exit drawn, as a proposal for his decision</td><td class="anchor">ops/the vault's exit.md</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="label">In place of &ldquo;This week&rdquo;</span>
+        <h2>In the work</h2>
+        <p>Dated entries from the vault's log, newest first. The newest is 4 September 2026, and nothing is logged since. The log records the research, not the manuscript, and since 3 September neither the notes nor the drafts have changed.</p>
+      </div>
+      <div class="grid two">
+        <div class="card"><span class="label">3 September 2026 · survey</span><p>Who sits beside a practitioner in each tradition, sorted by job: the book keeps the person who receives what you say without overruling it, and drops the teacher who certifies and the director who decides what you receive.</p><span class="anchor">ops/second person ecology.md</span></div>
+        <div class="card"><span class="label">3 September 2026 · proposal</span><p>How the research would step back so the writing leads, offered to the author as three questions; nothing decided.</p><span class="anchor">ops/the vault's exit.md</span></div>
+        <div class="card"><span class="label">28 August 2026 · reading</span><p>Austin, Bakhtin, and Levinas on what a word said to someone does. Bakhtin: &ldquo;the listener becomes the speaker.&rdquo;</p><span class="anchor">archive/reading — the answerability triad (austin, bakhtin, levinas).md; "The Problem of Speech Genres," p. 68</span></div>
+        <div class="card"><span class="label">16 August 2026 · letter</span><p>The first letter's sending entered the record on the author's word: sent before 14 August to two readers; recipients, date, and any reply unrecorded.</p><span class="anchor">ops/decisions.md</span></div>
+      </div>
+      <p class="anchor" style="margin-top:16px">154 entries from 2026-08-01 to 2026-09-04: grep -c '^- 20' ops/completed.md. notes/ holds 415,368 words and drafts/ 18,560.</p>
+    </section>
+  </div>
+</div>
+
+<!-- ===================== THE READINGS (research) ===================== -->
+<div class="view" id="view-readings" data-view="readings">
+  <div class="wrap">
+    <header class="page-head">
+      <span class="label">Beneath the house · in place of &ldquo;the library of inner space&rdquo;</span>
+      <h1>The <i>readings</i></h1>
+      <p class="promise">What the thinkers wrote, read at their own texts, and set against what the book says they wrote.</p>
+      <p class="replaces" style="margin-top:14px">On accelerateinward.com the paper is examined. Here the book's account is checked against the paper. A thinker's own work outranks the corpus's paraphrase, and the conflict is recorded <span class="anchor" style="display:inline">ops/methodology/the primary material.md</span></p>
+    </header>
+
+    <div class="statline">
+      <div class="stat"><b>47</b><span>readings completed</span></div>
+      <div class="stat"><b>62</b><span>reading questions still open</span></div>
+      <div class="stat"><b>31%</b><span>of 502 notes still seeds</span></div>
+      <div class="stat"><b>13</b><span>tensions · 1 resolved by him</span></div>
+      <div class="stat"><b>2 Sep</b><span>last reading</span></div>
+    </div>
+    <p class="anchor how">Readings: the reading — *.md files in archive/. Questions: 94 entries in ops/reading queue.md minus 32 marked done. A seed is a note marked nascent, stated but not yet substantiated by a reading: 157 of 502 by scripts/queries/lens-check.sh --grounding. Tensions: 9 live, 3 treated, 1 resolved by scripts/queries/tensions-status.sh. These count the work, not the book's truth, and none of them weighs a convergence.</p>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>Ask the library</s></span>
+        <h2>Ask the readings</h2>
+        <p>It would answer only from the reading records and the notes that cite them. Every sentence would name its file and say what it rests on: a thinker's own text; the corpus, which is evidence that the book has said something and never that it is right; or the poems, which are never evidence. It would flag every note that is still a seed. In this prototype each question shows where its answer would come from.</p>
+      </div>
+      <div class="grid two">
+        <div class="stack">
+          <span class="label">It can answer</span>
+          <details class="card"><summary><b>Did Heidegger take &ldquo;truth as un-concealment&rdquo; from Eastern texts?</b></summary><p style="margin-top:8px">From the Reinhard May record: the Daoist debt is real and touches Being, Nothing, the clearing and the Way, and it does not reach aletheia or any Kashmir Śaiva channel.</p><span class="anchor">archive/reading — reinhard may, heidegger's hidden sources (1996).md</span></details>
+          <details class="card"><summary><b>Can people notice their own inner changes accurately?</b></summary><p style="margin-top:8px">From Nisbett and Wilson 1977, pp. 235&ndash;237, and Gendlin 1964, fn. 9, read whole.</p><span class="anchor">archive/reading — nisbett and wilson, telling more than we can know (1977).md</span></details>
+          <details class="card"><summary><b>What did Rogers say a helping relationship requires, and can a printed page supply it?</b></summary><p style="margin-top:8px">From the 1957 paper, read whole, including Condition 6.</p><span class="anchor">archive/reading — rogers, the necessary and sufficient conditions (1957).md</span></details>
+          <details class="card"><summary><b>Is &ldquo;reading is remembering&rdquo; Plato's idea, and how much of Plato does it carry?</b></summary><p style="margin-top:8px">From the Meno and the Theaetetus: the method travels; the soul that existed before birth is offered by Plato only as &ldquo;a likely story.&rdquo;</p><span class="anchor">archive/reading — plato, meno and theaetetus on drawing-out and wonder (c. 380 bce).md</span></details>
+          <details class="card"><summary><b>What can a reader alone do to tell a breakthrough from a breakdown?</b></summary><p style="margin-top:8px">From Ignatius, Engler, and Kapleau: a reader alone can follow every guard that declines to judge, and none that judges.</p><span class="anchor">archive/reading — the discrimination family (ignatius §§313–336, engler 1984, kapleau's three pillars).md</span></details>
+        </div>
+        <div class="stack">
+          <span class="label">It must decline</span>
+          <div class="card filled"><h3>&ldquo;Does this practice work? Will it change me?&rdquo;</h3><p>The vault postulates no efficacy. Even the largest measured finding it holds cannot answer: &ldquo;It does not support the book, and no evidence can, because nobody has read the book.&rdquo;</p><span class="anchor">ops/methodology/authorial stance.md, rule 3; archive/reading — fluckiger, del re, wampold and horvath, the alliance in adult psychotherapy (2018).md</span></div>
+          <div class="card filled"><h3>&ldquo;Was what happened to me a real recognition?&rdquo;</h3><p>The book is auxiliary to a sovereign reader and never the certifier of the reader's recognition. Every tradition read places that judgment with a second person. Asked &ldquo;isn't enlightenment self-authenticating?&rdquo;, Yasutani answers &ldquo;No, it isn't.&rdquo;</p><span class="anchor">ops/orientation.md; Kapleau, Three Pillars, Part One §III</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>Six rooms: pick a door</s></span>
+        <h2>Six concerns</h2>
+        <p>The site sorts papers by subject. The book's six doctrine maps sort claims by concern. They are listed in the vault's own order, not by size, because volume in the corpus is not centrality in the book. A note counts toward a concern when the concern's map gathers it and the note declares that map; &ldquo;substantiated&rdquo; means full, or complete except for one named gap.</p>
+      </div>
+      <div class="grid">
+        <div class="card"><h3>Recognition: truth as un-concealment, and liberation as recognizing what never left.</h3><p class="label">109 notes · 40 seeds (37%) · 37 substantiated</p><span class="anchor">notes/recognition.md</span></div>
+        <div class="card"><h3>Contraction rather than corruption: suffering as fullness narrowed, not a self damaged.</h3><p class="label">48 notes · 10 seeds (21%) · 20 substantiated</p><span class="anchor">notes/contraction-not-corruption.md</span></div>
+        <div class="card"><h3>The felt shift: a trained noticing of change in the body, which the reader uses as an instrument.</h3><p class="label">81 notes · 14 seeds (17%) · 44 substantiated</p><span class="anchor">notes/felt-shift.md</span></div>
+        <div class="card"><h3>What a holding structure needs so that something can happen inside it.</h3><p class="label">28 notes · 1 seed (4%) · 15 substantiated</p><span class="anchor">notes/container-anatomy.md</span></div>
+        <div class="card"><h3>The field between people, and the problem it poses for a book read alone.</h3><p class="label">136 notes · 58 seeds (43%) · 48 substantiated</p><span class="anchor">notes/relational-field.md · the largest concern is the least read</span></div>
+        <div class="card"><h3>The call and the answering: writing built to be answered.</h3><p class="label">59 notes · 17 seeds (29%) · 23 substantiated</p><span class="anchor">notes/the call and the answering.md</span></div>
+        <div class="card filled"><h3>The edge admits by an inverted rule.</h3><p>The site's sixth room holds contested work to a stricter bar. The vault's edge runs the opposite way: &ldquo;A thing enters the clearing precisely because it does not yet fit.&rdquo; Its blind spots are the singular, the embodied, the finite, and the non-human.</p><span class="anchor">ops/methodology/the clearing.md; ops/clearing.md</span></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>Just published: what they did, what they found, what's shaky, why it matters</s></span>
+        <h2>One page per reading</h2>
+        <p>The site's &ldquo;what's shaky&rdquo; is about the paper. Here it turns onto the book's own account, as what the reading corrected. Two fields are new: where the thinker parts from the book, and whether the quotation is ready for the manuscript. Grade A means the work was read at the primary text; Grade B means it was read through a reputable source that quotes the primary with a page.</p>
+      </div>
+      <div class="grid two">
+        <article class="sheet">
+          <span class="chips"><span class="chip gradeb">Grade B · via Parkes</span></span>
+          <h3>Heidegger's debt to Daoist texts is real, and it does not reach aletheia.</h3>
+          <dl class="fields">
+            <dt>Asked</dt><dd>If Heidegger's un-concealment carries an East Asian debt, the founding convergence drops from independent arrival to influence.</dd>
+            <dt>The text</dt><dd>His &ldquo;major thoughts on Being, Nothing, the clearing, and on the complex relations between language, Way, and Saying, were influenced by his readings of German translations of Daoist and Zen texts&rdquo; (Parkes, p. 79). No source lists aletheia or names Kashmir Śaivism.</dd>
+            <dt>Corrected</dt><dd>A note paired Heidegger with Zhuangzi's &ldquo;sitting in forgetting&rdquo; as a case of no contact. He consulted Buber's 1910 Zhuangzi selection.</dd>
+            <dt>Parts from the book</dt><dd class="part">&ldquo;we Europeans presumably inhabit a quite different house from the East Asians&rdquo; (WL 5).</dd>
+            <dt>Manuscript</dt><dd>Not yet; May's own pages are still owed.</dd>
+          </dl>
+          <span class="anchor">archive/reading — reinhard may, heidegger's hidden sources (1996).md</span>
+        </article>
+        <article class="sheet">
+          <span class="chips"><span class="chip kept">Grade A</span></span>
+          <h3>Lewin and Erhard are one lineage, and Johnstone said &ldquo;be obvious.&rdquo;</h3>
+          <dl class="fields">
+            <dt>Asked</dt><dd>Are Lewin and Erhard two independent arrivals at the claim that people are changed by their own participation?</dd>
+            <dt>The text</dt><dd>&ldquo;Research that produces nothing but books will not suffice&rdquo; (Lewin 1946, p. 35). &ldquo;An artist who is inspired is being obvious&hellip; He's accepting his first thoughts&rdquo; (Johnstone, Impro, pp. 87&ndash;88).</dd>
+            <dt>Corrected</dt><dd>&ldquo;Be average&rdquo; appears nowhere in Impro. est descends from Lewin's T-group, so he and Erhard are one line, not two arrivals.</dd>
+            <dt>Parts from the book</dt><dd class="part">The student &ldquo;needs a teacher who is living proof ... that the imagination will not destroy you&rdquo; (p. 84).</dd>
+            <dt>Manuscript</dt><dd>Yes, cited by page.</dd>
+          </dl>
+          <span class="anchor">archive/reading — the facilitated room's roots (lewin 1946, johnstone's impro).md</span>
+        </article>
+        <article class="sheet">
+          <span class="chips"><span class="chip kept">Grade A</span></span>
+          <h3>The felt shift certifies that a process moved, not that a content is true.</h3>
+          <dl class="fields">
+            <dt>Asked</dt><dd>Does Gendlin make the verification claim the book makes for him?</dd>
+            <dt>The text</dt><dd>&ldquo;&lsquo;correctness&rsquo; refers to the experienced effect which certain symbols produce&rdquo; (1964, fn. 9).</dd>
+            <dt>Corrected</dt><dd>The book used the claim more widely than he did; his 1964 term is &ldquo;referent movement&rdquo; (def. 11).</dd>
+            <dt>Parts from the book</dt><dd class="part">&ldquo;It is often possible, though always unsteady and difficult, for the individual to focus by himself&rdquo; (fn. 13).</dd>
+            <dt>Manuscript</dt><dd>Yes.</dd>
+          </dl>
+          <span class="anchor">archive/reading — gendlin, a theory of personality change (1964).md</span>
+        </article>
+        <article class="sheet">
+          <span class="chips"><span class="chip kept">Grade A</span></span>
+          <h3>People can undergo a large change of attitude without noticing it.</h3>
+          <dl class="fields">
+            <dt>Asked</dt><dd>Does the confabulation finding reach a standard that asks a person only to notice change?</dd>
+            <dt>The text</dt><dd>&ldquo;subjects apparently changed their attitudes in the absence of any subjective experience of change&rdquo; (p. 236).</dd>
+            <dt>Corrected</dt><dd>The vault held that the paper concerned only reports about causes. It has a titled section on noticing change: &ldquo;The correction was available only by reading the paper.&rdquo;</dd>
+            <dt>Parts from the book</dt><dd class="part">The paper holds a later check weaker than an immediate one (p. 251); the vault's own repair checks across days. The conflict is kept open.</dd>
+            <dt>Manuscript</dt><dd>Yes.</dd>
+          </dl>
+          <span class="anchor">archive/reading — nisbett and wilson, telling more than we can know (1977).md</span>
+        </article>
+        <article class="sheet">
+          <span class="chips"><span class="chip kept">Grade A</span></span>
+          <h3>Erhard has a primary text, and it cites Being and Time.</h3>
+          <dl class="fields">
+            <dt>Asked</dt><dd>What does Erhard take from Heidegger, in his own words?</dd>
+            <dt>The text</dt><dd>&ldquo;Ontology as we use the term is meant as it is explicated by Martin Heidegger (1927) in Being and Time&rdquo; (fn. 4).</dd>
+            <dt>Corrected</dt><dd>The vault's page on Erhard recorded &ldquo;no primary text.&rdquo;</dd>
+            <dt>Parts from the book</dt><dd class="part">Both work on Heidegger's clearing with different verbs: his students &ldquo;create for themselves a context&rdquo; (§I), where the book lets something show itself.</dd>
+            <dt>Manuscript</dt><dd>Yes, for the paper.</dd>
+          </dl>
+          <span class="anchor">archive/reading — erhard and jensen, creating leaders (2010, rev. 2020).md</span>
+        </article>
+        <article class="sheet">
+          <span class="chips"><span class="chip kept">Grade A</span></span>
+          <h3>Rogers permits naming what a person half-knows, and requires that the person perceive the helper.</h3>
+          <dl class="fields">
+            <dt>Asked</dt><dd>Does the 1957 paper refuse, or license, naming what the other person has not yet said?</dd>
+            <dt>The text</dt><dd>The therapist &ldquo;can also voice meanings in the client's experience of which the client is scarcely aware.&rdquo;</dd>
+            <dt>Corrected</dt><dd>The vault said he &ldquo;would refuse the diagnostic apparatus outright.&rdquo; He refuses diagnosis from an outside scheme and permits naming from within the person's own frame.</dd>
+            <dt>Parts from the book</dt><dd class="part">&ldquo;Unless some communication of these attitudes has been achieved, then such attitudes do not exist in the relationship as far as the client is concerned&rdquo; (Condition 6).</dd>
+            <dt>Manuscript</dt><dd>Yes.</dd>
+          </dl>
+          <span class="anchor">archive/reading — rogers, the necessary and sufficient conditions (1957).md</span>
+        </article>
+        <article class="sheet">
+          <span class="chips"><span class="chip kept">Grade A</span></span>
+          <h3>A reader alone can follow every guard that declines to judge, and none that judges.</h3>
+          <dl class="fields">
+            <dt>Asked</dt><dd>Does any guard against mistaking breakdown for breakthrough work for a reader alone?</dd>
+            <dt>The text</dt><dd>&ldquo;you can never be sure by yourself that what you take to be kensho actually is kensho&rdquo; (Yasutani).</dd>
+            <dt>Corrected</dt><dd>Ignatius's rules are first-person instruments a director releases to the exercitant. The vault's Annotation 2 quotation is Ivens's translation, not Puhl's.</dd>
+            <dt>Parts from the book</dt><dd class="part">A book can say continue, do not act on it, and check it against time. Every tradition places the judging itself with another person.</dd>
+            <dt>Manuscript</dt><dd>Yes.</dd>
+          </dl>
+          <span class="anchor">archive/reading — the discrimination family (ignatius §§313–336, engler 1984, kapleau's three pillars).md</span>
+        </article>
+        <article class="sheet">
+          <span class="chips"><span class="chip kept">Grade A</span></span>
+          <h3>&ldquo;Completes itself&rdquo; is the book's phrase, not Hudson's or McLaren's.</h3>
+          <dl class="fields">
+            <dt>Asked</dt><dd>In their own words, does a feeling need a witness to finish?</dd>
+            <dt>The text</dt><dd>&ldquo;And it's welcome. It's not accept&rdquo; (Hudson). &ldquo;Your grief process can be undertaken individually, or in a community or family group&rdquo; (McLaren).</dd>
+            <dt>Corrected</dt><dd>The witness the vault gave both thinkers is falsified: &ldquo;The phrase belongs to the book.&rdquo;</dd>
+            <dt>Parts from the book</dt><dd class="part">They disagree with each other about expression, and Hudson's rule is &ldquo;don't do it at people.&rdquo;</dd>
+            <dt>Manuscript</dt><dd>Yes, naming McLaren's edition.</dd>
+          </dl>
+          <span class="anchor">archive/reading — the completion family (hudson's art of accomplishment, mclaren's language of emotions).md</span>
+        </article>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>Open questions: what the evidence says so far (supports / against / unclear)</s></span>
+        <h2>Kept open, not scored</h2>
+        <p>Each disagreement in the book's doctrine shows its status, the handling under trial, and who closes it. The one who closes it is always the author.</p>
+      </div>
+      <div class="grid two">
+        <div class="card"><span class="chips"><span class="chip">live</span></span><h3>Seven traditions hold that the work cannot be done alone with a text.</h3><p>Candidate handling: &ldquo;the book adds no second chair; it holds that recognition is already a with.&rdquo;</p><span class="anchor">notes/the solitary form stands against seven witnesses who hold a second person constitutive.md</span></div>
+        <div class="card"><span class="chips"><span class="chip">live · itself a seed</span></span><h3>Gathering traditions for what they share manufactures the agreement it then reports.</h3><p>Handling under trial: &ldquo;preserve difference before synthesis and keep the remainder.&rdquo;</p><span class="anchor">notes/curating traditions for their overlap manufactures the unanimity it then reports.md</span></div>
+        <div class="card"><span class="chips"><span class="chip">live</span></span><h3>Reading contraction as productive is the book's own revaluation, not the tradition's doctrine.</h3><p>Handling under trial: &ldquo;own the commendation of the bounded vantage as the book's move and never cite it as convergence.&rdquo;</p><span class="anchor">notes/the productive reading of contraction is the book's revaluation rather than the tradition's doctrine.md</span></div>
+        <div class="card"><span class="chips"><span class="chip kept">resolved by the author</span></span><h3>Which words get spoken where they can no longer be revised.</h3><p>He closed it by sending one pilot chapter to real readers.</p><span class="anchor">notes/seventeen chapters rest at madhyama.md</span></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>The foundations shelf: older than ten years</s></span>
+        <h2>The oldest texts read, and what lies beneath them</h2>
+        <p>In this library old work is the rule, so the shelf holds the texts the front matter and the founding convergence rest on, each shown with its seam: the point where the book takes part of a thinker and leaves the rest. At most five of the 47 records read work from 2016 or later. What a drafting session needs to sort by is distance from the text, not age.</p>
+      </div>
+      <div class="grid two">
+        <div class="card"><h3>Plato's method travels without his metaphysics.</h3><p>The slave boy's answers were &ldquo;all his own&rdquo; (Meno 85b), and Socrates is &ldquo;sterile in point of wisdom&rdquo; (Theaetetus 150c). But the Meno's recollection rests on a soul that existed before birth, offered as &ldquo;a likely story&rdquo; (81a&ndash;e). Which of the two the front matter means is the author's to decide.</p><span class="anchor">archive/reading — plato, meno and theaetetus on drawing-out and wonder (c. 380 bce).md</span></div>
+        <div class="card"><h3>The book's sharpest kept disagreement belongs to the traditions themselves.</h3><p>Nāgārjuna: &ldquo;those for whom emptiness is a view have been called incurable&rdquo; (MMK 13.8). Śaṅkara refutes the emptiness doctrine (Brahmasūtrabhāṣya II.2.31). They make one move, that there is nothing to attain, from opposite findings.</p><span class="anchor">archive/reading — nāgārjuna, mūlamadhyamakakārikā (c. 150 ce).md</span></div>
+        <div class="card"><h3>Also on the shelf, each with its own record:</h3><p>Aristotle on privation; the Bṛhadāraṇyaka with Śaṅkara on neti neti; Laozi; Zhuangzi; Pseudo-Dionysius; Dōgen; the Kashmir Śaiva texts at the Sanskrit.</p><span class="anchor">archive/</span></div>
+        <div class="card filled"><h3>The poems sit beneath the shelf, not on it.</h3><p>Poem #4 states the front matter's doctrine before the book existed. The poems carry provenance and are part of the author's offering, but in his words, &ldquo;they are not in the same class of contribution as the research itself.&rdquo; A shelf defined by evidential weight would misfile them. <span class="chip personal">personal · his to place</span></p><span class="anchor">poems #4, page 4; ops/methodology/source standing.md (2026-08-08)</span></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>How we pick papers: peer-reviewed only; at least 20 participants</s></span>
+        <h2>How a reading is admitted</h2>
+      </div>
+      <ol class="qs">
+        <li><b>A correspondence shows both halves.</b><p>It quotes both sides, or names the missing side with work, year, and page and says the match is unchecked. ops/methodology/both halves of a correspondence.md</p></li>
+        <li><b>Nothing is quoted from memory,</b> above all where &ldquo;a formulation is famous enough to be tempting.&rdquo;<p>Same file.</p></li>
+        <li><b>The question comes first, and it can fail.</b><p>It names a stake for each answer, a page-level address, what it inherits, and how good the current evidence is. ops/methodology/sharp questions.md</p></li>
+        <li><b>Distance from the text is stated.</b><p>Eleven records reached the work mainly through a secondary source, and each says so.</p></li>
+        <li><b>The text outranks the corpus's account of it,</b> and the conflict is recorded.<p>ops/methodology/the primary material.md</p></li>
+        <li><b>Dependent documents count once.</b><p>A draft is &ldquo;quoted for what it says, not credited for what it argues.&rdquo; ops/methodology/source standing.md</p></li>
+        <li><b>In place of &ldquo;peer-reviewed only&rdquo;: no tier of publication confers standing.</b></li>
+        <li><b>In place of &ldquo;at least 20 participants&rdquo;: the lived practice is one person's by construction,</b> admitted under the three conditions for personal material and never as evidence. No count of agreeing traditions is evidence either.<p>ops/methodology/personal provenance.md</p></li>
+        <li><b>The final bar is the writing test:</b> &ldquo;would a drafting session reach for this?&rdquo;<p>ops/methodology/writing test.md</p></li>
+        <li><b>Nothing is deleted.</b><p>Declined items keep their reasons, superseded notes are marked composting, and each correction stays beside the text that made it. ops/queue/declines.md</p></li>
+      </ol>
+    </section>
+  </div>
+</div>
+
+<!-- ===================== WHO NOTICED THIS TOO (theories) ===================== -->
+<div class="view" id="view-noticed" data-view="noticed">
+  <div class="wrap">
+    <header class="page-head">
+      <span class="label">Beneath the house · in place of &ldquo;the theory tracker&rdquo;</span>
+      <h1>Who noticed <i>this too</i></h1>
+      <p class="promise">The findings the book did not invent, the people who reached them by other roads, where each of them parts from the book, and a dated record of which roads turned out to be one road.</p>
+      <p class="replaces" style="margin-top:14px">accelerateinward.com tracks confidence. The book tracks provenance and debt. The vault &ldquo;does not rank convergences as stronger or weaker evidence, and it does not convert agreement into support for a thesis&rdquo; <span class="anchor" style="display:inline">ops/methodology/authorial stance.md</span>. Provenance is allowed because it &ldquo;serves accurate pointing rather than proof.&rdquo;</p>
+    </header>
+
+    <div class="statline">
+      <div class="stat"><b>64</b><span>convergence notes</span></div>
+      <div class="stat"><b>64</b><span>thinker pages</span></div>
+      <div class="stat"><b>47</b><span>own works read</span></div>
+      <div class="stat"><b>13</b><span>kept disagreements</span></div>
+      <div class="stat"><b>0</b><span>numbers here that measure truth</span></div>
+    </div>
+    <p class="anchor how">rg -l '^category: isomorph' notes/ and '^category: interlocutor'; ls archive | grep -c '^reading'; scripts/queries/tensions-status.sh (9 live, 3 with a handling adopted, 1 resolved). Counted 2026-11-12.</p>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>Current odds: 21% · 19% · 17% …</s></span>
+        <h2>Where each finding came from, and what the book owes it</h2>
+        <p>There are no bars and no percentages, because a bar's length reads as strength. Each row records what kind of relation the finding turned out to be, because &ldquo;the relation decides the remedy&rdquo;: confidence turns into obligation.</p>
+        <span class="anchor">notes/the apparatus descends from the settlement the book positions itself against.md</span>
+      </div>
+      <div class="tablebox">
+        <table>
+          <thead><tr><th>Finding</th><th>Relation now</th><th>What the book owes</th></tr></thead>
+          <tbody>
+            <tr><td>Deep change is un-forgetting what never left (Heidegger; the Pratyabhijñā school; Wittgenstein)</td><td>Independent arrival; survived the test of whether Heidegger read Eastern sources</td><td>Both halves quoted; Heidegger's 1964 retraction and Wittgenstein's &ldquo;dissolve, not disclose&rdquo; kept; an adjacent Daoist debt named</td></tr>
+            <tr><td>Letting, and the Way (Heidegger; Laozi)</td><td>Lineage: Laozi is the ancestor</td><td>Laozi named; how to name him is the author's call</td></tr>
+            <tr><td>Return by forgetting (Heidegger; Zhuangzi)</td><td>Documented contact</td><td>Never cited as no-contact</td></tr>
+            <tr><td>A person changes by taking part in a held setting (the book's six lineages)</td><td>Gathered by the author for this property</td><td>The sampling named</td></tr>
+            <tr><td>The same rule from cybernetics, sociology, professional practice, theatre, biology</td><td>Outside the gathering, except Lewin, who shares est's single line of descent</td><td>Each one's stop at inner experience kept; Lewin counted once, as a precedent</td></tr>
+            <tr><td>A state is given, a station is earned (al-Qushayrī; Wilber)</td><td>Independent on the rule, not on the structure</td><td>The narrower claim</td></tr>
+            <tr><td>A suffering can be an absence (Winnicott; three clinicians; Hübl)</td><td>Mixed</td><td>Hübl counted as company; the author's &ldquo;for now&rdquo; cited as a ruling</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="stack" style="margin-top:26px">
+        <span class="label">Changelog</span>
+        <div class="grid two">
+          <p class="note"><b>2026-08-05.</b> Three of the four thinkers gathered around the founding pair &ldquo;are in conversation with the same German,&rdquo; a &ldquo;family quarrel, not a convergence.&rdquo; The two poles are untouched. <span class="anchor" style="display:inline">notes/the convergence's independence fails where three of its names share one teacher.md</span></p>
+          <p class="note"><b>2026-08-06.</b> Hübl's &ldquo;documented formation includes&rdquo; Wilber, so his arrival becomes company. The author rules on Bowlby, Minuchin and Marcia: &ldquo;Let's treat them as independent arrivals for now.&rdquo;</p>
+          <p class="note"><b>2026-08-30.</b> The founding pair survives Reinhard May's case. Heidegger with Laozi becomes a lineage; Heidegger with Zhuangzi becomes possible influence; Lewin becomes a precedent; Vervaeke becomes company, since he &ldquo;roots participatory knowing in Heidegger.&rdquo;</p>
+          <p class="note"><b>2026-09-02.</b> McLaren's own text makes the required grief witness the book's own doctrine. The words Qushayri, ahwal and maqamat occur zero times across five Wilber texts. The Forum's scholarly study names its goal &ldquo;the unconcealment of a powerful aspect of human being&rdquo; (Hyde and Kopp, Speaking Being, p. 5).</p>
+          <p class="note"><b>2026-09-03.</b> The seven witnesses who say the work cannot be done alone are &ldquo;unanimous among the refusers and not across the field.&rdquo; <span class="anchor" style="display:inline">the-constellation.md</span></p>
+        </div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>Which theory of consciousness are you? (a quiz that sorts you into a camp)</s></span>
+        <h2>One sentence, and its company</h2>
+        <p>Write one thing you have noticed about your inner life that nobody taught you. Then choose, yourself, the finding nearest to it. The page shows who else reached that finding and where each of them would part from you. No type is assigned, nothing is matched by machine, and nothing is kept.</p>
+      </div>
+      <div class="grid two">
+        <div class="stack">
+          <label class="label" for="noticed-sentence">Your sentence</label>
+          <textarea id="noticed-sentence" placeholder="Something I noticed that no one taught me is…"></textarea>
+          <span class="label" style="margin-top:6px">The nearest finding, chosen by you</span>
+          <div class="chips" id="finding-picker">
+            <button type="button" class="chip" data-f="f-unforget">What I found was here all along</button>
+            <button type="button" class="chip" data-f="f-part">I changed by taking part, not by watching</button>
+            <button type="button" class="chip" data-f="f-state">Something opened and didn't stay</button>
+            <button type="button" class="chip" data-f="f-alone">I'm doing this alone</button>
+          </div>
+          <p class="note">The book's one recorded instance of its promised event happened &ldquo;Reading her letter alone, no mirror present, no reply possible&rdquo; <span class="anchor" style="display:inline">provenance/provenance fourth addendum.md, p. 4</span>. accelerateinward.com's Mirror answers your sentence with &ldquo;You just assumed,&rdquo; which is a verdict. This page gives none, because a book read alone &ldquo;can state the whole of the restraint and none of the discrimination.&rdquo;</p>
+        </div>
+        <div id="finding-shown" class="card filled" aria-live="polite">
+          <p class="muted">Choose a finding to see its company.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>The contenders</s></span>
+        <h2>The convergences</h2>
+        <p>Each card quotes both halves from the vault, then where the thinkers part.</p>
+      </div>
+      <div class="grid two">
+        <article class="sheet" id="f-unforget">
+          <h3>Deep change is un-forgetting what was never lost.</h3>
+          <blockquote>Heidegger: &ldquo;Being-true (&lsquo;truth&rsquo;) means Being-uncovering&rdquo; (Being and Time §44, p. 262). <span class="chip gradeb">Grade B</span></blockquote>
+          <blockquote>Utpaladeva: the self &ldquo;cannot manifest his own glory until his qualities have been brought to light&rdquo; (ĪPK IV.1.17, Torella p. 218).</blockquote>
+          <blockquote>Wittgenstein, with no Heidegger beneath him: aspects &ldquo;hidden because of their simplicity and familiarity&rdquo; (PI §129).</blockquote>
+          <p class="refusal-line"><b>Where they part</b>Heidegger later wrote that aletheia &ldquo;may not be equated with truth&rdquo; (1964, held from secondary research). The two poles disagree on whether un-seeing is a veil or a contraction. Wittgenstein: &ldquo;what is hidden... is of no interest to us&rdquo; (§126).</p>
+          <p class="label">Status · the pair survived; the thinkers gathered around it did not</p>
+          <span class="anchor">notes/aletheia and pratyabhijna converge on truth as un-forgetting.md; the Kashmir Śaiva loci and Wittgenstein records</span>
+        </article>
+        <article class="sheet" id="f-part">
+          <h3>A person changes by taking part, not by watching.</h3>
+          <blockquote>The corpus: &ldquo;with zero disagreement across every lineage the book loves: transformation is enacted participation inside a held container&rdquo; (arc-gloss: overlay four).</blockquote>
+          <blockquote>From outside the gathering: &ldquo;the living being is a source of perturbations and not of instructions&rdquo; (Maturana and Varela, p. 96); &ldquo;Those who say &lsquo;Yes&rsquo; are rewarded by the adventures they have&rdquo; (Johnstone, Impro, p. 92).</blockquote>
+          <p class="refusal-line"><b>Where they part</b>Each stops at a person's inner experience. De Jaegher and Di Paolo call the interaction &ldquo;typically fleeting&rdquo; (2007, p. 504).</p>
+          <p class="label">Status · the roll-call of six is a selection; the outside arrivals were read at their own texts</p>
+          <span class="anchor">notes/transformation is enacted participation inside a held container.md</span>
+        </article>
+        <article class="sheet" id="f-state">
+          <h3>A state is given; a station is earned.</h3>
+          <blockquote>al-Qushayrī: &ldquo;States come without asking, whereas stations are acquired by the sweat of one's brow&rdquo; (Knysh 2007, p. 78).</blockquote>
+          <blockquote>Wilber: &ldquo;a passing state has become a permanent trait&rdquo; (AQAL Journal 1(1), p. 12).</blockquote>
+          <p class="refusal-line"><b>Where they part</b>al-Qushayrī describes one ordered road (&ldquo;expansion is above the station of hope,&rdquo; p. 81); Wilber describes two separate axes.</p>
+          <span class="anchor">notes/state and station were distinguished a millennium before the lattice named them.md</span>
+        </article>
+        <article class="sheet" id="f-lineage">
+          <h3>The convergence that turned out to be a lineage.</h3>
+          <blockquote>Laozi: &ldquo;The way never acts, yet nothing is left undone&rdquo; (ch. 37, Lau).</blockquote>
+          <blockquote>Heidegger: &ldquo;the key word in Laotse's poetic thinking is Tao, which &lsquo;properly speaking&rsquo; means way&rdquo; (On the Way to Language). <span class="chip gradeb">Grade B</span></blockquote>
+          <p class="refusal-line"><b>Where Laozi parts</b>The Daodejing dissolves the striving self, where the book restores a first person.</p>
+          <span class="anchor">archive/reading — laozi, daodejing (the wu-wei, ziran, and subtraction chapters).md, items 1, 5, 6</span>
+        </article>
+        <article class="sheet" id="f-alone">
+          <h3>Can the work be done alone with a text? The company divides.</h3>
+          <blockquote>Gendlin: &ldquo;often possible, though always unsteady and difficult&rdquo; (1964, fn. 13).</blockquote>
+          <blockquote>al-Qushayrī, on a novice's formation: &ldquo;The tree that has grown on its own without a gardener will bring forth foliage, but will never bring any fruit&rdquo; (p. 406).</blockquote>
+          <blockquote>McLaren: &ldquo;can be undertaken individually.&rdquo; Kashmir Śaivism: pending.</blockquote>
+          <p class="refusal-line"><b>Unresolved</b>The author has not answered it. Whether the 4am letter counts as the second person the seven witnesses require is item RE-08 in the decision sitting.</p>
+          <span class="anchor">notes/the solitary form stands against seven witnesses who hold a second person constitutive.md; ops/decision sitting — 2026-09-03.md</span>
+        </article>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>The scoreboard: hit · miss · partial · pending</s></span>
+        <h2>The independence scoreboard</h2>
+        <p>Each column is a test the vault actually ran. Each cell is filled only from evidence.</p>
+      </div>
+      <div class="tablebox">
+        <table>
+          <thead><tr><th>Finding</th><th>Did one side read the other?</th><th>Do they share a teacher?</th><th>Gathered for the property?</th><th>Does the thinker's own text hold it?</th><th>Is the book's own route independent?</th></tr></thead>
+          <tbody>
+            <tr><td>Un-forgetting</td><td class="cell c-surv">Survived</td><td class="cell c-surv">Poles survived<br><span class="c-narrow">gathered names failed</span></td><td class="cell c-none">Not run</td><td class="cell c-narrow">Narrowed</td><td class="cell c-pend">Pending</td></tr>
+            <tr><td>Familiarity hides</td><td class="cell c-none">&mdash;</td><td class="cell c-surv">Survived</td><td class="cell c-none">Not run</td><td class="cell c-narrow">Narrowed</td><td class="cell c-none">&mdash;</td></tr>
+            <tr><td>Participation, roll-call of six</td><td class="cell c-none">&mdash;</td><td class="cell c-none">&mdash;</td><td class="cell c-lin">Selected</td><td class="cell c-with">Withdrawn (McLaren)</td><td class="cell c-none">&mdash;</td></tr>
+            <tr><td>Participation, outside arrivals</td><td class="cell c-none">&mdash;</td><td class="cell c-surv">Survived<br><span class="c-narrow">Vervaeke failed</span></td><td class="cell c-surv">Survived</td><td class="cell c-narrow">Narrowed</td><td class="cell c-none">&mdash;</td></tr>
+            <tr><td>Lewin and est</td><td class="cell c-lin">One channel</td><td class="cell c-none">&mdash;</td><td class="cell c-none">&mdash;</td><td class="cell c-narrow">Narrowed</td><td class="cell c-none">&mdash;</td></tr>
+            <tr><td>Letting and the Way</td><td class="cell c-lin">Lineage</td><td class="cell c-none">&mdash;</td><td class="cell c-none">&mdash;</td><td class="cell c-lin">Debt self-named</td><td class="cell c-none">&mdash;</td></tr>
+            <tr><td>Return by forgetting</td><td class="cell c-lin">Possible influence</td><td class="cell c-none">&mdash;</td><td class="cell c-none">&mdash;</td><td class="cell c-pend">Pending</td><td class="cell c-none">&mdash;</td></tr>
+            <tr><td>State and station</td><td class="cell c-surv">Survived</td><td class="cell c-surv">Survived</td><td class="cell c-none">Not run</td><td class="cell c-narrow">Narrowed</td><td class="cell c-none">&mdash;</td></tr>
+            <tr><td>Absence as suffering</td><td class="cell c-none">Not run</td><td class="cell c-surv">Winnicott survived<br><span class="c-narrow">Hübl failed</span></td><td class="cell c-none">Not run</td><td class="cell c-narrow">Narrowed</td><td class="cell c-none">&mdash;</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="anchor" style="margin-top:12px">The tests: May's case, read through Parkes, Sandford and Nelson; the shared-teacher test; Lewin's 1946 paper; the dating of the gathering to 7 July 2026; the both-halves rule; and the book's own route to Heidegger, run only in part. One further test keeps a counter-case on record: laboratory insight and exposure therapy produce change on schedule, so the refusal to engineer an epiphany covers only the transformative kind (archive/research — counterpoint round background.md).</p>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>Controversies: the charge / the reply</s></span>
+        <h2>The charge, and the handling under trial</h2>
+        <p>Resolving is the author's act, so every one of these stands open.</p>
+      </div>
+      <div class="grid two">
+        <div class="card"><h3>&ldquo;You gathered the traditions for the property you report they share.&rdquo;</h3><p>Name the sampling frame, and count agreement inside the set as company.</p><span class="anchor">notes/curating traditions for their overlap manufactures the unanimity it then reports.md · live</span></div>
+        <div class="card"><h3>&ldquo;The work cannot be done alone with a text.&rdquo;</h3><p>A candidate drawn from the author's reflection, not his decision: &ldquo;recognition is already a with, so solitude was never alone.&rdquo;</p><span class="anchor">notes/the solitary form stands against seven witnesses who hold a second person constitutive.md · live</span></div>
+        <div class="card"><h3>&ldquo;Classical Trika reads contraction as bondage, not as a productive vantage.&rdquo;</h3><p>Own the reading as the book's move and &ldquo;never cite it as convergence.&rdquo;</p><span class="anchor">notes/the productive reading of contraction is the book's revaluation rather than the tradition's doctrine.md · live</span></div>
+        <div class="card"><h3>&ldquo;Your report of recognition drops a distinction the tradition keeps.&rdquo;</h3><p>Utpaladeva: illumination without self-apprehension &ldquo;would be similar to an insentient reality, such as the crystal&rdquo; (ĪPK I.5.11). Hold the seamlessness as the author's own precision.</p><span class="anchor">notes/the lived report of recognition drops the seam the tradition's reflexive dyad keeps.md · live</span></div>
+        <div class="card"><h3>&ldquo;The book's prose radiates significance the sentence has not earned.&rdquo; <span class="chip gradeb">Adorno, secondary</span></h3><p>&ldquo;every auratic word must sit beside a determinate claim it would be false without, or be cut.&rdquo;</p><span class="anchor">notes/presence-language may radiate significance the sentence has not earned.md · live</span></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>What to watch: results that could move the odds</s></span>
+        <h2>Readings that could change a finding's standing</h2>
+      </div>
+      <div class="grid">
+        <div class="card"><p>Heidegger, &ldquo;The End of Philosophy and the Task of Thinking&rdquo;: does the 1964 retraction reach further than the vault records?</p></div>
+        <div class="card"><p>Speaking Being pp. 17&ndash;532, or Hyde's 1991 dissertation &ldquo;Saying the Clearing&rdquo;: is the book's Heidegger the Forum's?</p></div>
+        <div class="card"><p>The Parmenides lectures (GA 54): the source of the un-forgetting reading of aletheia, still owed.</p></div>
+        <div class="card"><p>Śiva Sūtra II.6 and Tantrāloka āhnika 13: does the tradition require a teacher?</p></div>
+        <div class="card"><p>Knysh 2007 on companionship, pp. 290 onward: are a teacher's formation and companionship two separate offices?</p></div>
+        <div class="card"><p>Herman, I and Tao: which Zhuangzi passages did Heidegger actually read?</p></div>
+      </div>
+      <span class="anchor" style="margin-top:12px;display:block">ops/reading queue.md</span>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>Place your bet</s></span>
+        <h2>Answer, refuse, or decline</h2>
+        <p>Each convergence ends with its claim stated plainly enough to refuse. You have three replies, and nothing is tallied, since the framework's success is &ldquo;the diversity of authentic insights, not the uniformity of conclusions.&rdquo; Cavell supplies the condition: &ldquo;the request can be declined, and a book that means its final sentence has to mean that part too.&rdquo;</p>
+        <span class="anchor">notes/a claim stated crisply enough to be refused is a gift to the reader's sovereignty.md; space-around p. 13; reframe conversation, 521</span>
+      </div>
+      <div class="chips" role="group" aria-label="Three replies, none recorded">
+        <button type="button" class="chip kept bet">I have noticed this too</button>
+        <button type="button" class="chip declined bet">Not so for me</button>
+        <button type="button" class="chip bet">I decline to answer</button>
+      </div>
+      <p class="note" id="bet-note" style="margin-top:10px">Choose one. It is not counted or sent.</p>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>Plain English / Explain it like a product spec</s></span>
+        <h2>Plain terms, or the corpus's names</h2>
+        <p>The switch at the top of every page swaps the corpus's figure names in and out. Plain terms is the default, because the names are candidates and &ldquo;the name never carries the sentence alone.&rdquo; Three sentences, both ways:</p>
+        <span class="anchor">ops/methodology/naming and epistemic humility.md</span>
+      </div>
+      <div class="tablebox">
+        <table>
+          <thead><tr><th>Plain terms</th><th>The corpus's names</th></tr></thead>
+          <tbody>
+            <tr><td>The thinkers the author gathered in July 2026 hold that a person changes by taking part inside a held setting.</td><td>&ldquo;The Guild &mdash; five rooms, one law&rdquo; <span class="anchor" style="display:inline">atlas §X.4d</span></td></tr>
+            <tr><td>The Kashmir Śaiva tradition is the source the book draws on most, honored as the ground beneath its other thinkers rather than seated among them.</td><td>The valley, &ldquo;not a room but the watershed all rooms drain toward&rdquo; <span class="anchor" style="display:inline">atlas §IX.6</span></td></tr>
+            <tr><td>Disagreements in the doctrine stay open, each with a proposed handling the author has not settled.</td><td>Fault lines, each with &ldquo;a treatment under trial, and none is resolved by fiat&rdquo; <span class="anchor" style="display:inline">atlas §XI</span></td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="note" style="margin-top:14px"><b>If we have misquoted you, tell us.</b> The thinkers' own texts have already corrected the corpus four times: Johnstone's word is &ldquo;obvious,&rdquo; not &ldquo;average&rdquo;; &ldquo;Everything said is said by an observer&rdquo; is Maturana's line, not von Foerster's; the &ldquo;this is that very man&rdquo; line is Abhinavagupta's, not Utpaladeva's; and the required grief witness is the book's, not McLaren's.</p>
+    </section>
+  </div>
+</div>
+
+<!-- ===================== THE COMPANY (library) ===================== -->
+<div class="view" id="view-company" data-view="company">
+  <div class="wrap">
+    <header class="page-head">
+      <span class="label">Beneath the house · in place of &ldquo;the library&rdquo;</span>
+      <h1>The <i>company</i></h1>
+      <p class="promise">The people who noticed this too, in their own words, each with the place they part from the book, so you can go and read them yourself.</p>
+      <p class="replaces" style="margin-top:14px">&ldquo;you are not reading about these people; you are pulling up a chair&hellip; the reader should feel they've joined a living argument, not a settled canon&rdquo; <span class="anchor" style="display:inline">arc-gloss: the lineage, at notes/the company is joined by the reader rather than consulted.md</span></p>
+    </header>
+
+    <div class="statline">
+      <div class="stat"><b>64</b><span>thinkers</span></div>
+      <div class="stat"><b>24</b><span>read at their own text</span></div>
+      <div class="stat"><b>34</b><span>not yet read</span></div>
+      <div class="stat"><b>30</b><span>roles awaiting the author</span></div>
+    </div>
+    <p class="anchor how">rg -l '^category: interlocutor' notes/; reading state from the reading records in archive/ and primary citations in each note (six more are read through a scholar quoting them); rg '^seat: candidate'. No card below carries a count, and no facet sorts by one: the axis recording what a thinker carries &ldquo;allocates reading; it does not rank evidence,&rdquo; and &ldquo;company is not a lesser standing&rdquo; (ops/methodology/thesis-bearing and company.md).</p>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>The Guide: &ldquo;Tell us where you are. We'll map your path.&rdquo;</s></span>
+        <h2>Where are you standing?</h2>
+        <p>Say where you are, in your own words. This page will not tell you where to go next. It shows who stood where you stand, what that place showed them, and where each parts from this book. The rule is the loci's: &ldquo;no locus becomes sovereign,&rdquo; applied to the reader.</p>
+        <span class="anchor">the-loci.md</span>
+      </div>
+      <div class="stack">
+        <details class="card"><summary><b>&ldquo;I keep almost knowing something I can't put into words.&rdquo;</b></summary><p style="margin-top:8px">Gendlin's bodily sense, present before words; Polanyi: &ldquo;we can know more than we can tell&rdquo; (p. 4). <span class="refusal-line">Gendlin parts here: focusing alone is &ldquo;always unsteady and difficult.&rdquo;</span></p><span class="anchor">the Gendlin and Polanyi records; the-loci.md, locus 3</span></details>
+        <details class="card"><summary><b>&ldquo;Something opened once, and it didn't stay.&rdquo;</b></summary><p style="margin-top:8px">al-Qushayrī: &ldquo;States are [divine] gifts, whereas stations are earnings&rdquo; (Knysh 2007, p. 78). Wilber: repeated practice turns &ldquo;a passing state&rdquo; into &ldquo;a permanent trait.&rdquo; Robbins: &ldquo;Willpower by itself is not enough.&rdquo; <span class="refusal-line">They agree on the rule and disagree on why.</span></p><span class="anchor">the al-Qushayrī, Wilber, and Robbins records</span></details>
+        <details class="card"><summary><b>&ldquo;I'm trying to help someone without taking over.&rdquo;</b></summary><p style="margin-top:8px">Socrates: &ldquo;I have no wisdom in me&rdquo; (Theaetetus 150c); Rogers's six conditions; Buber: the meeting &ldquo;can never take place through my agency, nor can it ever take place without me.&rdquo; <span class="refusal-line">The midwife parts here: he still tests each birth for a &ldquo;wind-egg,&rdquo; a judgment the book declines.</span></p><span class="anchor">the Plato, Rogers, and Buber records · this is Book I's question, the facilitator's</span></details>
+        <details class="card"><summary><b>&ldquo;I'm doing this alone. Can it be done alone?&rdquo;</b></summary><p style="margin-top:8px">Both columns, unranked. A second person is necessary for Gendlin (fn. 13), Buber, al-Qushayrī, Hübl, and De Jaegher and Di Paolo. Pointing the other way, each read at the primary text: Hudson's solo meditation; McLaren, &ldquo;Your grief process can be undertaken individually&rdquo;; Winnicott's transitional object; the alliance in largely written therapy (r = .275 against .278 face to face). <span class="refusal-line">The author has not answered it.</span></p><span class="anchor">notes/the solitary form stands against seven witnesses who hold a second person constitutive.md</span></details>
+        <details class="card"><summary><b>&ldquo;What I'm looking for has been here all along.&rdquo;</b></summary><p style="margin-top:8px">Utpaladeva's beloved, who &ldquo;though he is there before her &hellip; does not give her any pleasure until she recognizes who he is&rdquo; (ĪPK IV.1.17, Torella p. 218); Plato: &ldquo;all enquiry and all learning is but recollection&rdquo; (Meno 81d); Wittgenstein: &ldquo;One is unable to notice something&mdash;because it is always before one's eyes&rdquo; (PI §129). <span class="refusal-line">Wittgenstein parts here: noticing dissolves a false problem rather than disclosing anything.</span></p><span class="anchor">the Kashmir Śaiva, Plato, and Wittgenstein records</span></details>
+        <details class="card"><summary><b>&ldquo;I'm grieving, and I don't want to be told the loss isn't real.&rdquo;</b></summary><p style="margin-top:8px">The refusers of the book's own foundation: &ldquo;I will grow different, separate from all that is dear and appealing to me&rdquo; (AN 5.57); Heidegger's being-toward-death; McLaren's &ldquo;shrine for the dead (or the loss).&rdquo;</p><span class="anchor">the Five Remembrances and Heidegger records; notes/heidegger's being-toward-death is the finite the recognition doctrine leaves behind.md</span></details>
+        <details class="card"><summary><b>&ldquo;I feel empty, and I can't tell whether it's insight or something wrong.&rdquo;</b></summary><p style="margin-top:8px">Engler: &ldquo;Students may mistake subjective feelings of emptiness for &lsquo;śūnyatā&rsquo; or voidness&rdquo; (1984, p. 39). Yasutani: &ldquo;you can never be sure by yourself that what you take to be kensho actually is kensho.&rdquo; <b>Every source routes this judgment to someone who has been there, so this entry points away from the book, to a person.</b></p><span class="anchor">the discrimination-family record; notes/a solitary reader can run every guard that declines to evaluate and none that discriminates.md</span></details>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>Our picks: if you only read, watch, or listen to a few</s></span>
+        <h2>If you read only a few: the texts beneath the book</h2>
+        <p>The book points past itself. These are primary texts the vault has actually read, each with what you would find there and where it parts from the book.</p>
+      </div>
+      <div class="grid">
+        <div class="card"><span class="label">Plato · c. 380 BCE · passages</span><h3>Meno and Theaetetus</h3><p>A teacher who names his emptiness of doctrine as his qualification, and a boy whose answers &ldquo;were all his own.&rdquo;</p><p class="refusal-line"><b>Parts</b>The midwife still discards the &ldquo;wind-egg.&rdquo;</p></div>
+        <div class="card"><span class="label">Kṣemarāja · Singh trans. · Sanskrit and translation</span><h3>Pratyabhijñāhṛdayam</h3><p>The individual &ldquo;covered by mala through the contraction (saṅkoca) of its powers&rdquo; (sūtra 9).</p><p class="refusal-line"><b>Parts</b>It calls the contracted knower &ldquo;poor in Śakti.&rdquo;</p></div>
+        <div class="card"><span class="label">Gendlin · 1978 · whole</span><h3>Focusing</h3><p>Six movements ending at the shift. &ldquo;Your body knows the direction of healing and life.&rdquo;</p><p class="refusal-line"><b>Parts</b>The shift certifies movement, not a true content.</p></div>
+        <div class="card"><span class="label">Buber · Smith 1937 · whole</span><h3>I and Thou</h3><p>&ldquo;Through the Thou a man becomes I.&rdquo;</p><p class="refusal-line"><b>Parts</b>&ldquo;Every means is an obstacle.&rdquo;</p></div>
+        <div class="card"><span class="label">Rogers · 1957 · whole</span><h3>The Necessary and Sufficient Conditions</h3><p>Technique demoted to a channel for six conditions.</p><p class="refusal-line"><b>Parts</b>The client must perceive the relationship.</p></div>
+        <div class="card"><span class="label">Winnicott · 1958 · whole</span><h3>The Capacity to be Alone</h3><p>Solitude with a relational precondition.</p><p class="refusal-line"><b>Parts</b>A live other must survive attack without retaliating (1969), which a book cannot do.</p></div>
+        <div class="card"><span class="label">AN 5.57 · whole</span><h3>The Five Remembrances</h3><p>Five facts to reflect on often.</p><p class="refusal-line"><b>Parts</b>It faces loss as real.</p></div>
+        <div class="card"><span class="label">Ignatius · Puhl 1951 · §§313–336 complete</span><h3>Spiritual Exercises</h3><p>&ldquo;both the good angel and the evil spirit can give consolation to a soul&rdquo; (§331).</p><p class="refusal-line"><b>Parts</b>A director hands the rules over (§§8&ndash;10).</p></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>Follow a teacher: Ken Wilber 43 · Thich Nhat Hanh 41 …</s></span>
+        <h2>Pulling up a chair: twelve of the company</h2>
+        <p>Each card shows four things a count hides: the thinker's role, what the book's argument loses if they leave, whether the vault has read their own text, and the place they part from the book. &ldquo;Awaiting&rdquo; means the author has not decided the role.</p>
+      </div>
+      <div class="grid two">
+        <article class="sheet"><h3>Eugene Gendlin. The test for whether anything landed is his.</h3><span class="chips"><span class="chip">awaiting · SE-08</span><span class="chip kept">read at his own text</span></span><blockquote>&ldquo;&lsquo;correctness&rsquo; refers to the experienced effect which certain symbols produce&rdquo; (1964, fn. 9).</blockquote><p class="refusal-line"><b>Parts</b>The shift certifies that experiencing moved, not that a content is true.</p><p class="note">Without him the book's single test changes shape.</p></article>
+        <article class="sheet"><h3>Martin Buber. The between is his.</h3><span class="chips"><span class="chip">awaiting · SE-18</span><span class="chip kept">read whole</span></span><blockquote>&ldquo;Through the Thou a man becomes I&rdquo; (Part One).</blockquote><p class="refusal-line"><b>Parts</b>&ldquo;The Thou meets me through grace &mdash; it is not found by seeking,&rdquo; and a reader alone with a book stands, by his account, in the I&ndash;It relation.</p></article>
+        <article class="sheet"><h3>Donald Winnicott. He names what a book read alone must approximate.</h3><span class="chips"><span class="chip">awaiting · SE-06</span><span class="chip kept">four papers whole</span></span><blockquote>&ldquo;the basis of the capacity to be alone is a paradox; it is the experience of being alone while someone else is present&rdquo; (1958).</blockquote><p class="refusal-line"><b>Parts</b>&ldquo;the object that behaves perfectly becomes no better than a hallucination&rdquo; (1971).</p></article>
+        <article class="sheet"><h3>Utpaladeva and Kṣemarāja. The recognition school beneath the book.</h3><span class="chips"><span class="chip kept">seated · source tradition</span><span class="chip kept">read at the Sanskrit</span></span><p>The founding convergence's far pole.</p><p class="refusal-line"><b>Parts</b>The tradition would decline recognition with the Lord released, the reader as final cause, and the book alone where &ldquo;the teacher is the means&rdquo; (Śiva Sūtras II.6, queued to test).</p><span class="anchor">notes/the kashmir shaiva tradition would decline four of the book's deepest moves.md</span></article>
+        <article class="sheet"><h3>Martin Heidegger. The book's central word is his, and the vault has not read him at his own text.</h3><span class="chips"><span class="chip kept">seated · speech-acts</span><span class="chip gradeb">read through the Stanford Encyclopedia and May</span></span><blockquote>Death, in the encyclopedia's rendering: &ldquo;the possibility of the absolute impossibility of Dasein&rdquo; (SZ 250).</blockquote><p class="refusal-line"><b>Parts</b>Early Heidegger reads absorption in the ordinary as flight, where the book holds &ldquo;the tuesday is the temple.&rdquo;</p></article>
+        <article class="sheet"><h3>Ludwig Wittgenstein. The always-there hides, said with no debt to either founding tradition.</h3><span class="chips"><span class="chip">awaiting · SE-17</span><span class="chip kept">named sections read</span></span><blockquote>&ldquo;One is unable to notice something&mdash;because it is always before one's eyes&rdquo; (PI §129).</blockquote><p class="refusal-line"><b>Parts</b>&ldquo;the philosophical problems should completely disappear&rdquo; (§133).</p></article>
+        <article class="sheet"><h3>al-Qushayrī. States are gifts and stations are earned, a millennium early.</h3><span class="chips"><span class="chip">awaiting · SE-01</span><span class="chip kept">Knysh's translation</span></span><blockquote>&ldquo;States are [divine] gifts, whereas stations are earnings&rdquo; (p. 78).</blockquote><p class="refusal-line"><b>Parts</b>One ordered path, not two axes; &ldquo;If one does not engage in the prayers on the outside, one will have no divine visitation inside&rdquo; (p. 84).</p></article>
+        <article class="sheet"><h3>Joe Hudson. The resisted-feeling theory is his, though the corpus's word for it is not.</h3><span class="chips"><span class="chip kept">seated · coaches</span><span class="chip kept">transcripts read</span></span><blockquote>&ldquo;the difference between I can accept my emotions and I can welcome my emotions&hellip; it's that turn.&rdquo;</blockquote><p class="refusal-line"><b>Parts</b>&ldquo;complete&rdquo; is the corpus's word; &ldquo;don't do it at people.&rdquo;</p></article>
+        <article class="sheet"><h3>Karla McLaren. The practice beneath the book's forms is hers: channeling.</h3><span class="chips"><span class="chip kept">seated · emotion work</span><span class="chip kept">pages through the publisher's guide</span></span><blockquote>Channeling: &ldquo;to direct or convey something along a chosen pathway in a conscientious manner&rdquo; (2010, p. 33).</blockquote><p class="refusal-line"><b>Parts</b>The grief witness the corpus credits to her is the book's own.</p></article>
+        <article class="sheet"><h3>Carl Rogers. The unnamed parent.</h3><span class="chips"><span class="chip kept">seated · reference lineage</span><span class="chip kept">1957 paper whole</span></span><p>Gendlin's finding came from Rogers's program, which the corpus never names. &ldquo;These hypotheses hold in any situation whether it is or is not labeled &lsquo;psychotherapy&rsquo;.&rdquo;</p><p class="refusal-line"><b>Parts</b>Unless the attitudes are communicated, &ldquo;such attitudes do not exist in the relationship as far as the client is concerned.&rdquo;</p></article>
+        <article class="sheet"><h3>Tony Robbins. The will pole at full strength.</h3><span class="chips"><span class="chip">awaiting · SE-26</span><span class="chip declined">argues against the book</span><span class="chip kept">two books whole</span></span><blockquote>&ldquo;Willpower by itself is not enough.&rdquo;</blockquote><p class="refusal-line"><b>Parts</b>On agent and tempo: &ldquo;We must be the source of our change if our change is going to last.&rdquo;</p></article>
+        <article class="sheet"><h3>Theodor Adorno. The auditor of the book's own voice, not yet read.</h3><span class="chips"><span class="chip">awaiting · SE-24</span><span class="chip declined">argues against the book</span><span class="chip gradeb">unread · queued</span></span><p>No words of his appear, because the vault holds none at first hand. His charge, from secondary sources: presence-language radiates significance the sentence has not earned. He gives no criterion separating it from jargon, so the charge cuts its wielder.</p><span class="anchor">notes/theodor adorno.md; ops/reading queue.md entry 50</span></article>
+      </div>
+      <p class="anchor" style="margin-top:14px">SE numbers are rows in ops/decision sitting — 2026-09-03.md. Quotations are taken from the reading records in archive/ for each thinker.</p>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>Browse everything: twelve topics, six formats</s></span>
+        <h2>Browse the company</h2>
+        <p>The counts below measure where the corpus spoke and where the reading went, not who matters, and no facet sorts by them.</p>
+      </div>
+      <div class="tablebox">
+        <table>
+          <thead><tr><th>Facet</th><th>Values (from the 64 thinker notes' frontmatter)</th></tr></thead>
+          <tbody>
+            <tr><td>What the book loses if they leave</td><td>the thesis changes shape 12 · argues against it 7 · reached it by another road 13 · names a practice already running 6 · company 9 · tried this before 17. Each is a proposal until the author makes it.</td></tr>
+            <tr><td>How they have been read</td><td>own text 24 · through a scholar quoting them 6 · not yet 34. Those who argue against the book are read at their own text 2 of 7; the company 0 of 9.</td></tr>
+            <tr><td>Where they learned to see</td><td>continental philosophy 10 · clinical 9 · practitioner pedagogy 8 · empirical science 8 · social theory 4 · systems and design 3 · Indic and Buddhist primary 3 · Abrahamic contemplative 3 · analytic 2 · classical 1 · African 1 · poets and artists 0 · unrecorded 12</td></tr>
+            <tr><td>Concern</td><td>recognition 8 · contraction not corruption 4 · felt shift 5 · holding structure 5 · relational field 15 · call and answering 3 · 25 thinkers declare none, among them Robbins, Adorno, Kierkegaard, Henry, Wilber, and Ignatius</td></tr>
+            <tr><td>Role</td><td>awaiting the author 30 · reference lineage 26 · source tradition 2 · speech acts 2 · four others 1 each</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>Dashed outline: under the radar</s></span>
+        <h2>Flagged, not yet seated</h2>
+        <p>Readings since 16 August flagged fourteen names that have no page yet. Seating is the author's call.</p>
+        <span class="anchor">ops/decision sitting — 2026-09-03.md, SE-31 to SE-44</span>
+      </div>
+      <div class="grid">
+        <div class="card" style="border-top-style:dashed"><h3>J. L. Moreno refuses the book's form by name.</h3><p>&ldquo;Cultural Conserve. The technical conservation of cultural values, as the book or the film, which substitutes and preserves man's creative expressions&rdquo; (1934).</p></div>
+        <div class="card" style="border-top-style:dashed"><h3>Jack Engler</h3><p>Flagged by the reading as &ldquo;the adversary the book cannot answer and should quote, p. 39.&rdquo;</p></div>
+        <div class="card" style="border-top-style:dashed"><h3>Laozi is named in 21 notes and has no page.</h3><p>May documents a Daoist debt on the Heidegger side.</p></div>
+        <div class="card" style="border-top-style:dashed"><h3>Bhartṛhari</h3><p>Holds the ladder of speech beneath the answerable last line.</p></div>
+        <div class="card" style="border-top-style:dashed"><h3>Donella Meadows holds two of sixteen chapter-patron seats and has no page.</h3><p>Seating her risks raising the system vocabulary the center demotes.</p></div>
+        <div class="card" style="border-top-style:dashed"><h3>Sobonfu Somé</h3><p>The corpus's communal-grief material descends from her tradition through McLaren.</p></div>
+        <div class="card" style="border-top-style:dashed"><h3>Also flagged</h3><p>Longchenpa and Śaṅkara (read at the primary text, bearing on the author's own report of recognition), Parker, Le Guin, Eno, Deida, Zhuangzi, Nāgārjuna.</p></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>How we choose · Suggest a resource</s></span>
+        <h2>How this page chooses</h2>
+      </div>
+      <ol class="qs">
+        <li>A thinker earns a card when a session drafting the book would reach for them.<p>ops/methodology/writing test.md</p></li>
+        <li>What a thinker carries orders which unread text would change the book most, never the strength of a convergence.<p>notes/interlocutors.md, &ldquo;Two axes&rdquo;</p></li>
+        <li>Every card keeps where its thinker parts; only words read in a file are quoted; seating belongs to the author.</li>
+        <li>&ldquo;Suggest a resource&rdquo; becomes &ldquo;Propose a reading&rdquo;: a question the reading could fail, its stake, and a page-level address.<p>ops/reading queue.md</p></li>
+      </ol>
+    </section>
+  </div>
+</div>
+
+<!-- ===================== REPLY (work with us) ===================== -->
+<div class="view" id="view-reply" data-view="reply">
+  <div class="wrap">
+    <header class="page-head">
+      <span class="label">In place of &ldquo;Create with us,&rdquo; the story board, the masthead, sponsorship, and feedback</span>
+      <h1><i>Reply</i></h1>
+      <p class="promise">The book is half of a correspondence. This is where the other half is written, and it belongs to whoever writes it.</p>
+      <p class="replaces" style="margin-top:14px">Every call to act on accelerateinward.com moves something from the visitor toward the publication. The book's address runs the other way: &ldquo;nothing transforms from the audience. Including this book's.&rdquo; <span class="anchor" style="display:inline">notes/nothing transforms from the audience.md</span></p>
+    </header>
+
+    <section class="block" style="border-top:0">
+      <div class="grid two" style="align-items:start">
+        <div class="letterpaper stack">
+          <span class="label">What you are asked to write</span>
+          <label for="reply-sentence" style="font-family:var(--display);font-size:1.45rem;line-height:1.3">Something I can say now, that I could not have said an hour ago, is &mdash;</label>
+          <textarea id="reply-sentence" placeholder="If nothing comes, write that nothing came."></textarea>
+          <div style="display:flex;gap:10px;flex-wrap:wrap">
+            <button type="button" class="plain" id="reply-keep">Keep it, dated</button>
+            <button type="button" class="btn ghost" id="reply-copy" hidden>Copy it</button>
+          </div>
+          <div class="kept-out" id="reply-out" aria-live="polite"><span class="date" id="reply-date"></span><p class="s" id="reply-text"></p><p class="note" style="margin-top:8px">This page keeps nothing. Copy it somewhere that is yours.</p></div>
+          <span class="anchor">drafts/draft — the first letter.md. The wording is provisional: its brief calls it &ldquo;the vault's inference, tested nowhere.&rdquo;</span>
+        </div>
+        <div class="stack">
+          <div class="card"><h3>Why not ask whether you felt something.</h3><p>Fluent prose alone can produce a felt yes, and people fail to notice their own change: &ldquo;No subject reported that the discussion had had any effect in changing or modifying his position.&rdquo;</p><span class="anchor">notes/the felt sense of truth has a documented counterfeit catalogue.md; Nisbett and Wilson 1977, p. 237</span></div>
+          <div class="card"><h3>Three places it can go.</h3><p>Keep it, dated. Give it to a person who knows you; the book's own draft recommends &ldquo;that in those stretches you find a person, and that the person be a real one.&rdquo; Or, if the author ever opens an address, send it to him, and he answers as a correspondent, never as a judge.</p><span class="anchor">drafts/draft — the verification standard's defense.md; ops/second person ecology.md §4</span></div>
+          <div class="card"><h3>What this page will never do.</h3><p>Tell you whether what happened was real. &ldquo;You may not have an Anam Cara right now&hellip; The book will not give you one,&rdquo; and no page meets Rogers's sixth condition: &ldquo;Unless some communication of these attitudes has been achieved, then such attitudes do not exist in the relationship as far as the client is concerned.&rdquo;</p><span class="anchor">abridged p. 9; archive/reading — rogers, the necessary and sufficient conditions (1957).md, finding 5</span></div>
+          <div class="card"><h3>You may decline.</h3><p>A last line written to be answered &ldquo;is a request for acknowledgment,&rdquo; and &ldquo;the request can be declined, and a book that means its final sentence has to mean that part too.&rdquo;</p><span class="anchor">space-around p. 13 (on Cavell)</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>The story board: 23 open stories we want to fund</s></span>
+        <h2>The open territory</h2>
+        <p>The earliest draft's contents name 28 units: one written, fourteen carried into later drafts, thirteen open. Twelve of the thirteen proved to be titles with nothing behind them in any of the eight documents. These are not commissions. The likeliest way any reopens &ldquo;is not a rereading of the corpus but a decision by the author to write one of these territories, at which point the material is his rather than the corpus's.&rdquo;</p>
+        <span class="anchor">ops/open corpus.md; ops/queue/declines.md (2026-08-09)</span>
+      </div>
+      <div class="grid">
+        <div class="card"><h3>The day.</h3><p>&ldquo;Temporal Coherence: Morning as Mythic Entry&rdquo; and &ldquo;Designing Rhythmic Flow&rdquo; name it. The corpus treats time at the scale of the moment and of the season; &ldquo;morning&rdquo; appears once in eight documents, in that title.</p><span class="anchor">mythic-os: contents</span></div>
+        <div class="card"><h3>Leaving a partnership well.</h3><p>&ldquo;Conscious Coupling &amp; Decoupling&rdquo; gives a relationship designed thresholds at both ends; later drafts treat the field between people only as a standing condition.</p><span class="anchor">mythic-os: contents</span></div>
+        <div class="card"><h3>A reader's way of holding two opposed things.</h3><p>&ldquo;Paradox Mapping&rdquo; names a procedure; the reader receives only a disposition: &ldquo;polarity is not a problem to be solved. It is a tension to be inhabited.&rdquo;</p><span class="anchor">mythic-os: contents; abridged ch9</span></div>
+        <div class="card"><h3>Nostalgia as what continuity feels like.</h3><p>The earliest draft opens on it, &ldquo;The sweetness of becoming puckers into nostalgia whether you choose it or not,&rdquo; and no later draft returns.</p><span class="anchor">mythic-os p. 1</span></div>
+        <div class="card"><h3>A built structure, or a posture returned to.</h3><p>&ldquo;Sovereignty Anchors&rdquo; proposes structures built once that keep holding; later drafts define steadiness as a point of return. Whether they are partners or rivals is undecided.</p><span class="anchor">mythic-os: contents; abridged ch13</span></div>
+        <div class="card"><h3>Repetition.</h3><p>&ldquo;Habit as Ritual.&rdquo; The executed draft wants a form practised &ldquo;until the form is no longer practice; it is who one is,&rdquo; and never asks whether an automatic practice can still be checked by its practitioner.</p><span class="anchor">abridged ch14</span></div>
+        <div class="card"><h3>What being witnessed costs.</h3><p>Named once, carried into no draft: &ldquo;being seen can shade into being consumed: witness as audience, disclosure harvested, vulnerability as spectacle.&rdquo;</p><span class="anchor">space-around p. 10</span></div>
+        <div class="card"><h3>An ending a reader can answer.</h3><p>Four documents describe a last line &ldquo;written so that it can be answered,&rdquo; ending &ldquo;welcome home&rdquo;; the executed draft ends &ldquo;Step in.&rdquo;</p><span class="anchor">first-telling p. 13; abridged pp. 47, 49</span></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>Shows we want to make</s></span>
+        <h2>Forms the book could take</h2>
+        <p>These are forms of the book's own writing that the material already contains, not a media slate.</p>
+      </div>
+      <div class="grid">
+        <div class="card"><span class="label">The form he chose</span><h3>The dated letter.</h3><p>Twelve to twenty letters, dated so a reader sees what the writer knew when, ending by being sent, the reader asked to answer between them. Picked by the author on 8 August 2026; the first went to two readers before 14 August; nothing further is scheduled.</p><span class="anchor">ops/correspondence program.md; ops/decisions.md</span></div>
+        <div class="card"><span class="label">In place of TWO MAPS</span><h3>Two accounts, then where they part.</h3><p>Both sides quoted from their own texts, ending at the disagreement. Buber: &ldquo;Every means is an obstacle. Only when every means has collapsed does the meeting come about.&rdquo; Rogers: &ldquo;No other conditions are necessary. If these six conditions exist, and continue over a period of time, this is sufficient.&rdquo; A disagreement filed nowhere yet.</p><span class="anchor">the Buber and Rogers records; ops/second person ecology.md §7, item 10</span></div>
+        <div class="card"><span class="label">The enclosure</span><h3>A thinker folded into a letter &ldquo;with their refusals intact&rdquo;.</h3><p>Their own words, and where they part from the book.</p><span class="anchor">ops/correspondence program.md</span></div>
+        <div class="card"><span class="label">In place of AFTER</span><h3>&ldquo;What is ordinary life like now?&rdquo;</h3><p>The least-built question. The return is &ldquo;the thinnest position in the whole graph,&rdquo; and the executed draft gives it one paragraph: &ldquo;You will close the book and walk into your kitchen. The kitchen will be a kitchen.&rdquo; The book claims no stable awakening, so only the author's own ordinary days can write this.</p><span class="anchor">ops/scaffold.md J2; abridged p. 47</span></div>
+        <div class="card"><span class="label">In place of THE DEEP END</span><h3>The warnings letter.</h3><p>&ldquo;One whole letter that is only warnings, because a friend who never warns is not a friend.&rdquo; Its readings, on adverse contemplative effects and depersonalization, are unread.</p><span class="anchor">ops/correspondence program.md; ops/reading queue.md entries 17, 22</span></div>
+        <div class="card"><span class="label">In place of PRACTICE LIVE</span><h3>The practice that stops the page.</h3><p>Each practice ends with what would tell the reader it worked, &ldquo;and where the corpus specifies nothing, the letter says so plainly.&rdquo;</p><span class="anchor">ops/correspondence program.md</span></div>
+        <div class="card"><span class="label">In place of SCANNED</span><h3>Measurement is declined.</h3><p>&ldquo;Material that bears only on outcome &mdash; does it succeed, for whom, how often &mdash; is not what this project is for.&rdquo;</p><span class="anchor">ops/methodology/authorial stance.md, rule 3</span></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>The series: long conversations with wisdom teachers; everyone gets the same hard questions</s></span>
+        <h2>The readings, as a series</h2>
+        <p>&ldquo;Everyone gets the same hard questions&rdquo; holds, with two changes: the conversation is with the thinker's own text, and each question can fail. For example: &ldquo;Does potential space lie between two people in a way a text can occupy? Fails if it requires a live other&rdquo; (Winnicott, Playing and Reality, ch. 7). Every reading also asks everyone one thing: where do you part from the book? To join, propose a reading: the work, the page, and the question it could fail.</p>
+        <span class="anchor">ops/reading queue.md</span>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>Masthead · Advisors: scientists and clinicians who pressure-test the science</s></span>
+        <h2>Who parts from the book</h2>
+        <p>Seven thinkers are recorded as arguing against the book. Three are read in their own words or through scholars quoting them by page; four are not. No one here endorses the book. A refusal is kept &ldquo;because a finger with its refusal removed is no longer that thinker's finger &mdash; not because opposition seasons an argument.&rdquo;</p>
+        <span class="anchor">rg -l '^load: adversary' notes/; ops/methodology/authorial stance.md, rule 2</span>
+      </div>
+      <div class="grid">
+        <div class="card"><h3>Nisbett and Wilson (1977), read whole.</h3><p>They exempt current sensations, then show people changing unawares: &ldquo;subjects apparently changed their attitudes in the absence of any subjective experience of change&rdquo; (p. 236).</p></div>
+        <div class="card"><h3>Eric Schwitzgebel (2008), read whole.</h3><p>He denies the present moment is safe for self-report; his correction is another person: &ldquo;My wife reads my face better than I introspect&rdquo; (p. 252).</p></div>
+        <div class="card"><h3>Tony Robbins, read whole.</h3><p>He concedes a changed state in an unchanged identity does not last, then holds identity can change now, by decision.</p></div>
+        <div class="card"><h3>Werner Erhard, read in his co-authored papers.</h3><p>He has the person build the opening the book lets show itself; the corpus names his danger: &ldquo;declaration-as-vestment &mdash; the declared self worn as costume&rdquo; (atlas §IX.3).</p></div>
+        <div class="card"><h3>Michel Henry, through scholars quoting him by page.</h3><p>Self-appearing has &ldquo;aucun Dehors, aucun Ecart, aucune Ek-stase&rdquo; (Phénoménologie matérielle, p. 7), so he refuses the two-part self-awareness and the ordinary world the book returns to.</p></div>
+        <div class="card" style="border-top-style:dashed"><h3>Adorno and Wasserstrom, unread.</h3><p>Adorno's charge against presence-language makes the book's register his model case. Wasserstrom's charge that comparativists stripped traditions of law and community is available against the book's use of Kashmir Śaivism, a concern the author raised first.</p></div>
+        <div class="card" style="border-top-style:dashed"><h3>Missing: a clinician of contemplative harm.</h3><p>An outside evaluation calls the adverse-effects literature (Lindahl, Britton et al., PLOS ONE 2017) &ldquo;the book's most defensible criticism and the cheapest to answer.&rdquo; Unread.</p><span class="anchor">ops/reading queue.md entry 17</span></div>
+        <div class="card"><h3>Allies who part at the same place.</h3><p>Buber: &ldquo;Every means is an obstacle.&rdquo; Gendlin: focusing alone is possible &ldquo;though always unsteady and difficult.&rdquo; Kapleau: a book lets anyone &ldquo;commence.&rdquo; Each parts from the book where it is read alone.</p></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>Sponsor Season 1: &ldquo;presented by&rdquo; on every piece</s></span>
+        <h2>Owed</h2>
+        <p>The book has no sponsor, and the vault records no funding. It has the reverse of &ldquo;presented by&rdquo;: a name at each chapter for whom it owes.</p>
+      </div>
+      <div class="grid two">
+        <div class="card"><h3>The chapter patron names a creditor.</h3><p>&ldquo;The patron system is the Generosity Policy enacted per-chapter: the elder named at the door, not smuggled through it,&rdquo; under the rule &ldquo;secrets are for the story, never for the sources.&rdquo;</p><span class="anchor">atlas §IX.9 (p. 22), §IX preamble</span></div>
+        <div class="card"><h3>Some creditors are named and unchecked.</h3><p>bell hooks, patron of the chapter carrying the book's deepest relational claim, is unread. Donella Meadows is patron of two chapters and has no page.</p><span class="anchor">ops/second person ecology.md §6, §9; notes/interlocutors.md</span></div>
+        <div class="card"><h3>The deepest debt is the least named.</h3><p>The author calls Kashmir Śaivism the deepest well, &ldquo;absolutely, it does seem to occupy that, and I think that's fine. It surprised me too,&rdquo; yet the rule keeping deep terms in ordinary dress names it least where its ideas appear.</p><span class="anchor">notes/the tradition the book owes most has no chair in its company.md</span></div>
+        <div class="card"><h3>The one who would hold the container is absent.</h3><p>The treatment says the author &ldquo;holds every credential in the guild except hours logged in the participant's chair; its truest chapters are the ones that will be written from inside a container someone else is holding.&rdquo; <span class="chip personal">personal · his to place</span></p><span class="anchor">arc-gloss, closing note four (p. 18)</span></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>Feedback: tell us what we're missing</s></span>
+        <h2>Tell us what the book cannot see</h2>
+        <p>The book's center, independent arrivals at one finding and practice checked in the body, cannot see some things by construction. Answers would join the vault's list of what the center cannot see, which supports no argument in the book.</p>
+        <span class="anchor">ops/clearing.md; ops/methodology/the clearing.md</span>
+      </div>
+      <ol class="qs">
+        <li>Have you reached something no one else seems to have reached?<p>The book's center counts a finding only when someone else reached it independently.</p></li>
+        <li>Has your body known something that proved nothing?<p>The book uses the body as a check.</p></li>
+        <li>What left your life and stayed gone?<p>The book reads deep change as recovery of what never left; the poems keep death an open fear: &ldquo;I want you to wonder what it is I am afraid about when I think about dying&rdquo; (poems #15).</p></li>
+        <li>What witnessed you that was not a person?<p>The book's company is human; poem #8 has the author meditating &ldquo;with my two cats watching me curiously.&rdquo;</p></li>
+        <li>Was something in you damaged rather than folded?</li>
+        <li>Did something new arrive, rather than something remembered?</li>
+        <li>Did a sentence here feel true because it was well made?</li>
+        <li>Who reached the opposite conclusion from the same ground?</li>
+        <li>Have we quoted someone without the point where they part from the book? Give the page.<p>ops/methodology/both halves of a correspondence.md</p></li>
+      </ol>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="replaces">Replaces <s>Subscribe · Get the episodes</s></span>
+        <h2>The next letter</h2>
+        <p>A newsletter arrives because a schedule says so. A letter arrives when its writer has something to say, dated so you can see what he knew then, addressed to one person, and expecting an answer. No next letter is scheduled. Whether there is one, and who receives it, is the author's: &ldquo;the sending will come &mdash; and it's not our concern right now.&rdquo;</p>
+        <span class="anchor">ops/correspondence program.md; ops/decisions.md (2026-08-03); notes/the book's native genre is the letter from a friend read alone.md</span>
+      </div>
+    </section>
+  </div>
+</div>
+
+<!-- ===================== THE MAP (the IA parallel) ===================== -->
+<div class="view" id="view-map" data-view="map">
+  <div class="wrap">
+    <header class="page-head">
+      <span class="label">The information architecture, side by side</span>
+      <h1>The <i>map</i></h1>
+      <p class="promise">accelerateinward.com, read in full on 12 November 2026, held organ by organ against the research. Each organ is kept, turned, or declined, and the law that turns it is named.</p>
+    </header>
+
+    <section class="block" style="border-top:0;padding-top:10px">
+      <div class="head">
+        <h2>The one structural move: the order inverts</h2>
+        <p>accelerateinward.com stacks a media company on top and hides a floor of experience beneath it, entered through an eye in the footer and announced as &ldquo;not for reading.&rdquo; The book's house is the reading, &ldquo;designed to be undergone, not understood,&rdquo; so on the book's site the walk is the ground floor and the apparatus sinks beneath it, reached by the same small deliberate act. Everything else on this page follows from that move.</p>
+        <span class="anchor">abridged p. 1; notes/reading is remembering.md; notes/the system is scaffolding rather than the centerpiece.md</span>
+      </div>
+      <div class="diagram" role="img" aria-label="Two stacks. On accelerateinward.com the media pages sit above the floor and the hidden layer of rooms sits beneath. On the book's site the house sits on the ground floor and the readings, the convergences, and the company sit beneath. Arrows show the hidden layer rising to become the house and the resources sinking to become the receipts.">
+        <svg viewBox="0 0 960 430" xmlns="http://www.w3.org/2000/svg">
+          <style>
+            .bx{fill:var(--paper-2);stroke:var(--rule-2);stroke-width:1}
+            .bx.hl{fill:var(--thread-soft);stroke:var(--thread);stroke-width:1.5}
+            .bx.res{fill:var(--paper);stroke:var(--ink);stroke-width:1.5}
+            .tx{fill:var(--ink);font-family:'Literata',Georgia,serif;font-size:14px}
+            .tx.sm{fill:var(--ink-2);font-size:12px}
+            .hd{fill:var(--ink-3);font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.08em}
+            .fl{stroke:var(--ink-3);stroke-width:1;stroke-dasharray:5 5}
+            .ar{fill:none;stroke:var(--thread);stroke-width:1.6}
+            .ar2{fill:none;stroke:var(--ink-2);stroke-width:1.2}
+            .al{fill:var(--thread);font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.06em}
+            .al2{fill:var(--ink-2);font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.06em}
+          </style>
+          <defs>
+            <marker id="mk" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--thread)"/></marker>
+            <marker id="mk2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--ink-2)"/></marker>
+          </defs>
+          <text x="40" y="26" class="hd">ACCELERATEINWARD.COM</text>
+          <text x="540" y="26" class="hd">THE BOOK'S SITE (THIS PROTOTYPE)</text>
+
+          <rect x="40" y="44" width="380" height="40" class="bx"/><text x="56" y="69" class="tx">Masthead · subscribe · Latest · This week</text>
+          <rect x="40" y="96" width="380" height="40" class="bx"/><text x="56" y="121" class="tx">Manifesto: &#8220;Wake up.&#8221;</text>
+          <rect x="40" y="148" width="380" height="52" class="bx res"/><text x="56" y="170" class="tx">Resources</text><text x="56" y="189" class="tx sm">Research · Theories · Library</text>
+          <rect x="40" y="212" width="380" height="52" class="bx"/><text x="56" y="234" class="tx">Work with us</text><text x="56" y="253" class="tx sm">Create · Advise · Sponsor · Feedback</text>
+          <line x1="30" y1="292" x2="430" y2="292" class="fl"/><text x="40" y="285" class="hd">THE FLOOR YOU READ ON</text>
+          <rect x="40" y="306" width="380" height="64" class="bx hl"/><text x="56" y="330" class="tx">Level &#8722;1, the hidden layer</text><text x="56" y="350" class="tx sm">rooms · floors J·1&#8211;8, &#8709; · the void</text><text x="56" y="364" class="tx sm">&#8220;Who is reading this?&#8221;</text>
+
+          <rect x="540" y="44" width="380" height="92" class="bx hl"/><text x="556" y="68" class="tx">The house, the ground floor</text><text x="556" y="90" class="tx sm">the door · seven rooms · the silent summit</text><text x="556" y="108" class="tx sm">the kitchen · who? · the reader's blank leaf</text>
+          <rect x="540" y="148" width="380" height="52" class="bx"/><text x="556" y="170" class="tx">Where this came from</text><text x="556" y="189" class="tx sm">a disclosure written as a letter</text>
+          <rect x="540" y="212" width="380" height="52" class="bx"/><text x="556" y="234" class="tx">Reply</text><text x="556" y="253" class="tx sm">the reader's half · open territory · owed</text>
+          <line x1="530" y1="292" x2="930" y2="292" class="fl"/><text x="540" y="285" class="hd">THE FLOOR YOU WALK ON</text>
+          <rect x="540" y="306" width="380" height="64" class="bx res"/><text x="556" y="330" class="tx">Beneath: the receipts</text><text x="556" y="350" class="tx sm">The readings · Who noticed this too</text><text x="556" y="364" class="tx sm">The company</text>
+
+          <path d="M420,338 C480,338 480,90 540,90" class="ar" marker-end="url(#mk)"/>
+          <text x="436" y="226" class="al" transform="rotate(-70 436 226)">RISES</text>
+          <path d="M420,174 C480,174 480,338 540,338" class="ar2" marker-end="url(#mk2)"/>
+          <text x="500" y="300" class="al2" transform="rotate(68 500 300)">SINKS</text>
+          <path d="M420,116 C470,116 490,174 540,174" class="ar2" marker-end="url(#mk2)"/>
+          <path d="M420,238 L540,238" class="ar2" marker-end="url(#mk2)"/>
+          <text x="40" y="404" class="hd">KEPT, TURNED, OR DECLINED FOR EVERY ORGAN BELOW</text>
+        </svg>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>Organ by organ</h2>
+        <p>Each row names what the organ does on accelerateinward.com, what it becomes here, and the vault's law that makes it turn.</p>
+      </div>
+      <div class="tablebox">
+        <table class="map-table">
+          <thead><tr><th>accelerateinward.com</th><th>What it does</th><th>The book's site</th><th>What turns it</th><th></th></tr></thead>
+          <tbody>
+            <tr><th colspan="5">The front</th></tr>
+            <tr><td>&ldquo;Accelerate Inward&rdquo;; &ldquo;Stay on the cutting edge&rdquo;</td><td>Names speed toward arrival</td><td><a href="#house">Working title, candidate only; the three sentences over the door</a></td><td>Recognition is not forced and finished work is not stored; the title is the author's</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><td>Subscribe</td><td>A schedule</td><td><a href="#reply">The next letter</a></td><td>A letter is addressed to one person and expects an answer</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><td>Latest · This week</td><td>Proves currency</td><td><a href="#came-from">In the work</a>, honest that the log is quiet since 4 September</td><td>A ticker of readings rewards the displacement of writing the vault guards against</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><th colspan="5">The manifesto</th></tr>
+            <tr><td>Manifesto: &ldquo;Wake up.&rdquo;</td><td>Diagnoses, promises, recruits</td><td><a href="#came-from">Where this came from</a></td><td>&ldquo;A mystical manifesto&rdquo; is on the must-not list</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><td>&ldquo;Different routes, same summit&rdquo;</td><td>Convergence as corroboration</td><td>The agreements were gathered; the refusals arrived unsought; there is no summit</td><td>The unanimity is an artifact of how the lineages were selected</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><td>&ldquo;What if we woke up&rdquo;; &ldquo;What awake looks like&rdquo;</td><td>Depicts the outcome</td><td>No counterpart</td><td>No efficacy is postulated; the book is never the certifier</td><td class="k"><span class="chip declined">declined</span></td></tr>
+            <tr><td>&ldquo;Yes, this is a business&rdquo;; disclosures</td><td>Names interests</td><td>Four disclosures: the AI drafted the prose; the excitement is mostly the AI's; the triad came before the tradition; the company is one person's resonance</td><td>The honest origin story; personal material under its three conditions</td><td class="k"><span class="chip kept">kept</span></td></tr>
+            <tr><td>Theory timeline, 1988 to now</td><td>A field's history</td><td>The making, dated</td><td>The noticing came first, the company after</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><th colspan="5">Research → The readings</th></tr>
+            <tr><td>9,287 papers; Ask the library</td><td>Certifies knowledge; answers anything</td><td><a href="#readings">Counts of the work; an assistant with two built-in refusals</a></td><td>It will not say whether a practice works or whether your experience was real</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><td>Six rooms</td><td>Sorts by subject</td><td>Six concerns, not ordered by size</td><td>Volume in the corpus is not centrality in the book</td><td class="k"><span class="chip kept">kept</span></td></tr>
+            <tr><td>One-pagers: what's shaky</td><td>Examines the paper</td><td>One page per reading: what the reading corrected in the book, where the thinker parts, whether the line is manuscript-ready</td><td>The primary material governs the corpus</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><td>Open questions, supports / against bars</td><td>Scores a verdict</td><td>Kept open, not scored</td><td>Tensions are tracked; resolving is the author's act</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><td>Foundations shelf; how we pick papers</td><td>Admits by tier and sample size</td><td>The oldest texts, with the poems beneath them; ten admission rules</td><td>Both halves of every correspondence; the writing test</td><td class="k"><span class="chip kept">kept</span></td></tr>
+            <tr><th colspan="5">Theories → Who noticed this too</th></tr>
+            <tr><td>Current odds</td><td>Ranks theories by confidence</td><td><a href="#noticed">Where each finding came from, and what the book owes it</a></td><td>No ranking by evidential weight; provenance serves accurate pointing</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><td>The scoreboard</td><td>Hit, miss, partial</td><td>The independence scoreboard</td><td>The tests the vault actually ran, filled only from evidence</td><td class="k"><span class="chip kept">kept, re-aimed</span></td></tr>
+            <tr><td>&ldquo;Which theory are you?&rdquo;</td><td>Sorts the reader into a type</td><td>One sentence, and its company, chosen by the reader</td><td>The reader is sovereign; matching is evaluation</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><td>Place your bet</td><td>Tallies belief</td><td>Answer, refuse, or decline; nothing tallied</td><td>A claim stated crisply enough to be refused is a gift to the reader</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><td>Plain English / product spec</td><td>Two registers</td><td>Plain terms / the corpus's names, site-wide</td><td>Every name is a candidate</td><td class="k"><span class="chip kept">kept, re-aimed</span></td></tr>
+            <tr><th colspan="5">Library → The company</th></tr>
+            <tr><td>The Guide: &ldquo;We'll map your path&rdquo;</td><td>Owns the reader's route</td><td><a href="#company">Where are you standing?</a> Who stood there, and where each parts</td><td>No locus becomes sovereign, including the book</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><td>Follow a teacher (Wilber 43 …)</td><td>Ranks by output</td><td>Twelve chairs: role, what the book loses, whether read, where they part</td><td>The load axis allocates reading and never ranks evidence</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><td>Our picks; browse; under the radar</td><td>Curates volume</td><td>The texts beneath the book; facets that never sort; flagged and not yet seated</td><td>The book points past itself; seating is the author's</td><td class="k"><span class="chip kept">kept</span></td></tr>
+            <tr><th colspan="5">Work with us → Reply</th></tr>
+            <tr><td>Create with us</td><td>Visitor produces for the brand</td><td><a href="#reply">Reply</a>: one sentence, kept by the reader</td><td>&ldquo;nothing transforms from the audience&rdquo;</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><td>Story board, 23 stories to fund</td><td>Commissions</td><td>The open territory the earliest draft named and never wrote</td><td>Once written, the material is his rather than the corpus's</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><td>Shows we want to make</td><td>A media slate</td><td>Forms the book could take; measurement (SCANNED) declined</td><td>The book does not measure outcomes</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><td>The series: same hard questions</td><td>Interviews</td><td>The readings as a series; each question can fail</td><td>The sharp-questions form</td><td class="k"><span class="chip kept">kept</span></td></tr>
+            <tr><td>Masthead: advisors pressure-test</td><td>Lends credibility</td><td>Who parts from the book; no one endorses it</td><td>A refusal is kept so the thinker survives being cited</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><td>Sponsor: &ldquo;presented by&rdquo;</td><td>Money for a credit line</td><td>Owed: the chapter patron as creditor</td><td>&ldquo;the elder named at the door, not smuggled through it&rdquo;</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><td>Feedback: what are we missing?</td><td>Improves the product</td><td>What the book cannot see, by construction</td><td>The clearing: admission by what does not fit</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><th colspan="5">The hidden layer → The house</th></tr>
+            <tr><td>Level &minus;1, &ldquo;not for reading&rdquo;</td><td>Puts experience under the reading</td><td><a href="#house">The house, on the ground floor</a></td><td>The book's house is the reading</td><td class="k"><span class="chip turned">inverted</span></td></tr>
+            <tr><td>Red Room, Qualia Tuner, Tonglen, Headless Way, Metta</td><td>Imported techniques act on the visitor</td><td>Seven rooms from the book's own material, each an invitation that can be declined</td><td>&ldquo;An apparatus can prepare; it cannot cause.&rdquo; None of the site's six named techniques appears anywhere in the vault</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><td>The Mirror: &ldquo;You just assumed&rdquo;</td><td>Answers with a verdict</td><td>The silent room makes no reply</td><td>Being seen and being explained are different events</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><td>Floors J·1&ndash;8, &empty;</td><td>A graded ladder</td><td>Named floors, a return key, nothing marked done</td><td>Name the unit, never the number; the practices give no finishing test</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><td>Breathe with the page, 4-7-8</td><td>The site breathes for you</td><td>The type follows one breath across the walk; nothing pulses</td><td>&ldquo;Register, tempo, and sentence-length are respiratory instruments&rdquo;</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><td>The void, or Earth</td><td>A choice to leave the world</td><td>The kitchen</td><td>&ldquo;Transcendence with plumbing&rdquo;</td><td class="k"><span class="chip turned">turned</span></td></tr>
+            <tr><td>&ldquo;Who is reading this?&rdquo;</td><td>Asks for input</td><td>who? The page cannot hear the answer; then the author's last line and a blank leaf</td><td>The last word is left vacant for the reader</td><td class="k"><span class="chip turned">turned</span></td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <span class="label">The point of the exercise</span>
+        <h2>What holding the two together revealed about the book</h2>
+        <p>These are things the six readers only saw because the site's structure was held against the vault. Each says what was found and what was inferred. The first group bears on the manuscript; the second is the vault's own housekeeping.</p>
+      </div>
+      <div>
+        <span class="label">For the manuscript</span>
+        <div class="finding"><h3>The summit has not been written as the silence it is designed to be.</h3><p class="fi"><b>Found</b>In the abridged edition the Psychedelic Moment runs 2,172 words, second-longest of fifteen units against a mean of 1,160, carrying REBUS, default-mode suppression, James's four marks, Griffiths, and Dölen; neither &ldquo;mirror&rdquo; nor &ldquo;margin&rdquo; occurs in it. Two descriptive sources say the prose should thin and the margins go silent there.</p><p class="fi"><b>Inferred</b>The silent summit exists in the descriptions and the vault's surfaces but not in the one executed state. It is a requirement the next draft of that unit has to meet against its own longest exposition.</p><span class="anchor">ops/chapter concordance.md; walked p. 22; first-telling p. 12; arc-gloss p. 13</span></div>
+        <div class="finding"><h3>The walk ends in a kitchen, not a void, in four places.</h3><p class="fi"><b>Found</b>The last junction poem walks &ldquo;back into the kitchen&rdquo; (abridged p. 39); the summit chapter closes &ldquo;You do not stay on the mountain. You come back&rdquo; (p. 36); the epilogue sends the reader to the kitchen (p. 47); the corpus's room list ends at &ldquo;the first room&rdquo; (walked p. 21).</p><p class="fi"><b>Inferred</b>The last unit can use this whichever way the author answers whether the book's last movement is integration or a sending.</p></div>
+        <div class="finding"><h3>The book has not chosen its own last line, and every call to act repeats the choice.</h3><p class="fi"><b>Found</b>Four documents describe an answerable last line ending &ldquo;welcome home&rdquo;; the executed draft ends &ldquo;Step in.&rdquo;; the provisional first letter also closes on an imperative, &ldquo;Write your sentence. Then turn the page.&rdquo;</p><p class="fi"><b>Inferred</b>Every button on a site like this one prints the same choice, so the author's decision about the last line governs the site's voice too.</p><span class="anchor">ops/second person ecology.md §7, item 3; ops/decision sitting — 2026-09-03.md, item 5</span></div>
+        <div class="finding"><h3>The honest destination of a reader's reply is a person who knows the reader, not the book.</h3><p class="fi"><b>Found</b>The clinical sources require &ldquo;a responder rather than a body,&rdquo; and &ldquo;what a book cannot supply is then not a second person but a person who knows this reader, present or remembered&rdquo; (ops/second person ecology.md §4); no page meets Rogers's sixth condition.</p><p class="fi"><b>Inferred</b>The letters' answering instruction could name that destination, which turns the survey's open question, whether the book sends its reader to a person, into a sentence the author can write. Book I, the facilitator book, also needs one stated place where it points away from itself, and Engler's question about emptiness is the natural citation.</p></div>
+        <div class="finding"><h3>Ordinary time is one gap, seen from three sides.</h3><p class="fi"><b>Found</b>The return is &ldquo;the thinnest position in the whole graph&rdquo; (ops/scaffold.md J2); &ldquo;Every arc marks its onset; almost none marks its finish inside the person&rdquo; (ops/arc ecology.md §4); the earliest draft's unwritten titles group into &ldquo;the design of lived time&rdquo; (ops/open corpus.md); the day is &ldquo;the scale a reader actually lives at&rdquo; (ops/queue/declines.md).</p><p class="fi"><b>Inferred</b>The question of ordinary life afterward, the day-and-week territories, and the practices' missing finish are one region, and by the record's own reasoning it is authorship, not extraction. Only the author's own ordinary days can write it.</p></div>
+        <div class="finding"><h3>The book's &ldquo;why now&rdquo; has an older source than AI, and the working title still carries the speed the doctrine refuses.</h3><p class="fi"><b>Found</b>Poem #3 diagnoses &ldquo;the new paralysis of modernity&rdquo; as living toward what could be, with no machine in it, and the graph does not hold the line. &ldquo;Firing on All Cylinders&rdquo; began on 21 June 2024 as &ldquo;a peak-performance framing.&rdquo;</p><p class="fi"><b>Inferred</b>Under the primary-material rule the poem's diagnosis governs, which moves the book's why-now from AI to the habit of living toward what could be. The title's history bears on his open title decision.</p></div>
+        <div class="finding"><h3>A drafting session should quote a thinker from the reading record, not from the corpus or the thinker's page.</h3><p class="fi"><b>Found</b>21 of 47 reading records contain explicit correction language; 21 say a scholarly or copyrighted edition must be checked before a line reaches the manuscript. The record template has no field for either, nor for where the thinker parts from the book.</p><p class="fi"><b>Inferred</b>The records are already the manuscript-ready layer. Adding the three fields is a structural change for the author to decide.</p><span class="anchor">templates/source.md; rg over archive/ for corrected, falsified, misattribution, not verbatim, overstates, conflation, "appears nowhere"</span></div>
+        <div class="finding"><h3>The chapter patrons are a credit line nobody has audited, and the mirror has no image note.</h3><p class="fi"><b>Found</b>bell hooks, patron of the chapter carrying the deepest relational claim, is unread; Meadows holds two patron seats and has no page. &ldquo;Mirror&rdquo; occurs 13 times across 7 of the 8 documents, in three uses, and no image note or glossary row carries it.</p><p class="fi"><b>Inferred</b>A credit line should show how far each creditor has been read, since the policy promises accuracy rather than courtesy. The mirror is a candidate image note.</p></div>
+        <div class="finding"><h3>The independence test has never been run on the book's own route to its foundation.</h3><p class="fi"><b>Found</b>The two traditions' independence from each other survived May. The book's own reading of Heidegger came through a Landmark room in 2017, and the Forum's scholarly study names its goal &ldquo;unconcealment&rdquo; (Speaking Being, p. 5), narrowing the difference that had separated the two readings.</p><p class="fi"><b>Inferred</b>A draft should state the traditions' independence and the book's own route to Heidegger as two separate claims.</p><span class="anchor">notes/the book's heideggerian foundation was never given the independence test.md</span></div>
+      </div>
+      <div style="margin-top:30px">
+        <span class="label">For the vault: discrepancies found along the way</span>
+        <ul class="stack" style="margin:12px 0 0;padding-left:1.2em;max-width:76ch">
+          <li>Evidence-ranking language the stance forbids survives in five files (&ldquo;counts for more,&rdquo; &ldquo;the strongest class of evidence the book has,&rdquo; &ldquo;strongest genuinely independent arrival&rdquo;), including the-constellation.md. A public chart would print it.</li>
+          <li>Hübl's thinker page still records him as an independent arrival, while his claim note records that he failed the shared-teacher test.</li>
+          <li>The participation law's outside witnesses are counted as six, then five, in the-constellation.md, and a different five are named in the participation note and the Lewin record.</li>
+          <li>One note attributes the three front-matter sentences to mythic-os: contents; the extraction places them at abridged p. 1 only.</li>
+          <li>notes/aristotle on privation.md says the Physics &ldquo;has not been read here&rdquo;; the Aristotle reading record of 2026-08-09 records the reading.</li>
+          <li>The felt-shift map's description and a decisions row of 2026-08-04 still call the felt shift the book's test for truth; the masthead holds it as an instrument since the audit of 2026-08-16.</li>
+          <li>&ldquo;Company&rdquo; carries three senses: a value of the load field, the standing of every convergence, and a demotion.</li>
+          <li>25 of 64 thinker notes declare no doctrine concern, and no thinker's discipline is poets and artists, though most chapter patrons are poets.</li>
+        </ul>
+        <p class="anchor" style="margin-top:12px">Logged for a later session as ops/observations/the site parallel surfaced eight record discrepancies.md. Nothing in notes/ was changed by this prototype.</p>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>What this prototype is not</h2>
+      </div>
+      <div class="grid two">
+        <div class="card"><h3>It is not a launch.</h3><p>Release and readership are the author's lane: &ldquo;the sending will come &mdash; and it's not our concern right now&rdquo; (ops/decisions.md, 2026-08-03). This page is private to him and is a way of thinking about the book.</p></div>
+        <div class="card"><h3>It is an instance of what it warns about.</h3><p>AI readers drafted it, and &ldquo;AI-written authorship&rdquo; is on the book's must-not list. Following accelerateinward.com's sections also lets another site organize the book; a real page would follow the book's own order.</p></div>
+        <div class="card"><h3>Personal material appears only because the page is his.</h3><p>The poems, the 4am letter, his father's sentence, and his reflections are held under the three conditions for personal material. On any public page each is his to place. The friend's name and the letter's text are left out.</p></div>
+        <div class="card"><h3>The house is one of two shapes still open.</h3><p>The walkable house and the six-phase arc are Book II's banked material; Book I's shape is the four movements toward the facilitator's withdrawal, and house or centerless field is the author's decision. Named, ungraded floors with a return key survive either answer.</p></div>
+        <div class="card"><h3>Several halves are not yet the thinker's own words.</h3><p>Heidegger is read through the Stanford Encyclopedia and May through Parkes; Adorno, Wasserstrom, the Kyoto School, and the adverse-effects literature are known from secondary accounts. Those cards carry a Grade B or an unread mark.</p></div>
+        <div class="card"><h3>How it was made.</h3><p>accelerateinward.com was read in full on 12 November 2026, including its hidden layer. Six readers each held one region of the site against one region of the vault, read only, quoting only from files in the repository, and this page assembles what they returned. Counts were computed the same day.</p></div>
+      </div>
+    </section>
+  </div>
+</div>
+
+</main>
+<footer class="foot">
+  <div class="wrap">
+    <div>
+      <span class="label">The ground floor</span>
+      <ul>
+        <li><a href="#house">The door</a></li>
+        <li><a href="#room-word">Where a word is checked</a></li>
+        <li><a href="#room-summit">The silent room</a></li>
+        <li><a href="#room-kitchen">The kitchen</a></li>
+      </ul>
+    </div>
+    <div>
+      <span class="label">Beneath · the receipts</span>
+      <ul>
+        <li><a href="#readings">The readings</a></li>
+        <li><a href="#noticed">Who noticed this too</a></li>
+        <li><a href="#company">The company</a></li>
+      </ul>
+    </div>
+    <div>
+      <span class="label">The reader's half</span>
+      <ul>
+        <li><a href="#came-from">Where this came from</a></li>
+        <li><a href="#reply">Reply</a></li>
+        <li><a href="#map">The map</a></li>
+      </ul>
+    </div>
+    <p class="colophon">A prototype assembled from the research vault for the book, as a way of thinking about the book, not a site to launch. Nothing typed on these pages is stored or sent anywhere. Every quotation names the file it came from.</p>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var ROUTES=['house','came-from','readings','noticed','company','reply','map'];
+  var views={};
+  document.querySelectorAll('.view').forEach(function(v){views[v.getAttribute('data-view')]=v;});
+  var navLinks=document.querySelectorAll('nav.doors a[data-route]');
+
+  function show(route,targetId){
+    Object.keys(views).forEach(function(k){views[k].classList.toggle('on',k===route);});
+    navLinks.forEach(function(a){
+      if(a.getAttribute('data-route')===route){a.setAttribute('aria-current','page');}else{a.removeAttribute('aria-current');}
+    });
+    if(route==='house'){requestAnimationFrame(drawThread);}
+    if(targetId){
+      var el=document.getElementById(targetId);
+      if(el){requestAnimationFrame(function(){el.scrollIntoView({block:'start'});});return;}
+    }
+    window.scrollTo(0,0);
+  }
+  function route(){
+    var h=(location.hash||'').replace(/^#/,'');
+    if(!h){show('house');return;}
+    if(ROUTES.indexOf(h)>=0){show(h);return;}
+    var el=document.getElementById(h);
+    if(el){var v=el.closest('.view');if(v){show(v.getAttribute('data-view'),h);return;}}
+    show('house');
+  }
+  window.addEventListener('hashchange',route);
+
+  /* plain terms / the corpus's names */
+  var bPlain=document.getElementById('names-plain'),bCorpus=document.getElementById('names-corpus');
+  function setNames(corpus){
+    document.documentElement.classList.toggle('corpus-names',corpus);
+    bPlain.setAttribute('aria-pressed',String(!corpus));
+    bCorpus.setAttribute('aria-pressed',String(corpus));
+    try{localStorage.setItem('names',corpus?'corpus':'plain');}catch(e){}
+  }
+  bPlain.addEventListener('click',function(){setNames(false);});
+  bCorpus.addEventListener('click',function(){setNames(true);});
+  try{if(localStorage.getItem('names')==='corpus'){setNames(true);}}catch(e){}
+
+  /* floors: named, not numbered */
+  var roomIds=['room-here','room-word','room-pantry','room-chairs','room-orchard','room-summit','room-return','room-kitchen'];
+  var floorLinks={};
+  document.querySelectorAll('#floorlist a').forEach(function(a){floorLinks[a.getAttribute('data-room')]=a;});
+  var current='room-here';
+  function mark(id){current=id;Object.keys(floorLinks).forEach(function(k){floorLinks[k].classList.toggle('here',k===id);});}
+  if('IntersectionObserver' in window){
+    var io=new IntersectionObserver(function(entries){
+      entries.forEach(function(en){if(en.isIntersecting){mark(en.target.id);}});
+    },{rootMargin:'-40% 0px -55% 0px'});
+    roomIds.forEach(function(id){var el=document.getElementById(id);if(el){io.observe(el);}});
+  }
+  function go(id){var el=document.getElementById(id);if(el){el.scrollIntoView({block:'start'});mark(id);}}
+  document.getElementById('floor-down').addEventListener('click',function(){var i=roomIds.indexOf(current);go(roomIds[Math.min(roomIds.length-1,i+1)]);});
+  document.getElementById('floor-up').addEventListener('click',function(){var i=roomIds.indexOf(current);go(roomIds[Math.max(0,i-1)]);});
+  document.getElementById('floor-return').addEventListener('click',function(){go('room-return');});
+
+  /* the gold thread: one line down the margin of the house, broken once, at the summit */
+  function drawThread(){
+    var svg=document.getElementById('thread');var house=views['house'];
+    if(!svg||!house||!house.classList.contains('on')){return;}
+    var H=house.scrollHeight;svg.setAttribute('viewBox','0 0 56 '+H);svg.setAttribute('height',H);
+    var summit=document.getElementById('room-summit');
+    var hr=house.getBoundingClientRect(),sr=summit.getBoundingClientRect();
+    var s0=sr.top-hr.top,s1=s0+sr.height;
+    function seg(a,b){
+      var d='M28,'+a.toFixed(1),y=a,step=140,k=0;
+      while(y<b){var ny=Math.min(b,y+step);var cx=28+(k%2?13:-13);d+=' Q'+cx+','+((y+ny)/2).toFixed(1)+' 28,'+ny.toFixed(1);y=ny;k++;}
+      return d;
+    }
+    var start=260,end=H-40;
+    svg.innerHTML='<path d="'+seg(start,s0-30)+'" fill="none" stroke="var(--thread)" stroke-width="1.4" stroke-linecap="round"/>'+
+                  '<path d="'+seg(s1+30,end)+'" fill="none" stroke="var(--thread)" stroke-width="1.4" stroke-linecap="round"/>';
+  }
+  window.addEventListener('resize',function(){requestAnimationFrame(drawThread);});
+  if(document.fonts&&document.fonts.ready){document.fonts.ready.then(drawThread);}
+
+  /* one sentence, and its company: the reader chooses; nothing is matched or kept */
+  var shown=document.getElementById('finding-shown');
+  document.querySelectorAll('#finding-picker [data-f]').forEach(function(b){
+    b.addEventListener('click',function(){
+      document.querySelectorAll('#finding-picker [data-f]').forEach(function(x){x.classList.remove('turned');});
+      b.classList.add('turned');
+      var src=document.getElementById(b.getAttribute('data-f'));
+      if(src){shown.innerHTML=src.innerHTML;}
+    });
+  });
+  document.querySelectorAll('button.bet').forEach(function(b){
+    b.addEventListener('click',function(){document.getElementById('bet-note').textContent='Kept to yourself. Nothing was counted or sent.';});
+  });
+
+  /* reply: kept by the reader, dated, never stored */
+  var ta=document.getElementById('reply-sentence'),out=document.getElementById('reply-out'),copyB=document.getElementById('reply-copy');
+  var MONTHS=['January','February','March','April','May','June','July','August','September','October','November','December'];
+  document.getElementById('reply-keep').addEventListener('click',function(){
+    var t=(ta.value||'').trim()||'Nothing came.';
+    var d=new Date();var ds=d.getDate()+' '+MONTHS[d.getMonth()]+' '+d.getFullYear();
+    document.getElementById('reply-date').textContent=ds;
+    document.getElementById('reply-text').textContent=t;
+    out.classList.add('on');copyB.hidden=false;
+  });
+  copyB.addEventListener('click',function(){
+    var txt=document.getElementById('reply-date').textContent+'\n'+document.getElementById('reply-text').textContent;
+    function sel(){var r=document.createRange();r.selectNodeContents(out);var s=window.getSelection();s.removeAllRanges();s.addRange(r);}
+    try{navigator.clipboard.writeText(txt).then(function(){copyB.textContent='Copied';},sel);}catch(e){sel();}
+  });
+
+  route();
+})();
+</script>
+</body>
+</html>
