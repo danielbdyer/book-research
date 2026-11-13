@@ -1,0 +1,1339 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>The Book's Site in Plain Words</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,500;0,7..72,600;1,7..72,400;1,7..72,500&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a house walked in order. The walk is the ground floor; the sources sit beneath it; a gold thread runs down the margin of the house and breaks once, at the summit. Onionskin letter paper by day, the 4am room by night. */
+:root{
+  --paper:#EBEFEA; --paper-2:#E0E6E0; --paper-3:#D2DBD4;
+  --ink:#1B2333; --ink-2:#465063; --ink-3:#687284;
+  --rule:rgba(27,35,51,.15); --rule-2:rgba(27,35,51,.40);
+  --thread:#946A12; --thread-soft:rgba(148,106,18,.13);
+  --wax:#962C25; --wax-soft:rgba(150,44,37,.09);
+  --sky-top:#C6D4DC; --sky-bot:#EBEFEA;
+  --night:#0A0D13; --night-ink:#CBC7BB; --night-faint:rgba(203,199,187,.38);
+  --display:'IM Fell English',Georgia,'Times New Roman',serif;
+  --body:'Literata',Georgia,'Times New Roman',serif;
+  --mono:'IBM Plex Mono',ui-monospace,Menlo,Consolas,monospace;
+  --measure:66ch;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#0F131B; --paper-2:#151B26; --paper-3:#1D2533;
+  --ink:#E4E0D5; --ink-2:#B3B7C1; --ink-3:#8C92A1;
+  --rule:rgba(228,224,213,.13); --rule-2:rgba(228,224,213,.36);
+  --thread:#D6AA4E; --thread-soft:rgba(214,170,78,.14);
+  --wax:#E58773; --wax-soft:rgba(229,135,115,.11);
+  --sky-top:#04060A; --sky-bot:#0F131B;
+  --night:#030407; --night-ink:#CBC7BB; --night-faint:rgba(203,199,187,.34);
+  color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#0F131B; --paper-2:#151B26; --paper-3:#1D2533;
+  --ink:#E4E0D5; --ink-2:#B3B7C1; --ink-3:#8C92A1;
+  --rule:rgba(228,224,213,.13); --rule-2:rgba(228,224,213,.36);
+  --thread:#D6AA4E; --thread-soft:rgba(214,170,78,.14);
+  --wax:#E58773; --wax-soft:rgba(229,135,115,.11);
+  --sky-top:#04060A; --sky-bot:#0F131B;
+  --night:#030407; --night-ink:#CBC7BB; --night-faint:rgba(203,199,187,.34);
+  color-scheme:dark}
+
+*,*::before,*::after{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.62;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--sky-top)}
+a{color:inherit;text-decoration-color:var(--thread);text-underline-offset:3px;text-decoration-thickness:1px}
+a:hover{text-decoration-thickness:2px}
+:focus-visible{outline:2px solid var(--thread);outline-offset:3px;border-radius:2px}
+.wrap{max-width:1120px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.prose{max-width:var(--measure)}
+h1,h2,h3,h4{text-wrap:balance;margin:0}
+p{margin:0}
+.label{font-family:var(--mono);font-size:.7rem;letter-spacing:.09em;text-transform:uppercase;color:var(--ink-3)}
+.anchor{font-family:var(--mono);font-size:.72rem;line-height:1.5;color:var(--ink-3);letter-spacing:.01em;overflow-wrap:anywhere}
+.anchor::before{content:"↳ ";color:var(--thread)}
+q,.q{quotes:"\201C" "\201D" "\2018" "\2019"}
+.stack{display:flex;flex-direction:column;gap:14px}
+.muted{color:var(--ink-2)}
+
+/* header: open sky, no ceiling */
+.masthead{background:linear-gradient(var(--sky-top),var(--sky-bot) 92%)}
+.masthead .wrap{padding-block:22px 0}
+.topline{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;flex-wrap:wrap}
+.dateline{font-family:var(--mono);font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-2);line-height:1.6}
+.wordmark{text-align:center;padding-block:26px 6px}
+.wordmark a{text-decoration:none}
+.wordmark .name{font-family:var(--display);font-size:clamp(2.1rem,6.4vw,4.4rem);line-height:1;letter-spacing:-.005em;font-weight:400}
+.wordmark .name i{font-style:italic}
+.wordmark .candidate{display:block;margin-top:10px}
+.toggle{display:inline-flex;border:1px solid var(--rule-2);border-radius:999px;overflow:hidden}
+.toggle button{font-family:var(--mono);font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;background:transparent;color:var(--ink-2);border:0;padding:7px 11px;cursor:pointer}
+.toggle button[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+nav.doors{border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);margin-top:18px}
+nav.doors ul{list-style:none;margin:0;padding:10px 0;display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:4px 15px}
+nav.doors a{font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;text-decoration:none;color:var(--ink-2);padding:6px 0;border-bottom:1.5px solid transparent}
+nav.doors a[aria-current="page"]{color:var(--ink);border-bottom-color:var(--thread)}
+nav.doors .beneath{display:flex;gap:4px 12px;align-items:center;flex-wrap:wrap;justify-content:center;padding:2px 12px;border-left:1px dashed var(--rule-2);border-right:1px dashed var(--rule-2)}
+nav.doors .beneath .label{font-size:.62rem}
+
+/* names toggle */
+.n-corpus{display:none}
+.corpus-names .n-plain{display:none}
+.corpus-names .n-corpus{display:inline}
+.n-corpus{font-style:italic}
+.n-corpus::after{content:" · candidate name";font-family:var(--mono);font-style:normal;font-size:.62rem;letter-spacing:.06em;color:var(--ink-3);vertical-align:.25em}
+
+/* views */
+.view{display:none}
+.view.on{display:block}
+.page-head{padding-block:54px 34px}
+.page-head .label{display:block;margin-bottom:14px}
+.page-head h1{font-family:var(--display);font-weight:400;font-size:clamp(2.2rem,5.2vw,3.9rem);line-height:1.04}
+.page-head h1 i{font-style:italic}
+.page-head .promise{margin-top:18px;font-size:1.15rem;color:var(--ink-2);max-width:60ch}
+.statline{display:flex;flex-wrap:wrap;gap:10px 28px;padding-block:16px;border-top:1px solid var(--rule-2);border-bottom:1px solid var(--rule);margin-bottom:8px}
+.stat{display:flex;flex-direction:column;gap:2px}
+.stat b{font-family:var(--display);font-weight:400;font-size:1.9rem;line-height:1;font-variant-numeric:tabular-nums}
+.stat span{font-family:var(--mono);font-size:.64rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3)}
+.how{margin-top:8px}
+
+section.block{padding-block:46px;border-top:1px solid var(--rule)}
+section.block > .head{display:grid;grid-template-columns:minmax(0,1fr);gap:8px;margin-bottom:26px;max-width:72ch}
+section.block > .head h2{font-family:var(--display);font-weight:400;font-size:clamp(1.6rem,3.4vw,2.3rem);line-height:1.1}
+section.block > .head p{color:var(--ink-2)}
+.replaces{font-family:var(--mono);font-size:.66rem;letter-spacing:.06em;color:var(--ink-3)}
+.replaces s{text-decoration-color:var(--wax)}
+.page-head .replaces{font-family:var(--body);font-size:.95rem;letter-spacing:0;color:var(--ink-2);max-width:72ch;line-height:1.55}
+
+/* cards and grids */
+.grid{display:grid;gap:18px 26px;grid-template-columns:repeat(auto-fill,minmax(min(100%,320px),1fr))}
+.grid.two{grid-template-columns:repeat(auto-fill,minmax(min(100%,440px),1fr))}
+.card{display:flex;flex-direction:column;gap:10px;padding-top:14px;border-top:1px solid var(--rule-2);min-width:0}
+.card h3{font-family:var(--body);font-weight:600;font-size:1.04rem;line-height:1.35}
+.card p{font-size:.96rem}
+.card.filled{background:var(--paper-2);padding:18px 18px 16px;border-top:2px solid var(--ink)}
+.sheet{background:var(--paper-2);padding:22px 22px 18px;border-top:2px solid var(--ink);display:flex;flex-direction:column;gap:12px;min-width:0}
+.sheet h3{font-family:var(--display);font-weight:400;font-size:1.45rem;line-height:1.15}
+dl.fields{display:grid;grid-template-columns:minmax(0,9.5em) minmax(0,1fr);gap:8px 14px;margin:0;font-size:.94rem}
+dl.fields dt{font-family:var(--mono);font-size:.64rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3);padding-top:4px}
+dl.fields dd{margin:0}
+dl.fields dd.part{color:var(--wax)}
+@media (max-width:560px){dl.fields{grid-template-columns:minmax(0,1fr)}dl.fields dt{padding-top:6px}}
+
+.chip{display:inline-flex;align-items:center;gap:5px;font-family:var(--mono);font-size:.62rem;letter-spacing:.08em;text-transform:uppercase;padding:3px 8px;border-radius:2px;border:1px solid var(--rule-2);color:var(--ink-2);white-space:nowrap;line-height:1.4}
+.chip.kept{border-color:var(--ink);color:var(--ink)}
+.chip.turned{border-color:var(--thread);color:var(--thread);background:var(--thread-soft)}
+.chip.declined{border-color:var(--wax);color:var(--wax);background:var(--wax-soft)}
+.chip.personal{border-style:dashed}
+.chip.gradeb{border-style:dashed;color:var(--ink-3)}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+
+blockquote{margin:0;padding:2px 0 2px 16px;border-left:2px solid var(--thread);font-size:.98rem}
+blockquote.refusal{border-left-color:var(--wax)}
+.refusal-line{color:var(--wax)}
+.refusal-line b{font-family:var(--mono);font-weight:500;font-size:.62rem;letter-spacing:.08em;text-transform:uppercase;margin-right:6px}
+
+.tablebox{overflow-x:auto;border-top:1px solid var(--rule-2);border-bottom:1px solid var(--rule-2)}
+table{border-collapse:collapse;width:100%;font-size:.9rem}
+th,td{text-align:left;vertical-align:top;padding:10px 12px;border-bottom:1px solid var(--rule)}
+th{font-family:var(--mono);font-weight:500;font-size:.64rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3);background:var(--paper-2)}
+tr:last-child td{border-bottom:0}
+td.cell{font-family:var(--mono);font-size:.66rem;letter-spacing:.05em;text-transform:uppercase;white-space:nowrap}
+.c-surv{color:var(--thread)}.c-lin{color:var(--ink)}.c-narrow{color:var(--wax)}.c-with{color:var(--wax);text-decoration:line-through}.c-pend{color:var(--ink-2);font-style:italic}.c-none{color:var(--ink-3)}
+.legend{display:flex;flex-wrap:wrap;gap:6px 18px;margin-top:12px}
+
+button.plain,.btn{font-family:var(--mono);font-size:.7rem;letter-spacing:.08em;text-transform:uppercase;background:var(--ink);color:var(--paper);border:1px solid var(--ink);padding:10px 16px;cursor:pointer;border-radius:2px;text-decoration:none;display:inline-block}
+.btn.ghost{background:transparent;color:var(--ink)}
+textarea,input[type=text]{font-family:var(--body);font-size:1.05rem;width:100%;background:var(--paper);color:var(--ink);border:1px solid var(--rule-2);border-radius:2px;padding:12px 14px;line-height:1.5}
+textarea{min-height:96px;resize:vertical}
+.note{font-size:.86rem;color:var(--ink-2)}
+
+/* the house */
+.house{position:relative}
+.thread{position:absolute;top:0;left:0;width:56px;height:100%;pointer-events:none;display:none}
+@media (min-width:1180px){.thread{display:block}}
+.lintel{padding-block:70px 54px;text-align:center}
+.lintel .over{display:block;margin-bottom:22px}
+.lintel h1{font-family:var(--display);font-weight:400;font-size:clamp(2rem,5.6vw,4.1rem);line-height:1.12;max-width:20ch;margin:0 auto}
+.lintel h1 span{display:block}
+.lintel h1 span:nth-child(3){font-style:italic}
+.threshold{max-width:54ch;margin:34px auto 0;display:flex;flex-direction:column;gap:12px;align-items:center}
+.threshold p{font-size:1.06rem}
+.nocount{margin-top:22px}
+.floors{position:sticky;top:calc(env(safe-area-inset-top,0px) + 12px);z-index:5;display:flex;justify-content:flex-end;align-items:flex-start;pointer-events:none;height:0}
+.floorpanel{pointer-events:auto;background:var(--paper);border:1px solid var(--rule-2);padding:10px 12px;width:220px;margin-top:8px;display:none}
+@media (min-width:1000px){.floorpanel{display:block}.house .room:not(.summit),.house .kitchen,.house .who,.house .lastline,.house .receipts-door{padding-right:250px}}
+.floorpanel ol{list-style:none;margin:8px 0;padding:0;display:flex;flex-direction:column;gap:3px}
+.floorpanel a{font-size:.82rem;text-decoration:none;color:var(--ink-3);display:block;padding:1px 0 1px 10px;border-left:2px solid transparent}
+.floorpanel a.here{color:var(--ink);border-left-color:var(--thread)}
+.floorpanel .keys{display:flex;gap:6px;flex-wrap:wrap}
+.floorpanel .keys button{font-family:var(--mono);font-size:.62rem;letter-spacing:.06em;text-transform:uppercase;background:transparent;color:var(--ink-2);border:1px solid var(--rule-2);padding:4px 7px;cursor:pointer;border-radius:2px}
+.room{padding-block:72px;border-top:1px solid var(--rule);scroll-margin-top:20px}
+.room .roomhead{display:flex;flex-direction:column;gap:6px;margin-bottom:22px}
+.room h2{font-family:var(--display);font-weight:400;font-size:clamp(1.7rem,3.8vw,2.6rem);line-height:1.1}
+.room .invite{font-size:1.14rem;line-height:1.6;max-width:var(--measure)}
+.room .said{margin-top:22px;max-width:var(--measure)}
+.room .said blockquote{font-size:1.04rem}
+.room .rests{margin-top:18px;display:flex;flex-direction:column;gap:4px}
+.room .contrast{margin-top:14px;font-size:.9rem;color:var(--ink-2);max-width:var(--measure)}
+.room .margin-word{position:absolute;right:0;top:96px;font-family:var(--display);font-style:italic;font-size:1.25rem;color:var(--ink-3);opacity:.5;letter-spacing:.04em;transform:rotate(-3deg);-webkit-mask-image:linear-gradient(90deg,#000 30%,transparent 85%);mask-image:linear-gradient(90deg,#000 30%,transparent 85%);display:none}
+@media (min-width:860px){.room .margin-word{display:block}}
+.room.rel{position:relative}
+.breath-full .invite{max-width:66ch}
+.breath-steady .invite{max-width:58ch}
+.breath-short .invite{max-width:46ch}
+.summit{background:var(--night);color:var(--night-ink);border-top:0;padding-block:150px 170px;text-align:center}
+.summit .label{color:var(--night-faint)}
+.summit h2{color:var(--night-ink);font-size:1.1rem;font-family:var(--mono);letter-spacing:.12em;text-transform:uppercase;font-weight:400;opacity:.55}
+.summit .unfinished{font-family:var(--display);font-style:italic;font-size:clamp(1.5rem,3.6vw,2.4rem);margin-top:80px;background:linear-gradient(90deg,var(--night-ink) 20%,transparent 92%);-webkit-background-clip:text;background-clip:text;color:transparent;display:inline-block;padding-right:2ch}
+.summit .after{margin-top:120px;font-family:var(--mono);font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--night-faint)}
+.summit details{margin:40px auto 0;max-width:60ch;text-align:left;color:var(--night-faint);font-size:.86rem}
+.summit details summary{cursor:pointer;font-family:var(--mono);font-size:.64rem;letter-spacing:.08em;text-transform:uppercase;text-align:center;list-style:none}
+.summit details[open]{color:var(--night-ink)}
+.summit details .anchor{color:var(--night-faint)}
+.summit details blockquote{border-left-color:var(--night-faint)}
+.kitchen{padding-block:90px 30px;text-align:center}
+.kitchen .doors2{display:flex;gap:12px;justify-content:center;flex-wrap:wrap;margin-top:26px}
+.kitchen .kline{font-family:var(--display);font-size:clamp(1.5rem,3.4vw,2.2rem);line-height:1.25;max-width:26ch;margin:0 auto}
+.kitchen .kline.k2{margin-top:40px;font-style:italic;font-size:clamp(1.2rem,2.6vw,1.6rem);color:var(--ink-2)}
+.who{padding-block:110px 40px;text-align:center}
+.who .w{font-family:var(--display);font-style:italic;font-size:clamp(4rem,14vw,9rem);line-height:1}
+.who .cannot{margin-top:18px}
+.lastline{padding-block:70px 30px;text-align:center}
+.lastline .placeholder{font-family:var(--display);font-size:clamp(1.3rem,3vw,1.9rem);color:var(--ink-3)}
+.leaf{margin:40px auto 0;max-width:520px;min-height:240px;border:1px dashed var(--rule-2);display:flex;align-items:flex-end;justify-content:center;padding:14px}
+.receipts-door{padding-block:46px 70px;text-align:center}
+.receipts-door a{font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase}
+
+/* the letter */
+.answer-list{display:flex;flex-direction:column}
+.answer{display:grid;grid-template-columns:minmax(0,13rem) minmax(0,1fr);gap:8px 30px;padding-block:24px;border-top:1px solid var(--rule)}
+.answer .their{display:flex;flex-direction:column;gap:8px}
+.answer .their .no{font-family:var(--display);font-size:1.6rem;line-height:1;color:var(--ink-3)}
+.answer .their .t{font-family:var(--mono);font-size:.7rem;letter-spacing:.04em;color:var(--ink-2)}
+.answer .ours{display:flex;flex-direction:column;gap:10px;min-width:0}
+.answer .ours h3{font-family:var(--body);font-weight:600;font-size:1.08rem;line-height:1.4}
+@media (max-width:720px){.answer{grid-template-columns:minmax(0,1fr)}}
+.hero-letter{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:30px;align-items:start}
+@media (max-width:820px){.hero-letter{grid-template-columns:minmax(0,1fr)}}
+.layers{display:flex;flex-direction:column;gap:0}
+.layer{display:grid;grid-template-columns:7.5rem minmax(0,1fr);gap:14px;padding-block:14px;border-top:1px solid var(--rule)}
+.layer .when{font-family:var(--mono);font-size:.66rem;letter-spacing:.06em;text-transform:uppercase;color:var(--thread);padding-top:4px}
+.layer p{font-family:var(--display);font-size:1.2rem;line-height:1.35}
+
+/* the reply */
+.letterpaper{position:relative;background:var(--paper-2);padding:30px 26px 24px;border:1px solid var(--rule-2)}
+.letterpaper::before{content:"";position:absolute;inset:-1px -1px auto -1px;height:7px;background:repeating-linear-gradient(-45deg,var(--wax) 0 10px,transparent 10px 20px,var(--ink-2) 20px 30px,transparent 30px 40px);opacity:.7}
+.kept-out{display:none;margin-top:16px;padding:16px;border:1px solid var(--rule-2);background:var(--paper)}
+.kept-out.on{display:block}
+.kept-out .date{font-family:var(--mono);font-size:.7rem;color:var(--ink-3)}
+.kept-out .s{font-family:var(--display);font-size:1.3rem;margin-top:8px}
+ol.qs{margin:0;padding-left:1.4em;display:flex;flex-direction:column;gap:14px;max-width:72ch}
+ol.qs li::marker{font-family:var(--mono);font-size:.8rem;color:var(--thread)}
+ol.qs li p{font-size:.92rem;color:var(--ink-2);margin-top:3px}
+
+/* the map */
+.map-table td:first-child{font-weight:600}
+.map-table td.k{white-space:nowrap}
+.finding{display:grid;grid-template-columns:minmax(0,1fr);gap:8px;padding-block:20px;border-top:1px solid var(--rule)}
+.finding h3{font-family:var(--body);font-weight:600;font-size:1.08rem;line-height:1.4;max-width:70ch}
+.finding p{max-width:72ch;font-size:.96rem}
+.finding .fi{font-size:.9rem;color:var(--ink-2)}
+.finding .fi b{font-family:var(--mono);font-weight:500;font-size:.62rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3);margin-right:6px}
+.diagram{overflow-x:auto;padding-block:8px}
+.diagram svg{display:block;min-width:720px;width:100%;height:auto}
+
+footer.foot{border-top:1px solid var(--rule-2);margin-top:30px}
+footer.foot .wrap{padding-block:30px 46px;display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,200px),1fr));gap:22px}
+footer.foot ul{list-style:none;margin:8px 0 0;padding:0;display:flex;flex-direction:column;gap:4px;font-size:.9rem}
+footer.foot a{text-decoration:none}
+footer.foot a:hover{text-decoration:underline}
+footer.foot .colophon{font-size:.84rem;color:var(--ink-2);max-width:42ch}
+
+/* plain version */
+.src{display:none!important}
+.show-sources .src{display:block!important}
+.show-sources span.src.inline{display:inline!important}
+.srcbtn{font-family:var(--mono);font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;background:transparent;color:var(--ink-2);border:1px solid var(--rule-2);border-radius:999px;padding:7px 12px;cursor:pointer}
+.srcbtn[aria-pressed="true"]{background:var(--ink);color:var(--paper)}
+.them{font-size:.9rem;color:var(--ink-2);max-width:68ch}
+.them b{font-family:var(--mono);font-weight:500;font-size:.62rem;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3);margin-right:6px}
+.lead{font-size:1.18rem;line-height:1.6;max-width:62ch}
+.bigidea{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:18px;margin-top:22px}
+@media (max-width:720px){.bigidea{grid-template-columns:minmax(0,1fr)}}
+.bigidea .side{padding:18px;border:1px solid var(--rule-2)}
+.bigidea .side.ours{border-color:var(--thread);background:var(--thread-soft)}
+.bigidea ol{margin:10px 0 0;padding-left:1.2em;display:flex;flex-direction:column;gap:6px}
+.pagelist{display:flex;flex-direction:column}
+.pagelist a{display:grid;grid-template-columns:minmax(0,14rem) minmax(0,1fr);gap:4px 20px;padding:14px 0;border-top:1px solid var(--rule);text-decoration:none}
+.pagelist a b{font-family:var(--display);font-weight:400;font-size:1.3rem}
+.pagelist a span{color:var(--ink-2)}
+@media (max-width:620px){.pagelist a{grid-template-columns:minmax(0,1fr)}}
+.yesno{font-family:var(--mono);font-size:.68rem;letter-spacing:.05em;text-transform:uppercase}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap">
+    <div class="topline">
+      <div class="dateline">Thursday, 12 November 2026<br>A sketch for you · private</div>
+      <button type="button" class="srcbtn" id="src-toggle" aria-pressed="false">Show sources</button>
+    </div>
+    <div class="wordmark">
+      <a href="#start" aria-label="Start here"><span class="name">The Ecology <i>of</i> Recognition</span></a>
+      <span class="label candidate">Your working title · still yours to choose</span>
+    </div>
+    <nav class="doors" aria-label="Rooms of the site">
+      <ul>
+        <li><a href="#start" data-route="start">Start here</a></li>
+        <li><a href="#house" data-route="house">The house</a></li>
+        <li><a href="#came-from" data-route="came-from">Where it came from</a></li>
+        <li class="beneath"><span class="label">Under the house ↓</span>
+          <a href="#readings" data-route="readings">What they really said</a>
+          <a href="#noticed" data-route="noticed">Who else noticed</a>
+          <a href="#company" data-route="company">The people</a>
+        </li>
+        <li><a href="#reply" data-route="reply">Your reply</a></li>
+        <li><a href="#map" data-route="map">Side by side</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+<main>
+
+<!-- ===================== START HERE ===================== -->
+<div class="view" id="view-start" data-view="start">
+  <div class="wrap">
+    <header class="page-head">
+      <span class="label">Start here</span>
+      <h1>What this <i>is</i></h1>
+      <p class="lead" style="margin-top:18px">You asked what a site like accelerateinward.com would look like if it were built from your book research. This is a sketch of that. It is not a launch. Nothing here goes public unless you decide it should.</p>
+    </header>
+
+    <section class="block" style="border-top:0;padding-top:0">
+      <div class="head"><h2>The big idea: the order flips</h2></div>
+      <div class="bigidea">
+        <div class="side">
+          <span class="label">Their site</span>
+          <ol>
+            <li><b>On top:</b> news, articles, a manifesto, research summaries, a library of teachers.</li>
+            <li><b>Hidden underneath,</b> behind a small eye in the footer: a quiet floor of guided experiences, labeled &ldquo;not for reading.&rdquo;</li>
+          </ol>
+        </div>
+        <div class="side ours">
+          <span class="label">Your book's site</span>
+          <ol>
+            <li><b>On top:</b> the house. Your book is meant to be walked through, room by room, so the walk is the front door.</li>
+            <li><b>Underneath:</b> the research. What the thinkers really said, who else noticed the same things, and the people themselves.</li>
+          </ol>
+        </div>
+      </div>
+      <p class="lead" style="margin-top:22px">Their site hides the experience underneath the reading. In your book, the reading <i>is</i> the experience. So the order flips.</p>
+      <span class="src anchor">abridged p. 1: &ldquo;This book is designed to be undergone, not understood.&rdquo;</span>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>What it taught us about your book</h2>
+        <p>Putting the two sites side by side showed six things about the book itself. They matter more than the site does.</p>
+      </div>
+      <div class="grid two">
+        <div class="card"><h3>1. The summit chapter isn't quiet yet.</h3><p>Your notes say the peak of the book is where the writing should thin out and go quiet. In the short draft, that chapter is the second-longest of fifteen, and it is full of brain science.</p><span class="src anchor">The Psychedelic Moment, abridged edition: 2,172 words against an average of 1,160 (ops/chapter concordance.md); walked p. 22 and first-telling p. 12 describe the thinning.</span></div>
+        <div class="card"><h3>2. The book ends in a kitchen, not in the clouds.</h3><p>Four separate places in your drafts bring the reader back to their own kitchen: &ldquo;The kitchen will be a kitchen.&rdquo; That is a strong ending to build on.</p><span class="src anchor">abridged pp. 36, 39, 47; walked p. 21</span></div>
+        <div class="card"><h3>3. You haven't picked the last line yet.</h3><p>The drafts end two ways: &ldquo;welcome home&rdquo; and &ldquo;Step in.&rdquo; Anything built around the book, a site included, would echo whichever one you choose.</p><span class="src anchor">first-telling p. 13; abridged p. 49; ops/decision sitting — 2026-09-03.md, item 5</span></div>
+        <div class="card"><h3>4. When a reader writes back, the best listener is someone who knows them.</h3><p>Your research keeps arriving here. A book can't tell a reader whether their experience was real. A person who knows them can. The book could say so plainly.</p><span class="src anchor">ops/second person ecology.md §4; Rogers 1957, condition 6</span></div>
+        <div class="card"><h3>5. Your poems already said &ldquo;why now.&rdquo;</h3><p>Poem #3: &ldquo;the new paralysis of modernity / is dreaming so longingly about what could be / that we forget to live life in the now.&rdquo; That is older than the AI framing in the drafts, and the research doesn't hold it anywhere yet.</p><span class="src anchor">poems #3</span></div>
+        <div class="card"><h3>6. The thinkers' own words often correct the book.</h3><p>Your research has read 47 thinkers in their own words. In 21 of those readings, the original text corrected something the drafts or the research notes had said about that thinker. When you write, quote from the readings, not from the drafts.</p><span class="src anchor">the reading records in archive/</span></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>The pages</h2>
+        <p>Each page stands in for one of their pages. Sources are hidden so the pages read easily. The <b>Show sources</b> button at the top shows where every line comes from.</p>
+      </div>
+      <nav class="pagelist" aria-label="Pages">
+        <a href="#house"><b>The house</b><span>Seven rooms a reader walks through, from the front door to the kitchen. Takes the place of their hidden floor.</span></a>
+        <a href="#came-from"><b>Where it came from</b><span>An honest account of how the book came to be. Takes the place of their manifesto.</span></a>
+        <a href="#readings"><b>What they really said</b><span>Thinkers read in their own words, and where that corrected the book. Takes the place of their research summaries.</span></a>
+        <a href="#noticed"><b>Who else noticed</b><span>People who noticed the same things, and whether they got there on their own. Takes the place of their theory scoreboard.</span></a>
+        <a href="#company"><b>The people</b><span>Each thinker, with what they add and where they disagree with the book. Takes the place of their library.</span></a>
+        <a href="#reply"><b>Your reply</b><span>The reader's half: one sentence to write and keep. Takes the place of their &ldquo;create with us&rdquo; page.</span></a>
+        <a href="#map"><b>Side by side</b><span>Their site and yours, piece by piece.</span></a>
+      </nav>
+    </section>
+  </div>
+</div>
+
+<!-- ===================== THE HOUSE ===================== -->
+<div class="view house" id="view-house" data-view="house">
+  <svg class="thread" id="thread" aria-hidden="true"></svg>
+  <div class="wrap">
+    <section class="lintel" aria-labelledby="lintel-h">
+      <p class="them" style="margin:0 auto 26px;text-align:center">This page is written to a reader of your book. It is the front door of the site.</p>
+      <span class="label over">Over the door</span>
+      <h1 id="lintel-h"><span>You already know everything in this book.</span> <span>You have just forgotten.</span> <span>Reading is remembering.</span></h1>
+      <div class="threshold">
+        <p>&ldquo;Notice whether you came to this with hunger or curiosity or skepticism or boredom &mdash; all of it is welcome here, and none of it needs to change.&rdquo;</p>
+        <p class="muted"><i>&ldquo;Take one breath at the threshold.&rdquo;</i></p>
+        <span class="src anchor">abridged pp. 1–2</span>
+        <p class="label nocount">No scores, no sound, no promises. Walk in order, or come back to any room.</p>
+      </div>
+    </section>
+  </div>
+
+  <div class="wrap floors">
+    <aside class="floorpanel" aria-label="Rooms of the house">
+      <span class="label">The rooms</span>
+      <ol id="floorlist">
+        <li><a href="#room-here" data-room="room-here">The room you're in</a></li>
+        <li><a href="#room-word" data-room="room-word">Finding the word</a></li>
+        <li><a href="#room-pantry" data-room="room-pantry">The pantry</a></li>
+        <li><a href="#room-chairs" data-room="room-chairs">Two chairs</a></li>
+        <li><a href="#room-orchard" data-room="room-orchard">The orchard</a></li>
+        <li><a href="#room-summit" data-room="room-summit">The silent room</a></li>
+        <li><a href="#room-return" data-room="room-return">Coming back</a></li>
+        <li><a href="#room-kitchen" data-room="room-kitchen">The kitchen</a></li>
+      </ol>
+      <div class="keys">
+        <button type="button" id="floor-up">↑ Back</button>
+        <button type="button" id="floor-down">Next ↓</button>
+        <button type="button" id="floor-return">Come back</button>
+      </div>
+      <p class="note" style="margin-top:8px;font-size:.74rem">Nothing gets checked off.</p>
+    </aside>
+  </div>
+
+  <div class="wrap">
+    <section class="room rel breath-full" id="room-here" aria-labelledby="h-here">
+      <div class="roomhead">
+        <span class="label">In the book: the House with No Ceiling</span>
+        <h2 id="h-here">The room you're already in</h2>
+      </div>
+      <p class="invite">Look up from the page at the room you're sitting in. Can you breathe in it? You can skip this. The room won't ask again.</p>
+      <div class="said"><blockquote>&ldquo;Try to feel the difference between a room where you can breathe and a room where you cannot.&rdquo;</blockquote></div>
+      <span class="src anchor">abridged p. 4</span>
+      <p class="contrast"><b class="label">Their site</b> builds a fake room out of red light and noise. This one points at the room you're actually in.</p>
+    </section>
+
+    <section class="room breath-full" id="room-word" aria-labelledby="h-word">
+      <div class="roomhead">
+        <span class="label">The practice at the heart of the book</span>
+        <h2 id="h-word">Finding the word that fits</h2>
+      </div>
+      <p class="invite">Pick one thing going on in your life. Notice how it feels in your body as a whole, before you have words for it. Let a word come, and keep it only if it fits. If nothing fits, that's fine.</p>
+      <div class="said">
+        <blockquote>Eugene Gendlin: &ldquo;A felt shift feels like a release. That is how you recognize it.&rdquo;</blockquote>
+        <p class="refusal-line" style="margin-top:10px"><b>He doesn't promise it will happen</b>&ldquo;It doesn't matter whether the body-shift came or not.&rdquo;</p>
+      </div>
+      <span class="src anchor">Gendlin, Focusing (1978), ch. 5 — archive/reading — gendlin, focusing and a process model (1978, 1997).md</span>
+      <p class="contrast"><b class="label">Their site</b> has sliders that change what you feel. Here, what you feel changes the word.</p>
+    </section>
+
+    <section class="room breath-steady" id="room-pantry" aria-labelledby="h-pantry">
+      <div class="roomhead">
+        <span class="label">A room for grief</span>
+        <h2 id="h-pantry">The pantry, where grief isn't finished alone</h2>
+      </div>
+      <p class="invite">If a loss comes to mind, this room says it may need another person with you, and points you toward someone. It doesn't walk you through it on the page.</p>
+      <div class="said">
+        <blockquote>&ldquo;a witness is not a commentator. Being seen is a different event from being explained. Only one of them completes anything.&rdquo;</blockquote>
+        <p class="refusal-line" style="margin-top:10px"><b>A correction</b>The drafts credit Karla McLaren with the idea that grief needs a witness. She actually wrote: &ldquo;Your grief process can be undertaken individually, or in a community or family group.&rdquo; The witness idea is the book's own.</p>
+      </div>
+      <span class="src anchor">first-telling p. 9; archive/reading — the completion family (hudson's art of accomplishment, mclaren's language of emotions).md</span>
+      <p class="contrast"><b class="label">Their site</b> guides you alone through an 18-minute practice. This room sends you to a person.</p>
+    </section>
+
+    <section class="room breath-steady" id="room-chairs" aria-labelledby="h-chairs">
+      <div class="roomhead">
+        <span class="label">In the book: the Second Chair</span>
+        <h2 id="h-chairs">The room with two chairs</h2>
+      </div>
+      <p class="invite">There are two chairs, and you're in one. Does someone come to mind for the other? There's no box to type their name. If you want to say something, say it to them, off the page.</p>
+      <div class="said"><blockquote>&ldquo;A codex is a one-chair technology making a two-chair argument.&rdquo;</blockquote></div>
+      <span class="src anchor">walked p. 14</span>
+      <p class="contrast"><b class="label">Their site</b> asks you to type someone's name. This page admits it only has one chair.</p>
+    </section>
+
+    <section class="room breath-steady" id="room-orchard" aria-labelledby="h-orchard">
+      <div class="roomhead">
+        <span class="label">In the book: the Orchard</span>
+        <h2 id="h-orchard">The orchard, before the summit</h2>
+      </div>
+      <p class="invite">One question about what's ending in your life. Then a plain heads-up that the next room is stranger.</p>
+      <div class="said"><blockquote>&ldquo;What in your life is composting right now? Can you let it? What might it be feeding?&rdquo; &hellip; &ldquo;We are about to go deeper, and the prose will get stranger.&rdquo;</blockquote></div>
+      <span class="src anchor">abridged p. 31</span>
+    </section>
+  </div>
+
+  <section class="room summit" id="room-summit" aria-label="The silent room">
+    <div class="wrap">
+      <span class="label">The summit</span>
+      <h2>The silent room</h2>
+      <div><span class="unfinished">from the unfolding of the center</span></div>
+      <p class="after">The page says nothing more here.</p>
+      <details>
+        <summary>What is this room?</summary>
+        <div class="stack" style="margin-top:16px">
+          <p>In the book this is the Psychedelic Moment, the peak. Your drafts say the writing should go quiet here, so this page goes dark and leaves a sentence unfinished. In the dark, the screen shows your own reflection.</p>
+          <p>The sentence comes from the Kashmir Shaiva teacher Kṣemarāja: &ldquo;from the unfolding of the center comes the bliss of consciousness.&rdquo; Your drafts plant it half-erased early in the book and finish it at a mirror. Here, the dark screen is the mirror.</p>
+          <p>One thing to know: in the short draft, this chapter is one of the longest in the book, and it is full of brain science.</p>
+          <span class="src anchor">walked p. 22; atlas §IX.6c; ops/chapter concordance.md</span>
+        </div>
+      </details>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <section class="room breath-short" id="room-return" aria-labelledby="h-return">
+      <div class="roomhead">
+        <span class="label">In the book: the Stance</span>
+        <h2 id="h-return">The room you come back to</h2>
+      </div>
+      <p class="invite">Thirty seconds with nothing to do. Drifting off and coming back is the practice, not a failure.</p>
+      <div class="said">
+        <blockquote>&ldquo;The Stance is not a destination; it is a return point. &hellip; The returning is the practice.&rdquo;</blockquote>
+        <p style="margin-top:12px">Your poem said it first: &ldquo;even leaving, / beginning again, / even older, beginning again.&rdquo;</p>
+      </div>
+      <span class="src anchor">abridged p. 41; poems #12</span>
+      <p class="contrast">The peak isn't the end of the walk. &ldquo;The peak experience is not the work. The peak experience is the opening.&rdquo;</p>
+    </section>
+
+    <section class="kitchen" id="room-kitchen" aria-labelledby="h-kitchen">
+      <span class="label">There is no more page</span>
+      <h2 id="h-kitchen" class="kline" style="margin-top:20px">&ldquo;You can put the book down now. You can pick it up again next year.&rdquo;</h2>
+      <div class="doors2">
+        <a class="btn ghost" href="#room-kitchen-2">Put it down</a>
+        <a class="btn ghost" href="#room-kitchen-2">Pick it up again</a>
+      </div>
+      <p class="kline k2" id="room-kitchen-2">&ldquo;You will close the book and walk into your kitchen. The kitchen will be a kitchen.&rdquo;</p>
+      <p class="them" style="margin:22px auto 0;text-align:center">Both buttons lead to the kitchen. Their site ends by asking whether you want to go to &ldquo;the void&rdquo; or stay on Earth. Your book's answer is the kitchen.</p>
+      <span class="src anchor" style="text-align:center">abridged pp. 47, 39; arc-gloss p. 3</span>
+    </section>
+
+    <section class="who" aria-labelledby="h-who">
+      <h2 id="h-who" class="w">who?</h2>
+      <p class="cannot label">This page can't hear your answer</p>
+      <p class="them" style="margin:16px auto 0;text-align:center">Their site asks &ldquo;Who is reading this?&rdquo; and waits for you to type. A book can't hear the answer, so this page doesn't pretend to.</p>
+      <span class="src anchor" style="text-align:center">walked p. 13; the Winnicott reading in archive/</span>
+    </section>
+
+    <section class="lastline" aria-label="The last line">
+      <p class="placeholder">[ your last line goes here ]</p>
+      <p class="them" style="margin:14px auto 0;text-align:center">The book's last line is meant to be answerable. The drafts end two ways, &ldquo;welcome home&rdquo; and &ldquo;Step in.&rdquo; Which one is yours to decide.</p>
+      <div class="leaf" aria-label="The reader's page, left blank"><span class="label">the reader's page · left blank</span></div>
+    </section>
+
+    <div class="receipts-door">
+      <a href="#readings">↓ Under the house: the research</a>
+      <p class="note" style="margin-top:8px">On their site the experiences are hidden under the articles. Here the research sits under the house.</p>
+    </div>
+  </div>
+</div>
+
+<!-- ===================== WHERE IT CAME FROM ===================== -->
+<div class="view" id="view-came-from" data-view="came-from">
+  <div class="wrap">
+    <header class="page-head">
+      <span class="label">Instead of a manifesto</span>
+      <h1>Where it <i>came from</i></h1>
+      <p class="promise">An honest account of how the book came to be, and what it does and doesn't claim.</p>
+      <p class="them" style="margin-top:16px"><b>Their site</b>has a manifesto: &ldquo;We are sleeping, and it's time to wake up.&rdquo; It argues that every tradition reaches the same summit, and it asks you to join. Your book makes a quieter claim, so it gets a different kind of page.</p>
+    </header>
+
+    <section class="block" style="border-top:0;padding-top:6px">
+      <div class="hero-letter">
+        <div class="stack">
+          <span class="label">The book's opening, traced back</span>
+          <h2 style="font-family:var(--display);font-weight:400;font-size:clamp(1.6rem,3.4vw,2.3rem);line-height:1.12">The idea over the door started as a poem.</h2>
+          <p>&ldquo;Reading is remembering&rdquo; didn't start in the drafts. You wrote it first, years earlier, about your own life. The scholarship came later. The simplest true version of the story is: a man noticed some things, and then found out that other people had noticed them too.</p>
+        </div>
+        <div class="layers">
+          <div class="layer"><span class="when">Years before<br>poem #4</span><p>&ldquo;you see, I didn't need / to hear what I already knew&mdash; / but it was nice to be vulnerable / enough to recognize the answer / I had always had&mdash;&rdquo;</p></div>
+          <div class="layer"><span class="when">April 2025<br>first draft</span><p>&ldquo;To read this book fully is to risk remembering what you already know.&rdquo;</p></div>
+          <div class="layer"><span class="when">July 2026<br>short draft</span><p>&ldquo;You already know everything in this book. You have just forgotten. Reading is remembering.&rdquo;</p></div>
+        </div>
+      </div>
+      <span class="src anchor">poems #4; mythic-os p. 7; abridged p. 1</span>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>What their manifesto says, and what your book says instead</h2>
+      </div>
+      <div class="answer-list">
+        <article class="answer">
+          <div class="their"><span class="t">They say: &ldquo;We're asleep.&rdquo;</span></div>
+          <div class="ours">
+            <h3>Your book says &ldquo;forgotten,&rdquo; and you push back even on &ldquo;hidden.&rdquo;</h3>
+            <blockquote>&ldquo;hiding to me feels like too strong of a verb &hellip; what I would say instead is that it is a fundamental clenching that didn't obscure the vision but just made it transfigured as not directly perceivable.&rdquo;</blockquote>
+            <span class="src anchor">reflections/on recognition (2026-08-24).md</span>
+          </div>
+        </article>
+        <article class="answer">
+          <div class="their"><span class="t">They describe what waking up looks like.</span></div>
+          <div class="ours">
+            <h3>Your book doesn't promise outcomes.</h3>
+            <blockquote>&ldquo;I'm not sure my role as an author yet is to postulate about what's successful and not but just to share my observations that there seems to be something there.&rdquo;</blockquote>
+            <span class="src anchor">ops/methodology/authorial stance.md</span>
+          </div>
+        </article>
+        <article class="answer">
+          <div class="their"><span class="t">They say: &ldquo;Different routes, same summit.&rdquo;</span></div>
+          <div class="ours">
+            <h3>Your book says: other people noticed this too, and that's company, not proof.</h3>
+            <p>You chose the traditions the book draws on, so it's no surprise they agree. The more telling thing is where they <i>disagree</i> with the book, which nobody went looking for. And there's no summit to climb: the book is about recognizing what was always there.</p>
+            <span class="src anchor">notes/the unanimity claim is an artifact of how the lineages were selected.md; notes/the company's refusals converge unsought where its agreements were assembled.md</span>
+          </div>
+        </article>
+        <article class="answer">
+          <div class="their"><span class="t">They say: &ldquo;Why now? AI.&rdquo;</span></div>
+          <div class="ours">
+            <h3>Your poem already answered &ldquo;why now,&rdquo; without any machines in it.</h3>
+            <blockquote>&ldquo;the new paralysis of modernity / is dreaming so longingly about what could be / that we forget to live life in the now.&rdquo;</blockquote>
+            <span class="src anchor">poems #3</span>
+          </div>
+        </article>
+        <article class="answer">
+          <div class="their"><span class="t">They say: &ldquo;Yes, this is a business,&rdquo; and list their investments.</span></div>
+          <div class="ours">
+            <h3>Your book has its own honest disclosures.</h3>
+            <p>An AI wrote most of the drafts' sentences while you steered and decided. Much of the excitement in the drafts is the AI's. The three-part structure came before you ever met the Kashmir tradition whose name means &ldquo;the Triad.&rdquo; And the thinkers in the book are the ones that resonated with you; you've said it was never meant to be complete.</p>
+            <span class="src anchor">provenance/provenance of the corpus.md §4; notes/the triad predates the author's contact with the tradition named the triad.md; reflections/on recognition (2026-08-24).md</span>
+          </div>
+        </article>
+        <article class="answer">
+          <div class="their"><span class="t">They promise to fact-check and correct mistakes.</span></div>
+          <div class="ours">
+            <h3>Your book's one promise is a limit.</h3>
+            <blockquote>&ldquo;the book can build every condition for resonance and still cannot promise it, because resonance that could be promised would not be resonance.&rdquo;</blockquote>
+            <span class="src anchor">space-around p. 13</span>
+          </div>
+        </article>
+        <article class="answer">
+          <div class="their"><span class="t">They offer four ways to join.</span></div>
+          <div class="ours">
+            <h3>Your book offers one: write back.</h3>
+            <p>You chose to write the book as dated letters, ending with a last line a reader can answer and a blank page for their reply. <a href="#reply">See Your reply.</a></p>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>Speeding up, or ripening</h2>
+        <p>Their name is about going faster. Your book isn't about going slow, either. It's about not forcing things and not holding them back.</p>
+      </div>
+      <div class="grid">
+        <div class="card"><h3>Your title made this turn once already.</h3><p>&ldquo;Firing on All Cylinders&rdquo; first showed up in June 2024 as a phrase about peak performance. The book turned it into something else.</p><span class="src anchor">provenance/provenance of the corpus round two.md §7</span></div>
+        <div class="card"><h3>The book asks the reader not to rush.</h3><p>&ldquo;If you finish quickly, you have not finished.&rdquo;</p><span class="src anchor">abridged p. 1</span></div>
+        <div class="card"><h3>Ripening also means not sitting on finished work.</h3><p>&ldquo;The archive preserves; the orchard ripens.&rdquo; You followed it when you sent the first letter.</p><span class="src anchor">walked V</span></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head"><h2>How it happened, in order</h2></div>
+      <div class="tablebox">
+        <table>
+          <thead><tr><th>When</th><th>What happened</th></tr></thead>
+          <tbody>
+            <tr><td>Over a lifetime</td><td>Fifteen poems, plus a sixteenth written during the book</td></tr>
+            <tr><td>2017</td><td>The Landmark Forum, where you lived the book's idea about change through taking part</td></tr>
+            <tr><td>June 2024</td><td>&ldquo;Firing on All Cylinders&rdquo; first appears</td></tr>
+            <tr><td>April 2025</td><td>The first draft: &ldquo;It is an offering. A tuning fork. A ritual.&rdquo;</td></tr>
+            <tr><td>December 2025</td><td>The three-part structure worked out, in a separate project</td></tr>
+            <tr><td>March 2026</td><td>A retreat: your first real contact with Kashmir Shaivism</td></tr>
+            <tr><td>1 July 2026</td><td>Reading an old letter from a friend, alone, at 4am</td></tr>
+            <tr><td>July 2026</td><td>The seven drafts and descriptions written in one month</td></tr>
+            <tr><td>August 2026</td><td>The research vault begins; the first letter is sent; two books, the facilitator book first</td></tr>
+            <tr><td>Since 4 September</td><td>The research notes and the drafts haven't changed</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <span class="src anchor" style="margin-top:10px">provenance/ (the four reconstructions); ops/decisions.md; ops/completed/2026-09.md</span>
+    </section>
+  </div>
+</div>
+
+<!-- ===================== WHAT THEY REALLY SAID ===================== -->
+<div class="view" id="view-readings" data-view="readings">
+  <div class="wrap">
+    <header class="page-head">
+      <span class="label">Under the house · instead of research summaries</span>
+      <h1>What they <i>really</i> said</h1>
+      <p class="promise">Your research goes back to what each thinker actually wrote, and checks whether the book got them right.</p>
+      <p class="them" style="margin-top:16px"><b>Their site</b>summarizes thousands of new studies and grades how solid each one is. Your research does something different. It reads the thinkers themselves, and it grades the book.</p>
+    </header>
+
+    <div class="statline">
+      <div class="stat"><b>47</b><span>thinkers read in their own words</span></div>
+      <div class="stat"><b>21</b><span>of those corrected the drafts or the notes</span></div>
+      <div class="stat"><b>1 in 3</b><span>ideas not yet checked against a source</span></div>
+      <div class="stat"><b>13</b><span>open disagreements</span></div>
+    </div>
+    <p class="src anchor how">The reading records in archive/; 157 of 502 notes marked nascent (scripts/queries/lens-check.sh --grounding); scripts/queries/tensions-status.sh. These numbers count the research, not whether the book is true.</p>
+
+    <section class="block">
+      <div class="head">
+        <h2>Times the original text corrected the book</h2>
+        <p>Each card says what the drafts claimed, what the thinker actually wrote, and where they part ways with the book.</p>
+      </div>
+      <div class="grid two">
+        <article class="sheet">
+          <h3>Gendlin: the felt shift shows that something moved, not that it's true.</h3>
+          <p>The drafts use Gendlin's felt shift as a test of truth. He used it more narrowly: it shows that your inner experience has moved.</p>
+          <blockquote>&ldquo;&lsquo;correctness&rsquo; refers to the experienced effect which certain symbols produce.&rdquo;</blockquote>
+          <p class="refusal-line"><b>Where he parts ways</b>Doing it alone is possible, &ldquo;though always unsteady and difficult.&rdquo;</p>
+          <span class="src anchor">Gendlin 1964, fn. 9 and fn. 13; archive/reading — gendlin, a theory of personality change (1964).md</span>
+        </article>
+        <article class="sheet">
+          <h3>McLaren never said grief needs a witness.</h3>
+          <p>The drafts credit her with it. Her own words point the other way.</p>
+          <blockquote>&ldquo;Your grief process can be undertaken individually, or in a community or family group.&rdquo;</blockquote>
+          <p class="refusal-line"><b>So</b>The idea that grief needs a witness is the book's own. The book can still hold it, but as its own.</p>
+          <span class="src anchor">archive/reading — the completion family (hudson's art of accomplishment, mclaren's language of emotions).md</span>
+        </article>
+        <article class="sheet">
+          <h3>Johnstone said &ldquo;be obvious,&rdquo; not &ldquo;be average.&rdquo;</h3>
+          <blockquote>&ldquo;An artist who is inspired is being obvious&hellip; He's accepting his first thoughts.&rdquo;</blockquote>
+          <p class="refusal-line"><b>Where he parts ways</b>A student &ldquo;needs a teacher who is living proof&hellip; that the imagination will not destroy you.&rdquo; A book can't be that teacher.</p>
+          <span class="src anchor">Johnstone, Impro (1979), pp. 84, 87–88; archive/reading — the facilitated room's roots (lewin 1946, johnstone's impro).md</span>
+        </article>
+        <article class="sheet">
+          <h3>People can change their minds without noticing.</h3>
+          <p>Nisbett and Wilson found people whose attitudes shifted a lot, and who didn't feel any change. That matters for a book that asks readers to notice their own change.</p>
+          <blockquote>&ldquo;subjects apparently changed their attitudes in the absence of any subjective experience of change.&rdquo;</blockquote>
+          <span class="src anchor">Nisbett and Wilson 1977, p. 236</span>
+        </article>
+        <article class="sheet">
+          <h3>Rogers lets a helper name what someone half-knows.</h3>
+          <p>The research had said Rogers would reject that. He actually allowed it, as long as it comes from inside the person's own experience.</p>
+          <blockquote>The therapist &ldquo;can also voice meanings in the client's experience of which the client is scarcely aware.&rdquo;</blockquote>
+          <p class="refusal-line"><b>Where he parts ways</b>The person has to feel the helper's care, or &ldquo;such attitudes do not exist in the relationship as far as the client is concerned.&rdquo; A page can't make sure of that.</p>
+          <span class="src anchor">Rogers 1957, condition 6</span>
+        </article>
+        <article class="sheet">
+          <h3>Heidegger did borrow from Daoism, but not the idea at the heart of the book.</h3>
+          <p>The book rests on Heidegger and the Kashmir tradition arriving at the same idea separately. A scholar showed Heidegger drew on Daoist texts for some of his ideas. Truth as un-forgetting wasn't one of them, and the scholar found no route from Heidegger to the Kashmir tradition. So the shared idea still counts as two separate arrivals.</p>
+          <span class="src anchor">Reinhard May, Heidegger's Hidden Sources (1996), read through Parkes p. 79 (secondhand)</span>
+        </article>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>If you could ask the research a question</h2>
+        <p>Their site has an assistant that answers anything from its papers. A version for your book would answer from the readings and say where each answer came from. It would also refuse two kinds of question.</p>
+      </div>
+      <div class="grid two">
+        <div class="card"><span class="label">It could answer</span><p>Did Heidegger get &ldquo;truth as un-concealment&rdquo; from Eastern texts? Can people notice their own inner changes? Is &ldquo;reading is remembering&rdquo; Plato's idea? What can a reader alone do to tell a breakthrough from a breakdown?</p></div>
+        <div class="card filled"><span class="label">It would refuse</span><p><b>&ldquo;Does this practice work?&rdquo;</b> The book doesn't claim that it does.</p><p style="margin-top:8px"><b>&ldquo;Was my experience real?&rdquo;</b> Only a person who knows you can help with that. Every tradition the research read says so.</p></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>The book's six big themes</h2>
+        <p>The biggest theme is also the least checked.</p>
+      </div>
+      <div class="grid">
+        <div class="card"><h3>Recognition</h3><p>Truth as remembering what was never lost.</p></div>
+        <div class="card"><h3>Contraction, not corruption</h3><p>Suffering as something folded up, not something broken.</p></div>
+        <div class="card"><h3>The felt shift</h3><p>Noticing change in the body, used as a tool.</p></div>
+        <div class="card"><h3>The container</h3><p>What a safe, held space needs so something can happen inside it.</p></div>
+        <div class="card"><h3>The space between people</h3><p>The biggest theme, and the least checked: almost half its ideas haven't been tested against a source yet.</p></div>
+        <div class="card"><h3>The call and the answer</h3><p>Writing that is meant to be answered.</p></div>
+      </div>
+      <span class="src anchor" style="margin-top:10px">the six doctrine maps in notes/; relational-field: 136 notes, 58 still nascent</span>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>Open disagreements</h2>
+        <p>Their site shows a verdict bar for each open question. Your research leaves disagreements open until you decide them.</p>
+      </div>
+      <div class="grid">
+        <div class="card"><h3>Can this work be done alone, with just a book?</h3><p>Seven traditions say no, you need another person. The book is read alone. Still open.</p></div>
+        <div class="card"><h3>Did the book choose traditions that agree, then call the agreement a finding?</h3><p>For the traditions gathered in July 2026, the record says yes. How the book handles that is still open.</p></div>
+        <div class="card"><h3>Is reading &ldquo;contraction&rdquo; as something useful the tradition's idea, or yours?</h3><p>The classical tradition treats contraction as bondage. The positive reading is the book's own. Still open.</p></div>
+        <div class="card"><h3>When do you stop polishing and send?</h3><p>You settled this one by sending the first letter.</p></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head"><h2>What counts as a good reading</h2></div>
+      <ol class="qs">
+        <li>When the book says two thinkers agree, quote both of them.</li>
+        <li>Never quote from memory.</li>
+        <li>Ask a question first that the reading could prove wrong.</li>
+        <li>Say how close to the original you got: their own book, or someone writing about it.</li>
+        <li>When the original and the drafts disagree, the original wins.</li>
+        <li>The last test: would someone writing the book actually use this?</li>
+      </ol>
+    </section>
+  </div>
+</div>
+
+<!-- ===================== WHO ELSE NOTICED ===================== -->
+<div class="view" id="view-noticed" data-view="noticed">
+  <div class="wrap">
+    <header class="page-head">
+      <span class="label">Under the house · instead of a theory scoreboard</span>
+      <h1>Who else <i>noticed</i></h1>
+      <p class="promise">People who noticed the same things your book notices, and whether they really got there on their own.</p>
+      <p class="them" style="margin-top:16px"><b>Their site</b>gives each theory of consciousness odds of being right, like a betting board. Your book doesn't rank ideas by how right they are. Other thinkers are company, not proof. So this page asks a different question: did each person reach the idea independently, or did one learn it from another? And what does the book owe them?</p>
+    </header>
+
+    <section class="block" style="border-top:0;padding-top:6px">
+      <div class="tablebox">
+        <table>
+          <thead><tr><th>The idea</th><th>Who noticed it</th><th>On their own?</th><th>What the book owes</th></tr></thead>
+          <tbody>
+            <tr><td>Deep change is remembering what was never lost</td><td>Heidegger; the Kashmir recognition school; Wittgenstein</td><td><span class="yesno c-surv">Yes</span> A scholar checked: Heidegger had no route to the Kashmir texts.</td><td>Quote both sides, and keep where each one disagrees with the book.</td></tr>
+            <tr><td>Letting things be; &ldquo;the Way&rdquo;</td><td>Heidegger; Laozi</td><td><span class="yesno c-narrow">No</span> Heidegger's &ldquo;Way&rdquo; comes from Laozi, and he said so. His &ldquo;letting be&rdquo; draws on Daoism too, though he only named Meister Eckhart.</td><td>Name Laozi as the source. How to do that is yours to decide.</td></tr>
+            <tr><td>People change by taking part, not by watching</td><td>The six traditions gathered for the book</td><td><span class="yesno c-narrow">Not evidence</span> They were chosen because they share this idea.</td><td>Say how they were chosen.</td></tr>
+            <tr><td>The same idea, from outside those traditions</td><td>Maturana and Varela (biology), Garfinkel (sociology), Johnstone (theatre), and others</td><td><span class="yesno c-surv">Mostly yes</span> But Lewin and Erhard turned out to be one line of teaching, not two.</td><td>Count Lewin once, as a forerunner.</td></tr>
+            <tr><td>A moment of opening is a gift; a lasting change is earned</td><td>al-Qushayrī, a Sufi writer about a thousand years ago; Ken Wilber</td><td><span class="yesno c-surv">Yes</span> on the basic idea.</td><td>Claim only the basic idea; they describe the path differently.</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <span class="src anchor" style="margin-top:10px">notes/aletheia and pratyabhijna converge on truth as un-forgetting.md; archive/reading — reinhard may, heidegger's hidden sources (1996).md; notes/heidegger's letting and way descend from daoism so pairing him with laozi is lineage not convergence.md; notes/the unanimity claim is an artifact of how the lineages were selected.md; archive/reading — the facilitated room's roots (lewin 1946, johnstone's impro).md; notes/state and station were distinguished a millennium before the lattice named them.md</span>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>Your sentence, and who else noticed it</h2>
+        <p>Their site has a quiz that tells you which theory you believe. This does the opposite. You write one thing you've noticed about your inner life that nobody taught you. Then you pick the idea closest to it, and see who else noticed it and where they'd disagree with you. Nothing is scored or saved.</p>
+      </div>
+      <div class="grid two">
+        <div class="stack">
+          <label class="label" for="noticed-sentence">Your sentence</label>
+          <textarea id="noticed-sentence" placeholder="Something I noticed that no one taught me is…"></textarea>
+          <span class="label" style="margin-top:6px">The closest idea, chosen by you</span>
+          <div class="chips" id="finding-picker">
+            <button type="button" class="chip" data-f="f-unforget">What I found was here all along</button>
+            <button type="button" class="chip" data-f="f-part">I changed by taking part, not by watching</button>
+            <button type="button" class="chip" data-f="f-state">Something opened and didn't stay</button>
+            <button type="button" class="chip" data-f="f-alone">I'm doing this alone</button>
+          </div>
+        </div>
+        <div id="finding-shown" class="card filled" aria-live="polite">
+          <p class="muted">Pick an idea to see who else noticed it.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>The ideas, in their own words</h2>
+      </div>
+      <div class="grid two">
+        <article class="sheet" id="f-unforget">
+          <h3>What you're looking for was here all along.</h3>
+          <blockquote>Utpaladeva, of the Kashmir recognition school: the self &ldquo;cannot manifest his own glory until his qualities have been brought to light.&rdquo;</blockquote>
+          <blockquote>Wittgenstein: things are &ldquo;hidden because of their simplicity and familiarity.&rdquo;</blockquote>
+          <p class="refusal-line"><b>Where they disagree</b>Wittgenstein thought noticing clears up a confusion; it doesn't reveal anything deeper. In 1964 Heidegger wrote that his key word, aletheia, &ldquo;may not be equated with truth.&rdquo;</p>
+          <span class="src anchor">ĪPK IV.1.17 (Torella p. 218); Philosophical Investigations §§126, 129; Heidegger 1964, secondhand</span>
+        </article>
+        <article class="sheet" id="f-part">
+          <h3>People change by taking part, not by watching.</h3>
+          <blockquote>Maturana and Varela, biologists: a living being is &ldquo;a source of perturbations and not of instructions.&rdquo;</blockquote>
+          <blockquote>Keith Johnstone, theatre: &ldquo;Those who say &lsquo;Yes&rsquo; are rewarded by the adventures they have.&rdquo;</blockquote>
+          <p class="refusal-line"><b>Where they disagree</b>None of them says much about what happens inside a person. They describe what happens between people.</p>
+          <span class="src anchor">Maturana and Varela p. 96; Johnstone, Impro p. 92</span>
+        </article>
+        <article class="sheet" id="f-state">
+          <h3>Something opened, and it didn't stay.</h3>
+          <blockquote>al-Qushayrī: &ldquo;States come without asking, whereas stations are acquired by the sweat of one's brow.&rdquo;</blockquote>
+          <blockquote>Ken Wilber: with practice, &ldquo;a passing state has become a permanent trait.&rdquo;</blockquote>
+          <p class="refusal-line"><b>Where they disagree</b>al-Qushayrī describes one path in a fixed order. Wilber describes two separate ladders.</p>
+          <span class="src anchor">Knysh 2007, p. 78; AQAL Journal 1(1), p. 12</span>
+        </article>
+        <article class="sheet" id="f-alone">
+          <h3>Can this be done alone?</h3>
+          <blockquote>Gendlin: on your own it's &ldquo;often possible, though always unsteady and difficult.&rdquo;</blockquote>
+          <blockquote>al-Qushayrī: &ldquo;The tree that has grown on its own without a gardener will bring forth foliage, but will never bring any fruit.&rdquo;</blockquote>
+          <blockquote>Karla McLaren: grief &ldquo;can be undertaken individually.&rdquo;</blockquote>
+          <p class="refusal-line"><b>Still open</b>You haven't answered this one yet. One question for you: does reading your friend's letter at 4am count as having another person there?</p>
+          <span class="src anchor">Gendlin 1964 fn. 13; Knysh 2007 p. 406; ops/decision sitting — 2026-09-03.md</span>
+        </article>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>Challenges to the book, still open</h2>
+        <p>Their site has a section on controversies. These are the strongest challenges to your book. Each stays open until you decide.</p>
+      </div>
+      <div class="grid two">
+        <div class="card"><h3>&ldquo;You picked traditions that agree, then reported the agreement.&rdquo;</h3><p>A possible answer: say how they were chosen, and treat their agreement as company.</p></div>
+        <div class="card"><h3>&ldquo;This work can't be done alone with a book.&rdquo;</h3><p>A possible answer, from your own reflection: recognition is already shared, so a reader is never fully alone.</p></div>
+        <div class="card"><h3>&ldquo;The Kashmir tradition sees contraction as bondage, not as something useful.&rdquo;</h3><p>A possible answer: own the positive reading as the book's idea, not the tradition's.</p></div>
+        <div class="card"><h3>&ldquo;The book's prose sounds deep without saying anything definite.&rdquo;</h3><p>This is Adorno's kind of charge. A possible answer: every big word has to sit next to a plain claim that could be wrong.</p></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>Instead of placing a bet</h2>
+        <p>Their site asks you to bet on which theory is right. Here, each idea is stated plainly enough that you can say no to it. Nothing is counted.</p>
+      </div>
+      <div class="chips" role="group" aria-label="Three answers, none recorded">
+        <button type="button" class="chip kept bet">I've noticed this too</button>
+        <button type="button" class="chip declined bet">Not for me</button>
+        <button type="button" class="chip bet">I'd rather not say</button>
+      </div>
+      <p class="note" id="bet-note" style="margin-top:10px">Choose one. It isn't counted or sent.</p>
+    </section>
+  </div>
+</div>
+
+<!-- ===================== THE PEOPLE ===================== -->
+<div class="view" id="view-company" data-view="company">
+  <div class="wrap">
+    <header class="page-head">
+      <span class="label">Under the house · instead of a library</span>
+      <h1>The <i>people</i></h1>
+      <p class="promise">The thinkers who noticed what your book notices, in their own words, each with the place they disagree with it.</p>
+      <p class="them" style="margin-top:16px"><b>Their site</b>lists teachers by how many books and talks each has made, and offers a guide that maps your path. Here there are no counts. Each person shows what the book would lose without them, and where they part ways with it. Your drafts put it this way: &ldquo;you are not reading about these people; you are pulling up a chair.&rdquo;</p>
+    </header>
+
+    <div class="statline">
+      <div class="stat"><b>64</b><span>thinkers in the research</span></div>
+      <div class="stat"><b>24</b><span>read in their own words</span></div>
+      <div class="stat"><b>34</b><span>not read yet</span></div>
+    </div>
+    <p class="src anchor how">rg -l '^category: interlocutor' notes/; six more are read through a scholar quoting them. arc-gloss, the lineage.</p>
+
+    <section class="block">
+      <div class="head">
+        <h2>Where are you right now?</h2>
+        <p>Their guide says &ldquo;Tell us where you are. We'll map your path.&rdquo; This one won't tell you where to go. It shows who else stood where you're standing, and where each of them would disagree with the book.</p>
+      </div>
+      <div class="stack">
+        <details class="card"><summary><b>&ldquo;I keep almost knowing something I can't put into words.&rdquo;</b></summary><p style="margin-top:8px">Gendlin called this a felt sense, there before the words. Michael Polanyi: &ldquo;we can know more than we can tell.&rdquo; <span class="refusal-line">Gendlin's caution: doing this alone is &ldquo;always unsteady and difficult.&rdquo;</span></p></details>
+        <details class="card"><summary><b>&ldquo;Something opened once, and it didn't stay.&rdquo;</b></summary><p style="margin-top:8px">al-Qushayrī: openings are gifts; lasting change is earned. Ken Wilber: practice turns &ldquo;a passing state&rdquo; into &ldquo;a permanent trait.&rdquo; Tony Robbins: &ldquo;Willpower by itself is not enough.&rdquo; <span class="refusal-line">They agree that it fades, and disagree about why.</span></p></details>
+        <details class="card"><summary><b>&ldquo;I'm trying to help someone without taking over.&rdquo;</b></summary><p style="margin-top:8px">Socrates: &ldquo;I have no wisdom in me.&rdquo; Carl Rogers's six conditions for helping. Martin Buber: real meeting &ldquo;can never take place through my agency, nor can it ever take place without me.&rdquo; <span class="refusal-line">Socrates still judges whether each idea is any good, which the book declines to do.</span> This is the question at the heart of Book I, the facilitator's book.</p></details>
+        <details class="card"><summary><b>&ldquo;I'm doing this alone. Can it be done alone?&rdquo;</b></summary><p style="margin-top:8px">Gendlin, Buber, al-Qushayrī and others say you need another person. Others, like McLaren and Winnicott, show ways it can work alone. <span class="refusal-line">You haven't answered this one yet.</span></p></details>
+        <details class="card"><summary><b>&ldquo;What I'm looking for has been here all along.&rdquo;</b></summary><p style="margin-top:8px">Utpaladeva's image: a lover who is right in front of her, and gives no joy &ldquo;until she recognizes who he is.&rdquo; Plato: &ldquo;all enquiry and all learning is but recollection.&rdquo; Wittgenstein: &ldquo;One is unable to notice something &mdash; because it is always before one's eyes.&rdquo;</p></details>
+        <details class="card"><summary><b>&ldquo;I'm grieving, and I don't want to be told the loss isn't real.&rdquo;</b></summary><p style="margin-top:8px">The Buddha's Five Remembrances: &ldquo;I will grow different, separate from all that is dear and appealing to me.&rdquo; Heidegger on facing death. McLaren's &ldquo;shrine for the dead.&rdquo; These voices push back on the book's idea that nothing is ever really lost.</p></details>
+        <details class="card"><summary><b>&ldquo;I feel empty, and I can't tell if it's insight or something wrong.&rdquo;</b></summary><p style="margin-top:8px">Jack Engler, a psychologist and meditation teacher: people &ldquo;may mistake subjective feelings of emptiness&rdquo; for spiritual emptiness. A Zen teacher: &ldquo;you can never be sure by yourself.&rdquo; <b>Every tradition says to bring this to someone who has been there. So this answer points away from the book, to a person.</b></p></details>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>Twelve of the people</h2>
+      </div>
+      <div class="grid two">
+        <article class="sheet"><h3>Eugene Gendlin</h3><p>The book's way of checking whether something landed comes from him.</p><blockquote>&ldquo;&lsquo;correctness&rsquo; refers to the experienced effect which certain symbols produce.&rdquo;</blockquote><p class="refusal-line"><b>Where he parts ways</b>A felt shift shows that something moved, not that it's true.</p><p class="yesno muted">Read in his own words: yes</p></article>
+        <article class="sheet"><h3>Martin Buber</h3><p>The book's sense of what happens between people is his.</p><blockquote>&ldquo;Through the Thou a man becomes I.&rdquo;</blockquote><p class="refusal-line"><b>Where he parts ways</b>Real meeting comes &ldquo;through grace &mdash; it is not found by seeking.&rdquo; By his account, a reader alone with a book isn't in that kind of meeting.</p><p class="yesno muted">Read in his own words: yes</p></article>
+        <article class="sheet"><h3>Donald Winnicott</h3><p>He describes what a book read alone has to come close to.</p><blockquote>&ldquo;the experience of being alone while someone else is present.&rdquo;</blockquote><p class="refusal-line"><b>Where he parts ways</b>He says a person needs someone who can take their anger without striking back. A book can't do that.</p><p class="yesno muted">Read in his own words: yes</p></article>
+        <article class="sheet"><h3>Utpaladeva and Kṣemarāja</h3><p>The Kashmir recognition school, the deepest source under the book.</p><blockquote>A lover gives no joy &ldquo;until she recognizes who he is.&rdquo;</blockquote><p class="refusal-line"><b>Where they part ways</b>The tradition may require a teacher: one of its texts says &ldquo;the teacher is the means.&rdquo; Whether that rules out a book is still being checked.</p><p class="yesno muted">Read in their own words: yes, in Sanskrit and translation</p></article>
+        <article class="sheet"><h3>Martin Heidegger</h3><p>The book's central word, aletheia, is his.</p><p class="refusal-line"><b>Where he parts ways</b>Early Heidegger saw getting absorbed in everyday life as running away. The book says ordinary life is where it happens.</p><p class="yesno muted">Read in his own words: not yet, only secondhand</p></article>
+        <article class="sheet"><h3>Ludwig Wittgenstein</h3><p>He noticed that what's always there hides, with no link to either of the book's main traditions.</p><blockquote>&ldquo;One is unable to notice something &mdash; because it is always before one's eyes.&rdquo;</blockquote><p class="refusal-line"><b>Where he parts ways</b>For him, noticing makes a false problem disappear. It doesn't reveal anything deeper.</p><p class="yesno muted">Read in his own words: yes</p></article>
+        <article class="sheet"><h3>al-Qushayrī</h3><p>A Sufi writer who saw, a thousand years ago, that openings are gifts and lasting change is earned.</p><blockquote>&ldquo;States are [divine] gifts, whereas stations are earnings.&rdquo;</blockquote><p class="refusal-line"><b>Where he parts ways</b>For him, inner change depends on outward practice, like daily prayer.</p><p class="yesno muted">Read in translation: yes</p></article>
+        <article class="sheet"><h3>Joe Hudson</h3><p>The idea that a feeling you resist gets stuck is his.</p><blockquote>&ldquo;the difference between I can accept my emotions and I can welcome my emotions&hellip; it's that turn.&rdquo;</blockquote><p class="refusal-line"><b>Where he parts ways</b>He never says a feeling &ldquo;completes.&rdquo; That's the book's word. And: &ldquo;don't do it at people.&rdquo;</p><p class="yesno muted">Read in his own words: yes</p></article>
+        <article class="sheet"><h3>Karla McLaren</h3><p>The practice under many of the book's exercises, channeling an emotion, is hers.</p><p class="refusal-line"><b>Where she parts ways</b>She says grief can be done alone. The idea that it needs a witness is the book's.</p><p class="yesno muted">Read in her own words: partly</p></article>
+        <article class="sheet"><h3>Carl Rogers</h3><p>Gendlin's work grew out of Rogers's, though the drafts never name him.</p><blockquote>These conditions apply &ldquo;whether it is or is not labeled &lsquo;psychotherapy&rsquo;.&rdquo;</blockquote><p class="refusal-line"><b>Where he parts ways</b>Help only counts if the person can feel it. A page can't make sure of that.</p><p class="yesno muted">Read in his own words: yes</p></article>
+        <article class="sheet"><h3>Tony Robbins</h3><p>He argues the other side: change by decision and willpower.</p><blockquote>&ldquo;We must be the source of our change if our change is going to last.&rdquo;</blockquote><p class="refusal-line"><b>Where he parts ways</b>He wants change now, by choice. The book lets it come.</p><p class="yesno muted">Read in his own words: yes</p></article>
+        <article class="sheet"><h3>Theodor Adorno</h3><p>The sharpest critic of the book's kind of language.</p><p class="refusal-line"><b>His charge</b>Words like &ldquo;presence&rdquo; can sound deep without saying anything definite.</p><p class="yesno muted">Read in his own words: not yet</p></article>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>If you read only a few</h2>
+        <p>Their site has a list of picks. These are the original texts under your book, ones your research has actually read.</p>
+      </div>
+      <div class="grid">
+        <div class="card"><h3>Plato, Meno and Theaetetus</h3><p>A teacher who says he has no wisdom, and a boy whose answers were &ldquo;all his own.&rdquo;</p></div>
+        <div class="card"><h3>Kṣemarāja, Pratyabhijñāhṛdayam</h3><p>The title means &ldquo;the heart of recognition.&rdquo; It describes the self as folded up by contracting its own powers.</p></div>
+        <div class="card"><h3>Gendlin, Focusing</h3><p>&ldquo;Your body knows the direction of healing and life.&rdquo;</p></div>
+        <div class="card"><h3>Buber, I and Thou</h3><p>&ldquo;Through the Thou a man becomes I.&rdquo;</p></div>
+        <div class="card"><h3>Rogers, The Necessary and Sufficient Conditions</h3><p>Six conditions for helping, and technique as just a way to deliver them.</p></div>
+        <div class="card"><h3>Winnicott, The Capacity to Be Alone</h3><p>Being alone, while someone else is there.</p></div>
+        <div class="card"><h3>The Five Remembrances</h3><p>Five facts about loss, to reflect on often.</p></div>
+        <div class="card"><h3>Ignatius, Spiritual Exercises</h3><p>Rules for telling good comfort from false comfort.</p></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>Not in the book yet</h2>
+        <p>The research found these people along the way. Whether they belong in the book is your call.</p>
+      </div>
+      <div class="grid">
+        <div class="card" style="border-top-style:dashed"><h3>J. L. Moreno</h3><p>Founder of psychodrama. He called books and films &ldquo;cultural conserves&rdquo; that stand in for live creativity.</p></div>
+        <div class="card" style="border-top-style:dashed"><h3>Jack Engler</h3><p>The research flagged him as &ldquo;the adversary the book cannot answer and should quote.&rdquo;</p></div>
+        <div class="card" style="border-top-style:dashed"><h3>Laozi</h3><p>Mentioned throughout the research, with no page of his own.</p></div>
+        <div class="card" style="border-top-style:dashed"><h3>Also</h3><p>Bhartṛhari, Longchenpa, Śaṅkara, Sobonfu Somé, Donella Meadows, Ursula K. Le Guin, Brian Eno, Zhuangzi, Nāgārjuna.</p></div>
+      </div>
+    </section>
+  </div>
+</div>
+
+<!-- ===================== YOUR REPLY ===================== -->
+<div class="view" id="view-reply" data-view="reply">
+  <div class="wrap">
+    <header class="page-head">
+      <span class="label">Instead of &ldquo;create with us&rdquo;</span>
+      <h1>Your <i>reply</i></h1>
+      <p class="promise">The book is half of a conversation. This is where the reader writes the other half, and it belongs to them.</p>
+      <p class="them" style="margin-top:16px"><b>Their site</b>asks visitors to write for it, advise it, sponsor it, and send feedback. Everything flows toward the site. Your book points the other way: whatever changes in a reader, the reader did it. So this page gives the reader one thing to write, and lets them keep it.</p>
+    </header>
+
+    <section class="block" style="border-top:0;padding-top:6px">
+      <div class="grid two" style="align-items:start">
+        <div class="letterpaper stack">
+          <span class="label">Write one sentence</span>
+          <label for="reply-sentence" style="font-family:var(--display);font-size:1.45rem;line-height:1.3">Something I can say now, that I couldn't have said an hour ago, is &mdash;</label>
+          <textarea id="reply-sentence" placeholder="If nothing comes, write that nothing came."></textarea>
+          <div style="display:flex;gap:10px;flex-wrap:wrap">
+            <button type="button" class="plain" id="reply-keep">Keep it, with today's date</button>
+            <button type="button" class="btn ghost" id="reply-copy" hidden>Copy it</button>
+          </div>
+          <div class="kept-out" id="reply-out" aria-live="polite"><span class="date" id="reply-date"></span><p class="s" id="reply-text"></p><p class="note" style="margin-top:8px">This page doesn't save anything. Copy it somewhere that's yours.</p></div>
+          <span class="src anchor">drafts/draft — the first letter.md (the wording is a draft, untested)</span>
+        </div>
+        <div class="stack">
+          <div class="card"><h3>Where it can go</h3><p>Keep it. Or give it to someone who knows you. A draft in the research puts it this way: &ldquo;find a person, and that the person be a real one.&rdquo; Or, if you ever open an address for replies, send it to you, the author, as one letter-writer to another.</p></div>
+          <div class="card"><h3>Why it doesn't ask &ldquo;did you feel something?&rdquo;</h3><p>Beautiful writing can make anyone feel something. And people often change without noticing. So the question asks what you can say now, not what you felt.</p></div>
+          <div class="card"><h3>What this page won't do</h3><p>It won't tell you whether what happened was real. Your short draft says it plainly: &ldquo;You may not have an Anam Cara right now&hellip; The book will not give you one.&rdquo; Only a person who knows you can help with that.</p></div>
+          <div class="card"><h3>You can say no</h3><p>&ldquo;The request can be declined, and a book that means its final sentence has to mean that part too.&rdquo;</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>Parts of the book that were never written</h2>
+        <p>Their site has a board of stories it wants to pay for. Your first draft had a table of contents with chapters that were named and never written. Only you can decide to write any of them.</p>
+      </div>
+      <div class="grid">
+        <div class="card"><h3>The day</h3><p>&ldquo;Morning as Mythic Entry.&rdquo; The book talks about moments and seasons, but never about a single ordinary day.</p></div>
+        <div class="card"><h3>Ending a relationship well</h3><p>&ldquo;Conscious Coupling &amp; Decoupling.&rdquo; Later drafts never come back to it.</p></div>
+        <div class="card"><h3>Holding two opposite things</h3><p>&ldquo;Paradox Mapping.&rdquo; The drafts say tension is &ldquo;to be inhabited,&rdquo; but never show how.</p></div>
+        <div class="card"><h3>Nostalgia</h3><p>The first draft opens on it: &ldquo;The sweetness of becoming puckers into nostalgia whether you choose it or not.&rdquo; No later draft returns.</p></div>
+        <div class="card"><h3>Habit</h3><p>&ldquo;Habit as Ritual.&rdquo; What happens when a practice becomes automatic?</p></div>
+        <div class="card"><h3>What being seen costs</h3><p>&ldquo;Being seen can shade into being consumed.&rdquo; Mentioned once, never developed.</p></div>
+        <div class="card"><h3>An ending a reader can answer</h3><p>The drafts describe one and don't yet have it.</p></div>
+      </div>
+      <span class="src anchor" style="margin-top:10px">ops/open corpus.md; mythic-os: contents; space-around p. 10</span>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>Ways the book could be written</h2>
+        <p>Their site lists shows it wants to make. These are forms your book already contains.</p>
+      </div>
+      <div class="grid">
+        <div class="card"><h3>Dated letters</h3><p>The form you chose: twelve to twenty letters, ending by being sent. The first one went out in August.</p></div>
+        <div class="card"><h3>Two voices, then where they disagree</h3><p>Two thinkers quoted side by side, ending at the point where they part. Buber says &ldquo;every means is an obstacle.&rdquo; Rogers says six conditions are enough.</p></div>
+        <div class="card"><h3>&ldquo;What is ordinary life like now?&rdquo;</h3><p>The least-written part of the book: life after. Only your own ordinary days can write it.</p></div>
+        <div class="card"><h3>A letter of warnings</h3><p>&ldquo;A friend who never warns is not a friend.&rdquo; The research on when meditation goes wrong hasn't been read yet.</p></div>
+        <div class="card"><h3>Not included: measuring results</h3><p>Their site wants to scan meditators' brains on stage. Your book doesn't measure whether it works.</p></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>People who disagree with the book</h2>
+        <p>Their site lists advisors who check its science. Your book lists the people who push back on it. Nobody here endorses the book.</p>
+      </div>
+      <div class="grid">
+        <div class="card"><h3>Nisbett and Wilson</h3><p>People change their minds without noticing.</p></div>
+        <div class="card"><h3>Eric Schwitzgebel</h3><p>We are bad at reporting our own inner states. &ldquo;My wife reads my face better than I introspect.&rdquo;</p></div>
+        <div class="card"><h3>Tony Robbins</h3><p>Change comes by decision and will, not by letting.</p></div>
+        <div class="card"><h3>Michel Henry</h3><p>For him the self shows itself to itself with no outside and no gap. That leaves out the ordinary world the book comes back to.</p></div>
+        <div class="card"><h3>Theodor Adorno (not read yet)</h3><p>Deep-sounding words can say nothing.</p></div>
+        <div class="card"><h3>Missing</h3><p>Someone who studies the harms of meditation. An outside reader called this &ldquo;the book's most defensible criticism and the cheapest to answer.&rdquo;</p></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>Who the book owes</h2>
+        <p>Their site wants one sponsor, named on every story. Your book has no sponsor. Instead, each chapter names a person it owes.</p>
+      </div>
+      <div class="grid">
+        <div class="card"><h3>Each chapter names who it owes.</h3><p>The drafts call it naming the elder &ldquo;at the door, not smuggled through it.&rdquo;</p></div>
+        <div class="card"><h3>Some of those debts aren't checked yet.</h3><p>bell hooks hasn't been read. Donella Meadows is named on two chapters and has no page of her own in the research.</p></div>
+        <div class="card"><h3>The biggest debt is the least named.</h3><p>Kashmir Shaivism is the book's deepest source, and it's named least where its ideas appear. You said: &ldquo;it does seem to occupy that, and I think that's fine. It surprised me too.&rdquo;</p></div>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>Questions the book can't answer for itself</h2>
+        <p>Their feedback page asks &ldquo;what are we missing?&rdquo; These are the questions your book most needs outside readers to answer.</p>
+      </div>
+      <ol class="qs">
+        <li>Have you noticed something no one else seems to have noticed?</li>
+        <li>Has your body felt sure of something that proved nothing?</li>
+        <li>What left your life and stayed gone?</li>
+        <li>What witnessed you that wasn't a person? (Your poem #8 has two cats watching you meditate.)</li>
+        <li>Was something in you damaged, not just folded up?</li>
+        <li>Did something new arrive, rather than something remembered?</li>
+        <li>Did a sentence here feel true just because it was well written?</li>
+        <li>Who reached the opposite conclusion from the same starting point?</li>
+        <li>Did we quote someone without saying where they disagree with the book?</li>
+      </ol>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>The next letter</h2>
+        <p>Their site has a newsletter that arrives on a schedule. A letter comes when someone has something to say, to one person, and hopes for an answer. No next letter is planned. Whether there is one, and who gets it, is up to you.</p>
+      </div>
+    </section>
+  </div>
+</div>
+
+<!-- ===================== SIDE BY SIDE ===================== -->
+<div class="view" id="view-map" data-view="map">
+  <div class="wrap">
+    <header class="page-head">
+      <span class="label">The two sites, piece by piece</span>
+      <h1>Side <i>by</i> side</h1>
+      <p class="promise">Every part of accelerateinward.com, and what it becomes for your book.</p>
+    </header>
+
+    <section class="block" style="border-top:0;padding-top:6px">
+      <div class="diagram" role="img" aria-label="Two stacks. On their site, articles and research sit on top and a hidden floor of experiences sits underneath. On your book's site, the house sits on top and the research sits underneath.">
+        <svg viewBox="0 0 960 400" xmlns="http://www.w3.org/2000/svg">
+          <style>
+            .bx{fill:var(--paper-2);stroke:var(--rule-2);stroke-width:1}
+            .bx.hl{fill:var(--thread-soft);stroke:var(--thread);stroke-width:1.5}
+            .bx.res{fill:var(--paper);stroke:var(--ink);stroke-width:1.5}
+            .tx{fill:var(--ink);font-family:'Literata',Georgia,serif;font-size:15px}
+            .tx.sm{fill:var(--ink-2);font-size:12.5px}
+            .hd{fill:var(--ink-3);font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.08em}
+            .fl{stroke:var(--ink-3);stroke-width:1;stroke-dasharray:5 5}
+            .ar{fill:none;stroke:var(--thread);stroke-width:1.6}
+            .ar2{fill:none;stroke:var(--ink-2);stroke-width:1.2}
+            .al{fill:var(--thread);font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.06em}
+            .al2{fill:var(--ink-2);font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.06em}
+          </style>
+          <defs>
+            <marker id="pmk" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--thread)"/></marker>
+            <marker id="pmk2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--ink-2)"/></marker>
+          </defs>
+          <text x="40" y="26" class="hd">THEIR SITE</text>
+          <text x="540" y="26" class="hd">YOUR BOOK'S SITE</text>
+          <rect x="40" y="44" width="380" height="48" class="bx"/><text x="56" y="73" class="tx">News, articles, the manifesto</text>
+          <rect x="40" y="104" width="380" height="56" class="bx res"/><text x="56" y="127" class="tx">Research and teachers</text><text x="56" y="147" class="tx sm">studies · theories · library</text>
+          <rect x="40" y="172" width="380" height="48" class="bx"/><text x="56" y="201" class="tx">&#8220;Work with us&#8221;</text>
+          <line x1="30" y1="252" x2="430" y2="252" class="fl"/><text x="40" y="245" class="hd">WHAT YOU SEE FIRST ENDS HERE</text>
+          <rect x="40" y="266" width="380" height="64" class="bx hl"/><text x="56" y="292" class="tx">Hidden floor of experiences</text><text x="56" y="313" class="tx sm">&#8220;not for reading&#8221;</text>
+
+          <rect x="540" y="44" width="380" height="116" class="bx hl"/><text x="556" y="70" class="tx">The house</text><text x="556" y="94" class="tx sm">seven rooms, the silent summit,</text><text x="556" y="113" class="tx sm">the kitchen, a blank page for the reader</text>
+          <rect x="540" y="172" width="380" height="48" class="bx"/><text x="556" y="201" class="tx">Where it came from · Your reply</text>
+          <line x1="530" y1="252" x2="930" y2="252" class="fl"/><text x="540" y="245" class="hd">WHAT YOU SEE FIRST ENDS HERE</text>
+          <rect x="540" y="266" width="380" height="64" class="bx res"/><text x="556" y="292" class="tx">Under the house: the research</text><text x="556" y="313" class="tx sm">what they said · who else noticed · the people</text>
+
+          <path d="M420,298 C485,298 475,102 540,102" class="ar" marker-end="url(#pmk)"/>
+          <text x="452" y="232" class="al" transform="rotate(-72 452 232)">MOVES UP</text>
+          <path d="M420,132 C485,132 475,298 540,298" class="ar2" marker-end="url(#pmk2)"/>
+          <text x="506" y="250" class="al2" transform="rotate(70 506 250)">MOVES DOWN</text>
+          <text x="40" y="372" class="hd">THEIR SITE HIDES THE EXPERIENCE. YOUR BOOK IS THE EXPERIENCE.</text>
+        </svg>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head"><h2>Piece by piece</h2></div>
+      <div class="tablebox">
+        <table>
+          <thead><tr><th>On their site</th><th>On your book's site</th><th>Why</th></tr></thead>
+          <tbody>
+            <tr><td>Hidden floor of guided experiences</td><td><a href="#house">The house</a>, as the front door</td><td>Your book is meant to be walked through.</td></tr>
+            <tr><td>Guided exercises that act on you (red light, sound, breathing)</td><td>Seven rooms that each invite something you can skip</td><td>The book doesn't promise an effect.</td></tr>
+            <tr><td>A mirror that answers &ldquo;You just assumed&rdquo;</td><td>A silent room that answers nothing</td><td>Being seen isn't the same as being explained.</td></tr>
+            <tr><td>Numbered floors, like levels</td><td>Named rooms, and a way to come back</td><td>The book is about returning, not leveling up.</td></tr>
+            <tr><td>Ending: &ldquo;the void, or Earth?&rdquo;</td><td>Ending: the kitchen</td><td>Your drafts end in the kitchen.</td></tr>
+            <tr><td>Manifesto: &ldquo;Wake up&rdquo;</td><td><a href="#came-from">Where it came from</a></td><td>The book makes no promises about outcomes.</td></tr>
+            <tr><td>&ldquo;Every tradition reaches the same summit&rdquo;</td><td>&ldquo;Others noticed this too; that's company, not proof&rdquo;</td><td>You chose traditions that agree, so agreement isn't evidence.</td></tr>
+            <tr><td>Research summaries that grade each study</td><td><a href="#readings">What they really said</a>, which grades the book</td><td>The thinkers' own words come before the drafts.</td></tr>
+            <tr><td>Odds on which theory is right</td><td><a href="#noticed">Who else noticed</a>, and whether on their own</td><td>The book doesn't rank ideas by how right they are.</td></tr>
+            <tr><td>A quiz: &ldquo;which theory are you?&rdquo;</td><td>Your own sentence, and who else noticed it</td><td>The reader decides who they are.</td></tr>
+            <tr><td>&ldquo;Place your bet&rdquo;</td><td>Yes, no, or rather not say, and nothing counted</td><td>The reader can say no.</td></tr>
+            <tr><td>Teachers ranked by output</td><td><a href="#company">The people</a>, with where each disagrees</td><td>Every thinker is quoted with their disagreement.</td></tr>
+            <tr><td>A guide that maps your path</td><td>&ldquo;Where are you right now?&rdquo; and who else stood there</td><td>The book helps; it doesn't steer.</td></tr>
+            <tr><td>&ldquo;Create with us&rdquo;</td><td><a href="#reply">Your reply</a>, which the reader keeps</td><td>Whatever changes in a reader, they did it.</td></tr>
+            <tr><td>Stories they want to fund</td><td>Chapters named and never written</td><td>Only you can write them.</td></tr>
+            <tr><td>Advisors who check the science</td><td>People who disagree with the book</td><td>Nobody endorses the book.</td></tr>
+            <tr><td>A sponsor, named on every story</td><td>Who the book owes</td><td>Each chapter names a person it owes.</td></tr>
+            <tr><td>&ldquo;What are we missing?&rdquo;</td><td>Questions the book can't answer for itself</td><td>Some things the book can't see from inside.</td></tr>
+            <tr><td>A newsletter on a schedule</td><td>The next letter, when there's something to say</td><td>A letter is written to one person.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="block">
+      <div class="head">
+        <h2>What this isn't</h2>
+      </div>
+      <div class="grid two">
+        <div class="card"><h3>It isn't a launch.</h3><p>Whether anything goes public is your decision. This is a way of seeing the book from a new angle.</p></div>
+        <div class="card"><h3>An AI made it.</h3><p>Your book's own rules warn against AI-written authorship. Treat this as a sketch to react to, not something to keep as is.</p></div>
+        <div class="card"><h3>Your personal material is here only because it's private.</h3><p>The poems, the 4am letter, and your reflections appear because only you can see this. Anywhere public, each is yours to place.</p></div>
+        <div class="card"><h3>The house is one shape the book could take.</h3><p>You haven't decided between a house and a more open, centerless form. Book I, the facilitator's book, may take a different shape again.</p></div>
+      </div>
+      <p class="note" style="margin-top:18px">A more detailed version of this sketch, with every source shown, is saved in your research folder as <i>prototypes/the book as a site (2026-11-12).html</i>.</p>
+    </section>
+  </div>
+</div>
+
+</main>
+<footer class="foot">
+  <div class="wrap">
+    <div>
+      <span class="label">Start</span>
+      <ul>
+        <li><a href="#start">What this is</a></li>
+        <li><a href="#house">The house</a></li>
+        <li><a href="#room-summit">The silent room</a></li>
+        <li><a href="#room-kitchen">The kitchen</a></li>
+      </ul>
+    </div>
+    <div>
+      <span class="label">Under the house</span>
+      <ul>
+        <li><a href="#readings">What they really said</a></li>
+        <li><a href="#noticed">Who else noticed</a></li>
+        <li><a href="#company">The people</a></li>
+      </ul>
+    </div>
+    <div>
+      <span class="label">The rest</span>
+      <ul>
+        <li><a href="#came-from">Where it came from</a></li>
+        <li><a href="#reply">Your reply</a></li>
+        <li><a href="#map">Side by side</a></li>
+      </ul>
+    </div>
+    <p class="colophon">A sketch built from your book research, to see the book from a new angle. Nothing typed here is saved or sent. Press &ldquo;Show sources&rdquo; to see where each line comes from.</p>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var ROUTES=['start','house','came-from','readings','noticed','company','reply','map'];
+  var views={};
+  document.querySelectorAll('.view').forEach(function(v){views[v.getAttribute('data-view')]=v;});
+  var navLinks=document.querySelectorAll('nav.doors a[data-route]');
+
+  function show(route,targetId){
+    Object.keys(views).forEach(function(k){views[k].classList.toggle('on',k===route);});
+    navLinks.forEach(function(a){
+      if(a.getAttribute('data-route')===route){a.setAttribute('aria-current','page');}else{a.removeAttribute('aria-current');}
+    });
+    if(route==='house'){requestAnimationFrame(drawThread);}
+    if(targetId){
+      var el=document.getElementById(targetId);
+      if(el){requestAnimationFrame(function(){el.scrollIntoView({block:'start'});});return;}
+    }
+    window.scrollTo(0,0);
+  }
+  function route(){
+    var h=(location.hash||'').replace(/^#/,'');
+    if(!h){show('start');return;}
+    if(ROUTES.indexOf(h)>=0){show(h);return;}
+    var el=document.getElementById(h);
+    if(el){var v=el.closest('.view');if(v){show(v.getAttribute('data-view'),h);return;}}
+    show('start');
+  }
+  window.addEventListener('hashchange',route);
+
+  /* show or hide sources */
+  var srcB=document.getElementById('src-toggle');
+  function setSrc(on){
+    document.documentElement.classList.toggle('show-sources',on);
+    srcB.setAttribute('aria-pressed',String(on));
+    srcB.textContent=on?'Hide sources':'Show sources';
+    try{localStorage.setItem('sources',on?'on':'off');}catch(e){}
+    if(views['house']&&views['house'].classList.contains('on')){requestAnimationFrame(drawThread);}
+  }
+  srcB.addEventListener('click',function(){setSrc(srcB.getAttribute('aria-pressed')!=='true');});
+  try{if(localStorage.getItem('sources')==='on'){setSrc(true);}}catch(e){}
+
+  /* floors: named, not numbered */
+  var roomIds=['room-here','room-word','room-pantry','room-chairs','room-orchard','room-summit','room-return','room-kitchen'];
+  var floorLinks={};
+  document.querySelectorAll('#floorlist a').forEach(function(a){floorLinks[a.getAttribute('data-room')]=a;});
+  var current='room-here';
+  function mark(id){current=id;Object.keys(floorLinks).forEach(function(k){floorLinks[k].classList.toggle('here',k===id);});}
+  if('IntersectionObserver' in window){
+    var io=new IntersectionObserver(function(entries){
+      entries.forEach(function(en){if(en.isIntersecting){mark(en.target.id);}});
+    },{rootMargin:'-40% 0px -55% 0px'});
+    roomIds.forEach(function(id){var el=document.getElementById(id);if(el){io.observe(el);}});
+  }
+  function go(id){var el=document.getElementById(id);if(el){el.scrollIntoView({block:'start'});mark(id);}}
+  document.getElementById('floor-down').addEventListener('click',function(){var i=roomIds.indexOf(current);go(roomIds[Math.min(roomIds.length-1,i+1)]);});
+  document.getElementById('floor-up').addEventListener('click',function(){var i=roomIds.indexOf(current);go(roomIds[Math.max(0,i-1)]);});
+  document.getElementById('floor-return').addEventListener('click',function(){go('room-return');});
+
+  /* the gold thread: one line down the margin of the house, broken once, at the summit */
+  function drawThread(){
+    var svg=document.getElementById('thread');var house=views['house'];
+    if(!svg||!house||!house.classList.contains('on')){return;}
+    var H=house.scrollHeight;svg.setAttribute('viewBox','0 0 56 '+H);svg.setAttribute('height',H);
+    var summit=document.getElementById('room-summit');
+    var hr=house.getBoundingClientRect(),sr=summit.getBoundingClientRect();
+    var s0=sr.top-hr.top,s1=s0+sr.height;
+    function seg(a,b){
+      var d='M28,'+a.toFixed(1),y=a,step=140,k=0;
+      while(y<b){var ny=Math.min(b,y+step);var cx=28+(k%2?13:-13);d+=' Q'+cx+','+((y+ny)/2).toFixed(1)+' 28,'+ny.toFixed(1);y=ny;k++;}
+      return d;
+    }
+    var start=260,end=H-40;
+    svg.innerHTML='<path d="'+seg(start,s0-30)+'" fill="none" stroke="var(--thread)" stroke-width="1.4" stroke-linecap="round"/>'+
+                  '<path d="'+seg(s1+30,end)+'" fill="none" stroke="var(--thread)" stroke-width="1.4" stroke-linecap="round"/>';
+  }
+  window.addEventListener('resize',function(){requestAnimationFrame(drawThread);});
+  if(document.fonts&&document.fonts.ready){document.fonts.ready.then(drawThread);}
+
+  /* one sentence, and its company: the reader chooses; nothing is matched or kept */
+  var shown=document.getElementById('finding-shown');
+  document.querySelectorAll('#finding-picker [data-f]').forEach(function(b){
+    b.addEventListener('click',function(){
+      document.querySelectorAll('#finding-picker [data-f]').forEach(function(x){x.classList.remove('turned');});
+      b.classList.add('turned');
+      var src=document.getElementById(b.getAttribute('data-f'));
+      if(src){shown.innerHTML=src.innerHTML;}
+    });
+  });
+  document.querySelectorAll('button.bet').forEach(function(b){
+    b.addEventListener('click',function(){document.getElementById('bet-note').textContent='Kept to yourself. Nothing was counted or sent.';});
+  });
+
+  /* reply: kept by the reader, dated, never stored */
+  var ta=document.getElementById('reply-sentence'),out=document.getElementById('reply-out'),copyB=document.getElementById('reply-copy');
+  var MONTHS=['January','February','March','April','May','June','July','August','September','October','November','December'];
+  document.getElementById('reply-keep').addEventListener('click',function(){
+    var t=(ta.value||'').trim()||'Nothing came.';
+    var d=new Date();var ds=d.getDate()+' '+MONTHS[d.getMonth()]+' '+d.getFullYear();
+    document.getElementById('reply-date').textContent=ds;
+    document.getElementById('reply-text').textContent=t;
+    out.classList.add('on');copyB.hidden=false;
+  });
+  copyB.addEventListener('click',function(){
+    var txt=document.getElementById('reply-date').textContent+'\n'+document.getElementById('reply-text').textContent;
+    function sel(){var r=document.createRange();r.selectNodeContents(out);var s=window.getSelection();s.removeAllRanges();s.addRange(r);}
+    try{navigator.clipboard.writeText(txt).then(function(){copyB.textContent='Copied';},sel);}catch(e){sel();}
+  });
+
+  route();
+})();
+</script>
+</body>
+</html>

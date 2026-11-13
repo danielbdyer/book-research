@@ -21,3 +21,6 @@ ops/sessions/
 
 # stray Windows crash dumps
 *.stackdump
+
+# Python bytecode caches written when the reply-check hook imports the lexicon module
+__pycache__/
